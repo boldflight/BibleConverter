@@ -1,0 +1,88 @@
+@font-face {
+    font-family: "Galatia SIL";
+    src: url('GalSILR.ttf');
+}
+
+@font-face {
+	font-family: "Ezra SIL";
+	src: url('SILEOT.ttf');
+}
+
+@font-face {
+    font-family: "Charis SIL";
+    src: url('CharisSILI.ttf');
+}
+
+@font-face {
+    font-family: "Galaxie Gothic";
+    src: url('GalaxieGothic.ttf');
+}
+
+@font-face {
+    font-family: "Greek Uncials";
+    src: url('Uncials.ttf');
+}
+
+.body {}
+
+h1 { font-size:120%; font-weight:bold; text-align:center; margin-left:0pt; margin-right:0pt; margin-bottom:6pt; margin-top:6pt;}
+h2 { font-size:110%; font-weight:bold; text-align:center; margin-left:0pt; margin-right:0pt; margin-bottom:6pt; margin-top:6pt;}
+h3 { font-weight:bold; text-align:left; margin-left:0pt; margin-right:0pt; margin-bottom:6pt; margin-top:12pt;}
+h4 { font-style:italic; text-align:left; margin-left:0pt; margin-right:0pt; margin-bottom:6pt; margin-top:6pt;}
+h5 { font-style:italic; text-align:left; margin-left:18pt; margin-right:0pt; margin-bottom:6pt; margin-top:6pt;}
+h6 { font-style:italic; text-align:left; margin-left:18pt; margin-right:0pt; margin-bottom:6pt; margin-top:6pt;}
+h7 { font-style:italic; text-align:left; margin-left:18pt; margin-right:0pt; margin-bottom:6pt; margin-top:6pt;}
+h8 { font-style:italic; text-align:left; margin-left:18pt; margin-right:0pt; margin-bottom:6pt; margin-top:6pt;}
+p { margin-left:0pt; margin-right:0pt; text-indent:18pt; margin-bottom:3pt;}
+
+.greek { font-family:"Galatia SIL"; }
+.hebrew { font-family:"Ezra SIL"; }
+.translit { font-family:"Charis SIL"; font-style:italic; }
+.apparatus { font-family:"Galaxie Gothic";}
+.uncial { font-family:"Greek Uncials";}
+.smcaps { font-variant:small-caps;}
+
+.loebpara { font-size:xx-small; vertical-align:super;}
+.pageheader { font-size:10pt; color:gray; text-align:right; margin-top:6pt; margin-bottom:6pt; border-top:.5pt solid gray; margin-left:0pt; margin-right:0pt;}
+.title { font-size:120%; font-weight:bold; text-align:center; margin-left:18pt; margin-right:18pt; margin-top:36pt; margin-bottom:9pt; border-top:thin;}
+.author { font-size:14pt; font-weight:bold; margin-left:0pt; margin-right:0pt; margin-top:3pt; margin-bottom:12pt; text-align:center;}
+.subtitle { font-weight:bold; text-align:center; margin-left:0pt; margin-right:0pt; margin-top:6pt; margin-bottom:6pt;}
+.sectionheading { font-weight:bold; text-align:center; margin-left:0pt; margin-right:0pt; margin-top:12pt; margin-bottom:6pt;}
+.paragraphtitle { font-style:italic; text-align:left; margin-left:0pt; margin-right:0pt; margin-bottom:6pt; margin-top:12pt;}
+.paragraphtitlepref { font-weight:bold; text-align:left; margin-left:0pt; margin-right:0pt; margin-bottom:6pt; margin-top:12pt;}
+.lamhebrew { font-weight:bold; text-align:left; margin-left:0pt; margin-right:0pt; margin-top:6pt; margin-bottom:6pt;}
+.expo { font-weight:bold; text-align:left; margin-left:0pt; margin-right:0pt; margin-top:3pt; margin-bottom:6pt;}
+.caption { font-weight:bold; text-align:center; margin-left:0pt; margin-right:0pt; margin-top:3pt; margin-bottom:6pt;}
+.quote { margin-left:18pt; margin-right:18pt; margin-bottom:6pt;}
+.psasuper { margin-left:18pt; margin-right:18pt; margin-bottom:6pt; font-style:italic;}
+.callout { margin-left:18pt; margin-right:18pt; margin-bottom:12pt; margin-top:12pt; text-align: justify;}
+.editor { margin-left:18pt; margin-right:18pt; margin-bottom:6pt;}
+.scripture { margin-left:18pt; margin-right:54pt; margin-bottom:6pt;}
+.bodytext { margin-left:0pt; margin-right:0pt; text-indent:18pt; margin-bottom:3pt;}
+.bodyblock { margin-left:0pt; margin-right:0pt; margin-bottom:3pt;}
+.bibliography { margin-left:18pt; text-indent:-18pt; margin-right:0pt; margin-top:3pt;}
+.list { margin-left:18pt; text-indent:-18pt; margin-right:0pt; margin-bottom:3pt;}
+.list2 { margin-left:36pt; text-indent:-18pt; margin-right:0pt; margin-bottom:3pt;}
+.listbullet { margin-left:36pt; text-indent:-18pt; tab-stops:left/36pt; margin-right:0pt;}
+.listnumber { margin-left:36pt; text-indent:-18pt; tab-stops:left/36pt; margin-right:0pt;}
+.listcontinue { margin-left:36pt; margin-right:0pt;}
+.rightalign { text-align:right; margin-left:0pt; margin-right:0pt; margin-bottom:6pt; margin-top:3pt;}
+.center { text-align:center; margin-left:0pt; margin-right:0pt; margin-bottom:3pt;}
+.table { text-align:left; font-size:90%;margin-left:0pt; margin-right:0pt; margin-top:0pt; margin-bottom:0pt;}
+.tablec { text-align:center; font-size:90%;margin-left:0pt; margin-right:0pt; margin-top:0pt; margin-bottom:0pt;}
+.tabler { text-align:right; font-size:90%;margin-left:0pt; margin-right:0pt; margin-top:0pt; margin-bottom:0pt;}
+.hanga { margin-left:18pt; text-indent:-18pt; margin-right:0pt; margin-top:3pt;}
+.hangb { margin-left:36pt; text-indent:-18pt; margin-right:0pt; margin-top:3pt;}
+.hangc { margin-left:54pt; text-indent:-18pt; margin-right:0pt; margin-top:3pt;}
+.hangd { margin-left:72pt; text-indent:-18pt; margin-right:0pt; margin-top:3pt;}
+.bibliography { margin-left:18pt; text-indent:-18pt; margin-right:0pt; margin-bottom:6pt; margin-top:12pt;}
+table { border-collapse:collapse; margin: 0 0 0 0; horizontal-align:center;  }
+td { padding:4px; border:1px solid black; margin:0 0 0 0;}
+td.chap {border:0; padding: 1px; margin:0 0 0 0;}
+.chapnum {text-align:center; margin-left:0pt; margin-right:0pt; margin-top:0pt; margin-bottom:3pt; }
+.psbooknum {font-weight:bold; text-align:center; margin-left:0pt; margin-right:0pt; margin-top:3pt; margin-bottom:6pt}
+.psalmheader {font-weight:bold; text-align:center; margin-left:0pt; margin-right:0pt; margin-top:3pt; margin-bottom:6pt}
+.poetry {margin-left:18pt; margin-right:18pt; margin-top:3pt; margin-bottom:3pt}
+.otpoetry {margin-left:18pt; margin-right:18pt; margin-top:3pt; margin-bottom:3pt}
+.pagebreak {page-break-before: always; text-align:center; margin-left:0pt; margin-right:0pt; margin-bottom:3pt;}
+

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="NET21NOTELESS"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+    <docTitle>
+    <text>NET Bible 2.1 (noteless)</text>
+  </docTitle>
+  <navMap>
+
+	<navPoint id="file1" playOrder="1">
+		<navLabel>
+			<text>Genesis</text>
+		</navLabel>
+		<content src="file1.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file52" playOrder="2">
+		<navLabel>
+			<text>Exodus</text>
+		</navLabel>
+		<content src="file52.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file93" playOrder="3">
+		<navLabel>
+			<text>Leviticus</text>
+		</navLabel>
+		<content src="file93.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file121" playOrder="4">
+		<navLabel>
+			<text>Numbers</text>
+		</navLabel>
+		<content src="file121.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file158" playOrder="5">
+		<navLabel>
+			<text>Deuteronomy</text>
+		</navLabel>
+		<content src="file158.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file193" playOrder="6">
+		<navLabel>
+			<text>Joshua</text>
+		</navLabel>
+		<content src="file193.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file218" playOrder="7">
+		<navLabel>
+			<text>Judges</text>
+		</navLabel>
+		<content src="file218.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file240" playOrder="8">
+		<navLabel>
+			<text>Ruth</text>
+		</navLabel>
+		<content src="file240.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file245" playOrder="9">
+		<navLabel>
+			<text>1 Samuel</text>
+		</navLabel>
+		<content src="file245.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file277" playOrder="10">
+		<navLabel>
+			<text>2 Samuel</text>
+		</navLabel>
+		<content src="file277.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file302" playOrder="11">
+		<navLabel>
+			<text>1 Kings</text>
+		</navLabel>
+		<content src="file302.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file325" playOrder="12">
+		<navLabel>
+			<text>2 Kings</text>
+		</navLabel>
+		<content src="file325.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file351" playOrder="13">
+		<navLabel>
+			<text>1 Chronicles</text>
+		</navLabel>
+		<content src="file351.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file381" playOrder="14">
+		<navLabel>
+			<text>2 Chronicles</text>
+		</navLabel>
+		<content src="file381.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file418" playOrder="15">
+		<navLabel>
+			<text>Ezra</text>
+		</navLabel>
+		<content src="file418.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file429" playOrder="16">
+		<navLabel>
+			<text>Nehemiah</text>
+		</navLabel>
+		<content src="file429.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file443" playOrder="17">
+		<navLabel>
+			<text>Esther</text>
+		</navLabel>
+		<content src="file443.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file454" playOrder="18">
+		<navLabel>
+			<text>Job</text>
+		</navLabel>
+		<content src="file454.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file497" playOrder="19">
+		<navLabel>
+			<text>Psalms</text>
+		</navLabel>
+		<content src="file497.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file648" playOrder="20">
+		<navLabel>
+			<text>Proverbs</text>
+		</navLabel>
+		<content src="file648.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file680" playOrder="21">
+		<navLabel>
+			<text>Ecclesiastes</text>
+		</navLabel>
+		<content src="file680.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file693" playOrder="22">
+		<navLabel>
+			<text>Song of Solomon</text>
+		</navLabel>
+		<content src="file693.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file702" playOrder="23">
+		<navLabel>
+			<text>Isaiah</text>
+		</navLabel>
+		<content src="file702.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file769" playOrder="24">
+		<navLabel>
+			<text>Jeremiah</text>
+		</navLabel>
+		<content src="file769.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file822" playOrder="25">
+		<navLabel>
+			<text>Lamentations</text>
+		</navLabel>
+		<content src="file822.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file828" playOrder="26">
+		<navLabel>
+			<text>Ezekiel</text>
+		</navLabel>
+		<content src="file828.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file877" playOrder="27">
+		<navLabel>
+			<text>Daniel</text>
+		</navLabel>
+		<content src="file877.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file890" playOrder="28">
+		<navLabel>
+			<text>Hosea</text>
+		</navLabel>
+		<content src="file890.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file905" playOrder="29">
+		<navLabel>
+			<text>Joel</text>
+		</navLabel>
+		<content src="file905.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file909" playOrder="30">
+		<navLabel>
+			<text>Amos</text>
+		</navLabel>
+		<content src="file909.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file919" playOrder="31">
+		<navLabel>
+			<text>Obadiah</text>
+		</navLabel>
+		<content src="file919.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file921" playOrder="32">
+		<navLabel>
+			<text>Jonah</text>
+		</navLabel>
+		<content src="file921.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file926" playOrder="33">
+		<navLabel>
+			<text>Micah</text>
+		</navLabel>
+		<content src="file926.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file934" playOrder="34">
+		<navLabel>
+			<text>Nahum</text>
+		</navLabel>
+		<content src="file934.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file938" playOrder="35">
+		<navLabel>
+			<text>Habakkuk</text>
+		</navLabel>
+		<content src="file938.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file942" playOrder="36">
+		<navLabel>
+			<text>Zephaniah</text>
+		</navLabel>
+		<content src="file942.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file946" playOrder="37">
+		<navLabel>
+			<text>Haggai</text>
+		</navLabel>
+		<content src="file946.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file949" playOrder="38">
+		<navLabel>
+			<text>Zechariah</text>
+		</navLabel>
+		<content src="file949.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file964" playOrder="39">
+		<navLabel>
+			<text>Malachi</text>
+		</navLabel>
+		<content src="file964.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file969" playOrder="40">
+		<navLabel>
+			<text>Matthew</text>
+		</navLabel>
+		<content src="file969.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file998" playOrder="41">
+		<navLabel>
+			<text>Mark</text>
+		</navLabel>
+		<content src="file998.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1015" playOrder="42">
+		<navLabel>
+			<text>Luke</text>
+		</navLabel>
+		<content src="file1015.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1040" playOrder="43">
+		<navLabel>
+			<text>John</text>
+		</navLabel>
+		<content src="file1040.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1062" playOrder="44">
+		<navLabel>
+			<text>Acts</text>
+		</navLabel>
+		<content src="file1062.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1091" playOrder="45">
+		<navLabel>
+			<text>Romans</text>
+		</navLabel>
+		<content src="file1091.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1108" playOrder="46">
+		<navLabel>
+			<text>1 Corinthians</text>
+		</navLabel>
+		<content src="file1108.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1125" playOrder="47">
+		<navLabel>
+			<text>2 Corinthians</text>
+		</navLabel>
+		<content src="file1125.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1139" playOrder="48">
+		<navLabel>
+			<text>Galatians</text>
+		</navLabel>
+		<content src="file1139.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1146" playOrder="49">
+		<navLabel>
+			<text>Ephesians</text>
+		</navLabel>
+		<content src="file1146.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1153" playOrder="50">
+		<navLabel>
+			<text>Philippians</text>
+		</navLabel>
+		<content src="file1153.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1158" playOrder="51">
+		<navLabel>
+			<text>Colossians</text>
+		</navLabel>
+		<content src="file1158.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1163" playOrder="52">
+		<navLabel>
+			<text>1 Thessalonians</text>
+		</navLabel>
+		<content src="file1163.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1169" playOrder="53">
+		<navLabel>
+			<text>2 Thessalonians</text>
+		</navLabel>
+		<content src="file1169.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1173" playOrder="54">
+		<navLabel>
+			<text>1 Timothy</text>
+		</navLabel>
+		<content src="file1173.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1180" playOrder="55">
+		<navLabel>
+			<text>2 Timothy</text>
+		</navLabel>
+		<content src="file1180.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1185" playOrder="56">
+		<navLabel>
+			<text>Titus</text>
+		</navLabel>
+		<content src="file1185.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1189" playOrder="57">
+		<navLabel>
+			<text>Philemon</text>
+		</navLabel>
+		<content src="file1189.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1191" playOrder="58">
+		<navLabel>
+			<text>Hebrews</text>
+		</navLabel>
+		<content src="file1191.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1205" playOrder="59">
+		<navLabel>
+			<text>James</text>
+		</navLabel>
+		<content src="file1205.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1211" playOrder="60">
+		<navLabel>
+			<text>1 Peter</text>
+		</navLabel>
+		<content src="file1211.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1217" playOrder="61">
+		<navLabel>
+			<text>2 Peter</text>
+		</navLabel>
+		<content src="file1217.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1221" playOrder="62">
+		<navLabel>
+			<text>1 John</text>
+		</navLabel>
+		<content src="file1221.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1227" playOrder="63">
+		<navLabel>
+			<text>2 John</text>
+		</navLabel>
+		<content src="file1227.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1229" playOrder="64">
+		<navLabel>
+			<text>3 John</text>
+		</navLabel>
+		<content src="file1229.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1231" playOrder="65">
+		<navLabel>
+			<text>Jude</text>
+		</navLabel>
+		<content src="file1231.xhtml"/>
+	</navPoint>
+
+	<navPoint id="file1233" playOrder="66">
+		<navLabel>
+			<text>Revelation</text>
+		</navLabel>
+		<content src="file1233.xhtml"/>
+	</navPoint>
+  </navMap>
+</ncx>

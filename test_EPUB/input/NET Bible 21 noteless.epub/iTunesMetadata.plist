@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>11304960</integer>
+	<key>BKDisplayName</key>
+	<string>NET21NOTELESS</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>738472916</integer>
+	<key>artistName</key>
+	<string>Biblical Studies Press</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>3CC22010FC038701DA4D1AEC1FF3F96F</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>AB2B36DFB463EDD163AD48217C00F86D</string>
+		<key>publisher-unique-id</key>
+		<string>urn:uuid:NET21NOTELESS</string>
+		<key>unique-id</key>
+		<integer>-6552478223843658924</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>NET Bible 2.1 (noteless)</string>
+	<key>updateDate</key>
+	<date>2024-05-27T03:21:56Z</date>
+</dict>
+</plist>

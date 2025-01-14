@@ -38,66 +38,52 @@ struct BibleConverter: ParsableCommand {
     
     func convertToMarkdown(_ xmlString: String) throws -> String {
         var markdown = ""
-        var poetryText = ""
         var regularVerses = [String]()
-        var currentVerseNumber = 0
         
         do {
             let document = try SwiftSoup.parse(xmlString)
             
-            // Extract book name from title, assuming "NET Bible" format
-            if let title = try document.select("title").first()?.text() {
-                let components = title.components(separatedBy: " ")
-                if let bookName = components.dropLast(2).last {
-                    markdown += "# \(bookName)\n\n"
-                }
-            }
-            
-            // Handle chapter headings
+            // Extract book name and chapter from h1
             if let h1 = try document.select("h1").first() {
-                let chapterTitle = try h1.text()
-                let chapterNumber = chapterTitle.components(separatedBy: "Chapter ").last ?? ""
-                markdown += "## Chapter \(chapterNumber)\n\n"
+                let bookName = try h1.text().components(separatedBy: "Chapter")[0].trimmingCharacters(in: .whitespacesAndNewlines)
+                let chapterNumber = try h1.text().components(separatedBy: "Chapter")[1].trimmingCharacters(in: .whitespacesAndNewlines)
+                markdown += "# \(bookName)\n\n"
+                markdown += "## Chapter \(chapterNumber) <!-- scripture:\(chapterNumber) -->\n\n"
             }
             
-            // Handle section titles
-            for h3 in try document.select("p.paragraphtitle") {
-                markdown += "### \(try h3.text())\n\n"
+            // Handle section titles once
+            if let title = try document.select("p.paragraphtitle").first() {
+                markdown += "### \(try title.text())\n\n"
             }
             
-            // Parse paragraphs for verses, including poetry
-            for p in try document.select("p") {
+            // Parse paragraphs for verses
+            for p in try document.select("p.bodytext, p.poetry") {
                 let className = try p.className()
-                var verseContent = try p.text()
-                let regex = /(\d+:\d+)\s(.+)/
+                let verseContent = try p.text()
                 
-                if let match = verseContent.firstMatch(of: regex) {
-                    let thisVerseNumber = Int(match.1.split(separator: ":")[1]) ?? 0
-                    if thisVerseNumber < currentVerseNumber {
-                        // This means we've moved to poetry or another block after the main text
-                        poetryText += "> [\(match.1)] \(match.2)\n\n"
-                    } else {
-                        currentVerseNumber = thisVerseNumber
-                        verseContent = verseContent.replacingOccurrences(of: "\(match.1) \(match.2)", with: "[\(match.1)] \(match.2)")
-                        regularVerses.append(verseContent)
+                if className == "poetry" {
+                    // Get all text nodes after verse span
+                    if let verse = try p.select("span.verse").first() {
+                        let verseNumber = try verse.text().split(separator: ":")[1]
+                        let verseLine = verse.parent()?.textNodes().map { $0.text().trimmingCharacters(in: .whitespaces) }.joined()
+                        regularVerses.append("[\(verseNumber)] \(verseLine ?? "")\n")
+                    }
+                    // Add subsequent poetry lines without verse numbers
+                    let additionalLines = p.textNodes().map { $0.text().trimmingCharacters(in: .whitespaces) }
+                    for line in additionalLines where !line.isEmpty {
+                        regularVerses.append(line + "\n")
+                    }
+                } else {
+                    let regex = /(\d+:\d+)\s(.+?)(?=\d+:\d+|\n|$)/
+                    let matches = verseContent.matches(of: regex)
+                    for match in matches {
+                        let verseNumber = match.1.split(separator: ":")[1]
+                        regularVerses.append("[\(verseNumber)] \(match.2)\n")
                     }
                 }
             }
             
-            // Combine verses in order, inserting poetry where it belongs
-            var combinedVerses: [String] = []
-            var poetryInserted = false
-            
-            for verse in regularVerses {
-                if !poetryInserted && verse.contains("1:27") {
-                    combinedVerses.append(poetryText)
-                    poetryInserted = true
-                }
-                combinedVerses.append(verse)
-            }
-            
-            // Append all verses to markdown
-            markdown += combinedVerses.joined(separator: "\n\n")
+            markdown += regularVerses.joined()
             
         } catch {
             print("Error parsing XML: \(error)")

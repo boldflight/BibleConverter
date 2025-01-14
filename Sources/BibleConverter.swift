@@ -13,11 +13,7 @@ struct BibleConverter: ParsableCommand {
     
     @Argument(help: "Output directory for markdown files")
     var outputPath: String
-    
-    static let chapterFormat = "## Chapter %@ <!-- scripture:%@ -->"
-    static let verseFormat = "[%@] %@"
-    static let sectionFormat = "### %@"
-    
+        
     mutating func run() throws {
         let fileManager = FileManager.default
         let enumerator = fileManager.enumerator(atPath: inputPath)

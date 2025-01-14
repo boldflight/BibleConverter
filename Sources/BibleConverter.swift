@@ -1,7 +1,6 @@
 import Foundation
 import ArgumentParser
 import SwiftSoup
-import ZIPFoundation
 
 struct BibleConverter: ParsableCommand {
     static let configuration = CommandConfiguration(
@@ -9,33 +8,24 @@ struct BibleConverter: ParsableCommand {
         abstract: "Convert Bible EPUB to Markdown files"
     )
     
-    @Argument(help: "Path to the EPUB file")
+    @Argument(help: "Path to the EPUB file/package (Example: input/bible.epub)")
     var epubPath: String
     
     @Argument(help: "Output directory for markdown files")
     var outputPath: String
     
     mutating func run() throws {
-        let fileManager = FileManager.default
-        let tempDir = fileManager.temporaryDirectory.appendingPathComponent(UUID().uuidString)
+        try validateEPUB(at: epubPath)
         
-        // Create temp directory
-        try fileManager.createDirectory(at: tempDir, withIntermediateDirectories: true)
-        defer { try? fileManager.removeItem(at: tempDir) }
+        let epubURL = URL(fileURLWithPath: epubPath)
         
-        // Unzip EPUB
-        try fileManager.unzipItem(at: URL(fileURLWithPath: epubPath), to: tempDir)
-        
-        // Parse OPF file
-        let opfURL = try findOPFFile(in: tempDir)
+        let opfURL = try findOPFFile(in: epubURL)
         let opfData = try Data(contentsOf: opfURL)
         let opfDoc = try XMLDocument(data: opfData)
         
-        // Extract spine and manifest items
         let spineItems = try parseSpineItems(from: opfDoc)
         let manifestItems = try parseManifestItems(from: opfDoc)
         
-        // Process files in order
         var currentBook: String?
         var currentMarkdown = ""
         
@@ -45,7 +35,13 @@ struct BibleConverter: ParsableCommand {
                   let href = item.attribute(forName: "href")?.stringValue,
                   href.hasSuffix(".xhtml") else { continue }
             
-            let fileURL = tempDir.appendingPathComponent(href)
+            let fileURL = epubURL.appendingPathComponent("OEBPS").appendingPathComponent(href)
+            
+            guard FileManager.default.fileExists(atPath: fileURL.path) else {
+                print("Warning: Skipping missing file: \(href)")
+                continue
+            }
+            
             let encoding = try detectEncoding(from: fileURL)
             let content = try String(contentsOf: fileURL, encoding: encoding)
             
@@ -53,11 +49,9 @@ struct BibleConverter: ParsableCommand {
             
             if let book = bookName {
                 if book != currentBook {
-                    // Save previous book if exists
                     if let current = currentBook {
                         try saveBook(current, markdown: currentMarkdown, to: outputPath)
                     }
-                    // Start new book
                     currentBook = book
                     currentMarkdown = markdown
                 } else {
@@ -66,9 +60,50 @@ struct BibleConverter: ParsableCommand {
             }
         }
         
-        // Save last book
         if let current = currentBook {
             try saveBook(current, markdown: currentMarkdown, to: outputPath)
+        }
+    }
+    
+    private mutating func validateEPUB(at path: String) throws {
+        let currentDirectory = FileManager.default.currentDirectoryPath
+        print("Current working directory: \(currentDirectory)")
+        
+        let absolutePath: String
+        if path.hasPrefix("/") {
+            absolutePath = path
+        } else {
+            absolutePath = (currentDirectory as NSString).appendingPathComponent(path)
+        }
+        print("Absolute path: \(absolutePath)")
+        
+        guard FileManager.default.fileExists(atPath: absolutePath) else {
+            print("File not found at path: \(absolutePath)")
+            throw ConversionError.fileNotFound
+        }
+        
+        guard absolutePath.lowercased().hasSuffix(".epub") else {
+            print("Error: File must have .epub extension")
+            throw ConversionError.invalidFileType
+        }
+        
+        do {
+            let attributes = try FileManager.default.attributesOfItem(atPath: absolutePath)
+            if let fileSize = attributes[.size] as? UInt64 {
+                print("File size: \(fileSize) bytes")
+                if fileSize < 22 {
+                    throw ConversionError.invalidFileSize
+                }
+            } else {
+                print("Could not read file size from attributes")
+                throw ConversionError.unableToReadFile
+            }
+            
+            self.epubPath = absolutePath
+            
+        } catch {
+            print("Error reading file attributes: \(error)")
+            throw ConversionError.unableToReadFile
         }
     }
     
@@ -88,8 +123,8 @@ struct BibleConverter: ParsableCommand {
         return .utf8
     }
     
-    private func findOPFFile(in directory: URL) throws -> URL {
-        let containerURL = directory.appendingPathComponent("META-INF/container.xml")
+    private func findOPFFile(in epubURL: URL) throws -> URL {
+        let containerURL = epubURL.appendingPathComponent("META-INF/container.xml")
         let containerData = try Data(contentsOf: containerURL)
         let containerDoc = try XMLDocument(data: containerData)
         
@@ -97,7 +132,7 @@ struct BibleConverter: ParsableCommand {
             throw ConversionError.opfNotFound
         }
         
-        return directory.appendingPathComponent(opfPath)
+        return epubURL.appendingPathComponent(opfPath)
     }
     
     private func parseSpineItems(from doc: XMLDocument) throws -> [XMLElement] {
@@ -127,7 +162,6 @@ struct BibleConverter: ParsableCommand {
         do {
             let document = try SwiftSoup.parse(xmlString)
             
-            // Extract book name and chapter from h1
             if let h1 = try document.select("h1").first() {
                 bookName = try h1.text().components(separatedBy: "Chapter")[0].trimmingCharacters(in: .whitespacesAndNewlines)
                 let chapterNumber = try h1.text().components(separatedBy: "Chapter")[1].trimmingCharacters(in: .whitespacesAndNewlines)
@@ -135,24 +169,20 @@ struct BibleConverter: ParsableCommand {
                 markdown += "## Chapter \(chapterNumber) <!-- scripture:\(chapterNumber) -->\n\n"
             }
             
-            // Handle section titles once
             if let title = try document.select("p.paragraphtitle").first() {
                 markdown += "### \(try title.text())\n\n"
             }
             
-            // Parse paragraphs for verses
             for p in try document.select("p.bodytext, p.poetry") {
                 let className = try p.className()
                 let verseContent = try p.text()
                 
                 if className == "poetry" {
-                    // Get all text nodes after verse span
                     if let verse = try p.select("span.verse").first() {
                         let verseNumber = try verse.text().split(separator: ":")[1]
                         let verseLine = verse.parent()?.textNodes().map { $0.text().trimmingCharacters(in: .whitespaces) }.joined()
                         regularVerses.append("[\(verseNumber)] \(verseLine ?? "")\n")
                     }
-                    // Add subsequent poetry lines without verse numbers
                     let additionalLines = p.textNodes().map { $0.text().trimmingCharacters(in: .whitespaces) }
                     for line in additionalLines where !line.isEmpty {
                         regularVerses.append(line + "\n")
@@ -180,4 +210,10 @@ struct BibleConverter: ParsableCommand {
 
 enum ConversionError: Error {
     case opfNotFound
+    case fileNotFound
+    case unableToReadFile
+    case invalidFileSize
+    case invalidPath
+    case invalidFileType
+    case epubExtractionFailed(Error)
 }

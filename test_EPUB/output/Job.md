@@ -1,0 +1,3528 @@
+# Job
+
+## Chapter 1 <!-- scripture:1 -->
+
+### I. The Prologue (1:1—2:13)
+
+[1] There was a man in the land of Uz whose name was Job. And that man was blameless and upright, one who feared God and turned away from evil. 
+[2] Seven sons and three daughters were born to him. 
+[3] His possessions included 7,000 sheep, 3,000 camels, 500 yoke of oxen, and 500 female donkeys; in addition he had a very great household. Thus he was the greatest of all the people in the east.
+[4] Now his sons used to go and hold a feast in the house of each one in turn, and they would send and invite their three sisters to eat and to drink with them. 
+[5] When the days of their feasting were finished, Job would send for them and sanctify them; he would get up early in the morning and offer burnt offerings according to the number of them all. For Job thought, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s customary practice.
+[6] Now the day came when the sons of God came to present themselves before the Lord—and Satan also arrived among them. 
+[7] The Lord said to Satan, “Where have you come from?” And Satan answered the Lord, “From roving about on the earth, and from walking back and forth across it.” 
+[8] So the Lord said to Satan, “Have you considered my servant Job? There is no one like him on the earth, a blameless and upright man, one who fears God and turns away from evil.”
+[9] Then Satan answered the Lord, “Is it for nothing that Job fears God? 
+[10] Have you not made a hedge around him and his household and all that he has on every side? You have blessed the work of his hands, and his livestock have increased in the land. 
+[11] But extend your hand and strike everything he has, and he will no doubt curse you to your face!”
+[12] So the Lord said to Satan, “All right then, everything he has is in your power. Only do not extend your hand against the man himself!” So Satan went out from the presence of the Lord.
+[13] Now the day came when Job’s sons and daughters were eating and drinking wine in their oldest brother’s house, 
+[14] and a messenger came to Job, saying, “The oxen were plowing and the donkeys were grazing beside them, 
+[15] and the Sabeans swooped down and carried them all away, and they killed the servants with the sword! And I—only I alone —escaped to tell you!”
+[16] While this one was still speaking, another messenger arrived and said, “The fire of God has fallen from heaven and has burned up the sheep and the servants—it has consumed them! And I—only I alone—escaped to tell you!”
+[17] While this one was still speaking another messenger arrived and said, “The Chaldeans formed three bands and made a raid on the camels and carried them all away, and they killed the servants with the sword! And I—only I alone—escaped to tell you!”
+[18] While this one was still speaking another messenger arrived and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house, 
+[19] and suddenly a great wind swept across the wilderness and struck the four corners of the house, and it fell on the young people, and they died! And I—only I alone—escaped to tell you!”
+[20] Then Job got up and tore his robe. He shaved his head, and then he threw himself down with his face to the ground. 
+[21] He said, “Naked I came from my mother’s womb, and naked I will return there. The Lord gives, and the Lord takes away. May the name of the Lord be blessed!” 
+[22] In all this Job did not sin, nor did he charge God with moral impropriety.
+# Job
+
+## Chapter 2 <!-- scripture:2 -->
+
+### Satan’s Additional Charge
+
+[1] Again the day came when the sons of God came to present themselves before the Lord, and Satan also arrived among them to present himself before the Lord. 
+[2] And the Lord said to Satan, “Where have you come from?” Satan answered the Lord, “From roving about on the earth, and from walking back and forth across it.” 
+[3] Then the Lord said to Satan, “Have you considered my servant Job? For there is no one like him on the earth, a pure and upright man, one who fears God and turns away from evil. And he still holds firmly to his integrity, so that you stirred me up to destroy him without reason.”
+[4] But Satan answered the Lord, “Skin for skin! Indeed, a man will give up all that he has to save his life. 
+[5] But extend your hand and strike his bone and his flesh, and he will no doubt curse you to your face!”
+[6] So the Lord said to Satan, “All right, he is in your power; only preserve his life.”
+[7] So Satan went out from the presence of the Lord, and he afflicted Job with a malignant ulcer from the soles of his feet to the top of his head. 
+[8] Job took a shard of broken pottery to scrape himself with while he was sitting among the ashes.
+[9] Then his wife said to him, “Are you still holding firmly to your integrity? Curse God, and die!” 
+[10] But he replied, “You’re talking like one of the godless women would do! Should we receive what is good from God, and not also receive what is evil?” In all this Job did not sin by what he said.
+[11] When Job’s three friends heard about all this calamity that had happened to him, each of them came from his own country —Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite. They met together to come to show sympathy for him and to console him. 
+[12] But when they gazed intently from a distance but did not recognize him, they began to weep loudly. Each of them tore his robes, and they threw dust into the air over their heads. 
+[13] Then they sat down with him on the ground for seven days and seven nights, yet no one spoke a word to him, for they saw that his pain was very great.
+# Job
+
+## Chapter 3 <!-- scripture:3 -->
+
+### II. Job’s Dialogue With His Friends (3:1—27:23)
+
+[1] After this Job opened his mouth and cursed the day he was born. 
+[2] Job spoke up and said:
+[3] “Let the day on which I was born perish,
+“Let the day on which I was born perish,
+and the night that said,
+‘A man has been conceived!’
+[4] That day —let it be darkness;
+That day —let it be darkness;
+let not God on high regard it,
+nor let light shine on it!
+[5] Let darkness and the deepest shadow claim it;
+Let darkness and the deepest shadow claim it;
+let a cloud settle on it;
+let whatever blackens the day terrify it.
+[6] That night—let darkness seize it;
+That night—let darkness seize it;
+let it not be included among the days of the year;
+let it not enter among the number of the months!
+[7] Indeed, let that night be barren;
+Indeed, let that night be barren;
+let no shout of joy penetrate it!
+[8] Let those who curse the day curse it —
+Let those who curse the day curse it —
+those who are prepared to rouse Leviathan.
+[9] Let its morning stars be darkened;
+Let its morning stars be darkened;
+let it wait for daylight but find none,
+nor let it see the first rays of dawn,
+[10] because it did not shut the doors of my mother’s womb on me,
+because it did not shut the doors of my mother’s womb on me,
+nor did it hide trouble from my eyes.
+[11] “Why did I not die at birth,
+“Why did I not die at birth,
+and why did I not expire
+as I came out of the womb?
+[12] Why did the knees welcome me,
+Why did the knees welcome me,
+and why were there two breasts
+that I might nurse at them?
+[13] For now I would be lying down
+For now I would be lying down
+and would be quiet,
+I would be asleep and then at peace
+[14] with kings and counselors of the earth
+with kings and counselors of the earth
+who built for themselves places now desolate,
+[15] or with princes who possessed gold,
+or with princes who possessed gold,
+who filled their palaces with silver.
+[16] Or why was I not buried
+Or why was I not buried
+like a stillborn infant,
+like infants who have never seen the light?
+[17] There the wicked cease from turmoil,
+There the wicked cease from turmoil,
+and there the weary are at rest.
+[18] There the prisoners relax together;
+There the prisoners relax together;
+they do not hear the voice of the oppressor.
+[19] Small and great are there,
+Small and great are there,
+and the slave is free from his master.
+[20] “Why does God give light to one who is in misery,
+“Why does God give light to one who is in misery,
+and life to those whose soul is bitter,
+[21] to those who wait for death that does not come,
+to those who wait for death that does not come,
+and search for it
+more than for hidden treasures,
+[22] who rejoice even to jubilation,
+who rejoice even to jubilation,
+and are exultant when they find the grave?
+[23] Why is light given to a man
+Why is light given to a man
+whose way is hidden,
+and whom God has hedged in?
+[24] For my sighing comes in place of my food,
+For my sighing comes in place of my food,
+and my groanings flow forth like water.
+[25] For the very thing I dreaded has happened to me,
+For the very thing I dreaded has happened to me,
+and what I feared has come upon me.
+[26] I have no ease, I have no quietness;
+I have no ease, I have no quietness;
+I cannot rest; turmoil has come upon me.”
+# Job
+
+## Chapter 4 <!-- scripture:4 -->
+
+### Eliphaz Begins to Speak
+
+[1] Then Eliphaz the Temanite answered:
+[2] “If someone should attempt a word with you,
+“If someone should attempt a word with you,
+will you be impatient?
+But who can refrain from speaking?
+[3] Look, you have instructed many;
+Look, you have instructed many;
+you have strengthened feeble hands.
+[4] Your words have supported those
+Your words have supported those
+who stumbled,
+and you have strengthened the knees
+that gave way.
+[5] But now the same thing comes to you,
+But now the same thing comes to you,
+and you are discouraged;
+it strikes you,
+and you are terrified.
+[6] Is not your piety your confidence,
+Is not your piety your confidence,
+and your blameless ways your hope?
+[7] Call to mind now:
+Call to mind now:
+Who, being innocent, ever perished?
+And where were upright people ever destroyed?
+[8] Even as I have seen, those who plow iniquity
+Even as I have seen, those who plow iniquity
+and those who sow trouble reap the same.
+[9] By the breath of God they perish,
+By the breath of God they perish,
+and by the blast of his anger they are consumed.
+[10] There is the roaring of the lion
+There is the roaring of the lion
+and the growling of the young lion,
+but the teeth of the young lions are broken.
+[11] The mighty lion perishes for lack of prey,
+The mighty lion perishes for lack of prey,
+and the cubs of the lioness are scattered.
+[12] “Now a word was stealthily brought to me,
+“Now a word was stealthily brought to me,
+and my ear caught a whisper of it.
+[13] In the troubling thoughts of the dreams in the night
+In the troubling thoughts of the dreams in the night
+when a deep sleep falls on men,
+[14] dread gripped me and trembling,
+dread gripped me and trembling,
+which made all my bones shake.
+[15] Then a breath of air passes by my face;
+Then a breath of air passes by my face;
+it makes the hair of my flesh stand up.
+[16] It stands still,
+It stands still,
+but I cannot recognize its appearance;
+an image is before my eyes,
+and I hear a murmuring voice:
+[17] ‘Is a mortal man righteous before God?
+‘Is a mortal man righteous before God?
+Or a man pure before his Creator?
+[18] If God puts no trust in his servants
+If God puts no trust in his servants
+and attributes folly to his angels,
+[19] how much more to those who live in houses of clay,
+how much more to those who live in houses of clay,
+whose foundation is in the dust,
+who are crushed like a moth?
+[20] They are destroyed between morning and evening;
+They are destroyed between morning and evening;
+they perish forever without anyone regarding it.
+[21] Is not their excess wealth taken away from them?
+Is not their excess wealth taken away from them?
+They die, yet without attaining wisdom.’
+# Job
+
+## Chapter 5 <!-- scripture:5 -->
+
+### Blessings for the One Who Seeks God
+
+To which of the holy ones will you turn?
+[2] For wrath kills the foolish person,
+For wrath kills the foolish person,
+and anger slays the silly one.
+[3] I myself have seen the fool taking root,
+I myself have seen the fool taking root,
+but suddenly I cursed his place of residence.
+[4] His children are far from safety,
+His children are far from safety,
+and they are crushed at the place where judgment is rendered,
+nor is there anyone to deliver them.
+[5] The hungry eat up his harvest,
+The hungry eat up his harvest,
+and take it even from behind the thorns,
+and the thirsty pant for their wealth.
+[6] For evil does not come up from the dust,
+For evil does not come up from the dust,
+nor does trouble spring up from the ground,
+[7] but people are born to trouble,
+but people are born to trouble,
+as surely as the sparks fly upward.
+[8] “But as for me, I would seek God,
+“But as for me, I would seek God,
+and to God I would set forth my case.
+[9] He does great and unsearchable things,
+He does great and unsearchable things,
+marvelous things without number;
+[10] he gives rain on the earth,
+he gives rain on the earth,
+and sends water on the fields;
+[11] he sets the lowly on high,
+he sets the lowly on high,
+that those who mourn are raised to safety.
+[12] He frustrates the plans of the crafty
+He frustrates the plans of the crafty
+so that their hands cannot accomplish
+what they had planned.
+[13] He catches the wise in their own craftiness,
+He catches the wise in their own craftiness,
+and the counsel of the cunning is brought to a quick end.
+[14] They meet with darkness in the daytime,
+They meet with darkness in the daytime,
+and grope about in the noontime as if it were night.
+[15] So he saves from the sword that comes from their mouth,
+So he saves from the sword that comes from their mouth,
+even the poor from the hand of the powerful.
+[16] Thus the poor have hope,
+Thus the poor have hope,
+and iniquity shuts its mouth.
+so do not despise the discipline of the Almighty.
+[18] For he wounds, but he also bandages;
+For he wounds, but he also bandages;
+he strikes, but his hands also heal.
+[19] He will deliver you from six calamities;
+He will deliver you from six calamities;
+yes, in seven no evil will touch you.
+[20] In time of famine he will redeem you from death,
+In time of famine he will redeem you from death,
+and in time of war from the power of the sword.
+[21] You will be protected from malicious gossip,
+You will be protected from malicious gossip,
+and will not be afraid of the destruction when it comes.
+[22] You will laugh at destruction and famine
+You will laugh at destruction and famine
+and need not be afraid of the beasts of the earth.
+[23] For you will have a pact with the stones of the field,
+For you will have a pact with the stones of the field,
+and the wild animals will be at peace with you.
+[24] And you will know that your home will be secure,
+And you will know that your home will be secure,
+and when you inspect your domains,
+you will not be missing anything.
+[25] You will also know that your children will be numerous,
+You will also know that your children will be numerous,
+and your descendants like the grass of the earth.
+[26] You will come to your grave in a full age,
+You will come to your grave in a full age,
+As stacks of grain are harvested in their season.
+[27] Look, we have investigated this, so it is true.
+Look, we have investigated this, so it is true.
+Hear it, and apply it for your own good.”
+# Job
+
+## Chapter 6 <!-- scripture:6 -->
+
+### Job Replies to Eliphaz
+
+[1] Then Job responded:
+[2] “Oh, if only my grief could be weighed,
+“Oh, if only my grief could be weighed,
+and my misfortune laid on the scales too!
+[3] But because it is heavier than the sand of the sea,
+But because it is heavier than the sand of the sea,
+that is why my words have been wild.
+[4] For the arrows of the Almighty are within me;
+For the arrows of the Almighty are within me;
+my spirit drinks their poison;
+God’s sudden terrors are arrayed against me.
+[5] “Does the wild donkey bray when it is near grass?
+“Does the wild donkey bray when it is near grass?
+Or does the ox bellow over its fodder?
+[6] Can food that is tasteless be eaten without salt?
+Can food that is tasteless be eaten without salt?
+Or is there any taste in the white of an egg?
+[7] I have refused to touch such things;
+I have refused to touch such things;
+they are like loathsome food to me.
+[8] “Oh that my request would be realized,
+“Oh that my request would be realized,
+and that God would grant me what I long for!
+[9] And that God would be willing to crush me,
+And that God would be willing to crush me,
+that he would let loose his hand
+and kill me.
+[10] Then I would yet have my comfort,
+Then I would yet have my comfort,
+then I would rejoice,
+in spite of pitiless pain,
+for I have not concealed the words of the Holy One.
+[11] What is my strength, that I should wait?
+What is my strength, that I should wait?
+And what is my end,
+that I should prolong my life?
+[12] Is my strength like that of stones?
+Is my strength like that of stones?
+Or is my flesh made of bronze?
+[13] Is not my power to help myself nothing,
+Is not my power to help myself nothing,
+and has not every resource been driven from me?
+[14] “To the one in despair, kindness should come from his friend
+“To the one in despair, kindness should come from his friend
+even if he forsakes the fear of the Almighty.
+[15] My brothers have been as treacherous as a seasonal stream,
+My brothers have been as treacherous as a seasonal stream,
+and as the riverbeds of the intermittent streams
+that flow away.
+[16] They are dark because of ice;
+They are dark because of ice;
+snow is piled up over them.
+[17] When they are scorched, they dry up,
+When they are scorched, they dry up,
+when it is hot, they vanish from their place.
+[18] Caravans turn aside from their routes;
+Caravans turn aside from their routes;
+they go into the wasteland and perish.
+[19] The caravans of Tema looked intently for these streams;
+The caravans of Tema looked intently for these streams;
+the traveling merchants of Sheba hoped for them.
+[20] They were distressed,
+They were distressed,
+because each one had been so confident;
+they arrived there, but were disappointed.
+[21] For now you have become like these streams that are no help;
+For now you have become like these streams that are no help;
+you see a terror, and are afraid.
+[22] “Have I ever said, ‘Give me something,
+“Have I ever said, ‘Give me something,
+and from your fortune make gifts in my favor’?
+[23] Or, ‘Deliver me from the enemy’s power,
+Or, ‘Deliver me from the enemy’s power,
+and from the hand of tyrants ransom me’?
+[24] “Teach me and I, for my part, will be silent;
+“Teach me and I, for my part, will be silent;
+explain to me how I have been mistaken.
+[25] How painful are honest words!
+How painful are honest words!
+But what does your reproof prove?
+[26] Do you intend to criticize mere words,
+Do you intend to criticize mere words,
+and treat the words of a despairing man as wind?
+[27] Yes, you would gamble for the fatherless,
+Yes, you would gamble for the fatherless,
+and auction off your friend.
+[28] “Now then, be good enough to look at me;
+“Now then, be good enough to look at me;
+and I will not lie to your face!
+[29] Relent, let there be no falsehood;
+Relent, let there be no falsehood;
+reconsider, for my righteousness is intact!
+[30] Is there any falsehood on my lips?
+Is there any falsehood on my lips?
+Can my mouth not discern evil things?
+# Job
+
+## Chapter 7 <!-- scripture:7 -->
+
+### The Brevity of Life
+
+[1] “Does not humanity have hard service on earth?
+“Does not humanity have hard service on earth?
+Are not their days also like the days of a hired man?
+[2] Like a servant longing for the evening shadow,
+Like a servant longing for the evening shadow,
+and like a hired man looking for his wages,
+[3] thus I have been made to inherit
+thus I have been made to inherit
+months of futility,
+and nights of sorrow
+have been appointed to me.
+[4] If I lie down, I say, ‘When will I arise?’
+If I lie down, I say, ‘When will I arise?’
+And the night stretches on
+and I toss and turn restlessly
+until the day dawns.
+[5] My body is clothed with worms and dirty scabs;
+My body is clothed with worms and dirty scabs;
+my skin is broken and festering.
+[6] My days are swifter than a weaver’s shuttle
+My days are swifter than a weaver’s shuttle
+and they come to an end without hope.
+[7] Remember that my life is but a breath,
+Remember that my life is but a breath,
+that my eyes will never again see happiness.
+[8] The eye of him who sees me now will see me no more;
+The eye of him who sees me now will see me no more;
+your eyes will look for me, but I will be gone.
+[9] As a cloud is dispersed and then disappears,
+As a cloud is dispersed and then disappears,
+so the one who goes down to the grave
+does not come up again.
+[10] He returns no more to his house,
+He returns no more to his house,
+nor does his place of residence know him anymore.
+[11] “Therefore, I will not refrain my mouth;
+“Therefore, I will not refrain my mouth;
+I will speak in the anguish of my spirit;
+I will complain in the bitterness of my soul.
+[12] Am I the sea, or the creature of the deep,
+Am I the sea, or the creature of the deep,
+that you must put me under guard?
+[13] If I say, ‘My bed will comfort me,
+If I say, ‘My bed will comfort me,
+my couch will ease my complaint,’
+[14] then you scare me with dreams
+then you scare me with dreams
+and terrify me with visions,
+[15] so that I would prefer strangling,
+so that I would prefer strangling,
+and death more than life.
+[16] I loathe it; I do not want to live forever;
+I loathe it; I do not want to live forever;
+leave me alone, for my days are a vapor!
+[17] “What is mankind that you make so much of them,
+“What is mankind that you make so much of them,
+and that you pay attention to them?
+[18] And that you visit them every morning,
+And that you visit them every morning,
+and try them every moment?
+[19] Will you never look away from me,
+Will you never look away from me,
+will you not let me alone
+long enough to swallow my spittle?
+[20] If I have sinned—what have I done to you,
+If I have sinned—what have I done to you,
+O watcher of men?
+Why have you set me as your target?
+Have I become a burden to you?
+[21] And why do you not pardon my transgression,
+And why do you not pardon my transgression,
+and take away my iniquity?
+For now I will lie down in the dust,
+and you will seek me diligently,
+but I will be gone.”
+# Job
+
+## Chapter 8 <!-- scripture:8 -->
+
+### Bildad’s First Speech to Job
+
+[1] Then Bildad the Shuhite spoke up and said:
+[2] “How long will you speak these things,
+“How long will you speak these things,
+seeing that the words of your mouth
+are like a great wind?
+[3] Does God pervert justice?
+Does God pervert justice?
+Or does the Almighty pervert what is right?
+[4] If your children sinned against him,
+If your children sinned against him,
+he gave them over to the penalty of their sin.
+[5] But if you will look to God,
+But if you will look to God,
+and make your supplication to the Almighty,
+[6] if you become pure and upright,
+if you become pure and upright,
+even now he will rouse himself for you,
+and will restore your righteous home.
+[7] Your beginning will seem so small,
+Your beginning will seem so small,
+since your future will flourish.
+and pay attention to the findings
+of their ancestors;
+[9] For we were born yesterday and do not have knowledge,
+For we were born yesterday and do not have knowledge,
+since our days on earth are but a shadow.
+[10] Will they not instruct you and speak to you,
+Will they not instruct you and speak to you,
+and bring forth words
+from their understanding?
+[11] Can the papyrus plant grow tall where there is no marsh?
+Can the papyrus plant grow tall where there is no marsh?
+Can reeds flourish without water?
+[12] While they are still beginning to flower
+While they are still beginning to flower
+and not ripe for cutting,
+they can wither away
+faster than any grass.
+[13] Such is the destiny of all who forget God;
+Such is the destiny of all who forget God;
+the hope of the godless perishes,
+[14] whose trust is in something futile,
+whose trust is in something futile,
+whose security is a spider’s web.
+[15] He leans against his house but it does not hold up,
+He leans against his house but it does not hold up,
+he takes hold of it but it does not stand.
+[16] He is a well-watered plant in the sun,
+He is a well-watered plant in the sun,
+its shoots spread over its garden.
+[17] It wraps its roots around a heap of stones
+It wraps its roots around a heap of stones
+and it looks for a place among stones.
+[18] If he is uprooted from his place,
+If he is uprooted from his place,
+then that place will disown him, saying,
+‘I have never seen you!’
+[19] Indeed, this is the joy of his way,
+Indeed, this is the joy of his way,
+and out of the earth others spring up.
+nor does he grasp the hand
+of the evildoers.
+[21] He will yet fill your mouth with laughter,
+He will yet fill your mouth with laughter,
+and your lips with gladness.
+[22] Those who hate you will be clothed with shame,
+Those who hate you will be clothed with shame,
+and the tent of the wicked will be no more.”
+# Job
+
+## Chapter 9 <!-- scripture:9 -->
+
+### Job’s Reply to Bildad
+
+[1] Then Job answered:
+[2] “Truly, I know that this is so.
+“Truly, I know that this is so.
+But how can a human be just before God?
+[3] If someone wishes to contend with him,
+If someone wishes to contend with him,
+he cannot answer him one time in a thousand.
+[4] He is wise in heart and mighty in strength —
+He is wise in heart and mighty in strength —
+who has resisted him and remained safe?
+[5] He who removes mountains suddenly,
+He who removes mountains suddenly,
+who overturns them in his anger,
+[6] he who shakes the earth out of its place
+he who shakes the earth out of its place
+so that its pillars tremble,
+[7] he who commands the sun, and it does not shine
+he who commands the sun, and it does not shine
+and seals up the stars,
+[8] he alone spreads out the heavens,
+he alone spreads out the heavens,
+and treads on the waves of the sea.
+[9] He makes the Bear, Orion, and the Pleiades,
+He makes the Bear, Orion, and the Pleiades,
+and the constellations of the southern sky;
+[10] he does great and unsearchable things,
+he does great and unsearchable things,
+and wonderful things without number.
+[11] If he passes by me, I cannot see him,
+If he passes by me, I cannot see him,
+if he goes by, I cannot perceive him.
+[12] If he snatches away, who can turn him back?
+If he snatches away, who can turn him back?
+Who dares to say to him, ‘What are you doing?’
+[13] God does not restrain his anger;
+God does not restrain his anger;
+under him the helpers of Rahab lie crushed.
+[14] “How much less, then, can I answer him
+“How much less, then, can I answer him
+and choose my words to argue with him.
+[15] Although I am innocent,
+Although I am innocent,
+I could not answer him;
+I could only plead with my judge for mercy.
+[16] If I summoned him, and he answered me,
+If I summoned him, and he answered me,
+I would not believe
+that he would be listening to my voice—
+[17] he who crushes me with a tempest,
+he who crushes me with a tempest,
+and multiplies my wounds for no reason.
+[18] He does not allow me to recover my breath,
+He does not allow me to recover my breath,
+for he fills me with bitterness.
+[19] If it is a matter of strength,
+If it is a matter of strength,
+most certainly he is the strong one!
+And if it is a matter of justice,
+he will say, ‘Who will summon me?’
+[20] Although I am innocent,
+Although I am innocent,
+my mouth would condemn me,
+although I am blameless,
+it would declare me perverse.
+[21] I am blameless. I do not know myself.
+I am blameless. I do not know myself.
+I despise my life.
+[22] “It is all one! That is why I say,
+“It is all one! That is why I say,
+‘He destroys the blameless and the guilty.’
+[23] If a scourge brings sudden death,
+If a scourge brings sudden death,
+he mocks at the despair of the innocent.
+[24] If a land has been given
+If a land has been given
+into the hand of a wicked man,
+he covers the faces of its judges;
+if it is not he, then who is it?
+[25] “My days are swifter than a runner,
+“My days are swifter than a runner,
+they speed by without seeing happiness.
+[26] They glide by like reed boats,
+They glide by like reed boats,
+like an eagle that swoops down on its prey.
+[27] If I say, ‘I will forget my complaint,
+If I say, ‘I will forget my complaint,
+I will change my expression and be cheerful,’
+[28] I dread all my sufferings,
+I dread all my sufferings,
+for I know that you do not hold me blameless.
+[29] If I am guilty,
+If I am guilty,
+why then weary myself in vain?
+[30] If I wash myself with snow-melt water,
+If I wash myself with snow-melt water,
+and make my hands clean with lye,
+[31] then you plunge me into a slimy pit
+then you plunge me into a slimy pit
+and my own clothes abhor me.
+[32] For he is not a human being like I am,
+For he is not a human being like I am,
+that I might answer him,
+that we might come together in judgment.
+[33] Nor is there an arbiter between us,
+Nor is there an arbiter between us,
+who might lay his hand on us both,
+[34] who would take his rod away from me
+who would take his rod away from me
+so that his terror would not make me afraid.
+[35] Then would I speak and not fear him,
+Then would I speak and not fear him,
+but it is not so with me.
+# Job
+
+## Chapter 10 <!-- scripture:10 -->
+
+### An Appeal for Revelation
+
+[1] “I am weary of my life;
+“I am weary of my life;
+I will complain freely without restraint;
+I will speak in the bitterness of my soul.
+[2] I will say to God, ‘Do not condemn me;
+I will say to God, ‘Do not condemn me;
+tell me why you are contending with me.’
+[3] Is it good for you to oppress,
+Is it good for you to oppress,
+to despise the work of your hands,
+while you smile
+on the schemes of the wicked?
+[4] “Do you have eyes of flesh,
+“Do you have eyes of flesh,
+or do you see as a human being sees?
+[5] Are your days like the days of a mortal,
+Are your days like the days of a mortal,
+or your years like the years of a mortal,
+[6] that you must search out my iniquity,
+that you must search out my iniquity,
+and inquire about my sin,
+[7] although you know that I am not guilty,
+although you know that I am not guilty,
+and that there is no one who can deliver
+out of your hand?
+[8] “Your hands have shaped me and made me,
+“Your hands have shaped me and made me,
+but now you destroy me completely.
+[9] Remember that you have made me as with the clay;
+Remember that you have made me as with the clay;
+will you return me to dust?
+[10] Did you not pour me out like milk,
+Did you not pour me out like milk,
+and curdle me like cheese?
+[11] You clothed me with skin and flesh
+You clothed me with skin and flesh
+and knit me together with bones and sinews.
+[12] You gave me life and favor,
+You gave me life and favor,
+and your intervention watched over my spirit.
+I know that this is with you:
+[14] If I sinned, then you would watch me
+If I sinned, then you would watch me
+and you would not acquit me of my iniquity.
+[15] If I am guilty, woe to me,
+If I am guilty, woe to me,
+and if I am innocent, I cannot lift my head;
+I am full of shame,
+and satiated with my affliction.
+[16] If I lift myself up,
+If I lift myself up,
+you hunt me as a fierce lion,
+and again you display your power against me.
+[17] You bring new witnesses against me,
+You bring new witnesses against me,
+and increase your anger against me;
+relief troops come against me.
+[18] “Why then did you bring me out from the womb?
+“Why then did you bring me out from the womb?
+I should have died
+and no eye would have seen me!
+[19] I should have been as though I had never existed;
+I should have been as though I had never existed;
+I should have been carried
+right from the womb to the grave!
+[20] Are not my days few?
+Are not my days few?
+Cease, then, and leave me alone
+that I may find a little comfort,
+[21] before I depart, never to return,
+before I depart, never to return,
+to the land of darkness
+and the deepest shadow,
+[22] to the land of utter darkness,
+to the land of utter darkness,
+like the deepest darkness,
+and the deepest shadow and disorder,
+where even the light is like darkness.”
+# Job
+
+## Chapter 11 <!-- scripture:11 -->
+
+### Zophar’s First Speech to Job
+
+[1] Then Zophar the Naamathite spoke up and said:
+[2] “Should not this abundance of words be answered,
+“Should not this abundance of words be answered,
+or should this talkative man
+be vindicated?
+[3] Should people remain silent at your idle talk,
+Should people remain silent at your idle talk,
+and should no one rebuke you when you mock?
+[4] For you have said, ‘My teaching is flawless,
+For you have said, ‘My teaching is flawless,
+and I am pure in your sight.’
+[5] But if only God would speak,
+But if only God would speak,
+if only he would open his lips against you,
+[6] and reveal to you the secrets of wisdom—
+and reveal to you the secrets of wisdom—
+for true wisdom has two sides —
+so that you would know
+that God has forgiven some of your sins.
+Can you find out the perfection of the Almighty?
+[8] It is higher than the heavens—what can you do?
+It is higher than the heavens—what can you do?
+It is deeper than Sheol —what can you know?
+[9] Its measure is longer than the earth,
+Its measure is longer than the earth,
+and broader than the sea.
+[10] If he comes by and confines you
+If he comes by and confines you
+and convenes a court,
+then who can prevent him?
+[11] For he knows deceitful men;
+For he knows deceitful men;
+when he sees evil, will he not consider it?
+[12] But an empty man will become wise,
+But an empty man will become wise,
+when a wild donkey’s colt is born a human being.
+and if you stretch out your hands toward him,
+[14] if iniquity is in your hand—put it far away,
+if iniquity is in your hand—put it far away,
+and do not let evil reside in your tents.
+[15] For then you will lift up your face
+For then you will lift up your face
+without blemish;
+you will be securely established
+and will not fear.
+[16] For you will forget your trouble;
+For you will forget your trouble;
+you will remember it
+like water that has flowed away.
+[17] And life will be brighter than the noonday;
+And life will be brighter than the noonday;
+though there be darkness,
+it will be like the morning.
+[18] And you will be secure, because there is hope;
+And you will be secure, because there is hope;
+you will be protected
+and will take your rest in safety.
+[19] You will lie down with no one to make you afraid,
+You will lie down with no one to make you afraid,
+and many will seek your favor.
+[20] But the eyes of the wicked fail,
+But the eyes of the wicked fail,
+and escape eludes them;
+their one hope is to breathe their last.”
+# Job
+
+## Chapter 12 <!-- scripture:12 -->
+
+### Job’s Reply to Zophar
+
+[1] Then Job answered:
+[2] “Without a doubt you are the people,
+“Without a doubt you are the people,
+and wisdom will die with you.
+[3] I also have understanding as well as you;
+I also have understanding as well as you;
+I am not inferior to you.
+Who does not know such things as these?
+[4] I am a laughingstock to my friends,
+I am a laughingstock to my friends,
+I, who called on God and whom he answered —
+a righteous and blameless man
+is a laughingstock!
+[5] For calamity, there is derision
+For calamity, there is derision
+(according to the ideas of the fortunate)—
+a fate for those whose feet slip.
+[6] But the tents of robbers are peaceful,
+But the tents of robbers are peaceful,
+and those who provoke God are confident —
+who carry their god in their hands.
+[7] “But now, ask the animals and they will teach you,
+“But now, ask the animals and they will teach you,
+or the birds of the sky and they will tell you.
+[8] Or speak to the earth and it will teach you,
+Or speak to the earth and it will teach you,
+or let the fish of the sea declare to you.
+[9] Which of all these does not know
+Which of all these does not know
+that the hand of the
+has done this?
+[10] In his hand is the life of every creature
+In his hand is the life of every creature
+and the breath of all the human race.
+[11] Does not the ear test words,
+Does not the ear test words,
+as the tongue tastes food?
+[12] Is not wisdom found among the aged?
+Is not wisdom found among the aged?
+Does not long life bring understanding?
+[13] “With God are wisdom and power;
+“With God are wisdom and power;
+counsel and understanding are his.
+[14] If he tears down, it cannot be rebuilt;
+If he tears down, it cannot be rebuilt;
+if he imprisons a person, there is no escape.
+[15] If he holds back the waters, then they dry up;
+If he holds back the waters, then they dry up;
+if he releases them, they destroy the land.
+[16] With him are strength and prudence;
+With him are strength and prudence;
+both the one who goes astray
+and the one who misleads are his.
+[17] He leads counselors away stripped
+He leads counselors away stripped
+and makes judges into fools.
+[18] He loosens the bonds of kings
+He loosens the bonds of kings
+and binds a loincloth around their waist.
+[19] He leads priests away stripped
+He leads priests away stripped
+and overthrows the potentates.
+[20] He deprives the trusted advisers of speech
+He deprives the trusted advisers of speech
+and takes away the discernment of elders.
+[21] He pours contempt on noblemen
+He pours contempt on noblemen
+and disarms the powerful.
+[22] He reveals the deep things of darkness,
+He reveals the deep things of darkness,
+and brings deep shadows into the light.
+[23] He makes nations great, and destroys them;
+He makes nations great, and destroys them;
+he extends the boundaries of nations
+and disperses them.
+[24] He deprives the leaders of the earth
+He deprives the leaders of the earth
+of their understanding;
+he makes them wander
+in a trackless desert waste.
+[25] They grope about in darkness without light;
+They grope about in darkness without light;
+he makes them stagger like drunkards.
+# Job
+
+## Chapter 13 <!-- scripture:13 -->
+
+### Job Pleads His Cause to God
+
+[1] “Indeed, my eyes have seen all this,
+“Indeed, my eyes have seen all this,
+my ears have heard and understood it.
+[2] What you know, I know also;
+What you know, I know also;
+I am not inferior to you!
+[3] But I wish to speak to the Almighty,
+But I wish to speak to the Almighty,
+and I desire to argue my case with God.
+[4] But you, however, are inventors of lies;
+But you, however, are inventors of lies;
+all of you are worthless physicians!
+[5] If only you would keep completely silent!
+If only you would keep completely silent!
+For you, that would be wisdom.
+[6] “Listen now to my argument,
+“Listen now to my argument,
+and be attentive to my lips’ contentions.
+[7] Will you speak wickedly on God’s behalf?
+Will you speak wickedly on God’s behalf?
+Will you speak deceitfully for him?
+[8] Will you show him partiality?
+Will you show him partiality?
+Will you argue the case for God?
+[9] Would it turn out well if he would examine you?
+Would it turn out well if he would examine you?
+Or as one deceives a man would you deceive him?
+[10] He would certainly rebuke you
+He would certainly rebuke you
+if you secretly showed partiality.
+[11] Would not his splendor terrify you
+Would not his splendor terrify you
+and the fear he inspires fall on you?
+[12] Your maxims are proverbs of ashes;
+Your maxims are proverbs of ashes;
+your defenses are defenses of clay.
+then let come to me what may.
+[14] Why do I put myself in peril,
+Why do I put myself in peril,
+and take my life in my hands?
+[15] Even if he slays me, I will hope in him;
+Even if he slays me, I will hope in him;
+I will surely defend my ways to his face.
+[16] Moreover, this will become my deliverance,
+Moreover, this will become my deliverance,
+for no godless person would come before him.
+[17] Listen carefully to my words;
+Listen carefully to my words;
+let your ears be attentive to my explanation.
+[18] See now, I have prepared my case;
+See now, I have prepared my case;
+I know that I am right.
+[19] Who will contend with me?
+Who will contend with me?
+If anyone can, I will be silent and die.
+[20] Only in two things spare me, O God,
+Only in two things spare me, O God,
+and then I will not hide from your face:
+[21] Remove your hand far from me
+Remove your hand far from me
+and stop making me afraid with your terror.
+[22] Then call, and I will answer,
+Then call, and I will answer,
+or I will speak, and you respond to me.
+[23] How many are my iniquities and sins?
+How many are my iniquities and sins?
+Show me my transgression and my sin.
+[24] Why do you hide your face
+Why do you hide your face
+and regard me as your enemy?
+[25] Do you wish to torment a windblown leaf
+Do you wish to torment a windblown leaf
+and chase after dry chaff?
+[26] For you write down bitter things against me
+For you write down bitter things against me
+and cause me to inherit the sins of my youth.
+[27] And you put my feet in the stocks
+And you put my feet in the stocks
+and you watch all my movements;
+you put marks on the soles of my feet.
+[28] So I waste away like something rotten,
+So I waste away like something rotten,
+like a garment eaten by moths.
+# Job
+
+## Chapter 14 <!-- scripture:14 -->
+
+### The Brevity of Life
+
+[1] “Man, born of woman,
+“Man, born of woman,
+lives but a few days, and they are full of trouble.
+[2] He grows up like a flower and then withers away;
+He grows up like a flower and then withers away;
+he flees like a shadow, and does not remain.
+[3] Do you fix your eye on such a one?
+Do you fix your eye on such a one?
+And do you bring me before you for judgment?
+[4] Who can make a clean thing come from an unclean?
+Who can make a clean thing come from an unclean?
+No one!
+[5] Since man’s days are determined,
+Since man’s days are determined,
+the number of his months is under your control;
+you have set his limit and he cannot pass it.
+[6] Look away from him and let him desist,
+Look away from him and let him desist,
+until he fulfills his time like a hired man.
+[7] “But there is hope for a tree:
+“But there is hope for a tree:
+If it is cut down, it will sprout again,
+and its new shoots will not fail.
+[8] Although its roots may grow old in the ground
+Although its roots may grow old in the ground
+and its stump begins to die in the soil,
+[9] at the scent of water it will flourish
+at the scent of water it will flourish
+and put forth shoots like a new plant.
+[10] But man dies and is powerless;
+But man dies and is powerless;
+he expires—and where is he?
+[11] As water disappears from the sea,
+As water disappears from the sea,
+or a river drains away and dries up,
+[12] so man lies down and does not rise;
+so man lies down and does not rise;
+until the heavens are no more,
+they will not awake
+nor arise from their sleep.
+[13] “O that you would hide me in Sheol,
+“O that you would hide me in Sheol,
+and conceal me till your anger has passed!
+O that you would set me a time
+and then remember me!
+[14] If a man dies, will he live again?
+If a man dies, will he live again?
+All the days of my hard service I will wait
+until my release comes.
+[15] You will call and I —I will answer you;
+You will call and I —I will answer you;
+you will long for the creature you have made.
+[16] “Surely now you count my steps;
+“Surely now you count my steps;
+then you would not mark my sin.
+[17] My offenses would be sealed up in a bag;
+My offenses would be sealed up in a bag;
+you would cover over my sin.
+[18] But as a mountain falls away and crumbles,
+But as a mountain falls away and crumbles,
+and as a rock will be removed from its place,
+[19] as water wears away stones,
+as water wears away stones,
+and torrents wash away the soil,
+so you destroy man’s hope.
+[20] You overpower him once for all,
+You overpower him once for all,
+and he departs;
+you change his appearance
+and send him away.
+[21] If his sons are honored,
+If his sons are honored,
+he does not know it;
+if they are brought low,
+he does not see it.
+[22] His flesh only has pain for him,
+His flesh only has pain for him,
+and he mourns for himself.”
+# Job
+
+## Chapter 15 <!-- scripture:15 -->
+
+### Eliphaz’s Second Speech
+
+[1] Then Eliphaz the Temanite answered:
+[2] “Does a wise man answer with blustery knowledge,
+“Does a wise man answer with blustery knowledge,
+or fill his belly with the east wind?
+[3] Does he argue with useless talk,
+Does he argue with useless talk,
+with words that have no value in them?
+[4] But you even break off piety,
+But you even break off piety,
+and hinder meditation before God.
+[5] Your sin inspires your mouth;
+Your sin inspires your mouth;
+you choose the language of the crafty.
+[6] Your own mouth condemns you, not I;
+Your own mouth condemns you, not I;
+your own lips testify against you.
+Were you brought forth before the hills?
+[8] Do you listen in on God’s secret council?
+Do you listen in on God’s secret council?
+Do you limit wisdom to yourself?
+[9] What do you know that we don’t know?
+What do you know that we don’t know?
+What do you understand that we don’t understand?
+[10] The gray-haired and the aged are on our side,
+The gray-haired and the aged are on our side,
+men far older than your father.
+[11] Are God’s consolations too trivial for you,
+Are God’s consolations too trivial for you,
+or a word spoken in gentleness to you?
+[12] Why has your heart carried you away,
+Why has your heart carried you away,
+and why do your eyes flash,
+[13] when you turn your rage against God
+when you turn your rage against God
+and allow such words to escape from your mouth?
+[14] What is man that he should be pure,
+What is man that he should be pure,
+or one born of woman, that he should be righteous?
+[15] If God places no trust in his holy ones,
+If God places no trust in his holy ones,
+if even the heavens are not pure in his eyes,
+[16] how much less man, who is abominable and corrupt,
+how much less man, who is abominable and corrupt,
+who drinks in evil like water!
+[17] “I will explain to you;
+“I will explain to you;
+listen to me,
+and what I have seen, I will declare,
+[18] what wise men declare,
+what wise men declare,
+hiding nothing,
+from the tradition of their ancestors,
+[19] to whom alone the land was given
+to whom alone the land was given
+when no foreigner passed among them.
+[20] All his days the wicked man suffers torment,
+All his days the wicked man suffers torment,
+throughout the number of the years
+that are stored up for the tyrant.
+[21] Terrifying sounds fill his ears;
+Terrifying sounds fill his ears;
+in a time of peace marauders attack him.
+[22] He does not expect to escape from darkness;
+He does not expect to escape from darkness;
+he is marked for the sword;
+[23] he wanders about—food for vultures —
+he wanders about—food for vultures —
+he knows that the day of darkness is at hand.
+[24] Distress and anguish terrify him;
+Distress and anguish terrify him;
+they prevail against him
+like a king ready to launch an attack,
+[25] for he stretches out his hand against God,
+for he stretches out his hand against God,
+and vaunts himself against the Almighty,
+[26] defiantly charging against him
+defiantly charging against him
+with a thick, strong shield!
+[27] Because he covered his face with fat,
+Because he covered his face with fat,
+and made his hips bulge with fat,
+[28] he lived in ruined towns
+he lived in ruined towns
+and in houses where no one lives,
+where they are ready to crumble into heaps.
+[29] He will not grow rich,
+He will not grow rich,
+and his wealth will not endure,
+nor will his possessions spread over the land.
+[30] He will not escape the darkness;
+He will not escape the darkness;
+a flame will wither his shoots
+and he will depart
+by the breath of God’s mouth.
+[31] Let him not trust in what is worthless,
+Let him not trust in what is worthless,
+deceiving himself;
+for worthlessness will be his reward.
+[32] Before his time he will be paid in full,
+Before his time he will be paid in full,
+and his branches will not flourish.
+[33] Like a vine he will let his sour grapes fall,
+Like a vine he will let his sour grapes fall,
+and like an olive tree
+he will shed his blossoms.
+[34] For the company of the godless is barren,
+For the company of the godless is barren,
+and fire consumes the tents of those who accept bribes.
+[35] They conceive trouble and bring forth evil;
+They conceive trouble and bring forth evil;
+their belly prepares deception.”
+# Job
+
+## Chapter 16 <!-- scripture:16 -->
+
+### Job’s Reply to Eliphaz
+
+[1] Then Job replied:
+[2] “I have heard many things like these before.
+“I have heard many things like these before.
+What miserable comforters are you all!
+[3] Will there be an end to your windy words?
+Will there be an end to your windy words?
+Or what provokes you that you answer?
+[4] I also could speak like you,
+I also could speak like you,
+if you were in my place;
+I could pile up words against you
+and I could shake my head at you.
+[5] But I would strengthen you with my words;
+But I would strengthen you with my words;
+comfort from my lips would bring you relief.
+[6] “But if I speak, my pain is not relieved,
+“But if I speak, my pain is not relieved,
+and if I refrain from speaking,
+how much of it goes away?
+[7] Surely now he has worn me out,
+Surely now he has worn me out,
+you have devastated my entire household.
+[8] You have seized me,
+You have seized me,
+and it has become a witness;
+my leanness has risen up against me
+and testifies against me.
+[9] His anger has torn me and persecuted me;
+His anger has torn me and persecuted me;
+he has gnashed at me with his teeth;
+my adversary locks his eyes on me.
+[10] People have opened their mouths against me,
+People have opened their mouths against me,
+they have struck my cheek in scorn;
+they unite together against me.
+[11] God abandons me to evil men,
+God abandons me to evil men,
+and throws me into the hands of wicked men.
+[12] I was in peace, and he has shattered me.
+I was in peace, and he has shattered me.
+He has seized me by the neck and crushed me.
+He has made me his target;
+[13] his archers surround me.
+his archers surround me.
+Without pity he pierces my kidneys
+and pours out my gall on the ground.
+[14] He breaks through against me, time and time again;
+He breaks through against me, time and time again;
+he rushes against me like a warrior.
+[15] I have sewed sackcloth on my skin,
+I have sewed sackcloth on my skin,
+and buried my horn in the dust;
+[16] my face is reddened because of weeping,
+my face is reddened because of weeping,
+and on my eyelids there is a deep darkness,
+[17] although there is no violence in my hands
+although there is no violence in my hands
+and my prayer is pure.
+[18] “O earth, do not cover my blood,
+“O earth, do not cover my blood,
+nor let there be a secret place for my cry.
+[19] Even now my witness is in heaven;
+Even now my witness is in heaven;
+my advocate is on high.
+[20] My intercessor is my friend
+My intercessor is my friend
+as my eyes pour out tears to God;
+[21] and he contends with God on behalf of man
+and he contends with God on behalf of man
+as a man pleads for his friend.
+[22] For the years that lie ahead are few,
+For the years that lie ahead are few,
+and then I will go on the way of no return.
+# Job
+
+## Chapter 17 <!-- scripture:17 -->
+
+### Anticipation of Death
+
+[1] My spirit is broken,
+My spirit is broken,
+my days have faded out,
+the grave awaits me.
+[2] Surely mockery is with me;
+Surely mockery is with me;
+my eyes must dwell on their hostility.
+[3] Set my pledge beside you.
+Set my pledge beside you.
+Who else will put up security for me?
+[4] Because you have closed their minds to understanding,
+Because you have closed their minds to understanding,
+therefore you will not exalt them.
+[5] If a man denounces his friends for personal gain,
+If a man denounces his friends for personal gain,
+the eyes of his children will fail.
+[6] He has made me a byword to people,
+He has made me a byword to people,
+I am the one in whose face they spit.
+[7] My eyes have grown dim with grief;
+My eyes have grown dim with grief;
+my whole frame is but a shadow.
+[8] Upright men are appalled at this;
+Upright men are appalled at this;
+the innocent man is troubled with the godless.
+[9] But the righteous man holds to his way,
+But the righteous man holds to his way,
+and the one with clean hands grows stronger.
+[10] “But turn, all of you, and come now!
+“But turn, all of you, and come now!
+I will not find a wise man among you.
+[11] My days have passed, my plans are shattered,
+My days have passed, my plans are shattered,
+even the desires of my heart.
+[12] These men change night into day;
+These men change night into day;
+they say, ‘The light is near
+in the face of darkness.’
+[13] If I hope for the grave to be my home,
+If I hope for the grave to be my home,
+if I spread out my bed in darkness,
+[14] if I cry out to corruption, ‘You are my father,’
+if I cry out to corruption, ‘You are my father,’
+and to the worm, ‘My mother,’ or ‘My sister,’
+[15] where then is my hope?
+where then is my hope?
+And my hope, who sees it?
+[16] Will it go down to the barred gates of death?
+Will it go down to the barred gates of death?
+Will we descend together into the dust?”
+# Job
+
+## Chapter 18 <!-- scripture:18 -->
+
+### Bildad’s Second Speech
+
+[1] Then Bildad the Shuhite answered:
+[2] “How long until you make an end of words?
+“How long until you make an end of words?
+You must consider, and then we can talk.
+[3] Why should we be regarded as beasts,
+Why should we be regarded as beasts,
+and considered stupid in your sight?
+[4] You who tear yourself to pieces in your anger,
+You who tear yourself to pieces in your anger,
+will the earth be abandoned for your sake?
+Or will a rock be moved from its place?
+his flame of fire does not shine.
+[6] The light in his tent grows dark;
+The light in his tent grows dark;
+his lamp above him is extinguished.
+[7] His vigorous steps are restricted,
+His vigorous steps are restricted,
+and his own counsel throws him down.
+[8] For he has been thrown into a net by his feet
+For he has been thrown into a net by his feet
+and he wanders into a mesh.
+[9] A trap seizes him by the heel;
+A trap seizes him by the heel;
+a snare grips him.
+[10] A rope is hidden for him on the ground
+A rope is hidden for him on the ground
+and a trap for him lies on the path.
+[11] Terrors frighten him on all sides
+Terrors frighten him on all sides
+and dog his every step.
+[12] Calamity is hungry for him,
+Calamity is hungry for him,
+and misfortune is ready at his side.
+[13] It eats away parts of his skin;
+It eats away parts of his skin;
+the most terrible death devours his limbs.
+[14] He is dragged from the security of his tent,
+He is dragged from the security of his tent,
+and marched off to the king of terrors.
+[15] Fire resides in his tent;
+Fire resides in his tent;
+over his residence burning sulfur is scattered.
+[16] Below his roots dry up,
+Below his roots dry up,
+and his branches wither above.
+[17] His memory perishes from the earth,
+His memory perishes from the earth,
+he has no name in the land.
+[18] He is driven from light into darkness
+He is driven from light into darkness
+and is banished from the world.
+[19] He has neither children nor descendants among his people,
+He has neither children nor descendants among his people,
+no survivor in those places he once stayed.
+[20] People of the west are appalled at his fate;
+People of the west are appalled at his fate;
+people of the east are seized with horror, saying,
+[21] ‘Surely such is the residence of an evil man;
+‘Surely such is the residence of an evil man;
+and this is the place of one who has not known God.’”
+# Job
+
+## Chapter 19 <!-- scripture:19 -->
+
+### Job’s Reply to Bildad
+
+[1] Then Job answered:
+[2] “How long will you torment me
+“How long will you torment me
+and crush me with your words?
+[3] These ten times you have been reproaching me;
+These ten times you have been reproaching me;
+you are not ashamed to attack me.
+[4] But even if it were true that I have erred,
+But even if it were true that I have erred,
+my error remains solely my concern!
+[5] If indeed you would exalt yourselves above me
+If indeed you would exalt yourselves above me
+and plead my disgrace against me,
+[6] know then that God has wronged me
+know then that God has wronged me
+and encircled me with his net.
+[7] “If I cry out, ‘Violence!’
+“If I cry out, ‘Violence!’
+I receive no answer;
+I cry for help,
+but there is no justice.
+[8] He has blocked my way so I cannot pass,
+He has blocked my way so I cannot pass,
+and has set darkness over my paths.
+[9] He has stripped me of my honor
+He has stripped me of my honor
+and has taken the crown off my head.
+[10] He tears me down on every side until I perish;
+He tears me down on every side until I perish;
+he uproots my hope like an uprooted tree.
+[11] Thus his anger burns against me,
+Thus his anger burns against me,
+and he considers me among his enemies.
+[12] His troops advance together;
+His troops advance together;
+they throw up a siege ramp against me,
+and they camp around my tent.
+[13] “He has put my relatives far from me;
+“He has put my relatives far from me;
+my acquaintances only turn away from me.
+[14] My kinsmen have failed me;
+My kinsmen have failed me;
+my friends have forgotten me.
+[15] My guests and my servant girls
+My guests and my servant girls
+consider me a stranger;
+I am a foreigner in their eyes.
+[16] I summon my servant, but he does not respond,
+I summon my servant, but he does not respond,
+even though I implore him with my own mouth.
+[17] My breath is repulsive to my wife;
+My breath is repulsive to my wife;
+I am loathsome to my brothers.
+[18] Even youngsters have scorned me;
+Even youngsters have scorned me;
+when I get up, they scoff at me.
+[19] All my closest friends detest me;
+All my closest friends detest me;
+and those whom I love have turned against me.
+[20] My bones stick to my skin and my flesh;
+My bones stick to my skin and my flesh;
+I have escaped alive with only the skin of my teeth.
+[21] Have pity on me, my friends, have pity on me,
+Have pity on me, my friends, have pity on me,
+for the hand of God has struck me.
+[22] Why do you pursue me like God does?
+Why do you pursue me like God does?
+Will you never be satiated with my flesh?
+[23] “O that my words were written down!
+“O that my words were written down!
+O that they were written on a scroll!
+[24] O that with an iron chisel and with lead
+O that with an iron chisel and with lead
+they were engraved in a rock forever!
+[25] As for me, I know that my Redeemer lives,
+As for me, I know that my Redeemer lives,
+and that as the last
+he will stand upon the earth.
+[26] And after my skin has been destroyed,
+And after my skin has been destroyed,
+yet in my flesh I will see God,
+[27] whom I will see for myself,
+whom I will see for myself,
+and whom my own eyes will behold,
+and not another.
+My heart grows faint within me.
+[28] If you say, ‘How we will pursue him,
+If you say, ‘How we will pursue him,
+since the root of the trouble is found in him!’
+[29] Fear the sword yourselves,
+Fear the sword yourselves,
+for wrath brings the punishment by the sword,
+so that you may know
+that there is judgment.”
+# Job
+
+## Chapter 20 <!-- scripture:20 -->
+
+### Zophar’s Second Speech
+
+[1] Then Zophar the Naamathite answered:
+[2] “This is why my troubled thoughts bring me back —
+“This is why my troubled thoughts bring me back —
+because of my feelings within me.
+[3] When I hear a reproof that dishonors me,
+When I hear a reproof that dishonors me,
+then my understanding prompts me to answer.
+ever since humankind was placed on the earth,
+[5] that the elation of the wicked is brief,
+that the elation of the wicked is brief,
+the joy of the godless lasts but a moment.
+[6] Even though his stature reaches to the heavens
+Even though his stature reaches to the heavens
+and his head touches the clouds,
+[7] he will perish forever, like his own excrement;
+he will perish forever, like his own excrement;
+those who used to see him will say, ‘Where is he?’
+[8] Like a dream he flies away, never again to be found,
+Like a dream he flies away, never again to be found,
+and like a vision of the night he is put to flight.
+[9] People who had seen him will not see him again,
+People who had seen him will not see him again,
+and the place where he was
+will recognize him no longer.
+[10] His sons must recompense the poor;
+His sons must recompense the poor;
+his own hands must return his wealth.
+[11] His bones were full of his youthful vigor,
+His bones were full of his youthful vigor,
+but that vigor will lie down with him in the dust.
+and he hides it under his tongue,
+[13] if he retains it for himself
+if he retains it for himself
+and does not let it go,
+and holds it fast in his mouth,
+[14] his food is turned sour in his stomach;
+his food is turned sour in his stomach;
+it becomes the venom of serpents within him.
+[15] The wealth that he consumed he vomits up,
+The wealth that he consumed he vomits up,
+God will make him throw it out of his stomach.
+[16] He sucks the poison of serpents;
+He sucks the poison of serpents;
+the fangs of a viper kill him.
+[17] He will not look on the streams,
+He will not look on the streams,
+the rivers that are the torrents
+of honey and butter.
+[18] He gives back the ill-gotten gain
+He gives back the ill-gotten gain
+without assimilating it;
+he will not enjoy the wealth from his commerce.
+[19] For he has oppressed the poor and abandoned them;
+For he has oppressed the poor and abandoned them;
+he has seized a house which he did not build.
+[20] For he knows no satisfaction in his appetite;
+For he knows no satisfaction in his appetite;
+he does not let anything he desires escape.
+[21] “Nothing is left for him to devour;
+“Nothing is left for him to devour;
+that is why his prosperity does not last.
+[22] In the fullness of his sufficiency,
+In the fullness of his sufficiency,
+distress overtakes him.
+The full force of misery will come upon him.
+[23] “While he is filling his belly,
+“While he is filling his belly,
+God sends his burning anger against him,
+and rains down his blows upon him.
+[24] If he flees from an iron weapon,
+If he flees from an iron weapon,
+then an arrow from a bronze bow pierces him.
+[25] When he pulls it out and it comes out of his back,
+When he pulls it out and it comes out of his back,
+the gleaming point out of his liver,
+terrors come over him.
+[26] Total darkness waits to receive his treasures;
+Total darkness waits to receive his treasures;
+a fire that has not been kindled
+will consume him and devour what is left in his tent.
+[27] The heavens reveal his iniquity;
+The heavens reveal his iniquity;
+the earth rises up against him.
+[28] A flood will carry off his house,
+A flood will carry off his house,
+rushing waters on the day of God’s wrath.
+[29] Such is the lot God allots the wicked,
+Such is the lot God allots the wicked,
+and the heritage of his appointment from God.”
+# Job
+
+## Chapter 21 <!-- scripture:21 -->
+
+### Job’s Reply to Zophar
+
+[1] Then Job answered:
+[2] “Listen carefully to my words;
+“Listen carefully to my words;
+let this be the consolation you offer me.
+[3] Bear with me and I will speak,
+Bear with me and I will speak,
+and after I have spoken you may mock.
+[4] Is my complaint against a man?
+Is my complaint against a man?
+If so, why should I not be impatient?
+[5] Look at me and be appalled;
+Look at me and be appalled;
+put your hands over your mouths.
+[6] For, when I think about this, I am terrified
+For, when I think about this, I am terrified
+and my body feels a shudder.
+[7] “Why do the wicked go on living,
+“Why do the wicked go on living,
+grow old, even increase in power?
+[8] Their children are firmly established in their presence,
+Their children are firmly established in their presence,
+their offspring before their eyes.
+[9] Their houses are safe and without fear;
+Their houses are safe and without fear;
+and no rod of punishment from God is upon them.
+[10] Their bulls breed without fail;
+Their bulls breed without fail;
+their cows calve and do not miscarry.
+[11] They allow their children to run like a flock;
+They allow their children to run like a flock;
+their little ones dance about.
+[12] They sing to the accompaniment of tambourine and harp,
+They sing to the accompaniment of tambourine and harp,
+and make merry to the sound of the flute.
+[13] They live out their years in prosperity
+They live out their years in prosperity
+and go down to the grave in peace.
+[14] So they say to God, ‘Turn away from us!
+So they say to God, ‘Turn away from us!
+We do not want to know your ways.
+[15] Who is the Almighty, that we should serve him?
+Who is the Almighty, that we should serve him?
+What would we gain
+if we were to pray to him?’
+[16] But their prosperity is not their own doing.
+But their prosperity is not their own doing.
+The counsel of the wicked is far from me!
+[17] “How often is the lamp of the wicked extinguished?
+“How often is the lamp of the wicked extinguished?
+How often does their misfortune come upon them?
+How often does God apportion pain to them in his anger?
+[18] How often are they like straw before the wind,
+How often are they like straw before the wind,
+and like chaff swept away by a whirlwind?
+[19] You may say, ‘God stores up a man’s punishment for his children!’
+You may say, ‘God stores up a man’s punishment for his children!’
+Instead let him repay the man himself
+so that he may be humbled!
+[20] Let his own eyes see his destruction;
+Let his own eyes see his destruction;
+let him drink of the anger of the Almighty.
+[21] For what is his interest in his home
+For what is his interest in his home
+after his death,
+when the number of his months
+has been broken off?
+[22] Can anyone teach God knowledge,
+Can anyone teach God knowledge,
+since he judges those that are on high?
+[23] “One man dies in his full vigor,
+“One man dies in his full vigor,
+completely secure and prosperous,
+[24] his body well nourished,
+his body well nourished,
+and the marrow of his bones moist.
+[25] And another man dies in bitterness of soul,
+And another man dies in bitterness of soul,
+never having tasted anything good.
+[26] Together they lie down in the dust,
+Together they lie down in the dust,
+and worms cover over them both.
+[27] “Yes, I know what you are thinking,
+“Yes, I know what you are thinking,
+the schemes by which you would wrong me.
+[28] For you say,
+For you say,
+‘Where now is the nobleman’s house,
+and where are the tents in which the wicked lived?’
+[29] Have you never questioned those who travel the roads?
+Have you never questioned those who travel the roads?
+Do you not recognize their accounts —
+[30] that the evil man is spared
+that the evil man is spared
+from the day of his misfortune,
+that he is delivered
+from the day of God’s wrath?
+[31] No one denounces his conduct to his face;
+No one denounces his conduct to his face;
+no one repays him for what he has done.
+[32] And when he is carried to the tombs,
+And when he is carried to the tombs,
+and watch is kept over the funeral mound,
+[33] The clods of the torrent valley are sweet to him;
+The clods of the torrent valley are sweet to him;
+behind him everybody follows in procession,
+and before him goes a countless throng.
+[34] So how can you console me with your futile words?
+So how can you console me with your futile words?
+Nothing is left of your answers but deception!”
+# Job
+
+## Chapter 22 <!-- scripture:22 -->
+
+### Eliphaz’s Third Speech
+
+[1] Then Eliphaz the Temanite answered:
+[2] “Is it to God that a strong man is of benefit?
+“Is it to God that a strong man is of benefit?
+Is it to him that even a wise man is profitable?
+[3] Is it of any special benefit to the Almighty
+Is it of any special benefit to the Almighty
+that you should be righteous,
+or is it any gain to him
+that you make your ways blameless?
+[4] Is it because of your piety that he rebukes you
+Is it because of your piety that he rebukes you
+and goes to judgment with you?
+[5] Is not your wickedness great
+Is not your wickedness great
+and is there no end to your iniquity?
+for no reason,
+and you stripped the clothing from the naked.
+[7] You gave the weary no water to drink
+You gave the weary no water to drink
+and from the hungry you withheld food.
+[8] Although you were a powerful man, owning land,
+Although you were a powerful man, owning land,
+an honored man living on it,
+[9] you sent widows away empty-handed,
+you sent widows away empty-handed,
+and the arms of the orphans you crushed.
+[10] That is why snares surround you,
+That is why snares surround you,
+and why sudden fear terrifies you,
+[11] why it is so dark you cannot see,
+why it is so dark you cannot see,
+and why a flood of water covers you.
+And see the lofty stars, how high they are!
+[13] But you have said, ‘What does God know?
+But you have said, ‘What does God know?
+Does he judge through such deep darkness?
+[14] Thick clouds are a veil for him, so he does not see us,
+Thick clouds are a veil for him, so he does not see us,
+as he goes back and forth
+in the vault of heaven.’
+[15] Will you keep to the old path
+Will you keep to the old path
+that evil men have walked—
+[16] men who were carried off before their time,
+men who were carried off before their time,
+when the flood was poured out
+on their foundations?
+[17] They were saying to God, ‘Turn away from us,’
+They were saying to God, ‘Turn away from us,’
+and, ‘What can the Almighty do to us?’
+[18] But it was he who filled their houses
+But it was he who filled their houses
+with good things—
+yet the counsel of the wicked
+was far from me.
+[19] The righteous see their destruction and rejoice;
+The righteous see their destruction and rejoice;
+the innocent mock them scornfully, saying,
+[20] ‘Surely our enemies are destroyed,
+‘Surely our enemies are destroyed,
+and fire consumes their wealth.’
+and be at peace with him;
+in this way your prosperity will be good.
+[22] Accept instruction from his mouth
+Accept instruction from his mouth
+and store up his words in your heart.
+[23] If you return to the Almighty, you will be built up;
+If you return to the Almighty, you will be built up;
+if you remove wicked behavior far from your tent,
+[24] and throw your gold in the dust—
+and throw your gold in the dust—
+your gold of Ophir
+among the rocks in the ravines—
+[25] then the Almighty himself will be your gold,
+then the Almighty himself will be your gold,
+and the choicest silver for you.
+[26] Surely then you will delight yourself in the Almighty,
+Surely then you will delight yourself in the Almighty,
+and will lift up your face toward God.
+[27] You will pray to him and he will hear you,
+You will pray to him and he will hear you,
+and you will fulfill your vows to him.
+[28] Whatever you decide on a matter,
+Whatever you decide on a matter,
+it will be established for you,
+and light will shine on your ways.
+[29] When people are brought low and you say,
+When people are brought low and you say,
+‘Lift them up!’
+then he will save the downcast;
+[30] he will deliver even someone who is not innocent,
+he will deliver even someone who is not innocent,
+who will escape through the cleanness of your hands.”
+# Job
+
+## Chapter 23 <!-- scripture:23 -->
+
+### Job’s Reply to Eliphaz
+
+[1] Then Job answered:
+[2] “Even today my complaint is still bitter;
+“Even today my complaint is still bitter;
+his hand is heavy despite my groaning.
+[3] O that I knew where I might find him,
+O that I knew where I might find him,
+that I could come to his place of residence!
+[4] I would lay out my case before him
+I would lay out my case before him
+and fill my mouth with arguments.
+[5] I would know with what words he would answer me,
+I would know with what words he would answer me,
+and understand what he would say to me.
+[6] Would he contend with me with great power?
+Would he contend with me with great power?
+No, he would only pay attention to me.
+[7] There an upright person
+There an upright person
+could present his case before him,
+and I would be delivered forever from my judge.
+[8] “If I go to the east, he is not there,
+“If I go to the east, he is not there,
+and to the west, yet I do not perceive him.
+[9] In the north when he is at work,
+In the north when he is at work,
+I do not see him;
+when he turns to the south,
+I see no trace of him.
+[10] But he knows the pathway that I take;
+But he knows the pathway that I take;
+if he tested me, I would come forth like gold.
+[11] My feet have followed his steps closely;
+My feet have followed his steps closely;
+I have kept to his way and have not turned aside.
+[12] I have not departed from the commands of his lips;
+I have not departed from the commands of his lips;
+I have treasured the words of his mouth more than my allotted portion.
+[13] But he is unchangeable, and who can change him?
+But he is unchangeable, and who can change him?
+Whatever he has desired, he does.
+[14] For he fulfills his decree against me,
+For he fulfills his decree against me,
+and many such things are his plans.
+[15] That is why I am terrified in his presence;
+That is why I am terrified in his presence;
+when I consider, I am afraid because of him.
+[16] Indeed, God has made my heart faint;
+Indeed, God has made my heart faint;
+the Almighty has terrified me.
+[17] Yet I have not been silent because of the darkness,
+Yet I have not been silent because of the darkness,
+because of the thick darkness
+that covered my face.
+# Job
+
+## Chapter 24 <!-- scripture:24 -->
+
+### The Apparent Indifference of God
+
+[1] “Why are times not appointed by the Almighty?
+“Why are times not appointed by the Almighty?
+Why do those who know him not see his days?
+[2] Men move boundary stones;
+Men move boundary stones;
+they seize the flock and pasture them.
+[3] They drive away the orphan’s donkey;
+They drive away the orphan’s donkey;
+they take the widow’s ox as a pledge.
+[4] They turn the needy from the pathway,
+They turn the needy from the pathway,
+and the poor of the land hide themselves together.
+[5] Like wild donkeys in the wilderness,
+Like wild donkeys in the wilderness,
+they go out to their labor seeking diligently for food;
+the arid rift valley provides food for them and for their children.
+[6] They reap fodder in the field,
+They reap fodder in the field,
+and glean in the vineyard of the wicked.
+[7] They spend the night naked because they lack clothing;
+They spend the night naked because they lack clothing;
+they have no covering against the cold.
+[8] They are soaked by mountain rains
+They are soaked by mountain rains
+and huddle in the rocks because they lack shelter.
+[9] The fatherless child is snatched from the breast,
+The fatherless child is snatched from the breast,
+the infant of the poor is taken as a pledge.
+[10] They go about naked, without clothing,
+They go about naked, without clothing,
+and go hungry while they carry the sheaves.
+[11] They press out the olive oil between the rows of olive trees;
+They press out the olive oil between the rows of olive trees;
+they tread the winepresses while they are thirsty.
+[12] From the city the dying groan,
+From the city the dying groan,
+and the wounded cry out for help,
+but God charges no one with wrongdoing.
+[13] There are those who rebel against the light;
+There are those who rebel against the light;
+they do not know its ways
+and they do not stay on its paths.
+[14] Before daybreak the murderer rises up;
+Before daybreak the murderer rises up;
+he kills the poor and the needy;
+in the night he is like a thief.
+[15] And the eye of the adulterer watches for the twilight,
+And the eye of the adulterer watches for the twilight,
+thinking, ‘No eye can see me,’
+and covers his face with a mask.
+[16] In the dark the robber breaks into houses,
+In the dark the robber breaks into houses,
+but by day they shut themselves in;
+they do not know the light.
+[17] For all of them, the morning is to them like deep darkness;
+For all of them, the morning is to them like deep darkness;
+they are friends with the terrors of darkness.
+their portion of the land is cursed
+so that no one goes to their vineyard.
+[19] The drought as well as the heat
+The drought as well as the heat
+snatch up the melted snow;
+so the grave snatches up the sinner.
+[20] The womb forgets him,
+The womb forgets him,
+the worm feasts on him,
+no longer will he be remembered.
+Like a tree, wickedness will be broken down.
+[21] He preys on the barren and childless woman,
+He preys on the barren and childless woman,
+and does not treat the widow well.
+[22] But God drags off the mighty by his power;
+But God drags off the mighty by his power;
+when God rises up against him, he has no faith in his life.
+[23] God may let them rest in a feeling of security,
+God may let them rest in a feeling of security,
+but he is constantly watching all their ways.
+[24] They are exalted for a little while, and then they are gone,
+They are exalted for a little while, and then they are gone,
+they are brought low like all others, and gathered in,
+and like a head of grain they are cut off.’
+and reduce my words to nothing?”
+# Job
+
+## Chapter 25 <!-- scripture:25 -->
+
+### Bildad’s Third Speech
+
+[1] Then Bildad the Shuhite answered:
+[2] “Dominion and awesome might belong to God;
+“Dominion and awesome might belong to God;
+he establishes peace in his heights.
+[3] Can his armies be numbered?
+Can his armies be numbered?
+On whom does his light not rise?
+[4] How then can a human being be righteous before God?
+How then can a human being be righteous before God?
+How can one born of a woman be pure?
+[5] If even the moon is not bright,
+If even the moon is not bright,
+and the stars are not pure as far as he is concerned,
+[6] how much less a mortal man, who is but a maggot —
+how much less a mortal man, who is but a maggot —
+a son of man, who is only a worm!”
+# Job
+
+## Chapter 26 <!-- scripture:26 -->
+
+### Job’s Reply to Bildad
+
+[1] Then Job replied:
+[2] “How you have helped the powerless!
+“How you have helped the powerless!
+How you have saved the person who has no strength!
+[3] How you have advised the one without wisdom,
+How you have advised the one without wisdom,
+and abundantly revealed your insight!
+[4] To whom did you utter these words?
+To whom did you utter these words?
+And whose spirit has come forth from your mouth?
+[5] “The dead tremble —
+“The dead tremble —
+those beneath the waters
+and all that live in them.
+[6] The underworld is naked before God;
+The underworld is naked before God;
+the place of destruction lies uncovered.
+[7] He spreads out the northern skies over empty space;
+He spreads out the northern skies over empty space;
+he suspends the earth on nothing.
+[8] He locks the waters in his clouds,
+He locks the waters in his clouds,
+and the clouds do not burst with the weight of them.
+[9] He conceals the face of the full moon,
+He conceals the face of the full moon,
+shrouding it with his clouds.
+[10] He marks out the horizon on the surface of the waters
+He marks out the horizon on the surface of the waters
+as a boundary between light and darkness.
+[11] The pillars of the heavens tremble
+The pillars of the heavens tremble
+and are amazed at his rebuke.
+[12] By his power he stills the sea;
+By his power he stills the sea;
+by his wisdom he cut Rahab the great sea monster to pieces.
+[13] By his breath the skies became fair;
+By his breath the skies became fair;
+his hand pierced the fleeing serpent.
+[14] Indeed, these are but the outer fringes of his ways!
+Indeed, these are but the outer fringes of his ways!
+How faint is the whisper we hear of him!
+But who can understand the thunder of his power?”
+# Job
+
+## Chapter 27 <!-- scripture:27 -->
+
+### A Protest of Innocence
+
+[1] And Job took up his discourse again:
+[2] “As surely as God lives, who has denied me justice,
+“As surely as God lives, who has denied me justice,
+the Almighty, who has made my life bitter —
+[3] for while my spirit is still in me,
+for while my spirit is still in me,
+and the breath from God is in my nostrils,
+[4] my lips will not speak wickedness,
+my lips will not speak wickedness,
+and my tongue will whisper no deceit.
+[5] I will never declare that you three are in the right;
+I will never declare that you three are in the right;
+until I die, I will not set aside my integrity!
+[6] I will maintain my righteousness
+I will maintain my righteousness
+and never let it go;
+my conscience will not reproach me
+for as long as I live.
+[7] “May my enemy be like the wicked,
+“May my enemy be like the wicked,
+my adversary like the unrighteous.
+[8] For what hope does the godless have when he is cut off,
+For what hope does the godless have when he is cut off,
+when God takes away his life?
+[9] Does God listen to his cry
+Does God listen to his cry
+when distress overtakes him?
+[10] Will he find delight in the Almighty?
+Will he find delight in the Almighty?
+Will he call out to God at all times?
+[11] I will teach you about the power of God;
+I will teach you about the power of God;
+what is on the Almighty’s mind I will not conceal.
+[12] If you yourselves have all seen this,
+If you yourselves have all seen this,
+Why in the world do you continue this meaningless talk?
+[13] This is the portion of the wicked man
+This is the portion of the wicked man
+allotted by God,
+the inheritance that evildoers receive
+from the Almighty.
+[14] If his children increase—it is for the sword!
+If his children increase—it is for the sword!
+His offspring never have enough to eat.
+[15] Those who survive him are buried by the plague,
+Those who survive him are buried by the plague,
+and their widows do not mourn for them.
+[16] If he piles up silver like dust
+If he piles up silver like dust
+and stores up clothing like mounds of clay,
+[17] what he stores up a righteous man will wear,
+what he stores up a righteous man will wear,
+and an innocent man will inherit his silver.
+[18] The house he builds is as fragile as a moth’s cocoon,
+The house he builds is as fragile as a moth’s cocoon,
+like a hut that a watchman has made.
+[19] He goes to bed wealthy, but will do so no more.
+He goes to bed wealthy, but will do so no more.
+When he opens his eyes, it is all gone.
+[20] Terrors overwhelm him like a flood;
+Terrors overwhelm him like a flood;
+at night a whirlwind carries him off.
+[21] The east wind carries him away, and he is gone;
+The east wind carries him away, and he is gone;
+it sweeps him out of his place.
+[22] It hurls itself against him without pity
+It hurls itself against him without pity
+as he flees headlong from its power.
+[23] It claps its hands at him in derision
+It claps its hands at him in derision
+and hisses him away from his place.
+# Job
+
+## Chapter 28 <!-- scripture:28 -->
+
+### III. Job’s Search for Wisdom (28:1—28)
+
+[1] “Surely there is a mine for silver,
+“Surely there is a mine for silver,
+and a place where gold is refined.
+[2] Iron is taken from the ground,
+Iron is taken from the ground,
+and rock is poured out as copper.
+[3] Man puts an end to the darkness;
+Man puts an end to the darkness;
+he searches the farthest recesses
+for the ore in the deepest darkness.
+[4] Far from where people live he sinks a shaft,
+Far from where people live he sinks a shaft,
+in places travelers have long forgotten,
+far from other people he dangles and sways.
+[5] The earth, from which food comes,
+The earth, from which food comes,
+is overturned below as though by fire;
+[6] a place whose stones are sapphires
+a place whose stones are sapphires
+that contain dust of gold;
+[7] a hidden path no bird of prey knows—
+a hidden path no bird of prey knows—
+no falcon’s eye has spotted it.
+[8] Proud beasts have not set foot on it,
+Proud beasts have not set foot on it,
+and no lion has passed along it.
+[9] On the flinty rock man has set to work with his hand;
+On the flinty rock man has set to work with his hand;
+he has overturned mountains at their bases.
+[10] He has cut out channels through the rocks;
+He has cut out channels through the rocks;
+his eyes have spotted every precious thing.
+[11] He has searched the sources of the rivers
+He has searched the sources of the rivers
+and what was hidden he has brought into the light.
+[12] “But wisdom—where can it be found?
+“But wisdom—where can it be found?
+Where is the place of understanding?
+[13] Mankind does not know its place;
+Mankind does not know its place;
+it cannot be found in the land of the living.
+[14] The deep says, ‘It is not with me.’
+The deep says, ‘It is not with me.’
+And the sea says, ‘It is not with me.’
+[15] Fine gold cannot be given in exchange for it,
+Fine gold cannot be given in exchange for it,
+nor can its price be weighed out in silver.
+[16] It cannot be measured out for purchase with the gold of Ophir,
+It cannot be measured out for purchase with the gold of Ophir,
+with precious onyx or sapphires.
+[17] Neither gold nor crystal can be compared with it,
+Neither gold nor crystal can be compared with it,
+nor can a vase of gold match its worth.
+[18] Of coral and jasper no mention will be made;
+Of coral and jasper no mention will be made;
+the price of wisdom is more than pearls.
+[19] The topaz of Cush cannot be compared with it;
+The topaz of Cush cannot be compared with it;
+it cannot be purchased with pure gold.
+[20] “But wisdom—where does it come from?
+“But wisdom—where does it come from?
+Where is the place of understanding?
+[21] For it has been hidden
+For it has been hidden
+from the eyes of every living creature,
+and from the birds of the sky it has been concealed.
+[22] Destruction and Death say,
+Destruction and Death say,
+‘With our ears we have heard a rumor about where it can be found.’
+[23] God understands the way to it,
+God understands the way to it,
+and he alone knows its place.
+[24] For he looks to the ends of the earth
+For he looks to the ends of the earth
+and observes everything under the heavens.
+[25] When he made the force of the wind
+When he made the force of the wind
+and measured the waters with a gauge,
+[26] when he imposed a limit for the rain,
+when he imposed a limit for the rain,
+and a path for the thunderstorm,
+[27] then he looked at wisdom and assessed its value;
+then he looked at wisdom and assessed its value;
+he established it and examined it closely.
+[28] And he said to mankind,
+And he said to mankind,
+‘The fear of the Lord —that is wisdom,
+and to turn away from evil is understanding.’”
+# Job
+
+## Chapter 29 <!-- scripture:29 -->
+
+### IV. Job’s Concluding Soliloquy (29:1—31:40)
+
+[1] Then Job continued his speech:
+[2] “O that I could be as I was
+“O that I could be as I was
+in the months now gone,
+in the days when God watched over me,
+[3] when he caused his lamp
+when he caused his lamp
+to shine upon my head,
+and by his light
+I walked through darkness;
+[4] just as I was in my most productive time,
+just as I was in my most productive time,
+when God’s intimate friendship was experienced in my tent,
+[5] when the Almighty was still with me
+when the Almighty was still with me
+and my children were around me;
+[6] when my steps were bathed with butter
+when my steps were bathed with butter
+and the rock poured out for me streams of olive oil!
+[7] When I went out to the city gate
+When I went out to the city gate
+and secured my seat in the public square,
+[8] the young men would see me and step aside,
+the young men would see me and step aside,
+and the old men would get up and remain standing;
+[9] the chief men refrained from talking
+the chief men refrained from talking
+and covered their mouths with their hands;
+[10] the voices of the nobles fell silent,
+the voices of the nobles fell silent,
+and their tongues stuck to the roof of their mouths.
+[11] “As soon as the ear heard these things, it blessed me,
+“As soon as the ear heard these things, it blessed me,
+and when the eye saw them, it bore witness to me,
+[12] for I rescued the poor who cried out for help,
+for I rescued the poor who cried out for help,
+and the orphan who had no one to assist him;
+[13] the blessing of the dying man descended on me,
+the blessing of the dying man descended on me,
+and I made the widow’s heart rejoice;
+[14] I put on righteousness and it clothed me,
+I put on righteousness and it clothed me,
+my just dealing was like a robe and a turban;
+[15] I was eyes for the blind
+I was eyes for the blind
+and feet for the lame;
+[16] I was a father to the needy,
+I was a father to the needy,
+and I investigated the case of the person I did not know;
+[17] I broke the fangs of the wicked,
+I broke the fangs of the wicked,
+and made him drop his prey from his teeth.
+[18] “Then I thought, ‘I will die in my own home,
+“Then I thought, ‘I will die in my own home,
+my days as numerous as the grains of sand.
+[19] My roots reach the water,
+My roots reach the water,
+and the dew lies on my branches all night long.
+[20] My glory will always be fresh in me,
+My glory will always be fresh in me,
+and my bow ever new in my hand.’
+[21] “People listened to me and waited silently;
+“People listened to me and waited silently;
+they kept silent for my advice.
+[22] After I had spoken, they did not respond;
+After I had spoken, they did not respond;
+my words fell on them drop by drop.
+[23] They waited for me as people wait for the rain,
+They waited for me as people wait for the rain,
+and they opened their mouths as for the spring rains.
+[24] If I smiled at them, they hardly believed it;
+If I smiled at them, they hardly believed it;
+and they did not cause the light of my face to darken.
+[25] I chose the way for them
+I chose the way for them
+and sat as their chief;
+I lived like a king among his troops;
+I was like one who comforts mourners.
+# Job
+
+## Chapter 30 <!-- scripture:30 -->
+
+### Job’s Present Misery
+
+[1] “But now they mock me, those who are younger than I,
+“But now they mock me, those who are younger than I,
+whose fathers I disdained too much
+to put with my sheep dogs.
+[2] Moreover, the strength of their hands—
+Moreover, the strength of their hands—
+what use was it to me?
+Those whose strength had perished,
+[3] gaunt with want and hunger,
+gaunt with want and hunger,
+they would roam the parched land,
+by night a desolate waste.
+[4] By the brush they would gather herbs from the salt marshes,
+By the brush they would gather herbs from the salt marshes,
+and the root of the broom tree was their food.
+[5] They were banished from the community —
+They were banished from the community —
+people shouted at them
+as they would shout at thieves —
+[6] so that they had to live
+so that they had to live
+in the dry stream beds,
+in the holes of the ground, and among the rocks.
+[7] They brayed like animals among the bushes
+They brayed like animals among the bushes
+and were huddled together under the nettles.
+[8] Sons of senseless and nameless people,
+Sons of senseless and nameless people,
+they were driven out of the land with whips.
+[9] “And now I have become their taunt song;
+“And now I have become their taunt song;
+I have become a byword among them.
+[10] They detest me and maintain their distance;
+They detest me and maintain their distance;
+they do not hesitate to spit in my face.
+[11] Because God has untied my tent cord and afflicted me,
+Because God has untied my tent cord and afflicted me,
+people throw off all restraint in my presence.
+[12] On my right the young rabble rise up;
+On my right the young rabble rise up;
+they drive me from place to place,
+and build up siege ramps against me.
+[13] They destroy my path;
+They destroy my path;
+they succeed in destroying me
+without anyone assisting them.
+[14] They come in as through a wide breach;
+They come in as through a wide breach;
+amid the crash they come rolling in.
+[15] Terrors are turned loose on me;
+Terrors are turned loose on me;
+they drive away my honor like the wind,
+and as a cloud my deliverance has passed away.
+[16] “And now my soul pours itself out within me;
+“And now my soul pours itself out within me;
+days of suffering take hold of me.
+[17] Night pierces my bones;
+Night pierces my bones;
+my gnawing pains never cease.
+[18] With great power God grasps my clothing;
+With great power God grasps my clothing;
+he binds me like the collar of my tunic.
+[19] He has flung me into the mud,
+He has flung me into the mud,
+and I have come to resemble dust and ashes.
+[20] I cry out to you, but you do not answer me;
+I cry out to you, but you do not answer me;
+I stand up, and you only look at me.
+[21] You have become cruel to me;
+You have become cruel to me;
+with the strength of your hand you attack me.
+[22] You pick me up on the wind and make me ride on it;
+You pick me up on the wind and make me ride on it;
+you toss me about in the storm.
+[23] I know that you are bringing me to death,
+I know that you are bringing me to death,
+to the meeting place for all the living.
+[24] “Surely one does not stretch out his hand
+“Surely one does not stretch out his hand
+against a broken man
+when he cries for help in his distress.
+[25] Have I not wept for the unfortunate?
+Have I not wept for the unfortunate?
+Was not my soul grieved for the poor?
+[26] But when I hoped for good, trouble came;
+But when I hoped for good, trouble came;
+when I expected light, then darkness came.
+[27] My heart is in turmoil unceasingly;
+My heart is in turmoil unceasingly;
+the days of my affliction confront me.
+[28] I go about blackened, but not by the sun;
+I go about blackened, but not by the sun;
+in the assembly I stand up and cry for help.
+[29] I have become a brother to jackals
+I have become a brother to jackals
+and a companion of ostriches.
+[30] My skin has turned dark on me;
+My skin has turned dark on me;
+my body is hot with fever.
+[31] My harp is used for mourning
+My harp is used for mourning
+and my flute for the sound of weeping.
+# Job
+
+## Chapter 31 <!-- scripture:31 -->
+
+### Job Vindicates Himself
+
+[1] “I made a covenant with my eyes;
+“I made a covenant with my eyes;
+how then could I entertain thoughts against a virgin?
+[2] What then would be one’s lot from God above,
+What then would be one’s lot from God above,
+one’s heritage from the Almighty on high?
+[3] Is it not misfortune for the unjust,
+Is it not misfortune for the unjust,
+and disaster for those who work iniquity?
+[4] Does he not see my ways
+Does he not see my ways
+and count all my steps?
+[5] If I have walked in falsehood,
+If I have walked in falsehood,
+and if my foot has hastened to deceit—
+[6] let him weigh me with honest scales;
+let him weigh me with honest scales;
+then God will discover my integrity.
+[7] If my footsteps have strayed from the way,
+If my footsteps have strayed from the way,
+if my heart has gone after my eyes,
+or if anything has defiled my hands,
+[8] then let me sow and let another eat,
+then let me sow and let another eat,
+and let my crops be uprooted.
+[9] If my heart has been enticed by a woman,
+If my heart has been enticed by a woman,
+and I have lain in wait at my neighbor’s door,
+[10] then let my wife turn the millstone for another man,
+then let my wife turn the millstone for another man,
+and may other men commit adultery with her.
+[11] For I would have committed a shameful act,
+For I would have committed a shameful act,
+an iniquity to be judged.
+[12] For it is a fire that devours even to Destruction,
+For it is a fire that devours even to Destruction,
+and it would uproot all my harvest.
+or my female servants
+when they disputed with me,
+[14] then what will I do when God confronts me in judgment;
+then what will I do when God confronts me in judgment;
+when he intervenes,
+how will I respond to him?
+[15] Did not the one who made me in the womb make them?
+Did not the one who made me in the womb make them?
+Did not the same one form us in the womb?
+[16] If I have refused to give the poor what they desired,
+If I have refused to give the poor what they desired,
+or caused the eyes of the widow to fail,
+[17] If I ate my morsel of bread myself,
+If I ate my morsel of bread myself,
+and did not share any of it with orphans —
+[18] but from my youth I raised the orphan like a father,
+but from my youth I raised the orphan like a father,
+and from my mother’s womb I guided the widow —
+[19] If I have seen anyone about to perish for lack of clothing,
+If I have seen anyone about to perish for lack of clothing,
+or a poor man without a coat,
+[20] whose heart did not bless me
+whose heart did not bless me
+as he warmed himself with the fleece of my sheep,
+[21] if I have raised my hand to vote against the orphan,
+if I have raised my hand to vote against the orphan,
+when I saw my support in the court,
+[22] then let my arm fall from the shoulder,
+then let my arm fall from the shoulder,
+let my arm be broken off at the socket.
+[23] For the calamity from God was a terror to me,
+For the calamity from God was a terror to me,
+and by reason of his majesty I was powerless.
+or said to pure gold,
+‘You are my security!’
+[25] if I have rejoiced because of the extent of my wealth,
+if I have rejoiced because of the extent of my wealth,
+or because of the great wealth my hand had gained,
+[26] if I looked at the sun when it was shining,
+if I looked at the sun when it was shining,
+and the moon advancing as a precious thing,
+[27] so that my heart was secretly enticed,
+so that my heart was secretly enticed,
+and my hand threw them a kiss from my mouth,
+[28] then this also would be iniquity to be judged,
+then this also would be iniquity to be judged,
+for I would have been false to God above.
+[29] If I have rejoiced over the misfortune of my enemy
+If I have rejoiced over the misfortune of my enemy
+or exulted because calamity found him—
+[30] I have not even permitted my mouth to sin
+I have not even permitted my mouth to sin
+by asking for his life through a curse—
+[31] if the members of my household have never said,
+if the members of my household have never said,
+‘If only there were someone
+who has not been satisfied from Job’s meat!’—
+[32] But no stranger had to spend the night outside,
+But no stranger had to spend the night outside,
+for I opened my doors to the traveler —
+[33] if I have covered my transgressions as men do,
+if I have covered my transgressions as men do,
+by hiding iniquity in my heart,
+[34] because I was terrified of the great multitude,
+because I was terrified of the great multitude,
+and the contempt of families terrified me,
+so that I remained silent
+and would not go outdoors—
+[35] “If only I had someone to hear me!
+“If only I had someone to hear me!
+Here is my signature —
+let the Almighty answer me!
+If only I had an indictment
+that my accuser had written.
+[36] Surely I would wear it proudly on my shoulder,
+Surely I would wear it proudly on my shoulder,
+I would bind it on me like a crown;
+[37] I would give him an accounting of my steps;
+I would give him an accounting of my steps;
+like a prince I would draw near to him.
+[38] “If my land cried out against me
+“If my land cried out against me
+and all its furrows wept together,
+[39] if I have eaten its produce without paying,
+if I have eaten its produce without paying,
+or caused the death of its owners,
+[40] then let thorns sprout up in place of wheat,
+then let thorns sprout up in place of wheat,
+and in place of barley, noxious weeds.”
+# Job
+
+## Chapter 32 <!-- scripture:32 -->
+
+### V. The Speeches of Elihu (32:1—37:24)
+
+[1] So these three men refused to answer Job further, because he was righteous in his own eyes. 
+[2] Then Elihu son of Barakel the Buzite, of the family of Ram, became very angry. He was angry with Job for justifying himself rather than God. 
+[3] With Job’s three friends he was also angry, because they could not find an answer, and so declared Job guilty. 
+[4] Now Elihu had waited before speaking to Job, because the others were older than he was. 
+[5] But when Elihu saw that the three men had no further reply, he became very angry.
+[6] So Elihu son of Barakel the Buzite spoke up:
+“I am young, but you are elderly;
+that is why I was fearful,
+and afraid to explain to you what I know.
+[7] I said to myself, ‘Age should speak,
+I said to myself, ‘Age should speak,
+and length of years should make wisdom known.’
+[8] But it is a spirit in people,
+But it is a spirit in people,
+the breath of the Almighty,
+that makes them understand.
+[9] It is not the aged who are wise,
+It is not the aged who are wise,
+nor old men who understand what is right.
+[10] Therefore I say, ‘Listen to me.
+Therefore I say, ‘Listen to me.
+I, even I, will explain what I know.’
+[11] Look, I waited for you to speak;
+Look, I waited for you to speak;
+I listened closely to your wise thoughts, while you were searching for words.
+[12] Now I was paying you close attention,
+Now I was paying you close attention,
+yet there was no one proving Job wrong,
+not one of you was answering his statements.
+[13] So do not say, ‘We have found wisdom.
+So do not say, ‘We have found wisdom.
+God will refute him, not man.’
+[14] Job has not directed his words to me,
+Job has not directed his words to me,
+and so I will not reply to him with your arguments.
+[15] “They are dismayed and cannot answer anymore;
+“They are dismayed and cannot answer anymore;
+they have nothing left to say.
+[16] And I have waited. But because they do not speak,
+And I have waited. But because they do not speak,
+because they stand there and answer no more,
+[17] I too will answer my part,
+I too will answer my part,
+I too will explain what I know.
+[18] For I am full of words,
+For I am full of words,
+and the spirit within me constrains me.
+[19] Inside I am like wine that has no outlet,
+Inside I am like wine that has no outlet,
+like new wineskins ready to burst!
+[20] I will speak, so that I may find relief;
+I will speak, so that I may find relief;
+I will open my lips, so that I may answer.
+[21] I will not show partiality to any person,
+I will not show partiality to any person,
+nor will I confer a title on anyone.
+[22] For I do not know how to give honorary titles,
+For I do not know how to give honorary titles,
+if I did, my Creator would quickly do away with me.
+# Job
+
+## Chapter 33 <!-- scripture:33 -->
+
+### Elihu Invites Job’s Attention
+
+[1] “But now, O Job, listen to my words,
+“But now, O Job, listen to my words,
+and hear everything I have to say.
+[2] See now, I have opened my mouth;
+See now, I have opened my mouth;
+my tongue in my mouth has spoken.
+[3] My words come from the uprightness of my heart,
+My words come from the uprightness of my heart,
+and my lips will utter knowledge sincerely.
+[4] The Spirit of God has made me,
+The Spirit of God has made me,
+and the breath of the Almighty gives me life.
+[5] Reply to me, if you can;
+Reply to me, if you can;
+set your arguments in order before me
+and take your stand.
+[6] Look, I am just like you in relation to God;
+Look, I am just like you in relation to God;
+I too have been molded from clay.
+[7] Therefore no fear of me should terrify you,
+Therefore no fear of me should terrify you,
+nor should my pressure be heavy on you.
+[8] “Indeed, you have said in my hearing
+“Indeed, you have said in my hearing
+(I heard the sound of the words!):
+[9] ‘I am pure, without transgression;
+‘I am pure, without transgression;
+I am clean and have no iniquity.
+[10] Yet God finds occasions with me;
+Yet God finds occasions with me;
+he regards me as his enemy.
+[11] He puts my feet in shackles;
+He puts my feet in shackles;
+he watches closely all my paths.’
+[12] Now in this, you are not right—I answer you,
+Now in this, you are not right—I answer you,
+for God is greater than a human being.
+[13] Why do you contend against him,
+Why do you contend against him,
+that he does not answer all a person’s words?
+[14] “For God speaks, the first time in one way,
+“For God speaks, the first time in one way,
+the second time in another,
+though a person does not perceive it.
+[15] In a dream, a night vision,
+In a dream, a night vision,
+when deep sleep falls on people
+as they sleep in their beds.
+[16] Then he gives a revelation to people,
+Then he gives a revelation to people,
+and terrifies them with warnings,
+[17] to turn a person from his sin,
+to turn a person from his sin,
+and to cover a person’s pride.
+[18] He spares a person’s life from corruption,
+He spares a person’s life from corruption,
+his very life from crossing over the river.
+[19] Or a person is chastened by pain on his bed,
+Or a person is chastened by pain on his bed,
+and with the continual strife of his bones,
+[20] so that his life loathes food,
+so that his life loathes food,
+and his soul rejects appetizing fare.
+[21] His flesh wastes away from sight,
+His flesh wastes away from sight,
+and his bones, which were not seen,
+are easily visible.
+[22] He draws near to the place of corruption,
+He draws near to the place of corruption,
+and his life to the messengers of death.
+[23] If there is an angel beside him,
+If there is an angel beside him,
+one mediator out of a thousand,
+to tell a person what constitutes his uprightness;
+[24] and if God is gracious to him and says,
+and if God is gracious to him and says,
+‘Spare him from going down
+to the place of corruption,
+I have found a ransom for him,’
+[25] then his flesh is restored like a youth’s;
+then his flesh is restored like a youth’s;
+he returns to the days of his youthful vigor.
+[26] He entreats God, and God delights in him,
+He entreats God, and God delights in him,
+he sees God’s face with rejoicing,
+and God restores to him his righteousness.
+[27] That person sings to others, saying:
+That person sings to others, saying:
+‘I have sinned and falsified what is right,
+but I was not punished according to what I deserved.
+[28] He redeemed my life
+He redeemed my life
+from going down to the place of corruption,
+and my life sees the light!’
+[29] “Indeed, God does all these things,
+“Indeed, God does all these things,
+twice, three times, in his dealings with a person,
+[30] to turn back his life from the place of corruption,
+to turn back his life from the place of corruption,
+that he may be enlightened with the light of life.
+[31] Pay attention, Job—listen to me;
+Pay attention, Job—listen to me;
+be silent, and I will speak.
+[32] If you have any words, reply to me;
+If you have any words, reply to me;
+speak, for I want to justify you.
+[33] If not, you listen to me;
+If not, you listen to me;
+be silent, and I will teach you wisdom.”
+# Job
+
+## Chapter 34 <!-- scripture:34 -->
+
+### Elihu’s Second Speech
+
+[1] Elihu answered:
+[2] “Listen to my words, you wise men;
+“Listen to my words, you wise men;
+hear me, you learned men.
+[3] For the ear assesses words
+For the ear assesses words
+as the mouth tastes food.
+[4] Let us evaluate for ourselves what is right;
+Let us evaluate for ourselves what is right;
+let us come to know among ourselves what is good.
+[5] For Job says, ‘I am innocent,
+For Job says, ‘I am innocent,
+but God turns away my right.
+[6] Concerning my right, should I lie?
+Concerning my right, should I lie?
+My wound is incurable,
+although I am without transgression.’
+[7] Who is there like Job,
+Who is there like Job,
+who drinks derision like water?
+[8] He goes about in company with evildoers,
+He goes about in company with evildoers,
+he goes along with wicked men.
+[9] For he says, ‘It does not profit a man
+For he says, ‘It does not profit a man
+when he makes his delight with God.’
+[10] “Therefore, listen to me, you men of understanding.
+“Therefore, listen to me, you men of understanding.
+Far be it from God to do wickedness,
+from the Almighty to do evil.
+[11] For he repays a person for his work,
+For he repays a person for his work,
+and according to the conduct of a person,
+he causes the consequences to find him.
+[12] Indeed, in truth, God does not act wickedly,
+Indeed, in truth, God does not act wickedly,
+and the Almighty does not pervert justice.
+[13] Who entrusted to him the earth?
+Who entrusted to him the earth?
+And who put him over the whole world?
+[14] If God were to set his heart on it,
+If God were to set his heart on it,
+and gather in his spirit and his breath,
+[15] all flesh would perish together
+all flesh would perish together
+and human beings would return to dust.
+[16] “If you have understanding, listen to this,
+“If you have understanding, listen to this,
+hear what I have to say.
+[17] Do you really think
+Do you really think
+that one who hates justice can govern?
+And will you declare guilty
+the supremely Righteous One,
+[18] who says to a king, ‘Worthless man,’
+who says to a king, ‘Worthless man,’
+and to nobles, ‘Wicked men,’
+[19] who shows no partiality to princes,
+who shows no partiality to princes,
+and does not take note of the rich more than the poor,
+because all of them are the work of his hands?
+[20] In a moment they die, in the middle of the night,
+In a moment they die, in the middle of the night,
+people are shaken and they pass away.
+The mighty are removed effortlessly.
+[21] For his eyes are on the ways of an individual,
+For his eyes are on the ways of an individual,
+he observes all a person’s steps.
+[22] There is no darkness, and no deep darkness,
+There is no darkness, and no deep darkness,
+where evildoers can hide themselves.
+[23] For he does not still consider a person,
+For he does not still consider a person,
+that he should come before God in judgment.
+[24] He shatters the great without inquiry,
+He shatters the great without inquiry,
+and sets up others in their place.
+[25] Therefore, he knows their deeds,
+Therefore, he knows their deeds,
+he overthrows them in the night
+and they are crushed.
+[26] He strikes them for their wickedness,
+He strikes them for their wickedness,
+in a place where people can see,
+[27] because they have turned away from following him,
+because they have turned away from following him,
+and have not understood any of his ways,
+[28] so that they caused the cry of the poor
+so that they caused the cry of the poor
+to come before him,
+so that he hears the cry of the needy.
+[29] But if God is quiet, who can condemn him?
+But if God is quiet, who can condemn him?
+If he hides his face, then who can see him?
+Yet he is over the individual and the nation alike,
+[30] so that the godless man should not rule,
+so that the godless man should not rule,
+and not lay snares for the people.
+[31] “Has anyone said to God,
+“Has anyone said to God,
+‘I have endured chastisement,
+but I will not act wrongly any more;
+[32] teach me what I cannot see;
+teach me what I cannot see;
+if I have done evil, I will do so no more’?
+[33] Is it your opinion that God should recompense it,
+Is it your opinion that God should recompense it,
+because you reject this?
+But you must choose, and not I,
+so tell us what you know.
+[34] Men of understanding say to me—
+Men of understanding say to me—
+any wise man listening to me says—
+[35] that Job speaks without knowledge
+that Job speaks without knowledge
+and his words are without understanding.
+[36] But Job will be tested to the end,
+But Job will be tested to the end,
+because his answers are like those of wicked men.
+[37] For he adds transgression to his sin;
+For he adds transgression to his sin;
+in our midst he claps his hands,
+and multiplies his words against God.”
+# Job
+
+## Chapter 35 <!-- scripture:35 -->
+
+### Elihu’s Third Speech
+
+[1] Then Elihu answered:
+[2] “Do you think this to be just
+“Do you think this to be just
+when you say, ‘My right before God’?
+[3] But you say, ‘What will it profit you,’
+But you say, ‘What will it profit you,’
+and, ‘What do I gain by not sinning?’
+[4] I will reply to you,
+I will reply to you,
+and to your friends with you.
+[5] Gaze at the heavens and see;
+Gaze at the heavens and see;
+consider the clouds, which are higher than you.
+[6] If you sin, how does it affect God?
+If you sin, how does it affect God?
+If your transgressions are many,
+what does it do to him?
+[7] If you are righteous, what do you give to God,
+If you are righteous, what do you give to God,
+or what does he receive from your hand?
+[8] Your wickedness affects only a person like yourself,
+Your wickedness affects only a person like yourself,
+and your righteousness only other people.
+because of the excess of oppression;
+they cry out for help
+because of the power of the mighty.
+[10] But no one says, ‘Where is God, my Creator,
+But no one says, ‘Where is God, my Creator,
+who gives songs in the night,
+[11] who teaches us more than the wild animals of the earth,
+who teaches us more than the wild animals of the earth,
+and makes us wiser than the birds of the sky?’
+[12] Then they cry out—but he does not answer—
+Then they cry out—but he does not answer—
+because of the arrogance of the wicked.
+[13] Surely it is an empty cry —God does not hear it;
+Surely it is an empty cry —God does not hear it;
+the Almighty does not take notice of it.
+[14] How much less, then,
+How much less, then,
+when you say that you do not perceive him,
+that the case is before him
+and you are waiting for him!
+[15] And further, when you say
+And further, when you say
+that his anger does not punish,
+and that he does not know transgression!
+[16] So Job opens his mouth to no purpose;
+So Job opens his mouth to no purpose;
+without knowledge he multiplies words.”
+# Job
+
+## Chapter 36 <!-- scripture:36 -->
+
+### Elihu’s Fourth Speech
+
+[1] Elihu said further:
+[2] “Be patient with me a little longer
+“Be patient with me a little longer
+and I will instruct you,
+for I still have words to speak on God’s behalf.
+[3] With my knowledge I will speak comprehensively,
+With my knowledge I will speak comprehensively,
+and to my Creator I will ascribe righteousness.
+[4] For in truth, my words are not false;
+For in truth, my words are not false;
+it is one complete in knowledge
+who is with you.
+[5] Indeed, God is mighty; and he does not despise people,
+Indeed, God is mighty; and he does not despise people,
+he is mighty, and firm in his intent.
+[6] He does not allow the wicked to live,
+He does not allow the wicked to live,
+but he gives justice to the poor.
+[7] He does not take his eyes off the righteous;
+He does not take his eyes off the righteous;
+but with kings on the throne
+he seats the righteous and exalts them forever.
+[8] But if they are bound in chains,
+But if they are bound in chains,
+and held captive by the cords of affliction,
+[9] then he reveals to them what they have done,
+then he reveals to them what they have done,
+and their transgressions,
+that they were behaving proudly.
+[10] And he reveals this for correction,
+And he reveals this for correction,
+and says that they must turn from evil.
+[11] If they obey and serve him,
+If they obey and serve him,
+they live out their days in prosperity
+and their years in pleasantness.
+[12] But if they refuse to listen,
+But if they refuse to listen,
+they pass over the river of death,
+and expire without knowledge.
+[13] The godless at heart nourish anger,
+The godless at heart nourish anger,
+they do not cry out even when he binds them.
+[14] They die in their youth,
+They die in their youth,
+and their life ends among the male cultic prostitutes.
+[15] He delivers the afflicted by their afflictions,
+He delivers the afflicted by their afflictions,
+he reveals himself to them by their suffering.
+[16] And surely, he drew you from the mouth of distress,
+And surely, he drew you from the mouth of distress,
+to a wide place, unrestricted,
+and to the comfort of your table
+filled with rich food.
+[17] But now you are preoccupied with the judgment due the wicked,
+But now you are preoccupied with the judgment due the wicked,
+judgment and justice take hold of you.
+[18] Be careful that no one entices you with riches;
+Be careful that no one entices you with riches;
+do not let a large bribe turn you aside.
+[19] Would your wealth sustain you,
+Would your wealth sustain you,
+so that you would not be in distress,
+even all your mighty efforts?
+[20] Do not long for the cover of night
+Do not long for the cover of night
+to drag people away from their homes.
+[21] Take heed, do not turn to evil,
+Take heed, do not turn to evil,
+for because of this you have been tested by affliction.
+[22] Indeed, God is exalted in his power;
+Indeed, God is exalted in his power;
+who is a teacher like him?
+[23] Who has prescribed his ways for him?
+Who has prescribed his ways for him?
+Or said to him, ‘You have done what is wicked’?
+[24] Remember to extol his work,
+Remember to extol his work,
+which people have praised in song.
+[25] All humanity has seen it;
+All humanity has seen it;
+people gaze on it from afar.
+[26] “Yes, God is great—beyond our knowledge!
+“Yes, God is great—beyond our knowledge!
+The number of his years is unsearchable.
+[27] He draws up drops of water;
+He draws up drops of water;
+they distill the rain into its mist,
+[28] which the clouds pour down
+which the clouds pour down
+and shower on humankind abundantly.
+[29] Who can understand the spreading of the clouds,
+Who can understand the spreading of the clouds,
+the thunderings of his pavilion?
+[30] See how he scattered his lightning about him;
+See how he scattered his lightning about him;
+he has covered the depths of the sea.
+[31] It is by these that he judges the nations
+It is by these that he judges the nations
+and supplies food in abundance.
+[32] With his hands he covers the lightning,
+With his hands he covers the lightning,
+and directs it against its target.
+[33] His thunder announces the coming storm,
+His thunder announces the coming storm,
+the cattle also, concerning the storm’s approach.
+# Job
+
+## Chapter 37 <!-- scripture:37 -->
+
+[1] At this also my heart pounds
+At this also my heart pounds
+and leaps from its place.
+[2] Listen carefully to the thunder of his voice,
+Listen carefully to the thunder of his voice,
+to the rumbling that proceeds from his mouth.
+[3] Under the whole heaven he lets it go,
+Under the whole heaven he lets it go,
+even his lightning to the far corners of the earth.
+[4] After that a voice roars;
+After that a voice roars;
+he thunders with an exalted voice,
+and he does not hold back his lightning bolts
+when his voice is heard.
+[5] God thunders with his voice in marvelous ways;
+God thunders with his voice in marvelous ways;
+he does great things beyond our understanding.
+[6] For to the snow he says, ‘Fall to earth,’
+For to the snow he says, ‘Fall to earth,’
+and to the torrential rains, ‘Pour down.’
+[7] He causes everyone to stop working,
+He causes everyone to stop working,
+so that all people may know his work.
+[8] The wild animals go to their lairs,
+The wild animals go to their lairs,
+and in their dens they remain.
+[9] A tempest blows out from its chamber,
+A tempest blows out from its chamber,
+icy cold from the driving winds.
+[10] The breath of God produces ice,
+The breath of God produces ice,
+and the breadth of the waters freeze solid.
+[11] He loads the clouds with moisture;
+He loads the clouds with moisture;
+he scatters his lightning through the clouds.
+[12] The clouds go round in circles,
+The clouds go round in circles,
+wheeling about according to his plans,
+to carry out all that he commands them
+over the face of the whole inhabited world.
+[13] Whether it is for punishment,
+Whether it is for punishment,
+or for his land,
+or for mercy,
+he causes it to find its mark.
+Stand still and consider the wonders God works.
+[15] Do you know how God commands them,
+Do you know how God commands them,
+how he makes lightning flash in his storm cloud?
+[16] Do you know about the balancing of the clouds,
+Do you know about the balancing of the clouds,
+that wondrous activity of him who is perfect in knowledge?
+[17] You, whose garments are hot
+You, whose garments are hot
+when the earth is still because of the south wind,
+[18] will you, with him, spread out the clouds,
+will you, with him, spread out the clouds,
+solid as a mirror of molten metal?
+[19] Tell us what we should say to him.
+Tell us what we should say to him.
+We cannot prepare a case
+because of the darkness.
+[20] Should he be informed that I want to speak?
+Should he be informed that I want to speak?
+If a man speaks, surely he will be swallowed up!
+[21] But now, the sun cannot be looked at —
+But now, the sun cannot be looked at —
+it is bright in the skies—
+after a wind passed and swept the clouds away.
+[22] From the north he comes in golden splendor;
+From the north he comes in golden splendor;
+around God is awesome majesty.
+[23] As for the Almighty, we cannot attain to him!
+As for the Almighty, we cannot attain to him!
+He is great in power,
+but justice and abundant righteousness he does not oppress.
+[24] Therefore people fear him,
+Therefore people fear him,
+for he does not regard all the wise in heart.”
+# Job
+
+## Chapter 38 <!-- scripture:38 -->
+
+### VI. The Divine Speeches (38:1—42:6)
+
+[1] Then the Lord answered Job out of the whirlwind:
+[2] “Who is this who darkens counsel
+“Who is this who darkens counsel
+with words without knowledge?
+[3] Get ready for a difficult task like a man;
+Get ready for a difficult task like a man;
+I will question you
+and you will inform me.
+[4] “Where were you
+“Where were you
+when I laid the foundation of the earth?
+Tell me, if you possess understanding.
+[5] Who set its measurements—if you know—
+Who set its measurements—if you know—
+or who stretched a measuring line across it?
+[6] On what were its bases set,
+On what were its bases set,
+or who laid its cornerstone—
+[7] when the morning stars sang in chorus,
+when the morning stars sang in chorus,
+and all the sons of God shouted for joy?
+when it burst forth, coming out of the womb,
+[9] when I made the storm clouds its garment,
+when I made the storm clouds its garment,
+and thick darkness its swaddling band,
+[10] when I prescribed its limits,
+when I prescribed its limits,
+and set in place its bolts and doors,
+[11] when I said, ‘To here you may come
+when I said, ‘To here you may come
+and no farther,
+here your proud waves will be confined’?
+[12] Have you ever in your life commanded the morning,
+Have you ever in your life commanded the morning,
+or made the dawn know its place,
+[13] that it might seize the corners of the earth,
+that it might seize the corners of the earth,
+and shake the wicked out of it?
+[14] The earth takes shape like clay under a seal;
+The earth takes shape like clay under a seal;
+its features are dyed like a garment.
+[15] Then from the wicked the light is withheld,
+Then from the wicked the light is withheld,
+and the arm raised in violence is broken.
+[16] Have you gone to the springs that fill the sea,
+Have you gone to the springs that fill the sea,
+or walked about in the recesses of the deep?
+[17] Have the gates of death been revealed to you?
+Have the gates of death been revealed to you?
+Have you seen the gates of deepest darkness?
+[18] Have you considered the vast expanses of the earth?
+Have you considered the vast expanses of the earth?
+Tell me, if you know it all.
+and darkness, where is its place,
+[20] that you may take them to their borders
+that you may take them to their borders
+and perceive the pathways to their homes?
+[21] You know, for you were born before them;
+You know, for you were born before them;
+and the number of your days is great!
+[22] Have you entered the storehouse of the snow,
+Have you entered the storehouse of the snow,
+or seen the armory of the hail,
+[23] which I reserve for the time of trouble,
+which I reserve for the time of trouble,
+for the day of war and battle?
+[24] In what direction is lightning dispersed,
+In what direction is lightning dispersed,
+or the east winds scattered over the earth?
+[25] Who carves out a channel for the heavy rains,
+Who carves out a channel for the heavy rains,
+and a path for the rumble of thunder,
+[26] to cause it to rain on an uninhabited land,
+to cause it to rain on an uninhabited land,
+a wilderness where there are no human beings,
+[27] to satisfy a devastated and desolate land,
+to satisfy a devastated and desolate land,
+and to cause it to sprout with vegetation?
+[28] Does the rain have a father,
+Does the rain have a father,
+or who has fathered the drops of the dew?
+[29] From whose womb does the ice emerge,
+From whose womb does the ice emerge,
+and the frost from the sky, who gives birth to it,
+[30] when the waters become hard like stone,
+when the waters become hard like stone,
+when the surface of the deep is frozen solid?
+[31] Can you tie the bands of the Pleiades,
+Can you tie the bands of the Pleiades,
+or release the cords of Orion?
+[32] Can you lead out
+Can you lead out
+the constellations in their seasons,
+or guide the Bear with its cubs?
+[33] Do you know the laws of the heavens,
+Do you know the laws of the heavens,
+or can you set up their rule over the earth?
+[34] Can you raise your voice to the clouds
+Can you raise your voice to the clouds
+so that a flood of water covers you?
+[35] Can you send out lightning bolts, and they go?
+Can you send out lightning bolts, and they go?
+Will they say to you, ‘Here we are’?
+[36] Who has put wisdom in the heart,
+Who has put wisdom in the heart,
+or has imparted understanding to the mind?
+[37] Who by wisdom can count the clouds,
+Who by wisdom can count the clouds,
+and who can tip over the water jars of heaven,
+[38] when the dust hardens into a mass,
+when the dust hardens into a mass,
+and the clumps of earth stick together?
+and satisfy the appetite of the lions
+[40] when they crouch in their dens,
+when they crouch in their dens,
+when they wait in ambush in the thicket?
+[41] Who prepares prey for the raven,
+Who prepares prey for the raven,
+when its young cry out to God
+and wander about for lack of food?
+# Job
+
+## Chapter 39 <!-- scripture:39 -->
+
+the mountain goats give birth?
+Do you watch as the wild deer give birth to their young?
+[2] Do you count the months they must fulfill,
+Do you count the months they must fulfill,
+and do you know the time they give birth?
+[3] They crouch, they bear their young,
+They crouch, they bear their young,
+they bring forth the offspring they have carried.
+[4] Their young grow strong, and grow up in the open;
+Their young grow strong, and grow up in the open;
+they go off, and do not return to them.
+[5] Who let the wild donkey go free?
+Who let the wild donkey go free?
+Who released the bonds of the donkey,
+[6] to whom I appointed the arid rift valley for its home,
+to whom I appointed the arid rift valley for its home,
+the salt wastes as its dwelling place?
+[7] It scorns the tumult in the town;
+It scorns the tumult in the town;
+it does not hear the shouts of a driver.
+[8] It ranges the hills as its pasture,
+It ranges the hills as its pasture,
+and searches after every green plant.
+[9] Is the wild ox willing to be your servant?
+Is the wild ox willing to be your servant?
+Will it spend the night at your feeding trough?
+[10] Can you bind the wild ox to a furrow with its rope,
+Can you bind the wild ox to a furrow with its rope,
+will it till the valleys, following after you?
+[11] Will you rely on it because its strength is great?
+Will you rely on it because its strength is great?
+Will you commit your labor to it?
+[12] Can you count on it to bring in your grain,
+Can you count on it to bring in your grain,
+and gather the grain to your threshing floor?
+but are they the pinions and plumage of a stork?
+[14] For she leaves her eggs on the ground,
+For she leaves her eggs on the ground,
+and lets them be warmed on the soil.
+[15] She forgets that a foot might crush them,
+She forgets that a foot might crush them,
+or that a wild animal might trample them.
+[16] She is harsh with her young,
+She is harsh with her young,
+as if they were not hers;
+she is unconcerned about the uselessness of her labor.
+[17] For God deprived her of wisdom,
+For God deprived her of wisdom,
+and did not impart understanding to her.
+[18] But as soon as she springs up,
+But as soon as she springs up,
+she laughs at the horse and its rider.
+Do you clothe its neck with a mane?
+[20] Do you make it leap like a locust?
+Do you make it leap like a locust?
+Its proud neighing is terrifying!
+[21] It paws the ground in the valley,
+It paws the ground in the valley,
+exulting mightily,
+it goes out to meet the weapons.
+[22] It laughs at fear and is not dismayed;
+It laughs at fear and is not dismayed;
+it does not shy away from the sword.
+[23] On it the quiver rattles;
+On it the quiver rattles;
+the lance and javelin flash.
+[24] In excitement and impatience it consumes the ground;
+In excitement and impatience it consumes the ground;
+it cannot stand still when the trumpet is blown.
+[25] At the sound of the trumpet, it says, ‘Aha!’
+At the sound of the trumpet, it says, ‘Aha!’
+And from a distance it catches the scent of battle,
+the thunderous shouting of commanders,
+and the battle cries.
+and spreads its wings toward the south?
+[27] Is it at your command that the eagle soars,
+Is it at your command that the eagle soars,
+and builds its nest on high?
+[28] It lives on a rock and spends the night there,
+It lives on a rock and spends the night there,
+on a rocky crag and a fortress.
+[29] From there it spots its prey,
+From there it spots its prey,
+its eyes gaze intently from a distance.
+[30] And its young ones devour the blood,
+And its young ones devour the blood,
+and where the dead carcasses are,
+there it is.”
+# Job
+
+## Chapter 40 <!-- scripture:40 -->
+
+### Job’s Reply to God’s Challenge
+
+[1] Then the Lord answered Job:
+[2] “Will the one who contends with the Almighty correct him?
+“Will the one who contends with the Almighty correct him?
+Let the person who accuses God give him an answer!”
+[4] “Indeed, I am completely unworthy —how could I reply to you?
+“Indeed, I am completely unworthy —how could I reply to you?
+I put my hand over my mouth to silence myself.
+[5] I have spoken once, but I cannot answer;
+I have spoken once, but I cannot answer;
+twice, but I will say no more.”
+[6] Then the Lord answered Job from the whirlwind:
+[7] “Get ready for a difficult task like a man.
+“Get ready for a difficult task like a man.
+I will question you and you will inform me.
+[8] Would you indeed annul my justice?
+Would you indeed annul my justice?
+Would you declare me guilty so that you might be right?
+[9] Do you have an arm as powerful as God’s,
+Do you have an arm as powerful as God’s,
+and can you thunder with a voice like his?
+[10] Adorn yourself, then, with majesty and excellency,
+Adorn yourself, then, with majesty and excellency,
+and clothe yourself with glory and honor.
+[11] Scatter abroad the abundance of your anger.
+Scatter abroad the abundance of your anger.
+Look at every proud man and bring him low;
+[12] Look at every proud man and abase him;
+Look at every proud man and abase him;
+crush the wicked on the spot.
+[13] Hide them in the dust together,
+Hide them in the dust together,
+imprison them in the grave.
+[14] Then I myself will acknowledge to you
+Then I myself will acknowledge to you
+that your own right hand can save you.
+[15] “Look now at Behemoth, which I made as I made you;
+“Look now at Behemoth, which I made as I made you;
+it eats grass like the ox.
+[16] Look at its strength in its loins,
+Look at its strength in its loins,
+and its power in the muscles of its belly.
+[17] It makes its tail stiff like a cedar,
+It makes its tail stiff like a cedar,
+the sinews of its thighs are tightly wound.
+[18] Its bones are tubes of bronze,
+Its bones are tubes of bronze,
+its limbs like bars of iron.
+[19] It ranks first among the works of God,
+It ranks first among the works of God,
+the One who made it
+has furnished it with a sword.
+[20] For the hills bring it food,
+For the hills bring it food,
+where all the wild animals play.
+[21] Under the lotus trees it lies,
+Under the lotus trees it lies,
+in the secrecy of the reeds and the marsh.
+[22] The lotus trees conceal it in their shadow;
+The lotus trees conceal it in their shadow;
+the poplars by the stream conceal it.
+[23] If the river rages, it is not disturbed,
+If the river rages, it is not disturbed,
+it is secure, though the Jordan
+should surge up to its mouth.
+[24] Can anyone catch it by its eyes,
+Can anyone catch it by its eyes,
+or pierce its nose with a snare?
+# Job
+
+## Chapter 41 <!-- scripture:41 -->
+
+### The Description of Leviathan
+
+[1] (40:25) “Can you pull in Leviathan with a hook,
+(40:25) “Can you pull in Leviathan with a hook,
+and tie down its tongue with a rope?
+[2] Can you put a cord through its nose,
+Can you put a cord through its nose,
+or pierce its jaw with a hook?
+[3] Will it make numerous supplications to you,
+Will it make numerous supplications to you,
+will it speak to you with tender words?
+[4] Will it make a pact with you,
+Will it make a pact with you,
+so you could take it as your slave for life?
+[5] Can you play with it, like a bird,
+Can you play with it, like a bird,
+or tie it on a leash for your girls?
+[6] Will partners bargain for it?
+Will partners bargain for it?
+Will they divide it up among the merchants?
+[7] Can you fill its hide with harpoons
+Can you fill its hide with harpoons
+or its head with fishing spears?
+[8] If you lay your hand on it,
+If you lay your hand on it,
+you will remember the fight.
+Do not do it again!
+[9] (41:1) See, his expectation is wrong,
+(41:1) See, his expectation is wrong,
+he is laid low even at the sight of it.
+[10] Is it not fierce when it is awakened?
+Is it not fierce when it is awakened?
+Who is he, then, who can stand before it?
+[11] Who has confronted me that I should repay?
+Who has confronted me that I should repay?
+Everything under heaven belongs to me!
+[12] I will not keep silent about its limbs,
+I will not keep silent about its limbs,
+and the extent of its might,
+and the grace of its arrangement.
+[13] Who can uncover its outer covering?
+Who can uncover its outer covering?
+Who can penetrate to the inside of its armor?
+[14] Who can open the doors of its mouth?
+Who can open the doors of its mouth?
+Its teeth all around are fearsome.
+[15] Its back has rows of shields,
+Its back has rows of shields,
+shut up closely together as with a seal;
+[16] each one is so close to the next
+each one is so close to the next
+that no air can come between them.
+[17] They lock tightly together, one to the next;
+They lock tightly together, one to the next;
+they cling together and cannot be separated.
+[18] Its snorting throws out flashes of light;
+Its snorting throws out flashes of light;
+its eyes are like the red glow of dawn.
+[19] Out of its mouth go flames,
+Out of its mouth go flames,
+sparks of fire shoot forth!
+[20] Smoke streams from its nostrils
+Smoke streams from its nostrils
+as from a boiling pot over burning rushes.
+[21] Its breath sets coals ablaze
+Its breath sets coals ablaze
+and a flame shoots from its mouth.
+[22] Strength lodges in its neck,
+Strength lodges in its neck,
+and despair runs before it.
+[23] The folds of its flesh are tightly joined;
+The folds of its flesh are tightly joined;
+they are firm on it, immovable.
+[24] Its heart is hard as rock,
+Its heart is hard as rock,
+hard as a lower millstone.
+[25] When it rises up, the mighty are terrified,
+When it rises up, the mighty are terrified,
+at its thrashing about they withdraw.
+[26] Whoever strikes it with a sword
+Whoever strikes it with a sword
+will have no effect,
+nor with the spear, arrow, or dart.
+[27] It regards iron as straw
+It regards iron as straw
+and bronze as rotten wood.
+[28] Arrows do not make it flee;
+Arrows do not make it flee;
+slingstones become like chaff to it.
+[29] A club is counted as a piece of straw;
+A club is counted as a piece of straw;
+it laughs at the rattling of the lance.
+[30] Its underparts are the sharp points of potsherds,
+Its underparts are the sharp points of potsherds,
+it leaves its mark in the mud
+like a threshing sledge.
+[31] It makes the deep boil like a cauldron
+It makes the deep boil like a cauldron
+and stirs up the sea like a pot of ointment,
+[32] It leaves a glistening wake behind it;
+It leaves a glistening wake behind it;
+one would think the deep had a head of white hair.
+[33] The likes of it is not on earth,
+The likes of it is not on earth,
+a creature without fear.
+[34] It looks on every haughty being;
+It looks on every haughty being;
+it is king over all that are proud.”
+# Job
+
+## Chapter 42 <!-- scripture:42 -->
+
+### Job’s Confession
+
+[1] Then Job answered the Lord:
+[2] “I know that you can do all things;
+“I know that you can do all things;
+no purpose of yours can be thwarted;
+[3] you asked, ‘Who is this who darkens counsel without knowledge?’
+you asked, ‘Who is this who darkens counsel without knowledge?’
+But I have declared without understanding
+things too wonderful for me to know.
+[4] You said, ‘Pay attention, and I will speak;
+You said, ‘Pay attention, and I will speak;
+I will question you, and you will answer me.’
+[5] I had heard of you by the hearing of the ear,
+I had heard of you by the hearing of the ear,
+but now my eye has seen you.
+[6] Therefore I despise myself,
+Therefore I despise myself,
+and I repent in dust and ashes!”
+[7] After the Lord had spoken these things to Job, he said to Eliphaz the Temanite, “My anger is stirred up against you and your two friends, because you have not spoken about me what is right, as my servant Job has. 
+[8] So now take seven bulls and seven rams and go to my servant Job and offer a burnt offering for yourselves. And my servant Job will intercede for you, and I will respect him, so that I do not deal with you according to your folly, because you have not spoken about me what is right, as my servant Job has.”
+[9] So they went, Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite, and did just as the Lord had told them; and the Lord had respect for Job.
+[10] So the Lord restored what Job had lost after he prayed for his friends, and the Lord doubled all that had belonged to Job. 
+[11] So they came to him, all his brothers and sisters and all who had known him before, and they dined with him in his house. They comforted him and consoled him for all the trouble the Lord had brought on him, and each one gave him a piece of silver and a gold ring.
+[12] So the Lord blessed the second part of Job’s life more than the first. He had 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 female donkeys. 
+[13] And he also had seven sons and three daughters. 
+[14] The first daughter he named Jemimah, the second Keziah, and the third Keren-Happuch. 
+[15] Nowhere in all the land could women be found who were as beautiful as Job’s daughters, and their father granted them an inheritance alongside their brothers.
+[16] After this Job lived 140 years; he saw his children and their children to the fourth generation. 
+[17] And so Job died, old and full of days.

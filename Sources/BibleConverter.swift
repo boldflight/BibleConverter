@@ -1,5 +1,6 @@
 import Foundation
 import ArgumentParser
+import SwiftSoup
 
 struct BibleConverter: ParsableCommand {
     static let configuration = CommandConfiguration(
@@ -35,46 +36,51 @@ struct BibleConverter: ParsableCommand {
         }
     }
     
-    func convertToMarkdown(_ xhtml: String) throws -> String {
-            var markdown = ""
+    func convertToMarkdown(_ xmlString: String) throws -> String {
+        var markdown = ""
+        
+        do {
+            let document = try SwiftSoup.parse(xmlString)
             
-            if let match = xhtml.firstMatch(of: /\<title\>.*?\s+(\w+)\s+(\d+)\<\/title\>/) {
-                let (_, bookName, chapterNum) = match.output
-                markdown += "# \(bookName)\n\n"
-                markdown += String(format: Self.chapterFormat, String(chapterNum), String(chapterNum)) + "\n\n"
+            // Titles
+            if let title = try document.select("title").first()?.text() {
+                markdown += "# \(title)\n\n"
             }
             
-            let sectionPattern = /\<p class=\"paragraphtitle\"\>([^<]+?)\<\/p\>/
-            for match in xhtml.matches(of: sectionPattern) {
-                let (_, title) = match.output
-                markdown += String(format: Self.sectionFormat, String(title)) + "\n\n"
-            }
-            
-            var currentVerse = ""
-            let paragraphs = xhtml.matches(of: /\<p class=\"(bodytext|poetry)\"\>(.*?)\<\/p\>/)
-            
-            for paragraphMatch in paragraphs {
-                let (_, style, content) = paragraphMatch.output
-                let isPoetry = style == "poetry"
-                
-                if isPoetry {
-                    if let verseMatch = content.firstMatch(of: /\<span class=\"verse\"\>(\d+):(\d+)\<\/span\>\s*([^<]*?)/) {
-                        currentVerse = String(verseMatch.output.2)
-                        markdown += String(format: Self.verseFormat, currentVerse, verseMatch.output.3.trimmingCharacters(in: .whitespacesAndNewlines)) + "\n"
-                    } else {
-                        let cleanContent = content.replacingOccurrences(of: "<span class=\"verse\">[0-9]+:[0-9]+</span>", with: "", options: .regularExpression).trimmingCharacters(in: .whitespacesAndNewlines)
-                        if !cleanContent.isEmpty {
-                            markdown += "- \(cleanContent)\n"
-                        }
-                    }
-                } else {
-                    for verseMatch in content.matches(of: /\<span class=\"verse\"\>(\d+):(\d+)\<\/span\>\s*([^<]*?)(?=(?:\<span class=\"verse\"|\<\/p\>))/) {
-                        currentVerse = String(verseMatch.output.2)
-                        markdown += String(format: Self.verseFormat, currentVerse, verseMatch.output.3.trimmingCharacters(in: .whitespacesAndNewlines)) + "\n"
-                    }
+            // Headings
+            for (i, heading) in ["h1", "h2", "h3"].enumerated() {
+                for element in try document.select(heading) {
+                    let level = String(repeating: "#", count: i + 1)
+                    markdown += "\(level) \(try element.text())\n\n"
                 }
             }
             
-            return markdown
+            // Paragraphs
+            for p in try document.select("p") {
+                markdown += try p.text() + "\n\n"
+            }
+            
+            // Links
+            for a in try document.select("a") {
+                let href = try a.attr("href")
+                let text = try a.text()
+                markdown += "[\(text)](\(href))\n"
+            }
+            
+            // Images
+            for img in try document.select("img") {
+                let src = try img.attr("src")
+                let alt = try img.attr("alt")
+                markdown += "![\(alt)](\(src))\n"
+            }
+            
+            // Handle lists, tables, etc., similarly
+            
+        } catch {
+            print("Error parsing XML: \(error)")
+            throw error
         }
+        
+        return markdown
+    }
 }

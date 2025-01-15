@@ -36,7 +36,6 @@
 [26] She said, “My lord. Just as surely as you are alive, my lord, I am the woman who previously stood here with you in order to pray to the Lord.
 [27] For this boy I prayed, and the Lord has given me the request that I asked of him.
 [28] So I also dedicate him to the Lord. For all the days of his life he is dedicated to the Lord.” Then he bowed down there in worship to the Lord.
-# 1 Samuel
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -111,7 +110,6 @@ and exalt the power of his anointed one.”
 [34] This will be a confirming sign for you that will be fulfilled through your two sons, Hophni and Phinehas: in a single day they both will die!
 [35] Then I will raise up for myself a faithful priest. He will do what is in my heart and soul. I will build for him a lasting dynasty, and he will serve my chosen one for all time.
 [36] Everyone who remains in your house will come to bow before him for a little money and for a scrap of bread. Each will say, “Assign me to a priestly task so I can eat a scrap of bread.”’”
-# 1 Samuel
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -135,7 +133,6 @@ and exalt the power of his anointed one.”
 [15] So Samuel lay down until morning. Then he opened the doors of the Lord’s house. But Samuel was afraid to tell Eli about the vision.
 [16] However, Eli called Samuel and said, “Samuel, my son!” He replied, “Here I am.”
 [17] Eli said, “What message did he speak to you? Don’t conceal it from me. God will judge you severely if you conceal from me anything that he said to you!”
-# 1 Samuel
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -171,7 +168,6 @@ and exalt the power of his anointed one.”
 [20] As she was dying, the women who were there with her said, “Don’t be afraid! You have given birth to a son!” But she did not reply or pay any attention.
 [21] She named the boy Ichabod, saying, “The glory has departed from Israel,” referring to the capture of the ark of God and the deaths of her father-in-law and her husband.
 [22] She said, “The glory has departed from Israel, because the ark of God has been captured.”
-# 1 Samuel
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -190,7 +186,6 @@ and exalt the power of his anointed one.”
 [10] So they sent the ark of God to Ekron.
 [11] So they assembled all the leaders of the Philistines and said, “Get the ark of the God of Israel out of here! Let it go back to its own place so that it won’t kill us and our people!” The terror of death was throughout the entire city; God was attacking them very severely there.
 [12] The people who did not die were struck with sores; the city’s cry for help went all the way up to heaven.
-# 1 Samuel
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -218,7 +213,6 @@ and exalt the power of his anointed one.”
 [19] But the Lord struck down some of the people of Beth Shemesh because they had looked into the ark of the Lord; he struck down 50,070 of the men. The people grieved because the Lord had struck the people with a hard blow.
 [20] The residents of Beth Shemesh asked, “Who is able to stand before the Lord, this holy God? To whom will the ark go up from here?”
 [21] So they sent messengers to the residents of Kiriath Jearim, saying, “The Philistines have returned the ark of the Lord. Come down here and take it back home with you.”
-# 1 Samuel
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -242,7 +236,6 @@ and exalt the power of his anointed one.”
 [15] So Samuel led Israel all the days of his life.
 [16] Year after year he used to travel the circuit of Bethel, Gilgal, and Mizpah; he used to judge Israel in all these places.
 [17] Then he would return to Ramah, because his home was there. He also judged Israel there and built an altar to the Lord there.
-# 1 Samuel
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -271,7 +264,6 @@ and exalt the power of his anointed one.”
 [20] We will be like all the other nations. Our king will judge us and lead us and fight our battles.”
 [21] So Samuel listened to everything the people said and then reported it to the Lord.
 [22] The Lord said to Samuel, “Do as they say and install a king over them.” Then Samuel said to the men of Israel, “Each of you go back to his own city.”
-# 1 Samuel
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -305,7 +297,6 @@ and exalt the power of his anointed one.”
 [25] When they came down from the high place to the town, Samuel spoke with Saul on the roof.
 [26] They got up at dawn and Samuel called to Saul on the roof, “Get up, so I can send you on your way.” So Saul got up and the two of them—he and Samuel—went outside.
 [27] While they were going down to the edge of town, Samuel said to Saul, “Tell the servant to go on ahead of us.” So he did. Samuel then said, “You remain here awhile, so I can inform you of God’s message.”
-# 1 Samuel
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -342,7 +333,6 @@ and exalt the power of his anointed one.”
 [25] Then Samuel talked to the people about how the kingship would work. He wrote it all down on a scroll and set it before the Lord. Then Samuel sent all the people away to their homes.
 [26] Even Saul went to his home in Gibeah. With him went some brave men whose hearts God had touched.
 [27] But some wicked men said, “How can this man save us?” They despised him and did not even bring him a gift. But Saul said nothing about it.
-# 1 Samuel
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -367,7 +357,6 @@ and exalt the power of his anointed one.”
 [13] But Saul said, “No one will be killed on this day. For today the Lord has given Israel a victory!”
 [14] Samuel said to the people, “Come on! Let’s go to Gilgal and renew the kingship there.”
 [15] So all the people went to Gilgal, where they established Saul as king in the Lord’s presence. They offered up peace offerings there in the Lord’s presence. Saul and all the Israelites were very happy.
-# 1 Samuel
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -396,7 +385,6 @@ and exalt the power of his anointed one.”
 [23] As far as I am concerned, far be it from me to sin against the Lord by ceasing to pray for you! I will instruct you in the way that is good and upright.
 [24] However, fear the Lord and serve him faithfully with all your heart. Just look at the great things he has done for you!
 [25] But if you continue to do evil, both you and your king will be swept away.”
-# 1 Samuel
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -429,7 +417,6 @@ and exalt the power of his anointed one.”
 ### Jonathan Ignites a Battle
 
 [23] A garrison of the Philistines had gone out to the pass at Micmash.
-# 1 Samuel
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -491,7 +478,6 @@ and exalt the power of his anointed one.”
 [50] The name of Saul’s wife was Ahinoam, the daughter of Ahimaaz. The name of the general in command of his army was Abner son of Ner, Saul’s uncle.
 [51] Kish was the father of Saul, and Ner the father of Abner was the son of Abiel.
 [52] There was fierce war with the Philistines all the days of Saul. So whenever Saul saw anyone who was a warrior or a brave individual, he would conscript him.
-# 1 Samuel
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -543,7 +529,6 @@ he has rejected you from being king.”
 [33] Samuel said, “Just as your sword left women childless, so your mother will be the most bereaved among women.” Then Samuel hacked Agag to pieces there in Gilgal before the Lord.
 [34] Then Samuel went to Ramah, while Saul went up to his home in Gibeah of Saul.
 [35] Until the day he died, Samuel did not see Saul again. Samuel did, however, mourn for Saul, but the Lord regretted that he had made Saul king over Israel.
-# 1 Samuel
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -576,7 +561,6 @@ he has rejected you from being king.”
 [21] David came to Saul and stood before him. Saul liked him a great deal, and he became his armor-bearer.
 [22] Then Saul sent word to Jesse saying, “Let David be my servant, for I am very pleased with him.”
 [23] So whenever the spirit from God would come upon Saul, David would take his lyre and play it. This would bring relief to Saul and make him feel better. Then the evil spirit would leave him alone.
-# 1 Samuel
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -641,7 +625,6 @@ he has rejected you from being king.”
 [56] The king said, “Find out whose son this boy is.”
 [57] So when David returned from striking down the Philistine, Abner took him and brought him before Saul. He still had the head of the Philistine in his hand.
 [58] Saul said to him, “Whose son are you, young man?” David replied, “I am the son of your servant Jesse in Bethlehem.”
-# 1 Samuel
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -680,7 +663,6 @@ but David his tens of thousands!”
 [28] When Saul realized that the Lord was with David and that his daughter Michal loved David,
 [29] Saul became even more afraid of him. Saul continued to be at odds with David from then on.
 [30] The leaders of the Philistines would march out, and as often as they did so, David achieved more success than all of Saul’s servants. His name was held in high esteem.
-# 1 Samuel
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -711,7 +693,6 @@ but David his tens of thousands!”
 [22] Finally Saul himself went to Ramah. When he arrived at the large cistern that is in Secu, he asked, “Where are Samuel and David?” They said, “At Naioth in Ramah.”
 [23] So Saul went to Naioth in Ramah. The Spirit of God came upon him as well, and he walked along prophesying until he came to Naioth in Ramah.
 [24] He even stripped off his clothes and prophesied before Samuel. He lay there naked all that day and night. (For that reason it is asked, “Is Saul also among the prophets?”)
-# 1 Samuel
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -760,7 +741,6 @@ but David his tens of thousands!”
 [40] Then Jonathan gave his equipment to the servant who was with him. He said to him, “Go, take these things back to the town.”
 [41] When the servant had left, David got up from beside the mound, knelt with his face to the ground, and bowed three times. Then they kissed each other and they both wept, especially David.
 [42] Jonathan said to David, “Go in peace, for the two of us have sworn together in the name of the Lord saying, ‘The Lord will be between me and you and between my descendants and your descendants forever.’”
-# 1 Samuel
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -787,7 +767,6 @@ but David his tens of thousands’?”
 [13] He altered his behavior in their presence. Since he was in their power, he pretended to be insane, making marks on the doors of the gate and letting his saliva run down his beard.
 [14] Achish said to his servants, “Look at this madman! Why did you bring him to me?
 [15] Do I have a shortage of fools so that you have brought me this man to display his insanity in front of me? Should this man enter my house?”
-# 1 Samuel
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -820,7 +799,6 @@ but David his tens of thousands’?”
 [21] Abiathar told David that Saul had killed the priests of the Lord.
 [22] Then David said to Abiathar, “I knew that day when Doeg the Edomite was there that he would certainly tell Saul! I am guilty of all the deaths in your father’s house.
 [23] Stay with me. Don’t be afraid. Whoever seeks my life is seeking your life as well. You are secure with me.”
-# 1 Samuel
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -859,7 +837,6 @@ but David his tens of thousands’?”
 [27] But a messenger came to Saul saying, “Come quickly, for the Philistines have raided the land!”
 [28] So Saul stopped pursuing David and went to confront the Philistines. Therefore that place is called Sela Hammahlekoth.
 [29] (
-# 1 Samuel
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -888,7 +865,6 @@ but David his tens of thousands’?”
 [20] Now look, I realize that you will in fact be king and that the kingdom of Israel will be established in your hands.
 [21] So now swear to me in the Lord’s name that you will not kill my descendants after me or destroy my name from the house of my father.”
 [22] David promised Saul this on oath. Then Saul went to his house, and David and his men went up to the stronghold.
-# 1 Samuel
 
 ## Chapter 25 <!-- scripture:25 -->
 
@@ -942,7 +918,6 @@ but David his tens of thousands’?”
 [42] Then Abigail quickly went and mounted her donkey, with five of her female servants accompanying her. She followed David’s messengers and became his wife.
 [43] David had also married Ahinoam from Jezreel; the two of them became his wives.
 [44] (Now Saul had given his daughter Michal, David’s wife, to Paltiel son of Laish, who was from Gallim.)
-# 1 Samuel
 
 ## Chapter 26 <!-- scripture:26 -->
 
@@ -974,7 +949,6 @@ but David his tens of thousands’?”
 [23] The Lord rewards each man for his integrity and loyalty. Even though today the Lord delivered you into my hand, I was not willing to extend my hand against the Lord’s chosen one.
 [24] In the same way that I valued your life this day, may the Lord value my life and deliver me from all danger.”
 [25] Saul replied to David, “May you be rewarded, my son David! You will without question be successful!” So David went on his way, and Saul returned to his place.
-# 1 Samuel
 
 ## Chapter 27 <!-- scripture:27 -->
 
@@ -993,7 +967,6 @@ but David his tens of thousands’?”
 [10] When Achish would ask, “Where did you raid today?” David would say, “The Negev of Judah” or “The Negev of Jerahmeel” or “The Negev of the Kenites.”
 [11] Neither man nor woman would David leave alive so as to bring them back to Gath. He was thinking, “This way they can’t tell on us, saying, ‘This is what David did.’” Such was his practice the entire time that he lived in the country of the Philistines.
 [12] So Achish trusted David, thinking to himself, “He is really hated among his own people in Israel! From now on he will be my servant.”
-# 1 Samuel
 
 ## Chapter 28 <!-- scripture:28 -->
 
@@ -1025,7 +998,6 @@ but David his tens of thousands’?”
 [23] But he refused, saying, “I won’t eat!” Both his servants and the woman urged him to eat, so he gave in. He got up from the ground and sat down on the bed.
 [24] Now the woman had a well-fed calf at her home that she quickly slaughtered. Taking some flour, she kneaded it and baked bread without leaven.
 [25] She brought it to Saul and his servants, and they ate. Then they arose and left that same night.
-# 1 Samuel
 
 ## Chapter 29 <!-- scripture:29 -->
 
@@ -1045,7 +1017,6 @@ but David his tens of thousands’?”
 [9] Achish replied to David, “I am convinced that you are as reliable as the angel of God! However, the leaders of the Philistines have said, ‘He must not go up with us in the battle.’
 [10] So get up early in the morning along with the servants of your lord who have come with you. When you get up early in the morning, as soon as it is light enough to see, leave.”
 [11] So David and his men got up early in the morning to return to the land of the Philistines, but the Philistines went up to Jezreel.
-# 1 Samuel
 
 ## Chapter 30 <!-- scripture:30 -->
 
@@ -1083,7 +1054,6 @@ but David his tens of thousands’?”
 [29] and Racal; for those in the cities of the Jerahmeelites and Kenites;
 [30] for those in Hormah, Bor Ashan, Athach,
 [31] and Hebron; and for those in whatever other places David and his men had traveled.
-# 1 Samuel
 
 ## Chapter 31 <!-- scripture:31 -->
 

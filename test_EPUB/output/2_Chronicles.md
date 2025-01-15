@@ -25,7 +25,6 @@
 [15] The king made silver and gold as plentiful in Jerusalem as stones; cedar was as plentiful as sycamore fig trees are in the foothills.
 [16] Solomon acquired his horses from Egypt and from Que; the king’s traders purchased them from Que.
 [17] They paid 600 silver pieces for each chariot from Egypt, and 150 silver pieces for each horse. They also sold chariots and horses to all the kings of the Hittites and to the kings of Syria.
-# 2 Chronicles
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -50,7 +49,6 @@
 [16] we will get all the timber you need from Lebanon and bring it in raft-like bundles by sea to Joppa. You can then haul it on up to Jerusalem.”
 [17] Solomon took a census of all the male resident foreigners in the land of Israel, after the census his father David had taken. There were 153,600 in all.
 [18] He designated 70,000 as common laborers, 80,000 as stonecutters in the hills, and 3,600 as supervisors to make sure the people completed the work.
-# 2 Chronicles
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -74,7 +72,6 @@
 [15] In front of the temple he made two pillars which had a combined length of 52½ feet, with each having a plated capital 7½ high.
 [16] He made ornamental chains and put them on top of the pillars. He also made 100 pomegranate-shaped ornaments and arranged them within the chains.
 [17] He set up the pillars in front of the temple, one on the right side and the other on the left. He named the one on the right Yakin, and the one on the left Boaz.
-# 2 Chronicles
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -96,7 +93,6 @@
 [16] and the pots, shovels, and meat forks. All the items King Solomon assigned Huram Abi to make for the Lord’s temple were made from polished bronze.
 [17] The king had them cast in earth foundries in the region of the Jordan between Sukkoth and Zarethan.
 [18] Solomon made so many of these items they did not weigh the bronze.
-# 2 Chronicles
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -121,7 +117,6 @@
 [12] All the Levites who were musicians, including Asaph, Heman, Jeduthun, and their sons and relatives, wore linen. They played cymbals and stringed instruments as they stood east of the altar. They were accompanied by 120 priests who blew trumpets.
 [13] The trumpeters and musicians played together, praising and giving thanks to the Lord. Accompanied by trumpets, cymbals, and other instruments, they loudly praised the Lord, singing: “Certainly he is good; certainly his loyal love endures!” Then a cloud filled the Lord’s temple.
 [14] The priests could not carry out their duties because of the cloud; the Lord’s splendor filled God’s temple.
-# 2 Chronicles
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -167,7 +162,6 @@
 [40] “Now, my God, may you be attentive and responsive to the prayers offered in this place.
 [41] Now ascend, O Lord God, to your resting place, you and the ark of your strength! May your priests, O Lord God, experience your deliverance. May your loyal followers rejoice in the prosperity you give.
 [42] O Lord God, do not reject your chosen ones! Remember the faithful promises you made to your servant David!”
-# 2 Chronicles
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -199,7 +193,6 @@
 [20] then I will remove you from my land I have given you, I will abandon this temple I have consecrated with my presence, and I will make you an object of mockery and ridicule among all the nations.
 [21] As for this temple, which was once majestic, everyone who passes by it will be shocked and say, ‘Why did the Lord do this to this land and this temple?’
 [22] Others will then answer, ‘Because they abandoned the Lord God of their ancestors, who led them out of Egypt. They embraced other gods whom they worshiped and served. That is why he brought all this disaster down on them.’”
-# 2 Chronicles
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -224,7 +217,6 @@
 [16] All the work ordered by Solomon was completed, from the day the foundation of the Lord’s temple was laid until it was finished; the Lord’s temple was completed.
 [17] Then Solomon went to Ezion Geber and to Elat on the coast in the land of Edom.
 [18] Huram sent him ships and some of his sailors, men who were well acquainted with the sea. They sailed with Solomon’s men to Ophir and took from there 450 talents of gold, which they brought back to King Solomon.
-# 2 Chronicles
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -268,7 +260,6 @@
 [29] The rest of the events of Solomon’s reign, from start to finish, are recorded in the Annals of Nathan the Prophet, the Prophecy of Ahijah the Shilonite, and the Vision of Iddo the Seer pertaining to Jeroboam son of Nebat.
 [30] Solomon ruled over all Israel from Jerusalem for forty years.
 [31] Then Solomon passed away and was buried in the city of his father David. His son Rehoboam replaced him as king.
-# 2 Chronicles
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -294,7 +285,6 @@
 [17] (Rehoboam continued to rule over the Israelites who lived in the cities of Judah.)
 [18] King Rehoboam sent Hadoram, the supervisor of the work crews, out after them, but the Israelites stoned him to death. King Rehoboam managed to jump into his chariot and escape to Jerusalem.
 [19] So Israel has been in rebellion against the Davidic dynasty to this very day.
-# 2 Chronicles
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -324,7 +314,6 @@
 [21] Rehoboam loved Maacah daughter of Absalom more than his other wives and concubines. He had eighteen wives and sixty concubines; he fathered twenty-eight sons and sixty daughters.
 [22] Rehoboam appointed Abijah son of Maacah as the leader over his brothers, for he intended to name him his successor.
 [23] He wisely placed some of his many sons throughout the regions of Judah and Benjamin in the various fortified cities. He supplied them with abundant provisions and acquired many wives for them.
-# 2 Chronicles
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -344,7 +333,6 @@
 [14] He did evil because he was not determined to follow the Lord.
 [15] The events of Rehoboam’s reign, from start to finish, are recorded in the Annals of Shemaiah the Prophet and of Iddo the Seer that include genealogical records. There were wars between Rehoboam and Jeroboam continually.
 [16] Then Rehoboam passed away and was buried in the City of David. His son Abijah replaced him as king.
-# 2 Chronicles
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -373,7 +361,6 @@
 [20] Jeroboam did not regain power during the reign of Abijah. The Lord struck him down and he died.
 [21] Abijah’s power grew; he had fourteen wives and fathered twenty-two sons and sixteen daughters.
 [22] The rest of the events of Abijah’s reign, including his deeds and sayings, are recorded in the writings of the prophet Iddo.
-# 2 Chronicles
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -395,7 +382,6 @@
 [13] and Asa and his army chased them as far as Gerar. The Cushites were wiped out; they were shattered before the Lord and his army. The men of Judah carried off a huge amount of plunder.
 [14] They defeated all the towns surrounding Gerar, for the Lord caused them to panic. The men of Judah looted all the towns, for they contained a huge amount of goods.
 [15] They also attacked the tents of the herdsmen in charge of the livestock. They carried off many sheep and camels and then returned to Jerusalem.
-# 2 Chronicles
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -417,7 +403,6 @@
 [16] King Asa also removed Maacah his grandmother from her position as queen mother because she had made a loathsome Asherah pole. Asa cut down her loathsome pole and crushed and burned it in the Kidron Valley.
 [17] The high places were not eliminated from Israel, yet Asa was wholeheartedly devoted to the Lord throughout his lifetime.
 [18] He brought the holy items that his father and he had made into God’s temple, including the silver, gold, and other articles.
-# 2 Chronicles
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -442,7 +427,6 @@
 [12] In the thirty-ninth year of his reign, Asa developed a foot disease and his disease became severe. Yet even in his disease, he did not seek the Lord, but only the doctors.
 [13] Asa passed away in the forty-first year of his reign.
 [14] He was buried in the tomb he had carved out in the City of David. They laid him to rest on a platform covered with spices and assorted mixtures of ointments. They made a huge bonfire to honor him.
-# 2 Chronicles
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -468,7 +452,6 @@
 [17] From Benjamin, Eliada, a skilled warrior, led 200,000 men who were equipped with bows and shields,
 [18] and Jehozabad led 180,000 trained warriors.
 [19] These were the ones who served the king, besides those whom the king placed in the fortified cities throughout Judah.
-# 2 Chronicles
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -509,7 +492,6 @@
 [32] When the chariot commanders realized he was not the king of Israel, they turned away from him.
 [33] Now an archer shot an arrow at random, and it struck the king of Israel between the plates of his armor. The king ordered his charioteer, “Turn around and take me from the battle line, for I am wounded.”
 [34] While the battle raged throughout the day, the king of Israel stood propped up in his chariot opposite the Syrians. He died in the evening as the sun was setting.
-# 2 Chronicles
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -527,7 +509,6 @@
 [9] He commanded them: “Carry out your duties with respect for the Lord, with honesty, and with pure motives.
 [10] Whenever your countrymen who live in the cities bring a case before you (whether it involves a violent crime or other matters related to the law, commandments, rules, and regulations), warn them that they must not sin against the Lord. If you fail to do so, God will be angry with you and your colleagues, but if you obey, you will be free of guilt.
 [11] Take note, Amariah the chief priest will oversee you in every matter pertaining to the Lord and Zebadiah son of Ishmael, the leader of the family of Judah, in every matter pertaining to the king. The Levites will serve as officials before you. Act courageously, and may the Lord be with those who do well!”
-# 2 Chronicles
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -574,7 +555,6 @@
 [35] Later King Jehoshaphat of Judah made an alliance with King Ahaziah of Israel, who did evil.
 [36] They agreed to make large seagoing merchant ships; they built the ships in Ezion Geber.
 [37] Eliezer son of Dodavahu from Mareshah prophesied against Jehoshaphat, “Because you made an alliance with Ahaziah, the Lord will shatter what you have made.” The ships were wrecked and unable to go to sea.
-# 2 Chronicles
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -601,7 +581,6 @@
 [18] After all this happened, the Lord afflicted him with an incurable intestinal disease.
 [19] After about two years his intestines came out because of the disease, so that he died a very painful death. His people did not make a bonfire to honor him, as they had done for his ancestors.
 [20] Jehoram was thirty-two years old when he became king and he reigned eight years in Jerusalem. No one regretted his death; he was buried in the City of David, but not in the royal tombs.
-# 2 Chronicles
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -623,7 +602,6 @@
 [10] When Athaliah the mother of Ahaziah saw that her son was dead, she was determined to destroy the entire royal line of Judah.
 [11] So Jehoshabeath, the daughter of King Jehoram, took Ahaziah’s son Joash and stole him away from the rest of the royal descendants who were to be executed. She hid him and his nurse in the room where the bed covers were stored. So Jehoshabeath the daughter of King Jehoram, wife of Jehoiada the priest and sister of Ahaziah, hid him from Athaliah so she could not execute him.
 [12] He remained in hiding in God’s temple for six years while Athaliah was ruling over the land.
-# 2 Chronicles
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -648,7 +626,6 @@
 [19] He posted guards at the gates of the Lord’s temple, so no one who was ceremonially unclean in any way could enter.
 [20] He summoned the officers of the units of hundreds, the nobles, the rulers of the people, and all the people of the land, and he then led the king down from the Lord’s temple. They entered the royal palace through the Upper Gate and seated the king on the royal throne.
 [21] All the people of the land celebrated, for the city had rest now that they had killed Athaliah.
-# 2 Chronicles
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -682,7 +659,6 @@
 [25] When they withdrew, they left Joash badly wounded. His servants plotted against him because of what he had done to the son of Jehoiada the priest. They murdered him on his bed. Thus he died and was buried in the City of David, but not in the tombs of the kings.
 [26] The conspirators were Zabad son of Shimeath (an Ammonite woman) and Jehozabad son of Shimrith (a Moabite woman).
 [27] The list of Joash’s sons, the many prophetic oracles about him, and the account of his building project on God’s temple are included in the record of the Scroll of the Kings. His son Amaziah replaced him as king.
-# 2 Chronicles
 
 ## Chapter 25 <!-- scripture:25 -->
 
@@ -717,7 +693,6 @@
 [26] The rest of the events of Amaziah’s reign, from start to finish, are recorded in the Scroll of the Kings of Judah and Israel.
 [27] From the time Amaziah turned from following the Lord, conspirators plotted against him in Jerusalem, so he fled to Lachish. But they sent assassins after him and they killed him there.
 [28] His body was carried back by horses, and he was buried with his ancestors in the City of David.
-# 2 Chronicles
 
 ## Chapter 26 <!-- scripture:26 -->
 
@@ -747,7 +722,6 @@
 [21] King Uzziah suffered from a skin disease until the day he died. He lived in separate quarters, afflicted by a skin disease and banned from the Lord’s temple. His son Jotham was in charge of the palace and ruled over the people of the land.
 [22] The rest of the events of Uzziah’s reign, from start to finish, were recorded by the prophet Isaiah son of Amoz.
 [23] Uzziah passed away and was buried near his ancestors in a cemetery belonging to the kings. (This was because he had a skin disease.) His son Jotham replaced him as king.
-# 2 Chronicles
 
 ## Chapter 27 <!-- scripture:27 -->
 
@@ -763,7 +737,6 @@
 [7] The rest of the events of Jotham’s reign, including all his military campaigns and his accomplishments, are recorded in the Scroll of the Kings of Israel and Judah.
 [8] He was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem.
 [9] Jotham passed away and was buried in the City of David. His son Ahaz replaced him as king.
-# 2 Chronicles
 
 ## Chapter 28 <!-- scripture:28 -->
 
@@ -797,7 +770,6 @@
 [25] In every city throughout Judah he set up high places to offer sacrifices to other gods. He angered the Lord God of his ancestors.
 [26] The rest of the events of Ahaz’s reign, including his accomplishments from start to finish, are recorded in the Scroll of the Kings of Judah and Israel.
 [27] Ahaz passed away and was buried in the city of Jerusalem; they did not bring him to the tombs of the kings of Israel. His son Hezekiah replaced him as king.
-# 2 Chronicles
 
 ## Chapter 29 <!-- scripture:29 -->
 
@@ -840,7 +812,6 @@
 [34] But there were not enough priests to skin all the animals, so their brothers, the Levites, helped them until the work was finished and the priests could consecrate themselves. (The Levites had been more conscientious about consecrating themselves than the priests.)
 [35] There was a large number of burnt sacrifices, as well as fat from the peace offerings and drink offerings that accompanied the burnt sacrifices. So the service of the Lord’s temple was reinstituted.
 [36] Hezekiah and all the people were happy about what God had done for them, for it had been done quickly.
-# 2 Chronicles
 
 ## Chapter 30 <!-- scripture:30 -->
 
@@ -874,7 +845,6 @@
 [25] The celebration included the entire assembly of Judah, the priests, the Levites, the entire assembly of those who came from Israel, the resident foreigners who came from the land of Israel, and those who were residents of Judah.
 [26] There was a great celebration in Jerusalem, unlike anything that had occurred in Jerusalem since the time of King Solomon son of David of Israel.
 [27] The priests and Levites got up and pronounced blessings on the people. The Lord responded favorably to them as their prayers reached his holy dwelling place in heaven.
-# 2 Chronicles
 
 ## Chapter 31 <!-- scripture:31 -->
 
@@ -902,7 +872,6 @@
 [19] As for the descendants of Aaron, the priests who lived in the outskirts of all their cities, men were assigned to disburse portions to every male among the priests and to every Levite listed in the genealogical records.
 [20] This is what Hezekiah did throughout Judah. He did what the Lord his God considered good and right and faithful.
 [21] He wholeheartedly and successfully reinstituted service in God’s temple and obedience to the law, in order to follow his God.
-# 2 Chronicles
 
 ## Chapter 32 <!-- scripture:32 -->
 
@@ -945,7 +914,6 @@
 [31] So when the envoys arrived from the Babylonian officials to visit him and inquire about the sign that occurred in the land, God left him alone to test him, in order to know his true motives.
 [32] The rest of the events of Hezekiah’s reign, including his faithful deeds, are recorded in the vision of the prophet Isaiah son of Amoz, included in the Scroll of the Kings of Judah and Israel.
 [33] Hezekiah passed away and was buried on the ascent of the tombs of the descendants of David. All the people of Judah and the residents of Jerusalem buried him with great honor. His son Manasseh replaced him as king.
-# 2 Chronicles
 
 ## Chapter 33 <!-- scripture:33 -->
 
@@ -980,7 +948,6 @@
 [23] He did not humble himself before the Lord as his father Manasseh had done. Amon was guilty of great sin.
 [24] His servants conspired against him and killed him in his palace.
 [25] The people of the land executed all who had conspired against King Amon, and they made his son Josiah king in his place.
-# 2 Chronicles
 
 ## Chapter 34 <!-- scripture:34 -->
 
@@ -1020,7 +987,6 @@
 [31] The king stood by his pillar and renewed the covenant before the Lord, agreeing to follow the Lord and to obey his commandments, laws, and rules with all his heart and being, by carrying out the terms of this covenant recorded on this scroll.
 [32] He made all who were in Jerusalem and Benjamin agree to it. The residents of Jerusalem acted in accordance with the covenant of God, the God of their ancestors.
 [33] Josiah removed all the detestable idols from all the areas belonging to the Israelites and encouraged all who were in Israel to worship the Lord their God. Throughout the rest of his reign they did not turn aside from following the Lord God of their ancestors.
-# 2 Chronicles
 
 ## Chapter 35 <!-- scripture:35 -->
 
@@ -1057,7 +1023,6 @@
 [25] Jeremiah composed laments for Josiah which all the male and female singers use to mourn Josiah to this very day. It has become customary in Israel to sing these; they are recorded in the Book of Laments.
 [26] The rest of the events of Josiah’s reign, including the faithful acts he did in obedience to what is written in the law of the Lord
 [27] and his accomplishments, from start to finish, are recorded in the Scroll of the Kings of Israel and Judah.
-# 2 Chronicles
 
 ## Chapter 36 <!-- scripture:36 -->
 

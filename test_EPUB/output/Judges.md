@@ -44,7 +44,6 @@
 [34] The Amorites forced the people of Dan to live in the hill country. They did not allow them to live in the coastal plain.
 [35] The Amorites managed to remain in Har Heres, Aijalon, and Shaalbim. Whenever the tribe of Joseph was strong militarily, the Amorites were forced to do hard labor.
 [36] The border of Amorite territory ran from the Scorpion Ascent to Sela and on up.
-# Judges
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -83,7 +82,6 @@
 [21] So I will no longer remove before them any of the nations that Joshua left unconquered when he died,
 [22] in order to test Israel. I want to see whether or not the people will carefully walk in the path marked out by the Lord, as their ancestors were careful to do.”
 [23] This is why the Lord permitted these nations to remain and did not conquer them immediately; he did not hand them over to Joshua.
-# Judges
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -124,7 +122,6 @@
 [29] That day they killed about 10,000 Moabites —all strong, capable warriors; not one escaped.
 [30] Israel humiliated Moab that day, and the land had rest for eighty years.
 [31] After Ehud came Shamgar son of Anath. He killed 600 Philistines with an oxgoad. So he also delivered Israel.
-# Judges
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -155,7 +152,6 @@
 [22] Now Barak was chasing Sisera. Jael went out to welcome him. She said to him, “Come here and I will show you the man you are searching for.” He went with her into the tent, and there he saw Sisera sprawled out dead with the tent peg through his temple.
 [23] That day God humiliated King Jabin of Canaan before the Israelites.
 [24] Israel’s power continued to overwhelm King Jabin of Canaan until they did away with him.
-# Judges
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -259,7 +255,6 @@ two pieces of colorful embroidered cloth,
 for the neck of the plunderer!’
 But may those who love you shine
 like the rising sun at its brightest.”
-# Judges
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -315,7 +310,6 @@ like the rising sun at its brightest.”
 [38] The Lord did as he asked. When he got up the next morning, he squeezed the fleece, and enough dew dripped from it to fill a bowl.
 [39] Gideon said to God, “Please do not get angry at me, when I ask for just one more sign. Please allow me one more test with the fleece. This time make only the fleece dry, while the ground around it is covered with dew.”
 [40] That night God did as he asked. Only the fleece was dry and the ground around it was covered with dew.
-# Judges
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -356,7 +350,6 @@ like the rising sun at its brightest.”
 
 [24] Now Gideon sent messengers throughout the Ephraimite hill country who announced, “Go down and head off the Midianites. Take control of the fords of the streams all the way to Beth Barah and the Jordan River.” When all the Ephraimites had assembled, they took control of the fords all the way to Beth Barah and the Jordan River.
 [25] They captured the two Midianite generals, Oreb and Zeeb. They executed Oreb on the rock of Oreb and Zeeb in the winepress of Zeeb. They chased the Midianites and brought the heads of Oreb and Zeeb to Gideon, who was now on the other side of the Jordan River.
-# Judges
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -407,7 +400,6 @@ like the rising sun at its brightest.”
 [33] After Gideon died, the Israelites again prostituted themselves to the Baals. They made Baal Berith their god.
 [34] The Israelites did not remain true to the Lord their God, who had delivered them from all the enemies who lived around them.
 [35] They did not treat the family of Jerub Baal (that is, Gideon) fairly in return for all the good he had done for Israel.
-# Judges
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -477,7 +469,6 @@ like the rising sun at its brightest.”
 [55] When the Israelites saw that Abimelech was dead, they went home.
 [56] God repaid Abimelech for the evil he did to his father by murdering his seventy half brothers.
 [57] God also repaid the men of Shechem for their evil deeds. The curse spoken by Jotham son of Jerub Baal fell on them.
-# Judges
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -508,7 +499,6 @@ like the rising sun at its brightest.”
 
 [17] The Ammonites assembled and camped in Gilead; the Israelites gathered together and camped in Mizpah.
 [18] The leaders of Gilead said to one another, “Who is willing to lead the charge against the Ammonites? He will become the leader of all who live in Gilead!”
-# Judges
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -558,7 +548,6 @@ like the rising sun at its brightest.”
 [38] He said, “You may go.” He permitted her to leave for two months. She went with her friends and mourned her virginity as she walked through the hills.
 [39] After two months she returned to her father, and he did to her as he had vowed. She died a virgin. Her tragic death gave rise to a custom in Israel.
 [40] Every year Israelite women commemorate the daughter of Jephthah the Gileadite for four days.
-# Judges
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -583,7 +572,6 @@ like the rising sun at its brightest.”
 [13] After him Abdon son of Hillel the Pirathonite led Israel.
 [14] He had forty sons and thirty grandsons who rode on seventy donkeys. He led Israel for eight years.
 [15] Then Abdon son of Hillel the Pirathonite died and was buried in Pirathon in the land of Ephraim, in the hill country of the Amalekites.
-# Judges
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -615,7 +603,6 @@ like the rising sun at its brightest.”
 [23] But his wife said to him, “If the Lord wanted to kill us, he would not have accepted the burnt offering and the grain offering from us. He would not have shown us all these things, or have spoken to us like this just now.”
 [24] Manoah’s wife gave birth to a son and named him Samson. The child grew and the Lord empowered him.
 [25] The Lord’s Spirit began to control him in Mahaneh Dan between Zorah and Eshtaol.
-# Judges
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -648,7 +635,6 @@ What is stronger than a lion?”
 you would not have solved my riddle!”
 [19] The Lord’s Spirit empowered him. He went down to Ashkelon and killed thirty men. He took their clothes and gave them to the men who had solved the riddle. He was furious as he went back home.
 [20] Samson’s bride was then given to his best man.
-# Judges
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -679,7 +665,6 @@ I have struck down a thousand men!”
 [18] He was very thirsty, so he cried out to the Lord and said, “You have given your servant this great victory. But now must I die of thirst and fall into the hands of these uncircumcised Philistines?”
 [19] So God split open the basin at Lehi and water flowed out from it. When he took a drink, his strength was restored and he revived. For this reason he named the spring En Hakkore. It remains in Lehi to this very day.
 [20] Samson led Israel for twenty years during the days of Philistine prominence.
-# Judges
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -720,7 +705,6 @@ I have struck down a thousand men!”
 [29] Samson took hold of the two middle pillars that supported the temple and he leaned against them, with his right hand on one and his left hand on the other.
 [30] Samson said, “Let me die with the Philistines!” He pushed hard, and the temple collapsed on the rulers and all the people in it. He killed many more people in his death than he had killed during his life.
 [31] His brothers and all his family went down and brought him back. They buried him between Zorah and Eshtaol in the tomb of Manoah his father. He had led Israel for twenty years.
-# Judges
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -743,7 +727,6 @@ I have struck down a thousand men!”
 [11] So the Levite agreed to stay with the man; the young man was like a son to Micah.
 [12] Micah paid the Levite; the young man became his priest and lived in Micah’s house.
 [13] Micah said, “Now I know the Lord will make me rich, because I have this Levite as my priest.”
-# Judges
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -781,7 +764,6 @@ I have struck down a thousand men!”
 [29] They named it Dan after their ancestor, who was one of Israel’s sons. But the city’s name used to be Laish.
 [30] The Danites worshiped the carved image. Jonathan, descendant of Gershom, son of Moses, and his descendants served as priests for the tribe of Dan until the time of the exile.
 [31] They worshiped Micah’s carved image the whole time God’s authorized shrine was in Shiloh.
-# Judges
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -818,7 +800,6 @@ I have struck down a thousand men!”
 [28] He said to her, “Get up, let’s leave.” But there was no response. He put her on the donkey and went home.
 [29] When he got home, he took a knife, grasped his concubine, and carved her up into twelve pieces. Then he sent the pieces throughout Israel.
 [30] Everyone who saw the sight said, “Nothing like this has happened or been witnessed during the entire time since the Israelites left the land of Egypt! Take careful note of it! Discuss it and speak!”
-# Judges
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -873,7 +854,6 @@ I have struck down a thousand men!”
 [46] That day 25,000 sword-wielding Benjaminites fell in battle, all of them capable warriors.
 [47] But 600 survivors turned and ran away to the wilderness, to the cliff of Rimmon. They stayed there four months.
 [48] The Israelites returned to the Benjaminite towns and put the sword to them. They wiped out the cities, the animals, and everything they could find. They set fire to every city in their path.
-# Judges
 
 ## Chapter 21 <!-- scripture:21 -->
 

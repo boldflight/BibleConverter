@@ -66,7 +66,6 @@
 [44] The Amorite inhabitants of that area confronted you and chased you like a swarm of bees, striking you down from Seir as far as Hormah.
 [45] Then you came back and wept before the Lord, but he paid no attention to you whatsoever.
 [46] Therefore, you remained at Kadesh for a long time—indeed, for the full time.
-# Deuteronomy
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -116,7 +115,6 @@
 [35] We kept only the livestock and plunder from the cities for ourselves.
 [36] From Aroer, which is at the edge of Wadi Arnon (it is the city in the wadi), all the way to Gilead there was not a town able to resist us—the Lord our God gave them all to us.
 [37] However, you did not approach the land of the Ammonites, the Wadi Jabbok, the cities of the hill country, or any place else forbidden by the Lord our God.
-# Deuteronomy
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -161,7 +159,6 @@
 [27] Go up to the top of Pisgah and take a good look to the west, north, south, and east, for you will not be allowed to cross the Jordan.
 [28] Commission Joshua, and encourage and strengthen him, because he will lead these people over and will enable them to inherit the land you will see.”
 [29] So we settled down in the valley opposite Beth Peor.
-# Deuteronomy
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -235,7 +232,6 @@
 [47] They possessed his land and that of King Og of Bashan—both of whom were Amorite kings in the Transjordan, to the east.
 [48] Their territory extended from Aroer at the edge of the Arnon valley as far as Mount Siyon —that is, Hermon—
 [49] including all the rift valley of the Transjordan in the east to the sea of the rift valley, beneath the slopes of Pisgah.)
-# Deuteronomy
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -281,7 +277,6 @@
 [31] But as for you, remain here with me so I can declare to you all the commandments, statutes, and ordinances that you are to teach them, so that they can carry them out in the land I am about to give them.”
 [32] Be careful, therefore, to do exactly what the Lord your God has commanded you; do not turn right or left!
 [33] Walk just as he has commanded you so that you may live, that it may go well with you, and that you may live long in the land you are going to possess.
-# Deuteronomy
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -328,7 +323,6 @@
 [23] He delivered us from there so that he could give us the land he had promised our ancestors.
 [24] The Lord commanded us to obey all these statutes and to revere him so that it may always go well for us and he may preserve us, as he has to this day.
 [25] We will be innocent if we carefully keep all these commandments before the Lord our God, just as he demands.”
-# Deuteronomy
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -370,7 +364,6 @@
 [24] He will hand over their kings to you, and you will erase their very names from memory. Nobody will be able to resist you until you destroy them.
 [25] You must burn the images of their gods, but do not covet the silver and gold that covers them so much that you take it for yourself and thus become ensnared by it; for it is abhorrent to the Lord your God.
 [26] You must not bring any abhorrent thing into your house and thereby become an object of divine wrath along with it. You must absolutely detest and abhor it, for it is an object of divine wrath.
-# Deuteronomy
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -400,7 +393,6 @@
 [18] You must remember the Lord your God, for he is the one who gives ability to get wealth; if you do this he will confirm his covenant that he made by oath to your ancestors, even as he has to this day.
 [19] Now if you forget the Lord your God at all and follow other gods, worshiping and prostrating yourselves before them, I testify to you today that you will surely be annihilated.
 [20] Just like the nations the Lord is about to destroy from your sight, so he will do to you because you would not obey him.
-# Deuteronomy
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -442,7 +434,6 @@
 [27] Remember your servants Abraham, Isaac, and Jacob; ignore the stubbornness, wickedness, and sin of these people.
 [28] Otherwise the people of the land from which you brought us will say, “The Lord was unable to bring them to the land he promised them, and because of his hatred for them he has brought them out to kill them in the wilderness.”
 [29] They are your people, your valued property, whom you brought out with great strength and power.
-# Deuteronomy
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -477,7 +468,6 @@
 [20] Revere the Lord your God, serve him, be loyal to him, and take oaths only in his name.
 [21] He is the one you should praise; he is your God, the one who has done these great and awesome things for you that you have seen.
 [22] When your ancestors went down to Egypt, they numbered only seventy, but now the Lord your God has made you as numerous as the stars of the sky.
-# Deuteronomy
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -525,7 +515,6 @@
 [30] Are they not across the Jordan River, toward the west, in the land of the Canaanites who live in the rift valley opposite Gilgal near the oak of Moreh?
 [31] For you are about to cross the Jordan to possess the land the Lord your God is giving you, and you will possess and inhabit it.
 [32] Be certain to keep all the statutes and ordinances that I am presenting to you today.
-# Deuteronomy
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -572,7 +561,6 @@
 [29] When the Lord your God eliminates the nations from the place where you are headed and you dispossess them, you will settle down in their land.
 [30] After they have been destroyed from your presence, be careful not to be ensnared like they are; do not pursue their gods and say, “How do these nations serve their gods? I will do the same.”
 [31] You must not worship the Lord your God the way they do! For everything that is abhorrent to him, everything he hates, they have done when worshiping their gods. They even burn up their sons and daughters before their gods!
-# Deuteronomy
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -604,7 +592,6 @@
 [16] You must gather all of its plunder into the middle of the plaza and burn the city and all its plunder as a whole burnt offering to the Lord your God. It will be an abandoned ruin forever—it must never be rebuilt again.
 [17] You must not take for yourself anything that has been placed under judgment. Then the Lord will relent from his intense anger, show you compassion, have mercy on you, and multiply you as he promised your ancestors.
 [18] Thus you must obey the Lord your God, keeping all his commandments that I am giving you today and doing what is right before him.
-# Deuteronomy
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -643,7 +630,6 @@
 [27] As for the Levites in your villages, you must not ignore them, for they have no allotment or inheritance along with you.
 [28] At the end of every three years you must bring all the tithe of your produce, in that very year, and you must store it up in your villages.
 [29] Then the Levites (because they have no allotment or inheritance with you), the resident foreigners, the orphans, and the widows of your villages may come and eat their fill so that the Lord your God may bless you in all the work you do.
-# Deuteronomy
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -682,7 +668,6 @@
 [21] If one of them has any kind of blemish—lameness, blindness, or anything else —you may not offer it as a sacrifice to the Lord your God.
 [22] You may eat it in your villages, whether you are ritually impure or clean, just as you would eat a gazelle or an ibex.
 [23] However, you must not eat its blood; you must pour it out on the ground like water.
-# Deuteronomy
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -723,7 +708,6 @@
 
 [21] You must not plant any kind of tree as a sacred Asherah pole near the altar of the Lord your God which you build for yourself.
 [22] You must not erect a sacred pillar, a thing the Lord your God detests.
-# Deuteronomy
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -753,7 +737,6 @@
 [18] When he sits on his royal throne he must make a copy of this law on a scroll given to him by the Levitical priests.
 [19] It must be with him constantly, and he must read it as long as he lives, so that he may learn to revere the Lord his God and observe all the words of this law and these statutes and carry them out.
 [20] Then he will not exalt himself above his fellow citizens or turn from the commandments to the right or left, and he and his descendants will enjoy many years ruling over his kingdom in Israel.
-# Deuteronomy
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -785,7 +768,6 @@
 [20] “But if any prophet presumes to speak anything in my name that I have not authorized him to speak, or speaks in the name of other gods, that prophet must die.
 [21] Now if you say to yourselves, ‘How can we tell that a message is not from the Lord?’ —
 [22] whenever a prophet speaks in my name and the prediction is not fulfilled, then I have not spoken it; the prophet has presumed to speak it, so you need not fear him.”
-# Deuteronomy
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -816,7 +798,6 @@
 [19] you must do to him what he had intended to do to the accused. In this way you will purge the evil from among you.
 [20] The rest of the people will hear and become afraid to keep doing such evil among you.
 [21] You must not show pity; the principle will be a life for a life, an eye for an eye, a tooth for a tooth, a hand for a hand, and a foot for a foot.
-# Deuteronomy
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -846,7 +827,6 @@
 [18] so that they cannot teach you all the abhorrent ways they worship their gods, causing you to sin against the Lord your God.
 [19] If you besiege a city for a long time while attempting to capture it, you must not chop down its trees, for you may eat fruit from them and should not cut them down. A tree in the field is not human that you should besiege it!
 [20] However, you may chop down any tree you know is not suitable for food, and you may use it to build siege works against the city that is making war with you until that city falls.
-# Deuteronomy
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -885,7 +865,6 @@
 
 [22] If a person commits a sin punishable by death and is executed, and you hang the corpse on a tree,
 [23] his body must not remain all night on the tree; instead you must make certain you bury him that same day, for the one who is left exposed on a tree is cursed by God. You must not defile your land that the Lord your God is giving you as an inheritance.
-# Deuteronomy
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -928,7 +907,6 @@
 [28] Suppose a man comes across a virgin who is not engaged and takes hold of her and sleeps with her and they are discovered.
 [29] The man who has slept with her must pay her father fifty shekels of silver and she must become his wife. Because he has humiliated her, he may never divorce her as long as he lives.
 [30] (
-# Deuteronomy
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -972,7 +950,6 @@
 [23] Whatever you vow, you must be careful to do what you have promised, such as what you have vowed to the Lord your God as a freewill offering.
 [24] When you enter the vineyard of your neighbor you may eat as many grapes as you please, but you must not take away any in a container.
 [25] When you go into the ripe grain fields of your neighbor you may pluck off the kernels with your hand, but you must not use a sickle on your neighbor’s ripe grain.
-# Deuteronomy
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -1001,7 +978,6 @@
 [20] When you beat your olive tree you must not repeat the procedure; the remaining olives belong to the resident foreigner, orphan, and widow.
 [21] When you gather the grapes of your vineyard you must not do so a second time; they should go to the resident foreigner, orphan, and widow.
 [22] Remember that you were slaves in the land of Egypt; therefore, I am commanding you to do all this.
-# Deuteronomy
 
 ## Chapter 25 <!-- scripture:25 -->
 
@@ -1030,7 +1006,6 @@
 [17] Remember what the Amalekites did to you on your way from Egypt,
 [18] how they met you along the way and cut off all your stragglers in the rear of the march when you were exhausted and tired; they were unafraid of God.
 [19] So when the Lord your God gives you relief from all the enemies who surround you in the land he is giving you as an inheritance, you must wipe out the memory of the Amalekites from under heaven —do not forget!
-# Deuteronomy
 
 ## Chapter 26 <!-- scripture:26 -->
 
@@ -1062,7 +1037,6 @@
 [17] Today you have declared the Lord to be your God, and that you will walk in his ways, keep his statutes, commandments, and ordinances, and obey him.
 [18] And today the Lord has declared you to be his special people (as he already promised you) so you may keep all his commandments.
 [19] Then he will elevate you above all the nations he has made and you will receive praise, fame, and honor. You will be a people holy to the Lord your God, as he has said.
-# Deuteronomy
 
 ## Chapter 27 <!-- scripture:27 -->
 
@@ -1098,7 +1072,6 @@
 [24] ‘Cursed is the one who kills his neighbor in private.’ Then all the people will say, ‘Amen!’
 [25] ‘Cursed is the one who takes a bribe to kill an innocent person.’ Then all the people will say, ‘Amen!’
 [26] ‘Cursed is the one who refuses to keep the words of this law.’ Then all the people will say, ‘Amen!’
-# Deuteronomy
 
 ## Chapter 28 <!-- scripture:28 -->
 
@@ -1191,7 +1164,6 @@
 [66] Your life will hang in doubt before you; you will be terrified by night and day and will have no certainty of surviving from one day to the next.
 [67] In the morning you will say, ‘If only it were evening!’ And in the evening you will say, ‘I wish it were morning!’ because of the things you will fear and the things you will see.
 [68] Then the Lord will make you return to Egypt by ship, over a route I said to you that you would never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”
-# Deuteronomy
 
 ## Chapter 29 <!-- scripture:29 -->
 
@@ -1236,7 +1208,6 @@
 [27] That is why the Lord’s anger erupted against this land, bringing on it all the curses written in this scroll.
 [28] So the Lord has uprooted them from their land in anger, wrath, and great rage and has deported them to another land, as is clear today.’
 [29] The secret things belong to the Lord our God, but those that are revealed belong to us and our descendants forever, so that we might obey all the words of this law.
-# Deuteronomy
 
 ## Chapter 30 <!-- scripture:30 -->
 
@@ -1266,7 +1237,6 @@
 [18] I declare to you this very day that you will certainly perish! You will not extend your time in the land you are crossing the Jordan to possess.
 [19] Today I invoke heaven and earth as witnesses against you that I have set life and death, blessing and curse, before you. Therefore choose life so that you and your descendants may live!
 [20] I also call on you to love the Lord your God, to obey him and be loyal to him, for he gives you life and enables you to live continually in the land the Lord promised to give to your ancestors Abraham, Isaac, and Jacob.”
-# Deuteronomy
 
 ## Chapter 31 <!-- scripture:31 -->
 
@@ -1312,7 +1282,6 @@
 [28] Gather to me all your tribal elders and officials so I can speak to them directly about these things and call the heavens and the earth to witness against them.
 [29] For I know that after I die you will totally corrupt yourselves and turn away from the path I have commanded you to walk. Disaster will confront you in future days because you will act wickedly before the Lord, inciting him to anger because of your actions.”
 [30] Then Moses recited the words of this song from start to finish in the hearing of the whole assembly of Israel:
-# Deuteronomy
 
 ## Chapter 32 <!-- scripture:32 -->
 
@@ -1488,7 +1457,6 @@ and make atonement for his land and people.
 [50] You will die on the mountain that you ascend and join your deceased ancestors, just as Aaron your brother died on Mount Hor and joined his deceased ancestors,
 [51] for both of you rebelled against me among the Israelites at the waters of Meribah Kadesh in the wilderness of Zin when you did not show me proper respect among the Israelites.
 [52] You will see the land before you, but you will not enter the land that I am giving to the Israelites.”
-# Deuteronomy
 
 ## Chapter 33 <!-- scripture:33 -->
 
@@ -1639,7 +1607,6 @@ your protective shield
 and your exalted sword.
 May your enemies cringe before you;
 may you trample on their backs.”
-# Deuteronomy
 
 ## Chapter 34 <!-- scripture:34 -->
 

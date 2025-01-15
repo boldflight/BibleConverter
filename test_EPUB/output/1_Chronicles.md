@@ -89,7 +89,6 @@
 [52] Oholibamah, Elah, Pinon,
 [53] Kenaz, Teman, Mibzar,
 [54] Magdiel, and Iram. These were the tribal chiefs of Edom.
-# 1 Chronicles
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -166,7 +165,6 @@
 [53] the clans of Kiriath Jearim—the Ithrites, Puthites, Shumathites, and Mishraites. (The Zorathites and Eshtaolites descended from these groups.)
 [54] The sons of Salma: Bethlehem, the Netophathites, Atroth Beth Joab, half the Manahathites, the Zorites,
 [55] and the clans of the scribes who lived in Jabez: the Tirathites, Shimeathites, and Sucathites. These are the Kenites who descended from Hammath, the father of Beth Rechab.
-# 1 Chronicles
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -200,7 +198,6 @@
 [22] The descendants of Shecaniah: Shemaiah and his sons: Hattush, Igal, Bariah, Neariah, and Shaphat—six in all.
 [23] The sons of Neariah: Elioenai, Hizkiah, and Azrikam—three in all.
 [24] The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven in all.
-# 1 Chronicles
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -253,7 +250,6 @@
 [41] The men whose names are listed came during the time of King Hezekiah of Judah and attacked the Hamites’ settlements, as well as the Meunites they discovered there, and they wiped them out, as can be seen to this very day. They dispossessed them, for they found pasture for their sheep there.
 [42] Five hundred men of Simeon, led by Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi, went to the hill country of Seir
 [43] and defeated the rest of the Amalekite refugees; they live there to this very day.
-# 1 Chronicles
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -292,7 +288,6 @@
 [24] These were the leaders of their families:
 [25] But they were unfaithful to the God of their ancestors and worshiped instead the gods of the native peoples whom God had destroyed before them.
 [26] So the God of Israel stirred up King Pul of Assyria (that is, King Tiglath-Pileser of Assyria), and he carried away the Reubenites, Gadites, and half-tribe of Manasseh and took them to Halah, Habor, Hara, and the river of Gozan, where they remain to this very day.
-# 1 Chronicles
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -383,7 +378,6 @@
 [79] Kedemoth and its pasturelands, and Mephaath and its pasturelands.
 [80] Within the territory of the tribe of Gad: Ramoth in Gilead and its pasturelands, Mahanaim and its pasturelands,
 [81] Heshbon and its pasturelands, and Jazer and its pasturelands.
-# 1 Chronicles
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -445,7 +439,6 @@
 [38] The sons of Jether: Jephunneh, Pispah, and Ara.
 [39] The sons of Ulla: Arah, Hanniel, and Rizia.
 [40] All these were the descendants of Asher. They were the leaders of their families, the most capable men, who were warriors and served as head chiefs. There were 26,000 warriors listed in their genealogical records as capable of doing battle.
-# 1 Chronicles
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -492,7 +485,6 @@
 [38] Azel had six sons: Azrikam his firstborn, followed by Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.
 [39] The sons of his brother Eshek:
 [40] The sons of Ulam were warriors who were adept archers. They had many sons and grandsons, a total of 150.
-# 1 Chronicles
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -546,7 +538,6 @@
 [42] Ahaz was the father of Jarah, and Jarah was the father of Alemeth, Azmaveth, and Zimri. Zimri was the father of Moza,
 [43] and Moza was the father of Binea. His son was Rephaiah, whose son was Eleasah, whose son was Azel.
 [44] Azel had six sons: Azrikam his firstborn, followed by Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel.
-# 1 Chronicles
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -567,7 +558,6 @@
 [12] all the warriors went and recovered the bodies of Saul and his sons and brought them to Jabesh. They buried their remains under the oak tree in Jabesh and fasted for seven days.
 [13] So Saul died because he was unfaithful to the Lord and did not obey the Lord’s instructions; he even tried to conjure up underworld spirits.
 [14] He did not seek the Lord’s guidance, so the Lord killed him and transferred the kingdom to David son of Jesse.
-# 1 Chronicles
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -627,7 +617,6 @@
 [45] Jediael son of Shimri,
 [46] Eliel the Mahavite,
 [47] Eliel,
-# 1 Chronicles
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -677,7 +666,6 @@
 [38] All these men were warriors who were ready to march. They came to Hebron to make David king over all Israel by acclamation; all the rest of the Israelites also were in agreement that David should become king.
 [39] They spent three days feasting there with David, for their relatives had given them provisions.
 [40] Also their neighbors, from as far away as Issachar, Zebulun, and Naphtali, were bringing food on donkeys, camels, mules, and oxen. There were large supplies of flour, fig cakes, raisins, wine, olive oil, beef, and lamb, for Israel was celebrating.
-# 1 Chronicles
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -698,7 +686,6 @@
 [12] David was afraid of God that day and said, “How will I ever be able to bring the ark of God up here?”
 [13] So David did not move the ark to the City of David; he left it in the house of Obed-Edom the Gittite.
 [14] The ark of God remained in Obed-Edom’s house for three months; the Lord blessed Obed-Edom’s family and everything that belonged to him.
-# 1 Chronicles
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -722,7 +709,6 @@
 [15] When you hear the sound of marching in the tops of the trees, then attack. For at that moment God is going before you to strike down the army of the Philistines.”
 [16] David did just as God commanded him, and they struck down the Philistine army from Gibeon to Gezer.
 [17] So David became famous in all the lands; the Lord caused all the nations to fear him.
-# 1 Chronicles
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -758,7 +744,6 @@
 [27] David was wrapped in a linen robe, as were all the Levites carrying the ark, the musicians, and Kenaniah the supervisor of transport and the musicians; David also wore a linen ephod.
 [28] All Israel brought up the ark of the Lord’s covenant; they were shouting, blowing trumpets, sounding cymbals, and playing stringed instruments.
 [29] As the ark of the Lord’s covenant entered the City of David, Michal, Saul’s daughter, looked out the window. When she saw King David jumping and celebrating, she despised him.
-# 1 Chronicles
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -848,7 +833,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [41] Joining them were Heman, Jeduthun, and the rest of those chosen and designated by name to give thanks to the Lord. (For his loyal love endures!)
 [42] Heman and Jeduthun were in charge of the music, including the trumpets, cymbals, and the other musical instruments used in praising God. The sons of Jeduthun guarded the entrance.
 [43] Then all the people returned to their homes, and David went to pronounce a blessing on his family.
-# 1 Chronicles
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -885,7 +869,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [25] for you, my God, have revealed to your servant that you will build a dynasty for him. That is why your servant has had the courage to pray to you.
 [26] Now, O Lord, you are the true God; you have made this good promise to your servant.
 [27] Now you are willing to bless your servant’s dynasty so that it may stand permanently before you, for you, O Lord, have blessed it and it will be blessed from now on into the future.”
-# 1 Chronicles
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -912,7 +895,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [15] Joab son of Zeruiah was commanding general of the army; Jehoshaphat son of Ahilud was secretary;
 [16] Zadok son of Ahitub and Abimelech son of Abiathar were priests; Shavsha was scribe;
 [17] Benaiah son of Jehoiada supervised the Kerethites and Pelethites; and David’s sons were the king’s leading officials.
-# 1 Chronicles
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -938,7 +920,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [17] When David was informed, he gathered all Israel, crossed the Jordan River, and marched against them. David deployed his army against the Arameans for battle and they fought against him.
 [18] The Arameans fled before Israel. David killed 7,000 Aramean charioteers and 40,000 infantrymen; he also killed Shophach the commanding general.
 [19] When Hadadezer’s subjects saw they were defeated by Israel, they made peace with David and became his subjects. The Arameans were no longer willing to help the Ammonites.
-# 1 Chronicles
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -953,7 +934,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [6] In a battle in Gath there was a large man who had six fingers on each hand and six toes on each foot—twenty-four in all! He too was a descendant of Rapha.
 [7] When he taunted Israel, Jonathan son of Shimea, David’s brother, killed him.
 [8] These were the descendants of Rapha who lived in Gath; they were killed by the hand of David and his soldiers.
-# 1 Chronicles
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -987,7 +967,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [25] So David bought the place from Ornan for 600 pieces of gold.
 [26] David built there an altar to the Lord and offered burnt sacrifices and peace offerings. He called out to the Lord, and the Lord responded by sending fire from the sky and consuming the burnt sacrifice on the altar.
 [27] The Lord ordered the messenger to put his sword back into its sheath.
-# 1 Chronicles
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -1016,7 +995,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [17] David ordered all the officials of Israel to support his son Solomon.
 [18] He told them, “The Lord your God is with you! He has made you secure on every side, for he handed over to me the inhabitants of the region and the region is subdued before the Lord and his people.
 [19] Now seek the Lord your God wholeheartedly and with your entire being! Get up and build the sanctuary of the Lord God! Then you can bring the ark of the Lord’s covenant and the holy items dedicated to God’s service into the temple that is built to honor the Lord.”
-# 1 Chronicles
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -1055,7 +1033,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [30] They also stood in a designated place every morning and offered thanks and praise to the Lord. They also did this in the evening
 [31] and whenever burnt sacrifices were offered to the Lord on the Sabbath and at new moon festivals and assemblies. A designated number were to serve before the Lord regularly in accordance with regulations.
 [32] They were in charge of the meeting tent and the Holy Place, and helped their relatives, the descendants of Aaron, in the service of the Lord’s temple.
-# 1 Chronicles
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -1096,7 +1073,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [29] From Kish: Jerahmeel.
 [30] The sons of Mushi: Mahli, Eder, and Jerimoth.
 [31] Like their relatives, the descendants of Aaron, they also cast lots before King David, Zadok, Ahimelech, the leaders of families, the priests, and the Levites. The families of the oldest son cast lots along with those of the youngest.
-# 1 Chronicles
 
 ## Chapter 25 <!-- scripture:25 -->
 
@@ -1134,7 +1110,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [29] the twenty-second to Giddalti and his sons and relatives—twelve in all,
 [30] the twenty-third to Mahazioth and his sons and relatives—twelve in all,
 [31] the twenty-fourth to Romamti-Ezer and his sons and relatives—twelve in all.
-# 1 Chronicles
 
 ## Chapter 26 <!-- scripture:26 -->
 
@@ -1176,7 +1151,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [30] As for the Hebronites: Hashabiah and his relatives, 1,700 respected men, were assigned responsibilities in Israel west of the Jordan; they did the Lord’s work and the king’s service.
 [31] As for the Hebronites: Jeriah was the leader of the Hebronites according to the genealogical records. In the fortieth year of David’s reign, they examined the records and discovered there were highly respected men in Jazer in Gilead.
 [32] Jeriah had 2,700 relatives who were respected family leaders. King David placed them in charge of the Reubenites, the Gadites, and the half-tribe of Manasseh; they took care of all matters pertaining to God and the king.
-# 1 Chronicles
 
 ## Chapter 27 <!-- scripture:27 -->
 
@@ -1220,7 +1194,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [32] Jonathan, David’s uncle, was a wise adviser and scribe;
 [33] Ahithophel was the king’s adviser;
 [34] Ahithophel was succeeded by Jehoiada son of Benaiah and by Abiathar.
-# 1 Chronicles
 
 ## Chapter 28 <!-- scripture:28 -->
 
@@ -1248,7 +1221,6 @@ Then all the people said, “We agree! Praise the Lord.”
 [19] David said, “All this I put in writing as the Lord directed me and gave me insight regarding the details of the blueprints.”
 [20] David said to his son Solomon: “Be strong and brave! Do it! Don’t be afraid and don’t panic! For the Lord God, my God, is with you. He will not leave you or abandon you before all the work for the service of the Lord’s temple is finished.
 [21] Here are the divisions of the priests and Levites who will perform all the service of God’s temple. All the willing and skilled men are ready to assist you in all the work and perform their service. The officials and all the people are ready to follow your instructions.”
-# 1 Chronicles
 
 ## Chapter 29 <!-- scripture:29 -->
 

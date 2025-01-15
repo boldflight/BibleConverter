@@ -18,7 +18,6 @@
 [8] For from you the message of the Lord has echoed forth not just in Macedonia and Achaia, but in every place reports of your faith in God have spread, so that we do not need to say anything.
 [9] For people everywhere report how you welcomed us and how you turned to God from idols to serve the living and true God
 [10] and to wait for his Son from heaven, whom he raised from the dead, Jesus our deliverer from the coming wrath.
-# 1 Thessalonians
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -48,7 +47,6 @@
 [18] For we wanted to come to you (I, Paul, in fact tried again and again) but Satan thwarted us.
 [19] For who is our hope or joy or crown to boast of before our Lord Jesus at his coming? Is it not of course you?
 [20] For you are our glory and joy!
-# 1 Thessalonians
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -65,7 +63,6 @@
 [11] Now may God our Father himself and our Lord Jesus direct our way to you.
 [12] And may the Lord cause you to increase and abound in love for one another and for all, just as we do for you,
 [13] so that your hearts are strengthened in holiness to be blameless before our God and Father at the coming of our Lord Jesus with all his saints.
-# 1 Thessalonians
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -93,7 +90,6 @@
 [16] For the Lord himself will come down from heaven with a shout of command, with the voice of the archangel, and with the trumpet of God, and the dead in Christ will rise first.
 [17] Then we who are alive, who are left, will be suddenly caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord.
 [18] Therefore encourage one another with these words.
-# 1 Thessalonians
 
 ## Chapter 5 <!-- scripture:5 -->
 

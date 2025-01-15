@@ -61,7 +61,6 @@ the leaders of Israel shall flee to Adullam.
 [16] Shave your heads bald as you mourn for the children you love;
 shave your foreheads as bald as an eagle,
 for they are taken from you into exile.
-# Micah
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -118,7 +117,6 @@ they will be so numerous that they will make a lot of noise.
 they will break out, pass through the gate, and leave.
 Their king will advance before them;
 the Lord himself will lead them.”
-# Micah
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -173,7 +171,6 @@ Disaster will not overtake us!”
 [12] Therefore, because of you, Zion will be plowed up like a field,
 Jerusalem will become a heap of ruins,
 and the Temple Mount will become a hill overgrown with brush!
-# Micah
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -237,7 +234,6 @@ I will give you bronze hooves,
 and you will crush many nations.”
 You will devote to the Lord the spoils you take from them
 and dedicate their wealth to the sovereign Ruler of the whole earth.
-# Micah
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -300,7 +296,6 @@ you will no longer worship what your own hands made.
 and destroy your idols.
 [15] With furious anger I will carry out vengeance
 on the nations that do not obey me.”
-# Micah
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -359,7 +354,6 @@ you follow their policies.
 Therefore I will make you an appalling sight;
 the city’s inhabitants will be taunted derisively,
 and nations will mock all of you.”
-# Micah
 
 ## Chapter 7 <!-- scripture:7 -->
 

@@ -28,7 +28,6 @@
 [18] I put this charge before you, Timothy my child, in keeping with the prophecies once spoken about you, in order that with such encouragement you may fight the good fight.
 [19] To do this you must hold firmly to faith and a good conscience, which some have rejected and so have suffered shipwreck in regard to the faith.
 [20] Among these are Hymenaeus and Alexander, whom I handed over to Satan to be taught not to blaspheme.
-# 1 Timothy
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -53,7 +52,6 @@
 [13] For Adam was formed first and then Eve.
 [14] And Adam was not deceived, but the woman, because she was fully deceived, fell into transgression.
 [15] But she will be delivered through childbearing, if she continues in faith and love and holiness with self-control.
-# 1 Timothy
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -85,7 +83,6 @@ seen by angels,
 proclaimed among Gentiles,
 believed on in the world,
 taken up in glory.
-# 1 Timothy
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -108,7 +105,6 @@ taken up in glory.
 [14] Do not neglect the spiritual gift you have, given to you and confirmed by prophetic words when the elders laid hands on you.
 [15] Take pains with these things; be absorbed in them, so that everyone will see your progress.
 [16] Be conscientious about how you live and what you teach. Persevere in this, because by doing so you will save both yourself and those who listen to you.
-# 1 Timothy
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -140,7 +136,6 @@ taken up in glory.
 [23] (Stop drinking just water, but use a little wine for your digestion and your frequent illnesses.)
 [24] The sins of some people are obvious, going before them into judgment, but for others, they show up later.
 [25] Similarly good works are also obvious, and the ones that are not cannot remain hidden.
-# 1 Timothy
 
 ## Chapter 6 <!-- scripture:6 -->
 

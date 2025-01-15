@@ -35,7 +35,6 @@
 [22] But I was personally unknown to the churches of Judea that are in Christ.
 [23] They were only hearing, “The one who once persecuted us is now proclaiming the good news of the faith he once tried to destroy.”
 [24] So they glorified God because of me.
-# Galatians
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -69,7 +68,6 @@
 [19] For through the law I died to the law so that I may live to God.
 [20] I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. So the life I now live in the body, I live because of the faithfulness of the Son of God, who loved me and gave himself for me.
 [21] I do not set aside God’s grace, because if righteousness could come through the law, then Christ died for nothing!
-# Galatians
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -111,7 +109,6 @@
 [27] For all of you who were baptized into Christ have clothed yourselves with Christ.
 [28] There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female —for all of you are one in Christ Jesus.
 [29] And if you belong to Christ, then you are Abraham’s descendants, heirs according to the promise.
-# Galatians
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -159,7 +156,6 @@ than those of the woman who has a husband.”
 [29] But just as at that time the one born by natural descent persecuted the one born according to the Spirit, so it is now.
 [30] But what does the scripture say? “Throw out the slave woman and her son, for the son of the slave woman will not share the inheritance with the son” of the free woman.
 [31] Therefore, brothers and sisters, we are not children of the slave woman but of the free woman.
-# Galatians
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -195,7 +191,6 @@ than those of the woman who has a husband.”
 [24] Now those who belong to Christ have crucified the flesh with its passions and desires.
 [25] If we live by the Spirit, let us also behave in accordance with the Spirit.
 [26] Let us not become conceited, provoking one another, being jealous of one another.
-# Galatians
 
 ## Chapter 6 <!-- scripture:6 -->
 

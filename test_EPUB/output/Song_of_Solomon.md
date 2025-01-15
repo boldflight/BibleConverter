@@ -78,7 +78,6 @@ Oh, how delightful you are!
 The lush foliage is our canopied bed;
 [17] the cedars are the beams of our bedroom chamber;
 the pines are the rafters of our bedroom.
-# Song of Solomon
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -174,7 +173,6 @@ _The Beloved to Her Lover:_
 turn, my beloved—
 be like a gazelle or a young stag
 on the mountain gorges.
-# Song of Solomon
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -229,7 +227,6 @@ and gaze upon King Solomon!
 He is wearing the crown with which his mother crowned him
 on his wedding day,
 on the most joyous day of his life!
-# Song of Solomon
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -300,7 +297,6 @@ _The Beloved to Her Lover:_
 Blow on my garden so that its fragrant spices may send out their sweet smell.
 May my beloved come into his garden
 and eat its delightful fruit!
-# Song of Solomon
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -369,7 +365,6 @@ His appearance is like Lebanon, choice as its cedars.
 he is totally desirable.
 This is my beloved!
 This is my companion, O maidens of Jerusalem!
-# Song of Solomon
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -441,7 +436,6 @@ Turn, turn, that I may stare at you!
 _The Beloved to Her Lover:_
 Why do you gaze upon the Perfect One
 like the dance of the Mahanaim?
-# Song of Solomon
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -499,7 +493,6 @@ there I will give you my love.
 [13] The mandrakes send out their fragrance;
 over our door is every delicacy,
 both new and old, which I have stored up for you, my lover.
-# Song of Solomon
 
 ## Chapter 8 <!-- scripture:8 -->
 

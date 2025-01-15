@@ -56,7 +56,6 @@ I have acquired much wisdom and knowledge.”
 however, I concluded that even this endeavor is like trying to chase the wind.
 [18] For with great wisdom comes great frustration;
 whoever increases his knowledge merely increases his heartache.
-# Ecclesiastes
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -157,7 +156,6 @@ or experience joy apart from him.
 but to the sinner, he gives the task of amassing wealth —
 only to give it to the one who pleases God.
 This task of the wicked is futile—like chasing the wind!
-# Ecclesiastes
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -229,7 +227,6 @@ and the animal’s spirit descends into the earth?”
 [22] So I perceived there is nothing better than for people to enjoy their work,
 because that is their reward;
 for who can show them what the future holds?
-# Ecclesiastes
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -288,7 +285,6 @@ as well as the successor who would arise in his place.
 [16] There is no end to all the people nor to the past generations,
 yet future generations will not rejoice in him.
 This also is profitless and like chasing the wind.
-# Ecclesiastes
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -362,7 +358,6 @@ to eat from them, to receive his reward, and to find enjoyment in his toil;
 these things are the gift of God.
 [20] For he does not think much about the fleeting days of his life
 because God keeps him preoccupied with the joy he derives from his activity.
-# Ecclesiastes
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -406,7 +401,6 @@ How does that benefit him?
 during the few days of his fleeting life—
 for they pass away like a shadow.
 Nor can anyone tell him what the future will hold for him on earth.
-# Ecclesiastes
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -508,7 +502,6 @@ I have found only one upright man among a thousand,
 but I have not found one upright woman among all of them.
 [29] This alone have I discovered: God made humankind upright,
 but they have sought many evil schemes.
-# Ecclesiastes
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -571,7 +564,6 @@ No one really comprehends what happens on earth.
 Despite all human efforts to discover it, no one can ever grasp it.
 Even if a wise person claimed that he understood,
 he would not really comprehend it.
-# Ecclesiastes
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -649,7 +641,6 @@ but a poor man’s wisdom is despised; no one ever listens to his advice.
 more than the shouting of a ruler is heard among fools.
 [18] Wisdom is better than weapons of war,
 but one sinner can destroy much that is good.
-# Ecclesiastes
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -710,7 +701,6 @@ but money is the answer for everything.
 and do not curse the rich while in your bedroom;
 for a bird might report what you are thinking,
 or some winged creature might repeat your words.
-# Ecclesiastes
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -749,7 +739,6 @@ but know that God will judge your motives and actions.
 [10] Banish emotional stress from your mind.
 and put away pain from your body;
 for youth and the prime of life are fleeting.
-# Ecclesiastes
 
 ## Chapter 12 <!-- scripture:12 -->
 

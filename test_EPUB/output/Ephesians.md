@@ -34,7 +34,6 @@
 [21] far above every rule and authority and power and dominion and every name that is named, not only in this age but also in the one to come.
 [22] And God put all things under Christ’s feet, and gave him to the church as head over all things.
 [23] Now the church is his body, the fullness of him who fills all in all.
-# Ephesians
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -66,7 +65,6 @@
 [20] because you have been built on the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone.
 [21] In him the whole building, being joined together, grows into a holy temple in the Lord,
 [22] in whom you also are being built together into a dwelling place of God in the Spirit.
-# Ephesians
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -97,7 +95,6 @@
 [19] and thus to know the love of Christ that surpasses knowledge, so that you will be filled up to all the fullness of God.
 [20] Now to him who by the power that is working within us is able to do far beyond all that we ask or think,
 [21] to him be the glory in the church and in Christ Jesus to all generations, forever and ever. Amen.
-# Ephesians
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -139,7 +136,6 @@
 [30] And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.
 [31] You must put away all bitterness, anger, wrath, quarreling, and slanderous talk—indeed all malice.
 [32] Instead, be kind to one another, compassionate, forgiving one another, just as God in Christ also forgave you.
-# Ephesians
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -191,7 +187,6 @@ and Christ will shine on you!”
 [31] For this reason a man will leave his father and mother and will be joined to his wife, and the two will become one flesh.
 [32] This mystery is great—but I am actually speaking with reference to Christ and the church.
 [33] Nevertheless, each one of you must also love his own wife as he loves himself, and the wife must respect her husband.
-# Ephesians
 
 ## Chapter 6 <!-- scripture:6 -->
 

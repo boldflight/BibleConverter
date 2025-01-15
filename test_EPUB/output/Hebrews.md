@@ -19,7 +19,6 @@
 [10] And,
 [13] But to which of the angels has he ever said, “Sit at my right hand until I make your enemies a footstool for your feet”?
 [14] Are they not all ministering spirits, sent out to serve those who will inherit salvation?
-# Hebrews
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -45,7 +44,6 @@
 [16] For surely his concern is not for angels, but he is concerned for Abraham’s descendants.
 [17] Therefore he had to be made like his brothers and sisters in every respect, so that he could become a merciful and faithful high priest in things relating to God, to make atonement for the sins of the people.
 [18] For since he himself suffered when he was tempted, he is able to help those who are tempted.
-# Hebrews
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -70,7 +68,6 @@
 [17] And against whom was God provoked for forty years? Was it not those who sinned, whose dead bodies fell in the wilderness?
 [18] And to whom did he swear they would never enter into his rest, except those who were disobedient?
 [19] So we see that they could not enter because of unbelief.
-# Hebrews
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -96,7 +93,6 @@
 [14] Therefore since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold fast to our confession.
 [15] For we do not have a high priest incapable of sympathizing with our weaknesses, but one who has been tempted in every way just as we are, yet without sin.
 [16] Therefore let us confidently approach the throne of grace to receive mercy and find grace whenever we need help.
-# Hebrews
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -117,7 +113,6 @@
 [12] For though you should in fact be teachers by this time, you need someone to teach you the beginning elements of God’s utterances. You have gone back to needing milk, not solid food.
 [13] For everyone who lives on milk is inexperienced in the message of righteousness, because he is an infant.
 [14] But solid food is for the mature, whose perceptions are trained by practice to discern both good and evil.
-# Hebrews
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -141,7 +136,6 @@
 [18] so that we who have found refuge in him may find strong encouragement to hold fast to the hope set before us through two unchangeable things, since it is impossible for God to lie.
 [19] We have this hope as an anchor for the soul, sure and steadfast, which reaches inside behind the curtain,
 [20] where Jesus our forerunner entered on our behalf, since he became a priest forever in the order of Melchizedek.
-# Hebrews
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -179,7 +173,6 @@
 [26] For it is indeed fitting for us to have such a high priest: holy, innocent, undefiled, separate from sinners, and exalted above the heavens.
 [27] He has no need to do every day what those priests do, to offer sacrifices first for their own sins and then for the sins of the people, since he did this in offering himself once for all.
 [28] For the law appoints as high priests men subject to weakness, but the word of solemn affirmation that came after the law appoints a son made perfect forever.
-# Hebrews
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -195,7 +188,6 @@
 [7] For if that first covenant had been faultless, no one would have looked for a second one.
 [8] But showing its fault, God says to them,
 [13] When he speaks of a new covenant, he makes the first obsolete. Now what is growing obsolete and aging is about to disappear.
-# Hebrews
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -233,7 +225,6 @@
 [26] for then he would have had to suffer again and again since the foundation of the world. But now he has appeared once for all at the consummation of the ages to put away sin by his sacrifice.
 [27] And just as people are appointed to die once, and then to face judgment,
 [28] so also, after Christ was offered once to bear the sins of many, to those who eagerly await him he will appear a second time, not to bear sin but to bring salvation.
-# Hebrews
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -280,7 +271,6 @@
 [37] For just a little longer and he who is coming will arrive and not delay.
 [38] But my righteous one will live by faith, and if he shrinks back, I take no pleasure in him.
 [39] But we are not among those who shrink back and thus perish, but are among those who have faith and preserve their souls.
-# Hebrews
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -327,7 +317,6 @@
 [38] (the world was not worthy of them); they wandered in deserts and mountains and caves and openings in the earth.
 [39] And these all were commended for their faith, yet they did not receive what was promised.
 [40] For God had provided something better for us, so that they would be made perfect together with us.
-# Hebrews
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -365,7 +354,6 @@
 [27] Now this phrase “once more” indicates the removal of what is shaken, that is, of created things, so that what is unshaken may remain.
 [28] So since we are receiving an unshakable kingdom, let us give thanks, and through this let us offer worship pleasing to God in devotion and awe.
 [29] For our God is indeed a devouring fire.
-# Hebrews
 
 ## Chapter 13 <!-- scripture:13 -->
 

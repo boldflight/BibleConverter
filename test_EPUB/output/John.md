@@ -65,7 +65,6 @@
 [49] Nathanael answered him, “Rabbi, you are the Son of God; you are the king of Israel!”
 [50] Jesus said to him, “Because I told you that I saw you under the fig tree, do you believe? You will see greater things than these.”
 [51] He continued, “I tell all of you the solemn truth —you will see heaven opened and the angels of God ascending and descending on the Son of Man.”
-# John
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -103,7 +102,6 @@
 [23] Now while Jesus was in Jerusalem at the Feast of the Passover, many people believed in his name because they saw the miraculous signs he was doing.
 [24] But Jesus would not entrust himself to them, because he knew all people.
 [25] He did not need anyone to testify about man, for he knew what was in man.
-# John
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -149,7 +147,6 @@
 [34] For the one whom God has sent speaks the words of God, for he does not give the Spirit sparingly.
 [35] The Father loves the Son and has placed all things under his authority.
 [36] The one who believes in the Son has eternal life. The one who rejects the Son will not see life, but God’s wrath remains on him.
-# John
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -228,7 +225,6 @@
 [52] So he asked them the time when his condition began to improve, and they told him, “Yesterday at one o’clock in the afternoon the fever left him.”
 [53] Then the father realized that it was the very time Jesus had said to him, “Your son will live,” and he himself believed along with his entire household.
 [54] Jesus did this as his second miraculous sign when he returned from Judea to Galilee.
-# John
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -287,7 +283,6 @@
 [45] “Do not suppose that I will accuse you before the Father. The one who accuses you is Moses, in whom you have placed your hope.
 [46] If you believed Moses, you would believe me, because he wrote about me.
 [47] But if you do not believe what Moses wrote, how will you believe my words?”
-# John
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -377,7 +372,6 @@
 [69] We have come to believe and to know that you are the Holy One of God!”
 [70] Jesus replied, “Didn’t I choose you, the twelve, and yet one of you is the devil?”
 [71] (Now he said this about Judas son of Simon Iscariot, for Judas, one of the twelve, was going to betray him.)
-# John
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -451,7 +445,6 @@
 [50] Nicodemus, who had gone to Jesus before and who was one of the rulers, said,
 [51] “Our law doesn’t condemn a man unless it first hears from him and learns what he is doing, does it?”
 [52] They replied, “You aren’t from Galilee too, are you? Investigate carefully and you will see that no prophet comes from Galilee!”
-# John
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -527,7 +520,6 @@
 [57] Then the Judeans replied, “You are not yet fifty years old! Have you seen Abraham?”
 [58] Jesus said to them, “I tell you the solemn truth, before Abraham came into existence, I am!”
 [59] Then they picked up stones to throw at him, but Jesus was hidden from them and went out from the temple area.
-# John
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -581,7 +573,6 @@
 [39] Jesus said,] “For judgment I have come into this world, so that those who do not see may gain their sight, and the ones who see may become blind.”
 [40] Some of the Pharisees who were with him heard this and asked him, “We are not blind too, are we?”
 [41] Jesus replied, “If you were blind, you would not be guilty of sin, but now because you claim that you can see, your guilt remains.
-# John
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -633,7 +624,6 @@
 [40] Jesus went back across the Jordan River again to the place where John had been baptizing at an earlier time, and he stayed there.
 [41] Many came to him and began to say, “John performed no miraculous sign, but everything John said about this man was true!”
 [42] And many believed in Jesus there.
-# John
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -706,7 +696,6 @@
 [55] Now the Jewish Feast of Passover was near, and many people went up to Jerusalem from the rural areas before the Passover to cleanse themselves ritually.
 [56] Thus they were looking for Jesus, and saying to one another as they stood in the temple courts, “What do you think? That he won’t come to the feast?”
 [57] (Now the chief priests and the Pharisees had given orders that anyone who knew where Jesus was should report it, so that they could arrest him.)
-# John
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -773,7 +762,6 @@
 [48] The one who rejects me and does not accept my words has a judge; the word I have spoken will judge him at the last day.
 [49] For I have not spoken from my own authority, but the Father himself who sent me has commanded me what I should say and what I should speak.
 [50] And I know that his commandment is eternal life. Thus the things I say, I say just as the Father has told me.”
-# John
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -824,7 +812,6 @@
 [36] Simon Peter said to him, “Lord, where are you going?” Jesus replied, “Where I am going, you cannot follow me now, but you will follow later.”
 [37] Peter said to him, “Lord, why can’t I follow you now? I will lay down my life for you!”
 [38] Jesus answered, “Will you lay down your life for me? I tell you the solemn truth, the rooster will not crow until you have denied me three times!
-# John
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -865,7 +852,6 @@
 [29] I have told you now before it happens, so that when it happens you may believe.
 [30] I will not speak with you much longer, for the ruler of this world is coming. He has no power over me,
 [31] but I am doing just what the Father commanded me, so that the world may know that I love the Father. Get up, let us go from here.
-# John
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -902,7 +888,6 @@
 [25] Now this happened to fulfill the word that is written in their law, ‘They hated me without reason.’
 [26] When the Advocate comes, whom I will send you from the Father—the Spirit of truth who goes out from the Father—he will testify about me,
 [27] and you also will testify, because you have been with me from the beginning.
-# John
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -939,7 +924,6 @@
 [31] Jesus replied, “Do you now believe?
 [32] Look, a time is coming—and has come—when you will be scattered, each one to his own home, and I will be left alone. Yet I am not alone, because my Father is with me.
 [33] I have told you these things so that in me you may have peace. In the world you have trouble and suffering, but take courage —I have conquered the world.”
-# John
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -978,7 +962,6 @@
 [24] “Father, I want those you have given me to be with me where I am, so that they can see my glory that you gave me because you loved me before the creation of the world .
 [25] Righteous Father, even if the world does not know you, I know you, and these men know that you sent me.
 [26] I made known your name to them, and I will continue to make it known, so that the love you have loved me with may be in them, and I may be in them.”
-# John
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -1043,7 +1026,6 @@
 [38] Pilate asked, “What is truth?”
 [39] But it is your custom that I release one prisoner for you at the Passover. So do you want me to release for you the king of the Jews?”
 [40] Then they shouted back, “Not this man, but Barabbas!” (Now Barabbas was a revolutionary.)
-# John
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -1101,7 +1083,6 @@
 [40] Then they took Jesus’ body and wrapped it, with the aromatic spices, in strips of linen cloth according to Jewish burial customs.
 [41] Now at the place where Jesus was crucified there was a garden, and in the garden was a new tomb where no one had yet been buried.
 [42] And so, because it was the Jewish day of preparation and the tomb was nearby, they placed Jesus’ body there.
-# John
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -1148,7 +1129,6 @@
 [29] Jesus said to him, “Have you believed because you have seen me? Blessed are the people who have not seen and yet have believed.”
 [30] Now Jesus performed many other miraculous signs in the presence of the disciples, which are not recorded in this book.
 [31] But these are recorded so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.
-# John
 
 ## Chapter 21 <!-- scripture:21 -->
 

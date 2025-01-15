@@ -22,7 +22,6 @@
 
 [10] (
 [11] Then the people of Judah and the people of Israel will be gathered together. They will appoint for themselves one leader, and will flourish in the land. Certainly, the day of Jezreel will be great!
-# Hosea
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -124,7 +123,6 @@ and they will respond to ‘God Plants’ (Jezreel)!
 I will have pity on ‘No Pity’ (Lo-Ruhamah).
 I will say to ‘Not My People’ (Lo-Ammi), ‘You are my people!’
 And he will say, ‘You are my God!’”
-# Hosea
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -136,7 +134,6 @@ And he will say, ‘You are my God!’”
 [3] Then I told her, “You must live with me many days; you must not commit adultery or become joined to another man, and I also will wait for you.”
 [4] For the Israelites must live many days without a king or prince, without sacrifice or sacred fertility pillar, without ephod or idols.
 [5] Afterward, the Israelites will turn and seek the Lord their God and their Davidic king. Then they will submit to the Lord in fear and receive his blessings in future days.
-# Hosea
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -221,7 +218,6 @@ then engage in cult prostitution;
 they dearly love their shameful behavior.
 [19] A whirlwind has wrapped them in its wings;
 they will be brought to shame because of their idolatrous worship.
-# Hosea
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -294,7 +290,6 @@ then I will carry them off, and no one will be able to rescue them!
 until they have suffered their punishment.
 Then they will seek me;
 in their distress they will earnestly seek me.
-# Hosea
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -345,7 +340,6 @@ and Israel defiles itself.
 ### If Israel Would Repent of Sin, God Would Relent of Judgment
 
 Whenever I want to restore the fortunes of my people,
-# Hosea
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -419,7 +413,6 @@ they are like an unreliable bow.
 Their leaders will fall by the sword
 because their prayers to Baal have made me angry.
 So people will disdain them in the land of Egypt.
-# Hosea
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -485,7 +478,6 @@ and they will return to Egypt.
 and Judah has built many fortified cities.
 But I will send fire on their cities;
 it will consume their royal citadels.
-# Hosea
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -576,7 +568,6 @@ I will kill their precious offspring.
 [17] My God will reject them,
 for they have not obeyed him;
 so they will be fugitives among the nations.
-# Hosea
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -659,7 +650,6 @@ when mothers were dashed to the ground with their children.
 because of your great wickedness!
 When that day dawns,
 the king of Israel will be destroyed.
-# Hosea
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -719,7 +709,6 @@ and I will settle them in their homes,” declares the Lord.
 the house of Israel has surrounded me with deceit.
 But Judah still roams about with God;
 he remains faithful to the Holy One.
-# Hosea
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -774,7 +763,6 @@ and due to a prophet Israel was preserved alive.
 [14] But Ephraim bitterly provoked him to anger;
 so he will hold him accountable for the blood he has shed,
 his Lord will repay him for the contempt he has shown.
-# Hosea
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -855,7 +843,6 @@ because she rebelled against her God.
 They will fall by the sword;
 their infants will be dashed to the ground—
 their pregnant women will be ripped open.
-# Hosea
 
 ## Chapter 14 <!-- scripture:14 -->
 

@@ -9,7 +9,6 @@
 [2] and the life was revealed, and we have seen and testify and announce to you the eternal life that was with the Father and was revealed to us).
 [3] What we have seen and heard we announce to you too, so that you may have fellowship with us (and indeed our fellowship is with the Father and with his Son Jesus Christ).
 [4] Thus we are writing these things so that our joy may be complete.
-# 1 John
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -63,7 +62,6 @@
 
 [28] And now, little children, remain in him, so that when he appears we may have confidence and not shrink away from him in shame when he comes back.
 [29] If you know that he is righteous, you also know that everyone who practices righteousness has been fathered by him.
-# 1 John
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -94,7 +92,6 @@
 [22] and whatever we ask we receive from him, because we keep his commandments and do the things that are pleasing to him.
 [23] Now this is his commandment: that we believe in the name of his Son Jesus Christ and love one another, just as he gave us the commandment.
 [24] And the person who keeps his commandments resides in God, and God in him. Now by this we know that God resides in us: by the Spirit he has given us.
-# 1 John
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -123,7 +120,6 @@
 [17] By this love is perfected with us, so that we may have confidence in the day of judgment, because just as Jesus is, so also are we in this world.
 [18] There is no fear in love, but perfect love drives out fear, because fear has to do with punishment. The one who fears punishment has not been perfected in love.
 [19] We love because he loved us first.
-# 1 John
 
 ## Chapter 5 <!-- scripture:5 -->
 

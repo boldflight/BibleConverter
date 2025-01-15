@@ -36,7 +36,6 @@
 [20] Then Job got up and tore his robe. He shaved his head, and then he threw himself down with his face to the ground.
 [21] He said, “Naked I came from my mother’s womb, and naked I will return there. TheLord gives, and theLord takes away. May the name of theLord be blessed!”
 [22] In all this Job did not sin, nor did he charge God with moral impropriety.
-# Job
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -62,7 +61,6 @@
 [11] When Job’s three friends heard about all this calamity that had happened to him, each of them came from his own country —Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite. They met together to come to show sympathy for him and to console him.
 [12] But when they gazed intently from a distance but did not recognize him, they began to weep loudly. Each of them tore his robes, and they threw dust into the air over their heads.
 [13] Then they sat down with him on the ground for seven days and seven nights, yet no one spoke a word to him, for they saw that his pain was very great.
-# Job
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -139,7 +137,6 @@ and my groanings flow forth like water.
 and what I feared has come upon me.
 [26] I have no ease, I have no quietness;
 I cannot rest; turmoil has come upon me.”
-# Job
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -200,7 +197,6 @@ who are crushed like a moth?
 they perish forever without anyone regarding it.
 [21] Is not their excess wealth taken away from them?
 They die, yet without attaining wisdom.’
-# Job
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -263,7 +259,6 @@ and your descendants like the grass of the earth.
 As stacks of grain are harvested in their season.
 [27] Look, we have investigated this, so it is true.
 Hear it, and apply it for your own good.”
-# Job
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -354,7 +349,6 @@ and I will not lie to your face!
 reconsider, for my righteousness is intact!
 [30] Is there any falsehood on my lips?
 Can my mouth not discern evil things?
-# Job
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -421,7 +415,6 @@ and take away my iniquity?
 For now I will lie down in the dust,
 and you will seek me diligently,
 but I will be gone.”
-# Job
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -477,7 +470,6 @@ of the evildoers.
 and your lips with gladness.
 [22] Those who hate you will be clothed with shame,
 and the tent of the wicked will be no more.”
-# Job
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -571,7 +563,6 @@ who might lay his hand on us both,
 so that his terror would not make me afraid.
 [35] Then would I speak and not fear him,
 but it is not so with me.
-# Job
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -644,7 +635,6 @@ and the deepest shadow,
 like the deepest darkness,
 and the deepest shadow and disorder,
 where even the light is like darkness.”
-# Job
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -698,7 +688,6 @@ and many will seek your favor.
 [20] But the eyes of the wicked fail,
 and escape eludes them;
 their one hope is to breathe their last.”
-# Job
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -766,7 +755,6 @@ he makes them wander
 in a trackless desert waste.
 [25] They grope about in darkness without light;
 he makes them stagger like drunkards.
-# Job
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -829,7 +817,6 @@ and you watch all my movements;
 you put marks on the soles of my feet.
 [28] So I waste away like something rotten,
 like a garment eaten by moths.
-# Job
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -901,7 +888,6 @@ if they are brought low,
 he does not see it.
 [22] His flesh only has pain for him,
 and he mourns for himself.”
-# Job
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -986,7 +972,6 @@ he will shed his blossoms.
 and fire consumes the tents of those who accept bribes.
 [35] They conceive trouble and bring forth evil;
 their belly prepares deception.”
-# Job
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -1051,7 +1036,6 @@ as my eyes pour out tears to God;
 as a man pleads for his friend.
 [22] For the years that lie ahead are few,
 and then I will go on the way of no return.
-# Job
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -1092,7 +1076,6 @@ and to the worm, ‘My mother,’ or ‘My sister,’
 And my hope, who sees it?
 [16] Will it go down to the barred gates of death?
 Will we descend together into the dust?”
-# Job
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -1140,7 +1123,6 @@ no survivor in those places he once stayed.
 people of the east are seized with horror, saying,
 [21] ‘Surely such is the residence of an evil man;
 and this is the place of one who has not known God.’”
-# Job
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -1222,7 +1204,6 @@ since the root of the trouble is found in him!’
 for wrath brings the punishment by the sword,
 so that you may know
 that there is judgment.”
-# Job
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -1292,7 +1273,6 @@ the earth rises up against him.
 rushing waters on the day of God’s wrath.
 [29] Such is the lot God allots the wicked,
 and the heritage of his appointment from God.”
-# Job
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -1387,7 +1367,6 @@ behind him everybody follows in procession,
 and before him goes a countless throng.
 [34] So how can you console me with your futile words?
 Nothing is left of your answers but deception!”
-# Job
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -1461,7 +1440,6 @@ and light will shine on your ways.
 then he will save the downcast;
 [30] he will deliver even someone who is not innocent,
 who will escape through the cleanness of your hands.”
-# Job
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -1508,7 +1486,6 @@ the Almighty has terrified me.
 [17] Yet I have not been silent because of the darkness,
 because of the thick darkness
 that covered my face.
-# Job
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -1574,7 +1551,6 @@ but he is constantly watching all their ways.
 they are brought low like all others, and gathered in,
 and like a head of grain they are cut off.’
 and reduce my words to nothing?”
-# Job
 
 ## Chapter 25 <!-- scripture:25 -->
 
@@ -1592,7 +1568,6 @@ How can one born of a woman be pure?
 and the stars are not pure as far as he is concerned,
 [6] how much less a mortal man, who is but a maggot —
 a son of man, who is only a worm!”
-# Job
 
 ## Chapter 26 <!-- scripture:26 -->
 
@@ -1631,7 +1606,6 @@ his hand pierced the fleeing serpent.
 [14] Indeed, these are but the outer fringes of his ways!
 How faint is the whisper we hear of him!
 But who can understand the thunder of his power?”
-# Job
 
 ## Chapter 27 <!-- scripture:27 -->
 
@@ -1690,7 +1664,6 @@ it sweeps him out of his place.
 as he flees headlong from its power.
 [23] It claps its hands at him in derision
 and hisses him away from his place.
-# Job
 
 ## Chapter 28 <!-- scripture:28 -->
 
@@ -1766,7 +1739,6 @@ he established it and examined it closely.
 [28] And he said to mankind,
 ‘The fear of the Lord —that is wisdom,
 and to turn away from evil is understanding.’”
-# Job
 
 ## Chapter 29 <!-- scripture:29 -->
 
@@ -1839,7 +1811,6 @@ and they did not cause the light of my face to darken.
 and sat as their chief;
 I lived like a king among his troops;
 I was like one who comforts mourners.
-# Job
 
 ## Chapter 30 <!-- scripture:30 -->
 
@@ -1926,7 +1897,6 @@ and a companion of ostriches.
 my body is hot with fever.
 [31] My harp is used for mourning
 and my flute for the sound of weeping.
-# Job
 
 ## Chapter 31 <!-- scripture:31 -->
 
@@ -2027,7 +1997,6 @@ and all its furrows wept together,
 or caused the death of its owners,
 [40] then let thorns sprout up in place of wheat,
 and in place of barley, noxious weeds.”
-# Job
 
 ## Chapter 32 <!-- scripture:32 -->
 
@@ -2086,7 +2055,6 @@ I will open my lips, so that I may answer.
 nor will I confer a title on anyone.
 [22] For I do not know how to give honorary titles,
 if I did, my Creator would quickly do away with me.
-# Job
 
 ## Chapter 33 <!-- scripture:33 -->
 
@@ -2178,7 +2146,6 @@ be silent, and I will speak.
 speak, for I want to justify you.
 [33] If not, you listen to me;
 be silent, and I will teach you wisdom.”
-# Job
 
 ## Chapter 34 <!-- scripture:34 -->
 
@@ -2281,7 +2248,6 @@ because his answers are like those of wicked men.
 [37] For he adds transgression to his sin;
 in our midst he claps his hands,
 and multiplies his words against God.”
-# Job
 
 ## Chapter 35 <!-- scripture:35 -->
 
@@ -2324,7 +2290,6 @@ that his anger does not punish,
 and that he does not know transgression!
 [16] So Job opens his mouth to no purpose;
 without knowledge he multiplies words.”
-# Job
 
 ## Chapter 36 <!-- scripture:36 -->
 
@@ -2408,7 +2373,6 @@ and supplies food in abundance.
 and directs it against its target.
 [33] His thunder announces the coming storm,
 the cattle also, concerning the storm’s approach.
-# Job
 
 ## Chapter 37 <!-- scripture:37 -->
 
@@ -2468,7 +2432,6 @@ He is great in power,
 but justice and abundant righteousness he does not oppress.
 [24] Therefore people fear him,
 for he does not regard all the wise in heart.”
-# Job
 
 ## Chapter 38 <!-- scripture:38 -->
 
@@ -2564,7 +2527,6 @@ when they wait in ambush in the thicket?
 [41] Who prepares prey for the raven,
 when its young cry out to God
 and wander about for lack of food?
-# Job
 
 ## Chapter 39 <!-- scripture:39 -->
 
@@ -2630,7 +2592,6 @@ its eyes gaze intently from a distance.
 [30] And its young ones devour the blood,
 and where the dead carcasses are,
 there it is.”
-# Job
 
 ## Chapter 40 <!-- scripture:40 -->
 
@@ -2689,7 +2650,6 @@ it is secure, though the Jordan
 should surge up to its mouth.
 [24] Can anyone catch it by its eyes,
 or pierce its nose with a snare?
-# Job
 
 ## Chapter 41 <!-- scripture:41 -->
 
@@ -2768,7 +2728,6 @@ one would think the deep had a head of white hair.
 a creature without fear.
 [34] It looks on every haughty being;
 it is king over all that are proud.”
-# Job
 
 ## Chapter 42 <!-- scripture:42 -->
 

@@ -34,7 +34,6 @@
 [24] Then they prayed, “Lord, you know the hearts of all. Show us which one of these two you have chosen
 [25] to assume the task of this service and apostleship from which Judas turned aside to go to his own place.”
 [26] Then they cast lots for them, and the one chosen was Matthias; so he was counted with the eleven apostles.
-# Acts
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -87,7 +86,6 @@
 [45] and they began selling their property and possessions and distributing the proceeds to everyone, as anyone had need.
 [46] Every day they continued to gather together by common consent in the temple courts, breaking bread from house to house, sharing their food with glad and humble hearts,
 [47] praising God and having the good will of all the people. And the Lord was adding to their number every day those who were being saved.
-# Acts
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -123,7 +121,6 @@
 [24] And all the prophets, from Samuel and those who followed him, have spoken about and announced these days.
 [25] You are the sons of the prophets and of the covenant that God made with your ancestors, saying to Abraham, ‘And in your descendants all the nations of the earth will be blessed.’
 [26] God raised up his servant and sent him first to you, to bless you by turning each one of you from your iniquities.”
-# Acts
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -172,7 +169,6 @@
 [35] and placing them at the apostles’ feet. The proceeds were distributed to each, as anyone had need.
 [36] So Joseph, a Levite who was a native of Cyprus, called by the apostles Barnabas (which is translated “son of encouragement”),
 [37] sold a field that belonged to him and brought the money and placed it at the apostles’ feet.
-# Acts
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -227,7 +223,6 @@
 [40] and they summoned the apostles and had them beaten. Then they ordered them not to speak in the name of Jesus and released them.
 [41] So they left the council rejoicing because they had been considered worthy to suffer dishonor for the sake of the name.
 [42] And every day both in the temple courts and from house to house, they did not stop teaching and proclaiming the good news that Jesus was the Christ.
-# Acts
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -252,7 +247,6 @@
 [13] They brought forward false witnesses who said, “This man does not stop saying things against this holy place and the law.
 [14] For we have heard him saying that Jesus the Nazarene will destroy this place and change the customs that Moses handed down to us.”
 [15] All who were sitting in the council looked intently at Stephen and saw his face was like the face of an angel.
-# Acts
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -310,7 +304,6 @@
 [51] “You stubborn people, with uncircumcised hearts and ears! You are always resisting the Holy Spirit, like your ancestors did!
 [52] Which of the prophets did your ancestors not persecute? They killed those who foretold long ago the coming of the Righteous One, whose betrayers and murderers you have now become!
 [53] You received the law by decrees given by angels, but you did not obey it.”
-# Acts
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -371,7 +364,6 @@
 [38] So he ordered the chariot to stop, and both Philip and the eunuch went down into the water, and Philip baptized him.
 [39] Now when they came up out of the water, the Spirit of the Lord snatched Philip away, and the eunuch did not see him any more, but went on his way rejoicing.
 [40] Philip, however, found himself at Azotus, and as he passed through the area, he proclaimed the good news to all the towns until he came to Caesarea.
-# Acts
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -433,7 +425,6 @@
 [41] He gave her his hand and helped her get up. Then he called the saints and widows and presented her alive.
 [42] This became known throughout all Joppa, and many believed in the Lord.
 [43] So Peter stayed many days in Joppa with a man named Simon, a tanner.
-# Acts
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -491,7 +482,6 @@
 [46] for they heard them speaking in tongues and praising God. Then Peter said,
 [47] “No one can withhold the water for these people to be baptized, who have received the Holy Spirit just as we did, can he?”
 [48] So he gave orders to have them baptized in the name of Jesus Christ. Then they asked him to stay for several days.
-# Acts
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -534,7 +524,6 @@
 [28] One of them, named Agabus, got up and predicted by the Spirit that a severe famine was about to come over the whole inhabited world. (This took place during the reign of Claudius.)
 [29] So the disciples, each in accordance with his financial ability, decided to send relief to the brothers living in Judea.
 [30] They did so, sending their financial aid to the elders by Barnabas and Saul.
-# Acts
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -566,7 +555,6 @@
 [23] Immediately an angel of the Lord struck Herod down because he did not give the glory to God, and he was eaten by worms and died.
 [24] But the word of God kept on increasing and multiplying.
 [25] So Barnabas and Saul returned to Jerusalem when they had completed their mission, bringing along with them John Mark.
-# Acts
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -630,7 +618,6 @@
 [50] But the Jews incited the God-fearing women of high social standing and the prominent men of the city, stirred up persecution against Paul and Barnabas, and threw them out of their region.
 [51] So after they shook the dust off their feet in protest against them, they went to Iconium.
 [52] And the disciples were filled with joy and with the Holy Spirit.
-# Acts
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -671,7 +658,6 @@
 [26] From there they sailed back to Antioch, where they had been commended to the grace of God for the work they had now completed.
 [27] When they arrived and gathered the church together, they reported all the things God had done with them, and that he had opened a door of faith for the Gentiles.
 [28] So they spent considerable time with the disciples.
-# Acts
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -712,7 +698,6 @@
 [39] They had a sharp disagreement, so that they parted company. Barnabas took along Mark and sailed away to Cyprus,
 [40] but Paul chose Silas and set out, commended to the grace of the Lord by the brothers and sisters.
 [41] He passed through Syria and Cilicia, strengthening the churches.
-# Acts
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -768,7 +753,6 @@
 [38] The police officers reported these words to the magistrates. They were frightened when they heard Paul and Silas were Roman citizens
 [39] and came and apologized to them. After they brought them out, they asked them repeatedly to leave the city.
 [40] When they came out of the prison, they entered Lydia’s house, and when they saw the brothers, they encouraged them and then departed.
-# Acts
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -815,7 +799,6 @@
 [32] Now when they heard about the resurrection from the dead, some began to scoff, but others said, “We will hear you again about this.”
 [33] So Paul left the Areopagus.
 [34] But some people joined him and believed. Among them were Dionysius, who was a member of the Areopagus, a woman named Damaris, and others with them.
-# Acts
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -859,7 +842,6 @@
 [26] He began to speak out fearlessly in the synagogue, but when Priscilla and Aquila heard him, they took him aside and explained the way of God to him more accurately.
 [27] When Apollos wanted to cross over to Achaia, the brothers encouraged him and wrote to the disciples to welcome him. When he arrived, he assisted greatly those who had believed by grace,
 [28] for he refuted the Jews vigorously in public debate, demonstrating from the scriptures that the Christ was Jesus.
-# Acts
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -916,7 +898,6 @@
 [39] But if you want anything in addition, it will have to be settled in a legal assembly.
 [40] For we are in danger of being charged with rioting today, since there is no cause we can give to explain this disorderly gathering.”
 [41] After he had said this, he dismissed the assembly.
-# Acts
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -964,7 +945,6 @@
 [36] When he had said these things, he knelt down with them all and prayed.
 [37] They all began to weep loudly, and hugged Paul and kissed him,
 [38] especially saddened by what he had said, that they were not going to see him again. Then they accompanied him to the ship.
-# Acts
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -1011,7 +991,6 @@
 [38] Then you’re not that Egyptian who started a rebellion and led the 4,000 men of the ‘Assassins’ into the wilderness some time ago?”
 [39] Paul answered, “I am a Jew from Tarsus in Cilicia, a citizen of an important city. Please allow me to speak to the people.”
 [40] When the commanding officer had given him permission, Paul stood on the steps and gestured to the people with his hand. When they had become silent, he addressed them in Aramaic,
-# Acts
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -1054,7 +1033,6 @@
 ### Paul Before the Sanhedrin
 
 [30] The next day, because the commanding officer wanted to know the true reason Paul was being accused by the Jews, he released him and ordered the chief priests and the whole council to assemble. He then brought Paul down and had him stand before them.
-# Acts
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -1091,7 +1069,6 @@
 [33] When the horsemen came to Caesarea and delivered the letter to the governor, they also presented Paul to him.
 [34] When the governor had read the letter, he asked what province he was from. When he learned that he was from Cilicia,
 [35] he said, “I will give you a hearing when your accusers arrive too.” Then he ordered that Paul be kept under guard in Herod’s palace.
-# Acts
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -1131,7 +1108,6 @@
 [25] While Paul was discussing righteousness, self-control, and the coming judgment, Felix became frightened and said, “Go away for now, and when I have an opportunity, I will send for you.”
 [26] At the same time he was also hoping that Paul would give him money, and for this reason he sent for Paul as often as possible and talked with him.
 [27] After two years had passed, Porcius Festus succeeded Felix, and because he wanted to do the Jews a favor, Felix left Paul in prison.
-# Acts
 
 ## Chapter 25 <!-- scripture:25 -->
 
@@ -1171,7 +1147,6 @@
 [25] But I found that he had done nothing that deserved death, and when he appealed to His Majesty the Emperor, I decided to send him.
 [26] But I have nothing definite to write to my lord about him. Therefore I have brought him before you all, and especially before you, King Agrippa, so that after this preliminary hearing I may have something to write.
 [27] For it seems unreasonable to me to send a prisoner without clearly indicating the charges against him.”
-# Acts
 
 ## Chapter 26 <!-- scripture:26 -->
 
@@ -1210,7 +1185,6 @@
 [30] So the king got up, and with him the governor and Bernice and those sitting with them,
 [31] and as they were leaving they said to one another, “This man is not doing anything deserving death or imprisonment.”
 [32] Agrippa said to Festus, “This man could have been released if he had not appealed to Caesar.”
-# Acts
 
 ## Chapter 27 <!-- scripture:27 -->
 
@@ -1267,7 +1241,6 @@
 [42] Now the soldiers’ plan was to kill the prisoners so that none of them would escape by swimming away.
 [43] But the centurion, wanting to save Paul’s life, prevented them from carrying out their plan. He ordered those who could swim to jump overboard first and get to land,
 [44] and the rest were to follow, some on planks and some on pieces of the ship. And in this way all were brought safely to land.
-# Acts
 
 ## Chapter 28 <!-- scripture:28 -->
 

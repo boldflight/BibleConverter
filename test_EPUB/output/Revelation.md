@@ -29,7 +29,6 @@ This will certainly come to pass! Amen.)
 [18] and the one who lives! I was dead, but look, now I am alive—forever and ever—and I hold the keys of death and of Hades!
 [19] Therefore write what you saw, what is, and what will be after these things.
 [20] The mystery of the seven stars that you saw in my right hand and the seven golden lampstands is this: The seven stars are the angels of the seven churches and the seven lampstands are the seven churches.
-# Revelation
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -75,7 +74,6 @@ This will certainly come to pass! Amen.)
 and like clay jars he will break them to pieces,
 [28] just as I have received the right to rule from my Father—and I will give him the morning star.
 [29] The one who has an ear had better hear what the Spirit says to the churches.’
-# Revelation
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -110,7 +108,6 @@ and like clay jars he will break them to pieces,
 [20] Listen! I am standing at the door and knocking! If anyone hears my voice and opens the door I will come into his home and share a meal with him, and he with me.
 [21] I will grant the one who conquers permission to sit with me on my throne, just as I too conquered and sat down with my Father on his throne.
 [22] The one who has an ear had better hear what the Spirit says to the churches.’”
-# Revelation
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -133,7 +130,6 @@ Who was and who is, and who is still to come!”
 to receive glory and honor and power,
 since you created all things,
 and because of your will they existed and were created!”
-# Revelation
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -165,7 +161,6 @@ and honor and glory and praise!”
 “To the one seated on the throne and to the Lamb
 be praise, honor, glory, and ruling power forever and ever!”
 [14] And the four living creatures were saying “Amen,” and the elders threw themselves to the ground and worshiped.
-# Revelation
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -189,7 +184,6 @@ be praise, honor, glory, and ruling power forever and ever!”
 [15] Then the kings of the earth, the very important people, the generals, the rich, the powerful, and everyone, slave and free, hid themselves in the caves and among the rocks of the mountains.
 [16] They said to the mountains and to the rocks, “Fall on us and hide us from the face of the one who is seated on the throne and from the wrath of the Lamb,
 [17] because the great day of their wrath has come, and who is able to withstand it?”
-# Revelation
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -226,7 +220,6 @@ be to our God for ever and ever. Amen!”
 [15] For this reason they are before the throne of God, and they serve him day and night in his temple, and the one seated on the throne will shelter them.
 [16] They will never go hungry or be thirsty again, and the sun will not beat down on them, nor any burning heat,
 [17] because the Lamb in the middle of the throne will shepherd them and lead them to springs of living water, and God will wipe away every tear from their eyes.”
-# Revelation
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -246,7 +239,6 @@ be to our God for ever and ever. Amen!”
 [11] (Now the name of the star is Wormwood.) So a third of the waters became wormwood, and many people died from these waters because they were poisoned.
 [12] Then the fourth angel blew his trumpet, and a third of the sun was struck, and a third of the moon, and a third of the stars, so that a third of them were darkened. And there was no light for a third of the day and for a third of the night likewise.
 [13] Then I looked, and I heard an eagle flying directly overhead, proclaiming with a loud voice, “Woe! Woe! Woe to those who live on the earth because of the remaining sounds of the trumpets of the three angels who are about to blow them!”
-# Revelation
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -271,7 +263,6 @@ be to our God for ever and ever. Amen!”
 [19] For the power of the horses resides in their mouths and in their tails, because their tails are like snakes, having heads that inflict injuries.
 [20] The rest of humanity, who had not been killed by these plagues, did not repent of the works of their hands, so that they did not stop worshiping demons and idols made of gold, silver, bronze, stone, and wood—idols that cannot see or hear or walk about.
 [21] Furthermore, they did not repent of their murders, of their magic spells, of their sexual immorality, or of their stealing.
-# Revelation
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -289,7 +280,6 @@ be to our God for ever and ever. Amen!”
 [9] So I went to the angel and asked him to give me the little scroll. He said to me, “Take the scroll and eat it. It will make your stomach bitter, but it will be as sweet as honey in your mouth.”
 [10] So I took the little scroll from the angel’s hand and ate it, and it did taste as sweet as honey in my mouth, but when I had eaten it, my stomach became bitter.
 [11] Then they told me: “You must prophesy again about many peoples, nations, languages, and kings.”
-# Revelation
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -333,7 +323,6 @@ as well as to the saints
 and to those who revere your name, both small and great,
 and the time has come to destroy those who destroy the earth.”
 [19] Then the temple of God in heaven was opened and the ark of his covenant was visible within his temple. And there were flashes of lightning, roaring, crashes of thunder, an earthquake, and a great hailstorm.
-# Revelation
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -374,7 +363,6 @@ for he knows that he only has a little time!”
 [16] but the earth came to her rescue; the ground opened up and swallowed the river that the dragon had spewed from his mouth.
 [17] So the dragon became enraged at the woman and went away to make war on the rest of her children, those who keep God’s commandments and hold to the testimony about Jesus.
 [18] And the dragon stood on the sand of the seashore.
-# Revelation
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -402,7 +390,6 @@ then by the sword he must be killed.
 [16] He also caused everyone (small and great, rich and poor, free and slave) to obtain a mark on their right hand or on their forehead.
 [17] Thus no one was allowed to buy or sell things unless he bore the mark of the beast—that is, his name or his number.
 [18] This calls for wisdom: Let the one who has insight calculate the beast’s number, for it is man’s number, and his number is 666.
-# Revelation
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -434,7 +421,6 @@ those who die in the Lord from this moment on!’”
 [18] Another angel, who was in charge of the fire, came from the altar and called in a loud voice to the angel who had the sharp sickle, “Use your sharp sickle and gather the clusters of grapes off the vine of the earth, because its grapes are now ripe.”
 [19] So the angel swung his sickle over the earth and gathered the grapes from the vineyard of the earth and tossed them into the great winepress of the wrath of God.
 [20] Then the winepress was stomped outside the city, and blood poured out of the winepress up to the height of horses’ bridles for a distance of almost 200 miles.
-# Revelation
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -456,7 +442,6 @@ for your righteous acts have been revealed.”
 [6] and the seven angels who had the seven plagues came out of the temple, dressed in clean bright linen, wearing wide golden belts around their chests.
 [7] Then one of the four living creatures gave the seven angels seven golden bowls filled with the wrath of God who lives forever and ever,
 [8] and the temple was filled with smoke from God’s glory and from his power. Thus no one could enter the temple until the seven plagues from the seven angels were completed.
-# Revelation
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -488,7 +473,6 @@ Blessed is the one who stays alert and does not lose his clothes so that he will
 [19] The great city was split into three parts and the cities of the nations collapsed. So Babylon the great was remembered before God, and was given the cup filled with the wine made of God’s furious wrath.
 [20] Every island fled away and no mountains could be found.
 [21] And gigantic hailstones, weighing about a 100 pounds each, fell from heaven on people, but they blasphemed God because of the plague of hail, since it was so horrendous.
-# Revelation
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -513,7 +497,6 @@ Blessed is the one who stays alert and does not lose his clothes so that he will
 [16] The ten horns that you saw, and the beast—these will hate the prostitute and make her desolate and naked. They will consume her flesh and burn her up with fire.
 [17] For God has put into their minds to carry out his purpose by making a decision to give their royal power to the beast until the words of God are fulfilled.
 [18] As for the woman you saw, she is the great city that has sovereignty over the kings of the earth.”
-# Revelation
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -581,7 +564,6 @@ For your merchants were the tycoons of the world,
 because all the nations were deceived by your magic spells!
 [24] The blood of the saints and prophets was found in her,
 along with the blood of all those who had been killed on the earth.”
-# Revelation
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -631,7 +613,6 @@ and small and great!”
 [19] Then I saw the beast and the kings of the earth and their armies assembled to do battle with the one who rode the horse and with his army.
 [20] Now the beast was seized, and along with him the false prophet who had performed the signs on his behalf —signs by which he deceived those who had received the mark of the beast and those who worshiped his image. Both of them were thrown alive into the lake of fire burning with sulfur.
 [21] The others were killed by the sword that extended from the mouth of the one who rode the horse, and all the birds gorged themselves with their flesh.
-# Revelation
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -659,7 +640,6 @@ and small and great!”
 [13] The sea gave up the dead that were in it, and Death and Hades gave up the dead that were in them, and each one was judged according to his deeds.
 [14] Then Death and Hades were thrown into the lake of fire. This is the second death—the lake of fire.
 [15] If anyone’s name was not found written in the book of life, that person was thrown into the lake of fire.
-# Revelation
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -696,7 +676,6 @@ and small and great!”
 [25] Its gates will never be closed during the day (and there will be no night there).
 [26] They will bring the grandeur and the wealth of the nations into it,
 [27] but nothing ritually unclean will ever enter into it, nor anyone who does what is detestable or practices falsehood, but only those whose names are written in the Lamb’s book of life.
-# Revelation
 
 ## Chapter 22 <!-- scripture:22 -->
 

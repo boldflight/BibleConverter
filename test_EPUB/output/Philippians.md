@@ -41,7 +41,6 @@
 [28] and by not being intimidated in any way by your opponents. This is a sign of their destruction, but of your salvation—a sign which is from God.
 [29] For it has been granted to you not only to believe in Christ but also to suffer for him,
 [30] since you are encountering the same conflict that you saw me face and now hear that I am facing.
-# Philippians
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -97,7 +96,6 @@ to the glory of God the Father.
 [28] Therefore I am all the more eager to send him, so that when you see him again you can rejoice and I can be free from anxiety.
 [29] So welcome him in the Lord with great joy, and honor people like him,
 [30] since it was because of the work of Christ that he almost died. He risked his life so that he could make up for your inability to serve me.
-# Philippians
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -128,7 +126,6 @@ to the glory of God the Father.
 [19] Their end is destruction, their god is the belly, they exult in their shame, and they think about earthly things.
 [20] But our citizenship is in heaven—and we also eagerly await a savior from there, the Lord Jesus Christ,
 [21] who will transform these humble bodies of ours into the likeness of his glorious body by means of that power by which he is able to subject all things to himself.
-# Philippians
 
 ## Chapter 4 <!-- scripture:4 -->
 

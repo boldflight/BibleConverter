@@ -32,7 +32,6 @@
 [22] You have purified your souls by obeying the truth in order to show sincere mutual love. So love one another earnestly from a pure heart.
 [23] You have been born anew, not from perishable but from imperishable seed, through the living and enduring word of God.
 [24] For
-# 1 Peter
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -67,7 +66,6 @@
 [23] When he was maligned, he did not answer back; when he suffered, he threatened no retaliation, but committed himself to God who judges justly.
 [24] He himself bore our sins in his body on the tree, that we may cease from sinning and live for righteousness. By his wounds you were healed.
 [25] For you were going astray like sheep but now you have turned back to the shepherd and guardian of your souls.
-# 1 Peter
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -101,7 +99,6 @@ but by being made alive in the spirit.
 [20] after they were disobedient long ago when God patiently waited in the days of Noah as an ark was being constructed. In the ark a few, that is eight souls, were delivered through water.
 [21] And this prefigured baptism, which now saves you —not the washing off of physical dirt but the pledge of a good conscience to God—through the resurrection of Jesus Christ,
 [22] who went into heaven and is at the right hand of God with angels and authorities and powers subject to him.
-# 1 Peter
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -127,7 +124,6 @@ but by being made alive in the spirit.
 [17] For it is time for judgment to begin, starting with the house of God. And if it starts with us, what will be the fate of those who are disobedient to the gospel of God?
 [18] And if the righteous are barely saved, what will become of the ungodly and sinners?
 [19] So then let those who suffer according to the will of God entrust their souls to a faithful Creator as they do good.
-# 1 Peter
 
 ## Chapter 5 <!-- scripture:5 -->
 

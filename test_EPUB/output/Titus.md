@@ -24,7 +24,6 @@
 [14] and not pay attention to Jewish myths and commands of people who reject the truth.
 [15] All is pure to those who are pure. But to those who are corrupt and unbelieving, nothing is pure, but both their minds and consciences are corrupted.
 [16] They profess to know God but with their deeds they deny him, since they are detestable, disobedient, and unfit for any good deed.
-# Titus
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -46,7 +45,6 @@
 [13] as we wait for the happy fulfillment of our hope in the glorious appearing of our great God and Savior, Jesus Christ.
 [14] He gave himself for us to set us free from every kind of lawlessness and to purify for himself a people who are truly his, who are eager to do good.
 [15] So communicate these things with the sort of exhortation or rebuke that carries full authority. Don’t let anyone look down on you.
-# Titus
 
 ## Chapter 3 <!-- scripture:3 -->
 

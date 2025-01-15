@@ -22,7 +22,6 @@
 [12] “But you are profaning it by saying that the table of the Lord is common and its offerings despicable.
 [13] You also say, ‘How tiresome it is.’ You turn up your nose at it,” says the Lord of Heaven’s Armies, “and instead bring what is stolen, lame, or sick. You bring these things for an offering! Should I accept this from you?” asks the Lord.
 [14] “There will be harsh condemnation for the hypocrite who has a valuable male animal in his flock but vows and sacrifices something inferior to the Lord. For I am a great king,” says the Lord of Heaven’s Armies, “and my name is awesome among the nations.”
-# Malachi
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -48,7 +47,6 @@
 [14] Yet you ask, “Why?” The Lord is testifying against you on behalf of the wife you married when you were young, to whom you have become unfaithful even though she is your companion and wife by law.
 [15] No one who has even a small portion of the Spirit in him does this. What did our ancestor do when seeking a child from God? Be attentive, then, to your own spirit, for one should not be disloyal to the wife he took in his youth.
 [16] “I hate divorce,” says the Lord God of Israel, “and the one who is guilty of violence,” says the Lord of Heaven’s Armies. “Pay attention to your conscience, and do not be unfaithful.”
-# Malachi
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -80,7 +78,6 @@
 [16] Then those who respected the Lord spoke to one another, and the Lord took notice. A scroll was prepared before him in which were recorded the names of those who respected the Lord and honored his name.
 [17] “They will belong to me,” says the Lord of Heaven’s Armies, “in the day when I prepare my own special property. I will spare them as a man spares his son who serves him.
 [18] Then once more you will see that I make a distinction between the righteous and the wicked, between the one who serves God and the one who does not.
-# Malachi
 
 ## Chapter 4 <!-- scripture:4 -->
 

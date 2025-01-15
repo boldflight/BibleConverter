@@ -65,7 +65,6 @@ a strong gale will blow on the day of the windstorm.
 [15] Ammon’s king will be deported;
 he and his officials will be carried off together.”
 The Lord has spoken
-# Amos
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -130,7 +129,6 @@ fast runners will not save their lives,
 nor will those who ride horses.
 [16] Bravehearted warriors will run away naked in that day.”
 The Lord is speaking.
-# Amos
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -176,7 +174,6 @@ The horns of the altar will be cut off and fall to the ground.
 The houses filled with ivory will be ruined,
 the great houses will be swept away.”
 The Lord is speaking!
-# Amos
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -229,7 +226,6 @@ He reveals his plans to men.
 He turns the dawn into darkness
 and marches on the heights of the earth.
 The Lord God of Heaven’s Armies is his name!
-# Amos
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -309,7 +305,6 @@ righteous actions like a stream that never dries up.
 and Kiyyun, your star god, which you made for yourselves,
 [27] and I will drive you into exile beyond Damascus,” says the Lord.
 He is called the God of Heaven’s Armies.
-# Amos
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -356,7 +351,6 @@ You say, “Did we not conquer Karnaim by our own power?”
 [14] “Look! I am about to bring a nation against you, family of Israel,”
 the Lord, the God who commands armies, is speaking.
 “They will oppress you all the way from Lebo Hamath to the stream of the rift valley.”
-# Amos
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -398,7 +392,6 @@ and your sons and daughters will die violently.
 Your land will be given to others
 and you will die in a foreign land.
 Israel will certainly be carried into exile away from its land.’”
-# Amos
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -446,7 +439,6 @@ but they will not find any.
 [14] These are the ones who now take oaths in the name of the sinful idol goddess of Samaria.
 They vow, ‘As surely as your god lives, O Dan,’ or, ‘As surely as your beloved one lives, O Beer Sheba!’
 But they will fall down and not get up again.”
-# Amos
 
 ## Chapter 9 <!-- scripture:9 -->
 

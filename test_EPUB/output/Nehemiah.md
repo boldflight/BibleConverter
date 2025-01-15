@@ -16,7 +16,6 @@
 [9] But if you repent and obey my commandments and do them, then even if your dispersed people are in the most remote location, I will gather them from there and bring them to the place I have chosen for my name to reside.’
 [10] They are your servants and your people, whom you have redeemed by your mighty strength and by your powerful hand.
 [11] Please, Lord, listen attentively to the prayer of your servant and to the prayer of your servants who take pleasure in showing respect to your name. Grant your servant success today and show compassion to me in the presence of this man.”
-# Nehemiah
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -46,7 +45,6 @@
 [18] Then I related to them how the good hand of my God was on me and what the king had said to me. Then they replied, “Let’s begin rebuilding right away!” So they readied themselves for this good project.
 [19] But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard all this, they derided us and expressed contempt toward us. They said, “What is this you are doing? Are you rebelling against the king?”
 [20] I responded to them by saying, “The God of heaven will prosper us. We his servants will start the rebuilding. But you have no just or ancient right in Jerusalem.”
-# Nehemiah
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -85,7 +83,6 @@
 [30] After him Hananiah son of Shelemiah, and Hanun, the sixth son of Zalaph, worked on another section. After them Meshullam son of Berechiah worked opposite his quarters.
 [31] After him Malkijah, one of the goldsmiths, worked as far as the house of the temple servants and the traders, opposite the Inspection Gate, and up to the room above the corner.
 [32] And between the room above the corner and the Sheep Gate the goldsmiths and traders worked.
-# Nehemiah
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -115,7 +112,6 @@
 [21] So we worked on, with half holding spears, from dawn till dusk.
 [22] At that time I instructed the people, “Let every man and his coworker spend the night in Jerusalem and let them be guards for us by night and workers by day.”
 [23] We did not change clothes —not I, nor my relatives, nor my workers, nor the watchmen who were with me. Each had his weapon, even when getting a drink of water.
-# Nehemiah
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -141,7 +137,6 @@
 [17] There were 150 Jews and officials who dined with me routinely, in addition to those who came to us from the nations all around us.
 [18] Every day one ox, six select sheep, and some birds were prepared for me, and every ten days all kinds of wine in abundance. Despite all this I did not require the food allotted to the governor, for the work was demanding on this people.
 [19] Please remember me for good, O my God, for all that I have done for this people.
-# Nehemiah
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -170,7 +165,6 @@
 [17] In those days the aristocrats of Judah repeatedly sent letters to Tobiah, and responses from Tobiah were repeatedly coming to them.
 [18] For many in Judah had sworn allegiance to him, because he was the son-in-law of Shecaniah son of Arah. His son Jonathan had married the daughter of Meshullam son of Berechiah.
 [19] They were telling me about his good deeds and then taking back to him the things I said. Tobiah, on the other hand, sent letters in order to scare me.
-# Nehemiah
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -247,7 +241,6 @@
 [71] Some of the family leaders gave to the project treasury 20,000 gold drachmas and 2,200 silver minas.
 [72] What the rest of the people gave amounted to 20,000 gold drachmas, 2,000 silver minas, and 67 priestly garments.
 [73] The priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all the rest of Israel lived in their cities.
-# Nehemiah
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -272,7 +265,6 @@
 [16] So the people went out and brought these things back and constructed temporary shelters for themselves, each on his roof and in his courtyard and in the courtyards of the temple of God and in the plaza of the Water Gate and the plaza of the Ephraim Gate.
 [17] So all the assembly which had returned from the exile constructed temporary shelters and lived in them. The Israelites had not done so from the days of Joshua son of Nun until that day. Everyone experienced very great joy.
 [18] Ezra read in the book of the law of God day by day, from the first day to the last. They observed the festival for seven days, and on the eighth day they held an assembly as was required.
-# Nehemiah
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -320,7 +312,6 @@
 ### The People Pledge to be Faithful
 
 [38] (
-# Nehemiah
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -363,7 +354,6 @@
 [37] We will also bring the first of our coarse meal, of our contributions, of the fruit of every tree, of new wine, and of olive oil to the priests at the storerooms of the temple of our God, along with a tenth of the produce of our land to the Levites, for the Levites are the ones who collect the tithes in all the cities where we work.
 [38] A priest of Aaron’s line will be with the Levites when the Levites collect the tithes, and the Levites will bring up a tenth of the tithes to the temple of our God, to the storerooms of the treasury.
 [39] The Israelites and the Levites will bring the contribution of the grain, the new wine, and the olive oil to the storerooms where the utensils of the sanctuary are kept, and where the priests who minister stay, along with the gatekeepers and the singers. We will not neglect the temple of our God.”
-# Nehemiah
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -406,7 +396,6 @@
 [34] in Hadid, Zeboyim, and Neballat,
 [35] in Lod, Ono, and the Valley of the Craftsmen.
 [36] Some of the Judean divisions of the Levites settled in Benjamin.
-# Nehemiah
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -463,7 +452,6 @@
 [45] They performed the service of their God and the service of purification, along with the singers and gatekeepers, according to the commandment of David and his son Solomon.
 [46] For long ago, in the days of David and Asaph, there had been directors for the singers and for the songs of praise and thanks to God.
 [47] So in the days of Zerubbabel and in the days of Nehemiah, all Israel was contributing the portions for the singers and gatekeepers, according to the daily need. They also set aside the portion for the Levites, and the Levites set aside the portion for the descendants of Aaron.
-# Nehemiah
 
 ## Chapter 13 <!-- scripture:13 -->
 

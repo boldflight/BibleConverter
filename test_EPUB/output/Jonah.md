@@ -25,7 +25,6 @@
 ### Jonah Prays
 
 [17] (
-# Jonah
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -54,7 +53,6 @@ And my prayer came to you, to your holy temple.
 I will surely do what I have promised.
 Salvation belongs to the Lord!”
 [10] Then the Lord commanded the fish and it vomited Jonah out onto dry land.
-# Jonah
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -71,7 +69,6 @@ Salvation belongs to the Lord!”
 [8] Every person and animal must put on sackcloth and must cry earnestly to God, and everyone must turn from their evil way of living and from the violence that they do.
 [9] Who knows? Perhaps God might be willing to change his mind and relent and turn from his fierce anger so that we might not die.”
 [10] When God saw their actions—that they turned from their evil way of living. —God relented concerning the judgment he had threatened them with and did not destroy them.
-# Jonah
 
 ## Chapter 4 <!-- scripture:4 -->
 

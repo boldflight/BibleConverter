@@ -29,7 +29,6 @@
 [13] Then Haggai, the Lord’s messenger, spoke the Lord’s announcement to the people: “I am with you,” decrees the Lord.
 [14] So the Lord energized and encouraged Zerubbabel son of Shealtiel, governor of Judah, the high priest Joshua son of Jehozadak, and the whole remnant of the people. They came and worked on the temple of their God, the Lord of Heaven’s Armies.
 [15] This took place on the twenty-fourth day of the sixth month of King Darius’ second year.
-# Haggai
 
 ## Chapter 2 <!-- scripture:2 -->
 

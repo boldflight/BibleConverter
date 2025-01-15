@@ -32,7 +32,6 @@
 [19] Moreover, we possess the prophetic word as an altogether reliable thing. You do well if you pay attention to this as you would to a light shining in a murky place, until the day dawns and the morning star rises in your hearts.
 [20] Above all, you do well if you recognize this: No prophecy of scripture ever comes about by the prophet’s own imagination,
 [21] for no prophecy was ever borne of human impulse; rather, men carried along by the Holy Spirit spoke from God.
-# 2 Peter
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -61,7 +60,6 @@
 [20] For if after they have escaped the filthy things of the world through the rich knowledge of our Lord and Savior Jesus Christ, they again get entangled in them and succumb to them, their last state has become worse for them than their first.
 [21] For it would have been better for them never to have known the way of righteousness than, having known it, to turn back from the holy commandment that had been delivered to them.
 [22] They are illustrations of this true proverb: “A dog returns to its own vomit,” and “A sow, after washing herself, wallows in the mire.”
-# 2 Peter
 
 ## Chapter 3 <!-- scripture:3 -->
 

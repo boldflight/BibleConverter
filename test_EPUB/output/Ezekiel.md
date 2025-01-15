@@ -33,7 +33,6 @@
 [26] Above the platform over their heads was something like a sapphire shaped like a throne. High above on the throne was a form that appeared to be a man.
 [27] I saw an amber glow like a fire enclosed all around from his waist up. From his waist down I saw something that looked like fire. There was a brilliant light around it,
 [28] like the appearance of a rainbow in the clouds after the rain. This was the appearance of the surrounding brilliant light; it looked like the glory of the Lord. When I saw it, I threw myself face down, and I heard a voice speaking.
-# Ezekiel
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -50,7 +49,6 @@
 [8] As for you, son of man, listen to what I am saying to you: Do not rebel like that rebellious house! Open your mouth and eat what I am giving you.”
 [9] Then I looked and realized a hand was stretched out to me, and in it was a written scroll.
 [10] He unrolled it before me, and it had writing on the front and back; written on it were laments, mourning, and woe.
-# Ezekiel
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -87,7 +85,6 @@
 [25] As for you, son of man, they will put ropes on you and tie you up with them, so you cannot go out among them.
 [26] I will make your tongue stick to the roof of your mouth so that you will be silent and unable to reprove them, for they are a rebellious house.
 [27] But when I speak with you, I will loosen your tongue and you must say to them, ‘This is what the Sovereign Lord says.’ Those who listen will listen, but the indifferent will refuse, for they are a rebellious house.
-# Ezekiel
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -111,7 +108,6 @@
 [15] So he said to me, “All right then, I will substitute cow’s manure instead of human excrement. You will cook your food over it.”
 [16] Then he said to me, “Son of man, I am about to remove the bread supply in Jerusalem. They will eat their bread ration anxiously, and they will drink their water ration in terror
 [17] because they will lack bread and water. Each one will be terrified, and they will rot for their iniquity.
-# Ezekiel
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -132,7 +128,6 @@
 [15] You will be an object of scorn and taunting, a prime example of destruction among the nations around you when I execute judgments against you in anger and raging fury. I, the Lord, have spoken!
 [16] I will shoot against them deadly, destructive arrows of famine, which I will shoot to destroy you. I will prolong a famine on you and will remove the bread supply.
 [17] I will send famine and wild beasts against you, and they will take your children from you. Plague and bloodshed will overwhelm you, and I will bring a sword against you. I, the Lord, have spoken!”
-# Ezekiel
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -153,7 +148,6 @@
 [12] The one far away will die by pestilence, the one close by will fall by the sword, and whoever is left and has escaped these will die by famine. I will fully vent my rage against them.
 [13] Then you will know that I am the Lord when their dead lie among their idols around their altars, on every high hill and on all the mountaintops, under every green tree and every leafy oak —the places where they have offered fragrant incense to all their idols.
 [14] I will stretch out my hand against them and make the land a desolate waste from the wilderness to Riblah, in all the places where they live. Then they will know that I am the Lord.’”
-# Ezekiel
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -187,7 +181,6 @@
 [25] Terror is coming! They will seek peace, but find none.
 [26] Disaster after disaster will come, and one rumor after another. They will seek a vision from a prophet; priestly instruction will disappear, along with counsel from the elders.
 [27] The king will mourn and the prince will be clothed with shuddering; the hands of the people of the land will tremble. Based on their behavior I will deal with them, and by their standard of justice I will judge them. Then they will know that I am the Lord!”
-# Ezekiel
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -212,7 +205,6 @@
 [16] Then he brought me to the inner court of the Lord’s house. Right there at the entrance to the Lord’s temple, between the porch and the altar, were about twenty-five men with their backs to the Lord’s temple, facing east—they were worshiping the sun toward the east!
 [17] He said to me, “Do you see, son of man? Is it a trivial thing that the house of Judah commits these abominations they are practicing here? For they have filled the land with violence and provoked me to anger still further. Look, they are putting the branch to their nose!
 [18] Therefore I will act with fury! My eye will not pity them nor will I spare them. When they have shouted in my ears, I will not listen to them.”
-# Ezekiel
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -230,7 +222,6 @@
 [9] He said to me, “The sin of the house of Israel and Judah is extremely great; the land is full of murder, and the city is full of corruption, for they say, ‘The Lord has abandoned the land, and the Lord does not see!’
 [10] But as for me, my eye will not pity them nor will I spare them; I hereby repay them for what they have done.”
 [11] Next I noticed the man dressed in linen with the writing kit at his side bringing back word: “I have done just as you commanded me.”
-# Ezekiel
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -259,7 +250,6 @@
 [20] These were the living creatures that I saw at the Kebar River underneath the God of Israel; I knew that they were cherubim.
 [21] Each had four faces; each had four wings and the form of human hands under the wings.
 [22] As for the form of their faces, they were the faces whose appearance I had seen at the Kebar River. Each one moved straight ahead.
-# Ezekiel
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -291,7 +281,6 @@
 [23] The glory of the Lord rose up from within the city and stopped over the mountain east of it.
 [24] Then a wind lifted me up and carried me to the exiles in Babylonia, in the vision given to me by the Spirit of God.
 [25] So I told the exiles everything the Lord had shown me.
-# Ezekiel
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -326,7 +315,6 @@
 [26] The Lord’s message came to me:
 [27] “Take note, son of man, the house of Israel is saying, ‘The vision that he sees is for distant days; he is prophesying about the far future.’
 [28] Therefore say to them, ‘This is what the Sovereign Lord says: None of my words will be delayed any longer! The word I speak will come to pass, declares the Sovereign Lord.’”
-# Ezekiel
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -356,7 +344,6 @@
 [21] I will tear off your headbands and rescue my people from your power; they will no longer be prey in your hands. Then you will know that I am the Lord.
 [22] This is because you have disheartened the righteous person with lies (although I have not grieved him), and because you have encouraged the wicked person not to turn from his evil conduct and preserve his life.
 [23] Therefore you will no longer see false visions and practice divination. I will rescue my people from your power, and you will know that I am the Lord.’”
-# Ezekiel
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -386,7 +373,6 @@
 [21] “For this is what the Sovereign Lord says: How much worse will it be when I send my four terrible judgments—sword, famine, wild animals, and plague—to Jerusalem to kill both people and animals!
 [22] Yet some survivors will be left in it, sons and daughters who will be brought out. They will come out to you, and when you see their behavior and their deeds, you will be consoled about the catastrophe I have brought on Jerusalem—for everything I brought on it.
 [23] They will console you when you see their behavior and their deeds, because you will know that it was not without reason that I have done everything that I have done in it, declares the Sovereign Lord.”
-# Ezekiel
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -401,7 +387,6 @@
 [6] “Therefore, this is what the Sovereign Lord says: Like the wood of the vine is among the trees of the forest that I have provided as fuel for the fire—so I will provide the residents of Jerusalem as fuel.
 [7] I will set my face against them—although they have escaped from the fire, the fire will still consume them! Then you will know that I am the Lord, when I set my face against them.
 [8] I will make the land desolate because they have acted unfaithfully, declares the Sovereign Lord.”
-# Ezekiel
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -471,7 +456,6 @@
 [61] Then you will remember your conduct, and be ashamed when you receive your older and younger sisters. I will give them to you as daughters, but not on account of my covenant with you.
 [62] I will establish my covenant with you, and then you will know that I am the Lord.
 [63] Then you will remember, be ashamed, and remain silent because of your disgrace when I make atonement for all you have done, declares the Sovereign Lord.’”
-# Ezekiel
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -534,7 +518,6 @@ Every winged creature will live in the shade of its branches.
 I make the high tree low; I raise up the low tree.
 I make the green tree wither, and I make the dry tree sprout.
 I, the Lord, have spoken, and I will do it!’”
-# Ezekiel
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -575,7 +558,6 @@ And the children’s teeth become numb?’
 [30] “Therefore, I will judge each person according to his conduct, O house of Israel, declares the Sovereign Lord. Repent and turn from all your wickedness; then it will not be an obstacle leading to iniquity.
 [31] Throw away all your sins you have committed and fashion yourselves a new heart and a new spirit! Why should you die, O house of Israel?
 [32] For I take no delight in the death of anyone, declares the Sovereign Lord. Repent and live!
-# Ezekiel
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -613,7 +595,6 @@ a fire consumed them.
 in a dry and thirsty land.
 [14] A fire has gone out from its branch; it has consumed its shoot and its fruit.
 No strong branch was left in it, nor a scepter to rule.’
-# Ezekiel
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -672,7 +653,6 @@ No strong branch was left in it, nor a scepter to rule.’
 [47] and say to the scrub land of the Negev, ‘Listen to the Lord’s message! This is what the Sovereign Lord has said: Look here, I am about to start a fire in you, and it will devour every green tree and every dry tree in you. The flaming fire will not be extinguished, and the whole surface of the ground from the Negev to the north will be scorched by it.
 [48] And everyone will see that I, the Lord, have burned it; it will not be extinguished.’”
 [49] Then I said, “O Sovereign Lord! They are saying of me, ‘Does he not simply speak in eloquent figures of speech?’”
-# Ezekiel
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -753,7 +733,6 @@ who are skilled in destruction.
 your blood will stain the middle of the land;
 you will no longer be remembered,
 for I, the Lord, have spoken.’”
-# Ezekiel
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -791,7 +770,6 @@ for I, the Lord, have spoken.’”
 [29] The people of the land have practiced extortion and committed robbery. They have wronged the poor and needy; they have oppressed the resident foreigner and denied them justice.
 [30] “I looked for a man from among them who would repair the wall and stand in the gap before me on behalf of the land, so that I would not destroy it, but I found no one.
 [31] So I have poured my anger on them and destroyed them with the fire of my fury. I hereby repay them for what they have done, declares the Sovereign Lord.”
-# Ezekiel
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -847,7 +825,6 @@ for I, the Lord, have spoken.’”
 [47] That army will pelt them with stones and slash them with their swords; they will kill their sons and daughters and burn their houses.
 [48] I will put an end to the obscene conduct in the land; all the women will learn a lesson from this and not engage in obscene conduct.
 [49] They will repay you for your obscene conduct, and you will be punished for idol worship. Then you will know that I am the Sovereign Lord.”
-# Ezekiel
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -911,7 +888,6 @@ until I have exhausted my anger on you.
 [25] “And you, son of man, this is what will happen on the day I take from them their stronghold—their beautiful source of joy, the object in which their eyes delight, and the main concern of their lives, as well as their sons and daughters:
 [26] On that day a fugitive will come to you to report the news.
 [27] On that day you will be able to speak again; you will talk with the fugitive and be silent no longer. You will be an object lesson for them, and they will know that I am the Lord.”
-# Ezekiel
 
 ## Chapter 25 <!-- scripture:25 -->
 
@@ -944,7 +920,6 @@ until I have exhausted my anger on you.
 [15] “This is what the Sovereign Lord says: ‘The Philistines have exacted merciless revenge, showing intense scorn in their effort to destroy Judah with unrelenting hostility.
 [16] So this is what the Sovereign Lord says: Take note, I am about to stretch out my hand against the Philistines. I will kill the Kerethites and destroy those who remain on the seacoast.
 [17] I will exact great vengeance upon them with angry rebukes. Then they will know that I am the Lord, when I exact my vengeance upon them.’”
-# Ezekiel
 
 ## Chapter 26 <!-- scripture:26 -->
 
@@ -976,7 +951,6 @@ the coastlands by the sea will be terrified by your passing.’
 [19] “For this is what the Sovereign Lord says: When I make you desolate like the uninhabited cities, when I bring up the deep over you and the surging waters overwhelm you,
 [20] then I will bring you down to bygone people, to be with those who descend to the Pit. I will make you live in the lower parts of the earth among the primeval ruins, with those who descend to the Pit, so that you will not be inhabited or stand in the land of the living.
 [21] I will bring terrors on you, and you will be no more! Though you are sought after, you will never be found again, declares the Sovereign Lord.”
-# Ezekiel
 
 ## Chapter 27 <!-- scripture:27 -->
 
@@ -1047,7 +1021,6 @@ your merchandise and all your company have sunk along with you.
 and their kings are horribly afraid—their faces are troubled.
 [36] The traders among the peoples hiss at you;
 you have become a horror, and will be no more.’”
-# Ezekiel
 
 ## Chapter 28 <!-- scripture:28 -->
 
@@ -1124,7 +1097,6 @@ Then they will know that I am the Lord.
 [24] “‘No longer will Israel suffer from the sharp briers or painful thorns of all who surround and scorn them. Then they will know that I am the Sovereign Lord.
 [25] “‘This is what the Sovereign Lord says: When I regather the house of Israel from the peoples where they are dispersed, I will reveal my sovereign power over them in the sight of the nations, and they will live in their land that I gave to my servant Jacob.
 [26] They will live securely in it; they will build houses and plant vineyards. They will live securely when I execute my judgments on all those who scorn them and surround them. Then they will know that I am the Lord their God.’”
-# Ezekiel
 
 ## Chapter 29 <!-- scripture:29 -->
 
@@ -1163,7 +1135,6 @@ and when they leaned on you, you splintered and caused their legs to be unsteady
 [19] Therefore this is what the Sovereign Lord says: Look, I am about to give the land of Egypt to King Nebuchadrezzar of Babylon. He will carry off her wealth, capture her loot, and seize her plunder; it will be his army’s wages.
 [20] I have given him the land of Egypt as his compensation for attacking Tyre, because they did it for me, declares the Sovereign Lord.
 [21] On that day I will make Israel powerful, and I will give you the right to be heard among them. Then they will know that I am the Lord.”
-# Ezekiel
 
 ## Chapter 30 <!-- scripture:30 -->
 
@@ -1233,7 +1204,6 @@ Then they will know that I am the Lord.’”
 [24] I will strengthen the arms of the king of Babylon, and I will place my sword in his hand, but I will break the arms of Pharaoh, and he will groan like the fatally wounded before the king of Babylon.
 [25] I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will fall limp. Then they will know that I am the Lord when I place my sword in the hand of the king of Babylon and he extends it against the land of Egypt.
 [26] I will scatter the Egyptians among the nations and disperse them among foreign countries. Then they will know that I am the Lord.”
-# Ezekiel
 
 ## Chapter 31 <!-- scripture:31 -->
 
@@ -1274,7 +1244,6 @@ all the trees of Eden, in the garden of God, envied it.
 [16] I made the nations shake at the sound of its fall, when I threw it down to Sheol, along with those who descend to the Pit. Then all the trees of Eden, the choicest and the best of Lebanon, all that were well-watered, were comforted in the earth below.
 [17] Those who lived in its shade, its allies among the nations, also went down with it to Sheol, to those killed by the sword.
 [18] Which of the trees of Eden was like you in majesty and loftiness? You will be brought down with the trees of Eden to the lower parts of the earth; you will lie among the uncircumcised, with those killed by the sword! This is what will happen to Pharaoh and all his hordes, declares the Sovereign Lord.’”
-# Ezekiel
 
 ## Chapter 32 <!-- scripture:32 -->
 
@@ -1349,7 +1318,6 @@ declares the Sovereign Lord.”
 [30] “All the leaders of the north are there, along with all the Sidonians; despite their might they have gone down in shameful terror with the dead. They lie uncircumcised with those killed by the sword, and bear their shame with those who descend to the Pit.
 [31] “Pharaoh will see them and be consoled over all his hordes who were killed by the sword, Pharaoh and all his army, declares the Sovereign Lord.
 [32] Indeed, I terrified him in the land of the living, yet he will lie in the midst of the uncircumcised with those killed by the sword, Pharaoh and all his hordes, declares the Sovereign Lord.”
-# Ezekiel
 
 ## Chapter 33 <!-- scripture:33 -->
 
@@ -1392,7 +1360,6 @@ declares the Sovereign Lord.”
 [31] They come to you in crowds, and they sit in front of you as my people. They hear your words, but do not obey them. For they talk lustfully, and their heart is set on their own advantage.
 [32] Realize that to them you are like a sensual song, a beautiful voice and skilled musician. They hear your words, but they do not obey them.
 [33] When all this comes true—and it certainly will —then they will know that a prophet was among them.”
-# Ezekiel
 
 ## Chapter 34 <!-- scripture:34 -->
 
@@ -1430,7 +1397,6 @@ declares the Sovereign Lord.”
 [29] I will prepare for them a healthy planting. They will no longer be victims of famine in the land and will no longer bear the insults of the nations.
 [30] Then they will know that I, the Lord their God, am with them, and that they are my people, the house of Israel, declares the Sovereign Lord.
 [31] And you, my sheep, the sheep of my pasture, are my people, and I am your God, declares the Sovereign Lord.’”
-# Ezekiel
 
 ## Chapter 35 <!-- scripture:35 -->
 
@@ -1457,7 +1423,6 @@ Then you will know that I am the Lord!
 [13] You exalted yourselves against me with your speech and hurled many insults against me —I have heard them all!
 [14] This is what the Sovereign Lord says: While the whole earth rejoices, I will turn you into a desolation.
 [15] As you rejoiced over the inheritance of the house of Israel because it was desolate, so will I deal with you—you will be desolate, Mount Seir, and all Edom—all of it! Then they will know that I am the Lord.’”
-# Ezekiel
 
 ## Chapter 36 <!-- scripture:36 -->
 
@@ -1502,7 +1467,6 @@ Then you will know that I am the Lord!
 [36] Then the nations that remain around you will know that I, the Lord, have rebuilt the ruins and replanted what was desolate. I, the Lord, have spoken—and I will do it!’
 [37] “This is what the Sovereign Lord says: I will allow the house of Israel to ask me to do this for them: I will multiply their people like sheep.
 [38] Like the sheep for offerings, like the sheep of Jerusalem during her appointed feasts, so the ruined cities will be filled with flocks of people. Then they will know that I am the Lord.”
-# Ezekiel
 
 ## Chapter 37 <!-- scripture:37 -->
 
@@ -1537,7 +1501,6 @@ Then you will know that I am the Lord!
 [26] I will make a covenant of peace with them; it will be a perpetual covenant with them. I will establish them, increase their numbers, and place my sanctuary among them forever.
 [27] My dwelling place will be with them; I will be their God, and they will be my people.
 [28] Then, when my sanctuary is among them forever, the nations will know that I, the Lord, sanctify Israel.’”
-# Ezekiel
 
 ## Chapter 38 <!-- scripture:38 -->
 
@@ -1567,7 +1530,6 @@ Then you will know that I am the Lord!
 [21] I will call for a sword to attack Gog on all my mountains, declares the Sovereign Lord; every man’s sword will be against his brother.
 [22] I will judge him with plague and bloodshed. I will rain down on him, his troops, and the many peoples who are with him a torrential downpour, hailstones, fire, and brimstone.
 [23] I will exalt and magnify myself; I will reveal myself before many nations. Then they will know that I am the Lord.’
-# Ezekiel
 
 ## Chapter 39 <!-- scripture:39 -->
 
@@ -1600,7 +1562,6 @@ Then you will know that I am the Lord!
 [27] When I have brought them back from the peoples and gathered them from the countries of their enemies, I will magnify myself among them in the sight of many nations.
 [28] Then they will know that I am the Lord their God because I sent them into exile among the nations and then gathered them into their own land. I will not leave any of them in exile any longer.
 [29] I will no longer hide my face from them, when I pour out my Spirit on the house of Israel, declares the Sovereign Lord.”
-# Ezekiel
 
 ## Chapter 40 <!-- scripture:40 -->
 
@@ -1656,7 +1617,6 @@ Then you will know that I am the Lord!
 [47] He measured the court as a square 175 feet long and 175 feet wide; the altar was in front of the temple.
 [48] Then he brought me to the porch of the temple and measured the jambs of the porch as 8¾ feet on either side; the width of the gate was 24½ feet, and the sides were 5¼ feet on each side.
 [49] The length of the porch was 35 feet and the width 19¼ feet; steps led up to it, and there were pillars beside the jambs on either side.
-# Ezekiel
 
 ## Chapter 41 <!-- scripture:41 -->
 
@@ -1689,7 +1649,6 @@ Then you will know that I am the Lord!
 [24] Each of the doors had two leaves, two swinging leaves; two leaves for one door and two leaves for the other.
 [25] On the doors of the outer sanctuary were carved cherubim and palm trees, like those carved on the walls, and there was a canopy of wood on the front of the outside porch.
 [26] There were narrow windows and decorative palm trees on either side of the side walls of the porch; this is what the side chambers of the temple and the canopies were like.
-# Ezekiel
 
 ## Chapter 42 <!-- scripture:42 -->
 
@@ -1716,7 +1675,6 @@ Then you will know that I am the Lord!
 [18] He measured the south side as 875 feet by the measuring stick.
 [19] He turned to the west side and measured 875 feet by the measuring stick.
 [20] He measured it on all four sides. It had a wall around it, 875 feet long and 875 feet wide, to separate the holy and common places.
-# Ezekiel
 
 ## Chapter 43 <!-- scripture:43 -->
 
@@ -1753,7 +1711,6 @@ Then you will know that I am the Lord!
 [25] “For seven days you will provide every day a goat for a sin offering; a young bull and a ram from the flock, both without blemish, will be provided.
 [26] For seven days they will make atonement for the altar and cleanse it, so they will consecrate it.
 [27] When the prescribed period is over, on the eighth day and thereafter the priests will offer up on the altar your burnt offerings and your peace offerings; I will accept you, declares the Sovereign Lord.”
-# Ezekiel
 
 ## Chapter 44 <!-- scripture:44 -->
 
@@ -1794,7 +1751,6 @@ Then you will know that I am the Lord!
 [29] They may eat the grain offering, the sin offering, and the guilt offering, and every devoted thing in Israel will be theirs.
 [30] The first of all the firstfruits and all contributions of any kind will be for the priests; you will also give to the priest the first portion of your dough, so that a blessing may rest on your house.
 [31] The priests will not eat any bird or animal that has died a natural death or was torn to pieces by a wild animal.
-# Ezekiel
 
 ## Chapter 45 <!-- scripture:45 -->
 
@@ -1826,7 +1782,6 @@ Then you will know that I am the Lord!
 [23] And during the seven days of the feast he will provide as a burnt offering to the Lord seven bulls and seven rams, all without blemish, on each of the seven days, and a male goat daily for a sin offering.
 [24] He will provide as a grain offering an ephah for each bull, an ephah for each ram, and a gallon of olive oil for each ephah of grain.
 [25] In the seventh month, on the fifteenth day of the month, at the feast, he will make the same provisions for the sin offering, burnt offering, and grain offering, and for the olive oil, for the seven days.
-# Ezekiel
 
 ## Chapter 46 <!-- scripture:46 -->
 
@@ -1857,7 +1812,6 @@ Then you will know that I am the Lord!
 [22] In the four corners of the court were small courts, 70 feet in length and 52½ feet in width; the four were all the same size.
 [23] There was a row of masonry around each of the four courts, and places for boiling offerings were made under the rows all around.
 [24] Then he said to me, “These are the houses for boiling, where the ministers of the temple boil the sacrifices of the people.”
-# Ezekiel
 
 ## Chapter 47 <!-- scripture:47 -->
 
@@ -1890,7 +1844,6 @@ Then you will know that I am the Lord!
 [21] “This is how you will divide this land for yourselves among the tribes of Israel.
 [22] You must allot it as an inheritance among yourselves and for the resident foreigners who live among you, who have fathered sons among you. You must treat them as native-born among the people of Israel; they will be allotted an inheritance with you among the tribes of Israel.
 [23] In whatever tribe the resident foreigner lives, there you will give him his inheritance,” declares the Sovereign Lord.
-# Ezekiel
 
 ## Chapter 48 <!-- scripture:48 -->
 

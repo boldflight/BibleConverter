@@ -46,7 +46,6 @@
 [30] slanderers, haters of God, insolent, arrogant, boastful, contrivers of all sorts of evil, disobedient to parents,
 [31] senseless, covenant-breakers, heartless, ruthless.
 [32] Although they fully know God’s righteous decree that those who practice such things deserve to die, they not only do them but also approve of those who practice them.
-# Romans
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -85,7 +84,6 @@
 [27] And the physically uncircumcised man, by keeping the law, will judge you to be the transgressor of the law, even though you have the letter and circumcision!
 [28] For a person is not a Jew who is one outwardly, nor is circumcision something that is outward in the flesh,
 [29] but someone is a Jew who is one inwardly, and circumcision is of the heart by the Spirit and not by the letter. This person’s praise is not from people but from God.
-# Romans
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -115,7 +113,6 @@
 [29] Or is God the God of the Jews only? Is he not the God of the Gentiles too? Yes, of the Gentiles too!
 [30] Since God is one, he will justify the circumcised by faith and the uncircumcised through faith.
 [31] Do we then nullify the law through faith? Absolutely not! Instead we uphold the law.
-# Romans
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -145,7 +142,6 @@
 [23] But the statement it was credited to him was not written only for Abraham’s sake,
 [24] but also for our sake, to whom it will be credited, those who believe in the one who raised Jesus our Lord from the dead.
 [25] He was given over because of our transgressions and was raised for the sake of our justification.
-# Romans
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -176,7 +172,6 @@
 [19] For just as through the disobedience of the one man many were constituted sinners, so also through the obedience of one man many will be constituted righteous.
 [20] Now the law came in so that the transgression may increase, but where sin increased, grace multiplied all the more,
 [21] so that just as sin reigned in death, so also grace will reign through righteousness to eternal life through Jesus Christ our Lord.
-# Romans
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -209,7 +204,6 @@
 [21] So what benefit did you then reap from those things that you are now ashamed of? For the end of those things is death.
 [22] But now, freed from sin and enslaved to God, you have your benefit leading to sanctification, and the end is eternal life.
 [23] For the payoff of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
-# Romans
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -241,7 +235,6 @@
 [23] But I see a different law in my members waging war against the law of my mind and making me captive to the law of sin that is in my members.
 [24] Wretched man that I am! Who will rescue me from this body of death?
 [25] Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.
-# Romans
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -287,7 +280,6 @@
 [37] No, in all these things we have complete victory through him who loved us!
 [38] For I am convinced that neither death, nor life, nor angels, nor heavenly rulers, nor things that are present, nor things to come, nor powers,
 [39] nor height, nor depth, nor anything else in creation will be able to separate us from the love of God in Christ Jesus our Lord.
-# Romans
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -329,7 +321,6 @@
 [31] but Israel even though pursuing a law of righteousness did not attain it.
 [32] Why not? Because they pursued it not by faith but (as if it were possible) by works. They stumbled over the stumbling stone,
 [33] just as it is written,
-# Romans
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -354,7 +345,6 @@
 [19] But again I ask, didn’t Israel understand? First Moses says, “I will make you jealous by those who are not a nation; with a senseless nation I will provoke you to anger.”
 [20] And Isaiah is even bold enough to say, “I was found by those who did not seek me; I became well known to those who did not ask for me.”
 [21] But about Israel he says, “All day long I held out my hands to this disobedient and stubborn people!”
-# Romans
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -393,7 +383,6 @@
 [32] For God has consigned all people to disobedience so that he may show mercy to them all.
 [33] Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how unfathomable his ways!
 [36] For from him and through him and to him are all things. To him be glory forever! Amen.
-# Romans
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -427,7 +416,6 @@
 [19] Do not avenge yourselves, dear friends, but give place to God’s wrath, for it is written, “Vengeance is mine, I will repay,” says the Lord.
 [20] Rather, if your enemy is hungry, feed him; if he is thirsty, give him a drink; for in doing this you will be heaping burning coals on his head.
 [21] Do not be overcome by evil, but overcome evil with good.
-# Romans
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -454,7 +442,6 @@
 [12] The night has advanced toward dawn; the day is near. So then we must lay aside the works of darkness, and put on the weapons of light.
 [13] Let us live decently as in the daytime, not in carousing and drunkenness, not in sexual immorality and sensuality, not in discord and jealousy.
 [14] Instead, put on the Lord Jesus Christ, and make no provision for the flesh to arouse its desires.
-# Romans
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -487,7 +474,6 @@
 [21] It is good not to eat meat or drink wine or to do anything that causes your brother to stumble.
 [22] The faith you have, keep to yourself before God. Blessed is the one who does not judge himself by what he approves.
 [23] But the man who doubts is condemned if he eats, because he does not do so from faith, and whatever is not from faith is sin.
-# Romans
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -536,7 +522,6 @@
 [31] Pray that I may be rescued from those who are disobedient in Judea and that my ministry in Jerusalem may be acceptable to the saints,
 [32] so that by God’s will I may come to you with joy and be refreshed in your company.
 [33] Now may the God of peace be with all of you. Amen.
-# Romans
 
 ## Chapter 16 <!-- scripture:16 -->
 

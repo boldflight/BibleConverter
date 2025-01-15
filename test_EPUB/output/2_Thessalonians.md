@@ -23,7 +23,6 @@
 [10] when he comes to be glorified among his saints and admired on that day among all who have believed—and you did in fact believe our testimony.
 [11] And in this regard we pray for you always, that our God will make you worthy of his calling and fulfill by his power your every desire for goodness and every work of faith,
 [12] that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.
-# 2 Thessalonians
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -50,7 +49,6 @@
 [15] Therefore, brothers and sisters, stand firm and hold on to the traditions that we taught you, whether by speech or by letter.
 [16] Now may our Lord Jesus Christ himself and God our Father, who loved us and by grace gave us eternal comfort and good hope,
 [17] encourage your hearts and strengthen you in every good thing you do or say.
-# 2 Thessalonians
 
 ## Chapter 3 <!-- scripture:3 -->
 

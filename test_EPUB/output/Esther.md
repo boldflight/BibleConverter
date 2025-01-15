@@ -30,7 +30,6 @@
 [20] And let the king’s decision that he will enact be disseminated throughout all his kingdom, vast though it is. Then all the women will give honor to their husbands, from the most prominent to the lowly.”
 [21] The matter seemed appropriate to the king and the officials. So the king acted on the advice of Memucan.
 [22] He sent letters throughout all the royal provinces, to each province according to its own script and to each people according to their own language, that every man should be ruling his family and should be speaking the language of his own people.
-# Esther
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -63,7 +62,6 @@
 [21] In those days while Mordecai was sitting at the king’s gate, Bigthan and Teresh, two of the king’s eunuchs who protected the entrance, became angry and plotted to assassinate King Ahasuerus.
 [22] When Mordecai learned of the conspiracy, he informed Queen Esther, and Esther told the king in Mordecai’s name.
 [23] The king then had the matter investigated and, finding it to be so, had the two conspirators hanged on a gallows. It was then recorded in the daily chronicles in the king’s presence.
-# Esther
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -85,7 +83,6 @@
 [13] Letters were sent by the runners to all the king’s provinces stating that they should destroy, kill, and annihilate all the Jews, from youth to elderly, both women and children, on a particular day, namely the thirteenth day of the twelfth month (that is, the month of Adar), and to loot and plunder their possessions.
 [14] A copy of this edict was to be presented as law throughout every province; it was to be made known to all the inhabitants, so that they would be prepared for this day.
 [15] The messengers scurried forth with the king’s order. The edict was issued in Susa the citadel. While the king and Haman sat down to drink, the city of Susa was in an uproar.
-# Esther
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -109,7 +106,6 @@
 [15] Then Esther sent this reply to Mordecai:
 [16] “Go, assemble all the Jews who are found in Susa, and fast on my behalf. Don’t eat and don’t drink for three days, night or day. My female attendants and I will also fast in the same way. Afterward I will go to the king, even though it violates the law. If I perish, I perish.”
 [17] So Mordecai set out to do everything that Esther had instructed him.
-# Esther
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -133,7 +129,6 @@
 [12] Haman said, “Furthermore, Queen Esther invited only me to accompany the king to the banquet that she prepared. And also tomorrow I am invited along with the king.
 [13] Yet all this fails to satisfy me so long as I have to see Mordecai the Jew sitting at the king’s gate.”
 [14] Haman’s wife Zeresh and all his friends said to him, “Have a gallows 75 feet high built, and in the morning tell the king that Mordecai should be hanged on it. Then go with the king to the banquet contented.”
-# Esther
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -154,7 +149,6 @@
 [12] Then Mordecai again sat at the king’s gate, while Haman hurried away to his home, mournful and with a veil over his head.
 [13] Haman then related to his wife Zeresh and to all his friends everything that had happened to him. These wise men, along with his wife Zeresh, said to him, “If indeed this Mordecai before whom you have begun to fall is Jewish, you will not prevail against him. No, you will surely fall before him!”
 [14] While they were still speaking with him, the king’s eunuchs arrived. They quickly brought Haman to the banquet that Esther had prepared.
-# Esther
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -171,7 +165,6 @@
 [8] When the king returned from the palace garden to the banquet of wine, Haman was throwing himself down on the couch where Esther was lying. The king exclaimed, “Will he also attempt to rape the queen while I am still in the building?”
 [9] Harbona, one of the king’s eunuchs, said, “Indeed, there is the gallows that Haman made for Mordecai, who spoke out on the king’s behalf. It stands near Haman’s home and is 75 feet high.”
 [10] So they hanged Haman on the very gallows that he had prepared for Mordecai. The king’s rage then abated.
-# Esther
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -195,7 +188,6 @@
 [15] Now Mordecai went out from the king’s presence in blue and white royal attire, with a large golden crown and a purple linen mantle. The city of Susa shouted with joy.
 [16] For the Jews there was radiant happiness and joyous honor.
 [17] Throughout every province and throughout every city where the king’s edict and his law arrived, the Jews experienced happiness and joy, banquets and holidays. Many of the resident peoples pretended to be Jews, because the fear of the Jews had overcome them.
-# Esther
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -237,7 +229,6 @@
 [30] Letters were sent to all the Jews in the 127 provinces of the empire of Ahasuerus—words of true peace —
 [31] to establish these days of Purim in their proper times, just as Mordecai the Jew and Queen Esther had established, and just as they had established both for themselves and their descendants, matters pertaining to fasting and lamentation.
 [32] Esther’s command established these matters of Purim, and the matter was officially recorded.
-# Esther
 
 ## Chapter 10 <!-- scripture:10 -->
 

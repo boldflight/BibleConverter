@@ -46,7 +46,6 @@
 [27] God wanted to make known to them the glorious riches of this mystery among the Gentiles, which is Christ in you, the hope of glory.
 [28] We proclaim him by instructing and teaching all people with all wisdom so that we may present every person mature in Christ.
 [29] Toward this goal I also labor, struggling according to his power that powerfully works in me.
-# Colossians
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -76,7 +75,6 @@
 [21] “Do not handle! Do not taste! Do not touch!”
 [22] These are all destined to perish with use, founded as they are on human commands and teachings.
 [23] Even though they have the appearance of wisdom with their self-imposed worship and humility achieved by an unsparing treatment of the body—a wisdom with no true value—they in reality result in fleshly indulgence.
-# Colossians
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -103,7 +101,6 @@
 [15] Let the peace of Christ be in control in your heart (for you were in fact called as one body to this peace), and be thankful.
 [16] Let the word of Christ dwell in you richly, teaching and exhorting one another with all wisdom, singing psalms, hymns, and spiritual songs, all with grace in your hearts to God.
 [17] And whatever you do in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.
-# Colossians
 
 ## Chapter 4 <!-- scripture:4 -->
 

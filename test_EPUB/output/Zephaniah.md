@@ -67,7 +67,6 @@ their flesh will be scattered like manure.
 in the day of the Lord’s angry judgment.
 The whole earth will be consumed by his fiery wrath.
 Indeed, he will bring terrifying destruction on all who live on the earth.”
-# Zephaniah
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -130,7 +129,6 @@ the city that was so secure.
 She thought to herself, “I am unique! No one can compare to me!”
 What a heap of ruins she has become, a place where wild animals live!
 Everyone who passes by her taunts her and shakes his fist.
-# Zephaniah
 
 ## Chapter 3 <!-- scripture:3 -->
 

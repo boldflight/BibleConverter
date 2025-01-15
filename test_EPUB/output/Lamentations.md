@@ -149,7 +149,6 @@ just as you have afflicted me
 because of all my acts of rebellion.
 For my groans are many,
 and my heart is sick with sorrow.
-# Lamentations
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -293,7 +292,6 @@ On the day of the Lord’s anger
 no one escaped or survived.
 My enemy has finished off
 those healthy infants whom I bore and raised.
-# Lamentations
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -431,7 +429,6 @@ according to what they have done.
 may your curse be on them!
 [66] Pursue them in anger and eradicate them
 from under the Lord’s heaven.
-# Lamentations
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -532,7 +529,6 @@ you will get drunk and take off your clothes.
 he will not prolong your exile.
 But, O people of Edom, he will punish your sin
 and reveal your offenses!
-# Lamentations
 
 ## Chapter 5 <!-- scripture:5 -->
 

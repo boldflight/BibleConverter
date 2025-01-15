@@ -33,7 +33,6 @@
 [23] “Look! The virgin will conceive and give birth to a son, and they will name him Emmanuel,” which means “God with us.”
 [24] When Joseph awoke from sleep he did what the angel of the Lord told him. He took his wife,
 [25] but did not have marital relations with her until she gave birth to a son, whom he named Jesus.
-# Matthew
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -67,7 +66,6 @@
 [21] So he got up and took the child and his mother and returned to the land of Israel.
 [22] But when he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there. After being warned in a dream, he went to the regions of Galilee.
 [23] He came to a town called Nazareth and lived there. Then what had been spoken by the prophets was fulfilled, that Jesus would be called a Nazarene.
-# Matthew
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -94,7 +92,6 @@
 [15] So Jesus replied to him, “Let it happen now, for it is right for us to fulfill all righteousness.” Then John yielded to him.
 [16] After Jesus was baptized, just as he was coming up out of the water, the heavens opened and he saw the Spirit of God descending like a dove and coming to rest on him.
 [17] And a voice from heaven said, “This is my one dear Son; in him I take great delight.”
-# Matthew
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -133,7 +130,6 @@
 [23] Jesus went throughout all of Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every kind of disease and sickness among the people.
 [24] So a report about him spread throughout Syria. People brought to him all who suffered with various illnesses and afflictions, those who had seizures, paralytics, and those possessed by demons, and he healed them.
 [25] And large crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and beyond the Jordan River.
-# Matthew
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -211,7 +207,6 @@
 [46] For if you love those who love you, what reward do you have? Even the tax collectors do the same, don’t they?
 [47] And if you only greet your brothers, what more do you do? Even the Gentiles do the same, don’t they?
 [48] So then, be perfect, as your heavenly Father is perfect.
-# Matthew
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -266,7 +261,6 @@ may your will be done on earth as it is in heaven.
 [32] For the unconverted pursue these things, and your heavenly Father knows that you need them.
 [33] But above all pursue his kingdom and righteousness, and all these things will be given to you as well.
 [34] So then, do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own.
-# Matthew
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -317,7 +311,6 @@ may your will be done on earth as it is in heaven.
 [27] The rain fell, the flood came, and the winds beat against that house, and it collapsed—it was utterly destroyed!”
 [28] When Jesus finished saying these things, the crowds were amazed by his teaching,
 [29] because he taught them like one who had authority, not like their experts in the law.
-# Matthew
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -373,7 +366,6 @@ may your will be done on earth as it is in heaven.
 [32] And he said, “Go!” So they came out and went into the pigs, and the herd rushed down the steep slope into the lake and drowned in the water.
 [33] The herdsmen ran off, went into the town, and told everything that had happened to the demon-possessed men.
 [34] Then the entire town came out to meet Jesus. And when they saw him, they begged him to leave their region.
-# Matthew
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -433,7 +425,6 @@ may your will be done on earth as it is in heaven.
 [36] When he saw the crowds, he had compassion on them because they were bewildered and helpless, like sheep without a shepherd.
 [37] Then he said to his disciples, “The harvest is plentiful, but the workers are few.
 [38] Therefore ask the Lord of the harvest to send out workers into his harvest-ready fields.”
-# Matthew
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -494,7 +485,6 @@ may your will be done on earth as it is in heaven.
 [40] “Whoever receives you receives me, and whoever receives me receives the one who sent me.
 [41] Whoever receives a prophet in the name of a prophet will receive a prophet’s reward. Whoever receives a righteous person in the name of a righteous person will receive a righteous person’s reward.
 [42] And whoever gives only a cup of cold water to one of these little ones in the name of a disciple, I tell you the truth, he will never lose his reward.”
-# Matthew
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -536,7 +526,6 @@ we wailed in mourning, yet you did not weep.’
 [28] Come to me, all you who are weary and burdened, and I will give you rest.
 [29] Take my yoke on you and learn from me, because I am gentle and humble in heart, and you will find rest for your souls.
 [30] For my yoke is easy to bear, and my load is not hard to carry.”
-# Matthew
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -607,7 +596,6 @@ we wailed in mourning, yet you did not weep.’
 [48] To the one who had said this, Jesus replied, “Who is my mother and who are my brothers?”
 [49] And pointing toward his disciples he said, “Here are my mother and my brothers!
 [50] For whoever does the will of my Father in heaven is my brother and sister and mother.”
-# Matthew
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -692,7 +680,6 @@ we wailed in mourning, yet you did not weep.’
 [56] And aren’t all his sisters here with us? So where did he get all this?”
 [57] And so they took offense at him. But Jesus said to them, “A prophet is not without honor except in his hometown and in his own house.”
 [58] And he did not do many miracles there because of their unbelief.
-# Matthew
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -741,7 +728,6 @@ we wailed in mourning, yet you did not weep.’
 [34] After they had crossed over, they came to land at Gennesaret.
 [35] When the people there recognized him, they sent word into all the surrounding area, and they brought all their sick to him.
 [36] They begged him if they could only touch the edge of his cloak, and all who touched it were healed.
-# Matthew
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -797,7 +783,6 @@ we wailed in mourning, yet you did not weep.’
 [37] They all ate and were satisfied, and they picked up the broken pieces left over, seven baskets full.
 [38] Not counting children and women, there were 4,000 men who ate.
 [39] After sending away the crowd, he got into the boat and went to the region of Magadan.
-# Matthew
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -841,7 +826,6 @@ we wailed in mourning, yet you did not weep.’
 [26] For what does it benefit a person if he gains the whole world but forfeits his life? Or what can a person give in exchange for his life?
 [27] For the Son of Man will come with his angels in the glory of his Father, and then he will reward each person according to what he has done.
 [28] I tell you the truth, there are some standing here who will not experience death before they see the Son of Man coming in his kingdom.”
-# Matthew
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -883,7 +867,6 @@ we wailed in mourning, yet you did not weep.’
 [25] He said, “Yes.” When Peter came into the house, Jesus spoke to him first, “What do you think, Simon? From whom do earthly kings collect tolls or taxes—from their sons or from foreigners?”
 [26] After he said, “From foreigners,” Jesus said to him, “Then the sons are free.
 [27] But so that we don’t offend them, go to the lake and throw out a hook. Take the first fish that comes up, and when you open its mouth, you will find a four drachma coin. Take that and give it to them for me and you.”
-# Matthew
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -933,7 +916,6 @@ we wailed in mourning, yet you did not weep.’
 [33] Should you not have shown mercy to your fellow slave, just as I showed it to you?’
 [34] And in anger his lord turned him over to the prison guards to torture him until he repaid all he owed.
 [35] So also my heavenly Father will do to you, if each of you does not forgive your brother from your heart.”
-# Matthew
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -976,7 +958,6 @@ we wailed in mourning, yet you did not weep.’
 [28] Jesus said to them, “I tell you the truth: In the age when all things are renewed, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel.
 [29] And whoever has left houses or brothers or sisters or father or mother or children or fields for my sake will receive a hundred times as much and will inherit eternal life.
 [30] But many who are first will be last, and the last first.
-# Matthew
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -1026,7 +1007,6 @@ we wailed in mourning, yet you did not weep.’
 [32] Jesus stopped, called them, and said, “What do you want me to do for you?”
 [33] They said to him, “Lord, let our eyes be opened.”
 [34] Moved with compassion, Jesus touched their eyes. Immediately they received their sight and followed him.
-# Matthew
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -1093,7 +1073,6 @@ we wailed in mourning, yet you did not weep.’
 [44] The one who falls on this stone will be broken to pieces, and the one on whom it falls will be crushed.”
 [45] When the chief priests and the Pharisees heard his parables, they realized that he was speaking about them.
 [46] They wanted to arrest him, but they were afraid of the crowds, because the crowds regarded him as a prophet.
-# Matthew
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -1155,7 +1134,6 @@ we wailed in mourning, yet you did not weep.’
 [41] While the Pharisees were assembled, Jesus asked them a question:
 [42] “What do you think about the Christ? Whose son is he?” They said, “The son of David.”
 [43] He said to them, “How then does David by the Spirit call him ‘Lord,’ saying,
-# Matthew
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -1203,7 +1181,6 @@ we wailed in mourning, yet you did not weep.’
 [37] “O Jerusalem, Jerusalem, you who kill the prophets and stone those who are sent to you! How often I have longed to gather your children together as a hen gathers her chicks under her wings, but you would have none of it!
 [38] Look, your house is left to you desolate!
 [39] For I tell you, you will not see me from now until you say, ‘Blessed is the one who comes in the name of the Lord!’”
-# Matthew
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -1282,7 +1259,6 @@ we wailed in mourning, yet you did not weep.’
 [49] and he begins to beat his fellow slaves and to eat and drink with drunkards,
 [50] then the master of that slave will come on a day when he does not expect him and at an hour he does not foresee,
 [51] and will cut him in two, and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
-# Matthew
 
 ## Chapter 25 <!-- scripture:25 -->
 
@@ -1341,7 +1317,6 @@ we wailed in mourning, yet you did not weep.’
 [44] Then they too will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not give you whatever you needed?’
 [45] Then he will answer them, ‘I tell you the truth, just as you did not do it for one of the least of these, you did not do it for me.’
 [46] And these will depart into eternal punishment, but the righteous into eternal life.”
-# Matthew
 
 ## Chapter 26 <!-- scripture:26 -->
 
@@ -1446,7 +1421,6 @@ we wailed in mourning, yet you did not weep.’
 [73] After a little while, those standing there came up to Peter and said, “You really are one of them too—even your accent gives you away!”
 [74] At that he began to curse, and he swore with an oath, “I do not know the man!” At that moment a rooster crowed.
 [75] Then Peter remembered what Jesus had said: “Before the rooster crows, you will deny me three times.” And he went outside and wept bitterly.
-# Matthew
 
 ## Chapter 27 <!-- scripture:27 -->
 
@@ -1540,7 +1514,6 @@ we wailed in mourning, yet you did not weep.’
 [64] So give orders to secure the tomb until the third day. Otherwise his disciples may come and steal his body and say to the people, ‘He has been raised from the dead,’ and the last deception will be worse than the first.”
 [65] Pilate said to them, “Take a guard of soldiers. Go and make it as secure as you can.”
 [66] So they went with the soldiers of the guard and made the tomb secure by sealing the stone.
-# Matthew
 
 ## Chapter 28 <!-- scripture:28 -->
 

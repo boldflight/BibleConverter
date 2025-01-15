@@ -26,7 +26,6 @@
 [16] May the Lord grant mercy to the family of Onesiphorus, because he often refreshed me and was not ashamed of my imprisonment.
 [17] But when he arrived in Rome, he eagerly searched for me and found me.
 [18] May the Lord grant him to find mercy from the Lord on that day! And you know very well all the ways he served me in Ephesus.
-# 2 Timothy
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -64,7 +63,6 @@ If we deny him, he will also deny us.
 [24] And the Lord’s slave must not engage in heated disputes but be kind toward all, an apt teacher, patient,
 [25] correcting opponents with gentleness. Perhaps God will grant them repentance and then knowledge of the truth
 [26] and they will come to their senses and escape the devil’s trap where they are held captive to do his will.
-# 2 Timothy
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -91,7 +89,6 @@ If we deny him, he will also deny us.
 [15] and how from infancy you have known the holy writings, which are able to give you wisdom for salvation through faith in Christ Jesus.
 [16] Every scripture is inspired by God and useful for teaching, for reproof, for correction, and for training in righteousness,
 [17] that the person dedicated to God may be capable and equipped for every good work.
-# 2 Timothy
 
 ## Chapter 4 <!-- scripture:4 -->
 

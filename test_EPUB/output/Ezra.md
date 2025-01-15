@@ -24,7 +24,6 @@
 410 other silver bowls,
 and 1,000 other vessels.
 [11] All these gold and silver vessels totaled 5,400. Sheshbazzar brought them all along when the captives were brought up from Babylon to Jerusalem.
-# Ezra
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -101,7 +100,6 @@ and 1,000 other vessels.
 [68] When they came to the Lord’s temple in Jerusalem, some of the family leaders offered voluntary offerings for the temple of God in order to rebuild it on its site.
 [69] As they were able, they gave to the treasury for this work 61,000 drachmas of gold, 5,000 minas of silver, and 100 priestly robes.
 [70] The priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants lived in their towns, and all the rest of Israel lived in their towns.
-# Ezra
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -126,7 +124,6 @@ and 1,000 other vessels.
 his loyal love toward Israel is forever.”
 [12] Many of the priests, the Levites, and the leaders —older people who had seen with their own eyes the former temple while it was still established —were weeping loudly, and many others raised their voice in a joyous shout.
 [13] People were unable to tell the difference between the sound of joyous shouting and the sound of the people’s weeping, for the people were shouting so loudly that the sound was heard a long way off.
-# Ezra
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -160,7 +157,6 @@ his loyal love toward Israel is forever.”
 [22] Exercise appropriate caution so that there is no negligence in this matter. Why should danger increase to the point that the king sustains damage?”
 [23] Then, as soon as the copy of the letter from King Artaxerxes was read in the presence of Rehum, Shimshai the scribe, and their colleagues, they proceeded promptly to the Jews in Jerusalem and stopped them with threat of armed force.
 [24] So the work on the temple of God in Jerusalem came to a halt. It remained halted until the second year of the reign of King Darius of Persia.
-# Ezra
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -184,7 +180,6 @@ his loyal love toward Israel is forever.”
 [15] He said to him, “Take these vessels and go deposit them in the temple in Jerusalem, and let the house of God be rebuilt in its proper location.”
 [16] Then this Sheshbazzar went and laid the foundations of the temple of God in Jerusalem. From that time to the present moment it has been in the process of being rebuilt, although it is not yet finished.’
 [17] “Now if the king is so inclined, let a search be conducted in the royal archives there in Babylon in order to determine whether King Cyrus did in fact issue orders for this temple of God to be rebuilt in Jerusalem. Then let the king send us a decision concerning this matter.”
-# Ezra
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -216,7 +211,6 @@ his loyal love toward Israel is forever.”
 [20] The priests and the Levites had purified themselves, every last one, and they all were ceremonially pure. They sacrificed the Passover lamb for all the exiles, for their colleagues the priests, and for themselves.
 [21] The Israelites who were returning from the exile ate it, along with all those who had joined them in separating themselves from the uncleanness of the nations of the land to seek the Lord God of Israel.
 [22] They observed the Feast of Unleavened Bread for seven days with joy, for the Lord had given them joy and had changed the opinion of the king of Assyria toward them so that he assisted them in the work on the temple of God, the God of Israel.
-# Ezra
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -254,7 +248,6 @@ his loyal love toward Israel is forever.”
 [26] Everyone who does not observe both the law of your God and the law of the king will be completely liable to the appropriate penalty, whether it is death or banishment or confiscation of property or detainment in prison.”
 [27] Blessed be the Lord God of our fathers, who so moved in the heart of the king to so honor the temple of the Lord which is in Jerusalem!
 [28] He has also conferred his favor on me before the king, his advisers, and all the influential leaders of the king. I gained strength as the hand of the Lord my God was on me, and I gathered leaders from Israel to go up with me.
-# Ezra
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -300,7 +293,6 @@ his loyal love toward Israel is forever.”
 [34] Everything was verified by number and by weight, and the total weight was written down at that time.
 [35] The exiles who were returning from the captivity offered burnt offerings to the God of Israel—twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs, along with twelve male goats as a sin offering. All this was a burnt offering to the Lord.
 [36] Then they presented the decrees of the king to the king’s satraps and to the governors of Trans-Euphrates, who assisted the people and the temple of God.
-# Ezra
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -322,7 +314,6 @@ his loyal love toward Israel is forever.”
 [13] “Everything that has happened to us has come about because of our wicked actions and our great guilt. Even so, our God, you have exercised restraint toward our iniquities and have given us a remnant such as this.
 [14] Shall we once again break your commandments and intermarry with these abominable peoples? Would you not be so angered by us that you would wipe us out, with no survivor or remnant?
 [15] O Lord God of Israel, you are righteous, for we are left as a remnant this day. Indeed, we stand before you in our guilt. However, because of this guilt no one can really stand before you.”
-# Ezra
 
 ## Chapter 10 <!-- scripture:10 -->
 

@@ -76,7 +76,6 @@ A messenger is proclaiming deliverance:
 Fulfill your sacred vows to praise God!
 For never again will the wicked Assyrians invade you;
 they have been completely destroyed.”
-# Nahum
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -142,7 +141,6 @@ and his dens with torn flesh.
 the sword will devour your young lions.
 You will no longer prey upon the land;
 the voices of your messengers will no longer be heard.”
-# Nahum
 
 ## Chapter 3 <!-- scripture:3 -->
 

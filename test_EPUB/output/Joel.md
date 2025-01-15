@@ -76,7 +76,6 @@ flames have razed all the trees in the fields.
 [20] Even the wild animals cry out to you,
 for the river beds have dried up;
 fire has destroyed the pastures of the wilderness.
-# Joel
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -218,7 +217,6 @@ everyone who calls on the name of the Lord will be delivered.
 For on Mount Zion and in Jerusalem there will be those who survive,
 just as the Lord has promised;
 the remnant will be those whom the Lord will call.
-# Joel
 
 ## Chapter 3 <!-- scripture:3 -->
 

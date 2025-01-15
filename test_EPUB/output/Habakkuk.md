@@ -68,7 +68,6 @@ for because of them he has plenty of food,
 and more than enough to eat.
 [17] Will he then continue to fill and empty his throw net?
 Will he always destroy nations and spare none?
-# Habakkuk
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -144,7 +143,6 @@ It is overlaid with gold and silver;
 it has no life’s breath inside it.
 [20] But the Lord is in his majestic palace.
 The whole earth is speechless in his presence!”
-# Habakkuk
 
 ## Chapter 3 <!-- scripture:3 -->
 

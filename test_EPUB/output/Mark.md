@@ -67,7 +67,6 @@
 [43] Immediately Jesus sent the man away with a very strong warning.
 [44] He told him, “See that you do not say anything to anyone, but go, show yourself to a priest, and bring the offering that Moses commanded for your cleansing, as a testimony to them.”
 [45] But as the man went out he began to announce it publicly and spread the story widely, so that Jesus was no longer able to enter any town openly but stayed outside in remote places. Still they kept coming to him from everywhere.
-# Mark
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -111,7 +110,6 @@
 [26] how he entered the house of God when Abiathar was high priest and ate the sacred bread, which is against the law for any but the priests to eat, and also gave it to his companions?”
 [27] Then he said to them, “The Sabbath was made for people, not people for the Sabbath.
 [28] For this reason the Son of Man is lord even of the Sabbath.”
-# Mark
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -165,7 +163,6 @@
 [33] He answered them and said, “Who are my mother and my brothers?”
 [34] And looking at those who were sitting around him in a circle, he said, “Here are my mother and my brothers!
 [35] For whoever does the will of God is my brother and sister and mother.”
-# Mark
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -230,7 +227,6 @@
 [39] So he got up and rebuked the wind, and said to the sea, “Be quiet! Calm down!” Then the wind stopped, and it was dead calm.
 [40] And he said to them, “Why are you cowardly? Do you still not have faith?”
 [41] They were overwhelmed by fear and said to one another, “Who then is this? Even the wind and sea obey him!”
-# Mark
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -283,7 +279,6 @@
 [41] Then, gently taking the child by the hand, he said to her, “Talitha koum,” which means, “Little girl, I say to you, get up.”
 [42] The girl got up at once and began to walk around (she was twelve years old). They were completely astonished at this.
 [43] He strictly ordered that no one should know about this, and told them to give her something to eat.
-# Mark
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -361,7 +356,6 @@
 [54] As they got out of the boat, people immediately recognized Jesus.
 [55] They ran through that whole region and began to bring the sick on mats to wherever he was rumored to be.
 [56] And wherever he would go—into villages, towns, or countryside—they would place the sick in the marketplaces, and would ask him if they could just touch the edge of his cloak, and all who touched it were healed.
-# Mark
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -403,7 +397,6 @@
 [35] And immediately the man’s ears were opened, his tongue loosened, and he spoke plainly.
 [36] Jesus ordered them not to tell anyone. But as much as he ordered them not to do this, they proclaimed it all the more.
 [37] People were completely astounded and said, “He has done everything well. He even makes the deaf hear and the mute speak.”
-# Mark
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -458,7 +451,6 @@
 [31] Then Jesus began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests, and experts in the law, and be killed, and after three days rise again.
 [32] He spoke openly about this. So Peter took him aside and began to rebuke him.
 [33] But after turning and looking at his disciples, he rebuked Peter and said, “Get behind me, Satan. You are not setting your mind on God’s interests, but on man’s.”
-# Mark
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -533,7 +525,6 @@
 [48] where their worm never dies and the fire is never quenched.
 [49] Everyone will be salted with fire.
 [50] Salt is good, but if it loses its saltiness, how can you make it salty again? Have salt in yourselves, and be at peace with each other.”
-# Mark
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -607,7 +598,6 @@
 [50] He threw off his cloak, jumped up, and came to Jesus.
 [51] Then Jesus said to him, “What do you want me to do for you?” The blind man replied, “Rabbi, let me see again.”
 [52] Jesus said to him, “Go, your faith has healed you.” Immediately he regained his sight and followed him on the road.
-# Mark
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -658,7 +648,6 @@
 [31] They discussed with one another, saying, “If we say, ‘From heaven,’ he will say, ‘Then why did you not believe him?’
 [32] But if we say, ‘From people—’” (they feared the crowd, for they all considered John to be truly a prophet).
 [33] So they answered Jesus, “We don’t know.” Then Jesus said to them, “Neither will I tell you by what authority I am doing these things.”
-# Mark
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -724,7 +713,6 @@
 [42] And a poor widow came and put in two small copper coins, worth less than a penny.
 [43] He called his disciples and said to them, “I tell you the truth, this poor widow has put more into the offering box than all the others.
 [44] For they all gave out of their wealth. But she, out of her poverty, put in what she had to live on, everything she had.”
-# Mark
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -786,7 +774,6 @@
 [35] Stay alert, then, because you do not know when the owner of the house will return—whether during evening, at midnight, when the rooster crows, or at dawn—
 [36] or else he might find you asleep when he returns suddenly.
 [37] What I say to you I say to everyone: Stay alert!”
-# Mark
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -888,7 +875,6 @@
 [70] But he denied it again. A short time later the bystanders again said to Peter, “You must be one of them, because you are also a Galilean.”
 [71] Then he began to curse, and he swore with an oath, “I do not know this man you are talking about!”
 [72] Immediately a rooster crowed a second time. Then Peter remembered what Jesus had said to him: “Before a rooster crows twice, you will deny me three times.” And he broke down and wept.
-# Mark
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -956,7 +942,6 @@
 [45] When Pilate was informed by the centurion, he gave the body to Joseph.
 [46] After Joseph bought a linen cloth and took down the body, he wrapped it in the linen and placed it in a tomb cut out of the rock. Then he rolled a stone across the entrance of the tomb.
 [47] Mary Magdalene and Mary the mother of Joses saw where the body was placed.
-# Mark
 
 ## Chapter 16 <!-- scripture:16 -->
 

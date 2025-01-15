@@ -84,7 +84,6 @@ simpletons will kill them,
 and the careless ease of fools will destroy them.
 [33] But the one who listens to me will live in security,
 and will be at ease from the dread of harm.”
-# Proverbs
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -135,7 +134,6 @@ and will keep on the paths of the righteous.
 and those with integrity will remain in it,
 [22] but the wicked will be removed from the land,
 and the treacherous will be torn away from it.
-# Proverbs
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -219,7 +217,6 @@ but he blesses the home of the righteous.
 yet he shows favor to the humble.
 [35] The wise inherit honor,
 but he holds fools up to public contempt.
-# Proverbs
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -281,7 +278,6 @@ and let your gaze look straight before you.
 so that all your ways may be established.
 [27] Do not turn to the right or to the left;
 turn yourself away from evil.
-# Proverbs
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -335,7 +331,6 @@ and the Lord weighs all that person’s paths.
 and he will be held by the cords of his own sin.
 [23] He will die because there was no discipline;
 because of the greatness of his folly he will reel.
-# Proverbs
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -417,7 +412,6 @@ and his reproach will not be wiped away;
 and he will not show mercy when he takes revenge.
 [35] He will not consider any compensation;
 he will not be willing, even if you multiply the compensation.
-# Proverbs
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -481,7 +475,6 @@ do not wander into her pathways;
 and all those she has slain are many.
 [27] Her house is the way to the grave,
 going down to the chambers of death.
-# Proverbs
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -563,7 +556,6 @@ waiting beside my doorway.
 and received favor from the Lord.
 [36] But the one who misses me brings harm to himself;
 all who hate me love death.”
-# Proverbs
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -606,7 +598,6 @@ To those who lack understanding she has said,
 and food obtained in secret is pleasant!”
 [18] But they do not realize that the dead are there,
 that her guests are in the depths of the grave.
-# Proverbs
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -677,7 +668,6 @@ but the wicked will not inhabit the land.
 but the one who speaks perversion will be destroyed.
 [32] The lips of the righteous know what is pleasing,
 but the speech of the wicked is perverse.
-# Proverbs
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -743,7 +733,6 @@ and the fool will be a servant to the wise person.
 and the one who wins souls is wise.
 [31] If the righteous are recompensed on earth,
 how much more the wicked sinner!
-# Proverbs
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -803,7 +792,6 @@ but the way of the wicked leads them astray.
 but personal possessions are precious to the diligent.
 [28] In the path of righteousness there is life,
 but another path leads to death.
-# Proverbs
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -857,7 +845,6 @@ but it is swept away by injustice.
 but the one who loves his child is diligent in disciplining him.
 [25] The righteous has enough food to satisfy his appetite,
 but the belly of the wicked will be empty.
-# Proverbs
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -931,7 +918,6 @@ it is not known in the inner parts of fools.
 but sin is a disgrace to any people.
 [35] The king shows favor to a wise servant,
 but his wrath falls on one who acts shamefully.
-# Proverbs
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -1001,7 +987,6 @@ is at home among the wise.
 but whoever listens to reproof acquires understanding.
 [33] The fear of the Lord provides wise instruction,
 and before honor comes humility.
-# Proverbs
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -1071,7 +1056,6 @@ it is attained in the path of righteousness.
 and one who controls his temper is better than one who captures a city.
 [33] The dice are thrown into the lap,
 but their every decision is from the Lord.
-# Proverbs
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -1132,7 +1116,6 @@ and to flog honorable men is wrong.
 and the one who stays calm is discerning.
 [28] Even a fool who remains silent is considered wise,
 and the one who holds his tongue is deemed discerning.
-# Proverbs
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -1184,7 +1167,6 @@ and obtained a delightful gift from the Lord.
 but a rich man answers harshly.
 [24] There are companions who harm one another,
 but there is a friend who sticks closer than a brother.
-# Proverbs
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -1247,7 +1229,6 @@ you will stray from the words of knowledge.
 and the mouth of the wicked devours iniquity.
 [29] Penalties have been prepared for scorners,
 and floggings for the backs of fools.
-# Proverbs
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -1311,7 +1292,6 @@ and his throne is upheld by loyal love.
 and the splendor of old men is gray hair.
 [30] Beatings and wounds cleanse away evil,
 and floggings cleanse the innermost being.
-# Proverbs
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -1377,7 +1357,6 @@ but as for the upright, he establishes his ways.
 and there is no counsel against the Lord.
 [31] A horse is prepared for the day of battle,
 but the victory is from the Lord.
-# Proverbs
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -1443,7 +1422,6 @@ that was put in place by your ancestors.
 [29] You have seen a person skilled in his work—
 he will take his position before kings;
 he will not take his position before obscure people.
-# Proverbs
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -1522,7 +1500,6 @@ and like one who lies down on the top of the rigging.
 [35] You will say, “They have struck me, but I am not harmed!
 They beat me, but I did not know it!
 When will I awake? I will look for another drink.”
-# Proverbs
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -1601,7 +1578,6 @@ I saw; I took in a lesson:
 a little folding of the hands to relax,
 [34] and your poverty will come like a bandit,
 and your need like an armed robber.”
-# Proverbs
 
 ## Chapter 25 <!-- scripture:25 -->
 
@@ -1666,7 +1642,6 @@ so is a righteous person who gives way before the wicked.
 nor is it honorable for people to seek their own glory.
 [28] Like a city that is broken down and without a wall,
 so is a person who cannot control his temper.
-# Proverbs
 
 ## Chapter 26 <!-- scripture:26 -->
 
@@ -1726,7 +1701,6 @@ his evil will be uncovered in the assembly.
 the one who rolls a stone—it will come back on him.
 [28] A lying tongue hates those crushed by it,
 and a flattering mouth works ruin.
-# Proverbs
 
 ## Chapter 27 <!-- scripture:27 -->
 
@@ -1787,7 +1761,6 @@ and the goats will be for the price of a field.
 [27] And there will be enough goat’s milk for your food,
 for the food of your household,
 and for the sustenance of your servant girls.
-# Proverbs
 
 ## Chapter 28 <!-- scripture:28 -->
 
@@ -1848,7 +1821,6 @@ but the one who walks in wisdom will escape.
 but whoever shuts his eyes to them will receive many curses.
 [28] When the wicked gain control, people hide themselves,
 but when they perish, the righteous increase.
-# Proverbs
 
 ## Chapter 29 <!-- scripture:29 -->
 
@@ -1906,7 +1878,6 @@ but whoever trusts in the Lord will be set on high.
 but it is from the Lord that one receives justice.
 [27] An unjust person is an abomination to the righteous,
 and the one who lives an upright life is an abomination to the wicked.
-# Proverbs
 
 ## Chapter 30 <!-- scripture:30 -->
 
@@ -1997,7 +1968,6 @@ put your hand over your mouth!
 [33] For as the churning of milk produces butter
 and as punching the nose produces blood,
 so stirring up anger produces strife.
-# Proverbs
 
 ## Chapter 31 <!-- scripture:31 -->
 

@@ -38,7 +38,6 @@
 [25] But the one who peers into the perfect law of liberty and fixes his attention there, and does not become a forgetful listener but one who lives it out—he will be blessed in what he does.
 [26] If someone thinks he is religious yet does not bridle his tongue, and so deceives his heart, his religion is futile.
 [27] Pure and undefiled religion before God the Father is this: to care for orphans and widows in their adversity and to keep oneself unstained by the world.
-# James
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -74,7 +73,6 @@
 [24] You see that a person is justified by works and not by faith alone.
 [25] And similarly, was not Rahab the prostitute also justified by works when she welcomed the messengers and sent them out by another way?
 [26] For just as the body without the spirit is dead, so also faith without works is dead.
-# James
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -102,7 +100,6 @@
 [16] For where there is jealousy and selfishness, there is disorder and every evil practice.
 [17] But the wisdom from above is first pure, then peaceable, gentle, accommodating, full of mercy and good fruit, impartial, and not hypocritical.
 [18] And the fruit that consists of righteousness is planted in peace among those who make peace.
-# James
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -126,7 +123,6 @@
 [15] You ought to say instead, “If the Lord is willing, then we will live and do this or that.”
 [16] But as it is, you boast about your arrogant plans. All such boasting is evil.
 [17] So whoever knows what is good to do and does not do it is guilty of sin.
-# James
 
 ## Chapter 5 <!-- scripture:5 -->
 

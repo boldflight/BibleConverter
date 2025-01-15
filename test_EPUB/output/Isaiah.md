@@ -131,7 +131,6 @@ like an orchard that is unwatered.
 their deeds like a spark;
 both will burn together,
 and no one will put out the fire.
-# Isaiah
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -219,7 +218,6 @@ when he rises up to terrify the earth.
 [22] Stop trusting in human beings,
 whose life’s breath is in their nostrils.
 For why should they be given special consideration?
-# Isaiah
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -304,7 +302,6 @@ and a prisoner’s brand will replace beauty.
 your strong men will die in battle.
 [26] Her gates will mourn and lament;
 deprived of her people, she will sit on the ground.
-# Isaiah
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -336,7 +333,6 @@ and a bright flame of fire by night;
 indeed a canopy will accompany the Lord’s glorious presence.
 [6] By day it will be a shelter to provide shade from the heat,
 as well as safety and protection from the heavy downpour.
-# Isaiah
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -453,7 +449,6 @@ they drag it away and no one can come to the rescue.
 it will sound like sea waves crashing against rocks.
 One will look out over the land and see the darkness of disaster,
 clouds will turn the light into darkness.
-# Isaiah
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -486,7 +481,6 @@ it will again be destroyed,
 like one of the large sacred trees or an Asherah pole,
 when a sacred pillar on a high place is thrown down.
 That sacred pillar symbolizes the special chosen family.”
-# Isaiah
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -525,7 +519,6 @@ then you will not remain secure.’”
 [23] At that time every place where there had been 1,000 vines worth 1,000 silver shekels will be overrun with thorns and briers.
 [24] With bow and arrow people will hunt there, for the whole land will be covered with thorns and briers.
 [25] They will stay away from all the hills that were cultivated for fear of the thorns and briers. Cattle will graze there, and sheep will trample on them.
-# Isaiah
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -571,7 +564,6 @@ seal the official record of God’s instructions and give it to my followers.
 [17] I will wait patiently for the Lord,
 who has rejected the family of Jacob;
 I will wait for him.
-# Isaiah
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -670,7 +662,6 @@ and Ephraim against Manasseh;
 together they fought against Judah.
 Despite all this, his anger does not subside,
 and his hand is ready to strike again.
-# Isaiah
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -770,7 +761,6 @@ The tallest trees will be cut down,
 the loftiest ones will be brought low.
 [34] The thickets of the forest will be chopped down with an ax,
 and mighty Lebanon will fall.
-# Isaiah
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -832,7 +822,6 @@ and enable them to walk across in their sandals.
 for the remnant of his people,
 just as there was for Israel,
 when they went up from the land of Egypt.
-# Isaiah
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -855,7 +844,6 @@ Make it known that he is unique.
 let this be known throughout the earth.
 [6] Cry out and shout for joy, O citizens of Zion,
 for the Holy One of Israel acts mightily among you!”
-# Isaiah
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -938,7 +926,6 @@ wild goats will skip among the ruins.
 jackals will yelp in the once-splendid palaces.
 Her time is almost up,
 her days will not be prolonged.
-# Isaiah
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -1050,7 +1037,6 @@ and there are no stragglers in its ranks.
 [32] How will they respond to the messengers of this nation?
 Indeed, the Lord has made Zion secure;
 the oppressed among his people will find safety in her.
-# Isaiah
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -1091,7 +1077,6 @@ their wailing can be heard in Eglaim and Beer Elim.
 Indeed, I will heap even more trouble on Dimon.
 A lion will attack the Moabite fugitives
 and the people left in the land.
-# Isaiah
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -1142,7 +1127,6 @@ my inner being sighs for Kir Hareseth.
 and enter their temples to pray, their prayers will be ineffective.
 [13] This is the message the Lord previously announced about Moab.
 [14] Now the Lord makes this announcement: “Within exactly three years Moab’s splendor will disappear, along with all her many people; there will be only a few insignificant survivors left.”
-# Isaiah
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -1201,7 +1185,6 @@ or like dead thistles before a strong gale.
 by morning they vanish.
 This is the fate of those who try to plunder us,
 the destiny of those who try to loot us!
-# Isaiah
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -1240,7 +1223,6 @@ a people that are feared far and wide,
 a nation strong and victorious,
 whose land rivers divide.
 The tribute will be brought to the place where the Lord of Heaven’s Armies has chosen to reside, on Mount Zion.
-# Isaiah
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -1304,7 +1286,6 @@ head or tail, shoots or stalk.
 [23] At that time there will be a highway from Egypt to Assyria. The Assyrians will visit Egypt, and the Egyptians will visit Assyria. The Egyptians and Assyrians will worship together.
 [24] At that time Israel will be the third member of the group, along with Egypt and Assyria, and will be a recipient of blessing in the earth.
 [25] The Lord of Heaven’s Armies will pronounce a blessing over the earth, saying, “Blessed be my people, Egypt, and the work of my hands, Assyria, and my special possession, Israel!”
-# Isaiah
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -1314,7 +1295,6 @@ head or tail, shoots or stalk.
 [4] so the king of Assyria will lead away the captives of Egypt and the exiles of Cush, both young and old. They will be in undergarments and barefoot, with the buttocks exposed; the Egyptians will be publicly humiliated.
 [5] Those who put their hope in Cush and took pride in Egypt will be afraid and embarrassed.
 [6] At that time those who live on this coast will say, ‘Look what has happened to our source of hope to whom we fled for help, expecting to be rescued from the king of Assyria! How can we escape now?’”
-# Isaiah
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -1396,7 +1376,6 @@ and from the battle-ready bow,
 and from the severity of the battle.
 [16] For this is what the Lord has told me: “Within exactly one year all the splendor of Kedar will come to an end.
 [17] Just a handful of archers, the warriors of Kedar, will be left.” Indeed, the Lord God of Israel has spoken.
-# Isaiah
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -1468,7 +1447,6 @@ you will be thrown down from your position.
 [23] I will fasten him like a peg into a solid place; he will bring honor and respect to his father’s family.
 [24] His father’s family will gain increasing prominence because of him, including the offspring and the offshoots. All the small containers, including the bowls and all the jars, will hang from this peg.’
 [25] “At that time,” says the Lord of Heaven’s Armies, “the peg fastened into a solid place will come loose. It will be cut off and fall, and the load hanging on it will be cut off.” Indeed, the Lord has spoken.
-# Isaiah
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -1532,7 +1510,6 @@ play lots of songs,
 so you’ll be noticed.”
 [17] At the end of seventy years the Lord will revive Tyre. She will start making money again by selling her services to all the earth’s kingdoms.
 [18] Her profits and earnings will be set apart for the Lord. They will not be stored up or accumulated, for her profits will be given to those who live in the Lord’s presence and will be used to purchase large quantities of food and beautiful clothes.
-# Isaiah
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -1619,7 +1596,6 @@ the bright sun will be darkened;
 for the Lord of Heaven’s Armies will rule
 on Mount Zion in Jerusalem
 in the presence of his assembly, in majestic splendor.
-# Isaiah
 
 ## Chapter 25 <!-- scripture:25 -->
 
@@ -1665,7 +1641,6 @@ just as a swimmer spreads his hands to swim;
 the Lord will bring down Moab’s pride as it spreads its hands.
 [12] The fortified city (along with the very tops of your walls) he will knock down,
 he will bring it down, he will throw it down to the dusty ground.
-# Isaiah
 
 ## Chapter 26 <!-- scripture:26 -->
 
@@ -1742,7 +1717,6 @@ until his angry judgment is over.
 to punish the sin of those who live on the earth.
 The earth will display the blood shed on it;
 it will no longer cover up its slain.
-# Isaiah
 
 ## Chapter 27 <!-- scripture:27 -->
 
@@ -1788,7 +1762,6 @@ therefore the one who made them has no compassion on them;
 the one who formed them has no mercy on them.
 [12] At that time the Lord will shake the tree, from the Euphrates River to the Stream of Egypt. Then you will be gathered up one by one, O Israelites.
 [13] At that time a large trumpet will be blown, and the ones lost in the land of Assyria will come, as well as the refugees in the land of Egypt. They will worship the Lord on the holy mountain in Jerusalem.
-# Isaiah
 
 ## Chapter 28 <!-- scripture:28 -->
 
@@ -1907,7 +1880,6 @@ The wheel of one’s wagon rolls over it,
 but his horses do not crush it.
 [29] This also comes from the Lord of Heaven’s Armies,
 who gives supernatural guidance and imparts great wisdom.
-# Isaiah
 
 ## Chapter 29 <!-- scripture:29 -->
 
@@ -2000,7 +1972,6 @@ They will honor the Holy One of Jacob;
 they will respect the God of Israel.
 [24] Those who stray morally will gain understanding;
 those who complain will acquire insight.
-# Isaiah
 
 ## Chapter 30 <!-- scripture:30 -->
 
@@ -2135,7 +2106,6 @@ it has been made deep and wide for the king.
 The firewood is piled high on it.
 The Lord’s breath, like a stream flowing with brimstone,
 will ignite it.
-# Isaiah
 
 ## Chapter 31 <!-- scripture:31 -->
 
@@ -2184,7 +2154,6 @@ their officers will be afraid of the Lord’s battle flag.”
 This is what the Lord says—
 the one whose fire is in Zion,
 whose firepot is in Jerusalem.
-# Isaiah
 
 ## Chapter 32 <!-- scripture:32 -->
 
@@ -2258,7 +2227,6 @@ and the city is annihilated,
 [20] you will be blessed,
 you who plant seed by all the banks of the streams,
 you who let your ox and donkey graze.
-# Isaiah
 
 ## Chapter 33 <!-- scripture:33 -->
 
@@ -2349,7 +2317,6 @@ at that time you will divide up a great quantity of loot;
 even the lame will drag off plunder.
 [24] No resident of Zion will say, “I am ill”;
 the people who live there will have their sin forgiven.
-# Isaiah
 
 ## Chapter 34 <!-- scripture:34 -->
 
@@ -2421,7 +2388,6 @@ and his own spirit gathers them.
 he measures out their assigned place.
 They will live there permanently;
 they will settle in it through successive generations.
-# Isaiah
 
 ## Chapter 35 <!-- scripture:35 -->
 
@@ -2466,7 +2432,6 @@ They will enter Zion with a happy shout.
 Unending joy will crown them,
 happiness and joy will overwhelm them;
 grief and suffering will disappear.
-# Isaiah
 
 ## Chapter 36 <!-- scripture:36 -->
 
@@ -2495,7 +2460,6 @@ grief and suffering will disappear.
 [20] Who among all the gods of these lands have rescued their lands from my power? So how can the Lord rescue Jerusalem from my power?’”
 [21] They were silent and did not respond, for the king had ordered, “Don’t respond to him.”
 [22] Eliakim son of Hilkiah, the palace supervisor, accompanied by Shebna the scribe and Joah son of Asaph, the secretary, went to Hezekiah with their clothes torn and reported to him what the chief adviser had said.
-# Isaiah
 
 ## Chapter 37 <!-- scripture:37 -->
 
@@ -2577,7 +2541,6 @@ for the sake of my reputation and because of my promise to David my servant.”
 [36] The angel of the Lord went out and killed 185,000 troops in the Assyrian camp. When they got up early the next morning, there were all the corpses!
 [37] So King Sennacherib of Assyria broke camp and went on his way. He went home and stayed in Nineveh.
 [38] One day, as he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer struck him down with the sword. They ran away to the land of Ararat; his son Esarhaddon replaced him as king.
-# Isaiah
 
 ## Chapter 38 <!-- scripture:38 -->
 
@@ -2631,7 +2594,6 @@ A father tells his sons about your faithfulness.
 [20] The Lord is about to deliver me,
 and we will celebrate with music
 for the rest of our lives in the Lord’s temple.”
-# Isaiah
 
 ## Chapter 39 <!-- scripture:39 -->
 
@@ -2646,7 +2608,6 @@ for the rest of our lives in the Lord’s temple.”
 [6] ‘Look, a time is coming when everything in your palace and the things your ancestors have accumulated to this day will be carried away to Babylon; nothing will be left,’ says the Lord.
 [7] ‘Some of your very own descendants whom you father will be taken away and will be made eunuchs in the palace of the king of Babylon.’”
 [8] Hezekiah said to Isaiah, “The Lord’s message that you have announced is appropriate.” Then he thought, “For there will be peace and stability during my lifetime.”
-# Isaiah
 
 ## Chapter 40 <!-- scripture:40 -->
 
@@ -2763,7 +2724,6 @@ even strong young men clumsily stumble.
 they rise up as if they had eagles’ wings,
 they run without growing weary,
 they walk without getting tired.
-# Isaiah
 
 ## Chapter 41 <!-- scripture:41 -->
 
@@ -2875,7 +2835,6 @@ that I might ask questions and receive answers.
 [29] Look, all of them are nothing,
 their accomplishments are nonexistent;
 their metal images lack any real substance.
-# Isaiah
 
 ## Chapter 42 <!-- scripture:42 -->
 
@@ -2974,7 +2933,6 @@ they disobeyed his law.
 along with the devastation of war.
 Its flames encircled them, but they did not realize it;
 it burned against them, but they did not take it to heart.
-# Isaiah
 
 ## Chapter 43 <!-- scripture:43 -->
 
@@ -3085,7 +3043,6 @@ your spokesmen rebelled against me.
 [28] So I defiled your holy princes,
 and handed Jacob over to destruction,
 and subjected Israel to humiliating abuse.
-# Isaiah
 
 ## Chapter 44 <!-- scripture:44 -->
 
@@ -3214,7 +3171,6 @@ I will dry up your sea currents,’
 to carry out all my wishes
 and to decree concerning Jerusalem, ‘She will be rebuilt,’
 and concerning the temple, ‘It will be reconstructed.’
-# Isaiah
 
 ## Chapter 45 <!-- scripture:45 -->
 
@@ -3335,7 +3291,6 @@ every tongue will solemnly affirm;
 All who are angry at him will cower before him.
 [25] All the descendants of Israel will be vindicated by the Lord
 and will boast in him.
-# Isaiah
 
 ## Chapter 46 <!-- scripture:46 -->
 
@@ -3389,7 +3344,6 @@ you who distance yourselves from doing what is right.
 I am bringing my salvation near, it does not wait.
 I will save Zion;
 I will adorn Israel with my splendor.
-# Isaiah
 
 ## Chapter 47 <!-- scripture:47 -->
 
@@ -3469,7 +3423,6 @@ no firelight to enjoy.
 those you have so faithfully dealt with since your youth.
 Each strays off in his own direction,
 leaving no one to rescue you.”
-# Isaiah
 
 ## Chapter 48 <!-- scripture:48 -->
 
@@ -3558,7 +3511,6 @@ Say, ‘The Lord protects his servant Jacob.
 he makes water flow out of a rock for them;
 he splits open a rock and water flows out.’
 [22] There will be no prosperity for the wicked,” says the Lord.
-# Isaiah
 
 ## Chapter 49 <!-- scripture:49 -->
 
@@ -3678,7 +3630,6 @@ they will get drunk on their own blood, as if it were wine.
 Then all humankind will recognize that
 I am the Lord, your Deliverer,
 your Protector, the Powerful One of Jacob.”
-# Isaiah
 
 ## Chapter 50 <!-- scripture:50 -->
 
@@ -3735,7 +3686,6 @@ walk in the light of the fire you started
 and among the flaming arrows you ignited!
 This is what you will receive from me:
 you will lie down in a place of pain.
-# Isaiah
 
 ## Chapter 51 <!-- scripture:51 -->
 
@@ -3848,7 +3798,6 @@ You will no longer have to drink it.
 who said to you, ‘Lie down, so we can walk over you.’
 You made your back like the ground,
 and like the street for those who walked over you.”
-# Isaiah
 
 ## Chapter 52 <!-- scripture:52 -->
 
@@ -3911,7 +3860,6 @@ his form was so marred he no longer looked human —
 Kings will be shocked by his exaltation,
 for they will witness something unannounced to them,
 and they will understand something they had not heard about.
-# Isaiah
 
 ## Chapter 53 <!-- scripture:53 -->
 
@@ -3963,7 +3911,6 @@ because he willingly submitted to death
 and was numbered with the rebels,
 when he lifted up the sin of many
 and intervened on behalf of the rebels.”
-# Isaiah
 
 ## Chapter 54 <!-- scripture:54 -->
 
@@ -4030,7 +3977,6 @@ you will refute everyone who tries to accuse you.
 This is what the Lord will do for his servants—
 I will vindicate them,”
 says the Lord.
-# Isaiah
 
 ## Chapter 55 <!-- scripture:55 -->
 
@@ -4085,7 +4031,6 @@ and all the trees in the field will clap their hands.
 firs will grow in place of nettles;
 they will be a monument to the Lord,
 a permanent reminder that will remain.
-# Isaiah
 
 ## Chapter 56 <!-- scripture:56 -->
 
@@ -4143,7 +4088,6 @@ each one looking for monetary gain.
 Let’s guzzle some beer!
 Tomorrow will be just like today!
 We’ll have everything we want!’
-# Isaiah
 
 ## Chapter 57 <!-- scripture:57 -->
 
@@ -4222,7 +4166,6 @@ says the Lord, “and I will heal them.
 that is unable to be quiet;
 its waves toss up mud and sand.
 [21] There will be no prosperity,” says my God, “for the wicked.”
-# Isaiah
 
 ## Chapter 58 <!-- scripture:58 -->
 
@@ -4293,7 +4236,6 @@ and by refraining from your selfish pursuits and from making business deals.
 and I will give you great prosperity,
 and cause crops to grow on the land I gave to your ancestor Jacob.”
 Know for certain that the Lord has spoken.
-# Isaiah
 
 ## Chapter 59 <!-- scripture:59 -->
 
@@ -4382,7 +4324,6 @@ driven on by wind sent from the Lord.
 [20] “A protector comes to Zion,
 to those in Jacob who repent of their rebellious deeds,” says the Lord.
 [21] “As for me, this is my promise to them,” says the Lord. “My Spirit, who is upon you, and my words, which I have placed in your mouth, will not depart from your mouth or from the mouths of your children and descendants from this time forward,” says the Lord.
-# Isaiah
 
 ## Chapter 60 <!-- scripture:60 -->
 
@@ -4474,7 +4415,6 @@ through whom I reveal my splendor.
 [22] The least of you will multiply into a thousand;
 the smallest of you will become a large nation.
 When the right time comes, I the Lord will quickly do this!”
-# Isaiah
 
 ## Chapter 61 <!-- scripture:61 -->
 
@@ -4528,7 +4468,6 @@ I look like a bride when she puts on her jewelry.
 and a garden yields its produce,
 so the Sovereign Lord will cause deliverance to grow,
 and give his people reason to praise him in the sight of all the nations.
-# Isaiah
 
 ## Chapter 62 <!-- scripture:62 -->
 
@@ -4584,7 +4523,6 @@ and his reward goes before him!’”
 the Ones Protected by the Lord.”
 You will be called, “Sought After,
 City Not Abandoned.”
-# Isaiah
 
 ## Chapter 63 <!-- scripture:63 -->
 
@@ -4663,7 +4601,6 @@ but then our adversaries knocked down your holy sanctuary.
 [19] We existed from ancient times,
 but you did not rule over them;
 they were not your subjects.
-# Isaiah
 
 ## Chapter 64 <!-- scripture:64 -->
 
@@ -4705,7 +4642,6 @@ has been burned with fire;
 all our prized possessions have been destroyed.
 [12] In light of all this, how can you still hold back, Lord?
 How can you be silent and continue to humiliate us?
-# Isaiah
 
 ## Chapter 65 <!-- scripture:65 -->
 
@@ -4809,7 +4745,6 @@ a lion, like an ox, will eat straw,
 and a snake’s food will be dirt.
 They will no longer injure or destroy
 on my entire royal mountain,” says the Lord.
-# Isaiah
 
 ## Chapter 66 <!-- scripture:66 -->
 

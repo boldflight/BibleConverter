@@ -113,7 +113,6 @@ the dawn will break upon us from on high
 [79] to give light to those who sit in darkness and in the shadow of death,
 to guide our feet into the way of peace.”
 [80] And the child kept growing and becoming strong in spirit, and he was in the wilderness until the day he was revealed to Israel.
-# Luke
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -190,7 +189,6 @@ and for glory to your people Israel.”
 [50] Yet his parents did not understand the remark he made to them.
 [51] Then he went down with them and came to Nazareth, and was obedient to them. But his mother kept all these things in her heart.
 [52] And Jesus increased in wisdom and in stature, and in favor with God and with people.
-# Luke
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -239,7 +237,6 @@ and for glory to your people Israel.”
 [36] the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,
 [37] the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Kenan,
 [38] the son of Enosh, the son of Seth, the son of Adam, the son of God.
-# Luke
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -297,7 +294,6 @@ and for glory to your people Israel.”
 [42] The next morning Jesus departed and went to a deserted place. Yet the crowds were seeking him, and they came to him and tried to keep him from leaving them.
 [43] But Jesus said to them, “I must proclaim the good news of the kingdom of God to the other towns too, for that is what I was sent to do.”
 [44] So he continued to preach in the synagogues of Judea.
-# Luke
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -355,7 +351,6 @@ and for glory to your people Israel.”
 [37] And no one pours new wine into old wineskins. If he does, the new wine will burst the skins and will be spilled, and the skins will be destroyed.
 [38] Instead new wine must be poured into new wineskins.
 [39] No one after drinking old wine wants the new, for he says, ‘The old is good enough.’”
-# Luke
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -425,7 +420,6 @@ and for glory to your people Israel.”
 [47] “Everyone who comes to me and listens to my words and puts them into practice —I will show you what he is like:
 [48] He is like a man building a house, who dug down deep, and laid the foundation on bedrock. When a flood came, the river burst against that house but could not shake it, because it had been well built.
 [49] But the person who hears and does not put my words into practice is like a man who built a house on the ground without a foundation. When the river burst against that house, it collapsed immediately, and was utterly destroyed!”
-# Luke
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -490,7 +484,6 @@ we wailed in mourning, yet you did not weep.’
 [48] Then Jesus said to her, “Your sins are forgiven.”
 [49] But those who were at the table with him began to say among themselves, “Who is this, who even forgives sins?”
 [50] He said to the woman, “Your faith has saved you; go in peace.”
-# Luke
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -571,7 +564,6 @@ we wailed in mourning, yet you did not weep.’
 [54] But Jesus gently took her by the hand and said, “Child, get up.”
 [55] Her spirit returned, and she got up immediately. Then he told them to give her something to eat.
 [56] Her parents were astonished, but he ordered them to tell no one what had happened.
-# Luke
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -673,7 +665,6 @@ we wailed in mourning, yet you did not weep.’
 [60] But Jesus said to him, “Let the dead bury their own dead, but as for you, go and proclaim the kingdom of God.”
 [61] Yet another said, “I will follow you, Lord, but first let me say goodbye to my family.”
 [62] Jesus said to him, “No one who puts his hand to the plow and looks back is fit for the kingdom of God.”
-# Luke
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -728,7 +719,6 @@ we wailed in mourning, yet you did not weep.’
 [40] But Martha was distracted with all the preparations she had to make, so she came up to him and said, “Lord, don’t you care that my sister has left me to do all the work alone? Tell her to help me.”
 [41] But the Lord answered her, “Martha, Martha, you are worried and troubled about many things,
 [42] but one thing is needed. Mary has chosen the best part; it will not be taken away from her.”
-# Luke
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -808,7 +798,6 @@ And do not lead us into temptation.”
 [52] Woe to you experts in religious law! You have taken away the key to knowledge! You did not go in yourselves, and you hindered those who were going in.”
 [53] When he went out from there, the experts in the law and the Pharisees began to oppose him bitterly, and to ask him hostile questions about many things,
 [54] plotting against him, to catch him in something he might say.
-# Luke
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -892,7 +881,6 @@ And do not lead us into temptation.”
 [57] “And why don’t you judge for yourselves what is right?
 [58] As you are going with your accuser before the magistrate, make an effort to settle with him on the way, so that he will not drag you before the judge, and the judge hand you over to the officer, and the officer throw you into prison.
 [59] I tell you, you will never get out of there until you have paid the very last cent!”
-# Luke
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -949,7 +937,6 @@ And do not lead us into temptation.”
 [33] Nevertheless I must go on my way today and tomorrow and the next day, because it is impossible that a prophet should be killed outside Jerusalem.’
 [34] O Jerusalem, Jerusalem, you who kill the prophets and stone those who are sent to you! How often I have longed to gather your children together as a hen gathers her chicks under her wings, but you would have none of it!
 [35] Look, your house is forsaken! And I tell you, you will not see me until you say, ‘Blessed is the one who comes in the name of the Lord!’”
-# Luke
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -1000,7 +987,6 @@ And do not lead us into temptation.”
 [33] In the same way therefore not one of you can be my disciple if he does not renounce all his own possessions.
 [34] “Salt is good, but if salt loses its flavor, how can its flavor be restored?
 [35] It is of no value for the soil or for the manure pile; it is to be thrown out. The one who has ears to hear had better listen!”
-# Luke
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -1042,7 +1028,6 @@ And do not lead us into temptation.”
 [30] But when this son of yours came back, who has devoured your assets with prostitutes, you killed the fattened calf for him!’
 [31] Then the father said to him, ‘Son, you are always with me, and everything that belongs to me is yours.
 [32] It was appropriate to celebrate and be glad, for your brother was dead, and is alive; he was lost and is found.’”
-# Luke
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -1086,7 +1071,6 @@ And do not lead us into temptation.”
 [29] But Abraham said, ‘They have Moses and the prophets; they must respond to them.’
 [30] Then the rich man said, ‘No, father Abraham, but if someone from the dead goes to them, they will repent.’
 [31] He replied to him, ‘If they do not respond to Moses and the prophets, they will not be convinced even if someone rises from the dead.’”
-# Luke
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -1138,7 +1122,6 @@ And do not lead us into temptation.”
 [34] I tell you, in that night there will be two people in one bed; one will be taken and the other left.
 [35] There will be two women grinding grain together; one will be taken and the other left.”
 [37] Then the disciples said to him, “Where, Lord?” He replied to them, “Where the dead body is, there the vultures will gather.”
-# Luke
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -1203,7 +1186,6 @@ And do not lead us into temptation.”
 [41] “What do you want me to do for you?” He replied, “Lord, let me see again.”
 [42] Jesus said to him, “Receive your sight; your faith has healed you.”
 [43] And immediately he regained his sight and followed Jesus, praising God. When all the people saw it, they too gave praise to God.
-# Luke
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -1270,7 +1252,6 @@ And do not lead us into temptation.”
 [46] saying to them, “It is written, ‘My house will be a house of prayer,’ but you have turned it into a den of robbers!”
 [47] Jesus was teaching daily in the temple courts. The chief priests and the experts in the law and the prominent leaders among the people were seeking to assassinate him,
 [48] but they could not find a way to do it, for all the people hung on his words.
-# Luke
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -1337,7 +1318,6 @@ And do not lead us into temptation.”
 [45] As all the people were listening, Jesus said to his disciples,
 [46] “Beware of the experts in the law. They like walking around in long robes, and they love elaborate greetings in the marketplaces and the best seats in the synagogues and the places of honor at banquets.
 [47] They devour widows’ property, and as a show make long prayers. They will receive a more severe punishment.”
-# Luke
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -1400,7 +1380,6 @@ And do not lead us into temptation.”
 [36] But stay alert at all times, praying that you may have strength to escape all these things that must happen, and to stand before the Son of Man.”
 [37] So every day Jesus was teaching in the temple courts, but at night he went and stayed on the Mount of Olives.
 [38] And all the people came to him early in the morning to listen to him in the temple courts.
-# Luke
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -1496,7 +1475,6 @@ And do not lead us into temptation.”
 [69] But from now on the Son of Man will be seated at the right hand of the power of God.”
 [70] So they all said, “Are you the Son of God, then?” He answered them, “You say that I am.”
 [71] Then they said, “Why do we need further testimony? We have heard it ourselves from his own lips!”
-# Luke
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -1570,7 +1548,6 @@ And do not lead us into temptation.”
 [54] It was the day of preparation and the Sabbath was beginning.
 [55] The women who had accompanied Jesus from Galilee followed, and they saw the tomb and how his body was laid in it.
 [56] Then they returned and prepared aromatic spices and perfumes.
-# Luke
 
 ## Chapter 24 <!-- scripture:24 -->
 

@@ -164,8 +164,10 @@ struct BibleConverter: ParsableCommand {
             if let h1 = try document.select("h1").first() {
                 bookName = try h1.text().components(separatedBy: "Chapter")[0].trimmingCharacters(in: .whitespacesAndNewlines)
                 let chapterNumber = try h1.text().components(separatedBy: "Chapter")[1].trimmingCharacters(in: .whitespacesAndNewlines)
-                markdown += "# \(bookName)\n\n"
-                markdown += "## Chapter \(chapterNumber) <!-- scripture:\(chapterNumber) -->\n\n"
+                if chapterNumber == "1" {
+                    markdown += "# \(bookName)\n"
+                }
+                markdown += "\n## Chapter \(chapterNumber) <!-- scripture:\(chapterNumber) -->\n\n"
             }
             
             let elements = try document.select("p.paragraphtitle, p.bodytext, p.poetry, p.sosspeaker")

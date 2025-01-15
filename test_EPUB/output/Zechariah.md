@@ -41,7 +41,6 @@
 [19] So I asked the angelic messenger who spoke with me, “What are these?” He replied, “These are the horns that have scattered Judah, Israel, and Jerusalem.”
 [20] Next the Lord showed me four blacksmiths.
 [21] I asked, “What are these going to do?” He answered, “These horns are the ones that have scattered Judah so that there is no one to be seen. But the blacksmiths have come to terrify Judah’s enemies and cut off the horns of the nations that have thrust themselves against the land of Judah in order to scatter its people.”
-# Zechariah
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -61,7 +60,6 @@
 [11] “Many nations will join themselves to the Lord on the day of salvation, and they will also be my people. Indeed, I will settle in the midst of you all. Then you will know that the Lord of Heaven’s Armies has sent me to you.
 [12] The Lord will take possession of Judah as his portion in the holy land and he will choose Jerusalem once again.
 [13] Be silent in the Lord’s presence, all people everywhere, for he is being moved to action in his holy dwelling place.”
-# Zechariah
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -78,7 +76,6 @@
 [8] Listen now, Joshua the high priest, both you and your colleagues who are sitting before you, all of you are a symbol that I am about to introduce my servant, the Branch.
 [9] As for the stone I have set before Joshua—on the one stone there are seven eyes. I am about to engrave an inscription on it,’ says the Lord of Heaven’s Armies, ‘to the effect that I will remove the iniquity of this land in a single day.
 [10] In that day,’ says the Lord of Heaven’s Armies, ‘everyone will invite his friend to fellowship under his vine and under his fig tree.’”
-# Zechariah
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -102,7 +99,6 @@
 [12] Before he could reply I asked again, “What are these two extensions of the olive trees, which are emptying out the golden oil through the two golden pipes?”
 [13] He replied, “Don’t you know what these are?” And I said, “No, sir.”
 [14] So he said, “These are the two anointed ones who stand by the Lord of the whole earth.”
-# Zechariah
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -123,7 +119,6 @@
 [9] Then I looked again and saw two women going forth with the wind in their wings (they had wings like those of a stork), and they lifted up the basket between the earth and the sky.
 [10] I asked the messenger who was speaking to me, “Where are they taking the basket?”
 [11] He replied, “To build a temple for her in the land of Babylonia. When it is finished, she will be placed there in her own residence.”
-# Zechariah
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -148,7 +143,6 @@
 [13] Indeed, he will build the temple of the Lord, and he will be clothed in splendor, sitting as king on his throne. Moreover, there will be a priest with him on his throne and they will see eye to eye on everything.
 [14] The crown will then be turned over to Helem, Tobijah, Jedaiah, and Hen son of Zephaniah as a memorial in the temple of the Lord.
 [15] Then those who are far away will come and build the temple of the Lord so that you may know that the Lord of Heaven’s Armies has sent me to you. This will all come to pass if you completely obey the voice of the Lord your God.”’”
-# Zechariah
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -169,7 +163,6 @@
 [12] Indeed, they made their hearts as hard as diamond, so that they could not obey the law of Moses and the other words the Lord of Heaven’s Armies had sent by his Spirit through the former prophets. Therefore, the Lord of Heaven’s Armies poured out great wrath.
 [13] “‘Just as I called out, but they would not obey, so they will call out, but I will not listen,’ the Lord of Heaven’s Armies says.
 [14] ‘Rather, I will sweep them away in a storm into all the nations they are not familiar with.’ Thus the land became desolate because of them, with no one crossing through or returning, for they had made the fruitful land a waste.”
-# Zechariah
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -199,7 +192,6 @@
 [21] The inhabitants of one will go to another and say, “Let’s go up at once to ask the favor of the Lord, to seek the Lord of Heaven’s Armies. Indeed, I’ll go with you.”’
 [22] Many peoples and powerful nations will come to Jerusalem to seek the Lord of Heaven’s Armies and to ask his favor.
 [23] The Lord of Heaven’s Armies says, ‘In those days ten people from all languages and nations will grasp hold of—indeed, grab—the robe of one Jew and say, “Let us go with you, for we have heard that God is with you.”’”
-# Zechariah
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -233,7 +225,6 @@ and from the Euphrates River to the ends of the earth.
 [15] The Lord of Heaven’s Armies will guard them, and they will prevail and overcome with sling stones. Then they will drink and will become noisy like drunkards, full like the sacrificial basin or like the corners of the altar.
 [16] On that day the Lord their God will deliver them as the flock of his people, for they are the precious stones of a crown sparkling over his land.
 [17] How precious and fair! Grain will make the young men flourish, and new wine the young women.
-# Zechariah
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -252,7 +243,6 @@ and from the Euphrates River to the ends of the earth.
 [10] I will bring them back from Egypt and gather them from Assyria. I will bring them to the lands of Gilead and Lebanon, and there will not be enough room for them.
 [11] The Lord will cross the sea of storms and will calm its turbulence. The depths of the Nile will dry up, the pride of Assyria will be humbled, and the domination of Egypt will be no more.
 [12] Thus I will strengthen them by my power, and they will walk about in my name,” says the Lord.
-# Zechariah
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -288,7 +278,6 @@ who abandons the flock!
 May a sword fall on his arm and his right eye!
 May his arm wither completely away,
 and his right eye become completely blind!”
-# Zechariah
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -309,7 +298,6 @@ and his right eye become completely blind!”
 [12] The land will mourn, each clan by itself—the clan of the royal household of David by itself and their wives by themselves; the clan of the family of Nathan by itself and their wives by themselves;
 [13] the clan of the descendants of Levi by itself and their wives by themselves; and the clan of the Shimeites by itself and their wives by themselves;
 [14] all the clans that remain, each separately with their wives.
-# Zechariah
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -336,7 +324,6 @@ and will test them like gold is tested.
 They will call on my name and I will answer;
 I will say, ‘These are my people,’
 and they will say, ‘The Lord is our God.’”
-# Zechariah
 
 ## Chapter 14 <!-- scripture:14 -->
 

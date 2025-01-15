@@ -45,7 +45,6 @@
 [29] so that no one can boast in his presence.
 [30] He is the reason you have a relationship with Christ Jesus, who became for us wisdom from God, and righteousness and sanctification and redemption,
 [31] so that, as it is written, “Let the one who boasts, boast in the Lord.”
-# 1 Corinthians
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -68,7 +67,6 @@
 [14] The unbeliever does not receive the things of the Spirit of God, for they are foolishness to him. And he cannot understand them, because they are spiritually discerned.
 [15] The one who is spiritual discerns all things, yet he himself is understood by no one.
 [16] For who has known the mind of the Lord, so as to advise him? But we have the mind of Christ.
-# 1 Corinthians
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -98,7 +96,6 @@
 [21] So then, no more boasting about mere mortals! For everything belongs to you,
 [22] whether Paul or Apollos or Cephas or the world or life or death or the present or the future. Everything belongs to you,
 [23] and you belong to Christ, and Christ belongs to God.
-# 1 Corinthians
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -129,7 +126,6 @@
 [19] But I will come to you soon, if the Lord is willing, and I will find out not only the talk of these arrogant people, but also their power.
 [20] For the kingdom of God is demonstrated not in idle talk but with power.
 [21] What do you want? Shall I come to you with a rod of discipline or with love and a spirit of gentleness?
-# 1 Corinthians
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -149,7 +145,6 @@
 [11] But now I am writing to you not to associate with anyone who calls himself a Christian who is sexually immoral, or greedy, or an idolater, or verbally abusive, or a drunkard, or a swindler. Do not even eat with such a person.
 [12] For what do I have to do with judging those outside? Are you not to judge those inside?
 [13] But God will judge those outside. Remove the evil person from among you.
-# 1 Corinthians
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -179,7 +174,6 @@
 [18] Flee sexual immorality! “Every sin a person commits is outside of the body” —but the immoral person sins against his own body.
 [19] Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own?
 [20] For you were bought at a price. Therefore glorify God with your body.
-# 1 Corinthians
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -232,7 +226,6 @@
 [38] So then, the one who marries his own virgin does well, but the one who does not, does better.
 [39] A wife is bound as long as her husband is living. But if her husband dies, she is free to marry anyone she wishes (only someone in the Lord).
 [40] But in my opinion, she will be happier if she remains as she is—and I think that I too have the Spirit of God!
-# 1 Corinthians
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -252,7 +245,6 @@
 [11] So by your knowledge the weak brother or sister, for whom Christ died, is destroyed.
 [12] If you sin against your brothers or sisters in this way and wound their weak conscience, you sin against Christ.
 [13] For this reason, if food causes my brother or sister to sin, I will never eat meat again, so that I may not cause one of them to sin.
-# 1 Corinthians
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -286,7 +278,6 @@
 [25] Each competitor must exercise self-control in everything. They do it to receive a perishable crown, but we an imperishable one.
 [26] So I do not run uncertainly or box like one who hits only air.
 [27] Instead I subdue my body and make it my slave, so that after preaching to others I myself will not be disqualified.
-# 1 Corinthians
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -318,7 +309,6 @@
 [20] No, I mean that what the pagans sacrifice is to demons and not to God. I do not want you to be partners with demons.
 [21] You cannot drink the cup of the Lord and the cup of demons. You cannot take part in the table of the Lord and the table of demons.
 [22] Or are we trying to provoke the Lord to jealousy? Are we really stronger than he is?
-# 1 Corinthians
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -376,7 +366,6 @@
 [32] But when we are judged by the Lord, we are disciplined so that we may not be condemned with the world.
 [33] So then, my brothers and sisters, when you come together to eat, wait for one another.
 [34] If anyone is hungry, let him eat at home, so that when you assemble it does not lead to judgment. I will give directions about other matters when I come.
-# 1 Corinthians
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -417,7 +406,6 @@
 [29] Not all are apostles, are they? Not all are prophets, are they? Not all are teachers, are they? Not all perform miracles, do they?
 [30] Not all have gifts of healing, do they? Not all speak in tongues, do they? Not all interpret, do they?
 [31] But you should be eager for the greater gifts.
-# 1 Corinthians
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -437,7 +425,6 @@
 [11] When I was a child, I talked like a child, I thought like a child, I reasoned like a child. But when I became an adult, I set aside childish ways.
 [12] For now we see in a mirror indirectly, but then we will see face to face. Now I know in part, but then I will know fully, just as I have been fully known.
 [13] And now these three remain: faith, hope, and love. But the greatest of these is love.
-# 1 Corinthians
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -487,7 +474,6 @@
 [38] If someone does not recognize this, he is not recognized.
 [39] So then, brothers and sisters, be eager to prophesy, and do not forbid anyone from speaking in tongues.
 [40] And do everything in a decent and orderly manner.
-# 1 Corinthians
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -554,7 +540,6 @@
 [52] in a moment, in the blinking of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we will be changed.
 [53] For this perishable body must put on the imperishable, and this mortal body must put on immortality.
 [54] Now when this perishable puts on the imperishable, and this mortal puts on immortality, then the saying that is written will happen,
-# 1 Corinthians
 
 ## Chapter 16 <!-- scripture:16 -->
 

@@ -23,7 +23,6 @@
 [16] Elijah said to the king, “This is what the Lord has said, ‘You sent messengers to seek an oracle from Baal Zebub, the god of Ekron. Is it because there is no God in Israel from whom you can seek a message? Therefore you will not leave the bed you lie on, for you will certainly die.’”
 [17] And he did die in keeping with the Lord’s message that he had spoken through Elijah. In the second year of the reign of King Jehoram son of Jehoshaphat over Judah, Ahaziah’s brother Jehoram replaced him as king of Israel, because he had no son.
 [18] The rest of the events of Ahaziah’s reign, including his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
-# 2 Kings
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -58,7 +57,6 @@
 [23] He went up from there to Bethel. As he was traveling up the road, some young boys came out of the city and made fun of him, saying, “Go on up, baldy! Go on up, baldy!”
 [24] When he turned around and saw them, he called God’s judgment down on them. Two female bears came out of the woods and ripped forty-two of the boys to pieces.
 [25] From there he traveled to Mount Carmel and then back to Samaria.
-# 2 Kings
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -92,7 +90,6 @@
 [25] They tore down the cities, and each man threw a stone into every cultivated field until they were covered. They stopped up every spring and chopped down every productive tree.
 [26] When the king of Moab realized he was losing the battle, he and 700 swordsmen tried to break through and attack the king of Edom, but they failed.
 [27] So he took his firstborn son, who was to succeed him as king, and offered him up as a burnt sacrifice on the wall. There was an outburst of divine anger against Israel, so they broke off the attack and returned to their homeland.
-# 2 Kings
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -152,7 +149,6 @@
 [42] Now a man from Baal Shalisha brought some food for the prophet —twenty loaves of bread made from the firstfruits of the barley harvest, as well as fresh ears of grain. Elisha said, “Set it before the people so they may eat.”
 [43] But his attendant said, “How can I feed a hundred men with this?” He replied, “Set it before the people so they may eat, for this is what the Lord has said, ‘They will eat and have some left over.’”
 [44] So he set it before them; they ate and had some left over, just as in the Lord’s message.
-# 2 Kings
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -186,7 +182,6 @@
 [25] When he came and stood before his master, Elisha asked him, “Where have you been, Gehazi?” He answered, “Your servant hasn’t been anywhere.”
 [26] Elisha replied, “I was there in spirit when a man turned and got down from his chariot to meet you. This is not the proper time to accept silver or to accept clothes, olive groves, vineyards, sheep, cattle, and male and female servants.
 [27] Therefore Naaman’s skin disease will afflict you and your descendants forever!” When Gehazi went out from his presence, his skin was as white as snow.
-# 2 Kings
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -230,7 +225,6 @@
 [29] So we boiled my son and ate him. Then I said to her the next day, ‘Hand over your son and we’ll eat him.’ But she hid her son!”
 [30] When the king heard what the woman said, he tore his clothes. As he was passing by on the wall, the people could see he was wearing sackcloth under his clothes.
 [31] Then he said, “May God judge me severely if Elisha son of Shaphat still has his head by the end of the day!”
-# 2 Kings
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -256,7 +250,6 @@
 [18] The prophet had told the king, “Two seahs of barley will sell for a shekel, and a seah of finely milled flour for a shekel; this will happen about this time tomorrow in the gate of Samaria.”
 [19] But the officer had replied to the prophet, “Look, even if the Lord made it rain by opening holes in the sky, could this happen so soon?” Elisha had said, “Look, you will see it happen with your own eyes, but you will not eat any of the food!”
 [20] This is exactly what happened to him. The people trampled him to death in the city gate.
-# 2 Kings
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -301,7 +294,6 @@
 [27] He followed in the footsteps of Ahab’s dynasty and did evil in the sight of the Lord, as Ahab’s dynasty had done, for he was related to Ahab’s family.
 [28] He joined Ahab’s son Joram in a battle against King Hazael of Syria at Ramoth Gilead in which the Syrians defeated Joram.
 [29] King Joram returned to Jezreel to recover from the wounds he received from the Syrians in Ramah when he fought against King Hazael of Syria. King Ahaziah son of Jehoram of Judah went down to visit Joram son of Ahab in Jezreel, for he was ill.
-# 2 Kings
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -348,7 +340,6 @@
 [35] But when they went to bury her, they found nothing left but the skull, feet, and palms of the hands.
 [36] So they went back and told him. Then he said, “It is the fulfillment of the Lord’s message that he had spoken through his servant, Elijah the Tishbite, ‘In the plot of land at Jezreel, dogs will devour Jezebel’s flesh.
 [37] Jezebel’s corpse will be like manure on the surface of the ground in the plot of land at Jezreel. People will not be able to even recognize her.’”
-# 2 Kings
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -397,7 +388,6 @@
 [34] The rest of the events of Jehu’s reign, including all his accomplishments and successes, are recorded in the scroll called the Annals of the Kings of Israel.
 [35] Jehu passed away and was buried in Samaria. His son Jehoahaz replaced him as king.
 [36] Jehu reigned over Israel for twenty-eight years in Samaria.
-# 2 Kings
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -424,7 +414,6 @@
 [18] All the people of the land went and demolished the temple of Baal. They smashed its altars and idols to bits. They killed Mattan the priest of Baal in front of the altar. Jehoiada the priest then placed guards at the Lord’s temple.
 [19] He took the officers of the units of hundreds, the Carians, the royal bodyguard, and all the people of the land, and together they led the king down from the Lord’s temple. They entered the royal palace through the Gate of the Royal Bodyguard, and the king sat down on the royal throne.
 [20] All the people of the land celebrated, for the city had rest now that they had killed Athaliah with the sword in the royal palace.
-# 2 Kings
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -453,7 +442,6 @@
 [19] The rest of the events of Joash’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah.
 [20] His servants conspired against him and murdered Joash at Beth Millo, on the road that goes down to Silla.
 [21] His servants Jozabad son of Shimeath and Jehozabad son of Shomer murdered him. He was buried with his ancestors in the City of David. His son Amaziah replaced him as king.
-# 2 Kings
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -491,7 +479,6 @@
 [23] But the Lord had mercy on them and felt pity for them. He extended his favor to them because of the promise he had made to Abraham, Isaac, and Jacob. He has been unwilling to destroy them or remove them from his presence to this very day.
 [24] When King Hazael of Syria died, his son Ben Hadad replaced him as king.
 [25] Jehoahaz’s son Jehoash took back from Ben Hadad son of Hazael the cities that he had taken from his father Jehoahaz in war. Jehoash defeated him three times and recovered the Israelite cities.
-# 2 Kings
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -530,7 +517,6 @@
 [27] The Lord had not decreed that he would blot out Israel’s memory from under heaven, so he delivered them through Jeroboam son of Joash.
 [28] The rest of the events of Jeroboam’s reign, including all his accomplishments, his military success in restoring Israelite control over Damascus and Hamath, are recorded in the scroll called the Annals of the Kings of Israel.
 [29] Jeroboam passed away and was buried in Samaria with the kings of Israel. His son Zechariah replaced him as king.
-# 2 Kings
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -590,7 +576,6 @@
 [36] The rest of the events of Jotham’s reign, including his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah.
 [37] In those days the Lord prompted King Rezin of Syria and Pekah son of Remaliah to attack Judah.
 [38] Jotham passed away and was buried with his ancestors in the city of his ancestor David. His son Ahaz replaced him as king.
-# 2 Kings
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -617,7 +602,6 @@
 [18] He also removed the Sabbath awning that had been built in the temple and the king’s outer entranceway to the Lord’s temple, on account of the king of Assyria.
 [19] The rest of the events of Ahaz’s reign, including his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah.
 [20] Ahaz passed away and was buried with his ancestors in the City of David. His son Hezekiah replaced him as king.
-# 2 Kings
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -671,7 +655,6 @@
 [39] Instead you must worship the Lord your God; then he will rescue you from the power of all your enemies.”
 [40] But they paid no attention; instead they observed their earlier practices.
 [41] These nations were worshiping the Lord and at the same time serving their idols; their sons and grandsons are doing just as their fathers have done, to this very day.
-# 2 Kings
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -717,7 +700,6 @@
 [34] Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim, Hena, and Ivvah? Indeed, did any gods rescue Samaria from my power?
 [35] Who among all the gods of the lands has rescued their lands from my power? So how can the Lord rescue Jerusalem from my power?’”
 [36] The people were silent and did not respond, for the king had ordered, “Don’t respond to him.”
-# 2 Kings
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -800,7 +782,6 @@ He will not enter this city,” says the Lord.
 [35] That very night the angel of the Lord went out and killed 185,000 in the Assyrian camp. When they got up early the next morning, there were all the corpses.
 [36] So King Sennacherib of Assyria broke camp and went on his way. He went home and stayed in Nineveh.
 [37] One day, as he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer struck him down with the sword. They escaped to the land of Ararat; his son Esarhaddon replaced him as king.
-# 2 Kings
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -831,7 +812,6 @@ He will not enter this city,” says the Lord.
 [19] Hezekiah said to Isaiah, “The Lord’s message which you have announced is appropriate.” Then he added, “At least there will be peace and stability during my lifetime.”
 [20] The rest of the events of Hezekiah’s reign and all his accomplishments, including how he built a pool and conduit to bring water into the city, are recorded in the scroll called the Annals of the Kings of Judah.
 [21] Hezekiah passed away and his son Manasseh replaced him as king.
-# 2 Kings
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -867,7 +847,6 @@ He will not enter this city,” says the Lord.
 [24] The people of the land executed all those who had conspired against King Amon, and they made his son Josiah king in his place.
 [25] The rest of Amon’s accomplishments are recorded in the scroll called the Annals of the Kings of Judah.
 [26] He was buried in his tomb in the garden of Uzzah, and his son Josiah replaced him as king.
-# 2 Kings
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -894,7 +873,6 @@ He will not enter this city,” says the Lord.
 [18] Say this to the king of Judah, who sent you to seek an oracle from the Lord: “This is what the Lord God of Israel has said concerning the words you have heard:
 [19] ‘You displayed a sensitive spirit and humbled yourself before the Lord when you heard how I intended to make this place and its residents into an appalling example of an accursed people. You tore your clothes and wept before me, and I have heard you,’ says the Lord.
 [20] ‘Therefore I will allow you to die and be buried in peace. You will not have to witness all the disaster I will bring on this place.’”’” Then they reported back to the king.
-# 2 Kings
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -944,7 +922,6 @@ He will not enter this city,” says the Lord.
 
 [36] Jehoiakim was twenty-five years old when he became king, and he reigned for eleven years in Jerusalem. His mother was Zebidah the daughter of Pedaiah, from Rumah.
 [37] He did evil in the sight of the Lord as his ancestors had done.
-# 2 Kings
 
 ## Chapter 24 <!-- scripture:24 -->
 
@@ -973,7 +950,6 @@ He will not enter this city,” says the Lord.
 
 [18] Zedekiah was twenty-one years old when he became king, and he ruled for eleven years in Jerusalem. His mother was Hamutal, the daughter of Jeremiah, from Libnah.
 [19] He did evil in the sight of the Lord, as Jehoiakim had done.
-# 2 Kings
 
 ## Chapter 25 <!-- scripture:25 -->
 

@@ -33,7 +33,6 @@
 [20] For every one of God’s promises are “Yes” in him; therefore also through him the “Amen” is spoken, to the glory we give to God.
 [21] But it is God who establishes us together with you in Christ and who anointed us,
 [22] who also sealed us and gave us the Spirit in our hearts as a down payment.
-# 2 Corinthians
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -62,7 +61,6 @@
 [15] For we are a sweet aroma of Christ to God among those who are being saved and among those who are perishing—
 [16] to the latter an odor from death to death, but to the former a fragrance from life to life. And who is adequate for these things?
 [17] For we are not like so many others, hucksters who peddle the word of God for profit, but we are speaking in Christ before God as persons of sincerity, as persons sent from God.
-# 2 Corinthians
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -90,7 +88,6 @@
 [16] but when one turns to the Lord, the veil is removed.
 [17] Now the Lord is the Spirit, and where the Spirit of the Lord is present, there is freedom.
 [18] And we all, with unveiled faces reflecting the glory of the Lord, are being transformed into the same image from one degree of glory to another, which is from the Lord, who is the Spirit.
-# 2 Corinthians
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -118,7 +115,6 @@
 [16] Therefore we do not despair, but even if our physical body is wearing away, our inner person is being renewed day by day.
 [17] For our momentary, light suffering is producing for us an eternal weight of glory far beyond all comparison
 [18] because we are not looking at what can be seen but at what cannot be seen. For what can be seen is temporary, but what cannot be seen is eternal.
-# 2 Corinthians
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -149,7 +145,6 @@
 [19] In other words, in Christ God was reconciling the world to himself, not counting people’s trespasses against them, and he has given us the message of reconciliation.
 [20] Therefore we are ambassadors for Christ, as though God were making his plea through us. We plead with you on Christ’s behalf, “Be reconciled to God!”
 [21] God made the one who did not know sin to be sin for us, so that in him we would become the righteousness of God.
-# 2 Corinthians
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -177,7 +172,6 @@
 [16] And what mutual agreement does the temple of God have with idols? For we are the temple of the living God, just as God said, “I will live in them and will walk among them, and I will be their God, and they will be my people.”
 [17] Therefore “come out from their midst, and be separate,” says the Lord, “and touch no unclean thing, and I will welcome you,
 [18] and I will be a father to you, and you will be my sons and daughters,” says the All-Powerful Lord.
-# 2 Corinthians
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -203,7 +197,6 @@
 [14] For if I have boasted to him about anything concerning you, I have not been embarrassed by you, but just as everything we said to you was true, so our boasting to Titus about you has proved true as well.
 [15] And his affection for you is much greater when he remembers the obedience of you all, how you welcomed him with fear and trembling.
 [16] I rejoice because in everything I am fully confident in you.
-# 2 Corinthians
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -237,7 +230,6 @@
 [22] And we are sending with them our brother whom we have tested many times and found eager in many matters, but who now is much more eager than ever because of the great confidence he has in you.
 [23] If there is any question about Titus, he is my partner and fellow worker among you; if there is any question about our brothers, they are messengers of the churches, a glory to Christ.
 [24] Therefore show them openly before the churches the proof of your love and of our pride in you.
-# 2 Corinthians
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -259,7 +251,6 @@
 [13] Through the evidence of this service they will glorify God because of your obedience to your confession in the gospel of Christ and the generosity of your sharing with them and with everyone.
 [14] And in their prayers on your behalf, they long for you because of the extraordinary grace God has shown to you.
 [15] Thanks be to God for his indescribable gift!
-# 2 Corinthians
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -287,7 +278,6 @@
 [16] so that we may preach the gospel in the regions that lie beyond you, and not boast of work already done in another person’s area.
 [17] But the one who boasts must boast in the Lord.
 [18] For it is not the person who commends himself who is approved, but the person the Lord commends.
-# 2 Corinthians
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -330,7 +320,6 @@
 [31] The God and Father of the Lord Jesus, who is blessed forever, knows I am not lying.
 [32] In Damascus, the governor under King Aretas was guarding the city of Damascus in order to arrest me,
 [33] but I was let down in a rope-basket through a window in the city wall, and escaped his hands.
-# 2 Corinthians
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -361,7 +350,6 @@
 [19] Have you been thinking all this time that we have been defending ourselves to you? We are speaking in Christ before God, and everything we do, dear friends, is to build you up.
 [20] For I am afraid that somehow when I come I will not find you what I wish, and you will find me not what you wish. I am afraid that somehow there may be quarreling, jealousy, intense anger, selfish ambition, slander, gossip, arrogance, and disorder.
 [21] I am afraid that when I come again, my God may humiliate me before you, and I will grieve for many of those who previously sinned and have not repented of the impurity, sexual immorality, and licentiousness that they have practiced.
-# 2 Corinthians
 
 ## Chapter 13 <!-- scripture:13 -->
 

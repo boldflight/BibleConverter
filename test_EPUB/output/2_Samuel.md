@@ -53,7 +53,6 @@ You were very dear to me.
 Your love was more special to me than the love of women.
 [27] How the warriors have fallen!
 The weapons of war are destroyed!
-# 2 Samuel
 
 ## Chapter 2 <!-- scripture:2 -->
 
@@ -92,7 +91,6 @@ The weapons of war are destroyed!
 [27] Joab replied, “As surely as God lives, if you had not said this, it would have been morning before the people would have abandoned pursuit of their brothers.”
 [28] Then Joab blew the ram’s horn and all the people stopped in their tracks. They stopped chasing Israel and ceased fighting.
 [29] Abner and his men went through the rift valley all that night. They crossed the Jordan River and went through the whole region of Bitron and came to Mahanaim.
-# 2 Samuel
 
 ## Chapter 3 <!-- scripture:3 -->
 
@@ -147,7 +145,6 @@ You fell the way one falls before criminals.”
 [37] All the people and all Israel realized on that day that the killing of Abner son of Ner was not done at the king’s instigation.
 [38] Then the king said to his servants, “Do you not realize that a great leader has fallen this day in Israel?
 [39] Today I am weak, even though I am anointed as king. These men, the sons of Zeruiah, are too much for me to bear! May the Lord punish appropriately the one who has done this evil thing!”
-# 2 Samuel
 
 ## Chapter 4 <!-- scripture:4 -->
 
@@ -166,7 +163,6 @@ You fell the way one falls before criminals.”
 [10] when someone told me that Saul was dead—even though he thought he was bringing good news —I seized him and killed him in Ziklag. That was the good news I gave to him!
 [11] Surely when wicked men have killed an innocent man as he slept in his own house, should I not now require his blood from your hands and remove you from the earth?”
 [12] So David issued orders to the soldiers and they put them to death. Then they cut off their hands and feet and hung them near the pool in Hebron. But they took the head of Ish Bosheth and buried it in the tomb of Abner in Hebron.
-# 2 Samuel
 
 ## Chapter 5 <!-- scripture:5 -->
 
@@ -204,7 +200,6 @@ You fell the way one falls before criminals.”
 [23] So David asked the Lord what he should do. This time the Lord said to him, “Don’t march straight up. Instead, circle around behind them and come against them opposite the trees.
 [24] When you hear the sound of marching in the tops of the trees, act decisively. For at that moment the Lord is going before you to strike down the army of the Philistines.”
 [25] David did just as the Lord commanded him, and he struck down the Philistines from Gibeon all the way to Gezer.
-# 2 Samuel
 
 ## Chapter 6 <!-- scripture:6 -->
 
@@ -234,7 +229,6 @@ You fell the way one falls before criminals.”
 [21] David replied to Michal, “It was before the Lord! I was celebrating before the Lord, who chose me over your father and his entire family and appointed me as leader over the Lord’s people Israel.
 [22] I am willing to shame and humiliate myself even more than this. But with the slave girls whom you mentioned, let me be distinguished.”
 [23] Now Michal, Saul’s daughter, had no children to the day of her death.
-# 2 Samuel
 
 ## Chapter 7 <!-- scripture:7 -->
 
@@ -273,7 +267,6 @@ You fell the way one falls before criminals.”
 [27] for you, O Lord of Heaven’s Armies, the God of Israel, have told your servant, ‘I will build you a dynastic house.’ That is why your servant has had the courage to pray this prayer to you.
 [28] Now, O Sovereign Lord, you are the true God. May your words prove to be true! You have made this good promise to your servant.
 [29] Now be willing to bless your servant’s dynasty so that it may stand permanently before you, for you, O Sovereign Lord, have spoken. By your blessing may your servant’s dynasty be blessed from now on into the future!”
-# 2 Samuel
 
 ## Chapter 8 <!-- scripture:8 -->
 
@@ -301,7 +294,6 @@ You fell the way one falls before criminals.”
 [16] Joab son of Zeruiah was general in command of the army; Jehoshaphat son of Ahilud was secretary;
 [17] Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was scribe;
 [18] Benaiah son of Jehoiada supervised the Kerethites and Pelethites; and David’s sons were priests.
-# 2 Samuel
 
 ## Chapter 9 <!-- scripture:9 -->
 
@@ -321,7 +313,6 @@ You fell the way one falls before criminals.”
 [11] Ziba said to the king, “Your servant will do everything that my lord the king has instructed his servant to do.” So Mephibosheth was a regular guest at David’s table, just as though he were one of the king’s sons.
 [12] Now Mephibosheth had a young son whose name was Mica. All the members of Ziba’s household were Mephibosheth’s servants.
 [13] Mephibosheth was living in Jerusalem, for he was a regular guest at the king’s table. But both his feet were crippled.
-# 2 Samuel
 
 ## Chapter 10 <!-- scripture:10 -->
 
@@ -347,7 +338,6 @@ You fell the way one falls before criminals.”
 [17] When David was informed, he gathered all Israel, crossed the Jordan River, and came to Helam. The Arameans deployed their forces against David and fought with him.
 [18] The Arameans fled before Israel. David killed 700 Aramean charioteers and 40,000 foot soldiers. He also struck down Shobach, the general in command of the army, who died there.
 [19] When all the kings who were subject to Hadadezer saw they were defeated by Israel, they made peace with Israel and became subjects of Israel. The Arameans were no longer willing to help the Ammonites.
-# 2 Samuel
 
 ## Chapter 11 <!-- scripture:11 -->
 
@@ -381,7 +371,6 @@ You fell the way one falls before criminals.”
 [25] David said to the messenger, “Tell Joab, ‘Don’t let this thing upset you. There is no way to anticipate whom the sword will cut down. Press the battle against the city and conquer it.’ Encourage him with these words.”
 [26] When Uriah’s wife heard that her husband Uriah was dead, she mourned for him.
 [27] When the time of mourning passed, David had her brought to his palace. She became his wife and she bore him a son. But what David had done upset the Lord.
-# 2 Samuel
 
 ## Chapter 12 <!-- scripture:12 -->
 
@@ -422,7 +411,6 @@ You fell the way one falls before criminals.”
 [29] So David assembled all the army and went to Rabbah and fought against it and captured it.
 [30] He took the crown of their king from his head—it was gold, weighed about seventy-five pounds, and held a precious stone—and it was placed on David’s head. He also took from the city a great deal of plunder.
 [31] He removed the people who were in it and made them labor with saws, iron picks, and iron axes, putting them to work at the brick kiln. This was his policy with all the Ammonite cities. Then David and all the army returned to Jerusalem.
-# 2 Samuel
 
 ## Chapter 13 <!-- scripture:13 -->
 
@@ -471,7 +459,6 @@ You fell the way one falls before criminals.”
 [37] But Absalom fled and went to King Talmai son of Ammihud of Geshur. And David grieved over his son every day.
 [38] After Absalom fled and went to Geshur, he remained there for three years.
 [39] The king longed to go to Absalom, for he had since been consoled over the death of Amnon.
-# 2 Samuel
 
 ## Chapter 14 <!-- scripture:14 -->
 
@@ -511,7 +498,6 @@ You fell the way one falls before criminals.”
 [31] Then Joab got up and came to Absalom’s house. He said to him, “Why did your servants set my portion of field on fire?”
 [32] Absalom said to Joab, “Look, I sent a message to you saying, ‘Come here so that I can send you to the king with this message: “Why have I come from Geshur? It would be better for me if I were still there.”’ Let me now see the face of the king. If I am at fault, let him put me to death!”
 [33] So Joab went to the king and informed him. The king summoned Absalom, and he came to the king. Absalom bowed down before the king with his face toward the ground and the king kissed him.
-# 2 Samuel
 
 ## Chapter 15 <!-- scripture:15 -->
 
@@ -558,7 +544,6 @@ You fell the way one falls before criminals.”
 [35] Zadok and Abiathar the priests will be there with you. Everything you hear in the king’s palace you must tell Zadok and Abiathar the priests.
 [36] Furthermore, their two sons are there with them, Zadok’s son Ahimaaz and Abiathar’s son Jonathan. You must send them to me with any information you hear.”
 [37] So David’s friend Hushai arrived in the city, just as Absalom was entering Jerusalem.
-# 2 Samuel
 
 ## Chapter 16 <!-- scripture:16 -->
 
@@ -594,7 +579,6 @@ You fell the way one falls before criminals.”
 [21] Ahithophel replied to Absalom, “Sleep with your father’s concubines whom he left to care for the palace. All Israel will hear that you have made yourself repulsive to your father. Then your followers will be motivated to support you.”
 [22] So they pitched a tent for Absalom on the roof, and Absalom slept with his father’s concubines in the sight of all Israel.
 [23] In those days Ahithophel’s advice was considered as valuable as a prophetic revelation. Both David and Absalom highly regarded the advice of Ahithophel.
-# 2 Samuel
 
 ## Chapter 17 <!-- scripture:17 -->
 
@@ -630,7 +614,6 @@ You fell the way one falls before criminals.”
 [27] When David came to Mahanaim, Shobi the son of Nahash from Rabbah of the Ammonites, Makir the son of Ammiel from Lo Debar, and Barzillai the Gileadite from Rogelim
 [28] brought bedding, basins, and pottery utensils. They also brought food for David and all who were with him, including wheat, barley, flour, roasted grain, beans, lentils,
 [29] honey, curds, flocks, and cheese. For they said, “The people are no doubt hungry, tired, and thirsty there in the desert.”
-# 2 Samuel
 
 ## Chapter 18 <!-- scripture:18 -->
 
@@ -673,7 +656,6 @@ You fell the way one falls before criminals.”
 [31] Then the Cushite arrived and said, “May my lord the king now receive the good news! The Lord has vindicated you today and delivered you from the hand of all who have rebelled against you!”
 [32] The king asked the Cushite, “How is the young man Absalom?” The Cushite replied, “May the enemies of my lord the king and all who have plotted against you be like that young man!”
 [33] (
-# 2 Samuel
 
 ## Chapter 19 <!-- scripture:19 -->
 
@@ -723,7 +705,6 @@ You fell the way one falls before criminals.”
 [41] Then all the men of Israel began coming to the king. They asked the king, “Why did our brothers, the men of Judah, sneak the king away and help the king and his household cross the Jordan—and not only him but all of David’s men as well?”
 [42] All the men of Judah replied to the men of Israel, “Because the king is our close relative! Why are you so upset about this? Have we eaten at the king’s expense? Or have we misappropriated anything for our own use?”
 [43] The men of Israel replied to the men of Judah, “We have ten shares in the king, and we have a greater claim on David than you do! Why do you want to curse us? Weren’t we the first to suggest bringing back our king?” But the comments of the men of Judah were more severe than those of the men of Israel.
-# 2 Samuel
 
 ## Chapter 20 <!-- scripture:20 -->
 
@@ -759,7 +740,6 @@ Every man go home, O Israel!”
 [24] Adoniram was supervisor of the work crews. Jehoshaphat son of Ahilud was the secretary.
 [25] Sheva was the scribe, and Zadok and Abiathar were the priests.
 [26] Ira the Jairite was David’s personal priest.
-# 2 Samuel
 
 ## Chapter 21 <!-- scripture:21 -->
 
@@ -791,7 +771,6 @@ Every man go home, O Israel!”
 [20] Yet another battle occurred in Gath. On that occasion there was a large man who had six fingers on each hand and six toes on each foot, twenty-four in all! He too was a descendant of Rapha.
 [21] When he taunted Israel, Jonathan, the son of David’s brother Shimeah, killed him.
 [22] These four were the descendants of Rapha who lived in Gath; they were killed by David and his soldiers.
-# 2 Samuel
 
 ## Chapter 22 <!-- scripture:22 -->
 
@@ -913,7 +892,6 @@ I will sing praises to you.
 [51] He gives his king magnificent victories;
 he is faithful to his chosen ruler,
 to David and to his descendants forever!”
-# 2 Samuel
 
 ## Chapter 23 <!-- scripture:23 -->
 
@@ -982,7 +960,6 @@ They are completely burned up right where they lie!”
 [37] Zelek the Ammonite, Naharai the Beerothite (the armor-bearer of Joab son of Zeruiah),
 [38] Ira the Ithrite, Gareb the Ithrite,
 [39] and Uriah the Hittite. Altogether there were thirty-seven.
-# 2 Samuel
 
 ## Chapter 24 <!-- scripture:24 -->
 

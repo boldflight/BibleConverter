@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Introduction and God’s Election of Israel
 
 [1] This is an oracle, the Lord’s message to Israel through Malachi:
@@ -9,6 +10,9 @@
 [3] and rejected Esau. I turned Esau’s mountains into a deserted wasteland and gave his territory to the wild jackals.”
 [4] Edom says, “Though we are devastated, we will once again build the ruined places.” So the Lord of Heaven’s Armies responds, “They indeed may build, but I will overthrow. They will be known as the land of evil, the people with whom the Lord is permanently displeased.
 [5] Your eyes will see it, and then you will say, ‘May the Lord be magnified even beyond the border of Israel!’”
+
+### The Sacrilege of Priestly Service
+
 [6] “A son naturally honors his father and a slave respects his master. If I am your father, where is my honor? If I am your master, where is my respect? The Lord of Heaven’s Armies asks you this, you priests who make light of my name! But you reply, ‘How have we made light of your name?’
 [7] You are offering improper sacrifices on my altar, yet you ask, ‘How have we offended you?’ By treating the table of the Lord as if it is of no importance.
 [8] For when you offer blind animals as a sacrifice, is that not wrong? And when you offer the lame and sick, is that not wrong as well? Indeed, try offering them to your governor! Will he be pleased with you or show you favor?” asks the Lord of Heaven’s Armies.
@@ -22,6 +26,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### The Sacrilege of the Priestly Message
 
 [1] “Now, you priests, this commandment is for you.
@@ -33,6 +38,9 @@
 [7] For the lips of a priest should preserve knowledge of sacred things, and people should seek instruction from him because he is the messenger of the Lord of Heaven’s Armies.
 [8] You, however, have turned from the way. You have caused many to violate the law; you have corrupted the covenant with Levi,” says the Lord of Heaven’s Armies.
 [9] “Therefore, I have caused you to be ignored and belittled before all people to the extent that you are not following after me and are showing partiality in your instruction.”
+
+### The Rebellion of the People
+
 [10] Do we not all have one father? Did not one God create us? Why do we betray one another, thus making light of the covenant of our ancestors?
 [11] Judah has become disloyal, and unspeakable sins have been committed in Israel and Jerusalem. For Judah has profaned the holy things that the Lord loves and has turned to a foreign god!
 [12] May the Lord cut off from the community of Jacob every last person who does this, as well as the person who presents improper offerings to the Lord of Heaven’s Armies!
@@ -44,6 +52,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Resistance to the Lord through Self-deceit
 
 [17] You have wearied the Lord with your words. But you say, “How have we wearied him?” Because you say, “Everyone who does evil is good in the Lord’s opinion, and he delights in them,” or, “Where is the God of justice?”
@@ -52,6 +61,9 @@
 [3] He will act like a refiner and purifier of silver and will cleanse the Levites and refine them like gold and silver. Then they will offer the Lord a proper offering.
 [4] The offerings of Judah and Jerusalem will be pleasing to the Lord as in former times and years past.
 [5] “I will come to you in judgment. I will be quick to testify against those who practice divination; those who commit adultery; those who break promises; and those who exploit workers, widows, and orphans, who refuse to help the resident foreigner and in this way show they do not fear me,” says the Lord of Heaven’s Armies.
+
+### Resistance to the Lord through Selfishness
+
 [6] “Since, I, the Lord, do not go back on my promises, you, sons of Jacob, have not perished.
 [7] From the days of your ancestors you have ignored my commandments and have not kept them. Return to me, and I will return to you,” says the Lord of Heaven’s Armies. “But you say, ‘How should we return?’
 [8] Can a person rob God? You are indeed robbing me, but you say, ‘How are we robbing you?’ In tithes and contributions!
@@ -59,6 +71,9 @@
 [10] “Bring the entire tithe into the storehouse so that there may be food in my temple. Test me in this matter,” says the Lord of Heaven’s Armies, “to see if I will not open for you the windows of heaven and pour out blessing for you until there is no room for it all.
 [11] Then I will stop the plague from ruining your crops, and the vine will not lose its fruit before harvest,” says the Lord of Heaven’s Armies.
 [12] “All nations will call you blessed, for you indeed will live in a delightful land,” says the Lord of Heaven’s Armies.
+
+### Resistance to the Lord through Self-sufficiency
+
 [13] “You have criticized me sharply,” says the Lord, “but you ask, ‘How have we criticized you?’
 [14] You have said, ‘It is useless to serve God. How have we been helped by keeping his requirements and going about like mourners before the Lord of Heaven’s Armies?
 [15] So now we consider the arrogant to be blessed; indeed, those who practice evil are successful. In fact, those who challenge God escape!’”
@@ -69,11 +84,12 @@
 
 ## Chapter 4 <!-- scripture:4 -->
 
-### Restoration through the Lord
-
 [1] (
 [2] But for you who respect my name, the sun of vindication will rise with healing wings, and you will skip about like calves released from the stall.
 [3] You will trample on the wicked, for they will be like ashes under the soles of your feet on the day that I am preparing,” says the Lord of Heaven’s Armies.
+
+### Restoration through the Lord
+
 [4] “Remember the law of my servant Moses, to whom at Horeb I gave rules and regulations for all Israel to obey.
 [5] Look, I will send you Elijah the prophet before the great and terrible day of the Lord arrives.
 [6] He will encourage fathers and their children to return to me, so that I will not come and strike the earth with judgment.”

@@ -2,9 +2,13 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From James, a slave of God and the Lord Jesus Christ, to the twelve tribes dispersed abroad. Greetings!
+
+### Joy in Trials
+
 [2] My brothers and sisters, consider it nothing but joy when you fall into all sorts of trials,
 [3] because you know that the testing of your faith produces endurance.
 [4] And let endurance have its perfect effect, so that you will be perfect and complete, not deficient in anything.
@@ -22,6 +26,9 @@
 [16] Do not be led astray, my dear brothers and sisters.
 [17] All generous giving and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or the slightest hint of change.
 [18] By his sovereign plan he gave us birth through the message of truth, that we would be a kind of firstfruits of all he created.
+
+### Living Out the Message
+
 [19] Understand this, my dear brothers and sisters! Let every person be quick to listen, slow to speak, slow to anger.
 [20] For human anger does not accomplish God’s righteousness.
 [21] So put away all filth and evil excess and humbly welcome the message implanted within you, which is able to save your souls.
@@ -34,6 +41,7 @@
 # James
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Prejudice and the Law of Love
 
@@ -50,6 +58,9 @@
 [11] For he who said, “Do not commit adultery,” also said, “Do not murder.” Now if you do not commit adultery but do commit murder, you have become a violator of the law.
 [12] Speak and act as those who will be judged by a law that gives freedom.
 [13] For judgment is merciless for the one who has shown no mercy. But mercy triumphs over judgment.
+
+### Faith and Works Together
+
 [14] What good is it, my brothers and sisters, if someone claims to have faith but does not have works? Can this kind of faith save him?
 [15] If a brother or sister is poorly clothed and lacks daily food,
 [16] and one of you says to them, “Go in peace, keep warm and eat well,” but you do not give them what the body needs, what good is it?
@@ -67,6 +78,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### The Power of the Tongue
 
 [1] Not many of you should become teachers, my brothers and sisters, because you know that we will be judged more strictly.
@@ -81,6 +93,9 @@
 [10] From the same mouth come blessing and cursing. These things should not be so, my brothers and sisters.
 [11] A spring does not pour out fresh water and bitter water from the same opening, does it?
 [12] Can a fig tree produce olives, my brothers and sisters, or a vine produce figs? Neither can a salt water spring produce fresh water.
+
+### True Wisdom
+
 [13] Who is wise and understanding among you? By his good conduct he should show his works done in the gentleness that wisdom brings.
 [14] But if you have bitter jealousy and selfishness in your hearts, do not boast and tell lies against the truth.
 [15] Such wisdom does not come from above but is earthly, natural, demonic.
@@ -90,6 +105,7 @@
 # James
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Passions and Pride
 
@@ -114,6 +130,7 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Warning to the Rich
 
 [1] Come now, you rich! Weep and cry aloud over the miseries that are coming on you.
@@ -122,12 +139,18 @@
 [4] Look, the pay you have held back from the workers who mowed your fields cries out against you, and the cries of the reapers have reached the ears of the Lord of Heaven’s Armies.
 [5] You have lived indulgently and luxuriously on the earth. You have fattened your hearts in a day of slaughter.
 [6] You have condemned and murdered the righteous person, although he does not resist you.
+
+### Patience in Suffering
+
 [7] So be patient, brothers and sisters, until the Lord’s return. Think of how the farmer waits for the precious fruit of the ground and is patient for it until it receives the early and late rains.
 [8] You also be patient and strengthen your hearts, for the Lord’s return is near.
 [9] Do not grumble against one another, brothers and sisters, so that you may not be judged. See, the judge stands before the gates!
 [10] As an example of suffering and patience, brothers and sisters, take the prophets who spoke in the Lord’s name.
 [11] Think of how we regard as blessed those who have endured. You have heard of Job’s endurance and you have seen the Lord’s purpose, that the Lord is full of compassion and mercy.
 [12] And above all, my brothers and sisters, do not swear, either by heaven or by earth or by any other oath. But let your “Yes” be yes and your “No” be no, so that you may not fall into judgment.
+
+### Prayer for the Sick
+
 [13] Is anyone among you suffering? He should pray. Is anyone in good spirits? He should sing praises.
 [14] Is anyone among you ill? He should summon the elders of the church, and they should pray for him and anoint him with olive oil in the name of the Lord.
 [15] And the prayer of faith will save the one who is sick and the Lord will raise him up—and if he has committed sins, he will be forgiven.

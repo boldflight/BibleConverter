@@ -2,10 +2,14 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Simeon Peter, a slave and apostle of Jesus Christ, to those who through the righteousness of our God and Savior, Jesus Christ, have been granted a faith just as precious as ours.
 [2] May grace and peace be lavished on you as you grow in the rich knowledge of God and of Jesus our Lord!
+
+### Believers’ Salvation and the Work of God
+
 [3] I can pray this because his divine power has bestowed on us everything necessary for life and godliness through the rich knowledge of the one who called us by his own glory and excellence.
 [4] Through these things he has bestowed on us his precious and most magnificent promises, so that by means of what was promised you may become partakers of the divine nature, after escaping the worldly corruption that is produced by evil desire.
 [5] For this very reason, make every effort to add to your faith excellence, to excellence, knowledge;
@@ -15,6 +19,9 @@
 [9] But concerning the one who lacks such things —he is blind. That is to say, he is nearsighted, since he has forgotten about the cleansing of his past sins.
 [10] Therefore, brothers and sisters, make every effort to be sure of your calling and election. For by doing this you will never stumble into sin.
 [11] For thus an entrance into the eternal kingdom of our Lord and Savior, Jesus Christ, will be richly provided for you.
+
+### Salvation Based on the Word of God
+
 [12] Therefore, I intend to remind you constantly of these things even though you know them and are well established in the truth that you now have.
 [13] Indeed, as long as I am in this tabernacle, I consider it right to stir you up by way of a reminder,
 [14] since I know that my tabernacle will soon be removed, because our Lord Jesus Christ revealed this to me.
@@ -28,6 +35,7 @@
 # 2 Peter
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### The False Teachers’ Ungodly Lifestyle
 
@@ -57,6 +65,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### The False Teachers’ Denial of the Lord’s Return
 
 [1] Dear friends, this is already the second letter I have written you, in which I am trying to stir up your pure mind by way of reminder:
@@ -72,6 +81,9 @@
 [11] Since all these things are to melt away in this manner, what sort of people must you be, conducting your lives in holiness and godliness,
 [12] while waiting for and hastening the coming of the day of God? Because of this day, the heavens will be burned up and dissolve, and the celestial bodies will melt away in a blaze!
 [13] But, according to his promise, we are waiting for new heavens and a new earth, in which righteousness truly resides.
+
+### Exhortation to the Faithful
+
 [14] Therefore, dear friends, since you are waiting for these things, strive to be found at peace, without spot or blemish, when you come into his presence.
 [15] And regard the patience of our Lord as salvation, just as also our dear brother Paul wrote to you, according to the wisdom given to him,
 [16] speaking of these things in all his letters. Some things in these letters are hard to understand, things the ignorant and unstable twist to their own destruction, as they also do to the rest of the scriptures.

@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Judah Takes the Lead
 
 [1] After Joshua died, the Israelites asked the Lord, “Who should lead the invasion against the Canaanites and launch the attack?”
@@ -25,6 +26,9 @@
 [19] The Lord was with the men of Judah. They conquered the hill country, but they could not conquer the people living in the coastal plain, because they had chariots with iron-rimmed wheels.
 [20] Caleb received Hebron, just as Moses had promised. He drove out the three Anakites.
 [21] The men of Benjamin, however, did not conquer the Jebusites living in Jerusalem. The Jebusites live with the people of Benjamin in Jerusalem to this very day.
+
+### Partial Success
+
 [22] When the men of Joseph attacked Bethel, the Lord was with them.
 [23] When the men of Joseph spied out Bethel (it used to be called Luz),
 [24] the spies spotted a man leaving the city. They said to him, “If you show us a secret entrance into the city, we will reward you.”
@@ -44,6 +48,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Confrontation and Repentance at Bokim
 
 [1] The angel of the Lord went up from Gilgal to Bokim. He said, “I brought you up from Egypt and led you into the land I had solemnly promised to give to your ancestors. I said, ‘I will never break my covenant with you,
@@ -51,11 +56,17 @@
 [3] At that time I also warned you, ‘If you disobey, I will not drive out the Canaanites before you. They will ensnare you and their gods will lure you away.’”
 [4] When the angel of the Lord finished speaking these words to all the Israelites, the people wept loudly.
 [5] They named that place Bokim and offered sacrifices to the Lord there.
+
+### The End of an Era
+
 [6] When Joshua dismissed the people, the Israelites went to their allotted portions of territory, intending to take possession of the land.
 [7] The people worshiped the Lord throughout Joshua’s lifetime and as long as the elderly men who outlived him remained alive. These men had witnessed all the great things the Lord had done for Israel.
 [8] Joshua son of Nun, the Lord’s servant, died at the age of 110.
 [9] The people buried him in his allotted land in Timnath Heres in the hill country of Ephraim, north of Mount Gaash.
 [10] That entire generation passed away; a new generation grew up that had not personally experienced the Lord’s presence or seen what he had done for Israel.
+
+### A Monotonous Cycle
+
 [11] The Israelites did evil before the Lord by worshiping the Baals.
 [12] They abandoned the Lord God of their ancestors who brought them out of the land of Egypt. They followed other gods—the gods of the nations who lived around them. They worshiped them and made the Lord angry.
 [13] They abandoned the Lord and worshiped Baal and the Ashtoreths.
@@ -65,6 +76,9 @@
 [17] But they did not obey their leaders. Instead they prostituted themselves to other gods and worshiped them. They quickly turned aside from the path their ancestors had walked. Their ancestors had obeyed the Lord’s commands, but they did not.
 [18] When the Lord raised up leaders for them, the Lord was with each leader and delivered the people from their enemies while the leader remained alive. The Lord felt sorry for them when they cried out in agony because of what their harsh oppressors did to them.
 [19] When a leader died, the next generation would again act more wickedly than the previous one. They would follow after other gods, worshiping them and bowing down to them. They did not give up their practices or their stubborn ways.
+
+### A Divine Decision
+
 [20] The Lord was furious with Israel. He said, “This nation has violated the terms of the covenant I made with their ancestors by disobeying me.
 [21] So I will no longer remove before them any of the nations that Joshua left unconquered when he died,
 [22] in order to test Israel. I want to see whether or not the people will carefully walk in the path marked out by the Lord, as their ancestors were careful to do.”
@@ -73,19 +87,23 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
-### Othniel: A Model Leader
-
 [1] These were the nations the Lord permitted to remain so he could use them to test Israel—he wanted to test all those who had not experienced battle against the Canaanites.
 [2] He left those nations simply because he wanted to teach the subsequent generations of Israelites, who had not experienced the earlier battles, how to conduct holy war.
 [3] These were the nations: the five lords of the Philistines, all the Canaanites, the Sidonians, and the Hivites living in Mount Lebanon, from Mount Baal Hermon to Lebo Hamath.
 [4] They were left to test Israel, so the Lord would know if his people would obey the commands he gave their ancestors through Moses.
 [5] The Israelites lived among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.
 [6] They took the Canaanites’ daughters as wives and gave their daughters to the Canaanites; they worshiped their gods as well.
+
+### Othniel: A Model Leader
+
 [7] The Israelites did evil in the Lord’s sight. They forgot the Lord their God and worshiped the Baals and the Asherahs.
 [8] The Lord was furious with Israel and turned them over to King Cushan Rishathaim of Armon Haraim. They were Cushan Rishathaim’s subjects for eight years.
 [9] When the Israelites cried out for help to the Lord, he raised up a deliverer for the Israelites who rescued them. His name was Othniel son of Kenaz, Caleb’s younger brother.
 [10] The Lord’s Spirit empowered him and he led Israel. When he went to do battle, the Lord handed over to him King Cushan Rishathaim of Armon and he overpowered him.
 [11] The land had rest for forty years; then Othniel son of Kenaz died.
+
+### Deceit, Assassination, and Deliverance
+
 [12] The Israelites again did evil in the Lord’s sight. The Lord gave King Eglon of Moab control over Israel because they had done evil in the Lord’s sight.
 [13] Eglon formed alliances with the Ammonites and Amalekites. He came and defeated Israel, and they seized the city of date palm trees.
 [14] The Israelites were subject to King Eglon of Moab for eighteen years.
@@ -109,6 +127,7 @@
 # Judges
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Deborah Summons Barak
 
@@ -139,6 +158,7 @@
 # Judges
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Celebrating the Victory in Song
 
@@ -243,6 +263,7 @@ like the rising sun at its brightest.”
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Oppression and Confrontation
 
 [1] The Israelites did evil in the Lord’s sight, so the Lord turned them over to Midian for seven years.
@@ -255,6 +276,9 @@ like the rising sun at its brightest.”
 [8] the Lord sent a prophet to the Israelites. He said to them, “This is what the Lord God of Israel has said: ‘I brought you up from Egypt and took you out of that place of slavery.
 [9] I rescued you from Egypt’s power and from the power of all who oppressed you. I drove them out before you and gave their land to you.
 [10] I said to you, “I am the Lord your God! Do not worship the gods of the Amorites, in whose land you are now living.” But you have disobeyed me.’”
+
+### Gideon Meets Some Visitors
+
 [11] The angel of the Lord came and sat down under the oak tree in Ophrah owned by Joash the Abiezrite. He arrived while Joash’s son Gideon was threshing wheat in a winepress so he could hide it from the Midianites.
 [12] The angel of the Lord appeared and said to him, “The Lord is with you, courageous warrior!”
 [13] Gideon said to him, “Pardon me, but if the Lord is with us, why has such disaster overtaken us? Where are all his miraculous deeds our ancestors told us about? They said, ‘Did the Lord not bring us up from Egypt?’ But now the Lord has abandoned us and handed us over to Midian.”
@@ -269,6 +293,9 @@ like the rising sun at its brightest.”
 [22] When Gideon realized that it was the angel of the Lord, he said, “Oh no! Sovereign Lord! I have seen the angel of the Lord face-to-face!”
 [23] The Lord said to him, “You are safe! Do not be afraid. You are not going to die!”
 [24] Gideon built an altar for the Lord there, and named it “The Lord is on friendly terms with me.” To this day it is still there in Ophrah of the Abiezrites.
+
+### Gideon Destroys the Altar
+
 [25] That night the Lord said to him, “Take the bull from your father’s herd, as well as a second bull, one that is seven years old. Pull down your father’s Baal altar and cut down the nearby Asherah pole.
 [26] Then build an altar for the Lord your God on the top of this stronghold according to the proper pattern. Take the second bull and offer it as a burnt sacrifice on the wood from the Asherah pole that you cut down.”
 [27] So Gideon took ten of his servants and did just as the Lord had told him. He was too afraid of his father’s family and the men of the city to do it in broad daylight, so he waited until nighttime.
@@ -277,6 +304,9 @@ like the rising sun at its brightest.”
 [30] The men of the city said to Joash, “Bring out your son, so we can execute him! He pulled down the Baal altar and cut down the nearby Asherah pole.”
 [31] But Joash said to all those who confronted him, “Must you fight Baal’s battles? Must you rescue him? Whoever takes up his cause will die by morning! If he really is a god, let him fight his own battles! After all, it was his altar that was pulled down.”
 [32] That very day Gideon’s father named him Jerub Baal, because he had said, “Let Baal fight with him, for it was his altar that was pulled down.”
+
+### Gideon Summons an Army and Seeks Confirmation
+
 [33] All the Midianites, Amalekites, and the people from the east assembled. They crossed the Jordan River and camped in the Jezreel Valley.
 [34] The Lord’s Spirit took control of Gideon. He blew a trumpet, summoning the Abiezrites to follow him.
 [35] He sent messengers throughout Manasseh and summoned them to follow him as well. He also sent messengers throughout Asher, Zebulun, and Naphtali, and they came up to meet him.
@@ -289,6 +319,7 @@ like the rising sun at its brightest.”
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### Gideon Reduces the Ranks
 
 [1] Jerub Baal (that is, Gideon) and his men got up the next morning and camped near the spring of Harod. The Midianites were camped north of them near the hill of Moreh in the valley.
@@ -299,12 +330,18 @@ like the rising sun at its brightest.”
 [6] Only 300 men lapped with their hands to their mouths; the rest of the men kneeled to drink water.
 [7] The Lord said to Gideon, “With the 300 men who lapped I will deliver the whole army and I will hand Midian over to you. The rest of the men should go home.”
 [8] The men who were chosen took supplies and their trumpets. Gideon sent all the men of Israel back to their homes; he kept only 300 men. Now the Midianites were camped down below in the valley.
+
+### Gideon Reassured of Victory
+
 [9] That night the Lord said to Gideon, “Get up! Attack the camp, for I am handing it over to you.
 [10] But if you are afraid to attack, go down to the camp with Purah your servant
 [11] and listen to what they are saying. Then you will be brave and attack the camp.” So he went down with Purah his servant to where the sentries were guarding the camp.
 [12] Now the Midianites, Amalekites, and the people from the east covered the valley like a swarm of locusts. Their camels could not be counted; they were as innumerable as the sand on the seashore.
 [13] When Gideon arrived, he heard a man telling another man about a dream he had. The man said, “Look! I had a dream. I saw a stale cake of barley bread rolling into the Midianite camp. It hit a tent so hard it knocked it over and turned it upside down. The tent just collapsed.”
 [14] The other man said, “Without a doubt this symbolizes the sword of Gideon son of Joash, the Israelite. God is handing Midian and all the army over to him.”
+
+### Gideon Routs the Enemy
+
 [15] When Gideon heard the report of the dream and its interpretation, he praised God. Then he went back to the Israelite camp and said, “Get up, for the Lord is handing the Midianite army over to you!”
 [16] He divided the 300 men into three units. He gave them all trumpets and empty jars with torches inside them.
 [17] He said to them, “Watch me and do as I do. Watch closely! I am going to the edge of the camp. Do as I do!
@@ -314,17 +351,21 @@ like the rising sun at its brightest.”
 [21] They stood in order all around the camp. The whole Midianite army ran away; they shouted as they scrambled away.
 [22] When the 300 men blew their trumpets, the Lord caused the Midianites to attack one another with their swords throughout the camp. The army fled to Beth Shittah on the way to Zererah. They went to the border of Abel Meholah near Tabbath.
 [23] Israelites from Naphtali, Asher, and Manasseh answered the call and chased the Midianites.
+
+### Gideon Appeases the Ephraimites
+
 [24] Now Gideon sent messengers throughout the Ephraimite hill country who announced, “Go down and head off the Midianites. Take control of the fords of the streams all the way to Beth Barah and the Jordan River.” When all the Ephraimites had assembled, they took control of the fords all the way to Beth Barah and the Jordan River.
 [25] They captured the two Midianite generals, Oreb and Zeeb. They executed Oreb on the rock of Oreb and Zeeb in the winepress of Zeeb. They chased the Midianites and brought the heads of Oreb and Zeeb to Gideon, who was now on the other side of the Jordan River.
 # Judges
 
 ## Chapter 8 <!-- scripture:8 -->
 
-### Gideon Tracks Down the Midianite Kings
-
 [1] The Ephraimites said to him, “Why have you done such a thing to us? You did not summon us when you went to fight the Midianites!” They argued vehemently with him.
 [2] He said to them, “Now what have I accomplished compared to you? Even Ephraim’s leftover grapes are better quality than Abiezer’s harvest!
 [3] It was to you that God handed over the Midianite generals, Oreb and Zeeb! What did I accomplish to rival that?” When he said this, they calmed down.
+
+### Gideon Tracks Down the Midianite Kings
+
 [4] Now Gideon and his 300 men had crossed over the Jordan River, and even though they were exhausted, they were still chasing the Midianites.
 [5] He said to the men of Sukkoth, “Give some loaves of bread to the men who are following me, because they are exhausted. I am chasing Zebah and Zalmunna, the kings of Midian.”
 [6] The officials of Sukkoth said, “You have not yet overpowered Zebah and Zalmunna. So why should we give bread to your army?”
@@ -343,23 +384,33 @@ like the rising sun at its brightest.”
 [19] He said, “They were my brothers, the sons of my mother. I swear, as surely as the Lord is alive, if you had let them live, I would not kill you.”
 [20] He ordered Jether his firstborn son, “Come on! Kill them!” But Jether was too afraid to draw his sword, because he was still young.
 [21] Zebah and Zalmunna said to Gideon, “Come on, you strike us, for a man is judged by his strength.” So Gideon killed Zebah and Zalmunna, and he took the crescent-shaped ornaments that were on the necks of their camels.
+
+### Gideon Rejects a Crown but Makes an Ephod
+
 [22] The men of Israel said to Gideon, “Rule over us—you, your son, and your grandson. For you have delivered us from Midian’s power.”
 [23] Gideon said to them, “I will not rule over you, nor will my son rule over you. The Lord will rule over you.”
 [24] Gideon continued, “I would like to make one request. Each of you give me an earring from the plunder you have taken.” (The Midianites had gold earrings because they were Ishmaelites.)
 [25] They said, “We are happy to give you earrings.” So they spread out a garment, and each one threw an earring from his plunder onto it.
 [26] The total weight of the gold earrings he requested came to 1,700 gold shekels. This was in addition to the crescent-shaped ornaments, jewelry, purple clothing worn by the Midianite kings, and the necklaces on the camels.
 [27] Gideon used all this to make an ephod, which he put in his hometown of Ophrah. All the Israelites prostituted themselves to it by worshiping it there. It became a snare to Gideon and his family.
+
+### Gideon’s Story Ends
+
 [28] The Israelites humiliated Midian; the Midianites’ fighting spirit was broken. The land had rest for forty years during Gideon’s time.
 [29] Then Jerub Baal son of Joash went home and settled down.
 [30] Gideon fathered seventy sons through his many wives.
 [31] His concubine, who lived in Shechem, also gave him a son, whom he named Abimelech.
 [32] Gideon son of Joash died at a very old age and was buried in the tomb of his father Joash located in Ophrah of the Abiezrites.
+
+### Israel Returns to Baal Worship
+
 [33] After Gideon died, the Israelites again prostituted themselves to the Baals. They made Baal Berith their god.
 [34] The Israelites did not remain true to the Lord their God, who had delivered them from all the enemies who lived around them.
 [35] They did not treat the family of Jerub Baal (that is, Gideon) fairly in return for all the good he had done for Israel.
 # Judges
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### Abimelech Murders His Brothers
 
@@ -369,6 +420,9 @@ like the rising sun at its brightest.”
 [4] They paid him seventy silver shekels out of the temple of Baal Berith. Abimelech then used the silver to hire some lawless, dangerous men as his followers.
 [5] He went to his father’s home in Ophrah and murdered his half brothers, the seventy legitimate sons of Jerub Baal, on one stone. Only Jotham, Jerub Baal’s youngest son, escaped, because he hid.
 [6] All the leaders of Shechem and Beth Millo assembled and then went and made Abimelech king by the oak near the pillar in Shechem.
+
+### Jotham’s Parable
+
 [7] When Jotham heard the news, he went and stood on the top of Mount Gerizim. He spoke loudly to the people below, “Listen to me, leaders of Shechem, so that God may listen to you!
 [8] “The trees were determined to go out and choose a king for themselves. They said to the olive tree, ‘Be our king!’
 [9] But the olive tree said to them, ‘I am not going to stop producing my oil, which is used to honor gods and men, just to sway above the other trees!’
@@ -384,6 +438,9 @@ like the rising sun at its brightest.”
 [19] So if you have shown loyalty and integrity to Jerub Baal and his family today, then may Abimelech bring you happiness and may you bring him happiness!
 [20] But if not, may fire blaze from Abimelech and consume the leaders of Shechem and Beth Millo! May fire also blaze from the leaders of Shechem and Beth Millo and consume Abimelech!”
 [21] Then Jotham ran away to Beer and lived there to escape from Abimelech his half-brother.
+
+### God Fulfills Jotham’s Curse
+
 [22] Abimelech commanded Israel for three years.
 [23] God sent a spirit to stir up hostility between Abimelech and the leaders of Shechem. He made the leaders of Shechem disloyal to Abimelech.
 [24] He did this so the violent deaths of Jerub Baal’s seventy sons might be avenged and Abimelech, their half-brother who murdered them, might have to pay for their spilled blood, along with the leaders of Shechem who helped him murder them.
@@ -424,6 +481,7 @@ like the rising sun at its brightest.”
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### Stability Restored
 
 [1] After Abimelech’s death, Tola son of Puah, grandson of Dodo, from the tribe of Issachar, rose up to deliver Israel. He lived in Shamir in the Ephraimite hill country.
@@ -431,6 +489,9 @@ like the rising sun at its brightest.”
 [3] Jair the Gileadite rose up after him; he led Israel for twenty-two years.
 [4] He had thirty sons who rode on thirty donkeys and possessed thirty cities. To this day these towns are called Havvoth Jair —they are in the land of Gilead.
 [5] Jair died and was buried in Kamon.
+
+### The Lord’s Patience Runs Short
+
 [6] The Israelites again did evil in the Lord’s sight. They worshiped the Baals and the Ashtoreths, as well as the gods of Syria, Sidon, Moab, the Ammonites, and the Philistines. They abandoned the Lord and did not worship him.
 [7] The Lord was furious with Israel and turned them over to the Philistines and Ammonites.
 [8] They ruthlessly oppressed the Israelites that eighteenth year —that is, all the Israelites living east of the Jordan in Amorite country in Gilead.
@@ -442,13 +503,14 @@ like the rising sun at its brightest.”
 [14] Go and cry for help to the gods you have chosen! Let them deliver you from trouble!”
 [15] But the Israelites said to the Lord, “We have sinned. You do to us as you see fit, but deliver us today!”
 [16] They threw away the foreign gods they owned and worshiped the Lord. Finally the Lord grew tired of seeing Israel suffer so much.
+
+### An Outcast Becomes a General
+
 [17] The Ammonites assembled and camped in Gilead; the Israelites gathered together and camped in Mizpah.
 [18] The leaders of Gilead said to one another, “Who is willing to lead the charge against the Ammonites? He will become the leader of all who live in Gilead!”
 # Judges
 
 ## Chapter 11 <!-- scripture:11 -->
-
-### Jephthah Gives a History Lesson
 
 [1] Now Jephthah the Gileadite was a brave warrior. His mother was a prostitute, but Gilead was his father.
 [2] Gilead’s wife also gave him sons. When his wife’s sons grew up, they made Jephthah leave and said to him, “You are not going to inherit any of our father’s wealth, because you are another woman’s son.”
@@ -461,6 +523,9 @@ like the rising sun at its brightest.”
 [9] Jephthah said to the leaders of Gilead, “All right. If you take me back to fight with the Ammonites and the Lord gives them to me, I will be your leader.”
 [10] The leaders of Gilead said to Jephthah, “The Lord will judge any grievance you have against us, if we do not do as you say.”
 [11] So Jephthah went with the leaders of Gilead. The people made him their leader and commander. Jephthah repeated the terms of the agreement before the Lord in Mizpah.
+
+### Jephthah Gives a History Lesson
+
 [12] Jephthah sent messengers to the Ammonite king, saying, “Why have you come against me to attack my land?”
 [13] The Ammonite king said to Jephthah’s messengers, “Because Israel stole my land when they came up from Egypt—from the Arnon River in the south to the Jabbok River in the north, and as far west as the Jordan. Now return it peaceably!”
 [14] Jephthah sent messengers back to the Ammonite king
@@ -478,6 +543,9 @@ like the rising sun at its brightest.”
 [26] Israel has been living in Heshbon and its nearby towns, in Aroer and its nearby towns, and in all the cities along the Arnon for 300 years! Why did you not reclaim them during that time?
 [27] I have not done you wrong, but you are doing wrong by attacking me. May the Lord, the Judge, judge this day between the Israelites and the Ammonites!’”
 [28] But the Ammonite king disregarded the message sent by Jephthah.
+
+### A Foolish Vow Spells Death for a Daughter
+
 [29] The Lord’s Spirit empowered Jephthah. He passed through Gilead and Manasseh and went to Mizpah in Gilead. From there he approached the Ammonites.
 [30] Jephthah made a vow to the Lord, saying, “If you really do hand the Ammonites over to me,
 [31] then whoever is the first to come through the doors of my house to meet me when I return safely from fighting the Ammonites—he will belong to the Lord and I will offer him up as a burnt sacrifice.”
@@ -494,6 +562,7 @@ like the rising sun at its brightest.”
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### Civil Strife Mars the Victory
 
 [1] The Ephraimites assembled and crossed over to Zaphon. They said to Jephthah, “Why did you go and fight with the Ammonites without asking us to go with you? We will burn your house down right over you!”
@@ -503,6 +572,9 @@ like the rising sun at its brightest.”
 [5] The Gileadites captured the fords of the Jordan River opposite Ephraim. Whenever an Ephraimite fugitive said, “Let me cross over,” the men of Gilead asked him, “Are you an Ephraimite?” If he said, “No,”
 [6] then they said to him, “Say ‘Shibboleth!’” If he said, “Sibboleth” (and could not pronounce the word correctly), they grabbed him and executed him right there at the fords of the Jordan. On that day 42,000 Ephraimites fell dead.
 [7] Jephthah led Israel for six years; then he died and was buried in his town in Gilead.
+
+### Order Restored
+
 [8] After him Ibzan of Bethlehem led Israel.
 [9] He had thirty sons. He arranged for thirty of his daughters to be married outside his extended family, and he arranged for thirty young women to be brought from outside as wives for his sons. Ibzan led Israel for seven years;
 [10] then he died and was buried in Bethlehem.
@@ -514,6 +586,7 @@ like the rising sun at its brightest.”
 # Judges
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### Samson’s Birth
 
@@ -545,6 +618,7 @@ like the rising sun at its brightest.”
 # Judges
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### Samson’s Unconsummated Marriage
 
@@ -578,6 +652,7 @@ you would not have solved my riddle!”
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### Samson Versus the Philistines
 
 [1] Sometime later, during the wheat harvest, Samson took a young goat as a gift and went to visit his bride. He said to her father, “I want to sleep with my bride in her bedroom!” But her father would not let him enter.
@@ -608,6 +683,7 @@ I have struck down a thousand men!”
 
 ## Chapter 16 <!-- scripture:16 -->
 
+
 ### Samson’s Downfall
 
 [1] Samson went to Gaza. There he saw a prostitute and slept with her.
@@ -632,6 +708,9 @@ I have struck down a thousand men!”
 [20] She said, “The Philistines are here, Samson!” He woke up and thought, “I will do as I did before and shake myself free.” But he did not realize that the Lord had left him.
 [21] The Philistines captured him and gouged out his eyes. They brought him down to Gaza and bound him in bronze chains. He became a grinder in the prison.
 [22] His hair began to grow back after it had been shaved off.
+
+### Samson’s Death and Burial
+
 [23] The rulers of the Philistines gathered to offer a great sacrifice to Dagon their god and to celebrate. They said, “Our god has handed Samson, our enemy, over to us.”
 [24] When the people saw him, they praised their god, saying, “Our god has handed our enemy over to us, the one who ruined our land and killed so many of us!”
 [25] When they really started celebrating, they said, “Call for Samson so he can entertain us!” So they summoned Samson from the prison and he entertained them. They made him stand between two pillars.
@@ -645,6 +724,7 @@ I have struck down a thousand men!”
 
 ## Chapter 17 <!-- scripture:17 -->
 
+
 ### Micah Makes His Own Religion
 
 [1] There was a man named Micah from the Ephraimite hill country.
@@ -653,6 +733,9 @@ I have struck down a thousand men!”
 [4] When he gave the silver back to his mother, she took 200 pieces of silver to a silversmith, who made them into a carved image and a metal image. She then put them in Micah’s house.
 [5] Now this man Micah owned a shrine. He made an ephod and some personal idols and hired one of his sons to serve as a priest.
 [6] In those days Israel had no king. Each man did what he considered to be right.
+
+### Micah Hires a Professional
+
 [7] There was a young man from Bethlehem in Judah. He was a Levite who had been temporarily residing among the tribe of Judah.
 [8] This man left the town of Bethlehem in Judah to find another place to live. He came to the Ephraimite hill country and made his way to Micah’s house.
 [9] Micah said to him, “Where do you come from?” He replied, “I am a Levite from Bethlehem in Judah. I am looking for a new place to live.”
@@ -663,6 +746,7 @@ I have struck down a thousand men!”
 # Judges
 
 ## Chapter 18 <!-- scripture:18 -->
+
 
 ### The Tribe of Dan Finds an Inheritance
 
@@ -701,6 +785,7 @@ I have struck down a thousand men!”
 
 ## Chapter 19 <!-- scripture:19 -->
 
+
 ### Sodom and Gomorrah Revisited
 
 [1] In those days Israel had no king. There was a Levite living temporarily in the remote region of the Ephraimite hill country. He acquired a concubine from Bethlehem in Judah.
@@ -736,6 +821,7 @@ I have struck down a thousand men!”
 # Judges
 
 ## Chapter 20 <!-- scripture:20 -->
+
 
 ### Civil War Breaks Out
 
@@ -790,6 +876,7 @@ I have struck down a thousand men!”
 # Judges
 
 ## Chapter 21 <!-- scripture:21 -->
+
 
 ### Six Hundred Brides for Six Hundred Brothers
 

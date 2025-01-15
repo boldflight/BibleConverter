@@ -2,12 +2,16 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The Decree of Cyrus
 
 [1] In the first year of King Cyrus of Persia, in fulfillment of the Lord’s message spoken through Jeremiah, the Lord motivated King Cyrus of Persia to issue a proclamation throughout his kingdom and also to put it in writing. It read:
 [2] “This is what King Cyrus of Persia says:
 [3] Anyone of his people among you (may his God be with him!) may go up to Jerusalem, which is in Judah, and may build the temple of the Lord God of Israel—he is the God who is in Jerusalem.
 [4] Anyone who survives in any of those places where he is a resident foreigner must be helped by his neighbors with silver, gold, equipment, and animals, along with voluntary offerings for the temple of God which is in Jerusalem.’”
+
+### The Exiles Prepare to Return to Jerusalem
+
 [5] Then the leaders of Judah and Benjamin, along with the priests and the Levites—all those whose mind God had stirred—got ready to go up in order to build the temple of the Lord in Jerusalem.
 [6] All their neighbors assisted them with silver utensils, gold, equipment, animals, and expensive gifts, not to mention all the voluntary offerings.
 [7] Then King Cyrus brought out the vessels of the Lord’s temple which Nebuchadnezzar had brought from Jerusalem and had displayed in the temple of his gods.
@@ -23,6 +27,7 @@ and 1,000 other vessels.
 # Ezra
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### The Names of the Returning Exiles
 
@@ -100,6 +105,7 @@ and 1,000 other vessels.
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### The Altar is Rebuilt
 
 [1] When the seventh month arrived and the Israelites were living in their towns, the people assembled in Jerusalem.
@@ -108,6 +114,9 @@ and 1,000 other vessels.
 [4] They observed the Feast of Shelters as required and offered the proper number of daily burnt offerings according to the requirement for each day.
 [5] Afterward they offered the continual burnt offerings and those for the new moons and those for all the holy assemblies of the Lord and all those that were being voluntarily offered to the Lord.
 [6] From the first day of the seventh month they began to offer burnt offerings to the Lord. However, the Lord’s temple was not at that time established.
+
+### Preparations for Rebuilding the Temple
+
 [7] So they provided money for the masons and carpenters, and food, beverages, and olive oil for the people of Sidon and Tyre, so that they would bring cedar timber from Lebanon to the seaport at Joppa, in accord with the edict of King Cyrus of Persia.
 [8] In the second year after they had come to the temple of God in Jerusalem, in the second month, Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak initiated the work, along with the rest of their associates, the priests and the Levites, and all those who were coming to Jerusalem from the exile. They appointed the Levites who were at least twenty years old to take charge of the work on the Lord’s temple.
 [9] So Jeshua appointed both his sons and his relatives, Kadmiel and his sons (the sons of Yehudah), to take charge of the workers in the temple of God, along with the sons of Henadad, their sons, and their relatives the Levites.
@@ -121,6 +130,7 @@ his loyal love toward Israel is forever.”
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Opposition to the Building Efforts
 
 [1] When the enemies of Judah and Benjamin learned that the former exiles were building a temple for the Lord God of Israel,
@@ -128,6 +138,9 @@ his loyal love toward Israel is forever.”
 [3] But Zerubbabel, Jeshua, and the rest of the leaders of Israel said to them, “You have no right to help us build the temple of our God. We will build it by ourselves for the Lord God of Israel, just as King Cyrus, the king of Persia, has commanded us.”
 [4] Then the local people began to discourage the people of Judah and to dishearten them from building.
 [5] They were hiring advisers to oppose them, so as to frustrate their plans, throughout the time of King Cyrus of Persia until the reign of King Darius of Persia.
+
+### Official Complaints Are Lodged Against the Jews
+
 [6] At the beginning of the reign of Ahasuerus they filed an accusation against the inhabitants of Judah and Jerusalem.
 [7] And during the reign of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of their colleagues wrote to King Artaxerxes of Persia. This letter was first written in Aramaic but then translated.
 [8] Rehum the commander and Shimshai the scribe wrote a letter concerning Jerusalem to King Artaxerxes as follows:
@@ -150,6 +163,7 @@ his loyal love toward Israel is forever.”
 # Ezra
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Tattenai Appeals to Darius
 
@@ -174,6 +188,7 @@ his loyal love toward Israel is forever.”
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Darius Issues a Decree
 
 [1] So Darius the king issued orders, and they searched in the archives of the treasury which were deposited there in Babylon.
@@ -188,6 +203,9 @@ his loyal love toward Israel is forever.”
 [10] so that they may be offering incense to the God of heaven and may be praying for the good fortune of the king and his family.
 [11] “I hereby give orders that if anyone changes this directive a beam is to be pulled out from his house and he is to be raised up and impaled on it, and his house is to be reduced to a rubbish heap for this indiscretion.
 [12] May God who makes his name to reside there overthrow any king or nation who reaches out to cause such change so as to destroy this temple of God in Jerusalem. I, Darius, have given orders. Let them be carried out with precision!”
+
+### The Temple Is Finally Dedicated
+
 [13] Then Tattenai governor of Trans-Euphrates, Shethar-Bozenai, and their colleagues acted accordingly—with precision, just as Darius the king had given instructions.
 [14] The elders of the Jews continued building and prospering, while at the same time Haggai the prophet and Zechariah the son of Iddo continued prophesying. They built and brought it to completion by the command of the God of Israel and by the command of Cyrus and Darius and Artaxerxes king of Persia.
 [15] They finished this temple on the third day of the month Adar, which is the sixth year of the reign of King Darius.
@@ -202,6 +220,7 @@ his loyal love toward Israel is forever.”
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### The Arrival of Ezra
 
 [1] Now after these things had happened, during the reign of King Artaxerxes of Persia, Ezra came up from Babylon. Ezra was the son of Seraiah, who was the son of Azariah, who was the son of Hilkiah,
@@ -214,6 +233,9 @@ his loyal love toward Israel is forever.”
 [8] He entered Jerusalem in the fifth month of the seventh year of the king.
 [9] On the first day of the first month he had determined to make the ascent from Babylon, and on the first day of the fifth month he arrived at Jerusalem, for the good hand of his God was on him.
 [10] Now Ezra had dedicated himself to the study of the law of the Lord, to its observance, and to teaching its statutes and judgments in Israel.
+
+### Artaxerxes Gives Official Endorsement to Ezra’s Mission
+
 [11] What follows is a copy of the letter that King Artaxerxes gave to Ezra the priestly scribe. Ezra was a scribe in matters pertaining to the commandments of the Lord and his statutes over Israel:
 [12] “Artaxerxes, king of kings, to Ezra the priest, a scribe of the law of the God of heaven:
 [13] I have now issued a decree that anyone in my kingdom from the people of Israel—even the priests and Levites—who wishes to do so may go up with you to Jerusalem.
@@ -236,6 +258,7 @@ his loyal love toward Israel is forever.”
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### The Leaders Who Returned with Ezra
 
 [1] These are the leaders and those enrolled with them by genealogy who were coming up with me from Babylon during the reign of King Artaxerxes:
@@ -252,6 +275,9 @@ his loyal love toward Israel is forever.”
 [12] from the descendants of Azgad, Johanan son of Hakkatan, and with him 110 men;
 [13] from the descendants of Adonikam there were the latter ones. Their names were Eliphelet, Jeuel, and Shemaiah, and with them 60 men;
 [14] from the descendants of Bigvai, Uthai, and Zaccur, and with them 70 men.
+
+### The Exiles Travel to Jerusalem
+
 [15] I had them assemble at the canal that flows toward Ahava, and we camped there for three days. I observed that the people and the priests were present, but I found no Levites there.
 [16] So I sent for Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah, and Meshullam, who were leaders, and Joiarib and Elnathan, who were teachers.
 [17] I sent them to Iddo, who was the leader in the place called Casiphia. I told them what to say to Iddo and his relatives, who were the temple servants in Casiphia, so they would bring us attendants for the temple of our God.
@@ -278,6 +304,7 @@ his loyal love toward Israel is forever.”
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### A Prayer of Ezra
 
 [1] Now when these things had been completed, the leaders approached me and said, “The people of Israel, the priests, and the Levites have not separated themselves from the local residents who practice detestable things similar to those of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
@@ -299,6 +326,7 @@ his loyal love toward Israel is forever.”
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### The People Confess Their Sins
 
 [1] While Ezra was praying and confessing, weeping and throwing himself to the ground before the temple of God, a very large crowd of Israelites—men, women, and children alike—gathered around him. The people wept loudly.
@@ -318,6 +346,9 @@ his loyal love toward Israel is forever.”
 [15] Only Jonathan son of Asahel and Jahzeiah son of Tikvah were against this, assisted by Meshullam and Shabbethai the Levite.
 [16] So the exiles proceeded accordingly. Ezra the priest separated out by name men who were leaders in their family groups. They sat down to consider this matter on the first day of the tenth month,
 [17] and on the first day of the first month they finished considering all the men who had married foreign wives.
+
+### Those Who Had Taken Foreign Wives
+
 [18] It was determined that from the descendants of the priests, the following had taken foreign wives: from the descendants of Jeshua son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah.
 [19] (They gave their word to send away their wives; their guilt offering was a ram from the flock for their guilt.)
 [20] From the descendants of Immer: Hanani and Zebadiah.

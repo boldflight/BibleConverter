@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul, an apostle (not from men, nor by human agency, but by Jesus Christ and God the Father who raised him from the dead)
@@ -9,11 +10,17 @@
 [3] Grace and peace to you from God the Father and our Lord Jesus Christ,
 [4] who gave himself for our sins to rescue us from this present evil age according to the will of our God and Father,
 [5] to whom be glory forever and ever! Amen.
+
+### Occasion of the Letter
+
 [6] I am astonished that you are so quickly deserting the one who called you by the grace of Christ and are following a different gospel—
 [7] not that there really is another gospel, but there are some who are disturbing you and wanting to distort the gospel of Christ.
 [8] But even if we (or an angel from heaven) should preach a gospel contrary to the one we preached to you, let him be condemned to hell!
 [9] As we have said before, and now I say again, if any one is preaching to you a gospel contrary to what you received, let him be condemned to hell!
 [10] Am I now trying to gain the approval of people, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a slave of Christ!
+
+### Paul’s Vindication of His Apostleship
+
 [11] Now I want you to know, brothers and sisters, that the gospel I preached is not of human origin.
 [12] For I did not receive it or learn it from any human source; instead I received it by a revelation of Jesus Christ.
 [13] For you have heard of my former way of life in Judaism, how I was savagely persecuting the church of God and trying to destroy it.
@@ -32,6 +39,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Confirmation from the Jerusalem Apostles
 
 [1] Then after fourteen years I went up to Jerusalem again with Barnabas, taking Titus along too.
@@ -44,10 +52,16 @@
 [8] (for he who empowered Peter for his apostleship to the circumcised also empowered me for my apostleship to the Gentiles)
 [9] and when James, Cephas, and John, who had a reputation as pillars, recognized the grace that had been given to me, they gave to Barnabas and me the right hand of fellowship, agreeing that we would go to the Gentiles and they to the circumcised.
 [10] They requested only that we remember the poor, the very thing I also was eager to do.
+
+### Paul Rebukes Peter
+
 [11] But when Cephas came to Antioch, I opposed him to his face, because he had clearly done wrong.
 [12] Until certain people came from James, he had been eating with the Gentiles. But when they arrived, he stopped doing this and separated himself because he was afraid of those who were pro-circumcision.
 [13] And the rest of the Jews also joined with him in this hypocrisy, so that even Barnabas was led astray with them by their hypocrisy.
 [14] But when I saw that they were not behaving consistently with the truth of the gospel, I said to Cephas in front of them all, “If you, although you are a Jew, live like a Gentile and not like a Jew, how can you try to force the Gentiles to live like Jews?”
+
+### The Justification of Jews and Gentiles
+
 [15] We are Jews by birth and not Gentile sinners,
 [16] yet we know that no one is justified by the works of the law but by the faithfulness of Jesus Christ. And we have come to believe in Christ Jesus, so that we may be justified by the faithfulness of Christ and not by the works of the law, because by the works of the law no one will be justified.
 [17] But if while seeking to be justified in Christ we ourselves have also been found to be sinners, is Christ then one who encourages sin? Absolutely not!
@@ -58,6 +72,7 @@
 # Galatians
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### Justification by Law or by Faith?
 
@@ -75,6 +90,9 @@
 [12] But the law is not based on faith, but the one who does the works of the law will live by them.
 [13] Christ redeemed us from the curse of the law by becoming a curse for us (because it is written, “Cursed is everyone who hangs on a tree”)
 [14] in order that in Christ Jesus the blessing of Abraham would come to the Gentiles, so that we could receive the promise of the Spirit by faith.
+
+### Inheritance Comes from Promises and not Law
+
 [15] Brothers and sisters, I offer an example from everyday life: When a covenant has been ratified, even though it is only a human contract, no one can set it aside or add anything to it.
 [16] Now the promises were spoken to Abraham and to his descendant. Scripture does not say, “and to the descendants,” referring to many, but “and to your descendant,” referring to one, who is Christ.
 [17] What I am saying is this: The law that came 430 years later does not cancel a covenant previously ratified by God, so as to invalidate the promise.
@@ -83,6 +101,9 @@
 [20] Now an intermediary is not for one party alone, but God is one.
 [21] Is the law therefore opposed to the promises of God? Absolutely not! For if a law had been given that was able to give life, then righteousness would certainly have come by the law.
 [22] But the scripture imprisoned everything under sin so that the promise could be given—because of the faithfulness of Jesus Christ—to those who believe.
+
+### Sons of God Are Heirs of Promise
+
 [23] Now before faith came we were held in custody under the law, being kept as prisoners until the coming faith would be revealed.
 [24] Thus the law had become our guardian until Christ, so that we could be declared righteous by faith.
 [25] But now that faith has come, we are no longer under a guardian.
@@ -94,8 +115,6 @@
 
 ## Chapter 4 <!-- scripture:4 -->
 
-### Heirs of Promise Are Not to Return to Law
-
 [1] Now I mean that the heir, as long as he is a minor, is no different from a slave, though he is the owner of everything.
 [2] But he is under guardians and managers until the date set by his father.
 [3] So also we, when we were minors, were enslaved under the basic forces of the world.
@@ -103,11 +122,17 @@
 [5] to redeem those who were under the law, so that we may be adopted as sons with full rights.
 [6] And because you are sons, God sent the Spirit of his Son into our hearts, who calls “Abba! Father!”
 [7] So you are no longer a slave but a son, and if you are a son, then you are also an heir through God.
+
+### Heirs of Promise Are Not to Return to Law
+
 [8] Formerly when you did not know God, you were enslaved to beings that by nature are not gods at all.
 [9] But now that you have come to know God (or rather to be known by God), how can you turn back again to the weak and worthless basic forces? Do you want to be enslaved to them all over again?
 [10] You are observing religious days and months and seasons and years.
 [11] I fear for you that my work for you may have been in vain.
 [12] I beg you, brothers and sisters, become like me, because I have become like you. You have done me no wrong!
+
+### Personal Appeal of Paul
+
 [13] But you know it was because of a physical illness that I first proclaimed the gospel to you,
 [14] and though my physical condition put you to the test, you did not despise or reject me. Instead, you welcomed me as though I were an angel of God, as though I were Christ Jesus himself!
 [15] Where then is your sense of happiness now? For I testify about you that if it were possible, you would have pulled out your eyes and given them to me!
@@ -116,6 +141,9 @@
 [18] However, it is good to be sought eagerly for a good purpose at all times, and not only when I am present with you.
 [19] My children—I am again undergoing birth pains until Christ is formed in you!
 [20] I wish I could be with you now and change my tone of voice, because I am perplexed about you.
+
+### An Appeal from Allegory
+
 [21] Tell me, you who want to be under the law, do you not understand the law?
 [22] For it is written that Abraham had two sons, one by the slave woman and the other by the free woman.
 [23] But one, the son by the slave woman, was born by natural descent, while the other, the son by the free woman, was born through the promise.
@@ -135,6 +163,7 @@ than those of the woman who has a husband.”
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Freedom of the Believer
 
 [1] For freedom Christ has set us free. Stand firm, then, and do not be subject again to the yoke of slavery.
@@ -149,6 +178,9 @@ than those of the woman who has a husband.”
 [10] I am confident in the Lord that you will accept no other view. But the one who is confusing you will pay the penalty, whoever he may be.
 [11] Now, brothers and sisters, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been removed.
 [12] I wish those agitators would go so far as to castrate themselves!
+
+### Practice Love
+
 [13] For you were called to freedom, brothers and sisters; only do not use your freedom as an opportunity to indulge your flesh, but through love serve one another.
 [14] For the whole law can be summed up in a single commandment, namely, “You must love your neighbor as yourself.”
 [15] However, if you continually bite and devour one another, beware that you are not consumed by one another.
@@ -167,6 +199,7 @@ than those of the woman who has a husband.”
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Support One Another
 
 [1] Brothers and sisters, if a person is discovered in some sin, you who are spiritual restore such a person in a spirit of gentleness. Pay close attention to yourselves, so that you are not tempted too.
@@ -179,6 +212,9 @@ than those of the woman who has a husband.”
 [8] because the person who sows to his own flesh will reap corruption from the flesh, but the one who sows to the Spirit will reap eternal life from the Spirit.
 [9] So we must not grow weary in doing good, for in due time we will reap, if we do not give up.
 [10] So then, whenever we have an opportunity, let us do good to all people, and especially to those who belong to the family of faith.
+
+### Final Instructions and Benediction
+
 [11] See what big letters I make as I write to you with my own hand!
 [12] Those who want to make a good showing in external matters are trying to force you to be circumcised. They do so only to avoid being persecuted for the cross of Christ.
 [13] For those who are circumcised do not obey the law themselves, but they want you to be circumcised so that they can boast about your flesh.

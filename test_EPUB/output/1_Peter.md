@@ -2,10 +2,14 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Peter, an apostle of Jesus Christ, to those temporarily residing abroad (in Pontus, Galatia, Cappadocia, the province of Asia, and Bithynia) who are chosen
 [2] according to the foreknowledge of God the Father by being set apart by the Spirit for obedience and for sprinkling with Jesus Christ’s blood. May grace and peace be yours in full measure!
+
+### New Birth to Joy and Holiness
+
 [3] Blessed be the God and Father of our Lord Jesus Christ! By his great mercy he gave us new birth into a living hope through the resurrection of Jesus Christ from the dead,
 [4] that is, into an inheritance imperishable, undefiled, and unfading. It is reserved in heaven for you,
 [5] who by God’s power are protected through faith for a salvation ready to be revealed in the last time.
@@ -32,11 +36,12 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
-### A Living Stone, a Chosen People
-
 [1] So get rid of all evil and all deceit and hypocrisy and envy and all slander.
 [2] And yearn like newborn infants for pure, spiritual milk, so that by it you may grow up to salvation,
 [3] if you have experienced the Lord’s kindness.
+
+### A Living Stone, a Chosen People
+
 [4] So as you come to him, a living stone rejected by men but chosen and precious in God’s sight,
 [5] you yourselves, as living stones, are built up as a spiritual house to be a holy priesthood and to offer spiritual sacrifices that are acceptable to God through Jesus Christ.
 [6] For it says in scripture, “Look, I lay in Zion a stone, a chosen and precious cornerstone, and whoever believes in him will never be put to shame.”
@@ -46,6 +51,9 @@
 [10] You once were not a people, but now you are God’s people. You were shown no mercy, but now you have received mercy.
 [11] Dear friends, I urge you as foreigners and exiles to keep away from fleshly desires that do battle against the soul,
 [12] and maintain good conduct among the non-Christians, so that though they now malign you as wrongdoers, they may see your good deeds and glorify God when he appears.
+
+### Submission to Authorities
+
 [13] Be subject to every human institution for the Lord’s sake, whether to a king as supreme
 [14] or to governors as those he commissions to punish wrongdoers and praise those who do good.
 [15] For God wants you to silence the ignorance of foolish people by doing good.
@@ -63,6 +71,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Wives and Husbands
 
 [1] In the same way, wives, be subject to your own husbands. Then, even if some are disobedient to the word, they will be won over without a word by the way you live,
@@ -72,6 +81,9 @@
 [5] For in the same way the holy women who hoped in God long ago adorned themselves by being subject to their husbands,
 [6] like Sarah who obeyed Abraham, calling him lord. You become her children when you do what is good and have no fear in doing so.
 [7] Husbands, in the same way, treat your wives with consideration as the weaker partners and show them honor as fellow heirs of the grace of life. In this way nothing will hinder your prayers.
+
+### Suffering for Doing Good
+
 [8] Finally, all of you be harmonious, sympathetic, affectionate, compassionate, and humble.
 [9] Do not return evil for evil or insult for insult, but instead bless others because you were called to inherit a blessing.
 [10] For
@@ -93,14 +105,15 @@ but by being made alive in the spirit.
 
 ## Chapter 4 <!-- scripture:4 -->
 
-### Service, Suffering, and Judgment
-
 [1] So, since Christ suffered in the flesh, you also arm yourselves with the same attitude, because the one who has suffered in the flesh has finished with sin,
 [2] in that he spends the rest of his time on earth concerned about the will of God and not human desires.
 [3] For the time that has passed was sufficient for you to do what the non-Christians desire. You lived then in debauchery, evil desires, drunkenness, carousing, drinking bouts, and wanton idolatries.
 [4] So they are astonished when you do not rush with them into the same flood of wickedness, and they vilify you.
 [5] They will face a reckoning before Jesus Christ who stands ready to judge the living and the dead.
 [6] Now it was for this very purpose that the gospel was preached to those who are now dead, so that though they were judged in the flesh by human standards they may live spiritually by God’s standards.
+
+### Service, Suffering, and Judgment
+
 [7] For the culmination of all things is near. So be self-controlled and sober-minded for the sake of prayer.
 [8] Above all keep your love for one another fervent, because love covers a multitude of sins.
 [9] Show hospitality to one another without complaining.
@@ -118,6 +131,7 @@ but by being made alive in the spirit.
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Leading and Living in God’s Flock
 
 [1] So as your fellow elder and a witness of Christ’s sufferings and as one who shares in the glory that will be revealed, I urge the elders among you:
@@ -131,6 +145,9 @@ but by being made alive in the spirit.
 [9] Resist him, strong in your faith, because you know that your brothers and sisters throughout the world are enduring the same kinds of suffering.
 [10] And, after you have suffered for a little while, the God of all grace who called you to his eternal glory in Christ will himself restore, confirm, strengthen, and establish you.
 [11] To him belongs the power forever. Amen.
+
+### Final Greetings
+
 [12] Through Silvanus, whom I know to be a faithful brother, I have written to you briefly, in order to encourage you and testify that this is the true grace of God. Stand fast in it.
 [13] The church in Babylon, chosen together with you, greets you, and so does Mark, my son.
 [14] Greet one another with a loving kiss. Peace to all of you who are in Christ.

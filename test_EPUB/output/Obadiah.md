@@ -2,10 +2,14 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### God’s Judgment on Edom
 
 [1] The vision that Obadiah saw.
 The Sovereign Lord says this concerning Edom:
+
+### Edom’s Approaching Destruction
+
 We have heard a report from the Lord.
 An envoy was sent among the nations, saying,
 “Arise! Let us make war against Edom!”
@@ -33,6 +37,9 @@ that will take you by surprise!
 the advisers from Esau’s mountain.
 [9] Your warriors will be shattered, O Teman,
 so that everyone will be destroyed from Esau’s mountain!
+
+### Edom’s Treachery Against Judah
+
 [10] “Because you violently slaughtered your relatives, the people of Jacob,
 shame will cover you, and you will be destroyed forever.
 [11] You stood aloof while strangers took his army captive,
@@ -47,6 +54,9 @@ You should not have joined in gloating over their misfortune when they suffered 
 You should not have looted their wealth when they endured distress.
 [14] You should not have stood at the fork in the road to slaughter those trying to escape.
 You should not have captured their refugees when they suffered adversity.
+
+### The Coming Day of the Lord
+
 [15] “For the day of the Lord is approaching for all the nations!
 Just as you have done, so it will be done to you.
 You will get exactly what your deeds deserve.

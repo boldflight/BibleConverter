@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul, a slave of Christ Jesus, called to be an apostle, set apart for the gospel of God.
@@ -11,6 +12,9 @@
 [5] Through him we have received grace and our apostleship to bring about the obedience of faith among all the Gentiles on behalf of his name.
 [6] You also are among them, called to belong to Jesus Christ.
 [7] To all those loved by God in Rome, called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ!
+
+### Paul’s Desire to Visit Rome
+
 [8] First of all, I thank my God through Jesus Christ for all of you, because your faith is proclaimed throughout the whole world.
 [9] For God, whom I serve in my spirit in the gospel of his Son, is my witness that I continually remember you
 [10] and I always ask in my prayers, if perhaps now at last I may succeed in visiting you according to the will of God.
@@ -19,8 +23,14 @@
 [13] I do not want you to be unaware, brothers and sisters, that I often intended to come to you (and was prevented until now), so that I may have some fruit even among you, just as I already have among the rest of the Gentiles.
 [14] I am a debtor both to the Greeks and to the barbarians, both to the wise and to the foolish.
 [15] Thus I am eager also to preach the gospel to you who are in Rome.
+
+### The Power of the Gospel
+
 [16] For I am not ashamed of the gospel, for it is God’s power for salvation to everyone who believes, to the Jew first and also to the Greek.
 [17] For the righteousness of God is revealed in the gospel from faith to faith, just as it is written, “The righteous by faith will live.”
+
+### The Condemnation of the Unrighteous
+
 [18] For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of people who suppress the truth by their unrighteousness,
 [19] because what can be known about God is plain to them, because God has made it plain to them.
 [20] For since the creation of the world his invisible attributes—his eternal power and divine nature—have been clearly seen, because they are understood through what has been made. So people are without excuse.
@@ -40,6 +50,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### The Condemnation of the Moralist
 
 [1] Therefore you are without excuse, whoever you are, when you judge someone else. For on whatever grounds you judge another, you condemn yourself, because you who judge practice the same things.
@@ -58,6 +69,9 @@
 [14] For whenever the Gentiles, who do not have the law, do by nature the things required by the law, these who do not have the law are a law to themselves.
 [15] They show that the work of the law is written in their hearts, as their conscience bears witness and their conflicting thoughts accuse or else defend them,
 [16] on the day when God will judge the secrets of human hearts, according to my gospel through Christ Jesus.
+
+### The Condemnation of the Jew
+
 [17] But if you call yourself a Jew and rely on the law and boast of your relationship to God
 [18] and know his will and approve the superior things because you receive instruction from the law,
 [19] and if you are convinced that you yourself are a guide to the blind, a light to those who are in darkness,
@@ -75,8 +89,6 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
-### The Condemnation of the World
-
 [1] Therefore what advantage does the Jew have, or what is the value of circumcision?
 [2] Actually, there are many advantages. First of all, the Jews were entrusted with the oracles of God.
 [3] What then? If some were unfaithful, their unfaithfulness will not nullify God’s faithfulness, will it?
@@ -85,6 +97,9 @@
 [6] Absolutely not! For otherwise how could God judge the world?
 [7] For if by my lie the truth of God enhances his glory, why am I still actually being judged as a sinner?
 [8] And why not say, “Let us do evil so that good may come of it”?—as some who slander us allege that we say. (Their condemnation is deserved!)
+
+### The Condemnation of the World
+
 [9] What then? Are we better off? Certainly not, for we have already charged that Jews and Greeks alike are all under sin,
 [10] just as it is written:
 [19] Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world may be held accountable to God.
@@ -103,6 +118,7 @@
 # Romans
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### The Illustration of Justification
 
@@ -133,6 +149,7 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### The Expectation of Justification
 
 [1] Therefore, since we have been declared righteous by faith, we have peace with God through our Lord Jesus Christ,
@@ -146,6 +163,9 @@
 [9] Much more then, because we have now been declared righteous by his blood, we will be saved through him from God’s wrath.
 [10] For if while we were enemies we were reconciled to God through the death of his Son, how much more, since we have been reconciled, will we be saved by his life?
 [11] Not only this, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received this reconciliation.
+
+### The Amplification of Justification
+
 [12] So then, just as sin entered the world through one man and death through sin, and so death spread to all people because all sinned—
 [13] for before the law was given, sin was in the world, but there is no accounting for sin when there is no law.
 [14] Yet death reigned from Adam until Moses even over those who did not sin in the same way that Adam (who is a type of the coming one) transgressed.
@@ -159,6 +179,7 @@
 # Romans
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### The Believer’s Freedom from Sin’s Domination
 
@@ -176,6 +197,9 @@
 [12] Therefore do not let sin reign in your mortal body so that you obey its desires,
 [13] and do not present your members to sin as instruments to be used for unrighteousness, but present yourselves to God as those who are alive from the dead and your members to God as instruments to be used for righteousness.
 [14] For sin will have no mastery over you, because you are not under law but under grace.
+
+### The Believer’s Enslavement to God’s Righteousness
+
 [15] What then? Shall we sin because we are not under law but under grace? Absolutely not!
 [16] Do you not know that if you present yourselves as obedient slaves, you are slaves of the one you obey, either of sin resulting in death, or obedience resulting in righteousness?
 [17] But thanks be to God that though you were slaves to sin, you obeyed from the heart that pattern of teaching you were entrusted to,
@@ -188,6 +212,7 @@
 # Romans
 
 ## Chapter 7 <!-- scripture:7 -->
+
 
 ### The Believer’s Relationship to the Law
 
@@ -219,6 +244,7 @@
 # Romans
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### The Believer’s Relationship to the Holy Spirit
 
@@ -265,6 +291,7 @@
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### Israel’s Rejection Considered
 
 [1] I am telling the truth in Christ (I am not lying!), for my conscience assures me in the Holy Spirit—
@@ -295,6 +322,9 @@
 [27] And Isaiah cries out on behalf of Israel, “Though the number of the children of Israel are as the sand of the sea, only the remnant will be saved,
 [28] for the Lord will execute his sentence on the earth completely and quickly.”
 [29] Just as Isaiah predicted,
+
+### Israel’s Rejection Culpable
+
 [30] What shall we say then?—that the Gentiles who did not pursue righteousness obtained it, that is, a righteousness that is by faith,
 [31] but Israel even though pursuing a law of righteousness did not attain it.
 [32] Why not? Because they pursued it not by faith but (as if it were possible) by works. They stumbled over the stumbling stone,
@@ -327,6 +357,7 @@
 # Romans
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### Israel’s Rejection not Complete nor Final
 
@@ -366,16 +397,23 @@
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### Consecration of the Believer’s Life
 
 [1] Therefore I exhort you, brothers and sisters, by the mercies of God, to present your bodies as a sacrifice—alive, holy, and pleasing to God —which is your reasonable service.
 [2] Do not be conformed to this present world, but be transformed by the renewing of your mind, so that you may test and approve what is the will of God—what is good and well-pleasing and perfect.
+
+### Conduct in Humility
+
 [3] For by the grace given to me I say to every one of you not to think more highly of yourself than you ought to think, but to think with sober discernment, as God has distributed to each of you a measure of faith.
 [4] For just as in one body we have many members, and not all the members serve the same function,
 [5] so we who are many are one body in Christ, and individually we are members who belong to one another.
 [6] And we have different gifts according to the grace given to us. If the gift is prophecy, that individual must use it in proportion to his faith.
 [7] If it is service, he must serve; if it is teaching, he must teach;
 [8] if it is exhortation, he must exhort; if it is contributing, he must do so with sincerity; if it is leadership, he must do so with diligence; if it is showing mercy, he must do so with cheerfulness.
+
+### Conduct in Love
+
 [9] Love must be without hypocrisy. Abhor what is evil, cling to what is good.
 [10] Be devoted to one another with mutual love, showing eagerness in honoring one another.
 [11] Do not lag in zeal, be enthusiastic in spirit, serve the Lord.
@@ -393,6 +431,7 @@
 
 ## Chapter 13 <!-- scripture:13 -->
 
+
 ### Submission to Civil Government
 
 [1] Let every person be subject to the governing authorities. For there is no authority except by God’s appointment, and the authorities that exist have been instituted by God.
@@ -402,9 +441,15 @@
 [5] Therefore it is necessary to be in subjection, not only because of the wrath of the authorities but also because of your conscience.
 [6] For this reason you also pay taxes, for the authorities are God’s servants devoted to governing.
 [7] Pay everyone what is owed: taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honor to whom honor is due.
+
+### Exhortation to Love Neighbors
+
 [8] Owe no one anything, except to love one another, for the one who loves his neighbor has fulfilled the law.
 [9] For the commandments, “Do not commit adultery, do not murder, do not steal, do not covet,” (and if there is any other commandment) are summed up in this, “Love your neighbor as yourself.”
 [10] Love does no wrong to a neighbor. Therefore love is the fulfillment of the law.
+
+### Motivation to Godly Conduct
+
 [11] And do this because we know the time, that it is already the hour for us to awake from sleep, for our salvation is now nearer than when we became believers.
 [12] The night has advanced toward dawn; the day is near. So then we must lay aside the works of darkness, and put on the weapons of light.
 [13] Let us live decently as in the daytime, not in carousing and drunkenness, not in sexual immorality and sensuality, not in discord and jealousy.
@@ -412,6 +457,7 @@
 # Romans
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### Exhortation to Mutual Forbearance
 
@@ -427,6 +473,9 @@
 [10] But you who eat vegetables only—why do you judge your brother or sister? And you who eat everything—why do you despise your brother or sister? For we will all stand before the judgment seat of God.
 [11] For it is written, “As I live, says the Lord, every knee will bow to me, and every tongue will give praise to God.”
 [12] Therefore, each of us will give an account of himself to God.
+
+### Exhortation for the Strong not to Destroy the Weak
+
 [13] Therefore we must not pass judgment on one another, but rather determine never to place an obstacle or a trap before a brother or sister.
 [14] I know and am convinced in the Lord Jesus that there is nothing unclean in itself; still, it is unclean to the one who considers it unclean.
 [15] For if your brother or sister is distressed because of what you eat, you are no longer walking in love. Do not destroy by your food someone for whom Christ died.
@@ -442,6 +491,7 @@
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### Exhortation for the Strong to Help the Weak
 
 [1] But we who are strong ought to bear with the failings of the weak, and not just please ourselves.
@@ -450,6 +500,9 @@
 [4] For everything that was written in former times was written for our instruction, so that through endurance and through encouragement of the scriptures we may have hope.
 [5] Now may the God of endurance and comfort give you unity with one another in accordance with Christ Jesus,
 [6] so that together you may with one voice glorify the God and Father of our Lord Jesus Christ.
+
+### Exhortation to Mutual Acceptance
+
 [7] Receive one another, then, just as Christ also received you, to God’s glory.
 [8] For I tell you that Christ has become a servant of the circumcised on behalf of God’s truth to confirm the promises made to the fathers,
 [9] and thus the Gentiles glorify God for his mercy. As it is written, “Because of this I will confess you among the Gentiles, and I will sing praises to your name.”
@@ -457,6 +510,9 @@
 [11] And again, “Praise the Lord all you Gentiles, and let all the peoples praise him.”
 [12] And again Isaiah says, “The root of Jesse will come, and the one who rises to rule over the Gentiles, in him will the Gentiles hope.”
 [13] Now may the God of hope fill you with all joy and peace as you believe in him, so that you may abound in hope by the power of the Holy Spirit.
+
+### Paul’s Motivation for Writing the Letter
+
 [14] But I myself am fully convinced about you, my brothers and sisters, that you yourselves are full of goodness, filled with all knowledge, and able to instruct one another.
 [15] But I have written more boldly to you on some points so as to remind you, because of the grace given to me by God
 [16] to be a minister of Christ Jesus to the Gentiles. I serve the gospel of God like a priest, so that the Gentiles may become an acceptable offering, sanctified by the Holy Spirit.
@@ -465,6 +521,9 @@
 [19] in the power of signs and wonders, in the power of the Spirit of God. So from Jerusalem even as far as Illyricum I have fully preached the gospel of Christ.
 [20] And in this way I desire to preach where Christ has not been named, so as not to build on another person’s foundation,
 [21] but as it is written: “Those who were not told about him will see, and those who have not heard will understand.”
+
+### Paul’s Intention of Visiting the Romans
+
 [22] This is the reason I was often hindered from coming to you.
 [23] But now there is nothing more to keep me in these regions, and I have for many years desired to come to you
 [24] when I go to Spain. For I hope to visit you when I pass through and that you will help me on my journey there, after I have enjoyed your company for a while.
@@ -480,6 +539,7 @@
 # Romans
 
 ## Chapter 16 <!-- scripture:16 -->
+
 
 ### Personal Greetings
 

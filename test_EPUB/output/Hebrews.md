@@ -2,12 +2,16 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Introduction: God Has Spoken Fully and Finally in His Son
 
 [1] After God spoke long ago in various portions and in various ways to our ancestors through the prophets,
 [2] in these last days he has spoken to us in a son, whom he appointed heir of all things, and through whom he created the world.
 [3] The Son is the radiance of his glory and the representation of his essence, and he sustains all things by his powerful word, and so when he had accomplished cleansing for sins, he sat down at the right hand of the Majesty on high.
 [4] Thus he became so far better than the angels as he has inherited a name superior to theirs.
+
+### The Son Is Superior to Angels
+
 [5] For to which of the angels did God ever say, “You are my son! Today I have fathered you”? And in another place he says, “I will be his father and he will be my son.”
 [6] But when he again brings his firstborn into the world, he says, “Let all the angels of God worship him!”
 [7] And he says of the angels, “He makes his angels winds and his ministers a flame of fire,”
@@ -19,12 +23,16 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Warning Against Drifting Away
 
 [1] Therefore we must pay closer attention to what we have heard, so that we do not drift away.
 [2] For if the message spoken through angels proved to be so firm that every violation or disobedience received its just penalty,
 [3] how will we escape if we neglect such a great salvation? It was first communicated through the Lord and was confirmed to us by those who heard him,
 [4] while God confirmed their witness with signs and wonders and various miracles and gifts of the Holy Spirit distributed according to his will.
+
+### Exposition of Psalm 8: Jesus and the Destiny of Humanity
+
 [5] For he did not put the world to come, about which we are speaking, under the control of angels.
 [6] Instead someone testified somewhere:
 [9] but we see Jesus, who was made lower than the angels for a little while, now crowned with glory and honor because he suffered death, so that by God’s grace he would experience death on behalf of everyone.
@@ -41,6 +49,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Jesus and Moses
 
 [1] Therefore, holy brothers and sisters, partners in a heavenly calling, take note of Jesus, the apostle and high priest whom we confess,
@@ -49,6 +58,9 @@
 [4] For every house is built by someone, but the builder of all things is God.
 [5] Now Moses was faithful in all God’s house as a servant, to testify to the things that would be spoken.
 [6] But Christ is faithful as a son over God’s house. We are of his house, if in fact we hold firmly to our confidence and the hope we take pride in.
+
+### Exposition of Psalm 95: Hearing God’s Word in Faith
+
 [7] Therefore, as the Holy Spirit says,
 [12] See to it, brothers and sisters, that none of you has an evil, unbelieving heart that forsakes the living God.
 [13] But exhort one another each day, as long as it is called “Today,” that none of you may become hardened by sin’s deception.
@@ -61,6 +73,7 @@
 # Hebrews
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### God’s Promised Rest
 
@@ -77,14 +90,15 @@
 [11] Thus we must make every effort to enter that rest, so that no one may fall by following the same pattern of disobedience.
 [12] For the word of God is living and active and sharper than any double-edged sword, piercing even to the point of dividing soul from spirit, and joints from marrow; it is able to judge the desires and thoughts of the heart.
 [13] And no creature is hidden from God, but everything is naked and exposed to the eyes of him to whom we must render an account.
+
+### Jesus Our Compassionate High Priest
+
 [14] Therefore since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold fast to our confession.
 [15] For we do not have a high priest incapable of sympathizing with our weaknesses, but one who has been tempted in every way just as we are, yet without sin.
 [16] Therefore let us confidently approach the throne of grace to receive mercy and find grace whenever we need help.
 # Hebrews
 
 ## Chapter 5 <!-- scripture:5 -->
-
-### The Need to Move on to Maturity
 
 [1] For every high priest is taken from among the people and appointed to represent them before God, to offer both gifts and sacrifices for sins.
 [2] He is able to deal compassionately with those who are ignorant and erring, since he also is subject to weakness,
@@ -96,6 +110,9 @@
 [8] Although he was a son, he learned obedience through the things he suffered.
 [9] And by being perfected in this way, he became the source of eternal salvation to all who obey him,
 [10] and he was designated by God as high priest in the order of Melchizedek.
+
+### The Need to Move on to Maturity
+
 [11] On this topic we have much to say and it is difficult to explain, since you have become sluggish in hearing.
 [12] For though you should in fact be teachers by this time, you need someone to teach you the beginning elements of God’s utterances. You have gone back to needing milk, not solid food.
 [13] For everyone who lives on milk is inexperienced in the message of righteousness, because he is an infant.
@@ -128,6 +145,7 @@
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### The Nature of Melchizedek’s Priesthood
 
 [1] Now this Melchizedek, king of Salem, priest of the most high God, met Abraham as he was returning from defeating the kings and blessed him.
@@ -140,6 +158,9 @@
 [8] and in one case tithes are received by mortal men, while in the other by him who is affirmed to be alive.
 [9] And it could be said that Levi himself, who receives tithes, paid a tithe through Abraham.
 [10] For he was still in his ancestor Abraham’s loins when Melchizedek met him.
+
+### Jesus and the Priesthood of Melchizedek
+
 [11] So if perfection had in fact been possible through the Levitical priesthood—for on that basis the people received the law—what further need would there have been for another priest to arise, said to be in the order of Melchizedek and not in Aaron’s order?
 [12] For when the priesthood changes, a change in the law must come as well.
 [13] Yet the one these things are spoken about belongs to a different tribe, and no one from that tribe has ever officiated at the altar.
@@ -162,6 +183,7 @@
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### The High Priest of a Better Covenant
 
 [1] Now the main point of what we are saying is this: We have such a high priest, one who sat down at the right hand of the throne of the Majesty in heaven,
@@ -177,6 +199,7 @@
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### The Arrangement and Ritual of the Earthly Sanctuary
 
 [1] Now the first covenant, in fact, had regulations for worship and its earthly sanctuary.
@@ -189,6 +212,9 @@
 [8] The Holy Spirit is making clear that the way into the Holy Place had not yet appeared as long as the old tabernacle was standing.
 [9] This was a symbol for the time then present, when gifts and sacrifices were offered that could not perfect the conscience of the worshiper.
 [10] They served only for matters of food and drink and various ritual washings; they are external regulations imposed until the new order came.
+
+### Christ’s Service in the Heavenly Sanctuary
+
 [11] But now Christ has come as the high priest of the good things to come. He passed through the greater and more perfect tent not made with hands, that is, not of this creation,
 [12] and he entered once for all into the Most Holy Place not by the blood of goats and calves but by his own blood, and so he himself secured eternal redemption.
 [13] For if the blood of goats and bulls and the ashes of a young cow sprinkled on those who are defiled consecrated them and provided ritual purity,
@@ -211,6 +237,7 @@
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### Concluding Exposition: Old and New Sacrifices Contrasted
 
 [1] For the law possesses a shadow of the good things to come but not the reality itself, and is therefore completely unable, by the same sacrifices offered continually, year after year, to perfect those who come to worship.
@@ -229,6 +256,9 @@
 [16] “This is the covenant that I will establish with them after those days, says the Lord. I will put my laws on their hearts and I will inscribe them on their minds,”
 [17] then he says, “Their sins and their lawless deeds I will remember no longer.”
 [18] Now where there is forgiveness of these, there is no longer any offering for sin.
+
+### Drawing Near to God in Enduring Faith
+
 [19] Therefore, brothers and sisters, since we have confidence to enter the sanctuary by the blood of Jesus,
 [20] by the fresh and living way that he inaugurated for us through the curtain, that is, through his flesh,
 [21] and since we have a great priest over the house of God,
@@ -253,6 +283,7 @@
 # Hebrews
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### People Commended for Their Faith
 
@@ -300,6 +331,7 @@
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### The Lord’s Discipline
 
 [1] Therefore, since we are surrounded by such a great cloud of witnesses, we must get rid of every weight and the sin that clings so closely, and run with endurance the race set out for us,
@@ -314,6 +346,9 @@
 [11] Now all discipline seems painful at the time, not joyful. But later it produces the fruit of peace and righteousness for those trained by it.
 [12] Therefore, strengthen your listless hands and your weak knees,
 [13] and make straight paths for your feet, so that what is lame may not be put out of joint but be healed.
+
+### Do Not Reject God’s Warning
+
 [14] Pursue peace with everyone, and holiness, for without it no one will see the Lord.
 [15] See to it that no one comes short of the grace of God, that no one be like a bitter root springing up and causing trouble, and through it many become defiled.
 [16] And see to it that no one becomes an immoral or godless person like Esau, who sold his own birthright for a single meal.
@@ -333,6 +368,7 @@
 # Hebrews
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### Final Exhortations
 
@@ -355,6 +391,9 @@
 [17] Obey your leaders and submit to them, for they keep watch over your souls and will give an account for their work. Let them do this with joy and not with complaints, for this would be no advantage for you.
 [18] Pray for us, for we are sure that we have a clear conscience and desire to conduct ourselves rightly in every respect.
 [19] I especially ask you to pray that I may be restored to you very soon.
+
+### Benediction and Conclusion
+
 [20] Now may the God of peace who by the blood of the eternal covenant brought back from the dead the great shepherd of the sheep, our Lord Jesus,
 [21] equip you with every good thing to do his will, working in us what is pleasing before him through Jesus Christ, to whom be glory forever. Amen.
 [22] Now I urge you, brothers and sisters, bear with my message of exhortation, for in fact I have written to you briefly.

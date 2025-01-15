@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Introduction to the Book
 
 [1] The proverbs of Solomon, son of David, king of Israel:
@@ -15,12 +16,18 @@ a discerning plan to the young person.
 and let the discerning acquire guidance!)
 [6] To discern the meaning of a proverb and a parable,
 the sayings of the wise and their riddles.
+
+### Introduction to the Theme of the Book
+
 [7] Fearing the Lord is the beginning of discernment,
 but fools have despised wisdom and moral instruction.
 [8] Listen, my child, to the instruction from your father,
 and do not forsake the teaching from your mother.
 [9] For they will be like an elegant garland on your head,
 and like pendants around your neck.
+
+### Admonition to Avoid Easy but Unjust Riches
+
 [10] My child, if sinners try to entice you,
 do not consent!
 [11] If they say, “Come with us!
@@ -42,6 +49,9 @@ in plain sight of any bird,
 they ambush their own lives!
 [19] Such are the ways of all who gain profit unjustly;
 it takes away the life of those who obtain it!
+
+### Warning Against Disregarding Wisdom
+
 [20] Wisdom calls out in the street,
 she shouts loudly in the plazas;
 [21] at the head of the noisy streets she calls,
@@ -77,6 +87,7 @@ and will be at ease from the dread of harm.”
 # Proverbs
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Benefits of Seeking Wisdom
 
@@ -128,6 +139,7 @@ and the treacherous will be torn away from it.
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Exhortations to Seek Wisdom and Walk with the Lord
 
 [1] My child, do not forget my teaching,
@@ -155,6 +167,9 @@ and your vats will overflow with new wine.
 and do not loathe his rebuke.
 [12] For the Lord disciplines those he loves,
 just as a father disciplines the son in whom he delights.
+
+### Blessings of Obtaining Wisdom
+
 [13] Blessed is the one who has found wisdom,
 and the one who obtains understanding.
 [14] For her benefit is more profitable than silver,
@@ -183,6 +198,9 @@ when you lie down your sleep will be pleasant.
 or when destruction overtakes the wicked;
 [26] for the Lord will be the source of your confidence,
 and he will guard your foot from being caught in a trap.
+
+### Wisdom Demonstrated in Relationships with People
+
 [27] Do not withhold good from those who need it,
 when you have the ability to help.
 [28] Do not say to your neighbor, “Go! Return tomorrow
@@ -204,6 +222,7 @@ but he holds fools up to public contempt.
 # Proverbs
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Admonition to Follow Righteousness and Avoid Wickedness
 
@@ -266,6 +285,7 @@ turn yourself away from evil.
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Admonition to Avoid Seduction to Evil
 
 [1] My child, be attentive to my wisdom,
@@ -318,6 +338,7 @@ because of the greatness of his folly he will reel.
 # Proverbs
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### Admonitions and Warnings against Dangerous and Destructive Acts
 
@@ -400,6 +421,7 @@ he will not be willing, even if you multiply the compensation.
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### Admonition to Avoid the Wiles of the Adulteress
 
 [1] My child, devote yourself to my words
@@ -462,6 +484,7 @@ going down to the chambers of death.
 # Proverbs
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### The Appeal of Wisdom
 
@@ -544,6 +567,7 @@ all who hate me love death.”
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### The Consequences of Accepting Wisdom or Folly
 
 [1] Wisdom has built her house;
@@ -585,6 +609,7 @@ that her guests are in the depths of the grave.
 # Proverbs
 
 ## Chapter 10 <!-- scripture:10 -->
+
 
 ### The First Collection of Solomonic Proverbs
 
@@ -1356,8 +1381,6 @@ but the victory is from the Lord.
 
 ## Chapter 22 <!-- scripture:22 -->
 
-### The Sayings of the Wise
-
 [1] A good name is to be chosen rather than great wealth,
 good favor more than silver or gold.
 [2] The rich and the poor are met together;
@@ -1390,6 +1413,9 @@ the one against whom the Lord is angry will fall into it.
 but the rod of discipline will drive it far from him.
 [16] The one who oppresses the poor to increase his own gain
 and the one who gives to the rich —both end up only in poverty.
+
+### The Sayings of the Wise
+
 [17] Incline your ear and listen to the words of the wise,
 and apply your mind to my instruction.
 [18] For it is pleasing if you keep these sayings within you,
@@ -1500,8 +1526,6 @@ When will I awake? I will look for another drink.”
 
 ## Chapter 24 <!-- scripture:24 -->
 
-### Further Sayings of the Wise
-
 [1] Do not envy evil people,
 do not desire to be with them;
 [2] for their hearts contemplate violence,
@@ -1549,6 +1573,9 @@ and the lamp of the wicked will be extinguished.
 and do not associate with rebels,
 [22] for suddenly their destruction will overtake them,
 and who knows the ruinous judgment both the Lord and the king can bring?
+
+### Further Sayings of the Wise
+
 [23] These sayings also are from the wise:
 To show partiality in judgment is terrible:
 [24] The one who says to the guilty, “You are innocent,”
@@ -1577,6 +1604,7 @@ and your need like an armed robber.”
 # Proverbs
 
 ## Chapter 25 <!-- scripture:25 -->
+
 
 ### Proverbs of Solomon Collected by Hezekiah
 
@@ -1882,6 +1910,7 @@ and the one who lives an upright life is an abomination to the wicked.
 
 ## Chapter 30 <!-- scripture:30 -->
 
+
 ### The Words of Agur
 
 [1] The words of Agur, the son of Jakeh; an oracle:
@@ -1972,6 +2001,7 @@ so stirring up anger produces strife.
 
 ## Chapter 31 <!-- scripture:31 -->
 
+
 ### The Words of Lemuel
 
 [1] The words of King Lemuel, an oracle that his mother taught him:
@@ -1992,6 +2022,9 @@ and remember their misery no more.
 for the legal rights of all the dying.
 [9] Open your mouth, judge in righteousness,
 and plead the cause of the poor and needy.
+
+### The Wife of Noble Character
+
 [10] Who can find a wife of noble character?
 For her value is far more than rubies.
 [11] Her husband’s heart has trusted her,

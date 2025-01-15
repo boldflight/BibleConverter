@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Adonijah Tries to Seize the Throne
 
 [1] King David was very old; even when they covered him with blankets, he could not get warm.
@@ -31,6 +32,9 @@
 [25] For today he has gone down and sacrificed many cattle, steers, and sheep and has invited all the king’s sons, the army commanders, and Abiathar the priest. At this moment they are having a feast in his presence, and they have declared, ‘Long live King Adonijah!’
 [26] But he did not invite me—your servant—or Zadok the priest, or Benaiah son of Jehoiada, or your servant Solomon.
 [27] Has my master the king authorized this without informing your servants who should succeed my master the king on his throne?”
+
+### David Picks Solomon as His Successor
+
 [28] King David responded, “Summon Bathsheba!” She came and stood before the king.
 [29] The king swore an oath: “As certainly as the Lord lives (he who has rescued me from every danger),
 [30] I will keep today the oath I swore to you by the Lord God of Israel: ‘Surely Solomon your son will be king after me; he will sit in my place on my throne.’”
@@ -61,6 +65,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### David’s Final Words to Solomon
 
 [1] When David was close to death, he told Solomon his son:
@@ -74,6 +79,9 @@
 [9] But now don’t treat him as if he were innocent. You are a wise man and you know how to handle him; make sure he has a bloody death.”
 [10] Then David passed away and was buried in the City of David.
 [11] David reigned over Israel forty years; he reigned in Hebron seven years, and in Jerusalem thirty-three years.
+
+### Solomon Secures the Throne
+
 [12] Solomon sat on his father David’s throne, and his royal authority was firmly solidified.
 [13] Haggith’s son Adonijah visited Bathsheba, Solomon’s mother. She asked, “Do you come in peace?” He answered, “Yes.”
 [14] He added, “I have something to say to you.” She replied, “Speak.”
@@ -113,6 +121,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### The Lord Gives Solomon Wisdom
 
 [1] Solomon made an alliance by marriage with Pharaoh, king of Egypt; he married Pharaoh’s daughter. He brought her to the City of David until he could finish building his residence and the temple of the Lord and the wall around Jerusalem.
@@ -130,6 +139,9 @@
 [13] Furthermore, I am giving you what you did not request—riches and honor so that you will be the greatest king of your generation.
 [14] If you follow my instructions by obeying my rules and regulations, just as your father David did, then I will grant you long life.”
 [15] Solomon then woke up and realized it was a dream. He went to Jerusalem, stood before the ark of the Lord’s covenant, offered up burnt sacrifices, presented peace offerings, and held a feast for all his servants.
+
+### Solomon Demonstrates His Wisdom
+
 [16] Then two prostitutes came to the king and stood before him.
 [17] One of the women said, “My master, this woman and I live in the same house. I had a baby while she was with me in the house.
 [18] Then three days after I had my baby, this woman also had a baby. We were alone; there was no one else in the house except the two of us.
@@ -146,6 +158,7 @@
 # 1 Kings
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Solomon’s Royal Court and Administrators
 
@@ -168,6 +181,9 @@
 [17] Jehoshaphat son of Paruah was in charge of Issachar.
 [18] Shimei son of Ela was in charge of Benjamin.
 [19] Geber son of Uri was in charge of the land of Gilead (the territory which had once belonged to King Sihon of the Amorites and to King Og of Bashan). He was sole governor of the area.
+
+### Solomon’s Wealth and Fame
+
 [20] The people of Judah and Israel were as innumerable as the sand on the seashore; they had plenty to eat and drink and were happy.
 [21] (
 [22] Each day Solomon’s royal court consumed thirty cors of finely milled flour, sixty cors of cereal,
@@ -186,6 +202,7 @@
 # 1 Kings
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Solomon Gathers Building Materials for the Temple
 
@@ -210,6 +227,7 @@
 # 1 Kings
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### The Building of the Temple
 
@@ -255,6 +273,7 @@
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### The Building of the Royal Palace
 
 [1] Solomon took thirteen years to build his palace.
@@ -269,6 +288,9 @@
 [10] The foundation was made of large valuable stones, measuring either 15 feet or 12 feet.
 [11] Above the foundation the best stones, chiseled to the right size, were used along with cedar.
 [12] Around the great courtyard were three rows of chiseled stones and one row of cedar beams, like the inner courtyard of the Lord’s temple and the hall of the palace.
+
+### Solomon Commissions Hiram to Supply the Temple
+
 [13] King Solomon sent for Hiram of Tyre.
 [14] He was the son of a widow from the tribe of Naphtali, and his father was a craftsman in bronze from Tyre. He had the skill and knowledge to make all kinds of works of bronze. He reported to King Solomon and did all the work he was assigned.
 [15] He fashioned two bronze pillars; each pillar was 27 feet high and 18 feet in circumference.
@@ -312,6 +334,7 @@
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### Solomon Moves the Ark into the Temple
 
 [1] Then Solomon convened in Jerusalem Israel’s elders, all the leaders of the Israelite tribes and families, so they could witness the transferal of the ark of the Lord’s covenant from the City of David (that is, Zion).
@@ -335,6 +358,9 @@
 [19] But you will not build the temple; your very own son will build the temple for my honor.’
 [20] The Lord has kept the promise he made. I have taken my father David’s place and have occupied the throne of Israel, as the Lord promised. I have built this temple for the honor of the Lord God of Israel
 [21] and set up in it a place for the ark containing the covenant the Lord made with our ancestors when he brought them out of the land of Egypt.”
+
+### Solomon Prays for Israel
+
 [22] Solomon stood before the altar of the Lord in front of the entire assembly of Israel and spread out his hands toward the sky.
 [23] He prayed: “O Lord, God of Israel, there is no god like you in heaven above or on earth below! You maintain covenantal loyalty to your servants who obey you with sincerity.
 [24] You have kept your word to your servant, my father David; this very day you have fulfilled what you promised.
@@ -375,6 +401,9 @@
 [59] May the Lord our God be constantly aware of these requests of mine I have presented to him, so that he might vindicate his servant and his people Israel as the need arises.
 [60] Then all the nations of the earth will recognize that the Lord is the only genuine God.
 [61] May you demonstrate wholehearted devotion to the Lord our God by following his rules and obeying his commandments, as you are now doing.”
+
+### Solomon Dedicates the Temple
+
 [62] The king and all Israel with him were presenting sacrifices to the Lord.
 [63] Solomon offered as peace offerings to the Lord 22,000 cattle and 120,000 sheep. Then the king and all the Israelites dedicated the Lord’s temple.
 [64] That day the king consecrated the middle of the courtyard that is in front of the Lord’s temple. He offered there burnt sacrifices, grain offerings, and the fat from the peace offerings, because the bronze altar that stood before the Lord was too small to hold all these offerings.
@@ -383,6 +412,7 @@
 # 1 Kings
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### The Lord Gives Solomon a Promise and a Warning
 
@@ -395,6 +425,9 @@
 [7] then I will remove Israel from the land I have given them, I will abandon this temple I have consecrated with my presence, and Israel will be mocked and ridiculed among all the nations.
 [8] This temple will become a heap of ruins; everyone who passes by it will be shocked and will hiss out their scorn, saying, ‘Why did the Lord do this to this land and this temple?’
 [9] Others will then answer, ‘Because they abandoned the Lord their God, who led their ancestors out of Egypt. They embraced other gods whom they worshiped and served. That is why the Lord has brought all this disaster down on them.’”
+
+### Foreign Affairs and Building Projects
+
 [10] After twenty years, during which Solomon built the Lord’s temple and the royal palace,
 [11] King Solomon gave King Hiram of Tyre twenty towns in the region of Galilee, because Hiram had supplied Solomon with cedars, evergreens, and all the gold he wanted.
 [12] When Hiram went out from Tyre to inspect the towns Solomon had given him, he was not pleased with them.
@@ -418,6 +451,7 @@
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### Solomon Entertains a Queen
 
 [1] When the queen of Sheba heard about Solomon, she came to challenge him with difficult questions.
@@ -433,6 +467,9 @@
 [11] (Hiram’s fleet, which carried gold from Ophir, also brought from Ophir a very large quantity of fine timber and precious gems.
 [12] With the timber the king made supports for the Lord’s temple and for the royal palace and stringed instruments for the musicians. No one has seen so much of this fine timber to this very day.)
 [13] King Solomon gave the queen of Sheba everything she requested, besides what he had freely offered her. Then she left and returned to her homeland with her attendants.
+
+### Solomon’s Wealth
+
 [14] Solomon received 666 talents of gold per year,
 [15] besides what he collected from the merchants, traders, Arabian kings, and governors of the land.
 [16] King Solomon made 200 large shields of hammered gold; 600 measures of gold were used for each shield.
@@ -452,6 +489,7 @@
 # 1 Kings
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### The Lord Punishes Solomon for Idolatry
 
@@ -495,12 +533,16 @@
 [38] You must obey all I command you to do, follow my instructions, do what I approve, and keep my rules and commandments, as my servant David did. Then I will be with you and establish for you a lasting dynasty, as I did for David; I will give you Israel.
 [39] I will humiliate David’s descendants because of this, but not forever.’”
 [40] Solomon tried to kill Jeroboam, but Jeroboam escaped to Egypt and found refuge with King Shishak of Egypt. He stayed in Egypt until Solomon died.
+
+### Solomon’s Reign Ends
+
 [41] The rest of the events of Solomon’s reign, including all his accomplishments and his wise decisions, are recorded in the scroll called the Annals of Solomon.
 [42] Solomon ruled over all Israel from Jerusalem for forty years.
 [43] Then Solomon passed away and was buried in the city of his father David. His son Rehoboam replaced him as king.
 # 1 Kings
 
 ## Chapter 12 <!-- scripture:12 -->
+
 
 ### Rehoboam Loses His Kingdom
 
@@ -528,6 +570,9 @@
 [22] But God told Shemaiah the prophet,
 [23] “Say this to King Rehoboam son of Solomon of Judah, and to all Judah and Benjamin, as well as the rest of the people,
 [24] ‘This is what the Lord has said: “Do not attack and make war with your brothers, the Israelites. Each of you go home. Indeed this thing has happened because of me.”’” So they obeyed the Lord’s message. They went home in keeping with the Lord’s message.
+
+### Jeroboam Makes Golden Calves
+
 [25] Jeroboam built up Shechem in the Ephraimite hill country and lived there. From there he went out and built up Penuel.
 [26] Jeroboam then thought to himself: “Now the Davidic dynasty could regain the kingdom.
 [27] If these people go up to offer sacrifices in the Lord’s temple in Jerusalem, their loyalty could shift to their former master, King Rehoboam of Judah. They might kill me and return to King Rehoboam of Judah.”
@@ -539,6 +584,7 @@
 # 1 Kings
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### A Prophet from Judah Visits Bethel
 
@@ -575,13 +621,14 @@
 [30] He put the body into his own tomb, and they mourned over him, saying, “Ah, my brother!”
 [31] After he buried him, he said to his sons, “When I die, bury me in the tomb where the prophet is buried; put my bones right beside his bones,
 [32] because the message that he announced as the Lord’s message against the altar in Bethel and against all the temples on the high places in the cities of the north will certainly be fulfilled.”
+
+### A Prophet Announces the End of Jeroboam’s Dynasty
+
 [33] After this happened, Jeroboam still did not change his evil ways; he continued to appoint common people as priests at the high places. Anyone who wanted the job he consecrated as a priest.
 [34] This sin caused Jeroboam’s dynasty to come to an end and to be destroyed from the face of the earth.
 # 1 Kings
 
 ## Chapter 14 <!-- scripture:14 -->
-
-### Jeroboam’s Reign Ends
 
 [1] At that time Jeroboam’s son Abijah became sick.
 [2] Jeroboam told his wife, “Disguise yourself so that people cannot recognize you are Jeroboam’s wife. Then go to Shiloh; Ahijah the prophet, who told me I would rule over this nation, lives there.
@@ -601,8 +648,14 @@
 [16] He will hand Israel over to their enemies because of the sins which Jeroboam committed and which he made Israel commit.”
 [17] So Jeroboam’s wife got up and went back to Tirzah. As she crossed the threshold of the house, the boy died.
 [18] All Israel buried him and mourned for him, in keeping with the Lord’s message that he had spoken through his servant, the prophet Ahijah.
+
+### Jeroboam’s Reign Ends
+
 [19] The rest of the events of Jeroboam’s reign, including the details of his battles and rule, are recorded in the scroll called the Annals of the Kings of Israel.
 [20] Jeroboam ruled for twenty-two years; then he passed away. His son Nadab replaced him as king.
+
+### Rehoboam’s Reign over Judah
+
 [21] Now Rehoboam son of Solomon ruled in Judah. He was forty-one years old when he became king and he ruled for seventeen years in Jerusalem, the city the Lord chose from all the tribes of Israel to be his home. His mother was an Ammonite woman named Naamah.
 [22] Judah did evil in the sight of the Lord. They made him more jealous by their sins than their ancestors had done.
 [23] They even built for themselves high places, sacred pillars, and Asherah poles on every high hill and under every green tree.
@@ -618,6 +671,7 @@
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### Abijah’s Reign over Judah
 
 [1] In the eighteenth year of the reign of Jeroboam son of Nebat, Abijah became king over Judah.
@@ -628,6 +682,9 @@
 [6] Rehoboam and Jeroboam were continually at war with each other throughout Abijah’s lifetime.
 [7] The rest of the events of Abijah’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah. Abijah and Jeroboam had been at war with each other.
 [8] Abijah passed away and was buried in the City of David. His son Asa replaced him as king.
+
+### Asa’s Reign over Judah
+
 [9] In the twentieth year of Jeroboam’s reign over Israel, Asa became the king of Judah.
 [10] He ruled for forty-one years in Jerusalem. His grandmother was Maacah daughter of Abishalom.
 [11] Asa did what the Lord approved as his ancestor David had done.
@@ -644,6 +701,9 @@
 [22] King Asa ordered all the men of Judah (no exemptions were granted) to carry away the stones and wood that Baasha had used to build Ramah. King Asa used the materials to build up Geba (in Benjamin) and Mizpah.
 [23] The rest of the events of Asa’s reign, including all his successes and accomplishments, as well as a record of the cities he built, are recorded in the scroll called the Annals of the Kings of Judah. Yet when he was very old he developed a foot disease.
 [24] Asa passed away and was buried with his ancestors in the city of his ancestor David. His son Jehoshaphat replaced him as king.
+
+### Nadab’s Reign over Israel
+
 [25] In the second year of Asa’s reign over Judah, Jeroboam’s son Nadab became the king of Israel; he ruled Israel for two years.
 [26] He did evil in the sight of the Lord. He followed in his father’s footsteps and encouraged Israel to sin.
 [27] Baasha son of Ahijah, from the tribe of Issachar, conspired against Nadab and assassinated him in Gibbethon, which was in Philistine territory. This happened while Nadab and all the Israelite army were besieging Gibbethon.
@@ -652,13 +712,14 @@
 [30] This happened because of the sins which Jeroboam committed and which he made Israel commit. These sins angered the Lord God of Israel.
 [31] The rest of the events of Nadab’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
 [32] Asa and King Baasha of Israel were continually at war with each other.
+
+### Baasha’s Reign over Israel
+
 [33] In the third year of Asa’s reign over Judah, Baasha son of Ahijah became king over all Israel in Tirzah; he ruled for twenty-four years.
 [34] He did evil in the sight of the Lord; he followed in Jeroboam’s footsteps and encouraged Israel to sin.
 # 1 Kings
 
 ## Chapter 16 <!-- scripture:16 -->
-
-### Elah’s Reign over Israel
 
 [1] The Lord’s message against Baasha came to Jehu son of Hanani:
 [2] “I raised you up from the dust and made you ruler over my people Israel. Yet you followed in Jeroboam’s footsteps and encouraged my people Israel to sin; their sins have made me angry.
@@ -667,6 +728,9 @@
 [5] The rest of the events of Baasha’s reign, including his accomplishments and successes, are recorded in the scroll called the Annals of the Kings of Israel.
 [6] Baasha passed away and was buried in Tirzah. His son Elah replaced him as king.
 [7] And so it was the Lord’s message came through the prophet Jehu son of Hanani against Baasha and his family. This was because of all the evil he had done in the Lord’s view, by angering him with his deeds and becoming like Jeroboam’s dynasty, and because of how he had destroyed Jeroboam’s dynasty.
+
+### Elah’s Reign over Israel
+
 [8] In the twenty-sixth year of Asa’s reign over Judah, Baasha’s son Elah became king over Israel; he ruled in Tirzah for two years.
 [9] His servant Zimri, a commander of half of his chariot force, conspired against him. While Elah was in Tirzah drinking heavily at the house of Arza, who supervised the palace in Tirzah,
 [10] Zimri came in and struck him dead. (This happened in the twenty-seventh year of Asa’s reign over Judah.) Zimri replaced Elah as king.
@@ -674,12 +738,18 @@
 [12] Zimri destroyed Baasha’s entire family, in keeping with the Lord’s message which he had spoken against Baasha through Jehu the prophet.
 [13] This happened because of all the sins which Baasha and his son Elah committed and which they made Israel commit. They angered the Lord God of Israel with their worthless idols.
 [14] The rest of the events of Elah’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
+
+### Zimri’s Reign over Israel
+
 [15] In the twenty-seventh year of Asa’s reign over Judah, Zimri became king over Israel; he ruled for seven days in Tirzah. Zimri’s revolt took place while the army was deployed in Gibbethon, which was in Philistine territory.
 [16] While deployed there, the army received this report: “Zimri has conspired against the king and assassinated him.” So all Israel made Omri, the commander of the army, king over Israel that very day in the camp.
 [17] Omri and all Israel went up from Gibbethon and besieged Tirzah.
 [18] When Zimri saw that the city was captured, he went into the fortified area of the royal palace. He set the palace on fire and died in the flames.
 [19] This happened because of the sins he committed. He did evil in the sight of the Lord and followed in Jeroboam’s footsteps and encouraged Israel to continue sinning.
 [20] The rest of the events of Zimri’s reign, including the details of his revolt, are recorded in the scroll called the Annals of the Kings of Israel.
+
+### Omri’s Reign over Israel
+
 [21] At that time the people of Israel were divided in their loyalties. Half the people supported Tibni son of Ginath and wanted to make him king; the other half supported Omri.
 [22] Omri’s supporters were stronger than those who supported Tibni son of Ginath. Tibni died; Omri became king.
 [23] In the thirty-first year of Asa’s reign over Judah, Omri became king over Israel. He ruled for twelve years, six of them in Tirzah.
@@ -688,6 +758,9 @@
 [26] He followed in the footsteps of Jeroboam son of Nebat and encouraged Israel to sin; they angered the Lord God of Israel with their worthless idols.
 [27] The rest of the events of Omri’s reign, including his accomplishments and successes, are recorded in the scroll called the Annals of the Kings of Israel.
 [28] Omri passed away and was buried in Samaria. His son Ahab replaced him as king.
+
+### Ahab Promotes Idolatry
+
 [29] In the thirty-eighth year of Asa’s reign over Judah, Omri’s son Ahab became king over Israel. Ahab son of Omri ruled over Israel for twenty-two years in Samaria.
 [30] Ahab son of Omri did more evil in the sight of the Lord than all who were before him.
 [31] As if following in the sinful footsteps of Jeroboam son of Nebat were not bad enough, he married Jezebel the daughter of King Ethbaal of the Sidonians. Then he worshiped and bowed to Baal.
@@ -697,6 +770,7 @@
 # 1 Kings
 
 ## Chapter 17 <!-- scripture:17 -->
+
 
 ### Elijah Visits a Widow in Sidonian Territory
 
@@ -728,6 +802,7 @@
 
 ## Chapter 18 <!-- scripture:18 -->
 
+
 ### Elijah Meets the King’s Servant
 
 [1] Some time later, in the third year of the famine, the Lord’smessage came to Elijah, “Go, make an appearance before Ahab, so I may send rain on the surface of the ground.”
@@ -745,6 +820,9 @@
 [13] Certainly my master is aware of what I did when Jezebel was killing the Lord’s prophets. I hid 100 of the Lord’s prophets in two caves in two groups of fifty and I brought them food and water.
 [14] Now you say, ‘Go and say to your master, “Elijah is back,”’ but he will kill me.”
 [15] But Elijah said, “As certainly as the Lord of Heaven’s Armies lives (whom I serve), I will make an appearance before him today.”
+
+### Elijah Confronts Baal’s Prophets
+
 [16] When Obadiah went and informed Ahab, the king went to meet Elijah.
 [17] When Ahab saw Elijah, he said to him, “Is it really you, the one who brings disaster on Israel?”
 [18] Elijah replied, “I have not brought disaster on Israel. But you and your father’s dynasty have, by abandoning the Lord’s commandments and following the Baals.
@@ -780,6 +858,7 @@
 
 ## Chapter 19 <!-- scripture:19 -->
 
+
 ### Elijah Runs for His Life
 
 [1] Ahab told Jezebel all that Elijah had done, including a detailed account of how he killed all the prophets with the sword.
@@ -807,6 +886,7 @@
 
 ## Chapter 20 <!-- scripture:20 -->
 
+
 ### Ben Hadad Invades Israel
 
 [1] Now King Ben Hadad of Syria assembled all his army, along with thirty-two other kings with their horses and chariots. He marched against Samaria and besieged and attacked it.
@@ -821,6 +901,9 @@
 [10] Ben Hadad sent another message to him, “May the gods judge me severely if there is enough dirt left in Samaria for all my soldiers to scoop up in their hands.”
 [11] The king of Israel replied, “Tell him the one who puts on his battle gear should not boast like one who is taking it off.”
 [12] When Ben Hadad received this reply, he and the other kings were drinking in their quarters. He ordered his servants, “Get ready to attack!” So they got ready to attack the city.
+
+### The Lord Delivers Israel
+
 [13] Now a prophet visited King Ahab of Israel and said, “This is what the Lord has said: ‘Do you see this huge army? Look, I am going to hand it over to you this very day. Then you will know that I am the Lord.’”
 [14] Ahab asked, “By whom will this be accomplished?” He answered, “This is what the Lord has said, ‘By the servants of the district governors.’” Ahab asked, “Who will launch the attack?” He answered, “You will.”
 [15] So Ahab assembled the 232 servants of the district governors. After that he assembled all the Israelite army, numbering 7,000.
@@ -830,6 +913,9 @@
 [19] They marched out of the city with the servants of the district governors in the lead and the army behind them.
 [20] Each one struck down an enemy soldier; the Syrians fled and Israel chased them. King Ben Hadad of Syria escaped on horseback with some horsemen.
 [21] Then the king of Israel marched out and struck down the horses and chariots; he thoroughly defeated Syria.
+
+### The Lord Gives Israel Another Victory
+
 [22] The prophet visited the king of Israel and instructed him, “Go, fortify your defenses. Determine what you must do, for in the spring the king of Syria will attack you.”
 [23] Now the advisers of the king of Syria said to him: “Their God is a god of the mountains. That’s why they overpowered us. But if we fight them in the plains, we will certainly overpower them.
 [24] So do this: Dismiss the kings from their command, and replace them with military commanders.
@@ -843,6 +929,9 @@
 [32] So they put sackcloth around their waists and ropes on their heads and went to the king of Israel. They said, “Your servant Ben Hadad says, ‘Please let me live!’” Ahab replied, “Is he still alive? He is my brother.”
 [33] The men took this as a good omen and quickly accepted his offer, saying, “Ben Hadad is your brother.” Ahab then said, “Go, get him.” So Ben Hadad came out to him, and Ahab pulled him up into his chariot.
 [34] Ben Hadad said, “I will return the cities my father took from your father. You may set up markets in Damascus, just as my father did in Samaria.” Ahab then said, “I want to make a treaty with you before I dismiss you.” So he made a treaty with him and then dismissed him.
+
+### A Prophet Denounces Ahab’s Actions
+
 [35] One of the members of the prophetic guild told his companion a message from the Lord, “Please wound me!” But the man refused to wound him.
 [36] So the prophet said to him, “Because you have disobeyed the Lord, as soon as you leave me a lion will kill you.” When he left him, a lion attacked and killed him.
 [37] He found another man and said, “Wound me!” So the man wounded him severely.
@@ -855,6 +944,7 @@
 # 1 Kings
 
 ## Chapter 21 <!-- scripture:21 -->
+
 
 ### Ahab Murders Naboth
 
@@ -890,6 +980,7 @@
 # 1 Kings
 
 ## Chapter 22 <!-- scripture:22 -->
+
 
 ### Ahab Dies in Battle
 
@@ -933,6 +1024,9 @@
 [38] They washed off the chariot at the pool of Samaria. Then the dogs licked his blood, while the prostitutes bathed, in keeping with the Lord’s message that he had spoken.
 [39] The rest of the events of Ahab’s reign, including a record of his accomplishments and how he built a luxurious palace and various cities, are recorded in the scroll called the Annals of the Kings of Israel.
 [40] Ahab passed away. His son Ahaziah replaced him as king.
+
+### Jehoshaphat’s Reign over Judah
+
 [41] In the fourth year of Ahab’s reign over Israel, Asa’s son Jehoshaphat became king over Judah.
 [42] Jehoshaphat was thirty-five years old when he became king and he reigned for twenty-five years in Jerusalem. His mother was Azubah, the daughter of Shilhi.
 [43] He followed in his father Asa’s footsteps and was careful to do what the Lord approved. (
@@ -943,6 +1037,9 @@
 [48] Jehoshaphat built a fleet of large merchant ships to travel to Ophir for gold, but they never made the voyage because they were shipwrecked in Ezion Geber.
 [49] Then Ahaziah son of Ahab said to Jehoshaphat, “Let my sailors join yours in the fleet,” but Jehoshaphat refused.
 [50] Jehoshaphat passed away and was buried with his ancestors in the city of his ancestor David. His son Jehoram replaced him as king.
+
+### Ahaziah’s Reign over Israel
+
 [51] In the seventeenth year of Jehoshaphat’s reign over Judah, Ahab’s son Ahaziah became king over Israel in Samaria. He ruled for two years over Israel.
 [52] He did evil in the sight of the Lord and followed in the footsteps of his father and mother; like Jeroboam son of Nebat, he encouraged Israel to sin.
 [53] He worshiped and bowed down to Baal, angering the Lord God of Israel just as his father had done.

@@ -2,19 +2,29 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Introduction
 
 [1] On the first day of the sixth month of King Darius’ second year, the Lord’s message came through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to the high priest Joshua son of Jehozadak:
+
+### The Accusation of Indifference Against the People
+
 [2] This is what the Lord of Heaven’s Armies has said: “These people have said, ‘The time for rebuilding the Lord’s temple has not yet come.’”
 [3] The Lord’s message came through the prophet Haggai as follows:
 [4] “Is it right for you to live in richly paneled houses while my temple is in ruins?
 [5] Here then, this is what the Lord of Heaven’s Armies has said: ‘Think carefully about what you are doing.
 [6] You have planted much, but have harvested little. You eat, but are never filled. You drink, but are still thirsty. You put on clothes, but are not warm. Those who earn wages end up with holes in their money bags.’”
+
+### Consequences of the Failure to Rebuild the Temple
+
 [7] Moreover, this is what the Lord of Heaven’s Armies has said: “Pay close attention to these things also.
 [8] Go up to the hill country and bring back timber to build the temple. Then I will be pleased and honored,” says the Lord.
 [9] “You expected a large harvest, but instead there was little. And when you would bring it home, I would blow it right away. Why?” asks the Lord of Heaven’s Armies. “Because my temple remains in ruins, thanks to each of you favoring his own house!
 [10] This is why the sky has held back its dew and the earth its produce.
 [11] Moreover, I have called for a drought that will affect the fields, the hill country, the grain, new wine, fresh olive oil, and everything that grows from the ground; it also will harm people, animals, and everything they produce.”
+
+### The Response of the Leaders and the People
+
 [12] Then Zerubbabel son of Shealtiel and the high priest Joshua son of Jehozadak, along with the whole remnant of the people, obeyed the Lord their God. They responded favorably to the message of the prophet Haggai, who spoke just as the Lord their God had instructed him, and the people began to respect the Lord.
 [13] Then Haggai, the Lord’s messenger, spoke the Lord’s announcement to the people: “I am with you,” decrees the Lord.
 [14] So the Lord energized and encouraged Zerubbabel son of Shealtiel, governor of Judah, the high priest Joshua son of Jehozadak, and the whole remnant of the people. They came and worked on the temple of their God, the Lord of Heaven’s Armies.
@@ -22,6 +32,7 @@
 # Haggai
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### The Glory to Come
 
@@ -34,6 +45,9 @@
 [7] I will also shake up all the nations, and they will offer their treasures; then I will fill this temple with glory.” So the Lord of Heaven’s Armies has said.
 [8] “The silver and gold will be mine,” decrees the Lord of Heaven’s Armies.
 [9] “The future splendor of this temple will be greater than that of former times,” the Lord of Heaven’s Armies has declared. “And in this place I will give peace,” decrees the Lord of Heaven’s Armies.
+
+### The Promised Blessing
+
 [10] On the twenty-fourth day of the ninth month of Darius’ second year, the Lord’s message came to the prophet Haggai:
 [11] “This is what the Lord of Heaven’s Armies has said, ‘Ask the priests about the law.
 [12] If someone carries holy meat in a fold of his garment and that fold touches bread, a boiled dish, wine, olive oil, or any other food, will that item become holy?’” The priests answered, “It will not.”
@@ -44,6 +58,9 @@
 [17] I struck all the products of your labor with blight, disease, and hail, and yet you brought nothing to me,’ says the Lord.
 [18] ‘Think carefully about the past: from today, the twenty-fourth day of the ninth month, to the day work on the temple of the Lord was resumed, think about it.
 [19] The seed is still in the storehouse, isn’t it? And the vine, fig tree, pomegranate, and olive tree have not produced. Nevertheless, from today on I will bless you.’”
+
+### Zerubbabel the Chosen One
+
 [20] Then the Lord spoke to Haggai a second time on the twenty-fourth day of the month:
 [21] “Tell Zerubbabel governor of Judah: ‘I am ready to shake the sky and the earth.
 [22] I will overthrow royal thrones and shatter the might of earthly kingdoms. I will overthrow chariots and those who ride them, and horses and their riders will fall as people kill one another.

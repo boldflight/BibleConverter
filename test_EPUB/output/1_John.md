@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The Prologue to the Letter
 
 [1] This is what we proclaim to you: what was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and our hands have touched (concerning the word of life—
@@ -11,6 +12,7 @@
 # 1 John
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### God Is Light, So We Must Walk in the Light
 
@@ -22,6 +24,9 @@
 [10] If we say we have not sinned, we make him a liar and his word is not in us.
 [1] (My little children, I am writing these things to you so that you may not sin.) But if anyone does sin, we have an advocate with the Father, Jesus Christ the Righteous One,
 [2] and he himself is the atoning sacrifice for our sins, and not only for our sins but also for the whole world.
+
+### Keeping God’s Commandments
+
 [3] Now by this we know that we have come to know God: if we keep his commandments.
 [4] The one who says “I have come to know God” and yet does not keep his commandments is a liar, and the truth is not in such a person.
 [5] But whoever obeys his word, truly in this person the love of God has been perfected. By this we know that we are in him.
@@ -31,12 +36,18 @@
 [9] The one who says he is in the light but still hates his fellow Christian is still in the darkness.
 [10] The one who loves his fellow Christian resides in the light, and there is no cause for stumbling in him.
 [11] But the one who hates his fellow Christian is in the darkness, walks in the darkness, and does not know where he is going, because the darkness has blinded his eyes.
+
+### Words of Reassurance
+
 [12] I am writing to you, little children, that your sins have been forgiven because of his name.
 [13] I am writing to you, fathers, that you have known him who has been from the beginning. I am writing to you, young people, that you have conquered the evil one.
 [14] I have written to you, children, that you have known the Father. I have written to you, fathers, that you have known him who has been from the beginning. I have written to you, young people, that you are strong, and the word of God resides in you, and you have conquered the evil one.
 [15] Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him,
 [16] because all that is in the world (the desire of the flesh and the desire of the eyes and the arrogance produced by material possessions) is not from the Father, but is from the world.
 [17] And the world is passing away with all its desires, but the person who does the will of God remains forever.
+
+### Warning About False Teachers
+
 [18] Children, it is the last hour, and just as you heard that the antichrist is coming, so now many antichrists have appeared. We know from this that it is the last hour.
 [19] They went out from us, but they did not really belong to us, because if they had belonged to us, they would have remained with us. But they went out from us to demonstrate that all of them do not belong to us.
 [20] Nevertheless you have an anointing from the Holy One, and you all know.
@@ -47,13 +58,14 @@
 [25] Now this is the promise that he himself made to us: eternal life.
 [26] These things I have written to you about those who are trying to deceive you.
 [27] Now as for you, the anointing that you received from him resides in you, and you have no need for anyone to teach you. But as his anointing teaches you about all things, it is true and is not a lie. Just as it has taught you, you reside in him.
+
+### Children of God
+
 [28] And now, little children, remain in him, so that when he appears we may have confidence and not shrink away from him in shame when he comes back.
 [29] If you know that he is righteous, you also know that everyone who practices righteousness has been fathered by him.
 # 1 John
 
 ## Chapter 3 <!-- scripture:3 -->
-
-### God Is Love, So We Must Love One Another
 
 [1] (See what sort of love the Father has given to us: that we should be called God’s children—and indeed we are! For this reason the world does not know us: because it did not know him.
 [2] Dear friends, we are God’s children now, and what we will be has not yet been revealed. We know that whenever it is revealed we will be like him, because we will see him just as he is.
@@ -65,6 +77,9 @@
 [8] The one who practices sin is of the devil, because the devil has been sinning from the beginning. For this purpose the Son of God was revealed: to destroy the works of the devil.
 [9] Everyone who has been fathered by God does not practice sin, because God’s seed resides in him, and thus he is not able to sin, because he has been fathered by God.
 [10] By this the children of God and the children of the devil are revealed: Everyone who does not practice righteousness—the one who does not love his fellow Christian —is not of God.
+
+### God Is Love, So We Must Love One Another
+
 [11] For this is the gospel message that you have heard from the beginning: that we should love one another,
 [12] not like Cain who was of the evil one and brutally murdered his brother. And why did he murder him? Because his deeds were evil, but his brother’s were righteous.
 [13] Therefore do not be surprised, brothers and sisters, if the world hates you.
@@ -83,6 +98,7 @@
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Testing the Spirits
 
 [1] Dear friends, do not believe every spirit, but test the spirits to determine if they are from God, because many false prophets have gone out into the world.
@@ -91,6 +107,9 @@
 [4] You are from God, little children, and have conquered them, because the one who is in you is greater than the one who is in the world.
 [5] They are from the world; therefore they speak from the world’s perspective and the world listens to them.
 [6] We are from God; the person who knows God listens to us, but whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of deceit.
+
+### God is Love
+
 [7] Dear friends, let us love one another, because love is from God, and everyone who loves has been fathered by God and knows God.
 [8] The person who does not love does not know God, because God is love.
 [9] By this the love of God is revealed in us: that God has sent his one and only Son into the world so that we may live through him.
@@ -108,14 +127,15 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
-### Testimony About the Son
-
 [20] If anyone says “I love God” and yet hates his fellow Christian, he is a liar, because the one who does not love his fellow Christian whom he has seen cannot love God whom he has not seen.
 [21] And the commandment we have from him is this: that the one who loves God should love his fellow Christian too.
 [1] Everyone who believes that Jesus is the Christ has been fathered by God, and everyone who loves the father loves the child fathered by him.
 [2] By this we know that we love the children of God: whenever we love God and obey his commandments.
 [3] For this is the love of God: that we keep his commandments. And his commandments do not weigh us down,
 [4] because everyone who has been fathered by God conquers the world.
+
+### Testimony About the Son
+
 [5] Now who is the person who has conquered the world except the one who believes that Jesus is the Son of God?
 [6] Jesus Christ is the one who came by water and blood—not by the water only, but by the water and the blood. And the Spirit is the one who testifies, because the Spirit is the truth.
 [7] For there are three that testify,
@@ -124,6 +144,9 @@
 [10] (The one who believes in the Son of God has the testimony in himself; the one who does not believe God has made him a liar, because he has not believed in the testimony that God has testified concerning his Son.)
 [11] And this is the testimony: God has given us eternal life, and this life is in his Son.
 [12] The one who has the Son has this eternal life; the one who does not have the Son of God does not have this eternal life.
+
+### Assurance of Eternal Life
+
 [13] I have written these things to you who believe in the name of the Son of God so that you may know that you have eternal life.
 [14] And this is the confidence that we have before him: that whenever we ask anything according to his will, he hears us.
 [15] And if we know that he hears us in regard to whatever we ask, then we know that we have the requests that we have asked from him.

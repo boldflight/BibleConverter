@@ -2,9 +2,13 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Introduction
 
 [1] This is the Lord’s message that came to Micah of Moresheth during the time of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
+
+### The Judge is Coming
+
 [2] Listen, all you nations!
 Pay attention, all inhabitants of earth!
 The Sovereign Lord will act as a witness against you;
@@ -61,6 +65,7 @@ for they are taken from you into exile.
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Land Robbers Will Lose Their Land
 
 [1] Beware wicked schemers,
@@ -101,6 +106,9 @@ sin will thoroughly destroy it!
 [11] If a lying windbag should come and say,
 ‘I’ll promise you blessings of wine and beer,’
 he would be just the right preacher for these people!
+
+### The Lord Will Restore His People
+
 [12] “I will certainly gather all of you, O Jacob,
 I will certainly assemble those Israelites who remain.
 I will bring them together like sheep in a fold,
@@ -113,6 +121,7 @@ the Lord himself will lead them.”
 # Micah
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### God Will Judge Judah’s Sinful Leaders
 
@@ -168,6 +177,7 @@ and the Temple Mount will become a hill overgrown with brush!
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Better Days Ahead for Jerusalem
 
 [1] And in future days the Lord’s Temple Mount will be the most important mountain of all;
@@ -191,6 +201,9 @@ or under his own fig tree without any fear.
 The Lord of Heaven’s Armies has decreed it.
 [5] Though all the nations follow their respective gods,
 we will follow the Lord our God forever.
+
+### Restoration Will Follow Crisis
+
 [6] “In that day,” says the Lord, “I will gather the lame
 and assemble the outcasts whom I injured.
 [7] I will transform the lame into the nucleus of a new nation,
@@ -228,12 +241,13 @@ and dedicate their wealth to the sovereign Ruler of the whole earth.
 
 ## Chapter 5 <!-- scripture:5 -->
 
-### A King Will Come and a Remnant Will Prosper
-
 [1] (4:14) But now slash yourself, daughter surrounded by soldiers!
 We are besieged!
 With a scepter they strike Israel’s ruler
 on the side of his face.
+
+### A King Will Come and a Remnant Will Prosper
+
 [2] (5:1) As for you, Bethlehem Ephrathah,
 seemingly insignificant among the clans of Judah—
 from you a king will emerge who will rule over Israel on my behalf,
@@ -270,6 +284,9 @@ which attacks when it passes through.
 It rips its prey and there is no one to stop it.
 [9] Lift your hand triumphantly against your adversaries;
 may all your enemies be destroyed!
+
+### The Lord Will Purify His People
+
 [10] “In that day,” says the Lord,
 “I will destroy your horses from your midst
 and smash your chariots.
@@ -286,6 +303,7 @@ on the nations that do not obey me.”
 # Micah
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### The Lord Demands Justice, not Ritual
 
@@ -345,6 +363,7 @@ and nations will mock all of you.”
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### Micah Laments Judah’s Sin
 
 [1] Woe is me!
@@ -376,6 +395,9 @@ a man’s enemies are his own family.
 [7] But I will keep watching for the Lord;
 I will wait for the God who delivers me.
 My God will listen to me.
+
+### Jerusalem Will Be Vindicated
+
 [8] My enemies, do not gloat over me!
 Though I have fallen, I will get up.
 Though I sit in darkness, the Lord will be my light.
@@ -392,6 +414,9 @@ then they will be trampled down
 like mud in the streets.
 [11] It will be a day for rebuilding your walls;
 in that day your boundary will be extended.
+
+### A Closing Prayer
+
 [12] In that day people will come to you
 from Assyria as far as Egypt,
 from Egypt as far as the Euphrates River,

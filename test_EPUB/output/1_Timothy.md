@@ -2,10 +2,14 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,
 [2] to Timothy, my genuine child in the faith. Grace, mercy, and peace from God the Father and Christ Jesus our Lord!
+
+### Timothy’s Task in Ephesus
+
 [3] As I urged you when I was leaving for Macedonia, stay on in Ephesus to instruct certain people not to spread false teachings,
 [4] nor to occupy themselves with myths and interminable genealogies. Such things promote useless speculations rather than God’s redemptive plan that operates by faith.
 [5] But the aim of our instruction is love that comes from a pure heart, a good conscience, and a sincere faith.
@@ -28,6 +32,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Prayer for All People
 
 [1] First of all, then, I urge that requests, prayers, intercessions, and thanks be offered on behalf of all people,
@@ -38,6 +43,9 @@
 [6] who gave himself as a ransom for all, revealing God’s purpose at his appointed time.
 [7] For this I was appointed a preacher and apostle—I am telling the truth; I am not lying—and a teacher of the Gentiles in faith and truth.
 [8] So I want the men in every place to pray, lifting up holy hands without anger or dispute.
+
+### Conduct of Women
+
 [9] Likewise the women are to dress in suitable apparel, with modesty and self-control. Their adornment must not be with braided hair and gold or pearls or expensive clothing,
 [10] but with good deeds, as is proper for women who profess reverence for God.
 [11] A woman must learn quietly with all submissiveness.
@@ -48,6 +56,7 @@
 # 1 Timothy
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### Qualifications for Overseers and Deacons
 
@@ -64,6 +73,9 @@
 [11] Likewise also their wives must be dignified, not slanderous, temperate, faithful in every respect.
 [12] Deacons must be husbands of one wife and good managers of their children and their own households.
 [13] For those who have served well as deacons gain a good standing for themselves and great boldness in the faith that is in Christ Jesus.
+
+### Conduct in God’s Church
+
 [14] I hope to come to you soon, but I am writing these instructions to you
 [15] in case I am delayed, to let you know how people ought to conduct themselves in the household of God, because it is the church of the living God, the support and bulwark of the truth.
 [16] And we all agree, our religion contains amazing revelation:
@@ -76,6 +88,7 @@ taken up in glory.
 # 1 Timothy
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Timothy’s Ministry in the Later Times
 
@@ -98,6 +111,7 @@ taken up in glory.
 # 1 Timothy
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Instructions about Specific Groups
 
@@ -130,10 +144,11 @@ taken up in glory.
 
 ## Chapter 6 <!-- scripture:6 -->
 
-### Summary of Timothy’s Duties
-
 [1] Those who are under the yoke as slaves must regard their own masters as deserving of full respect. This will prevent the name of God and Christian teaching from being discredited.
 [2] But those who have believing masters must not show them less respect because they are brothers. Instead they are to serve all the more, because those who benefit from their service are believers and dearly loved.
+
+### Summary of Timothy’s Duties
+
 [3] If someone spreads false teachings and does not agree with sound words (that is, those of our Lord Jesus Christ) and with the teaching that accords with godliness,
 [4] he is conceited and understands nothing, but has an unhealthy interest in controversies and verbal disputes. This gives rise to envy, dissension, slanders, evil suspicions,
 [5] and constant bickering by people corrupted in their minds and deprived of the truth, who suppose that godliness is a way of making a profit.
@@ -151,5 +166,8 @@ taken up in glory.
 [17] Command those who are rich in this world’s goods not to be haughty or to set their hope on riches, which are uncertain, but on God who richly provides us with all things for our enjoyment.
 [18] Tell them to do good, to be rich in good deeds, to be generous givers, sharing with others.
 [19] In this way they will save up a treasure for themselves as a firm foundation for the future and so lay hold of what is truly life.
+
+### Conclusion
+
 [20] O Timothy, protect what has been entrusted to you. Avoid the profane chatter and absurdities of so-called “knowledge.”
 [21] By professing it, some have strayed from the faith. Grace be with you all.

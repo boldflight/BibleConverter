@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### A Prayer of Nehemiah
 
 [1] These are the words of Nehemiah son of Hacaliah:
@@ -19,6 +20,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Nehemiah Is Permitted to Go to Jerusalem
 
 [1] Then in the month of Nisan, in the twentieth year of King Artaxerxes, when wine was brought to me, I took the wine and gave it to the king. Previously I had not been depressed in the king’s presence.
@@ -31,6 +33,9 @@
 [8] and a letter for Asaph the keeper of the king’s nature preserve, so that he will give me timber for beams for the gates of the fortress adjacent to the temple and for the city wall and for the house to which I go.” So the king granted me these requests, for the good hand of my God was on me.
 [9] Then I went to the governors of Trans-Euphrates, and I presented to them the letters from the king. The king had sent with me officers of the army and horsemen.
 [10] When Sanballat the Horonite and Tobiah the Ammonite official heard all this, they were very displeased that someone had come to seek benefit for the Israelites.
+
+### Nehemiah Arrives in Jerusalem
+
 [11] So I came to Jerusalem. When I had been there for three days,
 [12] I got up during the night, along with a few men who were with me. But I did not tell anyone what my God was putting on my heart to do for Jerusalem. There were no animals with me, except for the one I was riding.
 [13] I proceeded through the Valley Gate by night, in the direction of the Well of the Dragons and the Dung Gate, inspecting the walls of Jerusalem that had been breached and its gates that had been destroyed by fire.
@@ -44,6 +49,7 @@
 # Nehemiah
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### The Names of the Builders
 
@@ -83,6 +89,7 @@
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Opposition to the Work Continues
 
 [1] (
@@ -112,6 +119,7 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Nehemiah Intervenes on behalf of the Oppressed
 
 [1] Then there was a great outcry from the people and their wives against their fellow Jews.
@@ -137,6 +145,7 @@
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Opposition to the Rebuilding Efforts Continues
 
 [1] When Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and no breach remained in it (even though up to that time I had not positioned doors in the gates),
@@ -153,6 +162,9 @@
 [12] I recognized the fact that God had not sent him, for he had spoken the prophecy against me as a hired agent of Tobiah and Sanballat.
 [13] He had been hired to scare me so that I would do this and thereby sin. They would thus bring reproach on me and I would be discredited.
 [14] Remember, O my God, Tobiah and Sanballat in light of these actions of theirs—also Noadiah the prophetess and the other prophets who have been trying to scare me!
+
+### The Rebuilding of the Wall Is Finally Completed
+
 [15] So the wall was completed on the twenty-fifth day of Elul, in just fifty-two days.
 [16] When all our enemies heard and all the nations who were around us saw this, they were greatly disheartened. They knew that this work had been accomplished with the help of our God.
 [17] In those days the aristocrats of Judah repeatedly sent letters to Tobiah, and responses from Tobiah were repeatedly coming to them.
@@ -239,6 +251,7 @@
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### The People Respond to the Reading of the Law
 
 [1] all the people gathered together in the plaza which was in front of the Water Gate. They asked Ezra the scribe to bring the book of the law of Moses which the Lord had commanded Israel.
@@ -262,6 +275,7 @@
 # Nehemiah
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### The People Acknowledge Their Sin before God
 
@@ -302,6 +316,9 @@
 [35] Even when they were in their kingdom and benefiting from your incredible goodness that you had lavished on them in the spacious and fertile land you had set before them, they did not serve you, nor did they turn from their evil practices.
 [36] “So today we are slaves! In the very land you gave to our ancestors to eat its fruit and to enjoy its good things—we are slaves.
 [37] Its abundant produce goes to the kings you have placed over us due to our sins. They rule over our bodies and our livestock as they see fit, and we are in great distress!
+
+### The People Pledge to be Faithful
+
 [38] (
 # Nehemiah
 
@@ -350,6 +367,7 @@
 
 ## Chapter 11 <!-- scripture:11 -->
 
+
 ### The Population of Jerusalem
 
 [1] So the leaders of the people settled in Jerusalem, while the rest of the people cast lots to bring one out of every ten to settle in Jerusalem, the holy city, while the other nine remained in other cities.
@@ -392,6 +410,7 @@
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### The Priests and the Levites Who Returned to Jerusalem
 
 [1] These are the priests and Levites who returned with Zerubbabel son of Shealtiel and Jeshua: Seraiah, Jeremiah, Ezra,
@@ -420,6 +439,9 @@
 [24] And the leaders of the Levites were Hashabiah, Sherebiah, Jeshua son of Kadmiel, and their colleagues, who stood opposite them to offer praise and thanks, one contingent corresponding to the other, as specified by David the man of God.
 [25] Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers who were guarding the storerooms at the gates.
 [26] These all served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor and of Ezra the priestly scribe.
+
+### The Wall of Jerusalem is Dedicated
+
 [27] At the dedication of the wall of Jerusalem, they sought out the Levites from all the places they lived to bring them to Jerusalem to celebrate the dedication joyfully with songs of thanksgiving and songs accompanied by cymbals, harps, and lyres.
 [28] The singers were also assembled from the district around Jerusalem and from the settlements of the Netophathites
 [29] and from Beth Gilgal and from the fields of Geba and Azmaveth, for the singers had built settlements for themselves around Jerusalem.
@@ -444,6 +466,7 @@
 # Nehemiah
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### Further Reforms by Nehemiah
 

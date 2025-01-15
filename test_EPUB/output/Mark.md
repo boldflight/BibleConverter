@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The Ministry of John the Baptist
 
 [1] The beginning of the gospel of Jesus Christ, the Son of God.
@@ -11,11 +12,17 @@
 [6] John wore a garment made of camel’s hair with a leather belt around his waist, and he ate locusts and wild honey.
 [7] He proclaimed, “One more powerful than I am is coming after me; I am not worthy to bend down and untie the strap of his sandals.
 [8] I baptize you with water, but he will baptize you with the Holy Spirit.”
+
+### The Baptism and Temptation of Jesus
+
 [9] Now in those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan River.
 [10] And just as Jesus was coming up out of the water, he saw the heavens splitting apart and the Spirit descending on him like a dove.
 [11] And a voice came from heaven: “You are my one dear Son; in you I take great delight.”
 [12] The Spirit immediately drove him into the wilderness.
 [13] He was in the wilderness forty days, enduring temptations from Satan. He was with wild animals, and angels were ministering to his needs.
+
+### Preaching in Galilee and the Call of the Disciples
+
 [14] Now after John was imprisoned, Jesus went into Galilee and proclaimed the gospel of God.
 [15] He said, “The time is fulfilled and the kingdom of God is near. Repent and believe the gospel!”
 [16] As he went along the Sea of Galilee, he saw Simon and Andrew, Simon’s brother, casting a net into the sea (for they were fishermen).
@@ -23,6 +30,9 @@
 [18] They left their nets immediately and followed him.
 [19] Going on a little farther, he saw James, the son of Zebedee, and John his brother in their boat mending nets.
 [20] Immediately he called them, and they left their father Zebedee in the boat with the hired men and followed him.
+
+### Jesus’ Authority
+
 [21] Then they went to Capernaum. When the Sabbath came, Jesus went into the synagogue and began to teach.
 [22] The people there were amazed by his teaching, because he taught them like one who had authority, not like the experts in the law.
 [23] Just then there was a man in their synagogue with an unclean spirit, and he cried out,
@@ -31,17 +41,26 @@
 [26] After throwing him into convulsions, the unclean spirit cried out with a loud voice and came out of him.
 [27] They were all amazed so that they asked each other, “What is this? A new teaching with authority! He even commands the unclean spirits and they obey him.”
 [28] So the news about him spread quickly throughout all the region around Galilee.
+
+### Healings at Simon’s House
+
 [29] Now as soon as they left the synagogue, they entered Simon and Andrew’s house, with James and John.
 [30] Simon’s mother-in-law was lying down, sick with a fever, so they spoke to Jesus at once about her.
 [31] He came and raised her up by gently taking her hand. Then the fever left her and she began to serve them.
 [32] When it was evening, after sunset, they brought to him all who were sick and demon-possessed.
 [33] The whole town gathered by the door.
 [34] So he healed many who were sick with various diseases and drove out many demons. But he would not permit the demons to speak, because they knew him.
+
+### Praying and Preaching
+
 [35] Then Jesus got up early in the morning when it was still very dark, departed, and went out to a deserted place, and there he spent time in prayer.
 [36] Simon and his companions searched for him.
 [37] When they found him, they said, “Everyone is looking for you.”
 [38] He replied, “Let us go elsewhere, into the surrounding villages, so that I can preach there too. For that is what I came out here to do.”
 [39] So he went into all of Galilee preaching in their synagogues and casting out demons.
+
+### Cleansing a Leper
+
 [40] Now a leper came to him and fell to his knees, asking for help. “If you are willing, you can make me clean,” he said.
 [41] Moved with indignation, Jesus stretched out his hand and touched him, saying, “I am willing. Be clean!”
 [42] The leprosy left him at once, and he was clean.
@@ -51,6 +70,7 @@
 # Mark
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Healing and Forgiving a Paralytic
 
@@ -66,16 +86,25 @@
 [10] But so that you may know that the Son of Man has authority on earth to forgive sins,”—he said to the paralytic —
 [11] “I tell you, stand up, take your stretcher, and go home.”
 [12] And immediately the man stood up, took his stretcher, and went out in front of them all. They were all amazed and glorified God, saying, “We have never seen anything like this!”
+
+### The Call of Levi; Eating with Sinners
+
 [13] Jesus went out again by the sea. The whole crowd came to him, and he taught them.
 [14] As he went along, he saw Levi, the son of Alphaeus, sitting at the tax booth. “Follow me,” he said to him. And he got up and followed him.
 [15] As Jesus was having a meal in Levi’s home, many tax collectors and sinners were eating with Jesus and his disciples, for there were many who followed him.
 [16] When the experts in the law and the Pharisees saw that he was eating with sinners and tax collectors, they said to his disciples, “Why does he eat with tax collectors and sinners?”
 [17] When Jesus heard this he said to them, “Those who are healthy don’t need a physician, but those who are sick do. I have not come to call the righteous, but sinners.”
+
+### The Superiority of the New
+
 [18] Now John’s disciples and the Pharisees were fasting. So they came to Jesus and said, “Why do the disciples of John and the disciples of the Pharisees fast, but your disciples don’t fast?”
 [19] Jesus said to them, “The wedding guests cannot fast while the bridegroom is with them, can they? As long as they have the bridegroom with them they do not fast.
 [20] But the days are coming when the bridegroom will be taken from them, and at that time they will fast.
 [21] No one sews a patch of unshrunk cloth on an old garment; otherwise, the patch pulls away from it, the new from the old, and the tear becomes worse.
 [22] And no one pours new wine into old wineskins; otherwise, the wine will burst the skins, and both the wine and the skins will be destroyed. Instead new wine is poured into new wineskins.”
+
+### Lord of the Sabbath
+
 [23] Jesus was going through the grain fields on a Sabbath, and his disciples began to pick some heads of wheat as they made their way.
 [24] So the Pharisees said to him, “Look, why are they doing what is against the law on the Sabbath?”
 [25] He said to them, “Have you never read what David did when he was in need and he and his companions were hungry—
@@ -86,6 +115,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Healing a Withered Hand
 
 [1] Then Jesus entered the synagogue again, and a man was there who had a withered hand.
@@ -94,12 +124,18 @@
 [4] Then he said to them, “Is it lawful to do good on the Sabbath, or evil, to save a life or destroy it?” But they were silent.
 [5] After looking around at them in anger, grieved by the hardness of their hearts, he said to the man, “Stretch out your hand.” He stretched it out, and his hand was restored.
 [6] So the Pharisees went out immediately and began plotting with the Herodians, as to how they could assassinate him.
+
+### Crowds by the Sea
+
 [7] Then Jesus went away with his disciples to the sea, and a great multitude from Galilee followed him. And from Judea,
 [8] Jerusalem, Idumea, beyond the Jordan River, and around Tyre and Sidon a great multitude came to him when they heard about the things he had done.
 [9] Because of the crowd, he told his disciples to have a small boat ready for him so the crowd would not press toward him.
 [10] For he had healed many, so that all who were afflicted with diseases pressed toward him in order to touch him.
 [11] And whenever the unclean spirits saw him, they fell down before him and cried out, “You are the Son of God.”
 [12] But he sternly ordered them not to make him known.
+
+### Appointing the Twelve Apostles
+
 [13] Now Jesus went up the mountain and called for those he wanted, and they came to him.
 [14] He appointed twelve so that they would be with him and he could send them to preach
 [15] and to have authority to cast out demons.
@@ -107,6 +143,9 @@
 [17] to James and his brother John, the sons of Zebedee, he gave the name Boanerges (that is, “sons of thunder”);
 [18] and Andrew, Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Thaddaeus, Simon the Zealot,
 [19] and Judas Iscariot, who betrayed him.
+
+### Jesus and Beelzebul
+
 [20] Now Jesus went home, and a crowd gathered so that they were not able to eat.
 [21] When his family heard this they went out to restrain him, for they said, “He is out of his mind.”
 [22] The experts in the law who came down from Jerusalem said, “He is possessed by Beelzebul,” and, “By the ruler of demons he casts out demons!”
@@ -118,6 +157,9 @@
 [28] I tell you the truth, people will be forgiven for all sins, even all the blasphemies they utter.
 [29] But whoever blasphemes against the Holy Spirit will never be forgiven, but is guilty of an eternal sin”
 [30] (because they said, “He has an unclean spirit”).
+
+### Jesus’ True Family
+
 [31] Then Jesus’ mother and his brothers came. Standing outside, they sent word to him, to summon him.
 [32] A crowd was sitting around him and they said to him, “Look, your mother and your brothers are outside looking for you.”
 [33] He answered them and said, “Who are my mother and my brothers?”
@@ -126,6 +168,7 @@
 # Mark
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### The Parable of the Sower
 
@@ -138,6 +181,9 @@
 [7] Other seed fell among the thorns, and they grew up and choked it, and it did not produce grain.
 [8] But other seed fell on good soil and produced grain, sprouting and growing; some yielded thirty times as much, some sixty, and some a hundred times.”
 [9] And he said, “Whoever has ears to hear had better listen!”
+
+### The Purpose of Parables
+
 [10] When he was alone, those around him with the twelve asked him about the parables.
 [11] He said to them, “The secret of the kingdom of God has been given to you. But to those outside, everything is in parables,
 [13] He said to them, “Don’t you understand this parable? Then how will you understand any parable?
@@ -148,20 +194,35 @@
 [18] Others are the ones sown among thorns: They are those who hear the word,
 [19] but worldly cares, the seductiveness of wealth, and the desire for other things come in and choke the word, and it produces nothing.
 [20] But these are the ones sown on good soil: They hear the word and receive it and bear fruit, one thirty times as much, one sixty, and one a hundred.”
+
+### The Parable of the Lamp
+
 [21] He also said to them, “A lamp isn’t brought to be put under a basket or under a bed, is it? Isn’t it to be placed on a lampstand?
 [22] For nothing is hidden except to be revealed, and nothing concealed except to be brought to light.
 [23] If anyone has ears to hear, he had better listen!”
 [24] And he said to them, “Take care about what you hear. The measure you use will be the measure you receive, and more will be added to you.
 [25] For whoever has will be given more, but whoever does not have, even what he has will be taken from him.”
+
+### The Parable of the Growing Seed
+
 [26] He also said, “The kingdom of God is like someone who spreads seed on the ground.
 [27] He goes to sleep and gets up, night and day, and the seed sprouts and grows, though he does not know how.
 [28] By itself the soil produces a crop, first the stalk, then the head, then the full grain in the head.
 [29] And when the grain is ripe, he sends in the sickle because the harvest has come.”
+
+### The Parable of the Mustard Seed
+
 [30] He also asked, “To what can we compare the kingdom of God, or what parable can we use to present it?
 [31] It is like a mustard seed that when sown in the ground, even though it is the smallest of all the seeds in the ground—
 [32] when it is sown, it grows up, becomes the greatest of all garden plants, and grows large branches so that the wild birds can nest in its shade.”
+
+### The Use of Parables
+
 [33] So with many parables like these, he spoke the word to them, as they were able to hear.
 [34] He did not speak to them without a parable. But privately he explained everything to his own disciples.
+
+### Stilling of a Storm
+
 [35] On that day, when evening came, Jesus said to his disciples, “Let’s go across to the other side of the lake.”
 [36] So after leaving the crowd, they took him along, just as he was, in the boat, and other boats were with him.
 [37] Now a great windstorm developed and the waves were breaking into the boat, so that the boat was nearly swamped.
@@ -172,6 +233,7 @@
 # Mark
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Healing of a Demoniac
 
@@ -195,6 +257,9 @@
 [18] As he was getting into the boat the man who had been demon-possessed asked if he could go with him.
 [19] But Jesus did not permit him to do so. Instead, he said to him, “Go to your home and to your people and tell them what the Lord has done for you, that he had mercy on you.”
 [20] So he went away and began to proclaim in the Decapolis what Jesus had done for him, and all were amazed.
+
+### Restoration and Healing
+
 [21] When Jesus had crossed again in a boat to the other side, a large crowd gathered around him, and he was by the sea.
 [22] Then one of the synagogue leaders, named Jairus, came up, and when he saw Jesus, he fell at his feet.
 [23] He asked him urgently, “My little daughter is near death. Come and lay your hands on her so that she may be healed and live.”
@@ -222,6 +287,7 @@
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Rejection at Nazareth
 
 [1] Now Jesus left that place and came to his hometown, and his disciples followed him.
@@ -230,6 +296,9 @@
 [4] Then Jesus said to them, “A prophet is not without honor except in his hometown, and among his relatives, and in his own house.”
 [5] He was not able to do a miracle there, except to lay his hands on a few sick people and heal them.
 [6] And he was amazed because of their unbelief. Then he went around among the villages and taught.
+
+### Sending Out the Twelve Apostles
+
 [7] Jesus called the twelve and began to send them out two by two. He gave them authority over the unclean spirits.
 [8] He instructed them to take nothing for the journey except a staff —no bread, no bag, no money in their belts—
 [9] and to put on sandals but not to wear two tunics.
@@ -237,6 +306,9 @@
 [11] If a place will not welcome you or listen to you, as you go out from there, shake the dust off your feet as a testimony against them.”
 [12] So they went out and preached that all should repent.
 [13] They cast out many demons and anointed many sick people with olive oil and healed them.
+
+### The Death of John the Baptist
+
 [14] Now King Herod heard this, for Jesus’ name had become known. Some were saying, “John the baptizer has been raised from the dead, and because of this, miraculous powers are at work in him.”
 [15] Others said, “He is Elijah.” Others said, “He is a prophet, like one of the prophets from the past.”
 [16] But when Herod heard this, he said, “John, whom I beheaded, has been raised!”
@@ -253,6 +325,9 @@
 [27] So the king sent an executioner at once to bring John’s head, and he went and beheaded John in prison.
 [28] He brought his head on a platter and gave it to the girl, and the girl gave it to her mother.
 [29] When John’s disciples heard this, they came and took his body and placed it in a tomb.
+
+### The Feeding of the Five Thousand
+
 [30] Then the apostles gathered around Jesus and told him everything they had done and taught.
 [31] He said to them, “Come with me privately to an isolated place and rest a while” (for many were coming and going, and there was no time to eat).
 [32] So they went away by themselves in a boat to some remote place.
@@ -268,6 +343,9 @@
 [42] They all ate and were satisfied,
 [43] and they picked up the broken pieces and fish that were left over, twelve baskets full.
 [44] Now there were 5,000 men who ate the bread.
+
+### Walking on Water
+
 [45] Immediately Jesus made his disciples get into the boat and go on ahead to the other side, to Bethsaida, while he dispersed the crowd.
 [46] After saying goodbye to them, he went to the mountain to pray.
 [47] When evening came, the boat was in the middle of the sea and he was alone on the land.
@@ -276,6 +354,9 @@
 [50] for they all saw him and were terrified. But immediately he spoke to them: “Have courage! It is I. Do not be afraid.”
 [51] Then he went up with them into the boat, and the wind ceased. They were completely astonished,
 [52] because they did not understand about the loaves, but their hearts were hardened.
+
+### Healing the Sick
+
 [53] After they had crossed over, they came to land at Gennesaret and anchored there.
 [54] As they got out of the boat, people immediately recognized Jesus.
 [55] They ran through that whole region and began to bring the sick on mats to wherever he was rumored to be.
@@ -283,6 +364,7 @@
 # Mark
 
 ## Chapter 7 <!-- scripture:7 -->
+
 
 ### Breaking Human Traditions
 
@@ -301,6 +383,9 @@
 [21] For from within, out of the human heart, come evil ideas, sexual immorality, theft, murder,
 [22] adultery, greed, evil, deceit, debauchery, envy, slander, pride, and folly.
 [23] All these evils come from within and defile a person.”
+
+### A Syrophoenician Woman’s Faith
+
 [24] After Jesus left there, he went to the region of Tyre. When he went into a house, he did not want anyone to know, but he was not able to escape notice.
 [25] Instead, a woman whose young daughter had an unclean spirit immediately heard about him and came and fell at his feet.
 [26] The woman was a Greek, of Syrophoenician origin. She asked him to cast the demon out of her daughter.
@@ -308,6 +393,9 @@
 [28] She answered, “Yes, Lord, but even the dogs under the table eat the children’s crumbs.”
 [29] Then he said to her, “Because you said this, you may go. The demon has left your daughter.”
 [30] She went home and found the child lying on the bed, and the demon gone.
+
+### Healing a Deaf Mute
+
 [31] Then Jesus went out again from the region of Tyre and came through Sidon to the Sea of Galilee in the region of the Decapolis.
 [32] They brought to him a deaf man who had difficulty speaking, and they asked him to place his hands on him.
 [33] After Jesus took him aside privately, away from the crowd, he put his fingers in the man’s ears, and after spitting, he touched his tongue.
@@ -318,6 +406,7 @@
 # Mark
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### The Feeding of the Four Thousand
 
@@ -331,9 +420,15 @@
 [8] Everyone ate and was satisfied, and they picked up the broken pieces left over, seven baskets full.
 [9] There were about 4,000 who ate. Then he dismissed them.
 [10] Immediately he got into a boat with his disciples and went to the district of Dalmanutha.
+
+### The Demand for a Sign
+
 [11] Then the Pharisees came and began to argue with Jesus, asking for a sign from heaven to test him.
 [12] Sighing deeply in his spirit he said, “Why does this generation look for a sign? I tell you the truth, no sign will be given to this generation.”
 [13] Then he left them, got back into the boat, and went to the other side.
+
+### The Yeast of the Pharisees and Herod
+
 [14] Now they had forgotten to take bread, except for one loaf they had with them in the boat.
 [15] And Jesus ordered them, “Watch out! Beware of the yeast of the Pharisees and the yeast of Herod!”
 [16] So they began to discuss with one another about having no bread.
@@ -342,21 +437,31 @@
 [19] When I broke the five loaves for the 5,000, how many baskets full of pieces did you pick up?” They replied, “Twelve.”
 [20] “When I broke the seven loaves for the 4,000, how many baskets full of pieces did you pick up?” They replied, “Seven.”
 [21] Then he said to them, “Do you still not understand?”
+
+### A Two-stage Healing
+
 [22] Then they came to Bethsaida. They brought a blind man to Jesus and asked him to touch him.
 [23] He took the blind man by the hand and brought him outside of the village. Then he spit on his eyes, placed his hands on his eyes and asked, “Do you see anything?”
 [24] Regaining his sight he said, “I see people, but they look like trees walking.”
 [25] Then Jesus placed his hands on the man’s eyes again. And he opened his eyes, his sight was restored, and he saw everything clearly.
 [26] Jesus sent him home, saying, “Do not even go into the village.”
+
+### Peter’s Confession
+
 [27] Then Jesus and his disciples went to the villages of Caesarea Philippi. On the way he asked his disciples, “Who do people say that I am?”
 [28] They said, “John the Baptist, others say Elijah, and still others, one of the prophets.”
 [29] He asked them, “But who do you say that I am?” Peter answered him, “You are the Christ.”
 [30] Then he warned them not to tell anyone about him.
+
+### First Prediction of Jesus’ Death and Resurrection
+
 [31] Then Jesus began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests, and experts in the law, and be killed, and after three days rise again.
 [32] He spoke openly about this. So Peter took him aside and began to rebuke him.
 [33] But after turning and looking at his disciples, he rebuked Peter and said, “Get behind me, Satan. You are not setting your mind on God’s interests, but on man’s.”
 # Mark
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### Following Jesus
 
@@ -366,6 +471,9 @@
 [37] What can a person give in exchange for his life?
 [38] For if anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will also be ashamed of him when he comes in the glory of his Father with the holy angels.”
 [1] And he said to them, “I tell you the truth, there are some standing here who will not experience death before they see the kingdom of God come with power.”
+
+### The Transfiguration
+
 [2] Six days later Jesus took with him Peter, James, and John and led them alone up a high mountain privately. And he was transfigured before them,
 [3] and his clothes became radiantly white, more so than any launderer in the world could bleach them.
 [4] Then Elijah appeared before them along with Moses, and they were talking with Jesus.
@@ -378,6 +486,9 @@
 [11] Then they asked him, “Why do the experts in the law say that Elijah must come first?”
 [12] He said to them, “Elijah does indeed come first, and restores all things. And why is it written that the Son of Man must suffer many things and be despised?
 [13] But I tell you that Elijah has certainly come, and they did to him whatever they wanted, just as it is written about him.”
+
+### The Disciples’ Failure to Heal
+
 [14] When they came to the disciples, they saw a large crowd around them and experts in the law arguing with them.
 [15] When the whole crowd saw him, they were amazed and ran at once and greeted him.
 [16] He asked them, “What are you arguing about with them?”
@@ -394,14 +505,23 @@
 [27] But Jesus gently took his hand and raised him to his feet, and he stood up.
 [28] Then, after he went into the house, his disciples asked him privately, “Why couldn’t we cast it out?”
 [29] He told them, “This kind can come out only by prayer.”
+
+### Second Prediction of Jesus’ Death and Resurrection
+
 [30] They went out from there and passed through Galilee. But Jesus did not want anyone to know,
 [31] for he was teaching his disciples and telling them, “The Son of Man will be betrayed into the hands of men. They will kill him, and after three days he will rise.”
 [32] But they did not understand this statement and were afraid to ask him.
+
+### Questions About the Greatest
+
 [33] Then they came to Capernaum. After Jesus was inside the house he asked them, “What were you discussing on the way?”
 [34] But they were silent, for on the way they had argued with one another about who was the greatest.
 [35] After he sat down, he called the twelve and said to them, “If anyone wants to be first, he must be last of all and servant of all.”
 [36] He took a little child and had him stand among them. Taking him in his arms, he said to them,
 [37] “Whoever welcomes one of these little children in my name welcomes me, and whoever welcomes me does not welcome me but the one who sent me.”
+
+### On Jesus’ Side
+
 [38] John said to him, “Teacher, we saw someone casting out demons in your name, and we tried to stop him because he was not following us.”
 [39] But Jesus said, “Do not stop him, because no one who does a miracle in my name will be able soon afterward to say anything bad about me.
 [40] For whoever is not against us is for us.
@@ -417,6 +537,7 @@
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### Divorce
 
 [1] Then Jesus left that place and went to the region of Judea and beyond the Jordan River. Again crowds gathered to him, and again, as was his custom, he taught them.
@@ -431,10 +552,16 @@
 [10] In the house once again, the disciples asked him about this.
 [11] So he told them, “Whoever divorces his wife and marries another commits adultery against her.
 [12] And if she divorces her husband and marries another, she commits adultery.”
+
+### Jesus and Little Children
+
 [13] Now people were bringing little children to him for him to touch, but the disciples scolded those who brought them.
 [14] But when Jesus saw this, he was indignant and said to them, “Let the little children come to me and do not try to stop them, for the kingdom of God belongs to such as these.
 [15] I tell you the truth, whoever does not receive the kingdom of God like a child will never enter it.”
 [16] After he took the children in his arms, he placed his hands on them and blessed them.
+
+### The Rich Man
+
 [17] Now as Jesus was starting out on his way, someone ran up to him, fell on his knees, and said, “Good teacher, what must I do to inherit eternal life?”
 [18] Jesus said to him, “Why do you call me good? No one is good except God alone.
 [19] You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not give false testimony, do not defraud, honor your father and mother.’”
@@ -450,9 +577,15 @@
 [29] Jesus said, “I tell you the truth, there is no one who has left home or brothers or sisters or mother or father or children or fields for my sake and for the sake of the gospel
 [30] who will not receive in this age a hundred times as much—homes, brothers, sisters, mothers, children, fields, all with persecutions —and in the age to come, eternal life.
 [31] But many who are first will be last, and the last first.”
+
+### Third Prediction of Jesus’ Death and Resurrection
+
 [32] They were on the way, going up to Jerusalem. Jesus was going ahead of them, and they were amazed, but those who followed were afraid. He took the twelve aside again and began to tell them what was going to happen to him.
 [33] “Look, we are going up to Jerusalem, and the Son of Man will be handed over to the chief priests and experts in the law. They will condemn him to death and will turn him over to the Gentiles.
 [34] They will mock him, spit on him, flog him severely, and kill him. Yet after three days, he will rise again.”
+
+### The Request of James and John
+
 [35] Then James and John, the sons of Zebedee, came to him and said, “Teacher, we want you to do for us whatever we ask.”
 [36] He said to them, “What do you want me to do for you?”
 [37] They said to him, “Permit one of us to sit at your right hand and the other at your left in your glory.”
@@ -464,6 +597,9 @@
 [43] But it is not this way among you. Instead whoever wants to be great among you must be your servant,
 [44] and whoever wants to be first among you must be the slave of all.
 [45] For even the Son of Man did not come to be served but to serve, and to give his life as a ransom for many.”
+
+### Healing Blind Bartimaeus
+
 [46] They came to Jericho. As Jesus and his disciples and a large crowd were leaving Jericho, Bartimaeus the son of Timaeus, a blind beggar, was sitting by the road.
 [47] When he heard that it was Jesus the Nazarene, he began to shout, “Jesus, Son of David, have mercy on me!”
 [48] Many scolded him to get him to be quiet, but he shouted all the more, “Son of David, have mercy on me!”
@@ -474,6 +610,7 @@
 # Mark
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### The Triumphal Entry
 
@@ -488,20 +625,32 @@
 [9] Both those who went ahead and those who followed kept shouting, “Hosanna! Blessed is the one who comes in the name of the Lord!
 [10] Blessed is the coming kingdom of our father David! Hosanna in the highest!”
 [11] Then Jesus entered Jerusalem and went to the temple. And after looking around at everything, he went out to Bethany with the twelve since it was already late.
+
+### Cursing of the Fig Tree
+
 [12] Now the next day, as they went out from Bethany, he was hungry.
 [13] After noticing in the distance a fig tree with leaves, he went to see if he could find any fruit on it. When he came to it he found nothing but leaves, for it was not the season for figs.
 [14] He said to it, “May no one ever eat fruit from you again.” And his disciples heard it.
+
+### Cleansing the Temple
+
 [15] Then they came to Jerusalem. Jesus entered the temple area and began to drive out those who were selling and buying in the temple courts. He turned over the tables of the money changers and the chairs of those selling doves,
 [16] and he would not permit anyone to carry merchandise through the temple courts.
 [17] Then he began to teach them and said, “Is it not written: ‘My house will be called a house of prayer for all nations’? But you have turned it into a den of robbers!”
 [18] The chief priests and the experts in the law heard it and they considered how they could assassinate him, for they feared him, because the whole crowd was amazed by his teaching.
 [19] When evening came, Jesus and his disciples went out of the city.
+
+### The Withered Fig Tree
+
 [20] In the morning as they passed by, they saw the fig tree withered from the roots.
 [21] Peter remembered and said to him, “Rabbi, look! The fig tree you cursed has withered.”
 [22] Jesus said to them, “Have faith in God.
 [23] I tell you the truth, if someone says to this mountain, ‘Be lifted up and thrown into the sea,’ and does not doubt in his heart but believes that what he says will happen, it will be done for him.
 [24] For this reason I tell you, whatever you pray and ask for, believe that you have received it, and it will be yours.
 [25] Whenever you stand praying, if you have anything against anyone, forgive him, so that your Father in heaven will also forgive you your sins.”
+
+### The Authority of Jesus
+
 [27] They came again to Jerusalem. While Jesus was walking in the temple courts, the chief priests, the experts in the law, and the elders came up to him
 [28] and said, “By what authority are you doing these things? Or who gave you this authority to do these things?”
 [29] Jesus said to them, “I will ask you one question. Answer me and I will tell you by what authority I do these things:
@@ -512,6 +661,7 @@
 # Mark
 
 ## Chapter 12 <!-- scripture:12 -->
+
 
 ### The Parable of the Tenants
 
@@ -525,11 +675,17 @@
 [8] So they seized him, killed him, and threw his body out of the vineyard.
 [9] What then will the owner of the vineyard do? He will come and destroy those tenants and give the vineyard to others.
 [10] Have you not read this scripture:
+
+### Paying Taxes to Caesar
+
 [13] Then they sent some of the Pharisees and Herodians to trap him with his own words.
 [14] When they came they said to him, “Teacher, we know that you are truthful and do not court anyone’s favor, because you show no partiality but teach the way of God in accordance with the truth. Is it right to pay taxes to Caesar or not? Should we pay or shouldn’t we?”
 [15] But he saw through their hypocrisy and said to them, “Why are you testing me? Bring me a denarius and let me look at it.”
 [16] So they brought one, and he said to them, “Whose image is this, and whose inscription?” They replied, “Caesar’s.”
 [17] Then Jesus said to them, “Give to Caesar the things that are Caesar’s, and to God the things that are God’s.” And they were utterly amazed at him.
+
+### Marriage and the Resurrection
+
 [18] Sadducees (who say there is no resurrection) also came to him and asked him,
 [19] “Teacher, Moses wrote for us: ‘If a man’s brother dies and leaves a wife but no children, that man must marry the widow and father children for his brother.’
 [20] There were seven brothers. The first one married, and when he died he had no children.
@@ -540,6 +696,9 @@
 [25] For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven.
 [26] Now as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God said to him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?
 [27] He is not the God of the dead but of the living. You are badly mistaken!”
+
+### The Greatest Commandment
+
 [28] Now one of the experts in the law came and heard them debating. When he saw that Jesus answered them well, he asked him, “Which commandment is the most important of all?”
 [29] Jesus answered, “The most important is: ‘Listen, Israel, the Lord our God, the Lord is one.
 [30] Love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’
@@ -547,11 +706,20 @@
 [32] The expert in the law said to him, “That is true, Teacher; you are right to say that he is one, and there is no one else besides him.
 [33] And to love him with all your heart, with all your mind, and with all your strength and to love your neighbor as yourself is more important than all burnt offerings and sacrifices.”
 [34] When Jesus saw that he had answered thoughtfully, he said to him, “You are not far from the kingdom of God.” Then no one dared any longer to question him.
+
+### The Messiah: David’s Son and Lord
+
 [35] While Jesus was teaching in the temple courts, he said, “How is it that the experts in the law say that the Christ is David’s son?
 [36] David himself, by the Holy Spirit, said,
+
+### Warnings About Experts in the Law
+
 [38] In his teaching Jesus also said, “Watch out for the experts in the law. They like walking around in long robes and elaborate greetings in the marketplaces,
 [39] and the best seats in the synagogues and the places of honor at banquets.
 [40] They devour widows’ property, and as a show make long prayers. These men will receive a more severe punishment.”
+
+### The Widow’s Offering
+
 [41] Then he sat down opposite the offering box, and watched the crowd putting coins into it. Many rich people were throwing in large amounts.
 [42] And a poor widow came and put in two small copper coins, worth less than a penny.
 [43] He called his disciples and said to them, “I tell you the truth, this poor widow has put more into the offering box than all the others.
@@ -560,21 +728,31 @@
 
 ## Chapter 13 <!-- scripture:13 -->
 
+
 ### The Destruction of the Temple
 
 [1] Now as Jesus was going out of the temple courts, one of his disciples said to him, “Teacher, look at these tremendous stones and buildings!”
 [2] Jesus said to him, “Do you see these great buildings? Not one stone will be left on another. All will be torn down!”
+
+### Signs of the End of the Age
+
 [3] So while he was sitting on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked him privately,
 [4] “Tell us, when will these things happen? And what will be the sign that all these things are about to take place?”
 [5] Jesus began to say to them, “Watch out that no one misleads you.
 [6] Many will come in my name, saying, ‘I am he,’ and they will mislead many.
 [7] When you hear of wars and rumors of wars, do not be alarmed. These things must happen, but the end is still to come.
 [8] For nation will rise up in arms against nation, and kingdom against kingdom. There will be earthquakes in various places, and there will be famines. These are but the beginning of birth pains.
+
+### Persecution of Disciples
+
 [9] “You must watch out for yourselves. You will be handed over to councils and beaten in the synagogues. You will stand before governors and kings because of me, as a witness to them.
 [10] First the gospel must be preached to all nations.
 [11] When they arrest you and hand you over for trial, do not worry about what to speak. But say whatever is given you at that time, for it is not you speaking, but the Holy Spirit.
 [12] Brother will hand over brother to death, and a father his child. Children will rise against parents and have them put to death.
 [13] You will be hated by everyone because of my name. But the one who endures to the end will be saved.
+
+### The Abomination of Desolation
+
 [14] “But when you see the abomination of desolation standing where it should not be” (let the reader understand), “then those in Judea must flee to the mountains.
 [15] The one on the roof must not come down or go inside to take anything out of his house.
 [16] The one in the field must not turn back to get his cloak.
@@ -585,14 +763,23 @@
 [21] Then if anyone says to you, ‘Look, here is the Christ!’ or ‘Look, there he is!’ do not believe him.
 [22] For false messiahs and false prophets will appear and perform signs and wonders to deceive, if possible, the elect.
 [23] Be careful! I have told you everything ahead of time.
+
+### The Arrival of the Son of Man
+
 [24] “But in those days, after that suffering, the sun will be darkened and the moon will not give its light;
 [25] the stars will be falling from heaven, and the powers in the heavens will be shaken.
 [26] Then everyone will see the Son of Man arriving in the clouds with great power and glory.
 [27] Then he will send angels and they will gather his elect from the four winds, from the ends of the earth to the ends of heaven.
+
+### The Parable of the Fig Tree
+
 [28] “Learn this parable from the fig tree: Whenever its branch becomes tender and puts out its leaves, you know that summer is near.
 [29] So also you, when you see these things happening, know that he is near, right at the door.
 [30] I tell you the truth, this generation will not pass away until all these things take place.
 [31] Heaven and earth will pass away, but my words will never pass away.
+
+### Be Ready!
+
 [32] “But as for that day or hour no one knows it—neither the angels in heaven, nor the Son —except the Father.
 [33] Watch out! Stay alert! For you do not know when the time will come.
 [34] It is like a man going on a journey. He left his house and put his slaves in charge, assigning to each his work, and commanded the doorkeeper to stay alert.
@@ -603,10 +790,14 @@
 
 ## Chapter 14 <!-- scripture:14 -->
 
+
 ### The Plot Against Jesus
 
 [1] Two days before the Passover and the Feast of Unleavened Bread, the chief priests and the experts in the law were trying to find a way to arrest Jesus by stealth and kill him.
 [2] For they said, “Not during the feast, so there won’t be a riot among the people.”
+
+### Jesus’ Anointing
+
 [3] Now while Jesus was in Bethany at the house of Simon the leper, reclining at the table, a woman came with an alabaster jar of costly aromatic oil from pure nard. After breaking open the jar, she poured it on his head.
 [4] But some who were present indignantly said to one another, “Why this waste of expensive ointment?
 [5] It could have been sold for more than 300 silver coins and the money given to the poor!” So they spoke angrily to her.
@@ -614,8 +805,14 @@
 [7] For you will always have the poor with you, and you can do good for them whenever you want. But you will not always have me!
 [8] She did what she could. She anointed my body beforehand for burial.
 [9] I tell you the truth, wherever the gospel is proclaimed in the whole world, what she has done will also be told in memory of her.”
+
+### The Plan to Betray Jesus
+
 [10] Then Judas Iscariot, one of the twelve, went to the chief priests to betray Jesus into their hands.
 [11] When they heard this, they were delighted and promised to give him money. So Judas began looking for an opportunity to betray him.
+
+### The Passover
+
 [12] Now on the first day of the feast of Unleavened Bread, when the Passover lamb is sacrificed, Jesus’ disciples said to him, “Where do you want us to prepare for you to eat the Passover?”
 [13] He sent two of his disciples and told them, “Go into the city, and a man carrying a jar of water will meet you. Follow him.
 [14] Wherever he enters, tell the owner of the house, ‘The Teacher says, “Where is my guest room where I may eat the Passover with my disciples?”’
@@ -626,12 +823,21 @@
 [19] They were distressed, and one by one said to him, “Surely not I?”
 [20] He said to them, “It is one of the twelve, one who dips his hand with me into the bowl.
 [21] For the Son of Man will go as it is written about him, but woe to that man by whom the Son of Man is betrayed! It would be better for him if he had never been born.”
+
+### The Lord’s Supper
+
 [22] While they were eating, he took bread, and after giving thanks he broke it, gave it to them, and said, “Take it. This is my body.”
 [23] And after taking the cup and giving thanks, he gave it to them, and they all drank from it.
 [24] He said to them, “This is my blood, the blood of the covenant, that is poured out for many.
 [25] I tell you the truth, I will no longer drink of the fruit of the vine until that day when I drink it new in the kingdom of God.”
 [26] After singing a hymn, they went out to the Mount of Olives.
+
+### The Prediction of Peter’s Denial
+
 [27] Then Jesus said to them, “You will all fall away, for it is written,
+
+### Gethsemane
+
 [32] Then they went to a place called Gethsemane, and Jesus said to his disciples, “Sit here while I pray.”
 [33] He took Peter, James, and John with him, and became very troubled and distressed.
 [34] He said to them, “My soul is deeply grieved, even to the point of death. Remain here and stay alert.”
@@ -643,6 +849,9 @@
 [40] When he came again he found them sleeping; they could not keep their eyes open. And they did not know what to tell him.
 [41] He came a third time and said to them, “Are you still sleeping and resting? Enough of that! The hour has come. Look, the Son of Man is betrayed into the hands of sinners.
 [42] Get up, let us go. Look! My betrayer is approaching!”
+
+### Betrayal and Arrest
+
 [43] Right away, while Jesus was still speaking, Judas, one of the twelve, arrived. With him came a crowd armed with swords and clubs, sent by the chief priests and experts in the law and elders.
 [44] (Now the betrayer had given them a sign, saying, “The one I kiss is the man. Arrest him and lead him away under guard.”)
 [45] When Judas arrived, he went up to Jesus immediately and said, “Rabbi!” and kissed him.
@@ -653,6 +862,9 @@
 [50] Then all the disciples left him and fled.
 [51] A young man was following him, wearing only a linen cloth. They tried to arrest him,
 [52] but he ran off naked, leaving his linen cloth behind.
+
+### Condemned by the Sanhedrin
+
 [53] Then they led Jesus to the high priest, and all the chief priests and elders and experts in the law came together.
 [54] And Peter had followed him from a distance, up to the high priest’s courtyard. He was sitting with the guards and warming himself by the fire.
 [55] The chief priests and the whole Sanhedrin were looking for evidence against Jesus so that they could put him to death, but they did not find anything.
@@ -666,6 +878,9 @@
 [63] Then the high priest tore his clothes and said, “Why do we still need witnesses?
 [64] You have heard the blasphemy! What is your verdict?” They all condemned him as deserving death.
 [65] Then some began to spit on him, and to blindfold him, and to strike him with their fists, saying, “Prophesy!” The guards also took him and beat him.
+
+### Peter’s Denials
+
 [66] Now while Peter was below in the courtyard, one of the high priest’s slave girls came by.
 [67] When she saw Peter warming himself, she looked directly at him and said, “You also were with that Nazarene, Jesus.”
 [68] But he denied it: “I don’t even understand what you’re talking about!” Then he went out to the gateway, and a rooster crowed.
@@ -677,6 +892,7 @@
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### Jesus Brought Before Pilate
 
 [1] Early in the morning, after forming a plan, the chief priests with the elders and the experts in the law and the whole Sanhedrin tied Jesus up, led him away, and handed him over to Pilate.
@@ -684,6 +900,9 @@
 [3] Then the chief priests began to accuse him repeatedly.
 [4] So Pilate asked him again, “Have you nothing to say? See how many charges they are bringing against you!”
 [5] But Jesus made no further reply, so that Pilate was amazed.
+
+### Jesus and Barabbas
+
 [6] During the feast it was customary to release one prisoner to the people, whomever they requested.
 [7] A man named Barabbas was imprisoned with rebels who had committed murder during an insurrection.
 [8] Then the crowd came up and began to ask Pilate to release a prisoner for them, as was his custom.
@@ -694,11 +913,17 @@
 [13] They shouted back, “Crucify him!”
 [14] Pilate asked them, “Why? What has he done wrong?” But they shouted more insistently, “Crucify him!”
 [15] Because he wanted to satisfy the crowd, Pilate released Barabbas for them. Then, after he had Jesus flogged, he handed him over to be crucified.
+
+### Jesus is Mocked
+
 [16] So the soldiers led him into the palace (that is, the governor’s residence) and called together the whole cohort.
 [17] They put a purple cloak on him and after braiding a crown of thorns, they put it on him.
 [18] They began to salute him: “Hail, king of the Jews!”
 [19] Again and again they struck him on the head with a staff and spit on him. Then they knelt down and paid homage to him.
 [20] When they had finished mocking him, they stripped him of the purple cloak and put his own clothes back on him. Then they led him away to crucify him.
+
+### The Crucifixion
+
 [21] The soldiers forced a passerby to carry his cross, Simon of Cyrene, who was coming in from the country (he was the father of Alexander and Rufus).
 [22] They brought Jesus to a place called Golgotha (which is translated, “Place of the Skull”).
 [23] They offered him wine mixed with myrrh, but he did not take it.
@@ -710,6 +935,9 @@
 [30] save yourself and come down from the cross!”
 [31] In the same way even the chief priests—together with the experts in the law —were mocking him among themselves: “He saved others, but he cannot save himself!
 [32] Let the Christ, the king of Israel, come down from the cross now, that we may see and believe!” Those who were crucified with him also spoke abusively to him.
+
+### Jesus’ Death
+
 [33] Now when it was noon, darkness came over the whole land until three in the afternoon.
 [34] Around three o’clock Jesus cried out with a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, my God, why have you forsaken me?”
 [35] When some of the bystanders heard it they said, “Listen, he is calling for Elijah!”
@@ -719,6 +947,9 @@
 [39] Now when the centurion, who stood in front of him, saw how he died, he said, “Truly this man was God’s Son!”
 [40] There were also women, watching from a distance. Among them were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.
 [41] When he was in Galilee, they had followed him and given him support. Many other women who had come up with him to Jerusalem were there too.
+
+### Jesus’ Burial
+
 [42] Now when evening had already come, since it was the day of preparation (that is, the day before the Sabbath),
 [43] Joseph of Arimathea, a highly regarded member of the council, who was himself looking forward to the kingdom of God, went boldly to Pilate and asked for the body of Jesus.
 [44] Pilate was surprised that he was already dead. He called the centurion and asked him if he had been dead for some time.
@@ -728,6 +959,7 @@
 # Mark
 
 ## Chapter 16 <!-- scripture:16 -->
+
 
 ### The Resurrection
 
@@ -739,6 +971,9 @@
 [6] But he said to them, “Do not be alarmed. You are looking for Jesus the Nazarene, who was crucified. He has been raised! He is not here. Look, there is the place where they laid him.
 [7] But go, tell his disciples, even Peter, that he is going ahead of you into Galilee. You will see him there, just as he told you.”
 [8] Then they went out and ran from the tomb, for terror and bewilderment had seized them. And they said nothing to anyone, because they were afraid.
+
+### The Longer Ending of Mark
+
 [9] [[Early on the first day of the week, after he arose, he appeared first to Mary Magdalene, from whom he had driven out seven demons.
 [10] She went out and told those who were with him, while they were mourning and weeping.
 [11] And when they heard that he was alive and had been seen by her, they did not believe.

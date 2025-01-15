@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The Genealogy of Jesus Christ
 
 [1] This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham.
@@ -21,6 +22,9 @@
 [15] Eliud the father of Eleazar, Eleazar the father of Matthan, Matthan the father of Jacob,
 [16] and Jacob the father of Joseph, the husband of Mary, by whom Jesus was born, who is called Christ.
 [17] So all the generations from Abraham to David are fourteen generations, and from David to the deportation to Babylon, fourteen generations, and from the deportation to Babylon to Christ, fourteen generations.
+
+### The Birth of Jesus Christ
+
 [18] Now the birth of Jesus Christ happened this way. While his mother Mary was engaged to Joseph, but before they came together, she was found to be pregnant through the Holy Spirit.
 [19] Because Joseph, her husband to be, was a righteous man, and because he did not want to disgrace her, he intended to divorce her privately.
 [20] When he had contemplated this, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to take Mary as your wife, because the child conceived in her is from the Holy Spirit.
@@ -32,6 +36,7 @@
 # Matthew
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### The Visit of the Wise Men
 
@@ -46,11 +51,17 @@
 [10] When they saw the star they shouted joyfully.
 [11] As they came into the house and saw the child with Mary his mother, they bowed down and worshiped him. They opened their treasure boxes and gave him gifts of gold, frankincense, and myrrh.
 [12] After being warned in a dream not to return to Herod, they went back by another route to their own country.
+
+### The Escape to Egypt
+
 [13] After they had gone, an angel of the Lord appeared to Joseph in a dream and said, “Get up, take the child and his mother and flee to Egypt, and stay there until I tell you, for Herod is going to look for the child to kill him.”
 [14] Then he got up, took the child and his mother during the night, and went to Egypt.
 [15] He stayed there until Herod died. In this way what was spoken by the Lord through the prophet was fulfilled: “I called my Son out of Egypt.”
 [16] When Herod saw that he had been tricked by the wise men, he became enraged. He sent men to kill all the children in Bethlehem and throughout the surrounding region from the age of two and under, according to the time he had learned from the wise men.
 [17] Then what was spoken by Jeremiah the prophet was fulfilled:
+
+### The Return to Nazareth
+
 [19] After Herod had died, an angel of the Lord appeared in a dream to Joseph in Egypt
 [20] saying, “Get up, take the child and his mother, and go to the land of Israel, for those who were seeking the child’s life are dead.”
 [21] So he got up and took the child and his mother and returned to the land of Israel.
@@ -59,6 +70,7 @@
 # Matthew
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### The Ministry of John the Baptist
 
@@ -74,6 +86,9 @@
 [10] Even now the ax is laid at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.
 [11] “I baptize you with water, for repentance, but the one coming after me is more powerful than I am—I am not worthy to carry his sandals! He will baptize you with the Holy Spirit and fire.
 [12] His winnowing fork is in his hand, and he will clean out his threshing floor and will gather his wheat into the storehouse, but the chaff he will burn up with inextinguishable fire!”
+
+### The Baptism of Jesus
+
 [13] Then Jesus came from Galilee to John to be baptized by him in the Jordan River.
 [14] But John tried to prevent him, saying, “I need to be baptized by you, and yet you come to me?”
 [15] So Jesus replied to him, “Let it happen now, for it is right for us to fulfill all righteousness.” Then John yielded to him.
@@ -82,6 +97,7 @@
 # Matthew
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### The Temptation of Jesus
 
@@ -96,21 +112,31 @@
 [9] And he said to him, “I will give you all these things if you throw yourself to the ground and worship me.”
 [10] Then Jesus said to him, “Go away, Satan! For it is written: ‘You are to worship the Lord your God and serve only him.’”
 [11] Then the devil left him, and angels came and began ministering to his needs.
+
+### Preaching in Galilee
+
 [12] Now when Jesus heard that John had been imprisoned, he went into Galilee.
 [13] While in Galilee, he moved from Nazareth to make his home in Capernaum by the sea, in the region of Zebulun and Naphtali,
 [14] so that what was spoken by the prophet Isaiah would be fulfilled:
 [17] From that time Jesus began to preach this message: “Repent, for the kingdom of heaven is near!”
+
+### The Call of the Disciples
+
 [18] As he was walking by the Sea of Galilee he saw two brothers, Simon (called Peter) and Andrew his brother, casting a net into the sea (for they were fishermen).
 [19] He said to them, “Follow me, and I will turn you into fishers of people!”
 [20] They left their nets immediately and followed him.
 [21] Going on from there he saw two other brothers, James the son of Zebedee and his brother John, in a boat with their father Zebedee, mending their nets. Then he called them.
 [22] They immediately left the boat and their father and followed him.
+
+### Jesus’ Healing Ministry
+
 [23] Jesus went throughout all of Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every kind of disease and sickness among the people.
 [24] So a report about him spread throughout Syria. People brought to him all who suffered with various illnesses and afflictions, those who had seizures, paralytics, and those possessed by demons, and he healed them.
 [25] And large crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and beyond the Jordan River.
 # Matthew
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### The Beatitudes
 
@@ -125,36 +151,60 @@
 [9] “Blessed are the peacemakers, for they will be called the children of God.
 [10] “Blessed are those who are persecuted for righteousness, for the kingdom of heaven belongs to them.
 [11] “Blessed are you when people insult you and persecute you and say all kinds of evil things about you falsely on account of me. 5:12 Rejoice and be glad, because your reward is great in heaven, for they persecuted the prophets before you in the same way.
+
+### Salt and Light
+
 [13] “You are the salt of the earth. But if salt loses its flavor, how can it be made salty again? It is no longer good for anything except to be thrown out and trampled on by people!
 [14] You are the light of the world. A city located on a hill cannot be hidden.
 [15] People do not light a lamp and put it under a basket but on a lampstand, and it gives light to all in the house.
 [16] In the same way, let your light shine before people, so that they can see your good deeds and give honor to your Father in heaven.
+
+### Fulfillment of the Law and Prophets
+
 [17] “Do not think that I have come to abolish the law or the prophets. I have not come to abolish these things but to fulfill them.
 [18] I tell you the truth, until heaven and earth pass away not the smallest letter or stroke of a letter will pass from the law until everything takes place.
 [19] So anyone who breaks one of the least of these commands and teaches others to do so will be called least in the kingdom of heaven, but whoever obeys them and teaches others to do so will be called great in the kingdom of heaven.
 [20] For I tell you, unless your righteousness goes beyond that of the experts in the law and the Pharisees, you will never enter the kingdom of heaven!
+
+### Anger and Murder
+
 [21] “You have heard that it was said to an older generation, ‘Do not murder,’ and ‘whoever murders will be subjected to judgment.’
 [22] But I say to you that anyone who is angry with a brother will be subjected to judgment. And whoever insults a brother will be brought before the council, and whoever says ‘Fool’ will be sent to fiery hell.
 [23] So then, if you bring your gift to the altar and there you remember that your brother has something against you,
 [24] leave your gift there in front of the altar. First go and be reconciled to your brother and then come and present your gift.
 [25] Reach agreement quickly with your accuser while on the way to court, or he may hand you over to the judge, and the judge hand you over to the warden, and you will be thrown into prison.
 [26] I tell you the truth, you will never get out of there until you have paid the last penny!
+
+### Adultery
+
 [27] “You have heard that it was said, ‘Do not commit adultery.’
 [28] But I say to you that whoever looks at a woman to desire her has already committed adultery with her in his heart.
 [29] If your right eye causes you to sin, tear it out and throw it away! It is better to lose one of your members than to have your whole body thrown into hell.
 [30] If your right hand causes you to sin, cut it off and throw it away! It is better to lose one of your members than to have your whole body go into hell.
+
+### Divorce
+
 [31] “It was said, ‘Whoever divorces his wife must give her a legal document.’
 [32] But I say to you that everyone who divorces his wife, except for immorality, makes her commit adultery, and whoever marries a divorced woman commits adultery.
+
+### Oaths
+
 [33] “Again, you have heard that it was said to an older generation, ‘Do not break an oath, but fulfill your vows to the Lord.’
 [34] But I say to you, do not take oaths at all—not by heaven, because it is the throne of God,
 [35] not by earth, because it is his footstool, and not by Jerusalem, because it is the city of the great King.
 [36] Do not take an oath by your head, because you are not able to make one hair white or black.
 [37] Let your word be ‘Yes, yes’ or ‘No, no.’ More than this is from the evil one.
+
+### Retaliation
+
 [38] “You have heard that it was said, ‘An eye for an eye and a tooth for a tooth.’
 [39] But I say to you, do not resist the evildoer. But whoever strikes you on the right cheek, turn the other to him as well.
 [40] And if someone wants to sue you and take your tunic, let him have your coat also.
 [41] And if anyone forces you to go one mile, go with him two.
 [42] Give to the one who asks you, and do not reject the one who wants to borrow from you.
+
+### Love for Enemies
+
 [43] “You have heard that it was said, ‘Love your neighbor’ and ‘hate your enemy.’
 [44] But I say to you, love your enemy and pray for those who persecute you,
 [45] so that you may be like your Father in heaven, since he causes the sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.
@@ -165,12 +215,16 @@
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Pure-hearted Giving
 
 [1] “Be careful not to display your righteousness merely to be seen by people. Otherwise you have no reward with your Father in heaven.
 [2] Thus whenever you do charitable giving, do not blow a trumpet before you, as the hypocrites do in synagogues and on streets so that people will praise them. I tell you the truth, they have their reward!
 [3] But when you do your giving, do not let your left hand know what your right hand is doing,
 [4] so that your gift may be in secret. And your Father, who sees in secret, will reward you.
+
+### Private Prayer
+
 [5] “Whenever you pray, do not be like the hypocrites, because they love to pray while standing in synagogues and on street corners so that people can see them. Truly I say to you, they have their reward!
 [6] But whenever you pray, go into your inner room, close the door, and pray to your Father in secret. And your Father, who sees in secret, will reward you.
 [7] When you pray, do not babble repetitiously like the Gentiles, because they think that by their many words they will be heard.
@@ -184,15 +238,24 @@ may your will be done on earth as it is in heaven.
 [13] And do not lead us into temptation, but deliver us from the evil one.
 [14] “For if you forgive others their sins, your heavenly Father will also forgive you.
 [15] But if you do not forgive others, your Father will not forgive you your sins.
+
+### Proper Fasting
+
 [16] “When you fast, do not look sullen like the hypocrites, for they make their faces unattractive so that people will see them fasting. I tell you the truth, they have their reward!
 [17] When you fast, anoint your head and wash your face,
 [18] so that it will not be obvious to others when you are fasting, but only to your Father who is in secret. And your Father, who sees in secret, will reward you.
+
+### Lasting Treasure
+
 [19] “Do not accumulate for yourselves treasures on earth, where moth and devouring insect destroy and where thieves break in and steal.
 [20] But accumulate for yourselves treasures in heaven, where moth and devouring insect do not destroy, and thieves do not break in and steal.
 [21] For where your treasure is, there your heart will be also.
 [22] “The eye is the lamp of the body. If then your eye is healthy, your whole body will be full of light.
 [23] But if your eye is diseased, your whole body will be full of darkness. If then the light in you is darkness, how great is the darkness!
 [24] “No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money.
+
+### Do Not Worry
+
 [25] “Therefore I tell you, do not worry about your life, what you will eat or drink, or about your body, what you will wear. Isn’t there more to life than food and more to the body than clothing?
 [26] Look at the birds in the sky: They do not sow, or reap, or gather into barns, yet your heavenly Father feeds them. Aren’t you more valuable than they are?
 [27] And which of you by worrying can add even one hour to his life?
@@ -207,6 +270,7 @@ may your will be done on earth as it is in heaven.
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### Do Not Judge
 
 [1] “Do not judge so that you will not be judged.
@@ -215,23 +279,38 @@ may your will be done on earth as it is in heaven.
 [4] Or how can you say to your brother, ‘Let me remove the speck from your eye,’ while there is a beam in your own?
 [5] You hypocrite! First remove the beam from your own eye, and then you can see clearly to remove the speck from your brother’s eye.
 [6] Do not give what is holy to dogs or throw your pearls before pigs; otherwise they will trample them under their feet and turn around and tear you to pieces.
+
+### Ask, Seek, Knock
+
 [7] “Ask and it will be given to you; seek and you will find; knock and the door will be opened for you.
 [8] For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened.
 [9] Is there anyone among you who, if his son asks for bread, will give him a stone?
 [10] Or if he asks for a fish, will give him a snake?
 [11] If you then, although you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!
 [12] In everything, treat others as you would want them to treat you, for this fulfills the law and the prophets.
+
+### The Narrow Gate
+
 [13] “Enter through the narrow gate, because the gate is wide and the way is spacious that leads to destruction, and there are many who enter through it.
 [14] How narrow is the gate and difficult the way that leads to life, and there are few who find it!
+
+### A Tree and Its Fruit
+
 [15] “Watch out for false prophets, who come to you in sheep’s clothing but inwardly are voracious wolves.
 [16] You will recognize them by their fruit. Grapes are not gathered from thorns or figs from thistles, are they?
 [17] In the same way, every good tree bears good fruit, but the bad tree bears bad fruit.
 [18] A good tree is not able to bear bad fruit, nor a bad tree to bear good fruit.
 [19] Every tree that does not bear good fruit is cut down and thrown into the fire.
 [20] So then, you will recognize them by their fruit.
+
+### Judgment of Pretenders
+
 [21] “Not everyone who says to me, ‘Lord, Lord,’ will enter into the kingdom of heaven—only the one who does the will of my Father in heaven.
 [22] On that day, many will say to me, ‘Lord, Lord, didn’t we prophesy in your name, and cast out demons in your name, and do many powerful deeds in your name?’
 [23] Then I will declare to them, ‘I never knew you. Go away from me, you lawbreakers!’
+
+### Hearing and Doing
+
 [24] “Everyone who hears these words of mine and does them is like a wise man who built his house on rock.
 [25] The rain fell, the flood came, and the winds beat against that house, but it did not collapse because its foundation had been laid on rock.
 [26] Everyone who hears these words of mine and does not do them is like a foolish man who built his house on sand.
@@ -242,12 +321,16 @@ may your will be done on earth as it is in heaven.
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### Cleansing a Leper
 
 [1] After he came down from the mountain, large crowds followed him.
 [2] And a leper approached and bowed low before him, saying, “Lord, if you are willing, you can make me clean.”
 [3] He stretched out his hand and touched him saying, “I am willing. Be clean!” Immediately his leprosy was cleansed.
 [4] Then Jesus said to him, “See that you do not speak to anyone, but go, show yourself to the priest, and bring the offering that Moses commanded, as a testimony to them.”
+
+### Healing the Centurion’s Servant
+
 [5] When he entered Capernaum, a centurion came to him asking for help:
 [6] “Lord, my servant is lying at home paralyzed, in terrible anguish.”
 [7] Jesus said to him, “I will come and heal him.”
@@ -257,20 +340,32 @@ may your will be done on earth as it is in heaven.
 [11] I tell you, many will come from the east and west to share the banquet with Abraham, Isaac, and Jacob in the kingdom of heaven,
 [12] but the sons of the kingdom will be thrown out into the outer darkness, where there will be weeping and gnashing of teeth.”
 [13] Then Jesus said to the centurion, “Go; just as you believed, it will be done for you.” And the servant was healed at that hour.
+
+### Healings at Peter’s House
+
 [14] Now when Jesus entered Peter’s house, he saw his mother-in-law lying down, sick with a fever.
 [15] He touched her hand, and the fever left her. Then she got up and began to serve them.
 [16] When it was evening, many demon-possessed people were brought to him. He drove out the spirits with a word, and healed all who were sick.
 [17] In this way what was spoken by the prophet Isaiah was fulfilled:
+
+### Challenging Professed Followers
+
 [18] Now when Jesus saw a large crowd around him, he gave orders to go to the other side of the lake.
 [19] Then an expert in the law came to him and said, “Teacher, I will follow you wherever you go.”
 [20] Jesus said to him, “Foxes have dens, and the birds in the sky have nests, but the Son of Man has no place to lay his head.”
 [21] Another of the disciples said to him, “Lord, let me first go and bury my father.”
 [22] But Jesus said to him, “Follow me, and let the dead bury their own dead.”
+
+### Stilling of a Storm
+
 [23] As he got into the boat, his disciples followed him.
 [24] And a great storm developed on the sea so that the waves began to swamp the boat. But he was asleep.
 [25] So they came and woke him up saying, “Lord, save us! We are about to die!”
 [26] But he said to them, “Why are you cowardly, you people of little faith?” Then he got up and rebuked the winds and the sea, and it was dead calm.
 [27] And the men were amazed and said, “What sort of person is this? Even the winds and the sea obey him!”
+
+### Healing the Gadarene Demoniacs
+
 [28] When he came to the other side, to the region of the Gadarenes, two demon-possessed men coming from the tombs met him. They were extremely violent, so that no one was able to pass by that way.
 [29] They cried out, “Son of God, leave us alone! Have you come here to torment us before the time?”
 [30] A large herd of pigs was feeding some distance from them.
@@ -282,6 +377,7 @@ may your will be done on earth as it is in heaven.
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### Healing and Forgiving a Paralytic
 
 [1] After getting into a boat he crossed to the other side and came to his own town.
@@ -292,15 +388,24 @@ may your will be done on earth as it is in heaven.
 [6] But so that you may know that the Son of Man has authority on earth to forgive sins”—then he said to the paralytic —“Stand up, take your stretcher, and go home.”
 [7] So he stood up and went home.
 [8] When the crowd saw this, they were afraid and honored God who had given such authority to men.
+
+### The Call of Matthew; Eating with Sinners
+
 [9] As Jesus went on from there, he saw a man named Matthew sitting at the tax booth. “Follow me,” he said to him. So he got up and followed him.
 [10] As Jesus was having a meal in Matthew’s house, many tax collectors and sinners came and ate with Jesus and his disciples.
 [11] When the Pharisees saw this they said to his disciples, “Why does your teacher eat with tax collectors and sinners?”
 [12] When Jesus heard this he said, “Those who are healthy don’t need a physician, but those who are sick do.
 [13] Go and learn what this saying means: ‘I want mercy and not sacrifice.’ For I did not come to call the righteous, but sinners.”
+
+### The Superiority of the New
+
 [14] Then John’s disciples came to Jesus and asked, “Why do we and the Pharisees fast often, but your disciples don’t fast?”
 [15] Jesus said to them, “The wedding guests cannot mourn while the bridegroom is with them, can they? But the days are coming when the bridegroom will be taken from them, and then they will fast.
 [16] No one sews a patch of unshrunk cloth on an old garment, because the patch will pull away from the garment and the tear will be worse.
 [17] And no one pours new wine into old wineskins; otherwise the skins burst and the wine is spilled out and the skins are destroyed. Instead they put new wine into new wineskins and both are preserved.”
+
+### Restoration and Healing
+
 [18] As he was saying these things, a leader came, bowed low before him, and said, “My daughter has just died, but come and lay your hand on her and she will live.”
 [19] Jesus and his disciples got up and followed him.
 [20] But a woman who had been suffering from a hemorrhage for twelve years came up behind him and touched the edge of his cloak.
@@ -310,6 +415,9 @@ may your will be done on earth as it is in heaven.
 [24] he said, “Go away, for the girl is not dead but asleep!” And they began making fun of him.
 [25] But when the crowd had been forced outside, he went in and gently took her by the hand, and the girl got up.
 [26] And the news of this spread throughout that region.
+
+### Healing the Blind and Mute
+
 [27] As Jesus went on from there, two blind men began to follow him, shouting, “Have mercy on us, Son of David!”
 [28] When he went into the house, the blind men came to him. Jesus said to them, “Do you believe that I am able to do this?” They said to him, “Yes, Lord.”
 [29] Then he touched their eyes saying, “Let it be done for you according to your faith.”
@@ -318,6 +426,9 @@ may your will be done on earth as it is in heaven.
 [32] As they were going away, a man who was demon-possessed and unable to speak was brought to him.
 [33] After the demon was cast out, the man who had been mute began to speak. The crowds were amazed and said, “Never has anything like this been seen in Israel!”
 [34] But the Pharisees said, “By the ruler of demons he casts out demons!”
+
+### Workers for the Harvest
+
 [35] Then Jesus went throughout all the towns and villages, teaching in their synagogues, preaching the good news of the kingdom, and healing every kind of disease and sickness.
 [36] When he saw the crowds, he had compassion on them because they were bewildered and helpless, like sheep without a shepherd.
 [37] Then he said to his disciples, “The harvest is plentiful, but the workers are few.
@@ -325,6 +436,7 @@ may your will be done on earth as it is in heaven.
 # Matthew
 
 ## Chapter 10 <!-- scripture:10 -->
+
 
 ### Sending Out the Twelve Apostles
 
@@ -343,6 +455,9 @@ may your will be done on earth as it is in heaven.
 [13] And if the house is worthy, let your peace come on it, but if it is not worthy, let your peace return to you.
 [14] And if anyone will not welcome you or listen to your message, shake the dust off your feet as you leave that house or that town.
 [15] I tell you the truth, it will be more bearable for the region of Sodom and Gomorrah on the day of judgment than for that town!
+
+### Persecution of Disciples
+
 [16] “I am sending you out like sheep surrounded by wolves, so be wise as serpents and innocent as doves.
 [17] Beware of people, because they will hand you over to councils and flog you in their synagogues.
 [18] And you will be brought before governors and kings because of me, as a witness to them and to the Gentiles.
@@ -353,6 +468,9 @@ may your will be done on earth as it is in heaven.
 [23] Whenever they persecute you in one town, flee to another! I tell you the truth, you will not finish going through all the towns of Israel before the Son of Man comes.
 [24] “A disciple is not greater than his teacher, nor a slave greater than his master.
 [25] It is enough for the disciple to become like his teacher, and the slave like his master. If they have called the head of the house ‘Beelzebul,’ how much worse will they call the members of his household!
+
+### Fear God, Not Man
+
 [26] “Do not be afraid of them, for nothing is hidden that will not be revealed, and nothing is secret that will not be made known.
 [27] What I say to you in the dark, tell in the light, and what is whispered in your ear, proclaim from the housetops.
 [28] Do not be afraid of those who kill the body but cannot kill the soul. Instead, fear the one who is able to destroy both soul and body in hell.
@@ -361,12 +479,18 @@ may your will be done on earth as it is in heaven.
 [31] So do not be afraid; you are more valuable than many sparrows.
 [32] “Whoever, then, acknowledges me before people, I will acknowledge before my Father in heaven.
 [33] But whoever denies me before people, I will deny him also before my Father in heaven.
+
+### Not Peace, but a Sword
+
 [34] “Do not think that I have come to bring peace to the earth. I have not come to bring peace but a sword!
 [35] For I have come to set a man against his father, a daughter against her mother, and a daughter-in-law against her mother-in-law,
 [36] and a man’s enemies will be the members of his household.
 [37] “Whoever loves father or mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me.
 [38] And whoever does not take up his cross and follow me is not worthy of me.
 [39] Whoever finds his life will lose it, and whoever loses his life because of me will find it.
+
+### Rewards
+
 [40] “Whoever receives you receives me, and whoever receives me receives the one who sent me.
 [41] Whoever receives a prophet in the name of a prophet will receive a prophet’s reward. Whoever receives a righteous person in the name of a righteous person will receive a righteous person’s reward.
 [42] And whoever gives only a cup of cold water to one of these little ones in the name of a disciple, I tell you the truth, he will never lose his reward.”
@@ -374,9 +498,10 @@ may your will be done on earth as it is in heaven.
 
 ## Chapter 11 <!-- scripture:11 -->
 
+[1] When Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in their towns.
+
 ### Jesus and John the Baptist
 
-[1] When Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in their towns.
 [2] Now when John heard in prison about the deeds Christ had done, he sent his disciples to ask a question:
 [3] “Are you the one who is to come, or should we look for another?”
 [4] Jesus answered them, “Go tell John what you hear and see:
@@ -394,11 +519,17 @@ may your will be done on earth as it is in heaven.
 [16] “To what should I compare this generation? They are like children sitting in the marketplaces who call out to one another,
 [17] ‘We played the flute for you, yet you did not dance;
 we wailed in mourning, yet you did not weep.’
+
+### Woes on Unrepentant Cities
+
 [20] Then Jesus began to criticize openly the cities in which he had done many of his miracles, because they did not repent.
 [21] “Woe to you, Chorazin! Woe to you, Bethsaida! If the miracles done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
 [22] But I tell you, it will be more bearable for Tyre and Sidon on the day of judgment than for you!
 [23] And you, Capernaum, will you be exalted to heaven? No, you will be thrown down to Hades! For if the miracles done among you had been done in Sodom, it would have continued to this day.
 [24] But I tell you, it will be more bearable for the region of Sodom on the day of judgment than for you!”
+
+### Jesus’ Invitation
+
 [25] At that time Jesus said, “I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and intelligent, and have revealed them to little children.
 [26] Yes, Father, for this was your gracious will.
 [27] All things have been handed over to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son decides to reveal him.
@@ -408,6 +539,7 @@ we wailed in mourning, yet you did not weep.’
 # Matthew
 
 ## Chapter 12 <!-- scripture:12 -->
+
 
 ### Lord of the Sabbath
 
@@ -425,9 +557,15 @@ we wailed in mourning, yet you did not weep.’
 [12] How much more valuable is a person than a sheep! So it is lawful to do good on the Sabbath.”
 [13] Then he said to the man, “Stretch out your hand.” He stretched it out and it was restored, as healthy as the other.
 [14] But the Pharisees went out and plotted against him, as to how they could assassinate him.
+
+### God’s Special Servant
+
 [15] Now when Jesus learned of this, he went away from there. Great crowds followed him, and he healed them all.
 [16] But he sternly warned them not to make him known.
 [17] This fulfilled what was spoken by the prophet Isaiah:
+
+### Jesus and Beelzebul
+
 [22] Then they brought to him a demon-possessed man who was blind and mute. Jesus healed him so that he could speak and see.
 [23] All the crowds were amazed and said, “Could this one be the Son of David?”
 [24] But when the Pharisees heard this they said, “He does not cast out demons except by the power of Beelzebul, the ruler of demons!”
@@ -439,19 +577,31 @@ we wailed in mourning, yet you did not weep.’
 [30] Whoever is not with me is against me, and whoever does not gather with me scatters.
 [31] For this reason I tell you, people will be forgiven for every sin and blasphemy, but the blasphemy against the Spirit will not be forgiven.
 [32] Whoever speaks a word against the Son of Man will be forgiven. But whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.
+
+### Trees and Their Fruit
+
 [33] “Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, for a tree is known by its fruit.
 [34] Offspring of vipers! How are you able to say anything good, since you are evil? For the mouth speaks from what fills the heart.
 [35] The good person brings good things out of his good treasury, and the evil person brings evil things out of his evil treasury.
 [36] I tell you that on the day of judgment, people will give an account for every worthless word they speak.
 [37] For by your words you will be justified, and by your words you will be condemned.”
+
+### The Sign of Jonah
+
 [38] Then some of the experts in the law along with some Pharisees answered him, “Teacher, we want to see a sign from you.”
 [39] But he answered them, “An evil and adulterous generation asks for a sign, but no sign will be given to it except the sign of the prophet Jonah.
 [40] For just as Jonah was in the belly of the huge fish for three days and three nights, so the Son of Man will be in the heart of the earth for three days and three nights.
 [41] The people of Nineveh will stand up at the judgment with this generation and condemn it, because they repented when Jonah preached to them —and now, something greater than Jonah is here!
 [42] The queen of the South will rise up at the judgment with this generation and condemn it, because she came from the ends of the earth to hear the wisdom of Solomon—and now, something greater than Solomon is here!
+
+### The Return of the Unclean Spirit
+
 [43] “When an unclean spirit goes out of a person, it passes through waterless places looking for rest but does not find it.
 [44] Then it says, ‘I will return to the home I left.’ When it returns, it finds the house empty, swept clean, and put in order.
 [45] Then it goes and brings with it seven other spirits more evil than itself, and they go in and live there, so the last state of that person is worse than the first. It will be that way for this evil generation as well!”
+
+### Jesus’ True Family
+
 [46] While Jesus was still speaking to the crowds, his mother and brothers came and stood outside, asking to speak to him.
 [47] Someone told him, “Look, your mother and your brothers are standing outside wanting to speak to you.”
 [48] To the one who had said this, Jesus replied, “Who is my mother and who are my brothers?”
@@ -460,6 +610,7 @@ we wailed in mourning, yet you did not weep.’
 # Matthew
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### The Parable of the Sower
 
@@ -485,6 +636,9 @@ we wailed in mourning, yet you did not weep.’
 [21] But he has no root in himself and does not endure; when trouble or persecution comes because of the word, immediately he falls away.
 [22] The seed sown among thorns is the person who hears the word, but worldly cares and the seductiveness of wealth choke the word, so it produces nothing.
 [23] But as for the seed sown on good soil, this is the person who hears the word and understands. He bears fruit, yielding a hundred, sixty, or thirty times what was sown.”
+
+### The Parable of the Weeds
+
 [24] He presented them with another parable: “The kingdom of heaven is like a person who sowed good seed in his field.
 [25] But while everyone was sleeping, an enemy came and sowed darnel among the wheat and went away.
 [26] When the plants sprouted and produced grain, then the darnel also appeared.
@@ -492,11 +646,23 @@ we wailed in mourning, yet you did not weep.’
 [28] He said, ‘An enemy has done this!’ So the slaves replied, ‘Do you want us to go and gather it?’
 [29] But he said, ‘No, since in gathering the darnel you may uproot the wheat along with it.
 [30] Let both grow together until the harvest. At harvest time I will tell the reapers, “First collect the darnel and tie it in bundles to be burned, but then gather the wheat into my barn.”’”
+
+### The Parable of the Mustard Seed
+
 [31] He gave them another parable: “The kingdom of heaven is like a mustard seed that a man took and sowed in his field.
 [32] It is the smallest of all the seeds, but when it has grown it is the greatest garden plant and becomes a tree, so that the wild birds come and nest in its branches.”
+
+### The Parable of the Yeast
+
 [33] He told them another parable: “The kingdom of heaven is like yeast that a woman took and mixed with three measures of flour until all the dough had risen.”
+
+### The Purpose of Parables
+
 [34] Jesus spoke all these things in parables to the crowds; he did not speak to them without a parable.
 [35] This fulfilled what was spoken by the prophet:
+
+### Explanation for the Disciples
+
 [36] Then he left the crowds and went into the house. And his disciples came to him saying, “Explain to us the parable of the darnel in the field.”
 [37] He answered, “The one who sowed the good seed is the Son of Man.
 [38] The field is the world and the good seed are the people of the kingdom. The poisonous weeds are the people of the evil one,
@@ -505,6 +671,9 @@ we wailed in mourning, yet you did not weep.’
 [41] The Son of Man will send his angels, and they will gather from his kingdom everything that causes sin as well as all lawbreakers.
 [42] They will throw them into the fiery furnace, where there will be weeping and gnashing of teeth.
 [43] Then the righteous will shine like the sun in the kingdom of their Father. The one who has ears had better listen!
+
+### Parables on the Kingdom of Heaven
+
 [44] “The kingdom of heaven is like a treasure, hidden in a field, that a person found and hid. Then because of joy he went and sold all that he had and bought that field.
 [45] “Again, the kingdom of heaven is like a merchant searching for fine pearls.
 [46] When he found a pearl of great value, he went out and sold everything he had and bought it.
@@ -514,6 +683,9 @@ we wailed in mourning, yet you did not weep.’
 [50] and throw them into the fiery furnace, where there will be weeping and gnashing of teeth.
 [51] “Have you understood all these things?” They replied, “Yes.”
 [52] Then he said to them, “Therefore every expert in the law who has been trained for the kingdom of heaven is like the owner of a house who brings out of his treasure what is new and old.”
+
+### Rejection at Nazareth
+
 [53] Now when Jesus finished these parables, he moved on from there.
 [54] Then he came to his hometown and began to teach the people in their synagogue. They were astonished and said, “Where did this man get such wisdom and miraculous powers?
 [55] Isn’t this the carpenter’s son? Isn’t his mother named Mary? And aren’t his brothers James, Joseph, Simon, and Judas?
@@ -523,6 +695,7 @@ we wailed in mourning, yet you did not weep.’
 # Matthew
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### The Death of John the Baptist
 
@@ -538,6 +711,9 @@ we wailed in mourning, yet you did not weep.’
 [10] So he sent and had John beheaded in the prison.
 [11] His head was brought on a platter and given to the girl, and she brought it to her mother.
 [12] Then John’s disciples came and took the body and buried it and went and told Jesus.
+
+### The Feeding of the Five Thousand
+
 [13] Now when Jesus heard this he went away from there privately in a boat to an isolated place. But when the crowd heard about it, they followed him on foot from the towns.
 [14] As he got out he saw the large crowd, and he had compassion on them and healed their sick.
 [15] When evening arrived, his disciples came to him saying, “This is an isolated place and the hour is already late. Send the crowds away so that they can go into the villages and buy food for themselves.”
@@ -547,6 +723,9 @@ we wailed in mourning, yet you did not weep.’
 [19] Then he instructed the crowds to sit down on the grass. He took the five loaves and two fish, and looking up to heaven he gave thanks and broke the loaves. He gave them to the disciples, who in turn gave them to the crowds.
 [20] They all ate and were satisfied, and they picked up the broken pieces left over, twelve baskets full.
 [21] Not counting women and children, there were about 5,000 men who ate.
+
+### Walking on Water
+
 [22] Immediately Jesus made the disciples get into the boat and go ahead of him to the other side, while he dispersed the crowds.
 [23] And after he sent the crowds away, he went up the mountain by himself to pray. When evening came, he was there alone.
 [24] Meanwhile the boat, already far from land, was taking a beating from the waves because the wind was against it.
@@ -566,6 +745,7 @@ we wailed in mourning, yet you did not weep.’
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### Breaking Human Traditions
 
 [1] Then Pharisees and experts in the law came from Jerusalem to Jesus and said,
@@ -575,6 +755,9 @@ we wailed in mourning, yet you did not weep.’
 [5] But you say, ‘If someone tells his father or mother, “Whatever help you would have received from me is given to God,”
 [6] he does not need to honor his father.’ You have nullified the word of God on account of your tradition.
 [7] Hypocrites! Isaiah prophesied correctly about you when he said,
+
+### True Defilement
+
 [10] Then he called the crowd to him and said, “Listen and understand.
 [11] What defiles a person is not what goes into the mouth; it is what comes out of the mouth that defiles a person.”
 [12] Then the disciples came to him and said, “Do you know that when the Pharisees heard this saying they were offended?”
@@ -586,6 +769,9 @@ we wailed in mourning, yet you did not weep.’
 [18] But the things that come out of the mouth come from the heart, and these things defile a person.
 [19] For out of the heart come evil ideas, murder, adultery, sexual immorality, theft, false testimony, slander.
 [20] These are the things that defile a person; it is not eating with unwashed hands that defiles a person.”
+
+### A Canaanite Woman’s Faith
+
 [21] After going out from there, Jesus went to the region of Tyre and Sidon.
 [22] A Canaanite woman from that area came and cried out, “Have mercy on me, Lord, Son of David! My daughter is horribly demon-possessed!”
 [23] But he did not answer her a word. Then his disciples came and begged him, “Send her away, because she keeps on crying out after us.”
@@ -594,9 +780,15 @@ we wailed in mourning, yet you did not weep.’
 [26] “It is not right to take the children’s bread and throw it to the dogs,” he said.
 [27] “Yes, Lord,” she replied, “but even the dogs eat the crumbs that fall from their masters’ table.”
 [28] Then Jesus answered her, “Woman, your faith is great! Let what you want be done for you.” And her daughter was healed from that hour.
+
+### Healing Many Others
+
 [29] When he left there, Jesus went along the Sea of Galilee. Then he went up a mountain, where he sat down.
 [30] Then large crowds came to him bringing with them the lame, blind, crippled, mute, and many others. They laid them at his feet, and he healed them.
 [31] As a result, the crowd was amazed when they saw the mute speaking, the crippled healthy, the lame walking, and the blind seeing, and they praised the God of Israel.
+
+### The Feeding of the Four Thousand
+
 [32] Then Jesus called his disciples and said, “I have compassion on the crowd, because they have already been here with me three days and they have nothing to eat. I don’t want to send them away hungry since they may faint on the way.”
 [33] The disciples said to him, “Where can we get enough bread in this desolate place to satisfy so great a crowd?”
 [34] Jesus said to them, “How many loaves do you have?” They replied, “Seven—and a few small fish.”
@@ -609,12 +801,16 @@ we wailed in mourning, yet you did not weep.’
 
 ## Chapter 16 <!-- scripture:16 -->
 
+
 ### The Demand for a Sign
 
 [1] Now when the Pharisees and Sadducees came to test Jesus, they asked him to show them a sign from heaven.
 [2] He said, “When evening comes you say, ‘It will be fair weather, because the sky is red,’
 [3] and in the morning, ‘It will be stormy today, because the sky is red and darkening.’ You know how to judge correctly the appearance of the sky, but you cannot evaluate the signs of the times.
 [4] A wicked and adulterous generation asks for a sign, but no sign will be given to it except the sign of Jonah.” Then he left them and went away.
+
+### The Yeast of the Pharisees and Sadducees
+
 [5] When the disciples went to the other side, they forgot to take bread.
 [6] “Watch out,” Jesus said to them, “beware of the yeast of the Pharisees and Sadducees.”
 [7] So they began to discuss this among themselves, saying, “It is because we brought no bread.”
@@ -623,6 +819,9 @@ we wailed in mourning, yet you did not weep.’
 [10] Or the seven loaves for the 4,000 and how many baskets you took up?
 [11] How could you not understand that I was not speaking to you about bread? But beware of the yeast of the Pharisees and Sadducees!”
 [12] Then they understood that he had not told them to be on guard against the yeast in bread, but against the teaching of the Pharisees and Sadducees.
+
+### Peter’s Confession
+
 [13] When Jesus came to the area of Caesarea Philippi, he asked his disciples, “Who do people say that the Son of Man is?”
 [14] They answered, “Some say John the Baptist, others Elijah, and others Jeremiah or one of the prophets.”
 [15] He said to them, “But who do you say that I am?”
@@ -631,6 +830,9 @@ we wailed in mourning, yet you did not weep.’
 [18] And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overpower it.
 [19] I will give you the keys of the kingdom of heaven. Whatever you bind on earth will have been bound in heaven, and whatever you release on earth will have been released in heaven.”
 [20] Then he instructed his disciples not to tell anyone that he was the Christ.
+
+### First Prediction of Jesus’ Death and Resurrection
+
 [21] From that time on Jesus began to show his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, chief priests, and experts in the law, and be killed, and on the third day be raised.
 [22] So Peter took him aside and began to rebuke him: “God forbid, Lord! This must not happen to you!”
 [23] But he turned and said to Peter, “Get behind me, Satan! You are a stumbling block to me, because you are not setting your mind on God’s interests, but on man’s.”
@@ -642,6 +844,7 @@ we wailed in mourning, yet you did not weep.’
 # Matthew
 
 ## Chapter 17 <!-- scripture:17 -->
+
 
 ### The Transfiguration
 
@@ -658,6 +861,9 @@ we wailed in mourning, yet you did not weep.’
 [11] He answered, “Elijah does indeed come first and will restore all things.
 [12] And I tell you that Elijah has already come. Yet they did not recognize him, but did to him whatever they wanted. In the same way, the Son of Man will suffer at their hands.”
 [13] Then the disciples understood that he was speaking to them about John the Baptist.
+
+### The Disciples’ Failure to Heal
+
 [14] When they came to the crowd, a man came to him, knelt before him,
 [15] and said, “Lord, have mercy on my son, because he has seizures and suffers terribly, for he often falls into the fire and into the water.
 [16] I brought him to your disciples, but they were not able to heal him.”
@@ -665,8 +871,14 @@ we wailed in mourning, yet you did not weep.’
 [18] Then Jesus rebuked the demon and it came out of him, and the boy was healed from that moment.
 [19] Then the disciples came to Jesus privately and said, “Why couldn’t we cast it out?”
 [20] He told them, “It was because of your little faith. I tell you the truth, if you have faith the size of a mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move; nothing will be impossible for you.”
+
+### Second Prediction of Jesus’ Death and Resurrection
+
 [22] When they gathered together in Galilee, Jesus told them, “The Son of Man is going to be betrayed into the hands of men.
 [23] They will kill him, and on the third day he will be raised.” And they became greatly distressed.
+
+### The Temple Tax
+
 [24] After they arrived in Capernaum, the collectors of the temple tax came to Peter and said, “Your teacher pays the double drachma tax, doesn’t he?”
 [25] He said, “Yes.” When Peter came into the house, Jesus spoke to him first, “What do you think, Simon? From whom do earthly kings collect tolls or taxes—from their sons or from foreigners?”
 [26] After he said, “From foreigners,” Jesus said to him, “Then the sons are free.
@@ -674,6 +886,7 @@ we wailed in mourning, yet you did not weep.’
 # Matthew
 
 ## Chapter 18 <!-- scripture:18 -->
+
 
 ### Questions About the Greatest
 
@@ -686,10 +899,16 @@ we wailed in mourning, yet you did not weep.’
 [7] Woe to the world because of stumbling blocks! It is necessary that stumbling blocks come, but woe to the person through whom they come.
 [8] If your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than to have two hands or two feet and be thrown into eternal fire.
 [9] And if your eye causes you to sin, tear it out and throw it away. It is better for you to enter into life with one eye than to have two eyes and be thrown into fiery hell.
+
+### The Parable of the Lost Sheep
+
 [10] “See that you do not disdain one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven.
 [12] What do you think? If someone owns a hundred sheep and one of them goes astray, will he not leave the ninety-nine on the mountains and go look for the one that went astray?
 [13] And if he finds it, I tell you the truth, he will rejoice more over it than over the ninety-nine that did not go astray.
 [14] In the same way, your Father in heaven is not willing that one of these little ones be lost.
+
+### Restoring Christian Relationships
+
 [15] “If your brother sins, go and show him his fault when the two of you are alone. If he listens to you, you have regained your brother.
 [16] But if he does not listen, take one or two others with you, so that at the testimony of two or three witnesses every matter may be established.
 [17] If he refuses to listen to them, tell it to the church. If he refuses to listen to the church, treat him like a Gentile or a tax collector.
@@ -698,6 +917,9 @@ we wailed in mourning, yet you did not weep.’
 [20] For where two or three are assembled in my name, I am there among them.”
 [21] Then Peter came to him and said, “Lord, how many times must I forgive my brother who sins against me? As many as seven times?”
 [22] Jesus said to him, “Not seven times, I tell you, but seventy-seven times!
+
+### The Parable of the Unforgiving Slave
+
 [23] “For this reason, the kingdom of heaven is like a king who wanted to settle accounts with his slaves.
 [24] As he began settling his accounts, a man who owed 10,000 talents was brought to him.
 [25] Because he was not able to repay it, the lord ordered him to be sold, along with his wife, children, and whatever he possessed, and repayment to be made.
@@ -715,6 +937,7 @@ we wailed in mourning, yet you did not weep.’
 
 ## Chapter 19 <!-- scripture:19 -->
 
+
 ### Questions About Divorce
 
 [1] Now when Jesus finished these sayings, he left Galilee and went to the region of Judea beyond the Jordan River.
@@ -729,9 +952,15 @@ we wailed in mourning, yet you did not weep.’
 [10] The disciples said to him, “If this is the case of a husband with a wife, it is better not to marry!”
 [11] He said to them, “Not everyone can accept this statement, except those to whom it has been given.
 [12] For there are some eunuchs who were that way from birth, and some who were made eunuchs by others, and some who became eunuchs for the sake of the kingdom of heaven. The one who is able to accept this should accept it.”
+
+### Jesus and Little Children
+
 [13] Then little children were brought to him for him to lay his hands on them and pray. But the disciples scolded those who brought them.
 [14] But Jesus said, “Let the little children come to me and do not try to stop them, for the kingdom of heaven belongs to such as these.”
 [15] And he placed his hands on them and went on his way.
+
+### The Rich Young Man
+
 [16] Now someone came up to him and said, “Teacher, what good thing must I do to gain eternal life?”
 [17] He said to him, “Why do you ask me about what is good? There is only one who is good. But if you want to enter into life, keep the commandments.”
 [18] “Which ones?” he asked. Jesus replied, “Do not murder, do not commit adultery, do not steal, do not give false testimony,
@@ -751,6 +980,7 @@ we wailed in mourning, yet you did not weep.’
 
 ## Chapter 20 <!-- scripture:20 -->
 
+
 ### Workers in the Vineyard
 
 [1] “For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard.
@@ -769,9 +999,15 @@ we wailed in mourning, yet you did not weep.’
 [14] Take what is yours and go. I want to give to this last man the same as I gave to you.
 [15] Am I not permitted to do what I want with what belongs to me? Or are you envious because I am generous?’
 [16] So the last will be first, and the first last.”
+
+### Third Prediction of Jesus’ Death and Resurrection
+
 [17] As Jesus was going up to Jerusalem, he took the twelve aside privately and said to them on the way,
 [18] “Look, we are going up to Jerusalem, and the Son of Man will be handed over to the chief priests and the experts in the law. They will condemn him to death,
 [19] and will turn him over to the Gentiles to be mocked and flogged severely and crucified. Yet on the third day, he will be raised.”
+
+### A Request for James and John
+
 [20] Then the mother of the sons of Zebedee came to him with her sons, and kneeling down she asked him for a favor.
 [21] He said to her, “What do you want?” She replied, “Permit these two sons of mine to sit, one at your right hand and one at your left, in your kingdom.”
 [22] Jesus answered, “You don’t know what you are asking! Are you able to drink the cup I am about to drink?” They said to him, “We are able.”
@@ -781,6 +1017,9 @@ we wailed in mourning, yet you did not weep.’
 [26] It must not be this way among you! Instead whoever wants to be great among you must be your servant,
 [27] and whoever wants to be first among you must be your slave —
 [28] just as the Son of Man did not come to be served but to serve, and to give his life as a ransom for many.”
+
+### Two Blind Men Healed
+
 [29] As they were leaving Jericho, a large crowd followed them.
 [30] Two blind men were sitting by the road. When they heard that Jesus was passing by, they shouted, “Have mercy on us, Lord, Son of David!”
 [31] The crowd scolded them to get them to be quiet. But they shouted even more loudly, “Lord, have mercy on us, Son of David!”
@@ -790,6 +1029,7 @@ we wailed in mourning, yet you did not weep.’
 # Matthew
 
 ## Chapter 21 <!-- scripture:21 -->
+
 
 ### The Triumphal Entry
 
@@ -803,27 +1043,42 @@ we wailed in mourning, yet you did not weep.’
 [9] The crowds that went ahead of him and those following kept shouting, “Hosanna to the Son of David! Blessed is the one who comes in the name of the Lord! Hosanna in the highest!”
 [10] As he entered Jerusalem the whole city was thrown into an uproar, saying, “Who is this?”
 [11] And the crowds were saying, “This is the prophet Jesus, from Nazareth in Galilee.”
+
+### Cleansing the Temple
+
 [12] Then Jesus entered the temple area and drove out all those who were selling and buying in the temple courts, and turned over the tables of the money changers and the chairs of those selling doves.
 [13] And he said to them, “It is written, ‘My house will be called a house of prayer,’ but you are turning it into a den of robbers!”
 [14] The blind and lame came to him in the temple courts, and he healed them.
 [15] But when the chief priests and the experts in the law saw the wonderful things he did and heard the children crying out in the temple courts, “Hosanna to the Son of David,” they became indignant
 [16] and said to him, “Do you hear what they are saying?” Jesus said to them, “Yes. Have you never read, ‘Out of the mouths of children and nursing infants you have prepared praise for yourself’?”
 [17] And leaving them, he went out of the city to Bethany and spent the night there.
+
+### The Withered Fig Tree
+
 [18] Now early in the morning, as he returned to the city, he was hungry.
 [19] After noticing a fig tree by the road he went to it, but found nothing on it except leaves. He said to it, “Never again will there be fruit from you!” And the fig tree withered at once.
 [20] When the disciples saw it they were amazed, saying, “How did the fig tree wither so quickly?”
 [21] Jesus answered them, “I tell you the truth, if you have faith and do not doubt, not only will you do what was done to the fig tree, but even if you say to this mountain, ‘Be lifted up and thrown into the sea,’ it will happen.
 [22] And whatever you ask in prayer, if you believe, you will receive.”
+
+### The Authority of Jesus
+
 [23] Now after Jesus entered the temple courts, the chief priests and elders of the people came up to him as he was teaching and said, “By what authority are you doing these things, and who gave you this authority?”
 [24] Jesus answered them, “I will also ask you one question. If you answer me then I will also tell you by what authority I do these things.
 [25] Where did John’s baptism come from? From heaven or from people?” They discussed this among themselves, saying, “If we say, ‘From heaven,’ he will say, ‘Then why did you not believe him?’
 [26] But if we say, ‘From people,’ we fear the crowd, for they all consider John to be a prophet.”
 [27] So they answered Jesus, “We don’t know.” Then he said to them, “Neither will I tell you by what authority I am doing these things.
+
+### The Parable of the Two Sons
+
 [28] “What do you think? A man had two sons. He went to the first and said, ‘Son, go and work in the vineyard today.’
 [29] The boy answered, ‘I will not.’ But later he had a change of heart and went.
 [30] The father went to the other son and said the same thing. This boy answered, ‘I will, sir,’ but did not go.
 [31] Which of the two did his father’s will?” They said, “The first.” Jesus said to them, “I tell you the truth, tax collectors and prostitutes will go ahead of you into the kingdom of God!
 [32] For John came to you in the way of righteousness, and you did not believe him. But the tax collectors and prostitutes did believe. Although you saw this, you did not later change your minds and believe him.
+
+### The Parable of the Tenants
+
 [33] “Listen to another parable: There was a landowner who planted a vineyard. He put a fence around it, dug a pit for its winepress, and built a watchtower. Then he leased it to tenant farmers and went on a journey.
 [34] When the harvest time was near, he sent his slaves to the tenants to collect his portion of the crop.
 [35] But the tenants seized his slaves, beat one, killed another, and stoned another.
@@ -842,6 +1097,7 @@ we wailed in mourning, yet you did not weep.’
 
 ## Chapter 22 <!-- scripture:22 -->
 
+
 ### The Parable of the Wedding Banquet
 
 [1] Jesus spoke to them again in parables, saying:
@@ -858,6 +1114,9 @@ we wailed in mourning, yet you did not weep.’
 [12] And he said to him, ‘Friend, how did you get in here without wedding clothes?’ But he had nothing to say.
 [13] Then the king said to his attendants, ‘Tie him up hand and foot and throw him into the outer darkness, where there will be weeping and gnashing of teeth!’
 [14] For many are called, but few are chosen.”
+
+### Paying Taxes to Caesar
+
 [15] Then the Pharisees went out and planned together to entrap him with his own words.
 [16] They sent to him their disciples along with the Herodians, saying, “Teacher, we know that you are truthful, and teach the way of God in accordance with the truth. You do not court anyone’s favor because you show no partiality.
 [17] Tell us then, what do you think? Is it right to pay taxes to Caesar or not?”
@@ -866,6 +1125,9 @@ we wailed in mourning, yet you did not weep.’
 [20] Jesus said to them, “Whose image is this, and whose inscription?”
 [21] They replied, “Caesar’s.” He said to them, “Then give to Caesar the things that are Caesar’s, and to God the things that are God’s.”
 [22] Now when they heard this they were stunned, and they left him and went away.
+
+### Marriage and the Resurrection
+
 [23] The same day Sadducees (who say there is no resurrection) came to him and asked him,
 [24] “Teacher, Moses said, ‘If a man dies without having children, his brother must marry the widow and father children for his brother.’
 [25] Now there were seven brothers among us. The first one married and died, and since he had no children he left his wife to his brother.
@@ -877,6 +1139,9 @@ we wailed in mourning, yet you did not weep.’
 [31] Now as for the resurrection of the dead, have you not read what was spoken to you by God,
 [32] ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead but of the living!”
 [33] When the crowds heard this, they were amazed at his teaching.
+
+### The Greatest Commandment
+
 [34] Now when the Pharisees heard that he had silenced the Sadducees, they assembled together.
 [35] And one of them, an expert in religious law, asked him a question to test him:
 [36] “Teacher, which commandment in the law is the greatest?”
@@ -884,12 +1149,16 @@ we wailed in mourning, yet you did not weep.’
 [38] This is the first and greatest commandment.
 [39] The second is like it: ‘Love your neighbor as yourself.’
 [40] All the law and the prophets depend on these two commandments.”
+
+### The Messiah: David’s Son and Lord
+
 [41] While the Pharisees were assembled, Jesus asked them a question:
 [42] “What do you think about the Christ? Whose son is he?” They said, “The son of David.”
 [43] He said to them, “How then does David by the Spirit call him ‘Lord,’ saying,
 # Matthew
 
 ## Chapter 23 <!-- scripture:23 -->
+
 
 ### Seven Woes
 
@@ -928,6 +1197,9 @@ we wailed in mourning, yet you did not weep.’
 [34] “For this reason I am sending you prophets and wise men and experts in the law, some of whom you will kill and crucify, and some you will flog in your synagogues and pursue from town to town,
 [35] so that on you will come all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Barachiah, whom you murdered between the temple and the altar.
 [36] I tell you the truth, this generation will be held responsible for all these things!
+
+### Judgment on Israel
+
 [37] “O Jerusalem, Jerusalem, you who kill the prophets and stone those who are sent to you! How often I have longed to gather your children together as a hen gathers her chicks under her wings, but you would have none of it!
 [38] Look, your house is left to you desolate!
 [39] For I tell you, you will not see me from now until you say, ‘Blessed is the one who comes in the name of the Lord!’”
@@ -935,22 +1207,32 @@ we wailed in mourning, yet you did not weep.’
 
 ## Chapter 24 <!-- scripture:24 -->
 
+
 ### The Destruction of the Temple
 
 [1] Now as Jesus was going out of the temple courts and walking away, his disciples came to show him the temple buildings.
 [2] And he said to them, “Do you see all these things? I tell you the truth, not one stone will be left on another. All will be torn down!”
+
+### Signs of the End of the Age
+
 [3] As he was sitting on the Mount of Olives, his disciples came to him privately and said, “Tell us, when will these things happen? And what will be the sign of your coming and of the end of the age?”
 [4] Jesus answered them, “Watch out that no one misleads you.
 [5] For many will come in my name, saying, ‘I am the Christ,’ and they will mislead many.
 [6] You will hear of wars and rumors of wars. Make sure that you are not alarmed, for this must happen, but the end is still to come.
 [7] For nation will rise up in arms against nation, and kingdom against kingdom. And there will be famines and earthquakes in various places.
 [8] All these things are the beginning of birth pains.
+
+### Persecution of Disciples
+
 [9] “Then they will hand you over to be persecuted and will kill you. You will be hated by all the nations because of my name.
 [10] Then many will be led into sin, and they will betray one another and hate one another.
 [11] And many false prophets will appear and deceive many,
 [12] and because lawlessness will increase so much, the love of many will grow cold.
 [13] But the person who endures to the end will be saved.
 [14] And this gospel of the kingdom will be preached throughout the whole inhabited earth as a testimony to all the nations, and then the end will come.
+
+### The Abomination of Desolation
+
 [15] “So when you see the abomination of desolation —spoken about by Daniel the prophet—standing in the holy place” (let the reader understand),
 [16] “then those in Judea must flee to the mountains.
 [17] The one on the roof must not come down to take anything out of his house,
@@ -965,13 +1247,22 @@ we wailed in mourning, yet you did not weep.’
 [26] So then, if someone says to you, ‘Look, he is in the wilderness,’ do not go out, or ‘Look, he is in the inner rooms,’ do not believe him.
 [27] For just like the lightning comes from the east and flashes to the west, so the coming of the Son of Man will be.
 [28] Wherever the corpse is, there the vultures will gather.
+
+### The Arrival of the Son of Man
+
 [29] “Immediately after the suffering of those days, the sun will be darkened, and the moon will not give its light; the stars will fall from heaven, and the powers of heaven will be shaken.
 [30] Then the sign of the Son of Man will appear in heaven, and all the tribes of the earth will mourn. They will see the Son of Man arriving on the clouds of heaven with power and great glory.
 [31] And he will send his angels with a loud trumpet blast, and they will gather his elect from the four winds, from one end of heaven to the other.
+
+### The Parable of the Fig Tree
+
 [32] “Learn this parable from the fig tree: Whenever its branch becomes tender and puts out its leaves, you know that summer is near.
 [33] So also you, when you see all these things, know that he is near, right at the door.
 [34] I tell you the truth, this generation will not pass away until all these things take place.
 [35] Heaven and earth will pass away, but my words will never pass away.
+
+### Be Ready!
+
 [36] “But as for that day and hour no one knows it—not even the angels in heaven —except the Father alone.
 [37] For just like the days of Noah were, so the coming of the Son of Man will be.
 [38] For in those days before the flood, people were eating and drinking, marrying and giving in marriage, until the day Noah entered the ark.
@@ -981,6 +1272,9 @@ we wailed in mourning, yet you did not weep.’
 [42] “Therefore stay alert, because you do not know on what day your Lord will come.
 [43] But understand this: If the owner of the house had known at what time of night the thief was coming, he would have been alert and would not have let his house be broken into.
 [44] Therefore you also must be ready, because the Son of Man will come at an hour when you do not expect him.
+
+### The Faithful and Wise Slave
+
 [45] “Who then is the faithful and wise slave, whom the master has put in charge of his household, to give the other slaves their food at the proper time?
 [46] Blessed is that slave whom the master finds at work when he comes.
 [47] I tell you the truth, the master will put him in charge of all his possessions.
@@ -991,6 +1285,7 @@ we wailed in mourning, yet you did not weep.’
 # Matthew
 
 ## Chapter 25 <!-- scripture:25 -->
+
 
 ### The Parable of the Ten Virgins
 
@@ -1007,6 +1302,9 @@ we wailed in mourning, yet you did not weep.’
 [11] Later, the other virgins came too, saying, ‘Lord, lord! Let us in!’
 [12] But he replied, ‘I tell you the truth, I do not know you!’
 [13] Therefore stay alert, because you do not know the day or the hour.
+
+### The Parable of the Talents
+
 [14] “For it is like a man going on a journey, who summoned his slaves and entrusted his property to them.
 [15] To one he gave five talents, to another two, and to another one, each according to his ability. Then he went on his journey.
 [16] The one who had received five talents went off right away and put his money to work and gained five more.
@@ -1024,6 +1322,9 @@ we wailed in mourning, yet you did not weep.’
 [28] Therefore take the talent from him and give it to the one who has ten.
 [29] For the one who has will be given more, and he will have more than enough. But the one who does not have, even what he has will be taken from him.
 [30] And throw that worthless slave into the outer darkness, where there will be weeping and gnashing of teeth.’
+
+### The Judgment
+
 [31] “When the Son of Man comes in his glory and all the angels with him, then he will sit on his glorious throne.
 [32] All the nations will be assembled before him, and he will separate people one from another like a shepherd separates the sheep from the goats.
 [33] He will put the sheep on his right and the goats on his left.
@@ -1044,6 +1345,7 @@ we wailed in mourning, yet you did not weep.’
 
 ## Chapter 26 <!-- scripture:26 -->
 
+
 ### The Plot Against Jesus
 
 [1] When Jesus had finished saying all these things, he told his disciples,
@@ -1051,6 +1353,9 @@ we wailed in mourning, yet you did not weep.’
 [3] Then the chief priests and the elders of the people met together in the palace of the high priest, who was named Caiaphas.
 [4] They planned to arrest Jesus by stealth and kill him.
 [5] But they said, “Not during the feast, so that there won’t be a riot among the people.”
+
+### Jesus’ Anointing
+
 [6] Now while Jesus was in Bethany at the house of Simon the leper,
 [7] a woman came to him with an alabaster jar of expensive perfumed oil, and she poured it on his head as he was at the table.
 [8] When the disciples saw this, they became indignant and said, “Why this waste?
@@ -1059,9 +1364,15 @@ we wailed in mourning, yet you did not weep.’
 [11] For you will always have the poor with you, but you will not always have me!
 [12] When she poured this oil on my body, she did it to prepare me for burial.
 [13] I tell you the truth, wherever this gospel is proclaimed in the whole world, what she has done will also be told in memory of her.”
+
+### The Plan to Betray Jesus
+
 [14] Then one of the twelve, the one named Judas Iscariot, went to the chief priests
 [15] and said, “What will you give me to betray him into your hands?” So they set out thirty silver coins for him.
 [16] From that time on, Judas began looking for an opportunity to betray him.
+
+### The Passover
+
 [17] Now on the first day of the feast of Unleavened Bread the disciples came to Jesus and said, “Where do you want us to prepare for you to eat the Passover?”
 [18] He said, “Go into the city to a certain man and tell him, ‘The Teacher says, “My time is near. I will observe the Passover with my disciples at your house.”’”
 [19] So the disciples did as Jesus had instructed them, and they prepared the Passover.
@@ -1071,12 +1382,21 @@ we wailed in mourning, yet you did not weep.’
 [23] He answered, “The one who has dipped his hand into the bowl with me will betray me.
 [24] The Son of Man will go as it is written about him, but woe to that man by whom the Son of Man is betrayed! It would be better for him if he had never been born.”
 [25] Then Judas, the one who would betray him, said, “Surely not I, Rabbi?” Jesus replied, “You have said it yourself.”
+
+### The Lord’s Supper
+
 [26] While they were eating, Jesus took bread, and after giving thanks he broke it, gave it to his disciples, and said, “Take, eat, this is my body.”
 [27] And after taking the cup and giving thanks, he gave it to them, saying, “Drink from it, all of you,
 [28] for this is my blood, the blood of the covenant, that is poured out for many for the forgiveness of sins.
 [29] I tell you, from now on I will not drink of this fruit of the vine until that day when I drink it new with you in my Father’s kingdom.”
 [30] After singing a hymn, they went out to the Mount of Olives.
+
+### The Prediction of Peter’s Denial
+
 [31] Then Jesus said to them, “This night you will all fall away because of me, for it is written:
+
+### Gethsemane
+
 [36] Then Jesus went with them to a place called Gethsemane, and he said to the disciples, “Sit here while I go over there and pray.”
 [37] He took with him Peter and the two sons of Zebedee, and became anguished and distressed.
 [38] Then he said to them, “My soul is deeply grieved, even to the point of death. Remain here and stay awake with me.”
@@ -1088,6 +1408,9 @@ we wailed in mourning, yet you did not weep.’
 [44] So leaving them again, he went away and prayed for the third time, saying the same thing once more.
 [45] Then he came to the disciples and said to them, “Are you still sleeping and resting? Look, the hour is approaching, and the Son of Man is betrayed into the hands of sinners.
 [46] Get up, let us go. Look! My betrayer is approaching!”
+
+### Betrayal and Arrest
+
 [47] While he was still speaking, Judas, one of the twelve, arrived. With him was a large crowd armed with swords and clubs, sent by the chief priests and elders of the people.
 [48] (Now the betrayer had given them a sign, saying, “The one I kiss is the man. Arrest him!”)
 [49] Immediately he went up to Jesus and said, “Greetings, Rabbi,” and kissed him.
@@ -1098,6 +1421,9 @@ we wailed in mourning, yet you did not weep.’
 [54] How then would the scriptures that say it must happen this way be fulfilled?”
 [55] At that moment Jesus said to the crowd, “Have you come out with swords and clubs to arrest me like you would an outlaw? Day after day I sat teaching in the temple courts, yet you did not arrest me.
 [56] But this has happened so that the scriptures of the prophets would be fulfilled.” Then all the disciples left him and fled.
+
+### Condemned by the Sanhedrin
+
 [57] Now the ones who had arrested Jesus led him to Caiaphas, the high priest, in whose house the experts in the law and the elders had gathered.
 [58] But Peter was following him from a distance, all the way to the high priest’s courtyard. After going in, he sat with the guards to see the outcome.
 [59] The chief priests and the whole Sanhedrin were trying to find false testimony against Jesus so that they could put him to death.
@@ -1110,6 +1436,9 @@ we wailed in mourning, yet you did not weep.’
 [66] What is your verdict?” They answered, “He is guilty and deserves death.”
 [67] Then they spat in his face and struck him with their fists. And some slapped him,
 [68] saying, “Prophesy for us, you Christ! Who hit you?”
+
+### Peter’s Denials
+
 [69] Now Peter was sitting outside in the courtyard. A slave girl came to him and said, “You also were with Jesus the Galilean.”
 [70] But he denied it in front of them all: “I don’t know what you’re talking about!”
 [71] When he went out to the gateway, another slave girl saw him and said to the people there, “This man was with Jesus the Nazarene.”
@@ -1121,10 +1450,14 @@ we wailed in mourning, yet you did not weep.’
 
 ## Chapter 27 <!-- scripture:27 -->
 
+
 ### Jesus Brought Before Pilate
 
 [1] When it was early in the morning, all the chief priests and the elders of the people plotted against Jesus to execute him.
 [2] They tied him up, led him away, and handed him over to Pilate the governor.
+
+### Judas’ Suicide
+
 [3] Now when Judas, who had betrayed him, saw that Jesus had been condemned, he regretted what he had done and returned the thirty silver coins to the chief priests and the elders,
 [4] saying, “I have sinned by betraying innocent blood!” But they said, “What is that to us? You take care of it yourself!”
 [5] So Judas threw the silver coins into the temple and left. Then he went out and hanged himself.
@@ -1133,6 +1466,9 @@ we wailed in mourning, yet you did not weep.’
 [8] For this reason that field has been called the “Field of Blood” to this day.
 [9] Then what was spoken by Jeremiah the prophet was fulfilled: “They took the thirty silver coins, the price of the one whose price had been set by the people of Israel,
 [10] and they gave them for the potter’s field, as the Lord commanded me.”
+
+### Jesus and Pilate
+
 [11] Then Jesus stood before the governor, and the governor asked him, “Are you the king of the Jews?” Jesus said, “You say so.”
 [12] But when he was accused by the chief priests and the elders, he did not respond.
 [13] Then Pilate said to him, “Don’t you hear how many charges they are bringing against you?”
@@ -1146,6 +1482,9 @@ we wailed in mourning, yet you did not weep.’
 [21] The governor asked them, “Which of the two do you want me to release for you?” And they said, “Barabbas!”
 [22] Pilate said to them, “Then what should I do with Jesus who is called the Christ?” They all said, “Crucify him!”
 [23] He asked, “Why? What wrong has he done?” But they shouted more insistently, “Crucify him!”
+
+### Jesus is Condemned and Mocked
+
 [24] When Pilate saw that he could do nothing, but that instead a riot was starting, he took some water, washed his hands before the crowd and said, “I am innocent of this man’s blood. You take care of it yourselves!”
 [25] In reply all the people said, “Let his blood be on us and on our children!”
 [26] Then he released Barabbas for them. But after he had Jesus flogged, he handed him over to be crucified.
@@ -1154,6 +1493,9 @@ we wailed in mourning, yet you did not weep.’
 [29] and after braiding a crown of thorns, they put it on his head. They put a staff in his right hand, and kneeling down before him, they mocked him: “Hail, king of the Jews!”
 [30] They spat on him and took the staff and struck him repeatedly on the head.
 [31] When they had mocked him, they stripped him of the robe and put his own clothes back on him. Then they led him away to crucify him.
+
+### The Crucifixion
+
 [32] As they were going out, they found a man from Cyrene named Simon, whom they forced to carry his cross.
 [33] They came to a place called Golgotha (which means “Place of the Skull”)
 [34] and offered Jesus wine mixed with gall to drink. But after tasting it, he would not drink it.
@@ -1167,6 +1509,9 @@ we wailed in mourning, yet you did not weep.’
 [42] “He saved others, but he cannot save himself! He is the king of Israel! If he comes down now from the cross, we will believe in him!
 [43] He trusts in God—let God, if he wants to, deliver him now because he said, ‘I am God’s Son’!”
 [44] The robbers who were crucified with him also spoke abusively to him.
+
+### Jesus’ Death
+
 [45] Now from noon until three, darkness came over all the land.
 [46] At about three o’clock Jesus shouted with a loud voice, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?”
 [47] When some of the bystanders heard it, they said, “This man is calling for Elijah.”
@@ -1179,11 +1524,17 @@ we wailed in mourning, yet you did not weep.’
 [54] Now when the centurion and those with him who were guarding Jesus saw the earthquake and what took place, they were extremely terrified and said, “Truly this one was God’s Son!”
 [55] Many women who had followed Jesus from Galilee and given him support were also there, watching from a distance.
 [56] Among them were Mary Magdalene, Mary the mother of James and Joseph, and the mother of the sons of Zebedee.
+
+### Jesus’ Burial
+
 [57] Now when it was evening, there came a rich man from Arimathea, named Joseph, who was also a disciple of Jesus.
 [58] He went to Pilate and asked for the body of Jesus. Then Pilate ordered that it be given to him.
 [59] Joseph took the body, wrapped it in a clean linen cloth,
 [60] and placed it in his own new tomb that he had cut in the rock. Then he rolled a great stone across the entrance of the tomb and went away.
 [61] (Now Mary Magdalene and the other Mary were sitting there, opposite the tomb.)
+
+### The Guard at the Tomb
+
 [62] The next day (which is after the day of preparation) the chief priests and the Pharisees assembled before Pilate
 [63] and said, “Sir, we remember that while that deceiver was still alive he said, ‘After three days I will rise again.’
 [64] So give orders to secure the tomb until the third day. Otherwise his disciples may come and steal his body and say to the people, ‘He has been raised from the dead,’ and the last deception will be worse than the first.”
@@ -1192,6 +1543,7 @@ we wailed in mourning, yet you did not weep.’
 # Matthew
 
 ## Chapter 28 <!-- scripture:28 -->
+
 
 ### The Resurrection
 
@@ -1205,11 +1557,17 @@ we wailed in mourning, yet you did not weep.’
 [8] So they left the tomb quickly, with fear and great joy, and ran to tell his disciples.
 [9] But Jesus met them, saying, “Greetings!” They came to him, held on to his feet and worshiped him.
 [10] Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee. They will see me there.”
+
+### The Guards’ Report
+
 [11] While they were going, some of the guard went into the city and told the chief priests everything that had happened.
 [12] After they had assembled with the elders and formed a plan, they gave a large sum of money to the soldiers,
 [13] telling them, “You are to say, ‘His disciples came at night and stole his body while we were asleep.’
 [14] If this matter is heard before the governor, we will satisfy him and keep you out of trouble.”
 [15] So they took the money and did as they were instructed. And this story is told among the Jews to this day.
+
+### The Great Commission
+
 [16] So the eleven disciples went to Galilee to the mountain Jesus had designated.
 [17] When they saw him, they worshiped him, but some doubted.
 [18] Then Jesus came up and said to them, “All authority in heaven and on earth has been given to me.

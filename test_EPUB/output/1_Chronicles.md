@@ -2,15 +2,22 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Adam’s Descendants
 
 [1] Adam, Seth, Enosh,
 [2] Kenan, Mahalalel, Jered,
 [3] Enoch, Methuselah, Lamech,
 [4] Noah, Shem, Ham, and Japheth.
+
+### Japheth’s Descendants
+
 [5] The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
 [6] The sons of Gomer: Ashkenaz, Riphath, and Togarmah.
 [7] The sons of Javan: Elishah, Tarshish, the Kittites, and the Rodanites.
+
+### Ham’s Descendants
+
 [8] The sons of Ham: Cush, Mizraim, Put, and Canaan.
 [9] The sons of Cush: Seba, Havilah, Sabta, Raamah, and Sabteca.
 [10] Cush was the father of Nimrod, who established himself as a mighty warrior on earth.
@@ -20,6 +27,9 @@
 [14] as well as the Jebusites, Amorites, Girgashites,
 [15] Hivites, Arkites, Sinites,
 [16] Arvadites, Zemarites, and Hamathites.
+
+### Shem’s Descendants
+
 [17] The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram.
 [18] Arphaxad was the father of Shelah, and Shelah was the father of Eber.
 [19] Two sons were born to Eber: the first was named Peleg, for during his lifetime the earth was divided; his brother’s name was Joktan.
@@ -33,19 +43,37 @@
 [27] Abram (that is, Abraham).
 [28] The sons of Abraham: Isaac and Ishmael.
 [29] These were their descendants:
+
+### Ishmael’s Descendants
+
 [30] Mishma, Dumah, Massa, Hadad, Tema,
 [31] Jetur, Naphish, and Kedemah. These were the sons of Ishmael.
+
+### Keturah’s Descendants
+
 [32] The sons to whom Keturah, Abraham’s concubine, gave birth: Zimran, Jokshan, Medan, Midian, Ishbak, Shuah.
 [33] The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah.
+
+### Isaac’s Descendants
+
 [34] Abraham was the father of Isaac. The sons of Isaac: Esau and Israel.
+
+### Esau’s Descendants
+
 [35] The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.
 [36] The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, and (by Timna) Amalek.
 [37] The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.
+
+### The Descendants of Seir
+
 [38] The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.
 [39] The sons of Lotan: Hori and Homam. (Timna was Lotan’s sister.)
 [40] The sons of Shobal: Alyan, Manahath, Ebal, Shephi, and Onam.
 [41] The son of Anah: Dishon.
 [42] The sons of Ezer: Bilhan, Zaavan, Jaakan.
+
+### Kings of Edom
+
 [43] These were the kings who reigned in the land of Edom before any king ruled over the Israelites: Bela son of Beor; the name of his city was Dinhabah.
 [44] When Bela died, Jobab son of Zerah from Bozrah, succeeded him.
 [45] When Jobab died, Husham from the land of the Temanites succeeded him.
@@ -55,6 +83,9 @@
 [49] When Shaul died, Baal Hanan son of Achbor succeeded him.
 [50] When Baal Hanan died, Hadad succeeded him; the name of his city was Pai. His wife was Mehetabel, daughter of Matred, daughter of Me-Zahab.
 [51] Hadad died.
+
+### Tribal Chiefs of Edom
+
 [52] Oholibamah, Elah, Pinon,
 [53] Kenaz, Teman, Mibzar,
 [54] Magdiel, and Iram. These were the tribal chiefs of Edom.
@@ -62,10 +93,14 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Israel’s Descendants
 
 [1] These were the sons of Israel: Reuben, Simeon, Levi, and Judah; Issachar and Zebulun;
 [2] Dan, Joseph, and Benjamin;
+
+### Judah’s Descendants
+
 [3] The sons of Judah: Er, Onan, and Shelah. These three were born to him by Bathshua, a Canaanite woman. Er, Judah’s firstborn, displeased the Lord, so the Lord killed him.
 [4] Tamar, Judah’s daughter-in-law, bore to him Perez and Zerah. Judah had five sons in all.
 [5] The sons of Perez: Hezron and Hamul.
@@ -73,6 +108,9 @@
 [7] The son of Carmi: Achan, who brought the disaster on Israel when he stole what was devoted to God.
 [8] The son of Ethan: Azariah.
 [9] The sons born to Hezron: Jerahmeel, Ram, and Caleb.
+
+### Ram’s Descendants
+
 [10] Ram was the father of Amminadab, and Amminadab was the father of Nahshon, the tribal chief of Judah.
 [11] Nahshon was the father of Salma, and Salma was the father of Boaz.
 [12] Boaz was the father of Obed, and Obed was the father of Jesse.
@@ -81,6 +119,9 @@
 [15] Ozem sixth, and David seventh.
 [16] Their sisters were Zeruiah and Abigail. Zeruiah’s three sons were Abshai, Joab, and Asahel.
 [17] Abigail bore Amasa, whose father was Jether the Ishmaelite.
+
+### Caleb’s Descendants
+
 [18] Caleb son of Hezron fathered sons by his wife Azubah (also known as Jerioth). Her sons were Jesher, Shobab, and Ardon.
 [19] When Azubah died, Caleb married Ephrath, who bore him Hur.
 [20] Hur was the father of Uri, and Uri was the father of Bezalel.
@@ -88,6 +129,9 @@
 [22] Segub was the father of Jair, who owned twenty-three cities in the land of Gilead.
 [23] (Geshur and Aram captured the towns of Jair, along with Kenath and its sixty surrounding towns.) All these were descendants of Makir, the father of Gilead.
 [24] After Hezron’s death, Caleb slept with Ephrath, his father Hezron’s widow, and she bore to him Ashhur the father of Tekoa.
+
+### Jerahmeel’s Descendants
+
 [25] The sons of Jerahmeel, Hezron’s firstborn, were Ram, the firstborn, Bunah, Oren, Ozem, and Ahijah.
 [26] Jerahmeel had another wife named Atarah; she was Onam’s mother.
 [27] The sons of Ram, Jerahmeel’s firstborn, were Maaz, Jamin, and Eker.
@@ -105,6 +149,9 @@
 [39] Azariah was the father of Helez, and Helez was the father of Eleasah.
 [40] Eleasah was the father of Sismai, and Sismai was the father of Shallum.
 [41] Shallum was the father of Jekamiah, and Jekamiah was the father of Elishama.
+
+### More of Caleb’s Descendants
+
 [42] The sons of Caleb, Jerahmeel’s brother: His firstborn Mesha, the father of Ziph, and his second son Mareshah, the father of Hebron.
 [43] The sons of Hebron: Korah, Tappuah, Rekem, and Shema.
 [44] Shema was the father of Raham, the father of Jorkeam. Rekem was the father of Shammai.
@@ -123,6 +170,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### David’s Descendants
 
 [1] These were the sons of David who were born to him in Hebron:
@@ -134,6 +182,9 @@
 [7] Nogah, Nepheg, Japhia,
 [8] Elishama, Eliada, and Eliphelet.
 [9] These were all the sons of David, not counting the sons of his concubines. Tamar was their sister.
+
+### Solomon’s Descendants
+
 [10] Solomon’s son was Rehoboam,
 [11] Joram his son,
 [12] Amaziah his son,
@@ -152,6 +203,7 @@
 # 1 Chronicles
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Judah’s Descendants
 
@@ -178,6 +230,9 @@
 [21] The sons of Shelah son of Judah: Er the father of Lecah, Laadah the father of Mareshah, the clans of the linen workers at Beth Ashbea,
 [22] Jokim, the men of Cozeba, and Joash and Saraph, both of whom ruled in Moab and Jashubi Lehem. (This information is from ancient records.)
 [23] They were the potters who lived in Netaim and Gederah; they lived there and worked for the king.
+
+### Simeon’s Descendants
+
 [24] The descendants of Simeon: Nemuel, Jamin, Jarib, Zerah, Shaul,
 [25] his son Shallum, his son Mibsam, and his son Mishma.
 [26] The descendants of Mishma: his son Hammuel, his son Zaccur, and his son Shimei.
@@ -202,6 +257,7 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Reuben’s Descendants
 
 [1] The sons of Reuben, Israel’s firstborn—
@@ -214,6 +270,9 @@
 [8] and Bela son of Azaz, son of Shema, son of Joel.
 [9] In the east they settled as far as the entrance to the wilderness that stretches to the Euphrates River, for their cattle had increased in numbers in the land of Gilead.
 [10] During the time of Saul they attacked the Hagrites and defeated them. They took over their territory in the entire eastern region of Gilead.
+
+### Gad’s Descendants
+
 [11] The descendants of Gad lived near them in the land of Bashan, as far as Salecah.
 [12] They included Joel the leader, Shapham the second in command, Janai, and Shaphat in Bashan.
 [13] Their relatives, listed according to their families, included Michael, Meshullam, Sheba, Jorai, Jacan, Zia, and Eber—seven in all.
@@ -226,6 +285,9 @@
 [20] They received divine help in fighting them, and the Hagrites and all their allies were handed over to them. They cried out to God during the battle; he responded to their prayers because they trusted in him.
 [21] They seized the Hagrites’ animals, including 50,000 camels, 250,000 sheep, and 2,000 donkeys. They also took captive 100,000 people.
 [22] Because God fought for them, they killed many of the enemy. They dispossessed the Hagrites and lived in their land until the exile.
+
+### The Half-Tribe of Manasseh
+
 [23] The half-tribe of Manasseh settled in the land from Bashan as far as Baal Hermon, Senir, and Mount Hermon. They grew in number.
 [24] These were the leaders of their families:
 [25] But they were unfaithful to the God of their ancestors and worshiped instead the gods of the native peoples whom God had destroyed before them.
@@ -233,6 +295,7 @@
 # 1 Chronicles
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### Levi’s Descendants
 
@@ -266,6 +329,9 @@
 [28] The sons of Samuel: Joel the firstborn and Abijah the second oldest.
 [29] The descendants of Merari: Mahli, his son Libni, his son Shimei, his son Uzzah,
 [30] his son Shimea, his son Haggiah, and his son Asaiah.
+
+### Professional Musicians
+
 [31] These are the men David put in charge of music in the Lord’s sanctuary, after the ark was placed there.
 [32] They performed music before the sanctuary of the meeting tent until Solomon built the Lord’s temple in Jerusalem. They carried out their tasks according to regulations.
 [33] These are the ones who served along with their sons:
@@ -321,6 +387,7 @@
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### Issachar’s Descendants
 
 [1] The sons of Issachar: Tola, Puah, Jashub, and Shimron—four in all.
@@ -328,6 +395,9 @@
 [3] The son of Uzzi: Izrahiah.
 [4] According to the genealogical records of their families, they had 36,000 warriors available for battle, for they had numerous wives and sons.
 [5] Altogether the genealogical records of the clans of Issachar listed 87,000 warriors.
+
+### Benjamin’s Descendants
+
 [6] The sons of Benjamin: Bela, Beker, and Jediael—three in all.
 [7] The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri. The five of them were leaders of their families. There were 22,034 warriors listed in their genealogical records.
 [8] The sons of Beker: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth. All these were the sons of Beker.
@@ -335,13 +405,22 @@
 [10] The son of Jediael: Bilhan.
 [11] All these were the sons of Jediael. There were 17,200 family leaders and warriors who were capable of marching out to battle.
 [12] The Shuppites and Huppites were descendants of Ir; the Hushites were descendants of Aher.
+
+### Naphtali’s Descendants
+
 [13] The sons of Naphtali: Jahziel, Guni, Jezer, and Shallum —sons of Bilhah.
+
+### Manasseh’s Descendants
+
 [14] The sons of Manasseh: Asriel, who was born to Manasseh’s Aramean concubine. She also gave birth to Makir the father of Gilead.
 [15] Now Makir married a wife from the Huppites and Shuppites. (His sister’s name was Maacah.)
 [16] Maacah, Makir’s wife, gave birth to a son, whom she named Peresh. His brother was Sheresh, and his sons were Ulam and Rekem.
 [17] The son of Ulam: Bedan.
 [18] His sister Hammoleketh gave birth to Ishhod, Abiezer, and Mahlah.
 [19] The sons of Shemida were Ahian, Shechem, Likhi, and Aniam.
+
+### Ephraim’s Descendants
+
 [20] The descendants of Ephraim: Shuthelah, his son Bered, his son Tahath, his son Eleadah, his son Tahath,
 [21] his son Zabad, his son Shuthelah (Ezer and Elead were killed by the men of Gath, who were natives of the land, when they went down to steal their cattle.
 [22] Their father Ephraim mourned for them many days and his brothers came to console him.
@@ -352,6 +431,9 @@
 [27] his son Nun, and his son Joshua.
 [28] Their property and settlements included Bethel and its surrounding towns, Naaran to the east, Gezer and its surrounding towns to the west, and Shechem and its surrounding towns as far as Ayyah and its surrounding towns.
 [29] On the border of Manasseh’s territory were Beth Shean and its surrounding towns, Taanach and its surrounding towns, Megiddo and its surrounding towns, and Dor and its surrounding towns. The descendants of Joseph, Israel’s son, lived here.
+
+### Asher’s Descendants
+
 [30] The sons of Asher: Imnah, Ishvah, Ishvi, and Beriah. Serah was their sister.
 [31] The sons of Beriah: Heber and Malkiel, who was the father of Birzaith.
 [32] Heber was the father of Japhlet, Shomer, Hotham, and Shua their sister.
@@ -366,6 +448,7 @@
 # 1 Chronicles
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### Benjamin’s Descendants (Continued)
 
@@ -413,9 +496,10 @@
 
 ## Chapter 9 <!-- scripture:9 -->
 
+[1] Genealogical records were kept for all Israel; they are recorded in the Scroll of the Kings of Israel.
+
 ### Exiles Who Resettled in Jerusalem
 
-[1] Genealogical records were kept for all Israel; they are recorded in the Scroll of the Kings of Israel.
 [2] The first to resettle on their property and in their cities were some Israelites, priests, Levites, and temple servants.
 [3] Some from the tribes of Judah, Benjamin, and Ephraim and Manasseh settled in Jerusalem.
 [4] The settlers included: Uthai son of Ammihud, son of Omri, son of Imri, son of Bani, who was a descendant of Perez son of Judah.
@@ -449,6 +533,9 @@
 [32] Some of the Kohathites, their relatives, were in charge of preparing the bread that is displayed each Sabbath.
 [33] The musicians and Levite family leaders stayed in rooms at the sanctuary and were exempt from other duties, for day and night they had to carry out their assigned tasks.
 [34] These were the family leaders of the Levites, as listed in their genealogical records. They lived in Jerusalem.
+
+### Jeiel’s Descendants
+
 [35] Jeiel (the father of Gibeon) lived in Gibeon. His wife was Maacah.
 [36] His firstborn son was Abdon, followed by Zur, Kish, Baal, Ner, Nadab,
 [37] Gedor, Ahio, Zechariah, and Mikloth.
@@ -462,6 +549,7 @@
 # 1 Chronicles
 
 ## Chapter 10 <!-- scripture:10 -->
+
 
 ### Saul’s Death
 
@@ -483,17 +571,24 @@
 
 ## Chapter 11 <!-- scripture:11 -->
 
+
 ### David Becomes King
 
 [1] All Israel joined David at Hebron and said, “Look, we are your very flesh and blood!
 [2] In the past, even when Saul was king, you were Israel’s commanding general. The Lord your God said to you, ‘You will shepherd my people Israel; you will rule over my people Israel.’”
 [3] When all the leaders of Israel came to the king at Hebron, David made a covenant with them in Hebron before the Lord. They anointed David king over Israel, in keeping with the Lord’s message that came through Samuel.
+
+### David Conquers Jerusalem
+
 [4] David and the whole Israelite army advanced to Jerusalem (that is, Jebus). (The Jebusites, the land’s original inhabitants, lived there.)
 [5] The residents of Jebus said to David, “You cannot invade this place!” But David captured the fortress of Zion (that is, the City of David).
 [6] David said, “Whoever attacks the Jebusites first will become commanding general!” So Joab son of Zeruiah attacked first and became commander.
 [7] David lived in the fortress; for this reason it is called the City of David.
 [8] He built up the city around it, from the terrace to the surrounding walls; Joab restored the rest of the city.
 [9] David’s power steadily grew, for the Lord of Heaven’s Armies was with him.
+
+### David’s Warriors
+
 [10] These were the leaders of David’s warriors who, together with all Israel, stood courageously with him in his kingdom by installing him as king, in keeping with the Lord’s message concerning Israel.
 [11] This is the list of David’s warriors:
 [12] Next in command was Eleazar son of Dodo the Ahohite. He was one of the three elite warriors.
@@ -536,6 +631,7 @@
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### Warriors Who Joined David at Ziklag
 
 [1] These were the men who joined David in Ziklag, when he was banished from the presence of Saul son of Kish. (They were among the warriors who assisted him in battle.
@@ -560,6 +656,9 @@
 [20] When David went to Ziklag, the men of Manasseh who joined him were Adnach, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, leaders of 1,000 soldiers each in the tribe of Manasseh.
 [21] They helped David fight against raiding bands, for all of them were warriors and leaders in the army.
 [22] Each day men came to help David until his army became very large.
+
+### Support for David in Hebron
+
 [23] The following is a record of the armed warriors who came with their leaders and joined David in Hebron in order to make David king in Saul’s place, in accordance with the Lord’s decree:
 [24] From Judah came 6,800 trained warriors carrying shields and spears.
 [25] From Simeon there were 7,100 warriors.
@@ -582,6 +681,7 @@
 
 ## Chapter 13 <!-- scripture:13 -->
 
+
 ### Uzzah Meets Disaster
 
 [1] David consulted with his military officers, including those who led groups of a thousand and those who led groups of a hundred.
@@ -601,6 +701,7 @@
 # 1 Chronicles
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### David’s Prestige Grows
 
@@ -624,6 +725,7 @@
 # 1 Chronicles
 
 ## Chapter 15 <!-- scripture:15 -->
+
 
 ### David Brings the Ark to Jerusalem
 
@@ -660,6 +762,7 @@
 
 ## Chapter 16 <!-- scripture:16 -->
 
+
 ### David Leads in Worship
 
 [1] They brought the ark of God and put it in the middle of the tent David had pitched for it. Then they offered burnt sacrifices and peace offerings before God.
@@ -668,6 +771,9 @@
 [4] He appointed some of the Levites to serve before the ark of the Lord, to offer prayers, songs of thanks, and hymns to the Lord God of Israel.
 [5] Asaph was the leader and Zechariah second-in-command, followed by Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-Edom, and Jeiel. They were to play stringed instruments, Asaph was to sound the cymbals,
 [6] and the priests Benaiah and Jahaziel were to blow trumpets regularly before the ark of God’s covenant.
+
+### David Thanks God
+
 [7] That day David first gave to Asaph and his colleagues this song of thanks to the Lord.
 [8] Give thanks to the Lord!
 Call on his name!
@@ -732,6 +838,9 @@ and boast about your praiseworthy deeds.”
 [36] May the Lord God of Israel be praised,
 in the future and forevermore.
 Then all the people said, “We agree! Praise the Lord.”
+
+### David Appoints Worship Leaders
+
 [37] David left Asaph and his colleagues there before the ark of the Lord’s covenant to serve before the ark regularly and fulfill each day’s requirements,
 [38] including Obed-Edom and sixty-eight colleagues. Obed-Edom son of Jeduthun and Hosah were gatekeepers.
 [39] Zadok the priest and his fellow priests served before the Lord’s tabernacle at the worship center in Gibeon,
@@ -742,6 +851,7 @@ Then all the people said, “We agree! Praise the Lord.”
 # 1 Chronicles
 
 ## Chapter 17 <!-- scripture:17 -->
+
 
 ### God Makes a Promise to David
 
@@ -760,6 +870,9 @@ Then all the people said, “We agree! Praise the Lord.”
 [13] I will become his father and he will become my son. I will never withhold my loyal love from him, as I withheld it from the one who ruled before you.
 [14] I will put him in permanent charge of my house and my kingdom; his dynasty will be permanent.”’”
 [15] Nathan told David all these words that were revealed to him.
+
+### David Praises God
+
 [16] King David went in, sat before the Lord, and said: “Who am I, O Lord God, and what is my family, that you should have brought me to this point?
 [17] And you did not stop there, O God! You have also spoken about the future of your servant’s family. You have revealed to me what men long to know, O Lord God.
 [18] What more can David say to you? You have honored your servant; you have given your servant special recognition.
@@ -776,6 +889,7 @@ Then all the people said, “We agree! Praise the Lord.”
 
 ## Chapter 18 <!-- scripture:18 -->
 
+
 ### David Conquers the Neighboring Nations
 
 [1] Later David defeated the Philistines and subdued them. He took Gath and its surrounding towns away from the Philistines.
@@ -791,6 +905,9 @@ Then all the people said, “We agree! Praise the Lord.”
 [11] King David dedicated these things to the Lord, along with the silver and gold which he had carried off from all the nations, including Edom, Moab, the Ammonites, the Philistines, and Amalek.
 [12] Abishai son of Zeruiah killed 18,000 Edomites in the Valley of Salt.
 [13] He placed garrisons in Edom, and all the Edomites became David’s subjects. The Lord protected David wherever he campaigned.
+
+### David’s Officials
+
 [14] David reigned over all Israel; he guaranteed justice for all his people.
 [15] Joab son of Zeruiah was commanding general of the army; Jehoshaphat son of Ahilud was secretary;
 [16] Zadok son of Ahitub and Abimelech son of Abiathar were priests; Shavsha was scribe;
@@ -798,6 +915,7 @@ Then all the people said, “We agree! Praise the Lord.”
 # 1 Chronicles
 
 ## Chapter 19 <!-- scripture:19 -->
+
 
 ### David’s Campaign against the Ammonites
 
@@ -824,11 +942,12 @@ Then all the people said, “We agree! Praise the Lord.”
 
 ## Chapter 20 <!-- scripture:20 -->
 
-### Battles with the Philistines
-
 [1] In the spring, at the time when kings normally conduct wars, Joab led the army into battle and devastated the land of the Ammonites. He went and besieged Rabbah, while David stayed in Jerusalem. Joab defeated Rabbah and tore it down.
 [2] David took the crown from the head of their king and wore it (its weight was a talent of gold and it was set with precious stones). He took a large amount of plunder from the city.
 [3] He removed the city’s residents and made them labor with saws, iron picks, and axes. This was his policy with all the Ammonite cities. Then David and all the army returned to Jerusalem.
+
+### Battles with the Philistines
+
 [4] Later there was a battle with the Philistines in Gezer. At that time Sibbekai the Hushathite killed Sippai, one of the descendants of the Rephaim, and the Philistines were subdued.
 [5] There was another battle with the Philistines in which Elhanan son of Jair the Bethlehemite killed the brother of Goliath the Gittite, whose spear had a shaft as big as the crossbeam of a weaver’s loom.
 [6] In a battle in Gath there was a large man who had six fingers on each hand and six toes on each foot—twenty-four in all! He too was a descendant of Rapha.
@@ -837,6 +956,7 @@ Then all the people said, “We agree! Praise the Lord.”
 # 1 Chronicles
 
 ## Chapter 21 <!-- scripture:21 -->
+
 
 ### The Lord Sends a Plague against Israel
 
@@ -871,12 +991,13 @@ Then all the people said, “We agree! Praise the Lord.”
 
 ## Chapter 22 <!-- scripture:22 -->
 
-### David Orders a Temple to Be Built
-
 [28] At that time, when David saw that the Lord responded to him at the threshing floor of Ornan the Jebusite, he sacrificed there.
 [29] Now the Lord’s tabernacle (which Moses had made in the wilderness) and the altar for burnt sacrifices were at that time at the worship center in Gibeon.
 [30] But David could not go before it to seek God’s will, for he was afraid of the sword of the angel of the Lord.
 [1] David then said, “This is the place where the temple of the Lord God will be, along with the altar for burnt sacrifices for Israel.”
+
+### David Orders a Temple to Be Built
+
 [2] David ordered the resident foreigners in the land of Israel to be called together. He appointed some of them to be stonecutters to chisel stones for the building of God’s temple.
 [3] David supplied a large amount of iron for the nails of the doors of the gates and for braces, more bronze than could be weighed,
 [4] and more cedar logs than could be counted. (The Sidonians and Tyrians had brought a large amount of cedar logs to David.)
@@ -898,6 +1019,7 @@ Then all the people said, “We agree! Praise the Lord.”
 # 1 Chronicles
 
 ## Chapter 23 <!-- scripture:23 -->
+
 
 ### David Organizes the Levites
 
@@ -937,6 +1059,7 @@ Then all the people said, “We agree! Praise the Lord.”
 
 ## Chapter 24 <!-- scripture:24 -->
 
+
 ### David Organizes the Priests
 
 [1] The divisions of Aaron’s descendants were as follows:
@@ -958,6 +1081,9 @@ Then all the people said, “We agree! Praise the Lord.”
 [17] the twenty-first to Jakin,
 [18] the twenty-third to Delaiah,
 [19] This was the order in which they carried out their assigned responsibilities when they entered the Lord’s temple, according to the regulations given them by their ancestor Aaron, just as the Lord God of Israel had instructed him.
+
+### Remaining Levites
+
 [20] The rest of the Levites included:
 [21] the firstborn Isshiah from Rehabiah and the sons of Rehabiah,
 [22] Shelomoth from the Izharites,
@@ -973,6 +1099,7 @@ Then all the people said, “We agree! Praise the Lord.”
 # 1 Chronicles
 
 ## Chapter 25 <!-- scripture:25 -->
+
 
 ### David Organizes the Musicians
 
@@ -1011,6 +1138,7 @@ Then all the people said, “We agree! Praise the Lord.”
 
 ## Chapter 26 <!-- scripture:26 -->
 
+
 ### Divisions of Gatekeepers
 
 [1] The divisions of the gatekeepers:
@@ -1032,6 +1160,9 @@ Then all the people said, “We agree! Praise the Lord.”
 [17] Each day there were six Levites posted on the east, four on the north, and four on the south. At the storehouses they were posted in pairs.
 [18] At the court on the west there were four posted on the road and two at the court.
 [19] These were the divisions of the gatekeepers who were descendants of Korah and Merari.
+
+### Supervisors of the Storehouses
+
 [20] Their fellow Levites were in charge of the storehouses in God’s temple and the storehouses containing consecrated items.
 [21] The descendants of Ladan, who were descended from Gershon through Ladan and were leaders of the families of Ladan the Gershonite, included Jehieli
 [22] and the sons of Jehieli, Zetham and his brother Joel. They were in charge of the storehouses in the Lord’s temple.
@@ -1048,6 +1179,7 @@ Then all the people said, “We agree! Praise the Lord.”
 # 1 Chronicles
 
 ## Chapter 27 <!-- scripture:27 -->
+
 
 ### Leaders of the Army
 
@@ -1075,6 +1207,9 @@ Then all the people said, “We agree! Praise the Lord.”
 [22] Azarel son of Jeroham led Dan.
 [23] David did not count the males twenty years old and under, for the Lord had promised to make Israel as numerous as the stars in the sky.
 [24] Joab son of Zeruiah started to count the men but did not finish. God was angry with Israel because of this, so the number was not recorded in the scroll called The Annals of King David.
+
+### Royal Officials
+
 [25] Azmaveth son of Adiel was in charge of the king’s storehouses;
 [26] Ezri son of Kelub was in charge of the field workers who farmed the land.
 [27] Shimei the Ramathite was in charge of the vineyards;
@@ -1088,6 +1223,7 @@ Then all the people said, “We agree! Praise the Lord.”
 # 1 Chronicles
 
 ## Chapter 28 <!-- scripture:28 -->
+
 
 ### David Commissions Solomon to Build the Temple
 
@@ -1116,6 +1252,7 @@ Then all the people said, “We agree! Praise the Lord.”
 
 ## Chapter 29 <!-- scripture:29 -->
 
+
 ### The People Contribute to the Project
 
 [1] King David said to the entire assembly: “My son Solomon, the one whom God has chosen, is just an inexperienced young man, and the task is great, for this palace is not for man, but for the Lord God.
@@ -1127,6 +1264,9 @@ Then all the people said, “We agree! Praise the Lord.”
 [7] They donated for the service of God’s temple 5,000 talents and 10,000 darics of gold, 10,000 talents of silver, 18,000 talents of bronze, and 100,000 talents of iron.
 [8] All who possessed precious stones donated them to the treasury of the Lord’s temple, which was under the supervision of Jehiel the Gershonite.
 [9] The people were delighted with their donations, for they contributed to the Lord with a willing attitude; King David was also very happy.
+
+### David Praises the Lord
+
 [10] David praised the Lord before the entire assembly:
 [11] O Lord, you are great, mighty, majestic, magnificent, glorious, and sovereign over all the sky and earth! You, Lord, have dominion and exalt yourself as the ruler of all.
 [12] You are the source of wealth and honor; you rule over all. You possess strength and might to magnify and give strength to all.
@@ -1138,11 +1278,17 @@ Then all the people said, “We agree! Praise the Lord.”
 [18] O Lord God of our ancestors Abraham, Isaac, and Israel, always maintain these motives of your people and keep them devoted to you.
 [19] Make my son Solomon willing to obey your commands, rules, and regulations, and to complete building the palace for which I have made preparations.”
 [20] David told the entire assembly: “Praise the Lord your God!” So the entire assembly praised the Lord God of their ancestors; they bowed down and stretched out flat on the ground before the Lord and the king.
+
+### David Designates Solomon King
+
 [21] The next day they made sacrifices and offered burnt sacrifices to the Lord (1,000 bulls, 1,000 rams, 1,000 lambs), along with their accompanying drink offerings and many other sacrifices for all Israel.
 [22] They held a feast before the Lord that day and celebrated.
 [23] Solomon sat on the Lord’s throne as king in place of his father David; he was successful and all Israel was loyal to him.
 [24] All the officers and warriors, as well as all of King David’s sons, pledged their allegiance to King Solomon.
 [25] The Lord greatly magnified Solomon before all Israel and bestowed on him greater majesty than any king of Israel before him.
+
+### David’s Reign Comes to an End
+
 [26] David son of Jesse reigned over all Israel.
 [27] He reigned over Israel forty years; he reigned in Hebron seven years and in Jerusalem thirty-three years.
 [28] He died at a good old age, having enjoyed long life, wealth, and honor. His son Solomon succeeded him.

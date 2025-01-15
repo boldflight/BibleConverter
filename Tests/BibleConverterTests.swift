@@ -153,4 +153,39 @@ struct BibleConverterTests {
         let verseLines = lines.filter { $0.starts(with: "[") }
         #expect(verseLines.count == 2)
     }
+    
+    @Test("Handle multiple paragraph titles")
+    func testMultipleParagraphTitles() async throws {
+        let input = """
+        <?xml version="1.0" encoding="utf-8"?>
+        <html>
+        <body>
+            <h1>Zephaniah Chapter 1</h1>
+            <p class="paragraphtitle">Introduction</p>
+            <p class="bodytext"><span class="verse">1:1</span> This is the first verse.</p>
+            <p class="paragraphtitle">The Lord's Day of Judgment is Approaching</p>
+            <p class="poetry"><span class="verse">1:2</span> This is the second verse.</p>
+        </body>
+        </html>
+        """
+        
+        let (bookName, markdown) = try converter.convertToMarkdown(input)
+        
+        #expect(bookName == "Zephaniah")
+        #expect(markdown.contains("### Introduction"))
+        #expect(markdown.contains("[1] This is the first verse"))
+        #expect(markdown.contains("### The Lord's Day of Judgment is Approaching"))
+        #expect(markdown.contains("[2] This is the second verse"))
+        
+        // Verify order
+        let lines = markdown.components(separatedBy: .newlines)
+        let introIndex = lines.firstIndex(where: { $0.contains("Introduction") }) ?? 0
+        let verse1Index = lines.firstIndex(where: { $0.contains("[1]") }) ?? 0
+        let judgmentIndex = lines.firstIndex(where: { $0.contains("Judgment") }) ?? 0
+        let verse2Index = lines.firstIndex(where: { $0.contains("[2]") }) ?? 0
+        
+        #expect(introIndex < verse1Index)
+        #expect(verse1Index < judgmentIndex)
+        #expect(judgmentIndex < verse2Index)
+    }
 }

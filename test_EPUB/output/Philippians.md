@@ -2,10 +2,14 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul and Timothy, slaves of Christ Jesus, to all the saints in Christ Jesus who are in Philippi, with the overseers and deacons.
 [2] Grace and peace to you from God our Father and the Lord Jesus Christ!
+
+### Prayer for the Church
+
 [3] I thank my God every time I remember you.
 [4] I always pray with joy in my every prayer for all of you
 [5] because of your participation in the gospel from the first day until now.
@@ -15,6 +19,9 @@
 [9] And I pray this, that your love may abound even more and more in knowledge and every kind of insight
 [10] so that you can decide what is best, and thus be sincere and blameless for the day of Christ,
 [11] filled with the fruit of righteousness that comes through Jesus Christ to the glory and praise of God.
+
+### Ministry as a Prisoner
+
 [12] I want you to know, brothers and sisters, that my situation has actually turned out to advance the gospel:
 [13] The whole imperial guard and everyone else knows that I am in prison for the sake of Christ,
 [14] and most of the brothers and sisters, having confidence in the Lord because of my imprisonment, now more than ever dare to speak the word fearlessly.
@@ -37,6 +44,7 @@
 # Philippians
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Christian Unity and Christ’s Humility
 
@@ -64,6 +72,9 @@ every knee will bow
 [11] and every tongue confess
 that Jesus Christ is Lord
 to the glory of God the Father.
+
+### Lights in the World
+
 [12] So then, my dear friends, just as you have always obeyed, not only in my presence but even more in my absence, continue working out your salvation with awe and reverence,
 [13] for the one bringing forth in you both the desire and the effort—for the sake of his good pleasure—is God.
 [14] Do everything without grumbling or arguing,
@@ -71,6 +82,9 @@ to the glory of God the Father.
 [16] by holding on to the word of life so that on the day of Christ I will have a reason to boast that I did not run in vain nor labor in vain.
 [17] But even if I am being poured out like a drink offering on the sacrifice and service of your faith, I am glad and rejoice together with all of you.
 [18] And in the same way you also should be glad and rejoice together with me.
+
+### Models for Ministry
+
 [19] Now I hope in the Lord Jesus to send Timothy to you soon, so that I too may be encouraged by hearing news about you.
 [20] For there is no one here like him who will readily demonstrate his deep concern for you.
 [21] Others are busy with their own concerns, not those of Jesus Christ.
@@ -87,6 +101,7 @@ to the glory of God the Father.
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### True and False Righteousness
 
 [1] Finally, my brothers and sisters, rejoice in the Lord! To write this again is no trouble to me, and it is a safeguard for you.
@@ -100,6 +115,9 @@ to the glory of God the Father.
 [9] and be found in him, not because I have my own righteousness derived from the law, but because I have the righteousness that comes by way of Christ’s faithfulness —a righteousness from God that is in fact based on Christ’s faithfulness.
 [10] My aim is to know him, to experience the power of his resurrection, to share in his sufferings, and to be like him in his death,
 [11] and so, somehow, to attain to the resurrection from the dead.
+
+### Keep Going Forward
+
 [12] Not that I have already attained this—that is, I have not already been perfected—but I strive to lay hold of that for which Christ Jesus also laid hold of me.
 [13] Brothers and sisters, I do not consider myself to have attained this. Instead I am single-minded: Forgetting the things that are behind and reaching out for the things that are ahead,
 [14] with this goal in mind, I strive toward the prize of the upward call of God in Christ Jesus.
@@ -114,6 +132,7 @@ to the glory of God the Father.
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Christian Practices
 
 [1] So then, my brothers and sisters, dear friends whom I long to see, my joy and crown, stand in the Lord in this way, my dear friends!
@@ -125,6 +144,9 @@ to the glory of God the Father.
 [7] And the peace of God that surpasses all understanding will guard your hearts and minds in Christ Jesus.
 [8] Finally, brothers and sisters, whatever is true, whatever is worthy of respect, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if something is excellent or praiseworthy, think about these things.
 [9] And what you learned and received and heard and saw in me, do these things. And the God of peace will be with you.
+
+### Appreciation for Support
+
 [10] I have great joy in the Lord because now at last you have again expressed your concern for me. (Now I know you were concerned before but had no opportunity to do anything.)
 [11] I am not saying this because I am in need, for I have learned to be content in any circumstance.
 [12] I have experienced times of need and times of abundance. In any and every circumstance I have learned the secret of contentment, whether I go satisfied or hungry, have plenty or nothing.
@@ -136,6 +158,9 @@ to the glory of God the Father.
 [18] For I have received everything, and I have plenty. I have all I need because I received from Epaphroditus what you sent—a fragrant offering, an acceptable sacrifice, very pleasing to God.
 [19] And my God will supply your every need according to his glorious riches in Christ Jesus.
 [20] May glory be given to God our Father forever and ever. Amen.
+
+### Final Greetings
+
 [21] Give greetings to all the saints in Christ Jesus. The brothers with me here send greetings.
 [22] All the saints greet you, especially those who belong to Caesar’s household.
 [23] The grace of the Lord Jesus Christ be with your spirit.

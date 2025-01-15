@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The King Throws a Lavish Party
 
 [1] The following events happened in the days of Ahasuerus. (I am referring to that Ahasuerus who used to rule over 127 provinces extending all the way from India to Ethiopia.)
@@ -13,6 +14,9 @@
 [7] Drinks were served in golden containers, all of which differed from one another. Royal wine was available in abundance at the king’s expense.
 [8] There were no restrictions on the drinking, for the king had instructed all his supervisors that they should do as everyone so desired.
 [9] Queen Vashti also gave a banquet for the women in King Ahasuerus’ royal palace.
+
+### Queen Vashti is Removed from Her Royal Position
+
 [10] On the seventh day, as King Ahasuerus was feeling the effects of the wine, he ordered Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas, the seven eunuchs who attended him,
 [11] to bring Queen Vashti into the king’s presence wearing her royal high turban. He wanted to show the people and the officials her beauty, for she was very attractive.
 [12] But Queen Vashti refused to come at the king’s bidding conveyed through the eunuchs. Then the king became extremely angry, and his rage consumed him.
@@ -29,6 +33,7 @@
 # Esther
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Esther Becomes Queen in Vashti’s Place
 
@@ -50,6 +55,9 @@
 [16] Then Esther was taken to King Ahasuerus at his royal residence in the tenth month (that is, the month of Tebeth) in the seventh year of his reign.
 [17] And the king loved Esther more than all the other women, and she met with his loving approval more than all the other young women. So he placed the royal high turban on her head and appointed her queen in place of Vashti.
 [18] Then the king prepared a large banquet for all his officials and his servants—it was actually Esther’s banquet. He also set aside a holiday for the provinces, and he provided for offerings at the king’s expense.
+
+### Mordecai Learns of a Plot against the King
+
 [19] Now when the young women were being gathered again, Mordecai was sitting at the king’s gate.
 [20] Esther was still not divulging her lineage or her people, just as Mordecai had instructed her. Esther continued to do whatever Mordecai said, just as she had done when he was raising her.
 [21] In those days while Mordecai was sitting at the king’s gate, Bigthan and Teresh, two of the king’s eunuchs who protected the entrance, became angry and plotted to assassinate King Ahasuerus.
@@ -58,6 +66,7 @@
 # Esther
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### Haman Conspires to Destroy the Jews
 
@@ -79,6 +88,7 @@
 # Esther
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Esther Decides to Risk Everything in order to Help Her People
 
@@ -103,6 +113,7 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Esther Appeals to the King for Help
 
 [1] It so happened that on the third day Esther put on her royal attire and stood in the inner court of the palace, opposite the king’s quarters. The king was sitting on his royal throne in the palace, opposite the entrance.
@@ -113,6 +124,9 @@
 [6] While at the banquet of wine, the king said to Esther, “What is your request? It shall be given to you. What is your petition? Ask for as much as half the kingdom, and it shall be done.”
 [7] Esther responded, “My request and my petition is this:
 [8] If I have found favor in the king’s sight and if the king is inclined to grant my request and approve my petition, let the king and Haman come tomorrow to the banquet that I will prepare for them. At that time I will do as the king wishes.”
+
+### Haman Expresses His Hatred of Mordecai
+
 [9] Now Haman went forth that day pleased and very much encouraged. But when Haman saw Mordecai at the king’s gate, and he did not rise or tremble in his presence, Haman was filled with rage toward Mordecai.
 [10] But Haman restrained himself and went on to his home.
 [11] Haman then recounted to them his fabulous wealth, his many sons, and how the king had magnified him and exalted him over the king’s other officials and servants.
@@ -122,6 +136,7 @@
 # Esther
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### The Turning Point: The King Honors Mordecai
 
@@ -143,6 +158,7 @@
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### The King Has Haman Executed
 
 [1] So the king and Haman came to dine with Queen Esther.
@@ -158,6 +174,7 @@
 # Esther
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### The King Acts to Protect the Jews
 
@@ -182,6 +199,7 @@
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### The Jews Prevail over Their Enemies
 
 [1] In the twelfth month (that is, the month of Adar), on its thirteenth day, the edict of the king and his law were to be executed. It was on this day that the enemies of the Jews had supposed that they would gain power over them. But contrary to expectations, the Jews gained power over their enemies.
@@ -201,6 +219,9 @@
 [15] The Jews who were in Susa then assembled on the fourteenth day of the month of Adar, and they killed 300 men in Susa. But they did not confiscate their property.
 [16] The rest of the Jews who were throughout the provinces of the king assembled in order to stand up for themselves and to have rest from their enemies. They killed 75,000 of their adversaries, but they did not confiscate their property.
 [17] All this happened on the thirteenth day of the month of Adar. They then rested on the fourteenth day and made it a day for banqueting and happiness.
+
+### The Origins of the Feast of Purim
+
 [18] But the Jews who were in Susa assembled on the thirteenth and fourteenth days, and rested on the fifteenth, making it a day for banqueting and happiness.
 [19] This is why the Jews who are in the rural country—those who live in rural villages—set aside the fourteenth day of the month of Adar for happiness, banqueting, a holiday, and sending gifts to one another.
 [20] Mordecai wrote these matters down and sent letters to all the Jews who were throughout all the provinces of King Ahasuerus, both near and far,
@@ -219,6 +240,7 @@
 # Esther
 
 ## Chapter 10 <!-- scripture:10 -->
+
 
 ### Mordecai’s Fame Increases
 

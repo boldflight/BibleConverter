@@ -2,15 +2,22 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our dear friend and colaborer,
 [2] to Apphia our sister, to Archippus our fellow soldier, and to the church that meets in your house.
 [3] Grace and peace to you from God our Father and the Lord Jesus Christ!
+
+### Thanks for Philemon’s Love and Faith
+
 [4] I always thank my God as I remember you in my prayers,
 [5] because I hear of your faith in the Lord Jesus and your love for all the saints.
 [6] I pray that the faith you share with us may deepen your understanding of every blessing that belongs to you in Christ.
 [7] I have had great joy and encouragement because of your love, for the hearts of the saints have been refreshed through you, brother.
+
+### Paul’s Request for Onesimus
+
 [8] So, although I have quite a lot of confidence in Christ and could command you to do what is proper,
 [9] I would rather appeal to you on the basis of love—I, Paul, an old man and even now a prisoner for the sake of Christ Jesus —
 [10] I am appealing to you concerning my child, whose spiritual father I have become during my imprisonment, that is, Onesimus,
@@ -26,6 +33,9 @@
 [20] Yes, brother, let me have some benefit from you in the Lord. Refresh my heart in Christ.
 [21] Since I was confident that you would obey, I wrote to you, because I knew that you would do even more than what I am asking you to do.
 [22] At the same time also, prepare a place for me to stay, for I hope that through your prayers I will be given back to you.
+
+### Concluding Greetings
+
 [23] Epaphras, my fellow prisoner in Christ Jesus, greets you.
 [24] Mark, Aristarchus, Demas, and Luke, my colaborers, greet you too.
 [25] May the grace of the Lord Jesus Christ be with your spirit.

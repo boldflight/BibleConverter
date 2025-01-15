@@ -2,10 +2,14 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Jude, a slave of Jesus Christ and brother of James, to those who are called, wrapped in the love of God the Father and kept for Jesus Christ.
 [2] May mercy, peace, and love be lavished on you!
+
+### Condemnation of the False Teachers
+
 [3] Dear friends, although I have been eager to write to you about our common salvation, I now feel compelled instead to write to encourage you to contend earnestly for the faith that was once for all entrusted to the saints.
 [4] For certain men have secretly slipped in among you —men who long ago were marked out for the condemnation I am about to describe —ungodly men who have turned the grace of our God into a license for evil and who deny our only Master and Lord, Jesus Christ.
 [5] Now I desire to remind you (even though you have been fully informed of these facts once for all) that Jesus, having saved the people out of the land of Egypt, later destroyed those who did not believe.
@@ -20,6 +24,9 @@
 [14] Now Enoch, the seventh in descent beginning with Adam, even prophesied of them, saying, “Look! The Lord is coming with thousands and thousands of his holy ones,
 [15] to execute judgment on all, and to convict every person of all their thoroughly ungodly deeds that they have committed, and of all the harsh words that ungodly sinners have spoken against him.”
 [16] These people are grumblers and fault-finders who go wherever their desires lead them, and they give bombastic speeches, enchanting folks for their own gain.
+
+### Exhortation to the Faithful
+
 [17] But you, dear friends—recall the predictions foretold by the apostles of our Lord Jesus Christ.
 [18] For they said to you, “At the end of time there will come scoffers, propelled by their own ungodly desires.”
 [19] These people are divisive, worldly, devoid of the Spirit.
@@ -27,5 +34,8 @@
 [21] maintain yourselves in the love of God, while anticipating the mercy of our Lord Jesus Christ that brings eternal life.
 [22] And have mercy on those who waver;
 [23] save others by snatching them out of the fire; have mercy on others, coupled with a fear of God, hating even the clothes stained by the flesh.
+
+### Final Blessing
+
 [24] Now to the one who is able to keep you from falling, and to cause you to stand, rejoicing, without blemish before his glorious presence,
 [25] to the only God our Savior through Jesus Christ our Lord, be glory, majesty, power, and authority, before all time, and now, and for all eternity. Amen.

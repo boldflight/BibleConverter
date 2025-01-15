@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The Creation of the World
 
 [1] In the beginning God created the heavens and the earth.
@@ -41,11 +42,12 @@ male and female he created them.
 
 ## Chapter 2 <!-- scripture:2 -->
 
-### The Creation of Man and Woman
-
 [1] The heavens and the earth were completed with everything that was in them.
 [2] By the seventh day God finished the work that he had been doing, and he ceased on the seventh day all the work that he had been doing.
 [3] God blessed the seventh day and made it holy because on it he ceased all the work that he had been doing in creation.
+
+### The Creation of Man and Woman
+
 [4] This is the account of the heavens and the earth when they were created—when the Lord God made the earth and heavens.
 [5] Now no shrub of the field had yet grown on the earth, and no plant of the field had yet sprouted, for the Lord God had not caused it to rain on the earth, and there was no man to cultivate the ground.
 [6] Springs would well up from the earth and water the whole surface of the ground.
@@ -76,6 +78,7 @@ for she was taken out of man.”
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### The Temptation and the Fall
 
 [1] Now the serpent was shrewder than any of the wild animals that the Lord God had made. He said to the woman, “Is it really true that God said, ‘You must not eat from any tree of the orchard’?”
@@ -85,6 +88,9 @@ for she was taken out of man.”
 [5] for God knows that when you eat from it your eyes will open and you will be like God, knowing good and evil.”
 [6] When the woman saw that the tree produced fruit that was good for food, was attractive to the eye, and was desirable for making one wise, she took some of its fruit and ate it. She also gave some of it to her husband who was with her, and he ate it.
 [7] Then the eyes of both of them opened, and they knew they were naked; so they sewed fig leaves together and made coverings for themselves.
+
+### The Judgment Oracles of God at the Fall
+
 [8] Then the man and his wife heard the sound of the Lord God moving about in the orchard at the breezy time of the day, and they hid from the Lord God among the trees of the orchard.
 [9] But the Lord God called to the man and said to him, “Where are you?”
 [10] The man replied, “I heard you moving about in the orchard, and I was afraid because I was naked, so I hid.”
@@ -127,6 +133,7 @@ for you are dust, and to dust you will return.”
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### The Story of Cain and Abel
 
 [1] Now the man was intimate with his wife Eve, and she became pregnant and gave birth to Cain. Then she said, “I have created a man just as the Lord did!”
@@ -145,6 +152,9 @@ for you are dust, and to dust you will return.”
 [14] Look, you are driving me off the land today, and I must hide from your presence. I will be a homeless wanderer on the earth; whoever finds me will kill me!”
 [15] But the Lord said to him, “All right then, if anyone kills Cain, Cain will be avenged seven times as much.” Then the Lord put a special mark on Cain so that no one who found him would strike him down.
 [16] So Cain went out from the presence of the Lord and lived in the land of Nod, east of Eden.
+
+### The Beginning of Civilization
+
 [17] Cain was intimate with his wife, and she became pregnant and gave birth to Enoch. Cain was building a city, and he named the city after his son Enoch.
 [18] To Enoch was born Irad, and Irad was the father of Mehujael. Mehujael was the father of Methushael, and Methushael was the father of Lamech.
 [19] Lamech took two wives for himself; the name of the first was Adah, and the name of the second was Zillah.
@@ -163,6 +173,7 @@ then Lamech seventy-seven times!”
 # Genesis
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### From Adam to Noah
 
@@ -202,6 +213,7 @@ then Lamech seventy-seven times!”
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### God’s Grief over Humankind’s Wickedness
 
 [1] When humankind began to multiply on the face of the earth, and daughters were born to them,
@@ -212,6 +224,9 @@ then Lamech seventy-seven times!”
 [6] The Lord regretted that he had made humankind on the earth, and he was highly offended.
 [7] So the Lord said, “I will wipe humankind, whom I have created, from the face of the earth—everything from humankind to animals, including creatures that move on the ground and birds of the air, for I regret that I have made them.”
 [8] But Noah found favor in the sight of the Lord.
+
+### The Judgment of the Flood
+
 [9] This is the account of Noah.
 [10] Noah had three sons: Shem, Ham, and Japheth.
 [11] The earth was ruined in the sight of God; the earth was filled with violence.
@@ -288,6 +303,7 @@ and day and night will not cease.”
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### God’s Covenant with Humankind through Noah
 
 [1] Then God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth.
@@ -311,6 +327,9 @@ God has made humankind.
 [15] then I will remember my covenant with you and with all living creatures of all kinds. Never again will the waters become a flood and destroy all living things.
 [16] When the rainbow is in the clouds, I will notice it and remember the perpetual covenant between God and all living creatures of all kinds that are on the earth.”
 [17] So God said to Noah, “This is the guarantee of the covenant that I am confirming between me and all living things that are on the earth.”
+
+### The Curse on Canaan
+
 [18] The sons of Noah who came out of the ark were Shem, Ham, and Japheth. (Now Ham was the father of Canaan.)
 [19] These were the three sons of Noah, and from them the whole earth was populated.
 [20] Noah, a man of the soil, began to plant a vineyard.
@@ -333,6 +352,7 @@ and may Canaan be the slave of Japheth!”
 # Genesis
 
 ## Chapter 10 <!-- scripture:10 -->
+
 
 ### The Table of Nations
 
@@ -372,6 +392,7 @@ and may Canaan be the slave of Japheth!”
 
 ## Chapter 11 <!-- scripture:11 -->
 
+
 ### The Dispersion of the Nations at Babel
 
 [1] The whole earth had a common language and a common vocabulary.
@@ -383,6 +404,9 @@ and may Canaan be the slave of Japheth!”
 [7] Come, let’s go down and confuse their language so they won’t be able to understand each other.”
 [8] So the Lord scattered them from there across the face of the entire earth, and they stopped building the city.
 [9] That is why its name was called Babel —because there the Lord confused the language of the entire world, and from there the Lord scattered them across the face of the entire earth.
+
+### The Genealogy of Shem
+
 [10] This is the account of Shem.
 [11] And after becoming the father of Arphaxad, Shem lived 500 years and had other sons and daughters.
 [12] When Arphaxad had lived 35 years, he became the father of Shelah.
@@ -400,6 +424,9 @@ and may Canaan be the slave of Japheth!”
 [24] When Nahor had lived 29 years, he became the father of Terah.
 [25] And after he became the father of Terah, Nahor lived 119 years and had other sons and daughters.
 [26] When Terah had lived 70 years, he became the father of Abram, Nahor, and Haran.
+
+### The Record of Terah
+
 [27] This is the account of Terah.
 [28] Haran died in the land of his birth, in Ur of the Chaldeans, while his father Terah was still alive.
 [29] And Abram and Nahor took wives for themselves. The name of Abram’s wife was Sarai. And the name of Nahor’s wife was Milcah; she was the daughter of Haran, who was the father of both Milcah and Iscah.
@@ -409,6 +436,7 @@ and may Canaan be the slave of Japheth!”
 # Genesis
 
 ## Chapter 12 <!-- scripture:12 -->
+
 
 ### The Obedience of Abram
 
@@ -427,6 +455,9 @@ so that all the families of the earth may receive blessing through you.”
 [7] The Lord appeared to Abram and said, “To your descendants I will give this land.” So Abram built an altar there to the Lord, who had appeared to him.
 [8] Then he moved from there to the hill country east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the Lord and worshiped the Lord.
 [9] Abram continually journeyed by stages down to the Negev.
+
+### The Promised Blessing Jeopardized
+
 [10] There was a famine in the land, so Abram went down to Egypt to stay for a while because the famine was severe.
 [11] As he approached Egypt, he said to his wife Sarai, “Look, I know that you are a beautiful woman.
 [12] When the Egyptians see you they will say, ‘This is his wife.’ Then they will kill me but will keep you alive.
@@ -441,6 +472,7 @@ so that all the families of the earth may receive blessing through you.”
 # Genesis
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### Abram’s Solution to the Strife
 
@@ -465,6 +497,7 @@ so that all the families of the earth may receive blessing through you.”
 # Genesis
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### The Blessing of Victory for God’s People
 
@@ -499,6 +532,7 @@ who delivered your enemies into your hand.”
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### The Cutting of the Covenant
 
 [1] After these things the Lord’s message came to Abram in a vision: “Fear not, Abram! I am your shield and the one who will reward you in great abundance.”
@@ -525,6 +559,7 @@ who delivered your enemies into your hand.”
 # Genesis
 
 ## Chapter 16 <!-- scripture:16 -->
+
 
 ### The Birth of Ishmael
 
@@ -554,6 +589,7 @@ He will live away from his brothers.”
 # Genesis
 
 ## Chapter 17 <!-- scripture:17 -->
+
 
 ### The Sign of the Covenant
 
@@ -588,6 +624,7 @@ He will live away from his brothers.”
 
 ## Chapter 18 <!-- scripture:18 -->
 
+
 ### Three Special Visitors
 
 [1] The Lord appeared to Abraham by the oaks of Mamre while he was sitting at the entrance to his tent during the hottest time of the day.
@@ -605,6 +642,9 @@ He will live away from his brothers.”
 [13] The Lord said to Abraham, “Why did Sarah laugh and say, ‘Will I really have a child when I am old?’
 [14] Is anything impossible for the Lord? I will return to you when the season comes round again and Sarah will have a son.”
 [15] Then Sarah lied, saying, “I did not laugh,” because she was afraid. But the Lord said, “No! You did laugh.”
+
+### Abraham Pleads for Sodom
+
 [16] When the men got up to leave, they looked out over Sodom. (Now Abraham was walking with them to see them on their way.)
 [17] Then the Lord said, “Should I hide from Abraham what I am about to do?
 [18] After all, Abraham will surely become a great and powerful nation, and all the nations on the earth may receive blessing through him.
@@ -626,6 +666,7 @@ He will live away from his brothers.”
 # Genesis
 
 ## Chapter 19 <!-- scripture:19 -->
+
 
 ### The Destruction of Sodom and Gomorrah
 
@@ -671,6 +712,7 @@ He will live away from his brothers.”
 
 ## Chapter 20 <!-- scripture:20 -->
 
+
 ### Abraham and Abimelech
 
 [1] Abraham journeyed from there to the Negev region and settled between Kadesh and Shur. While he lived as a temporary resident in Gerar,
@@ -694,6 +736,7 @@ He will live away from his brothers.”
 # Genesis
 
 ## Chapter 21 <!-- scripture:21 -->
+
 
 ### The Birth of Isaac
 
@@ -735,6 +778,7 @@ He will live away from his brothers.”
 
 ## Chapter 22 <!-- scripture:22 -->
 
+
 ### The Sacrifice of Isaac
 
 [1] Some time after these things God tested Abraham. He said to him, “Abraham!” “Here I am!” Abraham replied.
@@ -765,6 +809,7 @@ He will live away from his brothers.”
 
 ## Chapter 23 <!-- scripture:23 -->
 
+
 ### The Death of Sarah
 
 [1] Sarah lived 127 years.
@@ -790,6 +835,7 @@ He will live away from his brothers.”
 # Genesis
 
 ## Chapter 24 <!-- scripture:24 -->
+
 
 ### The Wife for Isaac
 
@@ -866,6 +912,7 @@ May your descendants possess the strongholds of their enemies.”
 
 ## Chapter 25 <!-- scripture:25 -->
 
+
 ### The Death of Abraham
 
 [1] Abraham had taken another wife, named Keturah.
@@ -879,6 +926,9 @@ May your descendants possess the strongholds of their enemies.”
 [9] His sons Isaac and Ishmael buried him in the cave of Machpelah near Mamre, in the field of Ephron the son of Zohar, the Hittite.
 [10] This was the field Abraham had purchased from the sons of Heth. There Abraham was buried with his wife Sarah.
 [11] After Abraham’s death, God blessed his son Isaac. Isaac lived near Beer Lahai Roi.
+
+### The Sons of Ishmael
+
 [12] This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s servant, bore to Abraham.
 [13] These are the names of Ishmael’s sons, by their names according to their records: Nebaioth (Ishmael’s firstborn), Kedar, Adbeel, Mibsam,
 [14] Mishma, Dumah, Massa,
@@ -886,6 +936,9 @@ May your descendants possess the strongholds of their enemies.”
 [16] These are the sons of Ishmael, and these are their names by their settlements and their camps—twelve princes according to their clans.
 [17] Ishmael lived a total of 137 years. He breathed his last and died; then he joined his ancestors.
 [18] His descendants settled from Havilah to Shur, which runs next to Egypt all the way to Asshur. They settled away from all their relatives.
+
+### Jacob and Esau
+
 [19] This is the account of Isaac, the son of Abraham.
 [20] When Isaac was forty years old, he married Rebekah, the daughter of Bethuel the Aramean from Paddan Aram and sister of Laban the Aramean.
 [21] Isaac prayed to the Lord on behalf of his wife because she was childless. The Lord answered his prayer, and his wife Rebekah became pregnant.
@@ -909,6 +962,7 @@ and the older will serve the younger.”
 # Genesis
 
 ## Chapter 26 <!-- scripture:26 -->
+
 
 ### Isaac and Abimelech
 
@@ -950,6 +1004,7 @@ and the older will serve the younger.”
 # Genesis
 
 ## Chapter 27 <!-- scripture:27 -->
+
 
 ### Jacob Cheats Esau out of the Blessing
 
@@ -1020,8 +1075,6 @@ from your neck.”
 
 ## Chapter 28 <!-- scripture:28 -->
 
-### Jacob’s Dream at Bethel
-
 [1] So Isaac called for Jacob and blessed him. Then he commanded him, “You must not marry a Canaanite woman!
 [2] Leave immediately for Paddan Aram! Go to the house of Bethuel, your mother’s father, and find yourself a wife there, among the daughters of Laban, your mother’s brother.
 [3] May the Sovereign God bless you! May he make you fruitful and give you a multitude of descendants! Then you will become a large nation.
@@ -1031,6 +1084,9 @@ from your neck.”
 [7] Jacob obeyed his father and mother and left for Paddan Aram.
 [8] Then Esau realized that the Canaanite women were displeasing to his father Isaac.
 [9] So Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Abraham’s son Ishmael, along with the wives he already had.
+
+### Jacob’s Dream at Bethel
+
 [10] Meanwhile Jacob left Beer Sheba and set out for Haran.
 [11] He reached a certain place where he decided to camp because the sun had gone down. He took one of the stones and placed it near his head. Then he fell asleep in that place
 [12] and had a dream. He saw a stairway erected on the earth with its top reaching to the heavens. The angels of God were going up and coming down it
@@ -1047,6 +1103,7 @@ from your neck.”
 # Genesis
 
 ## Chapter 29 <!-- scripture:29 -->
+
 
 ### The Marriages of Jacob
 
@@ -1080,6 +1137,9 @@ from your neck.”
 [28] Jacob did as Laban said. When Jacob completed Leah’s bridal week, Laban gave him his daughter Rachel to be his wife.
 [29] (Laban gave his female servant Bilhah to his daughter Rachel to be her servant.)
 [30] Jacob slept with Rachel as well. He also loved Rachel more than Leah. Then he worked for Laban for seven more years.
+
+### The Family of Jacob
+
 [31] When the Lord saw that Leah was unloved, he enabled her to become pregnant while Rachel remained childless.
 [32] So Leah became pregnant and gave birth to a son. She named him Reuben, for she said, “The Lord has looked with pity on my oppressed condition. Surely my husband will love me now.”
 [33] She became pregnant again and had another son. She said, “Because the Lord heard that I was unloved, he gave me this one too.” So she named him Simeon.
@@ -1088,8 +1148,6 @@ from your neck.”
 # Genesis
 
 ## Chapter 30 <!-- scripture:30 -->
-
-### The Flocks of Jacob
 
 [1] When Rachel saw that she could not give Jacob children, she became jealous of her sister. She said to Jacob, “Give me children or I’ll die!”
 [2] Jacob became furious with Rachel and exclaimed, “Am I in the place of God, who has kept you from having children?”
@@ -1115,6 +1173,9 @@ from your neck.”
 [22] Then God took note of Rachel. He paid attention to her and enabled her to become pregnant.
 [23] She became pregnant and gave birth to a son. Then she said, “God has taken away my shame.”
 [24] She named him Joseph, saying, “May the Lord give me yet another son.”
+
+### The Flocks of Jacob
+
 [25] After Rachel had given birth to Joseph, Jacob said to Laban, “Send me on my way so that I can go home to my own country.
 [26] Let me take my wives and my children whom I have acquired by working for you. Then I’ll depart, because you know how hard I’ve worked for you.”
 [27] But Laban said to him, “If I have found favor in your sight, please stay here, for I have learned by divination that the Lord has blessed me on account of you.”
@@ -1137,6 +1198,7 @@ from your neck.”
 # Genesis
 
 ## Chapter 31 <!-- scripture:31 -->
+
 
 ### Jacob’s Flight from Laban
 
@@ -1199,6 +1261,7 @@ from your neck.”
 
 ## Chapter 32 <!-- scripture:32 -->
 
+
 ### Jacob Wrestles at Peniel
 
 [1] So Jacob went on his way and the angels of God met him.
@@ -1237,6 +1300,7 @@ from your neck.”
 
 ## Chapter 33 <!-- scripture:33 -->
 
+
 ### Jacob Meets Esau
 
 [1] Jacob looked up and saw that Esau was coming along with 400 men. So he divided the children among Leah, Rachel, and the two female servants.
@@ -1262,6 +1326,7 @@ from your neck.”
 # Genesis
 
 ## Chapter 34 <!-- scripture:34 -->
+
 
 ### Dinah and the Shechemites
 
@@ -1300,6 +1365,7 @@ from your neck.”
 
 ## Chapter 35 <!-- scripture:35 -->
 
+
 ### The Return to Bethel
 
 [1] Then God said to Jacob, “Go up at once to Bethel and live there. Make an altar there to God, who appeared to you when you fled from your brother Esau.”
@@ -1334,6 +1400,7 @@ from your neck.”
 # Genesis
 
 ## Chapter 36 <!-- scripture:36 -->
+
 
 ### The Descendants of Esau
 
@@ -1384,6 +1451,7 @@ from your neck.”
 
 ## Chapter 37 <!-- scripture:37 -->
 
+
 ### Joseph’s Dreams
 
 [1] But Jacob lived in the land where his father had stayed, in the land of Canaan.
@@ -1426,6 +1494,7 @@ from your neck.”
 
 ## Chapter 38 <!-- scripture:38 -->
 
+
 ### Judah and Tamar
 
 [1] At that time Judah left his brothers and stayed with an Adullamite man named Hirah.
@@ -1462,6 +1531,7 @@ from your neck.”
 
 ## Chapter 39 <!-- scripture:39 -->
 
+
 ### Joseph and Potiphar’s Wife
 
 [1] Now Joseph had been brought down to Egypt. An Egyptian named Potiphar, an official of Pharaoh and the captain of the guard, purchased him from the Ishmaelites who had brought him there.
@@ -1491,6 +1561,7 @@ from your neck.”
 
 ## Chapter 40 <!-- scripture:40 -->
 
+
 ### The Cupbearer and the Baker
 
 [1] After these things happened, the cupbearer to the king of Egypt and the royal baker offended their master, the king of Egypt.
@@ -1519,6 +1590,7 @@ from your neck.”
 # Genesis
 
 ## Chapter 41 <!-- scripture:41 -->
+
 
 ### Joseph’s Rise to Power
 
@@ -1583,6 +1655,7 @@ from your neck.”
 
 ## Chapter 42 <!-- scripture:42 -->
 
+
 ### Joseph’s Brothers in Egypt
 
 [1] When Jacob heard there was grain in Egypt, he said to his sons, “Why are you looking at each other?”
@@ -1627,6 +1700,7 @@ from your neck.”
 
 ## Chapter 43 <!-- scripture:43 -->
 
+
 ### The Second Journey to Egypt
 
 [1] Now the famine was severe in the land.
@@ -1666,6 +1740,7 @@ from your neck.”
 # Genesis
 
 ## Chapter 44 <!-- scripture:44 -->
+
 
 ### The Final Test
 
@@ -1707,6 +1782,7 @@ from your neck.”
 
 ## Chapter 45 <!-- scripture:45 -->
 
+
 ### The Reconciliation of the Brothers
 
 [1] Joseph was no longer able to control himself before all his attendants, so he cried out, “Make everyone go out from my presence!” No one remained with Joseph when he made himself known to his brothers.
@@ -1740,6 +1816,7 @@ from your neck.”
 # Genesis
 
 ## Chapter 46 <!-- scripture:46 -->
+
 
 ### The Family of Jacob goes to Egypt
 
@@ -1783,6 +1860,7 @@ The sons of Beriah were Heber and Malkiel.
 
 ## Chapter 47 <!-- scripture:47 -->
 
+
 ### Joseph’s Wise Administration
 
 [1] Joseph went and told Pharaoh, “My father, my brothers, their flocks and herds, and all that they own have arrived from the land of Canaan. They are now in the land of Goshen.”
@@ -1819,6 +1897,7 @@ The sons of Beriah were Heber and Malkiel.
 # Genesis
 
 ## Chapter 48 <!-- scripture:48 -->
+
 
 ### Manasseh and Ephraim
 
@@ -1859,6 +1938,7 @@ Thus he put Ephraim before Manasseh.
 # Genesis
 
 ## Chapter 49 <!-- scripture:49 -->
+
 
 ### The Blessing of Jacob
 
@@ -1953,6 +2033,7 @@ and in the evening dividing the plunder.”
 # Genesis
 
 ## Chapter 50 <!-- scripture:50 -->
+
 
 ### The Burials of Jacob and Joseph
 

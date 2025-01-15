@@ -2,13 +2,20 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### I. The Prologue (1:1—2:13)
+
+
+### Job’s Good Life
 
 [1] There was a man in the land of Uz whose name was Job. And that man was blameless and upright, one who feared God and turned away from evil.
 [2] Seven sons and three daughters were born to him.
 [3] His possessions included 7,000 sheep, 3,000 camels, 500 yoke of oxen, and 500 female donkeys; in addition he had a very great household. Thus he was the greatest of all the people in the east.
 [4] Now his sons used to go and hold a feast in the house of each one in turn, and they would send and invite their three sisters to eat and to drink with them.
 [5] When the days of their feasting were finished, Job would send for them and sanctify them; he would get up early in the morning and offer burnt offerings according to the number of them all. For Job thought, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s customary practice.
+
+### Satan’s Accusation of Job
+
 [6] Now the day came when the sons of God came to present themselves before theLord—and Satan also arrived among them.
 [7] TheLord said to Satan, “Where have you come from?” And Satan answered theLord, “From roving about on the earth, and from walking back and forth across it.”
 [8] So theLord said to Satan, “Have you considered my servant Job? There is no one like him on the earth, a blameless and upright man, one who fears God and turns away from evil.”
@@ -16,6 +23,9 @@
 [10] Have you not made a hedge around him and his household and all that he has on every side? You have blessed the work of his hands, and his livestock have increased in the land.
 [11] But extend your hand and strike everything he has, and he will no doubt curse you to your face!”
 [12] So theLord said to Satan, “All right then, everything he has is in your power. Only do not extend your hand against the man himself!” So Satan went out from the presence of theLord.
+
+### Job’s Integrity in Adversity
+
 [13] Now the day came when Job’s sons and daughters were eating and drinking wine in their oldest brother’s house,
 [14] and a messenger came to Job, saying, “The oxen were plowing and the donkeys were grazing beside them,
 [15] and the Sabeans swooped down and carried them all away, and they killed the servants with the sword! And I—only I alone —escaped to tell you!”
@@ -30,6 +40,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Satan’s Additional Charge
 
 [1] Again the day came when the sons of God came to present themselves before theLord, and Satan also arrived among them to present himself before theLord.
@@ -38,10 +49,16 @@
 [4] But Satan answered theLord, “Skin for skin! Indeed, a man will give up all that he has to save his life.
 [5] But extend your hand and strike his bone and his flesh, and he will no doubt curse you to your face!”
 [6] So theLord said to Satan, “All right, he is in your power; only preserve his life.”
+
+### Job’s Integrity in Suffering
+
 [7] So Satan went out from the presence of theLord, and he afflicted Job with a malignant ulcer from the soles of his feet to the top of his head.
 [8] Job took a shard of broken pottery to scrape himself with while he was sitting among the ashes.
 [9] Then his wife said to him, “Are you still holding firmly to your integrity? Curse God, and die!”
 [10] But he replied, “You’re talking like one of the godless women would do! Should we receive what is good from God, and not also receive what is evil?” In all this Job did not sin by what he said.
+
+### The Visit of Job’s Friends
+
 [11] When Job’s three friends heard about all this calamity that had happened to him, each of them came from his own country —Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite. They met together to come to show sympathy for him and to console him.
 [12] But when they gazed intently from a distance but did not recognize him, they began to weep loudly. Each of them tore his robes, and they threw dust into the air over their heads.
 [13] Then they sat down with him on the ground for seven days and seven nights, yet no one spoke a word to him, for they saw that his pain was very great.
@@ -49,7 +66,11 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### II. Job’s Dialogue With His Friends (3:1—27:23)
+
+
+### Job Regrets His Birth
 
 [1] After this Job opened his mouth and cursed the day he was born.
 [2] Job spoke up and said:
@@ -74,6 +95,9 @@ let it wait for daylight but find none,
 nor let it see the first rays of dawn,
 [10] because it did not shut the doors of my mother’s womb on me,
 nor did it hide trouble from my eyes.
+
+### Job Wishes He Had Died at Birth
+
 [11] “Why did I not die at birth,
 and why did I not expire
 as I came out of the womb?
@@ -96,6 +120,9 @@ and there the weary are at rest.
 they do not hear the voice of the oppressor.
 [19] Small and great are there,
 and the slave is free from his master.
+
+### Longing for Death
+
 [20] “Why does God give light to one who is in misery,
 and life to those whose soul is bitter,
 [21] to those who wait for death that does not come,
@@ -115,6 +142,7 @@ I cannot rest; turmoil has come upon me.”
 # Job
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Eliphaz Begins to Speak
 
@@ -146,6 +174,9 @@ and the growling of the young lion,
 but the teeth of the young lions are broken.
 [11] The mighty lion perishes for lack of prey,
 and the cubs of the lioness are scattered.
+
+### Ungodly Complainers Provoke God’s Wrath
+
 [12] “Now a word was stealthily brought to me,
 and my ear caught a whisper of it.
 [13] In the troubling thoughts of the dreams in the night
@@ -173,8 +204,6 @@ They die, yet without attaining wisdom.’
 
 ## Chapter 5 <!-- scripture:5 -->
 
-### Blessings for the One Who Seeks God
-
 To which of the holy ones will you turn?
 [2] For wrath kills the foolish person,
 and anger slays the silly one.
@@ -190,6 +219,9 @@ and the thirsty pant for their wealth.
 nor does trouble spring up from the ground,
 [7] but people are born to trouble,
 as surely as the sparks fly upward.
+
+### Blessings for the One Who Seeks God
+
 [8] “But as for me, I would seek God,
 and to God I would set forth my case.
 [9] He does great and unsearchable things,
@@ -235,6 +267,7 @@ Hear it, and apply it for your own good.”
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Job Replies to Eliphaz
 
 [1] Then Job responded:
@@ -245,12 +278,18 @@ that is why my words have been wild.
 [4] For the arrows of the Almighty are within me;
 my spirit drinks their poison;
 God’s sudden terrors are arrayed against me.
+
+### Complaints Reflect Suffering
+
 [5] “Does the wild donkey bray when it is near grass?
 Or does the ox bellow over its fodder?
 [6] Can food that is tasteless be eaten without salt?
 Or is there any taste in the white of an egg?
 [7] I have refused to touch such things;
 they are like loathsome food to me.
+
+### A Cry for Death
+
 [8] “Oh that my request would be realized,
 and that God would grant me what I long for!
 [9] And that God would be willing to crush me,
@@ -267,6 +306,9 @@ that I should prolong my life?
 Or is my flesh made of bronze?
 [13] Is not my power to help myself nothing,
 and has not every resource been driven from me?
+
+### Disappointing Friends
+
 [14] “To the one in despair, kindness should come from his friend
 even if he forsakes the fear of the Almighty.
 [15] My brothers have been as treacherous as a seasonal stream,
@@ -285,10 +327,16 @@ because each one had been so confident;
 they arrived there, but were disappointed.
 [21] For now you have become like these streams that are no help;
 you see a terror, and are afraid.
+
+### Friends’ Fears
+
 [22] “Have I ever said, ‘Give me something,
 and from your fortune make gifts in my favor’?
 [23] Or, ‘Deliver me from the enemy’s power,
 and from the hand of tyrants ransom me’?
+
+### No Sin Discovered
+
 [24] “Teach me and I, for my part, will be silent;
 explain to me how I have been mistaken.
 [25] How painful are honest words!
@@ -297,6 +345,9 @@ But what does your reproof prove?
 and treat the words of a despairing man as wind?
 [27] Yes, you would gamble for the fatherless,
 and auction off your friend.
+
+### Other Explanation
+
 [28] “Now then, be good enough to look at me;
 and I will not lie to your face!
 [29] Relent, let there be no falsehood;
@@ -306,6 +357,7 @@ Can my mouth not discern evil things?
 # Job
 
 ## Chapter 7 <!-- scripture:7 -->
+
 
 ### The Brevity of Life
 
@@ -334,6 +386,9 @@ so the one who goes down to the grave
 does not come up again.
 [10] He returns no more to his house,
 nor does his place of residence know him anymore.
+
+### Job Remonstrates with God
+
 [11] “Therefore, I will not refrain my mouth;
 I will speak in the anguish of my spirit;
 I will complain in the bitterness of my soul.
@@ -347,6 +402,9 @@ and terrify me with visions,
 and death more than life.
 [16] I loathe it; I do not want to live forever;
 leave me alone, for my days are a vapor!
+
+### Insignificance of Humans
+
 [17] “What is mankind that you make so much of them,
 and that you pay attention to them?
 [18] And that you visit them every morning,
@@ -366,6 +424,7 @@ but I will be gone.”
 # Job
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### Bildad’s First Speech to Job
 
@@ -422,6 +481,7 @@ and the tent of the wicked will be no more.”
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### Job’s Reply to Bildad
 
 [1] Then Job answered:
@@ -449,6 +509,9 @@ if he goes by, I cannot perceive him.
 Who dares to say to him, ‘What are you doing?’
 [13] God does not restrain his anger;
 under him the helpers of Rahab lie crushed.
+
+### The Impossibility of Facing God in Court
+
 [14] “How much less, then, can I answer him
 and choose my words to argue with him.
 [15] Although I am innocent,
@@ -471,6 +534,9 @@ although I am blameless,
 it would declare me perverse.
 [21] I am blameless. I do not know myself.
 I despise my life.
+
+### Accusation of God’s Justice
+
 [22] “It is all one! That is why I say,
 ‘He destroys the blameless and the guilty.’
 [23] If a scourge brings sudden death,
@@ -479,6 +545,9 @@ he mocks at the despair of the innocent.
 into the hand of a wicked man,
 he covers the faces of its judges;
 if it is not he, then who is it?
+
+### Renewed Complaint
+
 [25] “My days are swifter than a runner,
 they speed by without seeing happiness.
 [26] They glide by like reed boats,
@@ -506,6 +575,7 @@ but it is not so with me.
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### An Appeal for Revelation
 
 [1] “I am weary of my life;
@@ -517,6 +587,9 @@ tell me why you are contending with me.’
 to despise the work of your hands,
 while you smile
 on the schemes of the wicked?
+
+### Motivations of God
+
 [4] “Do you have eyes of flesh,
 or do you see as a human being sees?
 [5] Are your days like the days of a mortal,
@@ -526,6 +599,9 @@ and inquire about my sin,
 [7] although you know that I am not guilty,
 and that there is no one who can deliver
 out of your hand?
+
+### Contradictions in God’s Dealings
+
 [8] “Your hands have shaped me and made me,
 but now you destroy me completely.
 [9] Remember that you have made me as with the clay;
@@ -549,6 +625,9 @@ and again you display your power against me.
 [17] You bring new witnesses against me,
 and increase your anger against me;
 relief troops come against me.
+
+### An Appeal for Relief
+
 [18] “Why then did you bring me out from the womb?
 I should have died
 and no eye would have seen me!
@@ -568,6 +647,7 @@ where even the light is like darkness.”
 # Job
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### Zophar’s First Speech to Job
 
@@ -622,6 +702,7 @@ their one hope is to breathe their last.”
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### Job’s Reply to Zophar
 
 [1] Then Job answered:
@@ -640,6 +721,9 @@ a fate for those whose feet slip.
 [6] But the tents of robbers are peaceful,
 and those who provoke God are confident —
 who carry their god in their hands.
+
+### Knowledge of God’s Wisdom
+
 [7] “But now, ask the animals and they will teach you,
 or the birds of the sky and they will tell you.
 [8] Or speak to the earth and it will teach you,
@@ -685,6 +769,7 @@ he makes them stagger like drunkards.
 # Job
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### Job Pleads His Cause to God
 
@@ -748,6 +833,7 @@ like a garment eaten by moths.
 
 ## Chapter 14 <!-- scripture:14 -->
 
+
 ### The Brevity of Life
 
 [1] “Man, born of woman,
@@ -763,6 +849,9 @@ the number of his months is under your control;
 you have set his limit and he cannot pass it.
 [6] Look away from him and let him desist,
 until he fulfills his time like a hired man.
+
+### The Inevitability of Death
+
 [7] “But there is hope for a tree:
 If it is cut down, it will sprout again,
 and its new shoots will not fail.
@@ -778,6 +867,9 @@ or a river drains away and dries up,
 until the heavens are no more,
 they will not awake
 nor arise from their sleep.
+
+### The Possibility of Another Life
+
 [13] “O that you would hide me in Sheol,
 and conceal me till your anger has passed!
 O that you would set me a time
@@ -787,6 +879,9 @@ All the days of my hard service I will wait
 until my release comes.
 [15] You will call and I —I will answer you;
 you will long for the creature you have made.
+
+### The Present Condition
+
 [16] “Surely now you count my steps;
 then you would not mark my sin.
 [17] My offenses would be sealed up in a bag;
@@ -809,6 +904,7 @@ and he mourns for himself.”
 # Job
 
 ## Chapter 15 <!-- scripture:15 -->
+
 
 ### Eliphaz’s Second Speech
 
@@ -894,6 +990,7 @@ their belly prepares deception.”
 
 ## Chapter 16 <!-- scripture:16 -->
 
+
 ### Job’s Reply to Eliphaz
 
 [1] Then Job replied:
@@ -907,6 +1004,9 @@ I could pile up words against you
 and I could shake my head at you.
 [5] But I would strengthen you with my words;
 comfort from my lips would bring you relief.
+
+### Abandonment by God and Man
+
 [6] “But if I speak, my pain is not relieved,
 and if I refrain from speaking,
 how much of it goes away?
@@ -938,6 +1038,9 @@ and buried my horn in the dust;
 and on my eyelids there is a deep darkness,
 [17] although there is no violence in my hands
 and my prayer is pure.
+
+### An Appeal to God as Witness
+
 [18] “O earth, do not cover my blood,
 nor let there be a secret place for my cry.
 [19] Even now my witness is in heaven;
@@ -951,8 +1054,6 @@ and then I will go on the way of no return.
 # Job
 
 ## Chapter 17 <!-- scripture:17 -->
-
-### Anticipation of Death
 
 [1] My spirit is broken,
 my days have faded out,
@@ -973,6 +1074,9 @@ my whole frame is but a shadow.
 the innocent man is troubled with the godless.
 [9] But the righteous man holds to his way,
 and the one with clean hands grows stronger.
+
+### Anticipation of Death
+
 [10] “But turn, all of you, and come now!
 I will not find a wise man among you.
 [11] My days have passed, my plans are shattered,
@@ -991,6 +1095,7 @@ Will we descend together into the dust?”
 # Job
 
 ## Chapter 18 <!-- scripture:18 -->
+
 
 ### Bildad’s Second Speech
 
@@ -1039,6 +1144,7 @@ and this is the place of one who has not known God.’”
 
 ## Chapter 19 <!-- scripture:19 -->
 
+
 ### Job’s Reply to Bildad
 
 [1] Then Job answered:
@@ -1052,6 +1158,9 @@ my error remains solely my concern!
 and plead my disgrace against me,
 [6] know then that God has wronged me
 and encircled me with his net.
+
+### Job’s Abandonment and Affliction
+
 [7] “If I cry out, ‘Violence!’
 I receive no answer;
 I cry for help,
@@ -1067,6 +1176,9 @@ and he considers me among his enemies.
 [12] His troops advance together;
 they throw up a siege ramp against me,
 and they camp around my tent.
+
+### Job’s Forsaken State
+
 [13] “He has put my relatives far from me;
 my acquaintances only turn away from me.
 [14] My kinsmen have failed me;
@@ -1088,6 +1200,9 @@ I have escaped alive with only the skin of my teeth.
 for the hand of God has struck me.
 [22] Why do you pursue me like God does?
 Will you never be satiated with my flesh?
+
+### Job’s Assurance of Vindication
+
 [23] “O that my words were written down!
 O that they were written on a scroll!
 [24] O that with an iron chisel and with lead
@@ -1110,6 +1225,7 @@ that there is judgment.”
 # Job
 
 ## Chapter 20 <!-- scripture:20 -->
+
 
 ### Zophar’s Second Speech
 
@@ -1180,6 +1296,7 @@ and the heritage of his appointment from God.”
 
 ## Chapter 21 <!-- scripture:21 -->
 
+
 ### Job’s Reply to Zophar
 
 [1] Then Job answered:
@@ -1193,6 +1310,9 @@ If so, why should I not be impatient?
 put your hands over your mouths.
 [6] For, when I think about this, I am terrified
 and my body feels a shudder.
+
+### The Wicked Prosper
+
 [7] “Why do the wicked go on living,
 grow old, even increase in power?
 [8] Their children are firmly established in their presence,
@@ -1214,6 +1334,9 @@ What would we gain
 if we were to pray to him?’
 [16] But their prosperity is not their own doing.
 The counsel of the wicked is far from me!
+
+### How Often Do the Wicked Suffer?
+
 [17] “How often is the lamp of the wicked extinguished?
 How often does their misfortune come upon them?
 How often does God apportion pain to them in his anger?
@@ -1230,6 +1353,9 @@ when the number of his months
 has been broken off?
 [22] Can anyone teach God knowledge,
 since he judges those that are on high?
+
+### Death Levels Everything
+
 [23] “One man dies in his full vigor,
 completely secure and prosperous,
 [24] his body well nourished,
@@ -1238,6 +1364,9 @@ and the marrow of his bones moist.
 never having tasted anything good.
 [26] Together they lie down in the dust,
 and worms cover over them both.
+
+### Futile Words, Deceptive Answers
+
 [27] “Yes, I know what you are thinking,
 the schemes by which you would wrong me.
 [28] For you say,
@@ -1261,6 +1390,7 @@ Nothing is left of your answers but deception!”
 # Job
 
 ## Chapter 22 <!-- scripture:22 -->
+
 
 ### Eliphaz’s Third Speech
 
@@ -1335,6 +1465,7 @@ who will escape through the cleanness of your hands.”
 
 ## Chapter 23 <!-- scripture:23 -->
 
+
 ### Job’s Reply to Eliphaz
 
 [1] Then Job answered:
@@ -1351,6 +1482,9 @@ No, he would only pay attention to me.
 [7] There an upright person
 could present his case before him,
 and I would be delivered forever from my judge.
+
+### The Inaccessibility and Power of God
+
 [8] “If I go to the east, he is not there,
 and to the west, yet I do not perceive him.
 [9] In the north when he is at work,
@@ -1377,6 +1511,7 @@ that covered my face.
 # Job
 
 ## Chapter 24 <!-- scripture:24 -->
+
 
 ### The Apparent Indifference of God
 
@@ -1443,6 +1578,7 @@ and reduce my words to nothing?”
 
 ## Chapter 25 <!-- scripture:25 -->
 
+
 ### Bildad’s Third Speech
 
 [1] Then Bildad the Shuhite answered:
@@ -1460,6 +1596,7 @@ a son of man, who is only a worm!”
 
 ## Chapter 26 <!-- scripture:26 -->
 
+
 ### Job’s Reply to Bildad
 
 [1] Then Job replied:
@@ -1469,6 +1606,9 @@ How you have saved the person who has no strength!
 and abundantly revealed your insight!
 [4] To whom did you utter these words?
 And whose spirit has come forth from your mouth?
+
+### A Better Description of God’s Greatness
+
 [5] “The dead tremble —
 those beneath the waters
 and all that live in them.
@@ -1495,6 +1635,7 @@ But who can understand the thunder of his power?”
 
 ## Chapter 27 <!-- scripture:27 -->
 
+
 ### A Protest of Innocence
 
 [1] And Job took up his discourse again:
@@ -1510,6 +1651,9 @@ until I die, I will not set aside my integrity!
 and never let it go;
 my conscience will not reproach me
 for as long as I live.
+
+### The Condition of the Wicked
+
 [7] “May my enemy be like the wicked,
 my adversary like the unrighteous.
 [8] For what hope does the godless have when he is cut off,
@@ -1550,7 +1694,11 @@ and hisses him away from his place.
 
 ## Chapter 28 <!-- scripture:28 -->
 
+
 ### III. Job’s Search for Wisdom (28:1—28)
+
+
+### No Known Road to Wisdom
 
 [1] “Surely there is a mine for silver,
 and a place where gold is refined.
@@ -1576,6 +1724,9 @@ he has overturned mountains at their bases.
 his eyes have spotted every precious thing.
 [11] He has searched the sources of the rivers
 and what was hidden he has brought into the light.
+
+### No Price Can Buy Wisdom
+
 [12] “But wisdom—where can it be found?
 Where is the place of understanding?
 [13] Mankind does not know its place;
@@ -1592,6 +1743,9 @@ nor can a vase of gold match its worth.
 the price of wisdom is more than pearls.
 [19] The topaz of Cush cannot be compared with it;
 it cannot be purchased with pure gold.
+
+### God Alone Has Wisdom
+
 [20] “But wisdom—where does it come from?
 Where is the place of understanding?
 [21] For it has been hidden
@@ -1616,7 +1770,11 @@ and to turn away from evil is understanding.’”
 
 ## Chapter 29 <!-- scripture:29 -->
 
+
 ### IV. Job’s Concluding Soliloquy (29:1—31:40)
+
+
+### Job Recalls His Former Condition
 
 [1] Then Job continued his speech:
 [2] “O that I could be as I was
@@ -1640,6 +1798,9 @@ and the old men would get up and remain standing;
 and covered their mouths with their hands;
 [10] the voices of the nobles fell silent,
 and their tongues stuck to the roof of their mouths.
+
+### Job’s Benevolence
+
 [11] “As soon as the ear heard these things, it blessed me,
 and when the eye saw them, it bore witness to me,
 [12] for I rescued the poor who cried out for help,
@@ -1654,12 +1815,18 @@ and feet for the lame;
 and I investigated the case of the person I did not know;
 [17] I broke the fangs of the wicked,
 and made him drop his prey from his teeth.
+
+### Job’s Confidence
+
 [18] “Then I thought, ‘I will die in my own home,
 my days as numerous as the grains of sand.
 [19] My roots reach the water,
 and the dew lies on my branches all night long.
 [20] My glory will always be fresh in me,
 and my bow ever new in my hand.’
+
+### Job’s Reputation
+
 [21] “People listened to me and waited silently;
 they kept silent for my advice.
 [22] After I had spoken, they did not respond;
@@ -1675,6 +1842,7 @@ I was like one who comforts mourners.
 # Job
 
 ## Chapter 30 <!-- scripture:30 -->
+
 
 ### Job’s Present Misery
 
@@ -1699,6 +1867,9 @@ in the holes of the ground, and among the rocks.
 and were huddled together under the nettles.
 [8] Sons of senseless and nameless people,
 they were driven out of the land with whips.
+
+### Job’s Indignities
+
 [9] “And now I have become their taunt song;
 I have become a byword among them.
 [10] They detest me and maintain their distance;
@@ -1716,6 +1887,9 @@ amid the crash they come rolling in.
 [15] Terrors are turned loose on me;
 they drive away my honor like the wind,
 and as a cloud my deliverance has passed away.
+
+### Job’s Despondency
+
 [16] “And now my soul pours itself out within me;
 days of suffering take hold of me.
 [17] Night pierces my bones;
@@ -1732,6 +1906,9 @@ with the strength of your hand you attack me.
 you toss me about in the storm.
 [23] I know that you are bringing me to death,
 to the meeting place for all the living.
+
+### The Contrast With the Past
+
 [24] “Surely one does not stretch out his hand
 against a broken man
 when he cries for help in his distress.
@@ -1752,6 +1929,7 @@ and my flute for the sound of weeping.
 # Job
 
 ## Chapter 31 <!-- scripture:31 -->
+
 
 ### Job Vindicates Himself
 
@@ -1828,6 +2006,9 @@ by hiding iniquity in my heart,
 and the contempt of families terrified me,
 so that I remained silent
 and would not go outdoors—
+
+### Job’s Appeal
+
 [35] “If only I had someone to hear me!
 Here is my signature —
 let the Almighty answer me!
@@ -1837,6 +2018,9 @@ that my accuser had written.
 I would bind it on me like a crown;
 [37] I would give him an accounting of my steps;
 like a prince I would draw near to him.
+
+### Job’s Final Solemn Oath
+
 [38] “If my land cried out against me
 and all its furrows wept together,
 [39] if I have eaten its produce without paying,
@@ -1847,13 +2031,20 @@ and in place of barley, noxious weeds.”
 
 ## Chapter 32 <!-- scripture:32 -->
 
+
 ### V. The Speeches of Elihu (32:1—37:24)
+
+
+### Elihu’s First Speech
 
 [1] So these three men refused to answer Job further, because he was righteous in his own eyes.
 [2] Then Elihu son of Barakel the Buzite, of the family of Ram, became very angry. He was angry with Job for justifying himself rather than God.
 [3] With Job’s three friends he was also angry, because they could not find an answer, and so declared Job guilty.
 [4] Now Elihu had waited before speaking to Job, because the others were older than he was.
 [5] But when Elihu saw that the three men had no further reply, he became very angry.
+
+### Elihu Claims Wisdom
+
 [6] So Elihu son of Barakel the Buzite spoke up:
 “I am young, but you are elderly;
 that is why I was fearful,
@@ -1876,6 +2067,9 @@ not one of you was answering his statements.
 God will refute him, not man.’
 [14] Job has not directed his words to me,
 and so I will not reply to him with your arguments.
+
+### Job’s Friends Failed to Answer
+
 [15] “They are dismayed and cannot answer anymore;
 they have nothing left to say.
 [16] And I have waited. But because they do not speak,
@@ -1896,6 +2090,7 @@ if I did, my Creator would quickly do away with me.
 
 ## Chapter 33 <!-- scripture:33 -->
 
+
 ### Elihu Invites Job’s Attention
 
 [1] “But now, O Job, listen to my words,
@@ -1913,6 +2108,9 @@ and take your stand.
 I too have been molded from clay.
 [7] Therefore no fear of me should terrify you,
 nor should my pressure be heavy on you.
+
+### Elihu Rejects Job’s Plea of Innocence
+
 [8] “Indeed, you have said in my hearing
 (I heard the sound of the words!):
 [9] ‘I am pure, without transgression;
@@ -1925,6 +2123,9 @@ he watches closely all my paths.’
 for God is greater than a human being.
 [13] Why do you contend against him,
 that he does not answer all a person’s words?
+
+### Elihu Disagrees With Job’s View of God
+
 [14] “For God speaks, the first time in one way,
 the second time in another,
 though a person does not perceive it.
@@ -1964,6 +2165,9 @@ but I was not punished according to what I deserved.
 [28] He redeemed my life
 from going down to the place of corruption,
 and my life sees the light!’
+
+### Elihu’s Appeal to Job
+
 [29] “Indeed, God does all these things,
 twice, three times, in his dealings with a person,
 [30] to turn back his life from the place of corruption,
@@ -1977,6 +2181,7 @@ be silent, and I will teach you wisdom.”
 # Job
 
 ## Chapter 34 <!-- scripture:34 -->
+
 
 ### Elihu’s Second Speech
 
@@ -1998,6 +2203,9 @@ who drinks derision like water?
 he goes along with wicked men.
 [9] For he says, ‘It does not profit a man
 when he makes his delight with God.’
+
+### God is Not Unjust
+
 [10] “Therefore, listen to me, you men of understanding.
 Far be it from God to do wickedness,
 from the Almighty to do evil.
@@ -2012,6 +2220,9 @@ And who put him over the whole world?
 and gather in his spirit and his breath,
 [15] all flesh would perish together
 and human beings would return to dust.
+
+### God Is Impartial and Omniscient
+
 [16] “If you have understanding, listen to this,
 hear what I have to say.
 [17] Do you really think
@@ -2049,6 +2260,9 @@ If he hides his face, then who can see him?
 Yet he is over the individual and the nation alike,
 [30] so that the godless man should not rule,
 and not lay snares for the people.
+
+### Job Is Foolish to Rebel
+
 [31] “Has anyone said to God,
 ‘I have endured chastisement,
 but I will not act wrongly any more;
@@ -2070,6 +2284,7 @@ and multiplies his words against God.”
 # Job
 
 ## Chapter 35 <!-- scripture:35 -->
+
 
 ### Elihu’s Third Speech
 
@@ -2112,6 +2327,7 @@ without knowledge he multiplies words.”
 # Job
 
 ## Chapter 36 <!-- scripture:36 -->
+
 
 ### Elihu’s Fourth Speech
 
@@ -2173,6 +2389,9 @@ Or said to him, ‘You have done what is wicked’?
 which people have praised in song.
 [25] All humanity has seen it;
 people gaze on it from afar.
+
+### The Work and Wisdom of God
+
 [26] “Yes, God is great—beyond our knowledge!
 The number of his years is unsearchable.
 [27] He draws up drops of water;
@@ -2253,7 +2472,11 @@ for he does not regard all the wise in heart.”
 
 ## Chapter 38 <!-- scripture:38 -->
 
+
 ### VI. The Divine Speeches (38:1—42:6)
+
+
+### The Lord’s First Speech
 
 [1] Then the Lord answered Job out of the whirlwind:
 [2] “Who is this who darkens counsel
@@ -2261,6 +2484,9 @@ with words without knowledge?
 [3] Get ready for a difficult task like a man;
 I will question you
 and you will inform me.
+
+### God’s questions to Job
+
 [4] “Where were you
 when I laid the foundation of the earth?
 Tell me, if you possess understanding.
@@ -2408,6 +2634,7 @@ there it is.”
 
 ## Chapter 40 <!-- scripture:40 -->
 
+
 ### Job’s Reply to God’s Challenge
 
 [1] Then the Lord answered Job:
@@ -2417,6 +2644,9 @@ Let the person who accuses God give him an answer!”
 I put my hand over my mouth to silence myself.
 [5] I have spoken once, but I cannot answer;
 twice, but I will say no more.”
+
+### The Lord’s Second Speech
+
 [6] Then the Lord answered Job from the whirlwind:
 [7] “Get ready for a difficult task like a man.
 I will question you and you will inform me.
@@ -2434,6 +2664,9 @@ crush the wicked on the spot.
 imprison them in the grave.
 [14] Then I myself will acknowledge to you
 that your own right hand can save you.
+
+### The Description of Behemoth
+
 [15] “Look now at Behemoth, which I made as I made you;
 it eats grass like the ox.
 [16] Look at its strength in its loins,
@@ -2459,6 +2692,7 @@ or pierce its nose with a snare?
 # Job
 
 ## Chapter 41 <!-- scripture:41 -->
+
 
 ### The Description of Leviathan
 
@@ -2538,6 +2772,7 @@ it is king over all that are proud.”
 
 ## Chapter 42 <!-- scripture:42 -->
 
+
 ### Job’s Confession
 
 [1] Then Job answered the Lord:
@@ -2552,6 +2787,12 @@ I will question you, and you will answer me.’
 but now my eye has seen you.
 [6] Therefore I despise myself,
 and I repent in dust and ashes!”
+
+### VII. The Epilogue (42:7—17)
+
+
+### Job’s Restoration
+
 [7] After the Lord had spoken these things to Job, he said to Eliphaz the Temanite, “My anger is stirred up against you and your two friends, because you have not spoken about me what is right, as my servant Job has.
 [8] So now take seven bulls and seven rams and go to my servant Job and offer a burnt offering for yourselves. And my servant Job will intercede for you, and I will respect him, so that I do not deal with you according to your folly, because you have not spoken about me what is right, as my servant Job has.”
 [9] So they went, Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite, and did just as the Lord had told them; and the Lord had respect for Job.

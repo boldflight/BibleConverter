@@ -156,7 +156,6 @@ struct BibleConverter: ParsableCommand {
     
     func convertToMarkdown(_ xmlString: String) throws -> (String?, String) {
         var markdown = ""
-        var regularVerses = [String]()
         var bookName = ""
         
         do {
@@ -169,43 +168,44 @@ struct BibleConverter: ParsableCommand {
                 markdown += "## Chapter \(chapterNumber) <!-- scripture:\(chapterNumber) -->\n\n"
             }
             
-            if let title = try document.select("p.paragraphtitle").first() {
-                markdown += "### \(try title.text())\n\n"
-            }
+            let elements = try document.select("p.paragraphtitle, p.bodytext, p.poetry")
             
-            for p in try document.select("p.bodytext, p.poetry") {
-                let className = try p.className()
+            for element in elements {
+                let className = try element.className()
                 
-                for smcaps in try p.select("span.smcaps") {
+                if className == "paragraphtitle" {
+                    markdown += "\n### \(try element.text())\n\n"
+                    continue
+                }
+                
+                for smcaps in try element.select("span.smcaps") {
                     let text = try smcaps.text()
                     try smcaps.text(text)
                 }
                 
                 if className == "poetry" {
-                    if let verse = try p.select("span.verse").first() {
+                    if let verse = try element.select("span.verse").first() {
                         let verseNumber = try verse.text().split(separator: ":")[1]
                         try verse.remove()
-                        let verseText = try p.text().trimmingCharacters(in: .whitespaces)
-                        regularVerses.append("[\(verseNumber)] \(verseText)\n")
+                        let verseText = try element.text().trimmingCharacters(in: .whitespaces)
+                        markdown += "[\(verseNumber)] \(verseText)\n"
                     } else {
-                        let line = try p.text().trimmingCharacters(in: .whitespaces)
+                        let line = try element.text().trimmingCharacters(in: .whitespaces)
                         if !line.isEmpty {
-                            regularVerses.append(line + "\n")
+                            markdown += line + "\n"
                         }
                     }
-                } else {
-                    let verseContent = try p.text()
+                } else if className == "bodytext" {
+                    let verseContent = try element.text()
                     let regex = /(\d+:\d+)\s(.+?)(?=\d+:\d+|\n|$)/
                     let matches = verseContent.matches(of: regex)
                     for match in matches {
                         let verseNumber = match.1.split(separator: ":")[1]
                         let verseText = match.2.trimmingCharacters(in: .whitespaces)
-                        regularVerses.append("[\(verseNumber)] \(verseText)\n")
+                        markdown += "[\(verseNumber)] \(verseText)\n"
                     }
                 }
             }
-            
-            markdown += regularVerses.joined()
             
         } catch {
             print("Error parsing XML: \(error)")

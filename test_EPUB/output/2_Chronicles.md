@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The Lord Gives Solomon Wisdom
 
 [1] Solomon son of David solidified his royal authority, for the Lord his God was with him and magnified him greatly.
@@ -17,6 +18,9 @@
 [11] God said to Solomon, “Because you desire this, and did not ask for riches, wealth, and honor, or for vengeance on your enemies, and because you did not ask for long life, but requested wisdom and discernment so you can make judicial decisions for my people over whom I have made you king,
 [12] you are granted wisdom and discernment. Furthermore I am giving you riches, wealth, and honor surpassing that of any king before or after you.”
 [13] Solomon left the meeting tent at the worship center in Gibeon and went to Jerusalem, where he reigned over Israel.
+
+### Solomon’s Wealth
+
 [14] Solomon accumulated chariots and horses. He had 1,400 chariots and 12,000 horses . He kept them in assigned cities and in Jerusalem.
 [15] The king made silver and gold as plentiful in Jerusalem as stones; cedar was as plentiful as sycamore fig trees are in the foothills.
 [16] Solomon acquired his horses from Egypt and from Que; the king’s traders purchased them from Que.
@@ -24,6 +28,7 @@
 # 2 Chronicles
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Solomon Gathers Building Materials for the Temple
 
@@ -48,6 +53,7 @@
 # 2 Chronicles
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### The Building of the Temple
 
@@ -94,13 +100,14 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
-### Solomon Moves the Ark into the Temple
-
 [19] Solomon also made these items for God’s temple: the gold altar, the tables on which the Bread of the Presence was kept,
 [20] the pure gold lampstands and their lamps which burned as specified at the entrance to the inner sanctuary,
 [21] the pure gold flower-shaped ornaments, lamps, and tongs,
 [22] the pure gold trimming shears, basins, pans, and censers, and the gold door sockets for the inner sanctuary (the Most Holy Place) and for the doors of the main hall of the temple.
 [1] When Solomon had finished constructing the Lord’s temple, he put the holy items that belonged to his father David (the silver, gold, and all the other articles) in the treasuries of God’s temple.
+
+### Solomon Moves the Ark into the Temple
+
 [2] Then Solomon convened Israel’s elders—all the leaders of the Israelite tribes and families—in Jerusalem, so they could witness the transferal of the ark of the covenant of the Lord from the City of David (that is, Zion).
 [3] All the men of Israel assembled before the king during the festival in the seventh month.
 [4] When all Israel’s elders had arrived, the Levites lifted the ark.
@@ -164,6 +171,7 @@
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### Solomon Dedicates the Temple
 
 [1] When Solomon finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the Lord’s splendor filled the temple.
@@ -176,6 +184,9 @@
 [8] At that time Solomon and all Israel with him celebrated a festival for seven days. This great assembly included people from Lebo Hamath in the north to the Stream of Egypt in the south.
 [9] On the eighth day they held an assembly, for they had dedicated the altar for seven days and celebrated the festival for seven more days.
 [10] On the twenty-third day of the seventh month, Solomon sent the people home. They left happy and contented because of the good the Lord had done for David, Solomon, and his people Israel.
+
+### The Lord Gives Solomon a Promise and a Warning
+
 [11] After Solomon finished building the Lord’s temple and the royal palace and accomplished all his plans for the Lord’s temple and his royal palace,
 [12] the Lord appeared to Solomon at night and said to him: “I have answered your prayer and chosen this place to be my temple where sacrifices are to be made.
 [13] When I close up the sky so that it doesn’t rain, or command locusts to devour the land’s vegetation, or send a plague among my people,
@@ -191,6 +202,7 @@
 # 2 Chronicles
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### Building Projects and Commercial Efforts
 
@@ -216,6 +228,7 @@
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### Solomon Entertains a Queen
 
 [1] When the queen of Sheba heard about Solomon, she came to challenge him with difficult questions. She arrived in Jerusalem with a great display of pomp, bringing with her camels carrying spices, a very large quantity of gold, and precious gems. She visited Solomon and discussed with him everything that was on her mind.
@@ -230,6 +243,9 @@
 [10] (Huram’s servants, aided by Solomon’s servants, brought gold from Ophir, as well as fine timber and precious gems.
 [11] With the timber the king made steps for the Lord’s temple and royal palace as well as stringed instruments for the musicians. No one had seen anything like them in the land of Judah before that.)
 [12] King Solomon gave the queen of Sheba everything she requested, more than what she had brought him. Then she left and returned to her homeland with her attendants.
+
+### Solomon’s Wealth
+
 [13] Solomon received 666 talents of gold per year,
 [14] besides what he collected from the merchants and traders. All the Arabian kings and the governors of the land also brought gold and silver to Solomon.
 [15] King Solomon made 200 large shields of hammered gold; 600 measures of hammered gold were used for each shield.
@@ -246,12 +262,16 @@
 [26] He ruled all the kingdoms from the Euphrates River to the land of the Philistines as far as the border of Egypt.
 [27] The king made silver as plentiful in Jerusalem as stones; cedar was as plentiful as sycamore fig trees are in the foothills.
 [28] Solomon acquired horses from Egypt and from all the lands.
+
+### Solomon’s Reign Ends
+
 [29] The rest of the events of Solomon’s reign, from start to finish, are recorded in the Annals of Nathan the Prophet, the Prophecy of Ahijah the Shilonite, and the Vision of Iddo the Seer pertaining to Jeroboam son of Nebat.
 [30] Solomon ruled over all Israel from Jerusalem for forty years.
 [31] Then Solomon passed away and was buried in the city of his father David. His son Rehoboam replaced him as king.
 # 2 Chronicles
 
 ## Chapter 10 <!-- scripture:10 -->
+
 
 ### The Northern Tribes Rebel
 
@@ -278,12 +298,13 @@
 
 ## Chapter 11 <!-- scripture:11 -->
 
-### Rehoboam’s Reign
-
 [1] When Rehoboam arrived in Jerusalem, he summoned 180,000 skilled warriors from Judah and Benjamin to attack Israel and restore the kingdom to Rehoboam.
 [2] But the Lord’s message came to the prophet Shemaiah,
 [3] “Say this to King Rehoboam son of Solomon of Judah and to all the Israelites in Judah and Benjamin,
 [4] ‘The Lord says this: “Do not attack and make war with your brothers. Each of you go home, for I have caused this to happen.”’” They obeyed the Lord and called off the attack against Jeroboam.
+
+### Rehoboam’s Reign
+
 [5] Rehoboam lived in Jerusalem; he built up these fortified cities throughout Judah:
 [6] Bethlehem, Etam, Tekoa,
 [7] Beth Zur, Soco, Adullam,
@@ -327,6 +348,7 @@
 
 ## Chapter 13 <!-- scripture:13 -->
 
+
 ### Abijah’s Reign
 
 [1] In the eighteenth year of the reign of King Jeroboam, Abijah became king over Judah.
@@ -355,9 +377,10 @@
 
 ## Chapter 14 <!-- scripture:14 -->
 
+[1] (
+
 ### Asa’s Religious and Military Accomplishments
 
-[1] (
 [2] (
 [3] He removed the pagan altars and the high places, smashed the sacred pillars, and cut down the Asherah poles.
 [4] He ordered Judah to seek the Lord God of their ancestors and to observe his law and commands.
@@ -398,6 +421,7 @@
 
 ## Chapter 16 <!-- scripture:16 -->
 
+
 ### Asa’s Failures
 
 [19] There was no more war until the thirty-fifth year of Asa’s reign.
@@ -411,6 +435,9 @@
 [8] Did not the Cushites and Libyans have a huge army with chariots and a very large number of horsemen? But when you relied on the Lord, he handed them over to you!
 [9] Certainly the Lord watches the whole earth carefully and is ready to strengthen those who are devoted to him. You have acted foolishly in this matter; from now on you will have war.”
 [10] Asa was so angry at the prophet, he put him in jail. Asa also oppressed some of the people at that time.
+
+### Asa’s Reign Ends
+
 [11] The events of Asa’s reign, from start to finish, are recorded in the Scroll of the Kings of Judah and Israel.
 [12] In the thirty-ninth year of his reign, Asa developed a foot disease and his disease became severe. Yet even in his disease, he did not seek the Lord, but only the doctors.
 [13] Asa passed away in the forty-first year of his reign.
@@ -418,6 +445,7 @@
 # 2 Chronicles
 
 ## Chapter 17 <!-- scripture:17 -->
+
 
 ### Jehoshaphat Becomes King
 
@@ -443,6 +471,7 @@
 # 2 Chronicles
 
 ## Chapter 18 <!-- scripture:18 -->
+
 
 ### Jehoshaphat Allies with Ahab
 
@@ -484,11 +513,12 @@
 
 ## Chapter 19 <!-- scripture:19 -->
 
-### Jehoshaphat Appoints Judges
-
 [1] When King Jehoshaphat of Judah returned home safely to Jerusalem,
 [2] the prophet Jehu son of Hanani confronted him; he said to King Jehoshaphat, “Is it right to help the wicked and be an ally of those who oppose the Lord? Because you have done this, the Lord is angry with you!
 [3] Nevertheless you have done some good things; you removed the Asherah poles from the land and you were determined to follow God.”
+
+### Jehoshaphat Appoints Judges
+
 [4] Jehoshaphat lived in Jerusalem. He went out among the people from Beer Sheba to the hill country of Ephraim and encouraged them to follow the Lord God of their ancestors.
 [5] He appointed judges throughout the land and in each of the fortified cities of Judah.
 [6] He told the judges, “Be careful what you do, for you are not judging for men, but for the Lord, who will be with you when you make judicial decisions.
@@ -500,6 +530,7 @@
 # 2 Chronicles
 
 ## Chapter 20 <!-- scripture:20 -->
+
 
 ### The Lord Gives Jehoshaphat Military Success
 
@@ -533,6 +564,9 @@
 [28] They entered Jerusalem to the sound of stringed instruments and trumpets and proceeded to the temple of the Lord.
 [29] All the kingdoms of the surrounding lands were afraid of God when they heard how the Lord had fought against Israel’s enemies.
 [30] Jehoshaphat’s kingdom enjoyed peace; his God made him secure on every side.
+
+### Jehoshaphat’s Reign Ends
+
 [31] Jehoshaphat reigned over Judah. He was thirty-five years old when he became king and he reigned for twenty-five years in Jerusalem. His mother was Azubah, the daughter of Shilhi.
 [32] He followed in his father Asa’s footsteps and was careful to do what the Lord approved.
 [33] However, the high places were not eliminated; the people were still not devoted to the God of their ancestors.
@@ -544,9 +578,10 @@
 
 ## Chapter 21 <!-- scripture:21 -->
 
+[1] Jehoshaphat passed away and was buried with his ancestors in the City of David. His son Jehoram replaced him as king.
+
 ### Jehoram’s Reign
 
-[1] Jehoshaphat passed away and was buried with his ancestors in the City of David. His son Jehoram replaced him as king.
 [2] His brothers, Jehoshaphat’s sons, were Azariah, Jechiel, Zechariah, Azariahu, Michael, and Shephatiah. All these were sons of King Jehoshaphat of Israel.
 [3] Their father gave them many presents, including silver, gold, and other precious items, along with fortified cities in Judah. But he gave the kingdom to Jehoram because he was the firstborn.
 [4] Jehoram took control of his father’s kingdom and became powerful. Then he killed all his brothers, as well as some of the officials of Israel.
@@ -570,6 +605,7 @@
 
 ## Chapter 22 <!-- scripture:22 -->
 
+
 ### Ahaziah’s Reign
 
 [1] The residents of Jerusalem made his youngest son Ahaziah king in his place, for the raiding party that invaded the camp with the Arabs had killed all the older sons. So Ahaziah son of Jehoram became king of Judah.
@@ -581,6 +617,9 @@
 [7] God brought about Ahaziah’s downfall through his visit to Joram. When Ahaziah arrived, he went out with Joram to meet Jehu son of Nimshi, whom the Lord had commissioned to wipe out Ahab’s family.
 [8] While Jehu was dishing out punishment to Ahab’s family, he discovered the officials of Judah and the sons of Ahaziah’s relatives who were serving Ahaziah and killed them.
 [9] He looked for Ahaziah, who was captured while hiding in Samaria. They brought him to Jehu and then executed him. They did give him a burial, for they reasoned, “He is the son of Jehoshaphat, who sought the Lord with his whole heart.” There was no one in Ahaziah’s family strong enough to rule in his place.
+
+### Athaliah is Eliminated
+
 [10] When Athaliah the mother of Ahaziah saw that her son was dead, she was determined to destroy the entire royal line of Judah.
 [11] So Jehoshabeath, the daughter of King Jehoram, took Ahaziah’s son Joash and stole him away from the rest of the royal descendants who were to be executed. She hid him and his nurse in the room where the bed covers were stored. So Jehoshabeath the daughter of King Jehoram, wife of Jehoiada the priest and sister of Ahaziah, hid him from Athaliah so she could not execute him.
 [12] He remained in hiding in God’s temple for six years while Athaliah was ruling over the land.
@@ -612,6 +651,7 @@
 # 2 Chronicles
 
 ## Chapter 24 <!-- scripture:24 -->
+
 
 ### Joash’s Reign
 
@@ -645,6 +685,7 @@
 # 2 Chronicles
 
 ## Chapter 25 <!-- scripture:25 -->
+
 
 ### Amaziah’s Reign
 
@@ -680,6 +721,7 @@
 
 ## Chapter 26 <!-- scripture:26 -->
 
+
 ### Uzziah’s Reign
 
 [1] All the people of Judah took Uzziah, who was sixteen years old, and made him king in his father Amaziah’s place.
@@ -709,6 +751,7 @@
 
 ## Chapter 27 <!-- scripture:27 -->
 
+
 ### Jotham’s Reign
 
 [1] Jotham was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem. His mother was Jerusha the daughter of Zadok.
@@ -723,6 +766,7 @@
 # 2 Chronicles
 
 ## Chapter 28 <!-- scripture:28 -->
+
 
 ### Ahaz’s Reign
 
@@ -756,6 +800,7 @@
 # 2 Chronicles
 
 ## Chapter 29 <!-- scripture:29 -->
+
 
 ### Hezekiah Consecrates the Temple
 
@@ -799,6 +844,7 @@
 
 ## Chapter 30 <!-- scripture:30 -->
 
+
 ### Hezekiah Observes the Passover
 
 [1] Hezekiah sent messages throughout Israel and Judah; he even wrote letters to Ephraim and Manasseh, summoning them to come to the Lord’s temple in Jerusalem and observe a Passover celebration for the Lord God of Israel.
@@ -832,9 +878,10 @@
 
 ## Chapter 31 <!-- scripture:31 -->
 
+[1] When all this was over, the Israelites who were in the cities of Judah went out and smashed the sacred pillars, cut down the Asherah poles, and demolished all the high places and altars throughout Judah, Benjamin, Ephraim, and Manasseh. Then all the Israelites returned to their own homes in their cities.
+
 ### The People Contribute to the Temple
 
-[1] When all this was over, the Israelites who were in the cities of Judah went out and smashed the sacred pillars, cut down the Asherah poles, and demolished all the high places and altars throughout Judah, Benjamin, Ephraim, and Manasseh. Then all the Israelites returned to their own homes in their cities.
 [2] Hezekiah appointed the divisions of the priests and Levites to do their assigned tasks —to offer burnt sacrifices and present offerings and to serve, give thanks, and offer praise in the gates of the Lord’s sanctuary.
 [3] The king contributed some of what he owned for burnt sacrifices, including the morning and evening burnt sacrifices and the burnt sacrifices made on Sabbaths, new moon festivals, and at other appointed times prescribed in the law of the Lord.
 [4] He ordered the people living in Jerusalem to contribute the portion prescribed for the priests and Levites so they might be obedient to the law of the Lord.
@@ -858,6 +905,7 @@
 # 2 Chronicles
 
 ## Chapter 32 <!-- scripture:32 -->
+
 
 ### Sennacherib Invades Judah
 
@@ -884,6 +932,9 @@
 [21] The Lord sent a messenger and he wiped out all the soldiers, princes, and officers in the army of the king of Assyria. So Sennacherib returned home humiliated. When he entered the temple of his god, some of his own sons struck him down with the sword.
 [22] The Lord delivered Hezekiah and the residents of Jerusalem from the power of King Sennacherib of Assyria and from all the other nations. He made them secure on every side.
 [23] Many were bringing presents to the Lord in Jerusalem and precious gifts to King Hezekiah of Judah. From that time on he was respected by all the nations.
+
+### Hezekiah’s Shortcomings and Accomplishments
+
 [24] In those days Hezekiah was stricken with a terminal illness. He prayed to the Lord, who answered him and gave him a sign confirming that he would be healed.
 [25] But Hezekiah was ungrateful; he had a proud attitude, provoking God to be angry at him, as well as Judah and Jerusalem.
 [26] But then Hezekiah and the residents of Jerusalem humbled themselves and abandoned their pride, and the Lord was not angry with them for the rest of Hezekiah’s reign.
@@ -897,6 +948,7 @@
 # 2 Chronicles
 
 ## Chapter 33 <!-- scripture:33 -->
+
 
 ### Manasseh’s Reign
 
@@ -920,6 +972,9 @@
 [18] The rest of the events of Manasseh’s reign, including his prayer to his God and the words the prophets spoke to him in the name of the Lord God of Israel, are recorded in the Annals of the Kings of Israel.
 [19] The Annals of the Prophets include his prayer, give an account of how the Lord responded to it, record all his sins and unfaithful acts, and identify the sites where he built high places and erected Asherah poles and idols before he humbled himself.
 [20] Manasseh passed away and was buried in his palace. His son Amon replaced him as king.
+
+### Amon’s Reign
+
 [21] Amon was twenty-two years old when he became king, and he reigned for two years in Jerusalem.
 [22] He did evil in the sight of the Lord, just as his father Manasseh had done. Amon offered sacrifices to all the idols his father Manasseh had made, and worshiped them.
 [23] He did not humble himself before the Lord as his father Manasseh had done. Amon was guilty of great sin.
@@ -928,6 +983,7 @@
 # 2 Chronicles
 
 ## Chapter 34 <!-- scripture:34 -->
+
 
 ### Josiah Institutes Religious Reforms
 
@@ -968,6 +1024,7 @@
 
 ## Chapter 35 <!-- scripture:35 -->
 
+
 ### Josiah Observes the Passover
 
 [1] Josiah observed a Passover festival for the Lord in Jerusalem. They slaughtered the Passover lambs on the fourteenth day of the first month.
@@ -989,6 +1046,9 @@
 [17] So the Israelites who were present observed the Passover at that time, as well as the Feast of Unleavened Bread for seven days.
 [18] A Passover like this had not been observed in Israel since the days of Samuel the prophet. None of the kings of Israel had observed a Passover like the one celebrated by Josiah, the priests, the Levites, all the people of Judah and Israel who were there, and the residents of Jerusalem.
 [19] This Passover was observed in the eighteenth year of Josiah’s reign.
+
+### Josiah’s Reign Ends
+
 [20] After Josiah had done all this for the temple, King Necho of Egypt marched up to do battle at Carchemish on the Euphrates River. Josiah marched out to oppose him.
 [21] Necho sent messengers to him, saying, “Why are you opposing me, O king of Judah? I am not attacking you today, but the kingdom with which I am at war. God told me to hurry. Stop opposing God, who is with me, or else he will destroy you.”
 [22] But Josiah did not turn back from him; he disguised himself for battle. He did not take seriously the words of Necho which he had received from God; he went to fight him in the Plain of Megiddo.
@@ -1001,22 +1061,35 @@
 
 ## Chapter 36 <!-- scripture:36 -->
 
+
 ### Jehoahaz’s Reign
 
 [1] The people of the land took Jehoahaz son of Josiah and made him king in his father’s place in Jerusalem.
 [2] Jehoahaz was twenty-three years old when he became king, and he reigned three months in Jerusalem.
 [3] The king of Egypt prevented him from ruling in Jerusalem and imposed on the land a special tax of 100 talents of silver and a talent of gold.
 [4] The king of Egypt made Jehoahaz’s brother Eliakim king over Judah and Jerusalem, and changed his name to Jehoiakim. Necho seized his brother Jehoahaz and took him to Egypt.
+
+### Jehoiakim’s Reign
+
 [5] Jehoiakim was twenty-five years old when he became king, and he reigned for eleven years in Jerusalem. He did evil in the sight of the Lord his God.
 [6] King Nebuchadnezzar of Babylon attacked him, bound him with bronze chains, and carried him away to Babylon.
 [7] Nebuchadnezzar took some of the items in the Lord’s temple to Babylon and put them in his palace there.
 [8] The rest of the events of Jehoiakim’s reign, including the horrible sins he committed and his shortcomings, are recorded in the Scroll of the Kings of Israel and Judah. His son Jehoiachin replaced him as king.
+
+### Jehoiachin’s Reign
+
 [9] Jehoiachin was eighteen years old when he became king, and he reigned three months and ten days in Jerusalem. He did evil in the sight of the Lord.
 [10] At the beginning of the year King Nebuchadnezzar ordered him to be brought to Babylon, along with the valuable items in the Lord’s temple. In his place Nebuchadnezzar made Jehoiachin’s relative Zedekiah king over Judah and Jerusalem.
+
+### Zedekiah’s Reign
+
 [11] Zedekiah was twenty-one years old when he became king, and he ruled for eleven years in Jerusalem.
 [12] He did evil in the sight of the Lord his God. He did not humble himself before Jeremiah the prophet, the Lord’s spokesman.
 [13] He also rebelled against King Nebuchadnezzar, who had made him vow allegiance in the name of God. He was stubborn and obstinate, and refused to return to the Lord God of Israel.
 [14] All the leaders of the priests and people became more unfaithful and committed the same horrible sins practiced by the nations. They defiled the Lord’s temple which he had consecrated in Jerusalem.
+
+### The Babylonians Destroy Jerusalem
+
 [15] The Lord God of their ancestors continually warned them through his messengers, for he felt compassion for his people and his dwelling place.
 [16] But they mocked God’s messengers, despised his warnings, and ridiculed his prophets. Finally the Lord got very angry at his people and there was no one who could prevent his judgment.
 [17] He brought against them the king of the Babylonians, who slaughtered their young men in their temple. He did not spare young men or women, or even the old and aging. God handed everyone over to him.
@@ -1024,5 +1097,8 @@
 [19] They burned down God’s temple and tore down the wall of Jerusalem. They burned all its fortified buildings and destroyed all its valuable items.
 [20] He deported to Babylon all who escaped the sword. They served him and his sons until the Persian kingdom rose to power.
 [21] This took place to fulfill the Lord’s message spoken through Jeremiah and lasted until the land experienced its sabbatical years. All the time of its desolation the land rested in order to fulfill the seventy years.
+
+### Cyrus Allows the Exiles to Go Home
+
 [22] In the first year of King Cyrus of Persia, in fulfillment of the Lord’s message spoken through Jeremiah, the Lord motivated King Cyrus of Persia to issue a proclamation throughout his kingdom and also to put it in writing. It read:
 [23] “This is what King Cyrus of Persia says:

@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Introduction
 
 [1] In the eighth month of Darius’ second year, the Lord’s message came to the prophet Zechariah, son of Berechiah son of Iddo:
@@ -10,8 +11,17 @@
 [4] Do not be like your ancestors, to whom the former prophets called out, saying, ‘This is what the Lord of Heaven’s Armies has said, “Turn now from your evil wickedness.”’ But they would by no means obey me, says the Lord.
 [5] As for your ancestors, where are they? And did the prophets live forever?
 [6] But have my words and statutes, which I commanded my servants the prophets, not outlived your fathers? Then they paid attention and confessed, ‘The Lord of Heaven’s Armies has indeed done what he said he would do to us, because of our sinful ways.’”
+
+### The Introduction to the Visions
+
 [7] On the twenty-fourth day of the eleventh month, the month Shebat, in Darius’ second year, the Lord’s message came to the prophet Zechariah son of Berechiah son of Iddo:
+
+### The Content of the First Vision
+
 [8] I was attentive that night and saw a man seated on a red horse that stood among some myrtle trees in the ravine. Behind him were red, sorrel, and white horses.
+
+### The Interpretation of the First Vision
+
 [9] Then I asked one nearby, “What are these, sir?” The angelic messenger who replied to me said, “I will show you what these are.”
 [10] Then the man standing among the myrtle trees spoke up and said, “These are the ones whom the Lord has sent to walk about on the earth.”
 [11] The riders then agreed with the angel of the Lord, who was standing among the myrtle trees, “We have been walking about on the earth, and now everything is at rest and quiet.”
@@ -19,8 +29,14 @@
 [13] The Lord then addressed good, comforting words to the angelic messenger who was speaking to me.
 [14] Turning to me, the messenger then said, “Cry out that the Lord of Heaven’s Armies says, ‘I am very much moved for Jerusalem and for Zion.
 [15] But I am greatly displeased with the nations that take my grace for granted. I was a little displeased with them, but they have only made things worse for themselves.
+
+### The Oracle of Response
+
 [16] “‘Therefore,’ this is what the Lord has said, ‘I have become compassionate toward Jerusalem and will rebuild my temple in it,’ says the Lord of Heaven’s Armies. ‘Once more a surveyor’s measuring line will be stretched out over Jerusalem.’
 [17] Speak up again with the message of the Lord of Heaven’s Armies: ‘My cities will once more overflow with prosperity, and once more the Lord will comfort Zion and validate his choice of Jerusalem.’”
+
+### Vision Two: The Four Horns
+
 [18] (
 [19] So I asked the angelic messenger who spoke with me, “What are these?” He replied, “These are the horns that have scattered Judah, Israel, and Jerusalem.”
 [20] Next the Lord showed me four blacksmiths.
@@ -28,6 +44,7 @@
 # Zechariah
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Vision Three: The Surveyor
 
@@ -48,6 +65,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Vision Four: The Priest
 
 [1] Next I saw Joshua the high priest standing before the angel of the Lord, with Satan standing at his right hand to accuse him.
@@ -64,6 +82,7 @@
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Vision Five: The Menorah
 
 [1] The angelic messenger who had been speaking with me then returned and woke me, as a person is wakened from sleep.
@@ -72,6 +91,9 @@
 [4] Then I asked the messenger who spoke with me, “What are these, sir?”
 [5] He replied, “Don’t you know what these are?” So I responded, “No, sir.”
 [6] Therefore he told me, “This is the Lord’s message to Zerubbabel: ‘Not by strength and not by power, but by my Spirit,’ says the Lord of Heaven’s Armies.
+
+### Oracle of Response
+
 [7] “What are you, you great mountain? Because of Zerubbabel you will become a level plain! And he will bring forth the temple capstone with shoutings of ‘Grace! Grace!’ because of this.”
 [8] Moreover, the Lord’s message came to me as follows:
 [9] “The hands of Zerubbabel have laid the foundations of this temple, and his hands will complete it. Then you will know that the Lord of Heaven’s Armies has sent me to you.
@@ -84,12 +106,16 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Vision Six: The Flying Scroll
 
 [1] Then I turned to look, and there was a flying scroll!
 [2] Someone asked me, “What do you see?” I replied, “I see a flying scroll 30 feet long and 15 feet wide.”
 [3] The speaker went on to say, “This is a curse traveling across the whole earth. For example, according to the curse whoever steals will be removed from the community; or on the other hand (according to the curse) whoever swears falsely will suffer the same fate.”
 [4] “I will send it out,” says the Lord of Heaven’s Armies, “and it will enter the house of the thief and of the person who swears falsely in my name. It will land in the middle of his house and destroy both timber and stones.”
+
+### Vision Seven: The Ephah
+
 [5] After this the angelic messenger who had been speaking to me went out and said, “Look, see what is leaving.”
 [6] I asked, “What is it?” And he replied, “It is a basket for measuring grain that is moving away from here.” Moreover, he said, “This is their ‘eye’ throughout all the earth.”
 [7] Then a round lead cover was raised up, revealing a woman sitting inside the basket.
@@ -101,6 +127,7 @@
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Vision Eight: The Chariots
 
 [1] Once more I looked, and this time I saw four chariots emerging from between two mountains of bronze.
@@ -111,6 +138,9 @@
 [6] The chariot with the black horses is going to the north country, and the white ones are going after them, but the spotted ones are going to the south country.
 [7] All these strong ones are scattering; they have sought permission to go and walk about over the earth.” The Lord had said, “Go! Walk about over the earth!” So they are doing so.
 [8] Then he cried out to me, “Look! The ones going to the northland have brought me peace about the northland.”
+
+### A Concluding Oracle
+
 [9] The Lord’s message came to me as follows:
 [10] “Choose some people from among the exiles, namely, Heldai, Tobijah, and Jedaiah, all who have come from Babylon, and when you have done so go to the house of Josiah son of Zephaniah.
 [11] Then take some silver and gold to make a crown and set it on the head of Joshua the high priest, the son of Jehozadak.
@@ -121,6 +151,7 @@
 # Zechariah
 
 ## Chapter 7 <!-- scripture:7 -->
+
 
 ### The Hypocrisy of False Fasting
 
@@ -141,6 +172,7 @@
 # Zechariah
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### The Blessing of True Fasting
 
@@ -170,6 +202,7 @@
 # Zechariah
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### The Coming of the True King
 
@@ -204,6 +237,7 @@ and from the Euphrates River to the ends of the earth.
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### The Restoration of the True People
 
 [1] Ask the Lord for rain in the season of the late spring rains —the Lord who causes thunderstorms—and he will give everyone showers of rain and green growth in the field.
@@ -221,6 +255,7 @@ and from the Euphrates River to the ends of the earth.
 # Zechariah
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### The History and Future of Judah’s Wicked Kings
 
@@ -257,6 +292,7 @@ and his right eye become completely blind!”
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### The Repentance of Judah
 
 [1] This is an oracle, the Lord’s message concerning Israel: The Lord—he who stretches out the heavens and lays the foundations of the earth, who forms the human spirit within a person —says,
@@ -276,6 +312,7 @@ and his right eye become completely blind!”
 # Zechariah
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### The Refinement of Judah
 
@@ -302,6 +339,7 @@ and they will say, ‘The Lord is our God.’”
 # Zechariah
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### The Sovereignty of the Lord
 

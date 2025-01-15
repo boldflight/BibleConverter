@@ -2,15 +2,22 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Introduction
 
 [1] This is an oracle about Nineveh; the book of the vision of Nahum the Elkoshite:
+
+### God Takes Vengeance against His Enemies
+
 [2] The Lord is a zealous and avenging God;
 the Lord is avenging and very angry.
 The Lord takes vengeance against his foes;
 he sustains his rage against his enemies.
 [3] The Lord is slow to anger but great in power;
 the Lord will certainly not allow the wicked to go unpunished.
+
+### The Divine Warrior Destroys His Enemies but Protects His People
+
 He marches out in the whirlwind and the raging storm;
 dark storm clouds billow like dust under his feet.
 [4] He shouts a battle cry against the sea and makes it dry up;
@@ -31,6 +38,9 @@ and he protects those who seek refuge in him.
 [8] But with an overwhelming flood
 he will make a complete end of Nineveh;
 he will drive his enemies into darkness.
+
+### Denunciation and Destruction of Nineveh
+
 [9] Whatever you plot against the Lord, he will completely destroy!
 Distress will not arise a second time.
 [10] Surely they will be totally consumed
@@ -39,6 +49,9 @@ like the drink of drunkards,
 like very dry stubble.
 [11] From you, O Nineveh, one has marched forth who plots evil against the Lord,
 a wicked military strategist.
+
+### Oracle of Deliverance to Judah
+
 [12] This is what the Lord says:
 “Even though they are powerful —
 and what is more, even though their army is numerous —
@@ -47,10 +60,16 @@ Although I afflicted you,
 I will afflict you no more.
 [13] And now, I will break Assyria’s yoke bar from your neck;
 I will tear apart the shackles that are on you.”
+
+### Oracle of Judgment against the King of Nineveh
+
 [14] The Lord has issued a decree against you:
 “Your dynasty will come to an end.
 I will destroy the idols and images in the temples of your gods.
 I will desecrate your grave, because you are accursed!”
+
+### Proclamation of the Deliverance of Judah
+
 [15] (2:1) Look! A herald is running on the mountains!
 A messenger is proclaiming deliverance:
 “Celebrate your sacred festivals, O Judah!
@@ -60,6 +79,7 @@ they have been completely destroyed.”
 # Nahum
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Proclamation of the Destruction of Nineveh
 
@@ -72,6 +92,9 @@ Muster your mighty strength!
 as well as the majesty of Israel,
 though their enemies have plundered them
 and have destroyed their fields.
+
+### Prophetic Vision of the Fall of Nineveh
+
 [3] The shields of his warriors are dyed red;
 the mighty soldiers are dressed in scarlet garments.
 The chariots are in flashing metal fittings
@@ -100,6 +123,9 @@ riches of every kind of precious thing.
 [10] Destruction, devastation, and desolation!
 Hearts faint, knees tremble;
 every stomach churns, all their faces have turned pale!
+
+### Taunt against the Once-Mighty Lion
+
 [11] Where now is the den of the lions
 and the feeding place of the young lions,
 where the lion, lioness, and lion cub once prowled
@@ -108,6 +134,9 @@ and no one disturbed them?
 and strangled prey for his lionesses;
 he filled his lairs with prey
 and his dens with torn flesh.
+
+### Battle Cry of the Divine Warrior
+
 [13] “I am against you!” declares the Lord of Heaven’s Armies:
 “I will burn your chariots with fire;
 the sword will devour your young lions.
@@ -117,12 +146,16 @@ the voices of your messengers will no longer be heard.”
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Reason for Judgment: Sins of Nineveh
 
 [1] Woe to the city guilty of bloodshed!
 She is full of lies;
 she is filled with plunder;
 she has hoarded her spoil!
+
+### Portrayal of the Destruction of Nineveh
+
 [2] The chariot drivers will crack their whips;
 the chariot wheels will shake the ground.
 The chariot horses will gallop;
@@ -134,6 +167,9 @@ There will be many people slain;
 there will be piles of the dead
 and countless casualties —
 so many that people will stumble over the corpses.
+
+### Taunt against the Harlot City
+
 [4] Because you have acted like a wanton prostitute —
 a seductive mistress who practices sorcery,
 who enslaves nations by her harlotry,
@@ -149,6 +185,9 @@ I will make you a public spectacle.
 they will say, ‘Nineveh has been devastated!
 Who will lament for her?’
 There will be no one to comfort you!”
+
+### Nineveh Will Suffer the Same Fate as Thebes
+
 [8] You are no more secure than Thebes —
 she was located on the banks of the Nile;
 the waters surrounded her—
@@ -163,6 +202,9 @@ all her dignitaries were bound with chains.
 [11] You too will act like drunkards;
 you will go into hiding;
 you too will seek refuge from the enemy.
+
+### The Assyrian Defenses Will Fail
+
 [12] All your fortifications will be like fig trees with first-ripe fruit:
 If they are shaken, their figs will fall into the mouth of the eater.
 [13] Your warriors will be like women in your midst;
@@ -175,6 +217,9 @@ Make mud bricks to strengthen your walls!
 [15] There the fire will consume you;
 the sword will cut you down;
 it will devour you like the young locust would.
+
+### The Assyrian Defenders Will Flee
+
 Multiply yourself like the young locust;
 multiply yourself like the flying locust!
 [16] Increase your merchants more than the stars of heaven!
@@ -184,6 +229,9 @@ your officials are like a swarm of locusts!
 They encamp in the walls on a cold day,
 yet when the sun rises, they fly away,
 and no one knows where they are.
+
+### Concluding Dirge
+
 [18] Your shepherds are sleeping, O king of Assyria.
 Your officers are slumbering!
 Your people are scattered like sheep on the mountains,

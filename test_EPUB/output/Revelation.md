@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The Prologue
 
 [1] The revelation of Jesus Christ, which God gave him to show his servants what must happen very soon. He made it clear by sending his angel to his servant John,
@@ -32,6 +33,7 @@ This will certainly come to pass! Amen.)
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### To the Church in Ephesus
 
 [1] “To the angel of the church in Ephesus, write the following:
@@ -41,16 +43,25 @@ This will certainly come to pass! Amen.)
 [5] Therefore, remember from what high state you have fallen and repent! Do the deeds you did at the first; if not, I will come to you and remove your lampstand from its place—that is, if you do not repent.
 [6] But you do have this going for you: You hate what the Nicolaitans practice —practices I also hate.
 [7] The one who has an ear had better hear what the Spirit says to the churches. To the one who conquers, I will permit him to eat from the tree of life that is in the paradise of God.’
+
+### To the Church in Smyrna
+
 [8] “To the angel of the church in Smyrna write the following:
 [9] ‘I know the distress you are suffering and your poverty (but you are rich). I also know the slander against you by those who call themselves Jews and really are not, but are a synagogue of Satan.
 [10] Do not be afraid of the things you are about to suffer. The devil is about to have some of you thrown into prison so you may be tested, and you will experience suffering for ten days. Remain faithful even to the point of death, and I will give you the crown that is life itself.
 [11] The one who has an ear had better hear what the Spirit says to the churches. The one who conquers will in no way be harmed by the second death.’
+
+### To the Church in Pergamum
+
 [12] “To the angel of the church in Pergamum write the following:
 [13] ‘I know where you live—where Satan’s throne is. Yet you continue to cling to my name and you have not denied your faith in me, even in the days of Antipas, my faithful witness, who was killed in your city where Satan lives.
 [14] But I have a few things against you: You have some people there who follow the teaching of Balaam, who instructed Balak to put a stumbling block before the people of Israel so they would eat food sacrificed to idols and commit sexual immorality.
 [15] In the same way, there are also some among you who follow the teaching of the Nicolaitans.
 [16] Therefore, repent! If not, I will come against you quickly and make war against those people with the sword of my mouth.
 [17] The one who has an ear had better hear what the Spirit says to the churches. To the one who conquers, I will give him some of the hidden manna, and I will give him a white stone, and on that stone will be written a new name that no one can understand except the one who receives it.’
+
+### To the Church in Thyatira
+
 [18] “To the angel of the church in Thyatira write the following:
 [19] ‘I know your deeds: your love, faith, service, and steadfast endurance. In fact, your more recent deeds are greater than your earlier ones.
 [20] But I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess, and by her teaching deceives my servants to commit sexual immorality and to eat food sacrificed to idols.
@@ -68,6 +79,7 @@ and like clay jars he will break them to pieces,
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### To the Church in Sardis
 
 [1] “To the angel of the church in Sardis write the following:
@@ -76,6 +88,9 @@ and like clay jars he will break them to pieces,
 [4] But you have a few individuals in Sardis who have not stained their clothes, and they will walk with me dressed in white, because they are worthy.
 [5] The one who conquers will be dressed like them in white clothing, and I will never erase his name from the book of life, but will declare his name before my Father and before his angels.
 [6] The one who has an ear had better hear what the Spirit says to the churches.’
+
+### To the Church in Philadelphia
+
 [7] “To the angel of the church in Philadelphia write the following:
 [8] ‘I know your deeds. (Look! I have put in front of you an open door that no one can shut.) I know that you have little strength, but you have obeyed my word and have not denied my name.
 [9] Listen! I am going to make those people from the synagogue of Satan—who say they are Jews yet are not, but are lying—Look, I will make them come and bow down at your feet and acknowledge that I have loved you.
@@ -83,6 +98,9 @@ and like clay jars he will break them to pieces,
 [11] I am coming soon. Hold on to what you have so that no one can take away your crown.
 [12] The one who conquers I will make a pillar in the temple of my God, and he will never depart from it. I will write on him the name of my God and the name of the city of my God (the new Jerusalem that comes down out of heaven from my God), and my new name as well.
 [13] The one who has an ear had better hear what the Spirit says to the churches.’
+
+### To the Church in Laodicea
+
 [14] “To the angel of the church in Laodicea write the following:
 [15] ‘I know your deeds, that you are neither cold nor hot. I wish you were either cold or hot!
 [16] So because you are lukewarm, and neither hot nor cold, I am going to vomit you out of my mouth!
@@ -95,6 +113,7 @@ and like clay jars he will break them to pieces,
 # Revelation
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### The Amazing Scene in Heaven
 
@@ -117,6 +136,7 @@ and because of your will they existed and were created!”
 # Revelation
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### The Opening of the Scroll
 
@@ -149,6 +169,7 @@ be praise, honor, glory, and ruling power forever and ever!”
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### The Seven Seals
 
 [1] I looked on when the Lamb opened one of the seven seals, and I heard one of the four living creatures saying with a thunderous voice, “Come!”
@@ -171,6 +192,7 @@ be praise, honor, glory, and ruling power forever and ever!”
 # Revelation
 
 ## Chapter 7 <!-- scripture:7 -->
+
 
 ### The Sealing of the 144,000
 
@@ -207,6 +229,7 @@ be to our God for ever and ever. Amen!”
 # Revelation
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### The Seventh Seal
 
@@ -252,6 +275,7 @@ be to our God for ever and ever. Amen!”
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### The Angel with the Little Scroll
 
 [1] Then I saw another powerful angel descending from heaven, wrapped in a cloud, with a rainbow above his head; his face was like the sun and his legs were like pillars of fire.
@@ -269,6 +293,7 @@ be to our God for ever and ever. Amen!”
 
 ## Chapter 11 <!-- scripture:11 -->
 
+
 ### The Fate of the Two Witnesses
 
 [1] Then a measuring rod like a staff was given to me, and I was told, “Get up and measure the temple of God, and the altar, and the ones who worship there.
@@ -285,6 +310,9 @@ be to our God for ever and ever. Amen!”
 [12] Then they heard a loud voice from heaven saying to them: “Come up here!” So the two prophets went up to heaven in a cloud while their enemies stared at them.
 [13] Just then a major earthquake took place and a tenth of the city collapsed; seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven.
 [14] The second woe has come and gone; the third is coming quickly.
+
+### The Seventh Trumpet
+
 [15] Then the seventh angel blew his trumpet, and there were loud voices in heaven saying:
 “The kingdom of the world
 has become the kingdom of our Lord
@@ -309,6 +337,7 @@ and the time has come to destroy those who destroy the earth.”
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### The Woman, the Child, and the Dragon
 
 [1] Then a great sign appeared in heaven: a woman clothed with the sun, and with the moon under her feet, and on her head was a crown of twelve stars.
@@ -317,6 +346,9 @@ and the time has come to destroy those who destroy the earth.”
 [4] Now the dragon’s tail swept away a third of the stars in heaven and hurled them to the earth. Then the dragon stood before the woman who was about to give birth, so that he might devour her child as soon as it was born.
 [5] So the woman gave birth to a son, a male child, who is going to rule over all the nations with an iron rod. Her child was suddenly caught up to God and to his throne,
 [6] and she fled into the wilderness where a place had been prepared for her by God, so she could be taken care of for 1,260 days.
+
+### War in Heaven
+
 [7] Then war broke out in heaven: Michael and his angels fought against the dragon, and the dragon and his angels fought back.
 [8] But the dragon was not strong enough to prevail, so there was no longer any place left in heaven for him and his angels.
 [9] So that huge dragon—the ancient serpent, the one called the devil and Satan, who deceives the whole world—was thrown down to the earth, and his angels along with him.
@@ -346,6 +378,7 @@ for he knows that he only has a little time!”
 
 ## Chapter 13 <!-- scripture:13 -->
 
+
 ### The Two Beasts
 
 [1] Then I saw a beast coming up out of the sea. It had ten horns and seven heads, and on its horns were ten diadem crowns, and on its heads a blasphemous name.
@@ -373,6 +406,7 @@ then by the sword he must be killed.
 
 ## Chapter 14 <!-- scripture:14 -->
 
+
 ### An Interlude: The Song of the 144,000
 
 [1] Then I looked, and here was the Lamb standing on Mount Zion, and with him were 144,000, who had his name and his Father’s name written on their foreheads.
@@ -380,6 +414,9 @@ then by the sword he must be killed.
 [3] and they were singing a new song before the throne and before the four living creatures and the elders. No one was able to learn the song except the 144,000 who had been redeemed from the earth.
 [4] These are the ones who have not defiled themselves with women, for they are virgins. These are the ones who follow the Lamb wherever he goes. These were redeemed from humanity as firstfruits to God and to the Lamb,
 [5] and no lie was found on their lips; they are blameless.
+
+### Three Angels and Three Messages
+
 [6] Then I saw another angel flying directly overhead, and he had an eternal gospel to proclaim to those who live on the earth—to every nation, tribe, language, and people.
 [7] He declared in a loud voice: “Fear God and give him glory, because the hour of his judgment has arrived, and worship the one who made heaven and earth, the sea and the springs of water!”
 [8] A second angel followed the first, declaring: “Fallen, fallen is Babylon the great city! She made all the nations drink of the wine of her immoral passion.”
@@ -401,6 +438,7 @@ those who die in the Lord from this moment on!’”
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### The Final Plagues
 
 [1] Then I saw another great and astounding sign in heaven: seven angels who have seven final plagues (they are final because in them God’s anger is completed).
@@ -421,6 +459,7 @@ for your righteous acts have been revealed.”
 # Revelation
 
 ## Chapter 16 <!-- scripture:16 -->
+
 
 ### The Bowls of God’s Wrath
 
@@ -453,6 +492,7 @@ Blessed is the one who stays alert and does not lose his clothes so that he will
 
 ## Chapter 17 <!-- scripture:17 -->
 
+
 ### The Great Prostitute and the Beast
 
 [1] Then one of the seven angels who had the seven bowls came and spoke to me. “Come,” he said, “I will show you the condemnation and punishment of the great prostitute who sits on many waters,
@@ -476,6 +516,7 @@ Blessed is the one who stays alert and does not lose his clothes so that he will
 # Revelation
 
 ## Chapter 18 <!-- scripture:18 -->
+
 
 ### Babylon is Destroyed
 
@@ -544,8 +585,6 @@ along with the blood of all those who had been killed on the earth.”
 
 ## Chapter 19 <!-- scripture:19 -->
 
-### The Wedding Celebration of the Lamb
-
 [1] After these things I heard what sounded like the loud voice of a vast throng in heaven, saying,
 “Hallelujah! Salvation and glory and power belong to our God,
 [2] because his judgments are true and just.
@@ -559,6 +598,9 @@ and has avenged the blood of his servants poured out by her own hands!”
 all you his servants,
 and all you who fear him,
 both the small and the great!”
+
+### The Wedding Celebration of the Lamb
+
 [6] Then I heard what sounded like the voice of a vast throng, like the roar of many waters and like loud crashes of thunder. They were shouting:
 “Hallelujah!
 For the Lord our God, the All-Powerful, reigns!
@@ -569,6 +611,9 @@ and his bride has made herself ready.
 [8] She was permitted to be dressed in bright, clean, fine linen” (for the fine linen is the righteous deeds of the saints).
 [9] Then the angel said to me, “Write the following: Blessed are those who are invited to the banquet at the wedding celebration of the Lamb!” He also said to me, “These are the true words of God.”
 [10] So I threw myself down at his feet to worship him, but he said, “Do not do this! I am only a fellow servant with you and your brothers and sisters who hold to the testimony about Jesus. Worship God, for the testimony about Jesus is the spirit of prophecy.”
+
+### The Son of God Goes to War
+
 [11] Then I saw heaven opened and here came a white horse! The one riding it was called “Faithful” and “True,” and with justice he judges and goes to war.
 [12] His eyes are like a fiery flame and there are many diadem crowns on his head. He has a name written that no one knows except himself.
 [13] He is dressed in clothing dipped in blood, and he is called the Word of God.
@@ -590,6 +635,7 @@ and small and great!”
 
 ## Chapter 20 <!-- scripture:20 -->
 
+
 ### The Thousand Year Reign
 
 [1] Then I saw an angel descending from heaven, holding in his hand the key to the abyss and a huge chain.
@@ -598,10 +644,16 @@ and small and great!”
 [4] Then I saw thrones and seated on them were those who had been given authority to judge. I also saw the souls of those who had been beheaded because of the testimony about Jesus and because of the word of God. These had not worshiped the beast or his image and had refused to receive his mark on their forehead or hand. They came to life and reigned with Christ for a thousand years.
 [5] (The rest of the dead did not come to life until the thousand years were finished.) This is the first resurrection.
 [6] Blessed and holy is the one who takes part in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ, and they will reign with him for a thousand years.
+
+### Satan’s Final Defeat
+
 [7] Now when the thousand years are finished, Satan will be released from his prison
 [8] and will go out to deceive the nations at the four corners of the earth, Gog and Magog, to bring them together for the battle. They are as numerous as the grains of sand in the sea.
 [9] They went up on the broad plain of the earth and encircled the camp of the saints and the beloved city, but fire came down from heaven and devoured them completely.
 [10] And the devil who deceived them was thrown into the lake of fire and sulfur, where the beast and the false prophet are too, and they will be tormented there day and night forever and ever.
+
+### The Great White Throne
+
 [11] Then I saw a large white throne and the one who was seated on it; the earth and the heaven fled from his presence, and no place was found for them.
 [12] And I saw the dead, the great and the small, standing before the throne. Then books were opened, and another book was opened—the book of life. So the dead were judged by what was written in the books, according to their deeds.
 [13] The sea gave up the dead that were in it, and Death and Hades gave up the dead that were in them, and each one was judged according to his deeds.
@@ -610,6 +662,7 @@ and small and great!”
 # Revelation
 
 ## Chapter 21 <!-- scripture:21 -->
+
 
 ### A New Heaven and a New Earth
 
@@ -621,6 +674,9 @@ and small and great!”
 [6] He also said to me, “It is done! I am the Alpha and the Omega, the beginning and the end. To the one who is thirsty I will give water free of charge from the spring of the water of life.
 [7] The one who conquers will inherit these things, and I will be his God and he will be my son.
 [8] But as for the cowards, unbelievers, detestable persons, murderers, the sexually immoral, and those who practice magic spells, idol worshipers, and all those who lie, their place will be in the lake that burns with fire and sulfur. That is the second death.”
+
+### The New Jerusalem Descends
+
 [9] Then one of the seven angels who had the seven bowls full of the seven final plagues came and spoke to me, saying, “Come, I will show you the bride, the wife of the Lamb!”
 [10] So he took me away in the Spirit to a huge, majestic mountain and showed me the holy city, Jerusalem, descending out of heaven from God.
 [11] The city possesses the glory of God; its brilliance is like a precious jewel, like a stone of crystal-clear jasper.
@@ -644,13 +700,14 @@ and small and great!”
 
 ## Chapter 22 <!-- scripture:22 -->
 
-### A Final Reminder
-
 [1] Then the angel showed me the river of the water of life—water as clear as crystal—pouring out from the throne of God and of the Lamb,
 [2] flowing down the middle of the city’s main street. On each side of the river is the tree of life producing twelve kinds of fruit, yielding its fruit every month of the year. Its leaves are for the healing of the nations.
 [3] And there will no longer be any curse, and the throne of God and the Lamb will be in the city. His servants will worship him,
 [4] and they will see his face, and his name will be on their foreheads.
 [5] Night will be no more, and they will not need the light of a lamp or the light of the sun, because the Lord God will shine on them, and they will reign forever and ever.
+
+### A Final Reminder
+
 [6] Then the angel said to me, “These words are reliable and true. The Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must happen soon.”
 [7] (Look ! I am coming soon!
 Blessed is the one who keeps the words of the prophecy expressed in this book.)

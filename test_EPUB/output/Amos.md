@@ -2,9 +2,13 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Introduction
 
 [1] The following is a record of what Amos prophesied. He was one of the herdsmen from Tekoa. These prophecies about Israel were revealed to him during the time of King Uzziah of Judah and King Jeroboam son of Joash of Israel, two years before the earthquake.
+
+### God Will Judge the Surrounding Nations
+
 [2] Amos said:
 “The Lord comes roaring out of Zion;
 from Jerusalem he comes bellowing!
@@ -65,8 +69,6 @@ The Lord has spoken
 
 ## Chapter 2 <!-- scripture:2 -->
 
-### God Will Judge Israel
-
 [1] This is what the Lord says:
 “Because Moab has committed three crimes —
 make that four —I will not revoke my decree of judgment.
@@ -88,6 +90,9 @@ to which their fathers were loyal,
 led them astray.
 [5] So I will set Judah on fire,
 and it will consume Jerusalem’s fortresses.”
+
+### God Will Judge Israel
+
 [6] This is what the Lord says:
 “Because Israel has committed three covenant transgressions —
 make that four —I will not revoke my decree of judgment.
@@ -129,6 +134,7 @@ The Lord is speaking.
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Every Effect has its Cause
 
 [1] Listen, you Israelites, to this message that the Lord is proclaiming against you! This message is for the entire clan I brought up from the land of Egypt:
@@ -144,6 +150,9 @@ If disaster overtakes a city, is the Lord not responsible?
 [7] Certainly the Sovereign Lord does nothing without first revealing his plan to his servants the prophets.
 [8] A lion has roared! Who is not afraid?
 The Sovereign Lord has spoken. Who can refuse to prophesy?
+
+### Samaria Will Fall
+
 [9] Make this announcement in the fortresses of Ashdod
 and in the fortresses in the land of Egypt.
 Say this:
@@ -171,8 +180,6 @@ The Lord is speaking!
 
 ## Chapter 4 <!-- scripture:4 -->
 
-### Israel has an Appointment with God
-
 You oppress the poor;
 you crush the needy.
 You say to your husbands,
@@ -184,6 +191,9 @@ every last one of you in fishermen’s pots.
 [3] Each of you will go straight through the gaps in the walls;
 you will be thrown out toward Harmon.”
 The Lord is speaking.
+
+### Israel has an Appointment with God
+
 [4] “Go to Bethel and rebel!
 At Gilgal rebel some more!
 Bring your sacrifices in the morning,
@@ -222,6 +232,7 @@ The Lord God of Heaven’s Armies is his name!
 # Amos
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Death is Imminent
 
@@ -274,6 +285,9 @@ They will tell the field workers to lament
 and the professional mourners to wail.
 [17] In all the vineyards there will be wailing,
 for I will pass through your midst,” says the Lord.
+
+### The Lord Demands Justice
+
 [18] Woe to those who wish for the day of the Lord!
 Why do you want the Lord’s day of judgment to come?
 It will bring darkness, not light.
@@ -298,6 +312,7 @@ He is called the God of Heaven’s Armies.
 # Amos
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### The Party is over for the Rich
 
@@ -345,6 +360,7 @@ the Lord, the God who commands armies, is speaking.
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### Symbolic Visions of Judgment
 
 [1] The Sovereign Lord showed me this: I saw him making locusts just as the crops planted late were beginning to sprout. (The crops planted late sprout after the royal harvest.)
@@ -366,6 +382,9 @@ I will no longer overlook their sin.
 [9] Isaac’s centers of worship will become desolate;
 Israel’s holy places will be in ruins.
 I will attack Jeroboam’s dynasty with the sword.”
+
+### Amos Confronts a Priest
+
 [10] Amaziah the priest of Bethel sent this message to King Jeroboam of Israel: “Amos is conspiring against you in the very heart of the kingdom of Israel! The land cannot endure all his prophecies.
 [11] As a matter of fact, Amos is saying this: ‘Jeroboam will die by the sword and Israel will certainly be carried into exile away from its land.’”
 [12] Amaziah then said to Amos, “Leave, you visionary! Run away to the land of Judah. Earn your living and prophesy there!
@@ -382,6 +401,7 @@ Israel will certainly be carried into exile away from its land.’”
 # Amos
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### More Visions and Messages of Judgment
 
@@ -430,8 +450,6 @@ But they will fall down and not get up again.”
 
 ## Chapter 9 <!-- scripture:9 -->
 
-### The Restoration of the Davidic Dynasty
-
 [1] I saw the Lord standing by the altar and he said,
 “Strike the tops of the support pillars, so the thresholds shake!
 Knock them down on the heads of all the people,
@@ -471,6 +489,9 @@ It will resemble a sieve being shaken,
 when not even a pebble falls to the ground.
 [10] All the sinners among my people will die by the sword—
 the ones who say, ‘Disaster will not come near, it will not confront us.’
+
+### The Restoration of the Davidic Dynasty
+
 [11] “In that day I will rebuild the collapsing hut of David.
 I will seal its gaps,
 repair its ruins,

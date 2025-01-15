@@ -2,9 +2,13 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Title/Superscription
 
 [1] Solomon’s Most Excellent Love Song.
+
+### The Desire for Love
+
 [2] Oh, how I wish you would kiss me passionately!
 For your lovemaking is more delightful than wine.
 [3] The fragrance of your colognes is delightful;
@@ -15,6 +19,9 @@ May the king bring me into his bedroom chambers!
 We will rejoice and delight in you;
 we will praise your love more than wine.
 How rightly the young women adore you!
+
+### The Country Maiden and the Daughters of Jerusalem
+
 [5] I am dark but lovely, O maidens of Jerusalem,
 dark like the tents of Qedar,
 lovely like the tent curtains of Salmah.
@@ -23,6 +30,9 @@ for the sun has burned my skin.
 My brothers were angry with me;
 they made me the keeper of the vineyards.
 Alas, my own vineyard I could not keep!
+
+### The Shepherd and the Shepherdess
+
 [7] Tell me, O you whom my heart loves,
 where do you pasture your sheep?
 Where do you rest your sheep during the midday heat?
@@ -32,6 +42,9 @@ beside the flocks of your companions!
 simply follow the tracks of my flock,
 and pasture your little lambs
 beside the tents of the shepherds.
+
+### The Beautiful Mare and the Fragrant Myrrh
+
 [9] O my beloved, you are like a mare
 among Pharaoh’s stallions.
 [10] Your cheeks are beautiful with ornaments;
@@ -44,6 +57,9 @@ my nard gave forth its fragrance.
 spending the night between my breasts.
 [14] My beloved is like a cluster of henna blossoms
 in the vineyards of En Gedi.
+
+### Mutual Praise and Admiration
+
 [15] Oh, how beautiful you are, my beloved!
 Oh, how beautiful you are!
 Your eyes are like doves!
@@ -56,6 +72,7 @@ the pines are the rafters of our bedroom.
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### The Lily among the Thorns and the Apple Tree in the Forest
 
 [1] I am a meadow flower from Sharon,
@@ -66,16 +83,25 @@ so is my darling among the maidens.
 so is my beloved among the young men.
 I delight to sit in his shade,
 and his fruit is sweet to my taste.
+
+### The Banquet Hall for the Lovesick
+
 [4] He brought me into the banquet hall,
 and he looked at me lovingly.
 [5] Sustain me with raisin cakes,
 refresh me with apples,
 for I am faint with love.
+
+### The Double Refrain: Embracing and Adjuration
+
 [6] His left hand is under my head,
 and his right hand embraces me.
 [7] I admonish you, O maidens of Jerusalem,
 by the gazelles and by the young does of the open fields:
 Do not awaken or arouse love until it pleases!
+
+### The Arrival of the Lover
+
 [8] Listen! My lover is approaching!
 Look! Here he comes,
 leaping over the mountains,
@@ -84,6 +110,9 @@ bounding over the hills!
 Look! There he stands behind our wall,
 gazing through the window,
 peering through the lattice.
+
+### The Season of Love and the Song of the Turtledove
+
 [10] My lover spoke to me, saying:
 “Arise, my darling;
 My beautiful one, come away with me!
@@ -96,18 +125,30 @@ the voice of the turtledove is heard in our land.
 the vines have blossomed and give off their fragrance.
 Arise, come away my darling;
 my beautiful one, come away with me!”
+
+### The Dove in the Clefts of En Gedi
+
 [14] O my dove, in the clefts of the rock,
 in the hiding places of the mountain crags,
 let me see your face,
 let me hear your voice;
 for your voice is sweet,
 and your face is lovely.
+
+### The Foxes in the Vineyard
+
 [15] Catch the foxes for us,
 the little foxes,
 that ruin the vineyards —
 for our vineyard is in bloom.
+
+### Poetic Refrain: Mutual Possession
+
 [16] My lover is mine and I am his;
 he grazes among the lilies.
+
+### The Gazelle and the Rugged Mountains
+
 [17] Until the dawn arrives and the shadows flee,
 turn, my beloved—
 be like a gazelle or a young stag
@@ -115,6 +156,7 @@ on the mountain gorges.
 # Song of Solomon
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### The Lost Lover is Found
 
@@ -132,9 +174,15 @@ when I found my beloved!
 I held onto him tightly and would not let him go
 until I brought him to my mother’s house,
 to the bedroom chamber of the one who conceived me.
+
+### The Adjuration Refrain
+
 [5] I admonish you, O maidens of Jerusalem,
 by the gazelles and by the young does of the open fields:
 “Do not awaken or arouse love until it pleases!”
+
+### The Royal Wedding Procession
+
 [6] Who is this coming up from the wilderness
 like a column of smoke,
 like a fragrant billow of myrrh and frankincense,
@@ -160,6 +208,7 @@ on the most joyous day of his life!
 # Song of Solomon
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### The Wedding Night: Praise of the Bride
 
@@ -189,6 +238,9 @@ I will go up to the mountain of myrrh,
 and to the hill of frankincense.
 [7] You are altogether beautiful, my darling!
 There is no blemish in you!
+
+### The Wedding Night: Beautiful as Lebanon
+
 [8] Come with me from Lebanon, my bride,
 come with me from Lebanon.
 Descend from the crest of Amana,
@@ -204,6 +256,9 @@ the fragrance of your perfume is better than any spice!
 [11] Your lips drip sweetness like the honeycomb, my bride,
 honey and milk are under your tongue.
 The fragrance of your garments is like the fragrance of Lebanon.
+
+### The Wedding Night: The Delightful Garden
+
 [12] You are a locked garden, my sister, my bride;
 you are an enclosed spring, a sealed-up fountain.
 [13] Your shoots are a royal garden full of pomegranates
@@ -222,14 +277,15 @@ and eat its delightful fruit!
 
 ## Chapter 5 <!-- scripture:5 -->
 
-### The Trials of Love: The Beloved’s Dream of Losing Her Lover
-
 [1] I have entered my garden, O my sister, my bride;
 I have gathered my myrrh with my balsam spice.
 I have eaten my honeycomb and my honey;
 I have drunk my wine and my milk!
 Eat, friends, and drink!
 Drink freely, O lovers!
+
+### The Trials of Love: The Beloved’s Dream of Losing Her Lover
+
 [2] I was asleep, but my mind was dreaming.
 Listen! My lover is knocking at the door!
 “Open for me, my sister, my darling,
@@ -252,6 +308,9 @@ I called him but he did not answer me.
 [7] The watchmen found me as they made their rounds in the city.
 They beat me, they bruised me;
 they took away my cloak, those watchmen on the walls!
+
+### The Triumph of Love: The Beloved Praises Her Lover
+
 [8] I admonish you, O maidens of Jerusalem—
 If you find my beloved, what will you tell him?
 Tell him that I am lovesick!
@@ -279,6 +338,7 @@ This is my companion, O maidens of Jerusalem!
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### The Lost Lover Found
 
 [1] Where has your beloved gone,
@@ -289,8 +349,14 @@ Tell us, that we may seek him with you.
 to the flowerbeds of balsam spices,
 to graze in the gardens,
 and to gather lilies.
+
+### Poetic Refrain: Mutual Possession
+
 [3] I am my lover’s and my lover is mine;
 he grazes among the lilies.
+
+### The Renewal of Love
+
 [4] My darling, you are as beautiful as Tirzah,
 as lovely as Jerusalem,
 as awe-inspiring as bannered armies.
@@ -316,6 +382,9 @@ the queens and concubines praised her:
 [10] “Who is this who appears like the dawn?
 Beautiful as the moon, bright as the sun,
 awe-inspiring as the stars in procession?”
+
+### The Return to the Vineyards
+
 [11] I went down to the orchard of walnut trees,
 to look for the blossoms of the valley,
 to see if the vines had budded
@@ -323,6 +392,9 @@ or if the pomegranates were in bloom.
 [12] I was beside myself with joy!
 There please give me your myrrh,
 O daughter of my princely people.
+
+### The Love Song and Dance
+
 [13] (7:1) Turn, turn, O Perfect One!
 Turn, turn, that I may stare at you!
 Why do you gaze upon the Perfect One
@@ -330,8 +402,6 @@ like the dance of the Mahanaim?
 # Song of Solomon
 
 ## Chapter 7 <!-- scripture:7 -->
-
-### The Palm Tree and the Palm Tree Climber
 
 [1] (7:2) How beautiful are your sandaled feet,
 O nobleman’s daughter!
@@ -353,6 +423,9 @@ The locks of your hair are like royal tapestries —
 the king is held captive in its tresses!
 [6] How beautiful you are! How lovely,
 O love, with your delights!
+
+### The Palm Tree and the Palm Tree Climber
+
 [7] Your stature is like a palm tree,
 and your breasts are like clusters of grapes.
 [8] I want to climb the palm tree,
@@ -362,8 +435,14 @@ and may the fragrance of your breath be like apples!
 [9] May your mouth be like the best wine,
 flowing smoothly for my beloved,
 gliding gently over our lips as we sleep together.
+
+### Poetic Refrain: Mutual Possession
+
 [10] I am my beloved’s,
 and he desires me!
+
+### The Journey to the Countryside
+
 [11] Come, my beloved, let us go to the countryside;
 let us spend the night in the villages.
 [12] Let us rise early to go to the vineyards,
@@ -378,6 +457,7 @@ both new and old, which I have stored up for you, my lover.
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### The Beloved’s Wish Song
 
 [1] Oh, how I wish you were my little brother,
@@ -388,15 +468,24 @@ surely no one would despise me!
 the one who taught me.
 I would give you spiced wine to drink,
 the nectar of my pomegranates.
+
+### Double Refrain: Embracing and Adjuration
+
 [3] His left hand is under my head,
 and his right hand embraces me.
 [4] I admonish you, O maidens of Jerusalem:
 “Do not arouse or awaken love until it pleases!”
+
+### The Awakening of Love
+
 [5] Who is this coming up from the wilderness,
 leaning on her beloved?
 Under the apple tree I aroused you;
 there your mother conceived you,
 there she who bore you was in labor of childbirth.
+
+### The Nature of True Love
+
 [6] Set me like a cylinder seal over your heart,
 like a signet on your arm.
 For love is as strong as death,
@@ -407,6 +496,9 @@ it is a blazing flame.
 floodwaters cannot overflow it.
 If someone were to offer all his possessions to buy love,
 the offer would be utterly despised.
+
+### The Brother’s Plan and the Sister’s Reward
+
 [8] We have a little sister,
 and as yet she has no breasts.
 What shall we do for our sister
@@ -418,12 +510,18 @@ we will barricade her with boards of cedar.
 [10] I was a wall,
 and my breasts were like fortress towers.
 Then I found favor in his eyes.
+
+### Solomon’s Vineyard and the Beloved’s Vineyard
+
 [11] Solomon had a vineyard at Baal Hamon;
 he leased out the vineyard to those who maintained it.
 Each was to bring 1,000 shekels of silver for its fruit.
 [12] My vineyard, which belongs to me, is at my disposal alone.
 The thousand shekels belong to you, O Solomon,
 and 200 shekels belong to those who maintain it for its fruit.
+
+### Epilogue: The Lover’s Request and His Beloved’s Invitation
+
 [13] O you who stay in the gardens,
 my companions are listening attentively for your voice;
 let me be the one to hear it!

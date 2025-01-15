@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Daniel Finds Favor in Babylon
 
 [1] In the third year of the reign of King Jehoiakim of Judah, King Nebuchadnezzar of Babylon advanced against Jerusalem and laid it under siege.
@@ -28,6 +29,7 @@
 # Daniel
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Nebuchadnezzar Has a Disturbing Dream
 
@@ -78,6 +80,9 @@ For you have enabled us to understand the king’s dilemma.”
 [34] You were watching as a stone was cut out, but not by human hands. It struck the statue on its iron and clay feet, breaking them in pieces.
 [35] Then the iron, clay, bronze, silver, and gold were broken in pieces without distinction and became like chaff from the summer threshing floors that the wind carries away. Not a trace of them could be found. But the stone that struck the statue became a large mountain that filled the entire earth.
 [36] This was the dream. Now we will set forth before the king its interpretation.
+
+### Daniel Interprets Nebuchadnezzar’s Dream
+
 [37] “You, O king, are the king of kings. The God of heaven has granted you sovereignty, power, strength, and honor.
 [38] Wherever human beings, wild animals, and birds of the sky live—he has given them into your power. He has given you authority over them all. You are the head of gold.
 [39] Now after you another kingdom will arise, one inferior to yours. Then a third kingdom, one of bronze, will rule in all the earth.
@@ -94,6 +99,7 @@ For you have enabled us to understand the king’s dilemma.”
 # Daniel
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### Daniel’s Friends Are Tested
 
@@ -120,6 +126,9 @@ For you have enabled us to understand the king’s dilemma.”
 [21] So those men were tied up while still wearing their cloaks, trousers, turbans, and other clothes, and were thrown into the furnace of blazing fire.
 [22] But since the king’s command was so urgent, and the furnace was so excessively hot, the men who escorted Shadrach, Meshach, and Abednego were killed by the leaping flames.
 [23] But those three men, Shadrach, Meshach, and Abednego, fell into the furnace of blazing fire while still securely bound.
+
+### God Delivers His Servants
+
 [24] Then King Nebuchadnezzar was startled and quickly got up. He said to his ministers, “Wasn’t it three men that we tied up and threw into the fire?” They replied to the king, “For sure, O king.”
 [25] He answered, “But I see four men, untied and walking around in the midst of the fire! No harm has come to them! And the appearance of the fourth is like that of a god!”
 [26] Then Nebuchadnezzar approached the door of the furnace of blazing fire. He called out, “Shadrach, Meshach, and Abednego, servants of the most high God, come out! Come here!”
@@ -131,13 +140,14 @@ For you have enabled us to understand the king’s dilemma.”
 
 ## Chapter 4 <!-- scripture:4 -->
 
-### Nebuchadnezzar Dreams of a Tree Chopped Down
-
 [1] (
 [2] I am delighted to tell you about the signs and wonders that the most high God has done for me.
 How mighty are his wonders!
 His kingdom will last forever,
 and his authority continues from one generation to the next.”
+
+### Nebuchadnezzar Dreams of a Tree Chopped Down
+
 [4] (
 [5] I saw a dream that frightened me badly. The things I imagined while lying on my bed—these visions of my mind—were terrifying me.
 [6] So I issued an order for all the wise men of Babylon to be brought before me so that they could make known to me the interpretation of the dream.
@@ -178,6 +188,9 @@ that the Most High has authority over human kingdoms,
 and he bestows them on whomever he wishes.
 He establishes over them even the lowliest of human beings.’
 [18] “This is the dream that I, King Nebuchadnezzar, saw. Now you, Belteshazzar, declare its interpretation, for none of the wise men in my kingdom are able to make known to me the interpretation. But you can do so, for a spirit of the holy gods is in you.”
+
+### Daniel Interprets Nebuchadnezzar’s Dream
+
 [19] Then Daniel (whose name is also Belteshazzar) was upset for a brief time; his thoughts were alarming him. The king said, “Belteshazzar, don’t let the dream and its interpretation alarm you.” But Belteshazzar replied, “Sir, if only the dream were for your enemies and its interpretation applied to your adversaries!
 [20] The tree that you saw that grew large and strong, whose top reached to the sky, and that could be seen in all the land,
 [21] whose foliage was attractive and its fruit plentiful, and from which there was food available for all, under whose branches wild animals used to live, and in whose branches birds of the sky used to nest—
@@ -208,6 +221,7 @@ and says to him, ‘What have you done?’
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Belshazzar Sees Mysterious Handwriting on a Wall
 
 [1] King Belshazzar prepared a great banquet for 1,000 of his nobles, and he was drinking wine in front of them all.
@@ -226,6 +240,9 @@ and says to him, ‘What have you done?’
 [14] I have heard about you, how there is a spirit of the gods in you, and how you have insight, discernment, and extraordinary wisdom.
 [15] Now the wise men and astrologers were brought before me to read this writing and make known to me its interpretation. But they were unable to disclose the interpretation of the message.
 [16] However, I have heard that you are able to provide interpretations and to solve difficult problems. Now if you are able to read this writing and make known to me its interpretation, you will wear purple and have a golden collar around your neck and be third ruler in the kingdom.”
+
+### Daniel Interprets the Handwriting on the Wall
+
 [17] But Daniel replied to the king, “Keep your gifts, and give your rewards to someone else. However, I will read the writing for the king and make known its interpretation.
 [18] As for you, O king, the most high God bestowed on your father Nebuchadnezzar a kingdom, greatness, honor, and majesty.
 [19] Due to the greatness that he bestowed on him, all peoples, nations, and language groups were trembling with fear before him. He killed whom he wished, he spared whom he wished, he exalted whom he wished, and he brought low whom he wished.
@@ -244,6 +261,7 @@ and says to him, ‘What have you done?’
 # Daniel
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### Daniel is Thrown into a Lions’ Den
 
@@ -265,6 +283,9 @@ and says to him, ‘What have you done?’
 [16] So the king gave the order, and Daniel was brought and thrown into a den of lions. The king consoled Daniel by saying, “Your God whom you continually serve will rescue you!”
 [17] Then a stone was brought and placed over the opening to the den. The king sealed it with his signet ring and with those of his nobles so that nothing could be changed with regard to Daniel.
 [18] Then the king departed to his palace. But he spent the night without eating, and no diversions were brought to him. He was unable to sleep.
+
+### God Rescues Daniel from the Lions
+
 [19] In the morning, at the earliest sign of daylight, the king got up and rushed to the lions’ den.
 [20] As he approached the den, he called out to Daniel in a worried voice, “Daniel, servant of the living God, was your God whom you continually serve able to rescue you from the lions?”
 [21] Then Daniel spoke to the king, “O king, live forever!
@@ -285,6 +306,7 @@ He has rescued Daniel from the power of the lions!”
 # Daniel
 
 ## Chapter 7 <!-- scripture:7 -->
+
 
 ### Daniel has a Vision of Four Animals Coming up from the Sea
 
@@ -320,6 +342,9 @@ and was escorted before him.
 All peoples, nations, and language groups were serving him.
 His authority is eternal and will not pass away.
 His kingdom will not be destroyed.
+
+### An Angel Interprets Daniel’s Vision
+
 [15] “As for me, Daniel, my spirit was distressed, and the visions of my mind were alarming me.
 [16] I approached one of those standing nearby and asked him about the meaning of all this. So he spoke with me and revealed to me the interpretation of the vision:
 [17] ‘These large beasts, which are four in number, represent four kings who will arise from the earth.
@@ -355,6 +380,7 @@ all authorities will serve him and obey him.’
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### Daniel Has a Vision of a Goat and a Ram
 
 [1] In the third year of King Belshazzar’s reign, a vision appeared to me, Daniel, after the one that had appeared to me previously.
@@ -371,6 +397,9 @@ all authorities will serve him and obey him.’
 [12] The army was given over, along with the daily sacrifice, in the course of his sinful rebellion. It hurled truth to the ground and enjoyed success.
 [13] Then I heard a holy one speaking. Another holy one said to the one who was speaking, “To what period of time does the vision pertain—this vision concerning the daily sacrifice and the destructive act of rebellion and the giving over of both the sanctuary and army to be trampled?”
 [14] He said to me, “To 2,300 evenings and mornings; then the sanctuary will be put right again.”
+
+### An Angel Interprets Daniel’s Vision
+
 [15] While I, Daniel, was watching the vision, I sought to understand it. Now one who appeared to be a man was standing before me.
 [16] Then I heard a human voice coming from between the banks of the Ulai. It called out, “Gabriel, enable this person to understand the vision.”
 [17] So he approached the place where I was standing. As he came, I felt terrified and fell flat on the ground. Then he said to me, “Understand, son of man, that the vision pertains to the time of the end.”
@@ -387,6 +416,7 @@ all authorities will serve him and obey him.’
 # Daniel
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### Daniel Prays for His People
 
@@ -409,6 +439,9 @@ all authorities will serve him and obey him.’
 [17] “So now, our God, accept the prayer and requests of your servant, and show favor to your devastated sanctuary for your own sake.
 [18] Listen attentively, my God, and hear! Open your eyes and look on our desolated ruins and the city called by your name. For it is not because of our own righteous deeds that we are praying to you, but because your compassion is abundant.
 [19] O Lord, hear! O Lord, forgive! O Lord, pay attention, and act! Don’t delay, for your own sake, O my God! For your city and your people are called by your name.”
+
+### Gabriel Gives to Daniel a Prophecy of Seventy Weeks
+
 [20] While I was still speaking and praying, confessing my sin and the sin of my people Israel and presenting my request before the Lord my God concerning his holy mountain —
 [21] yes, while I was still praying, the man Gabriel, whom I had seen previously in a vision, was approaching me in my state of extreme weariness, around the time of the evening offering.
 [22] He spoke with me, instructing me as follows: “Daniel, I have now come to impart understanding to you.
@@ -443,6 +476,7 @@ until the decreed end is poured out on the one who destroys.”
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### An Angel Appears to Daniel
 
 [1] In the third year of King Cyrus of Persia a message was revealed to Daniel (who was also called Belteshazzar). This message was true and concerned a great war. He understood the message and gained insight by the vision.
@@ -470,10 +504,11 @@ until the decreed end is poured out on the one who destroys.”
 
 ## Chapter 11 <!-- scripture:11 -->
 
-### The Angel Gives a Message to Daniel
-
 [1] And in the first year of Darius the Mede, I stood to strengthen him and to provide protection for him.)
 [2] Now I will tell you the truth.
+
+### The Angel Gives a Message to Daniel
+
 [3] Then a powerful king will arise, exercising great authority and doing as he pleases.
 [4] Shortly after his rise to power, his kingdom will be broken up and distributed toward the four winds of the sky —but not to his posterity or with the authority he exercised, for his kingdom will be uprooted and distributed to others besides these.
 [5] “Then the king of the south and one of his subordinates will grow strong. His subordinate will resist him and will rule a kingdom greater than his.

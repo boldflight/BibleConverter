@@ -2,9 +2,13 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Heading
 
 [1] Here is the message about Judah and Jerusalem that was revealed to Isaiah son of Amoz during the time when Uzziah, Jotham, Ahaz, and Hezekiah reigned over Judah.
+
+### Obedience, not Sacrifice
+
 [2] Listen, O heavens,
 pay attention, O earth!
 For the Lord speaks:
@@ -86,6 +90,9 @@ then you will again eat the good crops of the land.
 [20] But if you refuse and rebel,
 you will be devoured by the sword.”
 Know for certain that the Lord has spoken.
+
+### Purifying Judgment
+
 [21] How tragic that the once-faithful city
 has become a prostitute!
 She was once a center of justice;
@@ -128,6 +135,7 @@ and no one will put out the fire.
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### The Future Glory of Jerusalem
 
 [1] Here is the message about Judah and Jerusalem that was revealed to Isaiah son of Amoz.
@@ -151,6 +159,9 @@ Nations will not take up the sword against other nations,
 and they will no longer train for war.
 [5] O descendants of Jacob,
 come, let us walk in the Lord’s guiding light.
+
+### The Lord’s Day of Judgment
+
 [6] Indeed, O Lord, you have abandoned your people,
 the descendants of Jacob.
 For diviners from the east are everywhere;
@@ -212,6 +223,7 @@ For why should they be given special consideration?
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### A Coming Leadership Crisis
 
 [1] Look, the Sovereign Lord of Heaven’s Armies
@@ -266,6 +278,9 @@ You have stashed in your houses what you have stolen from the poor.
 [15] Why do you crush my people
 and grind the faces of the poor?”
 The Sovereign Lord of Heaven’s Armies has spoken.
+
+### Washing Away Impurity
+
 [16] The Lord says,
 “The women of Zion are proud.
 They walk with their heads high
@@ -293,14 +308,15 @@ deprived of her people, she will sit on the ground.
 
 ## Chapter 4 <!-- scripture:4 -->
 
-### Cleansing and Protection from the Lord
-
 [1] Seven women will grab hold of
 one man at that time.
 They will say, “We will provide our own food,
 we will provide our own clothes;
 but let us belong to you —
 take away our shame!”
+
+### Cleansing and Protection from the Lord
+
 [2] At that time
 the crops given by the Lord will bring admiration and honor;
 the produce of the land will be a source of pride and delight
@@ -323,6 +339,7 @@ as well as safety and protection from the heavy downpour.
 # Isaiah
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### A Love Song Gone Sour
 
@@ -356,6 +373,9 @@ not to drop any rain on it.
 the people of Judah are the cultivated place in which he took delight.
 He waited for justice, but look what he got—disobedience!
 He waited for fairness, but look what he got—cries for help!
+
+### Disaster is Coming
+
 [8] Beware, those who accumulate houses,
 who also accumulate field after field
 until there is no land left,
@@ -437,6 +457,7 @@ clouds will turn the light into darkness.
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Isaiah’s Commission
 
 [1] In the year of King Uzziah’s death, I saw the Lord seated on a high, elevated throne. The hem of his robe filled the temple.
@@ -468,6 +489,7 @@ That sacred pillar symbolizes the special chosen family.”
 # Isaiah
 
 ## Chapter 7 <!-- scripture:7 -->
+
 
 ### Ahaz Receives a Sign
 
@@ -507,6 +529,7 @@ then you will not remain secure.’”
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### A Child is Born for a Sign
 
 [1] The Lord told me, “Take a large tablet and inscribe these words on it with an ordinary stylus: ‘Maher Shalal Hash Baz.’
@@ -525,6 +548,9 @@ Get ready for battle, and you will be shattered!
 [10] Devise your strategy, but it will be thwarted.
 Issue your orders, but they will not be executed!
 For God is with us!
+
+### The Lord Encourages Isaiah
+
 [11] Indeed this is what the Lord told me quite forcefully. He warned me not to act like these people:
 [12] “Do not say, ‘Conspiracy,’ every time these people say the word.
 Don’t be afraid of what scares them; don’t be terrified.
@@ -548,6 +574,7 @@ I will wait for him.
 # Isaiah
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### Darkness Turns to Light as an Ideal King Arrives
 
@@ -595,6 +622,9 @@ establishing it and strengthening it
 by promoting justice and fairness,
 from this time forward and forevermore.
 The zeal of the Lord of Heaven’s Armies will accomplish this.
+
+### God’s Judgment Intensifies
+
 [8] The Lord decreed judgment on Jacob,
 and it fell on Israel.
 [9] All the people were aware of it,
@@ -644,8 +674,6 @@ and his hand is ready to strike again.
 
 ## Chapter 10 <!-- scripture:10 -->
 
-### The Lord Turns on Arrogant Assyria
-
 [1] Beware, those who enact unjust policies;
 those who are always instituting unfair regulations,
 [2] to keep the poor from getting fair treatment,
@@ -660,6 +688,9 @@ Where will you leave your wealth?
 or to fall among those who have been killed.
 Despite all this, his anger does not subside,
 and his hand is ready to strike again.
+
+### The Lord Turns on Arrogant Assyria
+
 [5] “Beware, Assyria, the club I use to vent my anger,
 a cudgel with which I angrily punish.
 [6] I sent him against a godless nation,
@@ -743,6 +774,7 @@ and mighty Lebanon will fall.
 
 ## Chapter 11 <!-- scripture:11 -->
 
+
 ### An Ideal King Establishes a Kingdom of Peace
 
 [1] A shoot will grow out of Jesse’s root stock,
@@ -775,6 +807,9 @@ an infant will put his hand.
 on my entire royal mountain.
 For there will be universal submission to the Lord’s sovereignty,
 just as the waters completely cover the sea.
+
+### Israel is Reclaimed and Reunited
+
 [10] At that time a root from Jesse will stand like a signal flag for the nations. Nations will look to him for guidance, and his residence will be majestic.
 [11] At that time the Lord will again lift his hand to reclaim the remnant of his people from Assyria, Egypt, Pathros, Cush, Elam, Shinar, Hamath, and the seacoasts.
 [12] He will lift a signal flag for the nations;
@@ -823,6 +858,7 @@ for the Holy One of Israel acts mightily among you!”
 # Isaiah
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### The Lord Will Judge Babylon
 
@@ -905,8 +941,6 @@ her days will not be prolonged.
 # Isaiah
 
 ## Chapter 14 <!-- scripture:14 -->
-
-### The Lord Will Judge the Philistines
 
 [1] The Lord will certainly have compassion on Jacob; he will again choose Israel as his special people and restore them to their land. Resident foreigners will join them and unite with the family of Jacob.
 [2] Nations will take them and bring them back to their own place. Then the family of Israel will make foreigners their servants as they settle in the Lord’s land. They will make their captors captives and rule over the ones who oppressed them.
@@ -996,6 +1030,9 @@ my hand is ready to strike all the nations.”
 and who can possibly frustrate it?
 His hand is ready to strike,
 and who can possibly stop it?
+
+### The Lord Will Judge the Philistines
+
 [28] This oracle came in the year that King Ahaz died:
 [29] Don’t be so happy, all you Philistines,
 just because the club that beat you has been broken!
@@ -1016,6 +1053,7 @@ the oppressed among his people will find safety in her.
 # Isaiah
 
 ## Chapter 15 <!-- scripture:15 -->
+
 
 ### The Lord Will Judge Moab
 
@@ -1108,6 +1146,7 @@ and enter their temples to pray, their prayers will be ineffective.
 
 ## Chapter 17 <!-- scripture:17 -->
 
+
 ### The Lord Will Judge Damascus
 
 [1] This is an oracle about Damascus:
@@ -1166,6 +1205,7 @@ the destiny of those who try to loot us!
 
 ## Chapter 18 <!-- scripture:18 -->
 
+
 ### The Lord Will Judge a Distant Land in the South
 
 [1] Beware, land of buzzing wings,
@@ -1203,6 +1243,7 @@ The tribute will be brought to the place where the Lord of Heaven’s Armies has
 # Isaiah
 
 ## Chapter 19 <!-- scripture:19 -->
+
 
 ### The Lord Will Judge Egypt
 
@@ -1277,6 +1318,7 @@ head or tail, shoots or stalk.
 
 ## Chapter 21 <!-- scripture:21 -->
 
+
 ### The Lord Will Judge Babylon
 
 [1] This is an oracle about the wilderness by the Sea:
@@ -1328,6 +1370,9 @@ what I have heard
 from the Lord of Heaven’s Armies,
 the God of Israel,
 I have reported to you.
+
+### Bad News for Seir
+
 [11] This is an oracle about Dumah:
 Someone calls to me from Seir,
 “Watchman, what is left of the night?
@@ -1336,6 +1381,9 @@ Watchman, what is left of the night?”
 “Morning is coming, but then night.
 If you want to ask, ask;
 come back again.”
+
+### The Lord Will Judge Arabia
+
 [13] This is an oracle about Arabia:
 In the thicket of Arabia you spend the night,
 you Dedanite caravans.
@@ -1351,6 +1399,7 @@ and from the severity of the battle.
 # Isaiah
 
 ## Chapter 22 <!-- scripture:22 -->
+
 
 ### The Lord Will Judge Jerusalem
 
@@ -1423,6 +1472,7 @@ you will be thrown down from your position.
 
 ## Chapter 23 <!-- scripture:23 -->
 
+
 ### The Lord Will Judge Tyre
 
 [1] This is an oracle about Tyre:
@@ -1485,6 +1535,7 @@ so you’ll be noticed.”
 # Isaiah
 
 ## Chapter 24 <!-- scripture:24 -->
+
 
 ### The Lord Will Judge the Earth
 
@@ -1554,6 +1605,9 @@ the earth shakes violently.
 it will sway back and forth like a hut in a windstorm.
 Its sin will weigh it down,
 and it will fall and never get up again.
+
+### The Lord Will Become King
+
 [21] At that time the Lord will punish
 the heavenly forces in the heavens
 and the earthly kings on the earth.
@@ -1615,6 +1669,7 @@ he will bring it down, he will throw it down to the dusty ground.
 
 ## Chapter 26 <!-- scripture:26 -->
 
+
 ### Judah Will Celebrate
 
 [1] At that time this song will be sung in the land of Judah:
@@ -1633,6 +1688,9 @@ he throws it down to the dust.
 [6] It is trampled underfoot
 by the feet of the oppressed,
 by the soles of the poor.”
+
+### God’s People Anticipate Vindication
+
 [7] The way of the righteous is level,
 the path of the righteous that you prepare is straight.
 [8] Yes, as your judgments unfold,
@@ -1734,6 +1792,7 @@ the one who formed them has no mercy on them.
 
 ## Chapter 28 <!-- scripture:28 -->
 
+
 ### The Lord Will Judge Ephraim
 
 [1] The splendid crown of Ephraim’s drunkards is doomed,
@@ -1785,6 +1844,9 @@ senseless babbling,
 a syllable here, a syllable there.
 As a result, they will fall on their backsides when they try to walk,
 and be injured, ensnared, and captured.
+
+### The Lord Will Judge Jerusalem
+
 [14] Therefore, listen to the Lord’s message,
 you who mock,
 you rulers of these people
@@ -1849,6 +1911,7 @@ who gives supernatural guidance and imparts great wisdom.
 
 ## Chapter 29 <!-- scripture:29 -->
 
+
 ### Ariel is Besieged
 
 [1] Ariel is as good as dead —
@@ -1881,6 +1944,9 @@ It will be like a thirsty man dreaming that he is drinking,
 only to awaken and find that he is still weak and his thirst unquenched.
 So it will be for the horde from all the nations
 that fight against Mount Zion.
+
+### God’s People Are Spiritually Insensitive
+
 [9] You will be shocked and amazed!
 You are totally blind!
 They are drunk, but not because of wine;
@@ -1908,6 +1974,9 @@ who do their work in secret and boast,
 Should the potter be regarded as clay?
 Should the thing made say about its maker, “He didn’t make me”?
 Or should the pottery say about the potter, “He doesn’t understand”?
+
+### Changes Are Coming
+
 [17] In just a very short time
 Lebanon will turn into an orchard,
 and the orchard will be considered a forest.
@@ -1934,6 +2003,7 @@ those who complain will acquire insight.
 # Isaiah
 
 ## Chapter 30 <!-- scripture:30 -->
+
 
 ### Egypt Will Prove Unreliable
 
@@ -2002,6 +2072,9 @@ at the battle cry of five enemy soldiers you will all run away,
 until the remaining few are as isolated
 as a flagpole on a mountaintop
 or a signal flag on a hill.”
+
+### The Lord Will Not Abandon His People
+
 [18] For this reason the Lord is ready to show you mercy;
 he sits on his throne, ready to have compassion on you.
 Indeed, the Lord is a just God;
@@ -2066,6 +2139,7 @@ will ignite it.
 
 ## Chapter 31 <!-- scripture:31 -->
 
+
 ### Egypt Will Disappoint
 
 [1] Those who go down to Egypt for help are as good as dead;
@@ -2084,6 +2158,9 @@ The Lord will strike with his hand;
 the one who helps will stumble
 and the one being helped will fall.
 Together they will perish.
+
+### The Lord Will Defend Zion
+
 [4] Indeed, this is what the Lord has said to me:
 “The Lord will be like a growling lion,
 like a young lion growling over its prey.
@@ -2111,6 +2188,7 @@ whose firepot is in Jerusalem.
 
 ## Chapter 32 <!-- scripture:32 -->
 
+
 ### Justice and Wisdom Will Prevail
 
 [1] Look, a king will promote fairness;
@@ -2137,6 +2215,9 @@ to ruin the poor with lies,
 even when the needy are in the right.
 [8] An honorable man makes honorable plans;
 his honorable character gives him security.
+
+### The Lord Will Give True Security
+
 [9] You complacent women,
 get up and listen to me!
 You carefree daughters,
@@ -2180,6 +2261,7 @@ you who let your ox and donkey graze.
 # Isaiah
 
 ## Chapter 33 <!-- scripture:33 -->
+
 
 ### The Lord Will Restore Zion
 
@@ -2271,6 +2353,7 @@ the people who live there will have their sin forgiven.
 
 ## Chapter 34 <!-- scripture:34 -->
 
+
 ### The Lord Will Judge Edom
 
 [1] Come near, you nations, and listen!
@@ -2342,6 +2425,7 @@ they will settle in it through successive generations.
 
 ## Chapter 35 <!-- scripture:35 -->
 
+
 ### The Land and Its People Are Transformed
 
 [1] Let the wilderness and desert be happy;
@@ -2385,6 +2469,7 @@ grief and suffering will disappear.
 # Isaiah
 
 ## Chapter 36 <!-- scripture:36 -->
+
 
 ### Sennacherib Invades Judah
 
@@ -2496,6 +2581,7 @@ for the sake of my reputation and because of my promise to David my servant.”
 
 ## Chapter 38 <!-- scripture:38 -->
 
+
 ### The Lord Hears Hezekiah’s Prayer
 
 [1] In those days Hezekiah was stricken with a terminal illness. The prophet Isaiah son of Amoz visited him and told him, “This is what the Lord says, ‘Give instructions to your household, for you are about to die; you will not get well.’”
@@ -2506,6 +2592,9 @@ for the sake of my reputation and because of my promise to David my servant.”
 [6] I will also rescue you and this city from the king of Assyria. I will shield this city.”’”
 [7] Isaiah replied, “This is your sign from the Lord confirming that the Lord will do what he has said:
 [8] Look, I will make the shadow go back ten steps on the stairs of Ahaz.” And then the shadow went back ten steps.
+
+### Hezekiah’s Song of Thanks
+
 [9] This is the prayer of King Hezekiah of Judah when he was sick and then recovered from his illness:
 [10] “I thought,
 ‘In the middle of my life I must walk through the gates of Sheol,
@@ -2546,6 +2635,7 @@ for the rest of our lives in the Lord’s temple.”
 
 ## Chapter 39 <!-- scripture:39 -->
 
+
 ### Messengers from Babylon Visit Hezekiah
 
 [1] At that time Merodach Baladan son of Baladan, king of Babylon, sent letters and a gift to Hezekiah, for he heard that Hezekiah had been ill and had recovered.
@@ -2559,6 +2649,7 @@ for the rest of our lives in the Lord’s temple.”
 # Isaiah
 
 ## Chapter 40 <!-- scripture:40 -->
+
 
 ### The Lord Returns to Jerusalem
 
@@ -2602,6 +2693,9 @@ his prize goes before him.
 he gathers up the lambs with his arm;
 he carries them close to his heart;
 he leads the ewes along.
+
+### The Lord is Incomparable
+
 [12] Who has measured out the waters in the hollow of his hand,
 or carefully measured the sky,
 or carefully weighed the soil of the earth,
@@ -2673,6 +2767,7 @@ they walk without getting tired.
 
 ## Chapter 41 <!-- scripture:41 -->
 
+
 ### The Lord Challenges the Nations
 
 [1] “Listen to me in silence, you coastlands!
@@ -2700,6 +2795,9 @@ one says to the other, ‘Be strong!’
 the one who wields the hammer encourages the one who pounds on the anvil.
 He approves the quality of the welding,
 and nails it down so it won’t fall over.
+
+### The Lord Encourages His People
+
 [8] “You, my servant Israel,
 Jacob, whom I have chosen,
 offspring of Abraham my friend,
@@ -2745,6 +2843,9 @@ I will make evergreens, firs, and cypresses grow together in the arid rift valle
 so they will pay attention and understand
 that the Lord’s power has accomplished this,
 and that the Holy One of Israel has brought it into being.
+
+### The Lord Challenges the Pagan Gods
+
 [21] “Present your argument,” says the Lord.
 “Produce your evidence,” says Jacob’s king.
 [22] “Let them produce evidence! Let them tell us what will happen!
@@ -2778,6 +2879,7 @@ their metal images lack any real substance.
 
 ## Chapter 42 <!-- scripture:42 -->
 
+
 ### The Lord Commissions His Special Servant
 
 [1] “Here is my servant whom I support,
@@ -2804,6 +2906,9 @@ and a light to the nations,
 [7] to open blind eyes,
 to release prisoners from dungeons,
 those who live in darkness from prisons.
+
+### The Lord Intervenes
+
 [8] “I am the Lord! That is my name!
 I will not share my glory with anyone else,
 or the praise due me with idols.
@@ -2841,6 +2946,9 @@ I will not abandon them.
 [17] Those who trust in idols
 will turn back and be utterly humiliated,
 those who say to metal images, ‘You are our gods.’
+
+### The Lord Reasons with His People
+
 [18] “Listen, you deaf ones!
 Take notice, you blind ones!
 [19] My servant is truly blind,
@@ -2869,6 +2977,7 @@ it burned against them, but they did not take it to heart.
 # Isaiah
 
 ## Chapter 43 <!-- scripture:43 -->
+
 
 ### The Lord Will Rescue His People
 
@@ -2899,6 +3008,9 @@ and my daughters from the remote regions of the earth,
 [7] everyone who belongs to me,
 whom I created for my glory,
 whom I formed—yes, whom I made.
+
+### The Lord Declares His Sovereignty
+
 [8] Bring out the people who are blind, even though they have eyes,
 those who are deaf, even though they have ears!
 [9] All nations gather together,
@@ -2921,6 +3033,9 @@ You are my witnesses,” says the Lord, “that I am God.
 [13] From this day forward I am he;
 no one can deliver from my power;
 I will act, and who can prevent it?”
+
+### The Lord Will Do Something New
+
 [14] This is what the Lord says,
 your Protector, the Holy One of Israel:
 “For your sake I send to Babylon
@@ -2948,6 +3063,9 @@ and streams in the wastelands,
 to quench the thirst of my chosen people,
 [21] the people whom I formed for myself,
 so they might praise me.
+
+### The Lord Rebukes His People
+
 [22] “But you did not call for me, O Jacob;
 you did not long for me, O Israel.
 [23] You did not bring me lambs for your burnt offerings;
@@ -2971,6 +3089,7 @@ and subjected Israel to humiliating abuse.
 
 ## Chapter 44 <!-- scripture:44 -->
 
+
 ### The Lord Will Renew Israel
 
 [1] “Now, listen, Jacob my servant,
@@ -2989,6 +3108,9 @@ like poplars beside channels of water.
 and another will use the name ‘Jacob.’
 One will write on his hand, ‘The Lord’s,’
 and use the name ‘Israel.’”
+
+### The Absurdity of Idolatry
+
 [6] This is what the Lord, Israel’s king, says,
 their Protector, the Lord of Heaven’s Armies:
 “I am the first and I am the last,
@@ -3069,6 +3191,9 @@ O mountains, give a joyful shout;
 you too, O forest and all your trees!
 For the Lord protects Jacob;
 he reveals his splendor through Israel.
+
+### The Lord Empowers Cyrus
+
 [24] This is what the Lord, your Protector, says,
 the one who formed you in the womb:
 “I am the Lord, who made everything,
@@ -3092,8 +3217,6 @@ and concerning the temple, ‘It will be reconstructed.’
 # Isaiah
 
 ## Chapter 45 <!-- scripture:45 -->
-
-### The Lord Gives a Warning
 
 to Cyrus, whose right hand I hold
 in order to subdue nations before him,
@@ -3128,6 +3251,9 @@ Let the clouds send down showers of deliverance!
 Let the earth absorb it so salvation may grow,
 and deliverance may sprout up along with it.
 I, the Lord, create it.’”
+
+### The Lord Gives a Warning
+
 [9] One who argues with his Creator is in grave danger,
 one who is like a mere shard among the other shards on the ground!
 The clay should not say to the potter,
@@ -3152,6 +3278,9 @@ He will rebuild my city;
 he will send my exiled people home,
 but not for a price or a bribe,”
 says the Lord of Heaven’s Armies.
+
+### The Lord is the Nations’ Only Hope
+
 [14] This is what the Lord says:
 “The profit of Egypt and the revenue of Ethiopia,
 along with the Sabeans, those tall men,
@@ -3210,6 +3339,7 @@ and will boast in him.
 
 ## Chapter 46 <!-- scripture:46 -->
 
+
 ### The Lord Carries His People
 
 [1] Bel kneels down,
@@ -3262,6 +3392,7 @@ I will adorn Israel with my splendor.
 # Isaiah
 
 ## Chapter 47 <!-- scripture:47 -->
+
 
 ### Babylon Will Fall
 
@@ -3341,6 +3472,7 @@ leaving no one to rescue you.”
 # Isaiah
 
 ## Chapter 48 <!-- scripture:48 -->
+
 
 ### The Lord Appeals to the Exiles
 
@@ -3430,6 +3562,7 @@ he splits open a rock and water flows out.’
 
 ## Chapter 49 <!-- scripture:49 -->
 
+
 ### Delivery of the Exiles
 
 [1] Listen to me, you coastlands!
@@ -3489,6 +3622,9 @@ Rejoice, O earth!
 Let the mountains give a joyful shout!
 For the Lord consoles his people
 and shows compassion to the oppressed.
+
+### The Lord Remembers Zion
+
 [14] “Zion said, ‘The Lord has abandoned me,
 the Lord has forgotten me.’
 [15] Can a woman forget her baby who nurses at her breast?
@@ -3546,8 +3682,6 @@ your Protector, the Powerful One of Jacob.”
 
 ## Chapter 50 <!-- scripture:50 -->
 
-### The Servant Perseveres
-
 [1] This is what the Lord says:
 “Where is your mother’s divorce certificate
 by which I divorced her?
@@ -3564,6 +3698,9 @@ so the fish rot away and die
 from lack of water.
 [3] I can clothe the sky in darkness;
 I can cover it with sackcloth.”
+
+### The Servant Perseveres
+
 [4] The Sovereign Lord has given me the capacity to be his spokesman,
 so that I know how to help the weary.
 He wakes me up every morning;
@@ -3601,6 +3738,7 @@ you will lie down in a place of pain.
 # Isaiah
 
 ## Chapter 51 <!-- scripture:51 -->
+
 
 ### There is Hope for the Future
 
@@ -3672,6 +3810,9 @@ he will not go hungry.
 [15] I am the Lord your God,
 who churns up the sea so that its waves surge.
 The Lord of Heaven’s Armies is his name!
+
+### Zion’s Time to Celebrate
+
 [16] “I commission you as my spokesman;
 I cover you with the palm of my hand,
 to establish the sky and to found the earth,
@@ -3710,8 +3851,6 @@ and like the street for those who walked over you.”
 # Isaiah
 
 ## Chapter 52 <!-- scripture:52 -->
-
-### The Lord Will Vindicate His Servant
 
 [1] Wake up! Wake up!
 Clothe yourself with strength, O Zion!
@@ -3760,6 +3899,9 @@ Stay pure, you who carry the Lord’s holy items.
 or leave in a panic.
 For the Lord goes before you;
 the God of Israel is your rear guard.
+
+### The Lord Will Vindicate His Servant
+
 [13] Look, my servant will succeed!
 He will be elevated, lifted high, and greatly exalted —
 [14] (just as many were horrified by the sight of you)
@@ -3824,6 +3966,7 @@ and intervened on behalf of the rebels.”
 # Isaiah
 
 ## Chapter 54 <!-- scripture:54 -->
+
 
 ### Zion Will Be Secure
 
@@ -3891,6 +4034,7 @@ says the Lord.
 
 ## Chapter 55 <!-- scripture:55 -->
 
+
 ### The Lord Gives an Invitation
 
 [1] “Hey, all who are thirsty, come to the water!
@@ -3945,6 +4089,7 @@ a permanent reminder that will remain.
 
 ## Chapter 56 <!-- scripture:56 -->
 
+
 ### The Lord Invites Outsiders to Enter
 
 [1] This is what the Lord says,
@@ -3977,6 +4122,9 @@ for my temple will be known as a temple where all nations may pray.”
 [8] The Sovereign Lord says this,
 the one who gathers the dispersed of Israel:
 “I will still gather them up.”
+
+### The Lord Denounces Israel’s Paganism
+
 [9] All you wild animals in the fields, come and devour,
 all you wild animals in the forest!
 [10] All their watchmen are blind,
@@ -4078,6 +4226,7 @@ its waves toss up mud and sand.
 
 ## Chapter 58 <!-- scripture:58 -->
 
+
 ### The Lord Desires Genuine Devotion
 
 [1] “Shout loudly! Don’t be quiet!
@@ -4148,6 +4297,7 @@ Know for certain that the Lord has spoken.
 
 ## Chapter 59 <!-- scripture:59 -->
 
+
 ### Injustice Brings Alienation from God
 
 [1] Look, the Lord’s hand is not too weak to deliver you;
@@ -4179,6 +4329,9 @@ they crush and destroy.
 their deeds are unjust.
 They use deceitful methods,
 and whoever deals with them is unfamiliar with peace.
+
+### Israel Confesses its Sin
+
 [9] For this reason deliverance is far from us
 and salvation does not reach us.
 We wait for light, but see only darkness;
@@ -4207,6 +4360,9 @@ and morality is not even able to enter.
 the one who tries to avoid evil is robbed.
 The Lord watches and is displeased,
 for there is no justice.
+
+### The Lord Intervenes
+
 [16] He sees there is no advocate;
 he is shocked that no one intervenes.
 So he takes matters into his own hands;
@@ -4229,6 +4385,7 @@ to those in Jacob who repent of their rebellious deeds,” says the Lord.
 # Isaiah
 
 ## Chapter 60 <!-- scripture:60 -->
+
 
 ### Zion’s Future Splendor
 
@@ -4321,6 +4478,7 @@ When the right time comes, I the Lord will quickly do this!”
 
 ## Chapter 61 <!-- scripture:61 -->
 
+
 ### The Lord Will Rejuvenate His People
 
 [1] The Spirit of the Sovereign Lord is upon me,
@@ -4373,6 +4531,7 @@ and give his people reason to praise him in the sight of all the nations.
 # Isaiah
 
 ## Chapter 62 <!-- scripture:62 -->
+
 
 ### The Lord Takes Delight in Zion
 
@@ -4429,6 +4588,7 @@ City Not Abandoned.”
 
 ## Chapter 63 <!-- scripture:63 -->
 
+
 ### The Victorious Divine Warrior
 
 [1] Who is this who comes from Edom,
@@ -4454,6 +4614,9 @@ my raging anger drove me on.
 [6] I trampled nations in my anger;
 I made them drunk in my rage;
 I splashed their blood on the ground.”
+
+### A Prayer for Divine Intervention
+
 [7] I will tell of the faithful acts of the Lord,
 of the Lord’s praiseworthy deeds.
 I will tell about all the Lord did for us,
@@ -4545,6 +4708,7 @@ How can you be silent and continue to humiliate us?
 # Isaiah
 
 ## Chapter 65 <!-- scripture:65 -->
+
 
 ### The Lord Will Distinguish Between Sinners and the Godly
 

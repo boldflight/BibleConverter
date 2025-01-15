@@ -2,9 +2,13 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Introduction
 
 [1] This is the Lord’s message that came to Joel the son of Pethuel:
+
+### A Locust Plague Foreshadows the Day of the Lord
+
 [2] Listen to this, you elders;
 pay attention, all inhabitants of the land.
 Has anything like this ever happened in your whole life
@@ -25,6 +29,9 @@ they have the fangs of a lioness.
 they have turned my fig trees into mere splinters.
 They have completely stripped off the bark and thrown it aside;
 the twigs are stripped bare.
+
+### A Call to Lament
+
 [8] Wail like a young virgin clothed in sackcloth,
 lamenting the death of her husband to be.
 [9] No one brings grain offerings or drink offerings
@@ -73,6 +80,7 @@ fire has destroyed the pastures of the wilderness.
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### The Locusts’ Devastation
 
 [1] Blow the trumpet in Zion;
@@ -118,6 +126,9 @@ Indeed, his warriors are innumerable;
 Surely his command is carried out!
 Yes, the day of the Lord is awesome
 and very terrifying—who can survive it?
+
+### An Appeal for Repentance
+
 [12] “Yet even now,” the Lord says,
 “return to me with all your heart—
 with fasting, weeping, and mourning.
@@ -145,6 +156,9 @@ please do not turn over your inheritance to be mocked,
 to become a proverb among the nations.
 Why should it be said among the peoples,
 ‘Where is their God?’
+
+### The Lord’s Response
+
 [18] Then the Lord became zealous for his land;
 he had compassion on his people.
 [19] The Lord responded to his people,
@@ -183,6 +197,9 @@ My people will never again be put to shame.
 [27] You will be convinced that I am in the midst of Israel.
 I am the Lord your God; there is no other.
 My people will never again be put to shame.
+
+### An Outpouring of the Spirit
+
 [28] (3:1) After all of this
 I will pour out my Spirit on all kinds of people.
 Your sons and daughters will prophesy.
@@ -204,6 +221,7 @@ the remnant will be those whom the Lord will call.
 # Joel
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### The Lord Plans to Judge the Nations
 
@@ -230,6 +248,9 @@ I will repay you for what you have done!
 [8] I will sell your sons and daughters to the people of Judah.
 They will sell them to the Sabeans, a nation far away.
 Indeed, the Lord has spoken.
+
+### Judgment in the Valley of Jehoshaphat
+
 [9] Proclaim this among the nations:
 “Prepare for a holy war!
 Call out the warriors!
@@ -256,6 +277,9 @@ from Jerusalem his voice bellows out.
 The heavens and the earth shake.
 But the Lord is a refuge for his people;
 he is a stronghold for the citizens of Israel.
+
+### The Lord’s Presence in Zion
+
 [17] “You will be convinced that I the Lord am your God,
 dwelling on Zion, my holy mountain.
 Jerusalem will be holy—

@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### A Vision of God’s Glory
 
 [1] In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles at the Kebar River, the heavens opened and I saw a divine vision.
@@ -36,6 +37,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Ezekiel’s Commission
 
 [1] He said to me, “Son of man, stand on your feet and I will speak with you.”
@@ -52,8 +54,6 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
-### Ezekiel Before the Exiles
-
 [1] He said to me, “Son of man, eat what you see in front of you —eat this scroll—and then go and speak to the house of Israel.”
 [2] So I opened my mouth and he fed me the scroll.
 [3] He said to me, “Son of man, feed your stomach and fill your belly with this scroll I am giving to you.” So I ate it, and it was sweet like honey in my mouth.
@@ -65,6 +65,9 @@
 [9] I have made your forehead harder than flint—like diamond! Do not fear them or be terrified of the looks they give you, for they are a rebellious house.”
 [10] And he said to me, “Son of man, take all my words that I speak to you to heart and listen carefully.
 [11] Go to the exiles, to your fellow countrymen, and speak to them. Say to them, ‘This is what the Sovereign Lord says,’ whether they pay attention or not.”
+
+### Ezekiel Before the Exiles
+
 [12] Then a wind lifted me up and I heard a great rumbling sound behind me as the glory of the Lord rose from its place,
 [13] and the sound of the living beings’ wings brushing against each other, and the sound of the wheels alongside them, a great rumbling sound.
 [14] A wind lifted me up and carried me away. I went bitterly, my spirit full of fury, and the hand of the Lord rested powerfully on me.
@@ -75,6 +78,9 @@
 [19] But as for you, if you warn the wicked and he does not turn from his wicked deed and from his wicked lifestyle, he will die for his iniquity but you will have saved your own life.
 [20] “When a righteous person turns from his righteousness and commits iniquity, and I set an obstacle before him, he will die. If you have not warned him, he will die for his sin. The righteous deeds he performed will not be considered, but I will hold you accountable for his death.
 [21] However, if you warn the righteous person not to sin, and he does not sin, he will certainly live because he was warned, and you will have saved your own life.”
+
+### Isolated and Silenced
+
 [22] The hand of the Lord rested on me there, and he said to me, “Get up, go out to the valley, and I will speak with you there.”
 [23] So I got up and went out to the valley, and the glory of the Lord was standing there, just like the glory I had seen by the Kebar River, and I threw myself face down.
 [24] Then a wind came into me and stood me on my feet. The Lord spoke to me and said, “Go shut yourself in your house.
@@ -84,6 +90,7 @@
 # Ezekiel
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Ominous Object Lessons
 
@@ -129,6 +136,7 @@
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Judgment on the Mountains of Israel
 
 [1] The Lord’s message came to me:
@@ -148,6 +156,7 @@
 # Ezekiel
 
 ## Chapter 7 <!-- scripture:7 -->
+
 
 ### The End Arrives
 
@@ -182,6 +191,7 @@
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### A Desecrated Temple
 
 [1] In the sixth year, in the sixth month, on the fifth of the month, as I was sitting in my house with the elders of Judah sitting in front of me, the hand of the Sovereign Lord seized me.
@@ -206,6 +216,7 @@
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### The Execution of Idolaters
 
 [1] Then he shouted in my ears, “Approach, you who are to visit destruction on the city, each with his destructive weapon in his hand!”
@@ -222,6 +233,7 @@
 # Ezekiel
 
 ## Chapter 10 <!-- scripture:10 -->
+
 
 ### God’s Glory Leaves the Temple
 
@@ -250,6 +262,7 @@
 # Ezekiel
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### The Fall of Jerusalem
 
@@ -281,6 +294,7 @@
 # Ezekiel
 
 ## Chapter 12 <!-- scripture:12 -->
+
 
 ### Previewing the Exile
 
@@ -316,6 +330,7 @@
 
 ## Chapter 13 <!-- scripture:13 -->
 
+
 ### False Prophets Denounced
 
 [1] Then the Lord’s message came to me:
@@ -344,6 +359,7 @@
 # Ezekiel
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### Well-Deserved Judgment
 
@@ -374,6 +390,7 @@
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### Burning a Useless Vine
 
 [1] The Lord’s message came to me:
@@ -387,6 +404,7 @@
 # Ezekiel
 
 ## Chapter 16 <!-- scripture:16 -->
+
 
 ### God’s Unfaithful Bride
 
@@ -457,6 +475,7 @@
 
 ## Chapter 17 <!-- scripture:17 -->
 
+
 ### A Parable of Two Eagles and a Vine
 
 [1] The Lord’s message came to me:
@@ -519,6 +538,7 @@ I, the Lord, have spoken, and I will do it!’”
 
 ## Chapter 18 <!-- scripture:18 -->
 
+
 ### Individual Retribution
 
 [1] The Lord’s message came to me:
@@ -559,6 +579,7 @@ And the children’s teeth become numb?’
 
 ## Chapter 19 <!-- scripture:19 -->
 
+
 ### Lament for the Princes of Israel
 
 [1] “And you, sing a lament for the princes of Israel,
@@ -595,6 +616,7 @@ No strong branch was left in it, nor a scepter to rule.’
 # Ezekiel
 
 ## Chapter 20 <!-- scripture:20 -->
+
 
 ### Israel’s Rebellion
 
@@ -642,6 +664,9 @@ No strong branch was left in it, nor a scepter to rule.’
 [42] Then you will know that I am the Lord when I bring you to the land of Israel, to the land I swore to give to your fathers.
 [43] And there you will remember your conduct and all your deeds by which you defiled yourselves. You will despise yourselves because of all the evil deeds you have done.
 [44] Then you will know that I am the Lord, when I deal with you for the sake of my reputation and not according to your wicked conduct and corrupt deeds, O house of Israel, declares the Sovereign Lord.’”
+
+### Prophecy Against the South
+
 [45] (
 [46] “Son of man, turn toward the south, and speak out against the south. Prophesy against the open scrub land of the Negev,
 [47] and say to the scrub land of the Negev, ‘Listen to the Lord’s message! This is what the Sovereign Lord has said: Look here, I am about to start a fire in you, and it will devour every green tree and every dry tree in you. The flaming fire will not be extinguished, and the whole surface of the ground from the Negev to the north will be scorched by it.
@@ -650,6 +675,7 @@ No strong branch was left in it, nor a scepter to rule.’
 # Ezekiel
 
 ## Chapter 21 <!-- scripture:21 -->
+
 
 ### The Sword of Judgment
 
@@ -731,6 +757,7 @@ for I, the Lord, have spoken.’”
 
 ## Chapter 22 <!-- scripture:22 -->
 
+
 ### The Sins of Jerusalem
 
 [1] The Lord’s message came to me:
@@ -767,6 +794,7 @@ for I, the Lord, have spoken.’”
 # Ezekiel
 
 ## Chapter 23 <!-- scripture:23 -->
+
 
 ### Two Sisters
 
@@ -823,6 +851,7 @@ for I, the Lord, have spoken.’”
 
 ## Chapter 24 <!-- scripture:24 -->
 
+
 ### The Boiling Pot
 
 [1] The Lord’s message came to me in the ninth year, in the tenth month, on the tenth day of the month:
@@ -866,6 +895,9 @@ I tried to cleanse you, but you are not clean.
 You will not be cleansed from your uncleanness
 until I have exhausted my anger on you.
 [14] “‘I the Lord have spoken; judgment is coming and I will act! I will not relent, or show pity, or be sorry! I will judge you according to your conduct and your deeds, declares the Sovereign Lord.’”
+
+### Ezekiel’s Wife Dies
+
 [15] The Lord’s message came to me:
 [16] “Son of man, realize that I am about to take the delight of your eyes away from you with a jolt, but you must not mourn or weep or shed tears.
 [17] Groan to moan for the dead, but do not perform mourning rites. Bind on your turban and put your sandals on your feet. Do not cover your lip and do not eat food brought by others.”
@@ -883,6 +915,7 @@ until I have exhausted my anger on you.
 
 ## Chapter 25 <!-- scripture:25 -->
 
+
 ### A Prophecy Against Ammon
 
 [1] The Lord’s message came to me:
@@ -892,19 +925,29 @@ until I have exhausted my anger on you.
 [5] I will make Rabbah a pasture for camels and Ammon a resting place for sheep. Then you will know that I am the Lord.
 [6] For this is what the Sovereign Lord says: Because you clapped your hands, stamped your feet, and rejoiced with intense scorn over the land of Israel,
 [7] take note—I have stretched out my hand against you, and I will hand you over as plunder to the nations. I will cut you off from the peoples and make you perish from the lands. I will destroy you; then you will know that I am the Lord.’”
+
+### A Prophecy Against Moab
+
 [8] “This is what the Sovereign Lord says: ‘Moab and Seir say, “Look, the house of Judah is like all the other nations.”
 [9] So look, I am about to open up Moab’s flank, eliminating the cities, including its frontier cities, the beauty of the land—Beth Jeshimoth, Baal Meon, and Kiriathaim.
 [10] I will hand it over, along with the Ammonites, to the tribes of the east, so that the Ammonites will no longer be remembered among the nations.
 [11] I will execute judgments against Moab. Then they will know that I am the Lord.’”
+
+### A Prophecy Against Edom
+
 [12] “This is what the Sovereign Lord says: ‘Edom has taken vengeance against the house of Judah; they have made themselves fully culpable by taking vengeance on them.
 [13] So this is what the Sovereign Lord says: I will stretch out my hand against Edom, and I will kill the people and animals within her, and I will make her desolate; from Teman to Dedan they will die by the sword.
 [14] I will exact my vengeance upon Edom by the hand of my people Israel. They will carry out in Edom my anger and rage; they will experience my vengeance, declares the Sovereign Lord.’”
+
+### A Prophecy Against Philistia
+
 [15] “This is what the Sovereign Lord says: ‘The Philistines have exacted merciless revenge, showing intense scorn in their effort to destroy Judah with unrelenting hostility.
 [16] So this is what the Sovereign Lord says: Take note, I am about to stretch out my hand against the Philistines. I will kill the Kerethites and destroy those who remain on the seacoast.
 [17] I will exact great vengeance upon them with angry rebukes. Then they will know that I am the Lord, when I exact my vengeance upon them.’”
 # Ezekiel
 
 ## Chapter 26 <!-- scripture:26 -->
+
 
 ### A Prophecy Against Tyre
 
@@ -936,6 +979,7 @@ the coastlands by the sea will be terrified by your passing.’
 # Ezekiel
 
 ## Chapter 27 <!-- scripture:27 -->
+
 
 ### A Lament for Tyre
 
@@ -1007,6 +1051,7 @@ you have become a horror, and will be no more.’”
 
 ## Chapter 28 <!-- scripture:28 -->
 
+
 ### A Prophecy Against the King of Tyre
 
 [1] The Lord’s message came to me:
@@ -1062,6 +1107,9 @@ and I turned you to ashes on the earth
 before the eyes of all who saw you.
 [19] All who know you among the peoples are shocked at you;
 you have become terrified and will be no more.’”
+
+### A Prophecy Against Sidon
+
 [20] The Lord’s message came to me:
 [21] “Son of man, turn toward Sidon and prophesy against it.
 [22] Say, ‘This is what the Sovereign Lord says:
@@ -1079,6 +1127,7 @@ Then they will know that I am the Lord.
 # Ezekiel
 
 ## Chapter 29 <!-- scripture:29 -->
+
 
 ### A Prophecy Against Egypt
 
@@ -1117,6 +1166,7 @@ and when they leaned on you, you splintered and caused their legs to be unsteady
 # Ezekiel
 
 ## Chapter 30 <!-- scripture:30 -->
+
 
 ### A Lament Over Egypt
 
@@ -1187,6 +1237,7 @@ Then they will know that I am the Lord.’”
 
 ## Chapter 31 <!-- scripture:31 -->
 
+
 ### A Cedar in Lebanon
 
 [1] In the eleventh year, in the third month, on the first day of the month, the Lord’s message came to me:
@@ -1226,6 +1277,7 @@ all the trees of Eden, in the garden of God, envied it.
 # Ezekiel
 
 ## Chapter 32 <!-- scripture:32 -->
+
 
 ### Lamentation over Pharaoh and Egypt
 
@@ -1301,6 +1353,7 @@ declares the Sovereign Lord.”
 
 ## Chapter 33 <!-- scripture:33 -->
 
+
 ### Ezekiel Israel’s Watchman
 
 [1] The Lord’s message came to me:
@@ -1323,6 +1376,9 @@ declares the Sovereign Lord.”
 [18] When a righteous man turns from his godliness and commits iniquity, he will die for it.
 [19] When the wicked turns from his sin and does what is just and right, he will live because of it.
 [20] Yet you say, ‘The behavior of the Lord is not right.’ House of Israel, I will judge each of you according to his behavior.”
+
+### The Fall of Jerusalem
+
 [21] In the twelfth year of our exile, in the tenth month, on the fifth of the month, a refugee came to me from Jerusalem saying, “The city has been defeated!”
 [22] Now the hand of the Lord had been on me the evening before the refugee reached me, but the Lord opened my mouth by the time the refugee arrived in the morning; he opened my mouth and I was able to speak once more.
 [23] The Lord’s message came to me:
@@ -1339,6 +1395,7 @@ declares the Sovereign Lord.”
 # Ezekiel
 
 ## Chapter 34 <!-- scripture:34 -->
+
 
 ### A Prophecy Against False Shepherds
 
@@ -1377,6 +1434,7 @@ declares the Sovereign Lord.”
 
 ## Chapter 35 <!-- scripture:35 -->
 
+
 ### Prophecy Against Mount Seir
 
 [1] The Lord’s message came to me:
@@ -1402,6 +1460,7 @@ Then you will know that I am the Lord!
 # Ezekiel
 
 ## Chapter 36 <!-- scripture:36 -->
+
 
 ### Blessings on the Mountains of Israel
 
@@ -1447,6 +1506,7 @@ Then you will know that I am the Lord!
 
 ## Chapter 37 <!-- scripture:37 -->
 
+
 ### The Valley of Dry Bones
 
 [1] The hand of the Lord was on me, and he brought me out by the Spirit of the Lord and placed me in the midst of the valley, and it was full of bones.
@@ -1480,6 +1540,7 @@ Then you will know that I am the Lord!
 # Ezekiel
 
 ## Chapter 38 <!-- scripture:38 -->
+
 
 ### A Prophecy Against Gog
 
@@ -1543,6 +1604,7 @@ Then you will know that I am the Lord!
 
 ## Chapter 40 <!-- scripture:40 -->
 
+
 ### Vision of the New Temple
 
 [1] In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, in the fourteenth year after the city was struck down, on this very day, the hand of the Lord was on me, and he brought me there.
@@ -1598,6 +1660,7 @@ Then you will know that I am the Lord!
 
 ## Chapter 41 <!-- scripture:41 -->
 
+
 ### The Inner Temple
 
 [1] Then he brought me to the outer sanctuary and measured the jambs; the jambs were 10½ feet wide on each side.
@@ -1630,6 +1693,7 @@ Then you will know that I am the Lord!
 
 ## Chapter 42 <!-- scripture:42 -->
 
+
 ### Chambers for the Temple
 
 [1] Then he led me out to the outer court, toward the north, and brought me to the chamber that was opposite the courtyard and opposite the building on the north.
@@ -1656,6 +1720,7 @@ Then you will know that I am the Lord!
 
 ## Chapter 43 <!-- scripture:43 -->
 
+
 ### The Glory Returns to the Temple
 
 [1] Then he brought me to the gate that faced toward the east.
@@ -1670,6 +1735,9 @@ Then you will know that I am the Lord!
 [10] “As for you, son of man, describe the temple to the house of Israel, so that they will be ashamed of their sins and measure the pattern.
 [11] When they are ashamed of all that they have done, make known to them the design of the temple—its pattern, its exits and entrances, and its whole design—all its statutes, its entire design, and all its laws; write it all down in their sight, so that they may observe its entire design and all its statutes and do them.
 [12] “This is the law of the temple: The entire area on top of the mountain all around will be most holy. Indeed, this is the law of the temple.
+
+### The Altar
+
 [13] “And these are the measurements of the altar: Its base is 1¾ feet high and 1¾ feet wide, and its border nine inches on its edge. This is to be the height of the altar.
 [14] From the base of the ground to the lower ledge is 3½ feet, and the width 1¾ feet; and from the smaller ledge to the larger ledge, 7 feet, and the width 1¾ feet;
 [15] and the altar hearth, 7 feet, and from the altar hearth four horns projecting upward.
@@ -1689,6 +1757,7 @@ Then you will know that I am the Lord!
 
 ## Chapter 44 <!-- scripture:44 -->
 
+
 ### The Closed Gate
 
 [1] Then he brought me back by way of the outer gate of the sanctuary that faces east, but it was shut.
@@ -1705,6 +1774,9 @@ Then you will know that I am the Lord!
 [12] Because they used to minister to them before their idols and became a sinful obstacle to the house of Israel, consequently I have made a vow concerning them, declares the Sovereign Lord, that they will be responsible for their sin.
 [13] They will not come near me to serve me as priest, nor will they come near any of my holy things, the things that are most sacred. They will bear the shame of the abominable deeds they have committed.
 [14] Yet I will appoint them to keep charge of the temple, all its service, and all that will be done in it.
+
+### The Levitical Priests
+
 [15] “‘But the Levitical priests, the descendants of Zadok who kept the charge of my sanctuary when the people of Israel went astray from me, will approach me to minister to me; they will stand before me to offer me the fat and the blood, declares the Sovereign Lord.
 [16] They will enter my sanctuary and approach my table to minister to me; they will keep my charge.
 [17] “‘When they enter the gates of the inner court, they must wear linen garments; they must not have any wool on them when they minister in the inner gates of the court and in the temple.
@@ -1725,6 +1797,7 @@ Then you will know that I am the Lord!
 # Ezekiel
 
 ## Chapter 45 <!-- scripture:45 -->
+
 
 ### The Lord’s Portion of the Land
 
@@ -1757,6 +1830,7 @@ Then you will know that I am the Lord!
 
 ## Chapter 46 <!-- scripture:46 -->
 
+
 ### The Prince’s Offerings
 
 [1] “‘This is what the Sovereign Lord says: The gate of the inner court that faces east will be closed six working days, but on the Sabbath day it will be opened and on the day of the new moon it will be opened.
@@ -1787,6 +1861,7 @@ Then you will know that I am the Lord!
 
 ## Chapter 47 <!-- scripture:47 -->
 
+
 ### Water from the Temple
 
 [1] Then he brought me back to the entrance of the temple. I noticed that water was flowing from under the threshold of the temple toward the east (for the temple faced east). The water was flowing down from under the right side of the temple, from south of the altar.
@@ -1801,6 +1876,9 @@ Then you will know that I am the Lord!
 [10] Fishermen will stand beside it; from En Gedi to En Eglaim they will spread nets. They will catch many kinds of fish, like the fish of the Great Sea.
 [11] But its swamps and its marshes will not become fresh; they will remain salty.
 [12] On both sides of the river’s banks, every kind of tree will grow for food. Their leaves will not wither nor will their fruit fail, but they will bear fruit every month, because their water source flows from the sanctuary. Their fruit will be for food and their leaves for healing.”
+
+### Boundaries for the Land
+
 [13] This is what the Sovereign Lord says: “Here are the borders you will observe as you allot the land to the twelve tribes of Israel. (Joseph will have two portions.)
 [14] You must divide it equally just as I vowed to give it to your forefathers; this land will be assigned as your inheritance.
 [15] “This will be the border of the land: On the north side, from the Great Sea by way of Hethlon to the entrance of Zedad;
@@ -1815,6 +1893,7 @@ Then you will know that I am the Lord!
 # Ezekiel
 
 ## Chapter 48 <!-- scripture:48 -->
+
 
 ### The Tribal Portions
 

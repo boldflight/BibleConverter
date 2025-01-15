@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The Prologue to the Gospel
 
 [1] In the beginning was the Word, and the Word was with God, and the Word was fully God.
@@ -22,6 +23,9 @@
 [16] For we have all received from his fullness one gracious gift after another.
 [17] For the law was given through Moses, but grace and truth came about through Jesus Christ.
 [18] No one has ever seen God. The only one, himself God, who is in closest fellowship with the Father, has made God known.
+
+### The Testimony of John the Baptist
+
 [19] Now this was John’s testimony when the Jewish leaders sent priests and Levites from Jerusalem to ask him, “Who are you?”
 [20] He confessed—he did not deny but confessed—“I am not the Christ!”
 [21] So they asked him, “Then who are you? Are you Elijah?” He said, “I am not!” “Are you the Prophet?” He answered, “No!”
@@ -43,9 +47,15 @@
 [37] When John’s two disciples heard him say this, they followed Jesus.
 [38] Jesus turned around and saw them following and said to them, “What do you want?” So they said to him, “Rabbi” (which is translated Teacher), “where are you staying?”
 [39] Jesus answered, “Come and you will see.” So they came and saw where he was staying, and they stayed with him that day. Now it was about four o’clock in the afternoon.
+
+### Andrew’s Declaration
+
 [40] Andrew, the brother of Simon Peter, was one of the two disciples who heard what John said and followed Jesus.
 [41] He first found his own brother Simon and told him, “We have found the Messiah!” (which is translated Christ).
 [42] Andrew brought Simon to Jesus. Jesus looked at him and said, “You are Simon, the son of John. You will be called Cephas” (which is translated Peter).
+
+### The Calling of More Disciples
+
 [43] On the next day Jesus wanted to set out for Galilee. He found Philip and said to him, “Follow me.”
 [44] (Now Philip was from Bethsaida, the town of Andrew and Peter.)
 [45] Philip found Nathanael and told him, “We have found the one Moses wrote about in the law, and the prophets also wrote about—Jesus of Nazareth, the son of Joseph.”
@@ -58,6 +68,7 @@
 # John
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Turning Water into Wine
 
@@ -72,6 +83,9 @@
 [9] When the head steward tasted the water that had been turned to wine, not knowing where it came from (though the servants who had drawn the water knew), he called the bridegroom
 [10] and said to him, “Everyone serves the good wine first, and then the cheaper wine when the guests are drunk. You have kept the good wine until now!”
 [11] Jesus did this as the first of his miraculous signs, in Cana of Galilee. In this way he revealed his glory, and his disciples believed in him.
+
+### Cleansing the Temple
+
 [12] After this he went down to Capernaum with his mother and brothers and his disciples, and they stayed there a few days.
 [13] Now the Jewish feast of Passover was near, so Jesus went up to Jerusalem.
 [14] He found in the temple courts those who were selling oxen and sheep and doves, and the money changers sitting at tables.
@@ -83,12 +97,16 @@
 [20] Then the Jewish leaders said to him, “This temple has been under construction for forty-six years, and are you going to raise it up in three days?”
 [21] But Jesus was speaking about the temple of his body.
 [22] So after he was raised from the dead, his disciples remembered that he had said this, and they believed the scripture and the saying that Jesus had spoken.
+
+### Jesus at the Passover Feast
+
 [23] Now while Jesus was in Jerusalem at the Feast of the Passover, many people believed in his name because they saw the miraculous signs he was doing.
 [24] But Jesus would not entrust himself to them, because he knew all people.
 [25] He did not need anyone to testify about man, for he knew what was in man.
 # John
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### Conversation with Nicodemus
 
@@ -113,6 +131,9 @@
 [19] Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light, because their deeds were evil.
 [20] For everyone who does evil deeds hates the light and does not come to the light, so that their deeds will not be exposed.
 [21] But the one who practices the truth comes to the light, so that it may be plainly evident that his deeds have been done in God.
+
+### Further Testimony About Jesus by John the Baptist
+
 [22] After this, Jesus and his disciples came into Judean territory, and there he spent time with them and was baptizing.
 [23] John was also baptizing at Aenon near Salim, because water was plentiful there, and people were coming to him and being baptized.
 [24] (For John had not yet been thrown into prison.)
@@ -132,11 +153,15 @@
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Departure From Judea
 
 [1] Now when Jesus knew that the Pharisees had heard that he was winning and baptizing more disciples than John
 [2] (although Jesus himself was not baptizing, but his disciples were),
 [3] he left Judea and set out once more for Galilee.
+
+### Conversation With a Samaritan Woman
+
 [4] But he had to pass through Samaria.
 [5] Now he came to a Samaritan town called Sychar, near the plot of land that Jacob had given to his son Joseph.
 [6] Jacob’s well was there, so Jesus, since he was tired from the journey, sat right down beside the well. It was about noon.
@@ -160,10 +185,16 @@
 [24] God is spirit, and the people who worship him must worship in spirit and truth.”
 [25] The woman said to him, “I know that Messiah is coming” (the one called Christ); “whenever he comes, he will tell us everything.”
 [26] Jesus said to her, “I, the one speaking to you, am he.”
+
+### The Disciples Return
+
 [27] Now at that very moment his disciples came back. They were shocked because he was speaking with a woman. However, no one said, “What do you want?” or “Why are you speaking with her?”
 [28] Then the woman left her water jar, went off into the town and said to the people,
 [29] “Come, see a man who told me everything I ever did. Surely he can’t be the Messiah, can he?”
 [30] So they left the town and began coming to him.
+
+### Workers for the Harvest
+
 [31] Meanwhile the disciples were urging him, “Rabbi, eat something.”
 [32] But he said to them, “I have food to eat that you know nothing about.”
 [33] So the disciples began to say to one another, “No one brought him anything to eat, did they?”
@@ -172,13 +203,22 @@
 [36] The one who reaps receives pay and gathers fruit for eternal life, so that the one who sows and the one who reaps can rejoice together.
 [37] For in this instance the saying is true, ‘One sows and another reaps.’
 [38] I sent you to reap what you did not work for; others have labored and you have entered into their labor.”
+
+### The Samaritans Respond
+
 [39] Now many Samaritans from that town believed in him because of the report of the woman who testified, “He told me everything I ever did.”
 [40] So when the Samaritans came to him, they began asking him to stay with them. He stayed there two days,
 [41] and because of his word many more believed.
 [42] They said to the woman, “No longer do we believe because of your words, for we have heard for ourselves, and we know that this one really is the Savior of the world.”
+
+### Onward to Galilee
+
 [43] After the two days he departed from there to Galilee.
 [44] (For Jesus himself had testified that a prophet has no honor in his own country.)
 [45] So when he came to Galilee, the Galileans welcomed him because they had seen all the things he had done in Jerusalem at the feast (for they themselves had gone to the feast).
+
+### Healing the Royal Official’s Son
+
 [46] Now he came again to Cana in Galilee where he had made the water wine. In Capernaum there was a certain royal official whose son was sick.
 [47] When he heard that Jesus had come back from Judea to Galilee, he went to him and begged him to come down and heal his son, who was about to die.
 [48] So Jesus said to him, “Unless you people see signs and wonders you will never believe!”
@@ -191,6 +231,7 @@
 # John
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Healing a Paralytic at the Pool of Bethesda
 
@@ -208,6 +249,9 @@
 [13] But the man who had been healed did not know who it was, for Jesus had slipped out, since there was a crowd in that place.
 [14] After this Jesus found him at the temple and said to him, “Look, you have become well. Don’t sin any more, lest anything worse happen to you.”
 [15] The man went away and informed the Jewish leaders that Jesus was the one who had made him well.
+
+### Responding to Jewish Leaders
+
 [16] Now because Jesus was doing these things on the Sabbath, the Jewish leaders began persecuting him.
 [17] So he told them, “My Father is working until now, and I too am working.”
 [18] For this reason the Jewish leaders were trying even harder to kill him, because not only was he breaking the Sabbath, but he was also calling God his own Father, thus making himself equal with God.
@@ -223,6 +267,9 @@
 [28] “Do not be amazed at this, because a time is coming when all who are in the tombs will hear his voice
 [29] and will come out—the ones who have done what is good to the resurrection resulting in life, and the ones who have done what is evil to the resurrection resulting in condemnation.
 [30] I can do nothing on my own initiative. Just as I hear, I judge, and my judgment is just, because I do not seek my own will, but the will of the one who sent me.
+
+### More Testimony About Jesus
+
 [31] “If I testify about myself, my testimony is not true.
 [32] There is another who testifies about me, and I know the testimony he testifies about me is true.
 [33] You have sent to John, and he has testified to the truth.
@@ -244,6 +291,7 @@
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### The Feeding of the Five Thousand
 
 [1] After this Jesus went away to the other side of the Sea of Galilee (also called the Sea of Tiberias).
@@ -261,6 +309,9 @@
 [13] So they gathered them up and filled twelve baskets with broken pieces from the five barley loaves left over by the people who had eaten.
 [14] Now when the people saw the miraculous sign that Jesus performed, they began to say to one another, “This is certainly the Prophet who is to come into the world.”
 [15] Then Jesus, because he knew they were going to come and seize him by force to make him king, withdrew again up the mountainside alone.
+
+### Walking on Water
+
 [16] Now when evening came, his disciples went down to the lake,
 [17] got into a boat, and started to cross the lake to Capernaum. (It had already become dark, and Jesus had not yet come to them.)
 [18] By now a strong wind was blowing and the sea was getting rough.
@@ -270,6 +321,9 @@
 [22] The next day the crowd that remained on the other side of the lake realized that only one small boat had been there, and that Jesus had not boarded it with his disciples, but that his disciples had gone away alone.
 [23] Other boats from Tiberias came to shore near the place where they had eaten the bread after the Lord had given thanks.
 [24] So when the crowd realized that neither Jesus nor his disciples were there, they got into the boats and came to Capernaum looking for Jesus.
+
+### Jesus’ Discourse About the Bread of Life
+
 [25] When they found him on the other side of the lake, they said to him, “Rabbi, when did you get here?”
 [26] Jesus replied, “I tell you the solemn truth, you are looking for me not because you saw miraculous signs, but because you ate all the loaves of bread you wanted.
 [27] Do not work for the food that disappears, but for the food that remains to eternal life—the food which the Son of Man will give to you. For God the Father has put his seal of approval on him.”
@@ -304,6 +358,9 @@
 [56] The one who eats my flesh and drinks my blood resides in me, and I in him.
 [57] Just as the living Father sent me, and I live because of the Father, so the one who consumes me will live because of me.
 [58] This is the bread that came down from heaven; it is not like the bread your ancestors ate, but then later died. The one who eats this bread will live forever.”
+
+### Many Followers Depart
+
 [59] Jesus said these things while he was teaching in the synagogue in Capernaum.
 [60] Then many of his disciples, when they heard these things, said, “This is a difficult saying! Who can understand it?”
 [61] When Jesus was aware that his disciples were complaining about this, he said to them, “Does this cause you to be offended?
@@ -311,6 +368,9 @@
 [63] The Spirit is the one who gives life; human nature is of no help! The words that I have spoken to you are spirit and are life.
 [64] But there are some of you who do not believe.” (For Jesus had already known from the beginning who those were who did not believe, and who it was who would betray him.)
 [65] So Jesus added, “Because of this I told you that no one can come to me unless the Father has allowed him to come.”
+
+### Peter’s Confession
+
 [66] After this many of his disciples quit following him and did not accompany him any longer.
 [67] So Jesus said to the twelve, “You don’t want to go away too, do you?”
 [68] Simon Peter answered him, “Lord, to whom would we go? You have the words of eternal life.
@@ -320,6 +380,7 @@
 # John
 
 ## Chapter 7 <!-- scripture:7 -->
+
 
 ### The Feast of Shelters
 
@@ -336,6 +397,9 @@
 [11] So the Jewish leaders were looking for him at the feast, asking, “Where is he?”
 [12] There was a lot of grumbling about him among the crowds. Some were saying, “He is a good man,” but others, “He deceives the common people.”
 [13] However, no one spoke openly about him for fear of the Jewish leaders.
+
+### Teaching in the Temple
+
 [14] When the feast was half over, Jesus went up to the temple courts and began to teach.
 [15] Then the Jewish leaders were astonished and said, “How does this man know so much when he has never had formal instruction?”
 [16] So Jesus replied, “My teaching is not from me, but from the one who sent me.
@@ -347,6 +411,9 @@
 [22] However, because Moses gave you the practice of circumcision (not that it came from Moses, but from the forefathers), you circumcise a male child on the Sabbath.
 [23] But if a male child is circumcised on the Sabbath so that the law of Moses is not broken, why are you angry with me because I made a man completely well on the Sabbath?
 [24] Do not judge according to external appearance, but judge with proper judgment.”
+
+### Questions About Jesus’ Identity
+
 [25] Then some of the residents of Jerusalem began to say, “Isn’t this the man they are trying to kill?
 [26] Yet here he is, speaking publicly, and they are saying nothing to him. Do the ruling authorities really know that this man is the Christ?
 [27] But we know where this man comes from. Whenever the Christ comes, no one will know where he comes from.”
@@ -359,14 +426,23 @@
 [34] You will look for me but will not find me, and where I am you cannot come.”
 [35] Then the Jewish leaders said to one another, “Where is he going to go that we cannot find him? He is not going to go to the Jewish people dispersed among the Greeks and teach the Greeks, is he?
 [36] What did he mean by saying, ‘You will look for me but will not find me, and where I am you cannot come’?”
+
+### Teaching About the Spirit
+
 [37] On the last day of the feast, the greatest day, Jesus stood up and shouted out, “If anyone is thirsty, let him come to me, and
 [38] let the one who believes in me drink. Just as the scripture says, ‘From within him will flow rivers of living water.’”
 [39] (Now he said this about the Spirit, whom those who believed in him were going to receive, for the Spirit had not yet been given, because Jesus was not yet glorified.)
+
+### Differing Opinions About Jesus
+
 [40] When they heard these words, some of the crowd began to say, “This really is the Prophet!”
 [41] Others said, “This is the Christ!” But still others said, “No, for the Christ doesn’t come from Galilee, does he?
 [42] Don’t the scriptures say that the Christ is a descendant of David and comes from Bethlehem, the village where David lived?”
 [43] So there was a division in the crowd because of Jesus.
 [44] Some of them were wanting to seize him, but no one laid a hand on him.
+
+### Lack of Belief
+
 [45] Then the officers returned to the chief priests and Pharisees, who said to them, “Why didn’t you bring him back with you?”
 [46] The officers replied, “No one ever spoke like this man!”
 [47] Then the Pharisees answered, “You haven’t been deceived too, have you?
@@ -378,6 +454,7 @@
 # John
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### A Woman Caught in Adultery
 
@@ -393,6 +470,9 @@
 [9] Now when they heard this, they began to drift away one at a time, starting with the older ones, until Jesus was left alone with the woman standing before him.
 [10] Jesus stood up straight and said to her, “Woman, where are they? Did no one condemn you?”
 [11] She replied, “No one, Lord.” And Jesus said, “I do not condemn you either. Go, and from now on do not sin any more.”]]
+
+### Jesus as the Light of the World
+
 [12] Then Jesus spoke out again, “I am the light of the world! The one who follows me will never walk in darkness, but will have the light of life.”
 [13] So the Pharisees objected, “You testify about yourself; your testimony is not true!”
 [14] Jesus answered, “Even if I testify about myself, my testimony is true, because I know where I came from and where I am going. But you people do not know where I came from or where I am going.
@@ -402,6 +482,9 @@
 [18] I testify about myself and the Father who sent me testifies about me.”
 [19] Then they began asking him, “Who is your father?” Jesus answered, “You do not know either me or my Father. If you knew me you would know my Father too.”
 [20] (Jesus spoke these words near the offering box while he was teaching in the temple courts. No one seized him because his time had not yet come.)
+
+### Where Jesus Came From and Where He is Going
+
 [21] Then Jesus said to them again, “I am going away, and you will look for me but will die in your sin. Where I am going you cannot come.”
 [22] So the Jewish leaders began to say, “Perhaps he is going to kill himself, because he says, ‘Where I am going you cannot come.’”
 [23] Jesus replied, “You people are from below; I am from above. You people are from this world; I am not from this world.
@@ -412,6 +495,9 @@
 [28] Then Jesus said, “When you lift up the Son of Man, then you will know that I am he, and I do nothing on my own initiative, but I speak just what the Father taught me.
 [29] And the one who sent me is with me. He has not left me alone, because I always do those things that please him.”
 [30] While he was saying these things, many people believed in him.
+
+### Abraham’s Children and the Devil’s Children
+
 [31] Then Jesus said to those Judeans who had believed him, “If you continue to follow my teaching, you are really my disciples
 [32] and you will know the truth, and the truth will set you free.”
 [33] “We are descendants of Abraham,” they replied, “and have never been anyone’s slaves! How can you say, ‘You will become free’?”
@@ -445,6 +531,7 @@
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### Healing a Man Born Blind
 
 [1] Now as Jesus was passing by, he saw a man who had been blind from birth.
@@ -459,6 +546,9 @@
 [10] So they asked him, “How then were you made to see?”
 [11] He replied, “The man called Jesus made mud, smeared it on my eyes and told me, ‘Go to Siloam and wash.’ So I went and washed, and was able to see.”
 [12] They said to him, “Where is that man?” He replied, “I don’t know.”
+
+### The Pharisees’ Reaction to the Healing
+
 [13] They brought the man who used to be blind to the Pharisees.
 [14] (Now the day on which Jesus made the mud and caused him to see was a Sabbath.)
 [15] So the Pharisees asked him again how he had gained his sight. He replied, “He put mud on my eyes and I washed, and now I am able to see.”
@@ -481,6 +571,9 @@
 [32] Never before has anyone heard of someone causing a man born blind to see.
 [33] If this man were not from God, he could do nothing.”
 [34] They replied, “You were born completely in sinfulness, and yet you presume to teach us?” So they threw him out.
+
+### The Man’s Response to Jesus
+
 [35] Jesus heard that they had thrown him out, so he found the man and said to him, “Do you believe in the Son of Man?”
 [36] The man replied, “And who is he, sir, that I may believe in him?”
 [37] Jesus told him, “You have seen him; he is the one speaking with you.” [
@@ -491,6 +584,7 @@
 # John
 
 ## Chapter 10 <!-- scripture:10 -->
+
 
 ### Jesus as the Good Shepherd
 
@@ -515,6 +609,9 @@
 [19] Another sharp division took place among the Jewish people because of these words.
 [20] Many of them were saying, “He is possessed by a demon and has lost his mind! Why do you listen to him?”
 [21] Others said, “These are not the words of someone possessed by a demon. A demon cannot cause the blind to see, can it?”
+
+### Jesus at the Feast of Dedication
+
 [22] Then came the feast of the Dedication in Jerusalem.
 [23] It was winter, and Jesus was walking in the temple area in Solomon’s Portico.
 [24] The Jewish leaders surrounded him and asked, “How long will you keep us in suspense? If you are the Christ, tell us plainly.”
@@ -540,6 +637,7 @@
 
 ## Chapter 11 <!-- scripture:11 -->
 
+
 ### The Death of Lazarus
 
 [1] Now a certain man named Lazarus was sick. He was from Bethany, the village where Mary and her sister Martha lived.
@@ -558,6 +656,9 @@
 [14] Then Jesus told them plainly, “Lazarus has died,
 [15] and I am glad for your sake that I was not there, so that you may believe. But let us go to him.”
 [16] So Thomas (called Didymus) said to his fellow disciples, “Let us go too, so that we may die with him.”
+
+### Speaking with Martha and Mary
+
 [17] When Jesus arrived, he found that Lazarus had been in the tomb four days already.
 [18] (Now Bethany was less than two miles from Jerusalem,
 [19] so many of the Jewish people of the region had come to Martha and Mary to console them over the loss of their brother.)
@@ -579,6 +680,9 @@
 [35] Jesus wept.
 [36] Thus the people who had come to mourn said, “Look how much he loved him!”
 [37] But some of them said, “This is the man who caused the blind man to see! Couldn’t he have done something to keep Lazarus from dying?”
+
+### Lazarus Raised from the Dead
+
 [38] Jesus, intensely moved again, came to the tomb. (Now it was a cave, and a stone was placed across it.)
 [39] Jesus said, “Take away the stone.” Martha, the sister of the deceased, replied, “Lord, by this time the body will have a bad smell, because he has been buried four days.”
 [40] Jesus responded, “Didn’t I tell you that if you believe, you would see the glory of God?”
@@ -586,6 +690,9 @@
 [42] I knew that you always listen to me, but I said this for the sake of the crowd standing around here, that they may believe that you sent me.”
 [43] When he had said this, he shouted in a loud voice, “Lazarus, come out!”
 [44] The one who had died came out, his feet and hands tied up with strips of cloth, and a cloth wrapped around his face. Jesus said to them, “Unwrap him and let him go.”
+
+### The Response of the Jewish Leaders
+
 [45] Then many of the people, who had come with Mary and had seen the things Jesus did, believed in him.
 [46] But some of them went to the Pharisees and reported to them what Jesus had done.
 [47] So the chief priests and the Pharisees called the council together and said, “What are we doing? For this man is performing many miraculous signs.
@@ -603,6 +710,7 @@
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### Jesus’ Anointing
 
 [1] Then, six days before the Passover, Jesus came to Bethany, where Lazarus lived, whom he had raised from the dead.
@@ -616,6 +724,9 @@
 [9] Now a large crowd of Judeans learned that Jesus was there, and so they came not only because of him but also to see Lazarus whom he had raised from the dead.
 [10] So the chief priests planned to kill Lazarus too,
 [11] for on account of him many of the Jewish people from Jerusalem were going away and believing in Jesus.
+
+### The Triumphal Entry
+
 [12] The next day the large crowd that had come to the feast heard that Jesus was coming to Jerusalem.
 [13] So they took branches of palm trees and went out to meet him. They began to shout, “Hosanna! Blessed is the one who comes in the name of the Lord! Blessed is the king of Israel!”
 [14] Jesus found a young donkey and sat on it, just as it is written,
@@ -624,6 +735,9 @@
 [17] So the crowd who had been with him when he called Lazarus out of the tomb and raised him from the dead were continuing to testify about it.
 [18] Because they had heard that Jesus had performed this miraculous sign, the crowd went out to meet him.
 [19] Thus the Pharisees said to one another, “You see that you can do nothing. Look, the world has run off after him!”
+
+### Seekers
+
 [20] Now some Greeks were among those who had gone up to worship at the feast.
 [21] So these approached Philip, who was from Bethsaida in Galilee, and requested, “Sir, we would like to see Jesus.”
 [22] Philip went and told Andrew, and they both went and told Jesus.
@@ -641,11 +755,17 @@
 [34] Then the crowd responded, “We have heard from the law that the Christ will remain forever. How can you say, ‘The Son of Man must be lifted up’? Who is this Son of Man?”
 [35] Jesus replied, “The light is with you for a little while longer. Walk while you have the light, so that the darkness may not overtake you. The one who walks in the darkness does not know where he is going.
 [36] While you have the light, believe in the light, so that you may become sons of light.” When Jesus had said these things, he went away and hid himself from them.
+
+### The Outcome of Jesus’ Public Ministry Foretold
+
 [37] Although Jesus had performed so many miraculous signs before them, they still refused to believe in him,
 [38] so that the word of the prophet Isaiah would be fulfilled. He said, “Lord, who has believed our message, and to whom has the arm of the Lord been revealed?”
 [39] For this reason they could not believe, because again Isaiah said,
 [42] Nevertheless, even among the rulers many believed in him, but because of the Pharisees they would not confess Jesus to be the Christ, so that they would not be put out of the synagogue.
 [43] For they loved praise from men more than praise from God.
+
+### Jesus’ Final Public Words
+
 [44] But Jesus shouted out, “The one who believes in me does not believe in me, but in the one who sent me,
 [45] and the one who sees me sees the one who sent me.
 [46] I have come as a light into the world, so that everyone who believes in me should not remain in darkness.
@@ -656,6 +776,7 @@
 # John
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### Washing the Disciples’ Feet
 
@@ -676,6 +797,9 @@
 [15] For I have given you an example —you should do just as I have done for you.
 [16] I tell you the solemn truth, the slave is not greater than his master, nor is the one who is sent as a messenger greater than the one who sent him.
 [17] If you understand these things, you will be blessed if you do them.
+
+### The Announcement of Jesus’ Betrayal
+
 [18] “What I am saying does not refer to all of you. I know the ones I have chosen. But this is to fulfill the scripture, ‘The one who eats my bread has turned against me.’
 [19] I am telling you this now, before it happens, so that when it happens you may believe that I am he.
 [20] I tell you the solemn truth, whoever accepts the one I send accepts me, and whoever accepts me accepts the one who sent me.”
@@ -689,6 +813,9 @@
 [28] (Now none of those present at the table understood why Jesus said this to Judas.
 [29] Some thought that, because Judas had the money box, Jesus was telling him to buy whatever they needed for the feast, or to give something to the poor.)
 [30] Judas took the piece of bread and went out immediately. (Now it was night.)
+
+### The Prediction of Peter’s Denial
+
 [31] When Judas had gone out, Jesus said, “Now the Son of Man is glorified, and God is glorified in him.
 [32] If God is glorified in him, God will also glorify him in himself, and he will glorify him right away.
 [33] Children, I am still with you for a little while. You will look for me, and just as I said to the Jewish religious leaders, ‘Where I am going you cannot come,’ now I tell you the same.
@@ -700,6 +827,7 @@
 # John
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### Jesus’ Parting Words to His Disciples
 
@@ -717,6 +845,9 @@
 [12] I tell you the solemn truth, the person who believes in me will perform the miraculous deeds that I am doing, and will perform greater deeds than these, because I am going to the Father.
 [13] And I will do whatever you ask in my name, so that the Father may be glorified in the Son.
 [14] If you ask me anything in my name, I will do it.
+
+### Teaching on the Holy Spirit
+
 [15] “If you love me, you will obey my commandments.
 [16] Then I will ask the Father, and he will give you another Advocate to be with you forever—
 [17] the Spirit of truth, whom the world cannot accept, because it does not see him or know him. But you know him, because he resides with you and will be in you.
@@ -738,6 +869,7 @@
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### The Vine and the Branches
 
 [1] “I am the true vine and my Father is the gardener.
@@ -757,6 +889,9 @@
 [15] I no longer call you slaves, because the slave does not understand what his master is doing. But I have called you friends, because I have revealed to you everything I heard from my Father.
 [16] You did not choose me, but I chose you and appointed you to go and bear fruit, fruit that remains, so that whatever you ask the Father in my name he will give you.
 [17] This I command you—to love one another.
+
+### The World’s Hatred
+
 [18] “If the world hates you, be aware that it hated me first.
 [19] If you belonged to the world, the world would love you as its own. However, because you do not belong to the world, but I chose you out of the world, for this reason the world hates you.
 [20] Remember what I told you, ‘A slave is not greater than his master.’ If they persecuted me, they will also persecute you. If they obeyed my word, they will obey yours too.
@@ -808,6 +943,7 @@
 
 ## Chapter 17 <!-- scripture:17 -->
 
+
 ### Jesus Prays for the Father to Glorify Him
 
 [1] When Jesus had finished saying these things, he looked upward to heaven and said, “Father, the time has come. Glorify your Son, so that your Son may glorify you—
@@ -815,6 +951,9 @@
 [3] Now this is eternal life —that they know you, the only true God, and Jesus Christ, whom you sent.
 [4] I glorified you on earth by completing the work you gave me to do.
 [5] And now, Father, glorify me at your side with the glory I had with you before the world was created.
+
+### Jesus Prays for the Disciples
+
 [6] “I have revealed your name to the men you gave me out of the world. They belonged to you, and you gave them to me, and they have obeyed your word.
 [7] Now they understand that everything you have given me comes from you,
 [8] because I have given them the words you have given me. They accepted them and really understand that I came from you, and they believed that you sent me.
@@ -829,6 +968,9 @@
 [17] Set them apart in the truth; your word is truth.
 [18] Just as you sent me into the world, so I sent them into the world.
 [19] And I set myself apart on their behalf, so that they too may be truly set apart.
+
+### Jesus Prays for Believers Everywhere
+
 [20] “I am not praying only on their behalf, but also on behalf of those who believe in me through their testimony,
 [21] that they will all be one, just as you, Father, are in me and I am in you. I pray that they will be in us, so that the world will believe that you sent me.
 [22] The glory you gave to me I have given to them, that they may be one just as we are one—
@@ -839,6 +981,7 @@
 # John
 
 ## Chapter 18 <!-- scripture:18 -->
+
 
 ### Betrayal and Arrest
 
@@ -853,27 +996,45 @@
 [9] He said this to fulfill the word he had spoken, “I have not lost a single one of those whom you gave me.”
 [10] Then Simon Peter, who had a sword, pulled it out and struck the high priest’s slave, cutting off his right ear. (Now the slave’s name was Malchus.)
 [11] But Jesus said to Peter, “Put your sword back into its sheath! Am I not to drink the cup that the Father has given me?”
+
+### Jesus Before Annas
+
 [12] Then the squad of soldiers with their commanding officer and the officers of the Jewish leaders arrested Jesus and tied him up.
 [13] They brought him first to Annas, for he was the father-in-law of Caiaphas, who was high priest that year.
 [14] (Now it was Caiaphas who had advised the Jewish leaders that it was to their advantage that one man die for the people.)
+
+### Peter’s First Denial
+
 [15] Simon Peter and another disciple followed them as they brought Jesus to Annas. (Now the other disciple was acquainted with the high priest, and he went with Jesus into the high priest’s courtyard.)
 [16] But Peter was left standing outside by the door. So the other disciple who was acquainted with the high priest came out and spoke to the slave girl who watched the door, and brought Peter inside.
 [17] The girl who was the doorkeeper said to Peter, “You’re not one of this man’s disciples too, are you?” He replied, “I am not.”
 [18] (Now the slaves and the guards were standing around a charcoal fire they had made, warming themselves because it was cold. Peter also was standing with them, warming himself.)
+
+### Jesus Questioned by Annas
+
 [19] While this was happening, the high priest questioned Jesus about his disciples and about his teaching.
 [20] Jesus replied, “I have spoken publicly to the world. I always taught in the synagogues and in the temple courts, where all the Jewish people assemble together. I have said nothing in secret.
 [21] Why do you ask me? Ask those who heard what I said. They know what I said.”
 [22] When Jesus had said this, one of the high priest’s officers who stood nearby struck him on the face and said, “Is that the way you answer the high priest?”
 [23] Jesus replied, “If I have said something wrong, confirm what is wrong. But if I spoke correctly, why strike me?”
 [24] Then Annas sent him, still tied up, to Caiaphas the high priest.
+
+### Peter’s Second and Third Denials
+
 [25] Meanwhile Simon Peter was standing in the courtyard warming himself. They said to him, “You aren’t one of his disciples too, are you?” Peter denied it: “I am not!”
 [26] One of the high priest’s slaves, a relative of the man whose ear Peter had cut off, said, “Did I not see you in the orchard with him?”
 [27] Then Peter denied it again, and immediately a rooster crowed.
+
+### Jesus Brought Before Pilate
+
 [28] Then they brought Jesus from Caiaphas to the Roman governor’s residence. (Now it was very early morning.) They did not go into the governor’s residence so they would not be ceremonially defiled, but could eat the Passover meal.
 [29] So Pilate came outside to them and said, “What accusation do you bring against this man?”
 [30] They replied, “If this man were not a criminal, we would not have handed him over to you.”
 [31] Pilate told them, “Take him yourselves and pass judgment on him according to your own law!” The Jewish leaders replied, “We cannot legally put anyone to death.”
 [32] (This happened to fulfill the word Jesus had spoken when he indicated what kind of death he was going to die.)
+
+### Pilate Questions Jesus
+
 [33] So Pilate went back into the governor’s residence, summoned Jesus, and asked him, “Are you the king of the Jews?”
 [34] Jesus replied, “Are you saying this on your own initiative, or have others told you about me?”
 [35] Pilate answered, “I am not a Jew, am I? Your own people and your chief priests handed you over to me. What have you done?”
@@ -885,6 +1046,7 @@
 # John
 
 ## Chapter 19 <!-- scripture:19 -->
+
 
 ### Pilate Tries to Release Jesus
 
@@ -904,6 +1066,9 @@
 [14] (Now it was the day of preparation for the Passover, about noon.) Pilate said to the Jewish leaders, “Look, here is your king!”
 [15] Then they shouted out, “Away with him! Away with him! Crucify him!” Pilate asked, “Shall I crucify your king?” The high priests replied, “We have no king except Caesar!”
 [16] Then Pilate handed him over to them to be crucified.
+
+### The Crucifixion
+
 [17] and carrying his own cross he went out to the place called “The Place of the Skull” (called in Aramaic Golgotha).
 [18] There they crucified him along with two others, one on each side, with Jesus in the middle.
 [19] Pilate also had a notice written and fastened to the cross, which read: “Jesus the Nazarene, the king of the Jews.”
@@ -915,6 +1080,9 @@
 [25] Now standing beside Jesus’ cross were his mother, his mother’s sister, Mary the wife of Clopas, and Mary Magdalene.
 [26] So when Jesus saw his mother and the disciple whom he loved standing there, he said to his mother, “Woman, look, here is your son!”
 [27] He then said to his disciple, “Look, here is your mother!” From that very time the disciple took her into his own home.
+
+### Jesus’ Death
+
 [28] After this Jesus, realizing that by this time everything was completed, said (in order to fulfill the scripture), “I am thirsty!”
 [29] A jar full of sour wine was there, so they put a sponge soaked in sour wine on a branch of hyssop and lifted it to his mouth.
 [30] When he had received the sour wine, Jesus said, “It is completed!” Then he bowed his head and gave up his spirit.
@@ -925,6 +1093,9 @@
 [35] And the person who saw it has testified (and his testimony is true, and he knows that he is telling the truth), so that you also may believe.
 [36] For these things happened so that the scripture would be fulfilled, “Not a bone of his will be broken.”
 [37] And again another scripture says, “They will look on the one whom they have pierced.”
+
+### Jesus’ Burial
+
 [38] After this, Joseph of Arimathea, a disciple of Jesus (but secretly, because he feared the Jewish leaders), asked Pilate if he could remove the body of Jesus. Pilate gave him permission, so he went and took the body away.
 [39] Nicodemus, the man who had previously come to Jesus at night, accompanied Joseph, carrying a mixture of myrrh and aloes weighing about seventy-five pounds.
 [40] Then they took Jesus’ body and wrapped it, with the aromatic spices, in strips of linen cloth according to Jewish burial customs.
@@ -933,6 +1104,7 @@
 # John
 
 ## Chapter 20 <!-- scripture:20 -->
+
 
 ### The Resurrection
 
@@ -945,6 +1117,9 @@
 [7] and the face cloth, which had been around Jesus’ head, not lying with the strips of linen cloth but rolled up in a place by itself.
 [8] Then the other disciple, who had reached the tomb first, came in, and he saw and believed.
 [9] (For they did not yet understand the scripture that Jesus must rise from the dead.)
+
+### Jesus’ Appearance to Mary Magdalene
+
 [10] So the disciples went back to their homes.
 [11] But Mary stood outside the tomb weeping. As she wept, she bent down and looked into the tomb.
 [12] And she saw two angels in white sitting where Jesus’ body had been lying, one at the head and one at the feet.
@@ -954,11 +1129,17 @@
 [16] Jesus said to her, “Mary.” She turned and said to him in Aramaic, “Rabboni” (which means Teacher).
 [17] Jesus replied, “Do not touch me, for I have not yet ascended to my Father. Go to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”
 [18] Mary Magdalene came and informed the disciples, “I have seen the Lord!” And she told them what Jesus had said to her.
+
+### Jesus’ Appearance to the Disciples
+
 [19] On the evening of that day, the first day of the week, the disciples had gathered together and locked the doors of the place because they were afraid of the Jewish leaders. Jesus came and stood among them and said to them, “Peace be with you.”
 [20] When he had said this, he showed them his hands and his side. Then the disciples rejoiced when they saw the Lord.
 [21] So Jesus said to them again, “Peace be with you. Just as the Father has sent me, I also send you.”
 [22] And after he said this, he breathed on them and said, “Receive the Holy Spirit.
 [23] If you forgive anyone’s sins, they are forgiven; if you retain anyone’s sins, they are retained.”
+
+### The Response of Thomas
+
 [24] Now Thomas (called Didymus), one of the twelve, was not with them when Jesus came.
 [25] The other disciples told him, “We have seen the Lord!” But he replied, “Unless I see the wounds from the nails in his hands, and put my finger into the wounds from the nails, and put my hand into his side, I will never believe it!”
 [26] Eight days later the disciples were again together in the house, and Thomas was with them. Although the doors were locked, Jesus came and stood among them and said, “Peace be with you!”
@@ -970,6 +1151,7 @@
 # John
 
 ## Chapter 21 <!-- scripture:21 -->
+
 
 ### Jesus’ Appearance to the Disciples in Galilee
 
@@ -987,14 +1169,23 @@
 [12] “Come, have breakfast,” Jesus said. But none of the disciples dared to ask him, “Who are you?” because they knew it was the Lord.
 [13] Jesus came and took the bread and gave it to them, and did the same with the fish.
 [14] This was now the third time Jesus was revealed to the disciples after he was raised from the dead.
+
+### Peter’s Restoration
+
 [15] Then when they had finished breakfast, Jesus said to Simon Peter, “Simon, son of John, do you love me more than these do?” He replied, “Yes, Lord, you know I love you.” Jesus told him, “Feed my lambs.”
 [16] Jesus said a second time, “Simon, son of John, do you love me?” He replied, “Yes, Lord, you know I love you.” Jesus told him, “Shepherd my sheep.”
 [17] Jesus said a third time, “Simon, son of John, do you love me?” Peter was distressed that Jesus asked him a third time, “Do you love me?” and said, “Lord, you know everything. You know that I love you.” Jesus replied, “Feed my sheep.
 [18] I tell you the solemn truth, when you were young, you tied your clothes around you and went wherever you wanted, but when you are old, you will stretch out your hands, and others will tie you up and bring you where you do not want to go.”
 [19] (Now Jesus said this to indicate clearly by what kind of death Peter was going to glorify God.) After he said this, Jesus told Peter, “Follow me.”
+
+### Peter and the Disciple Jesus Loved
+
 [20] Peter turned around and saw the disciple whom Jesus loved following them. (This was the disciple who had leaned back against Jesus’ chest at the meal and asked, “Lord, who is the one who is going to betray you?”)
 [21] So when Peter saw him, he asked Jesus, “Lord, what about him?”
 [22] Jesus replied, “If I want him to live until I come back, what concern is that of yours? You follow me!”
 [23] So the saying circulated among the brothers and sisters that this disciple was not going to die. But Jesus did not say to him that he was not going to die, but rather, “If I want him to live until I come back, what concern is that of yours?”
+
+### A Final Note
+
 [24] This is the disciple who testifies about these things and has written these things, and we know that his testimony is true.
 [25] There are many other things that Jesus did. If every one of them were written down, I suppose the whole world would not have room for the books that would be written.

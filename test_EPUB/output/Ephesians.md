@@ -2,10 +2,14 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul, an apostle of Christ Jesus by the will of God, to the saints [in Ephesus], the faithful in Christ Jesus.
 [2] Grace and peace to you from God our Father and the Lord Jesus Christ!
+
+### Spiritual Blessings in Christ
+
 [3] Blessed is the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly realms in Christ.
 [4] For he chose us in Christ before the foundation of the world that we should be holy and blameless before him in love.
 [5] He did this by predestining us to adoption as his legal heirs through Jesus Christ, according to the pleasure of his will—
@@ -18,6 +22,9 @@
 [12] so that we, who were the first to set our hope on Christ, would be to the praise of his glory.
 [13] And when you heard the word of truth (the gospel of your salvation)—when you believed in Christ —you were marked with the seal of the promised Holy Spirit,
 [14] who is the down payment of our inheritance, until the redemption of God’s own possession, to the praise of his glory.
+
+### Prayer for Wisdom and Revelation
+
 [15] For this reason, because I have heard of your faith in the Lord Jesus and your love for all the saints,
 [16] I do not cease to give thanks for you when I remember you in my prayers.
 [17] I pray that the God of our Lord Jesus Christ, the glorious Father, will give you spiritual wisdom and revelation in your growing knowledge of him,
@@ -31,6 +38,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### New Life Individually
 
 [1] And although you were dead in your offenses and sins,
@@ -43,6 +51,9 @@
 [8] For by grace you are saved through faith, and this is not from yourselves, it is the gift of God;
 [9] it is not from works, so that no one can boast.
 [10] For we are his creative work, having been created in Christ Jesus for good works that God prepared beforehand so we can do them.
+
+### New Life Corporately
+
 [11] Therefore remember that formerly you, the Gentiles in the flesh—who are called “uncircumcision” by the so-called “circumcision” that is performed on the body by human hands—
 [12] that you were at that time without the Messiah, alienated from the citizenship of Israel and strangers to the covenants of promise, having no hope and without God in the world.
 [13] But now in Christ Jesus you who used to be far away have been brought near by the blood of Christ.
@@ -59,6 +70,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Paul’s Relationship to the Divine Mystery
 
 [1] For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles
@@ -74,6 +86,9 @@
 [11] This was according to the eternal purpose that he accomplished in Christ Jesus our Lord,
 [12] in whom we have boldness and confident access to God by way of Christ’s faithfulness.
 [13] For this reason I ask you not to lose heart because of what I am suffering for you, which is your glory.
+
+### Prayer for Strengthened Love
+
 [14] For this reason I kneel before the Father,
 [15] from whom every family in heaven and on earth is named.
 [16] I pray that according to the wealth of his glory he will grant you to be strengthened with power through his Spirit in the inner person,
@@ -85,6 +100,7 @@
 # Ephesians
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Live in Unity
 
@@ -104,6 +120,9 @@
 [14] So we are no longer to be children, tossed back and forth by waves and carried about by every wind of teaching by the trickery of people who craftily carry out their deceitful schemes.
 [15] But practicing the truth in love, we will in all things grow up into Christ, who is the head.
 [16] From him the whole body grows, fitted and held together through every supporting ligament. As each one does its part, the body builds itself up in love.
+
+### Live in Holiness
+
 [17] So I say this, and insist in the Lord, that you no longer live as the Gentiles do, in the futility of their thinking.
 [18] They are darkened in their understanding, being alienated from the life of God because of the ignorance that is in them due to the hardness of their hearts.
 [19] Because they are callous, they have given themselves over to indecency for the practice of every kind of impurity with greediness.
@@ -124,6 +143,7 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Live in Love
 
 [1] Therefore, be imitators of God as dearly loved children
@@ -131,6 +151,9 @@
 [3] But among you there must not be either sexual immorality, impurity of any kind, or greed, as these are not fitting for the saints.
 [4] Neither should there be vulgar speech, foolish talk, or coarse jesting—all of which are out of character—but rather thanksgiving.
 [5] For you can be confident of this one thing: that no person who is immoral, impure, or greedy (such a person is an idolater) has any inheritance in the kingdom of Christ and God.
+
+### Live in the Light
+
 [6] Let nobody deceive you with empty words, for because of these things God’s wrath comes on the sons of disobedience.
 [7] Therefore do not be sharers with them,
 [8] for you were at one time darkness, but now you are light in the Lord. Live like children of light—
@@ -143,6 +166,9 @@
 “Awake, O sleeper!
 Rise from the dead,
 and Christ will shine on you!”
+
+### Live Wisely
+
 [15] Therefore consider carefully how you live—not as unwise but as wise,
 [16] taking advantage of every opportunity, because the days are evil.
 [17] For this reason do not be foolish, but be wise by understanding what the Lord’s will is.
@@ -150,6 +176,9 @@ and Christ will shine on you!”
 [19] speaking to one another in psalms, hymns, and spiritual songs, singing and making music in your hearts to the Lord,
 [20] always giving thanks to God the Father for all things in the name of our Lord Jesus Christ,
 [21] and submitting to one another out of reverence for Christ.
+
+### Exhortations to Households
+
 [22] Wives, submit to your husbands as to the Lord,
 [23] because the husband is the head of the wife as also Christ is the head of the church (he himself being the savior of the body).
 [24] But as the church submits to Christ, so also wives should submit to their husbands in everything.
@@ -166,8 +195,6 @@ and Christ will shine on you!”
 
 ## Chapter 6 <!-- scripture:6 -->
 
-### Exhortations for Spiritual Warfare
-
 [1] Children, obey your parents in the Lord, for this is right.
 [2] “Honor your father and mother,” which is the first commandment accompanied by a promise, namely,
 [3] “that it will go well with you and that you will live a long time on the earth.”
@@ -177,6 +204,9 @@ and Christ will shine on you!”
 [7] Obey with enthusiasm, as though serving the Lord and not people,
 [8] because you know that each person, whether slave or free, if he does something good, this will be rewarded by the Lord.
 [9] Masters, treat your slaves the same way, giving up the use of threats, because you know that both you and they have the same master in heaven, and there is no favoritism with him.
+
+### Exhortations for Spiritual Warfare
+
 [10] Finally, be strengthened in the Lord and in the strength of his power.
 [11] Clothe yourselves with the full armor of God, so that you will be able to stand against the schemes of the devil.
 [12] For our struggle is not against flesh and blood, but against the rulers, against the powers, against the world rulers of this darkness, against the spiritual forces of evil in the heavens.
@@ -188,6 +218,9 @@ and Christ will shine on you!”
 [18] With every prayer and petition, pray at all times in the Spirit, and to this end be alert, with all perseverance and petitions for all the saints.
 [19] Pray for me also, that I may be given the right words when I begin to speak —that I may confidently make known the mystery of the gospel,
 [20] for which I am an ambassador in chains. Pray that I may be able to speak boldly as I ought to speak.
+
+### Farewell Comments
+
 [21] Tychicus, my dear brother and faithful servant in the Lord, will make everything known to you, so that you too may know about my circumstances, how I am doing.
 [22] I have sent him to you for this very purpose, that you may know our circumstances and that he may encourage your hearts.
 [23] Peace to the brothers and sisters, and love with faith, from God the Father and the Lord Jesus Christ.

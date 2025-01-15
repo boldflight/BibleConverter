@@ -2,10 +2,14 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul, an apostle of Christ Jesus by the will of God, to further the promise of life in Christ Jesus,
 [2] to Timothy, my dear child. Grace, mercy, and peace from God the Father and Christ Jesus our Lord!
+
+### Thanksgiving and Charge to Timothy
+
 [3] I am thankful to God, whom I have served with a clear conscience as my ancestors did, when I remember you in my prayers as I do constantly night and day.
 [4] As I remember your tears, I long to see you, so that I may be filled with joy.
 [5] I recall your sincere faith that was alive first in your grandmother Lois and in your mother Eunice, and I am sure is in you.
@@ -26,6 +30,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Serving Faithfully Despite Hardship
 
 [1] So you, my child, be strong in the grace that is in Christ Jesus.
@@ -43,6 +48,9 @@ If we died with him, we will also live with him.
 [12] If we endure, we will also reign with him.
 If we deny him, he will also deny us.
 [13] If we are unfaithful, he remains faithful, since he cannot deny himself.
+
+### Dealing with False Teachers
+
 [14] Remind people of these things and solemnly charge them before the Lord not to wrangle over words. This is of no benefit; it just brings ruin on those who listen.
 [15] Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately.
 [16] But avoid profane chatter, because those occupied with it will stray further and further into ungodliness,
@@ -60,6 +68,7 @@ If we deny him, he will also deny us.
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Ministry in the Last Days
 
 [1] But understand this, that in the last days difficult times will come.
@@ -71,6 +80,9 @@ If we deny him, he will also deny us.
 [7] Such women are always seeking instruction, yet never able to arrive at a knowledge of the truth.
 [8] And just as Jannes and Jambres opposed Moses, so these people—who have warped minds and are disqualified in the faith —also oppose the truth.
 [9] But they will not go much further, for their foolishness will be obvious to everyone, just like it was with Jannes and Jambres.
+
+### Continue in What You Have Learned
+
 [10] You, however, have followed my teaching, my way of life, my purpose, my faith, my patience, my love, my endurance,
 [11] as well as the persecutions and sufferings that happened to me in Antioch, in Iconium, and in Lystra. I endured these persecutions and the Lord delivered me from them all.
 [12] Now in fact all who want to live godly lives in Christ Jesus will be persecuted.
@@ -83,6 +95,7 @@ If we deny him, he will also deny us.
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Charge to Timothy Repeated
 
 [1] I solemnly charge you before God and Christ Jesus, who is going to judge the living and the dead, and by his appearing and his kingdom:
@@ -93,6 +106,9 @@ If we deny him, he will also deny us.
 [6] For I am already being poured out as an offering, and the time for me to depart is at hand.
 [7] I have competed well; I have finished the race; I have kept the faith!
 [8] Finally the crown of righteousness is reserved for me. The Lord, the righteous Judge, will award it to me in that day—and not to me only, but also to all who have set their affection on his appearing.
+
+### Travel Plans and Concluding Greetings
+
 [9] Make every effort to come to me soon.
 [10] For Demas deserted me, since he loved the present age, and he went to Thessalonica. Crescens went to Galatia and Titus to Dalmatia.
 [11] Only Luke is with me. Get Mark and bring him with you, because he is a great help to me in ministry.

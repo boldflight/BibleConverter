@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Habakkuk Complains to the Lord
 
 [1] This is the oracle that the prophet Habakkuk saw:
@@ -17,6 +18,9 @@ conflict is present and one must endure strife.
 and justice is never carried out.
 Indeed, the wicked intimidate the innocent.
 For this reason justice is perverted.
+
+### The Lord’s Surprising Answer
+
 [5] “Look at the nations and pay attention!
 You will be shocked and amazed!
 For I will do something in your lifetime
@@ -41,6 +45,9 @@ They laugh at every fortified city;
 they build siege ramps and capture them.
 [11] They sweep by like the wind and pass on.
 But the one who considers himself a god will be held guilty.”
+
+### Habakkuk Voices Some Concerns
+
 [12] Lord, you have been active from ancient times;
 my sovereign God, you are immortal.
 Lord, you have made them your instrument of judgment.
@@ -65,12 +72,13 @@ Will he always destroy nations and spare none?
 
 ## Chapter 2 <!-- scripture:2 -->
 
-### The Lord Assures Habakkuk
-
 I will remain stationed on the city wall.
 I will keep watching so I can see what he says to me
 and can know how I should answer
 when he counters my argument.
+
+### The Lord Assures Habakkuk
+
 [2] The Lord responded:
 “Write down this message.
 Record it legibly on tablets
@@ -86,6 +94,9 @@ His appetite is as big as Sheol’s;
 like death, he is never satisfied.
 He gathers all the nations;
 he seizes all peoples.
+
+### The Proud Babylonians Are as Good as Dead
+
 [6] “But all these nations will someday taunt him
 and ridicule him with proverbial sayings:
 ‘Woe to the one who accumulates what does not belong to him
@@ -137,6 +148,7 @@ The whole earth is speechless in his presence!”
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Habakkuk’s Vision of the Divine Warrior
 
 [1] This is a prayer of Habakkuk the prophet:
@@ -187,6 +199,9 @@ They storm forward to scatter us;
 they shout with joy as if they were plundering the poor with no opposition.
 [15] But you trample on the sea with your horses,
 on the surging, raging waters.
+
+### Habakkuk Declares His Confidence
+
 [16] I listened and my stomach churned;
 the sound made my lips quiver.
 My frame went limp, as if my bones were decaying,

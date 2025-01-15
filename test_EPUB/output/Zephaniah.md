@@ -2,9 +2,13 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Introduction
 
 [1] This is the Lord’s message that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah during the time of Josiah son of Amon, king of Judah:
+
+### The Lord’s Day of Judgment is Approaching
+
 [2] “I will destroy everything from the face of the earth,” says the Lord.
 [3] “I will destroy people and animals;
 I will destroy the birds in the sky
@@ -67,6 +71,7 @@ Indeed, he will bring terrifying destruction on all who live on the earth.”
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### The Prophet Warns the People
 
 [1] Bunch yourselves together like straw, you undesirable nation,
@@ -76,6 +81,9 @@ before the day of the Lord’s angry judgment overtakes you!
 [3] Seek the Lord’s favor, all you humble people of the land who have obeyed his commands!
 Strive to do what is right! Strive to be humble!
 Maybe you will be protected on the day of the Lord’s angry judgment.
+
+### Judgment on Surrounding Nations
+
 [4] Indeed, Gaza will be deserted
 and Ashkelon will become a heap of ruins.
 Invaders will drive away the people of Ashdod by noon,
@@ -126,6 +134,7 @@ Everyone who passes by her taunts her and shakes his fist.
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Jerusalem is Corrupt
 
 [1] Beware to the filthy, stained city;
@@ -146,6 +155,9 @@ he commits no unjust acts.
 Every morning he reveals his justice.
 At dawn he appears without fail.
 Yet the unjust know no shame.
+
+### The Lord’s Judgment will Purify
+
 [6] “I destroyed nations;
 their walled cities are in ruins.
 I turned their streets into ruins;

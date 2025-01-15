@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### David Learns of the Deaths of Saul and Jonathan
 
 [1] After the death of Saul, when David had returned from defeating the Amalekites, he stayed at Ziklag for two days.
@@ -20,6 +21,9 @@
 [14] David replied to him, “How is it that you were not afraid to reach out your hand to destroy the Lord’s anointed?”
 [15] Then David called one of the soldiers and said, “Come here and strike him down!” So he struck him down, and he died.
 [16] David said to him, “Your blood be on your own head! Your own mouth has testified against you, saying ‘I have put the Lord’s anointed to death.’”
+
+### David’s Tribute to Saul and Jonathan
+
 [17] Then David chanted this lament over Saul and his son Jonathan.
 [18] (He gave instructions that the people of Judah should be taught “The Bow.” Indeed, it is written down in the Scroll of the Upright One.)
 [19] “The beauty of Israel lies slain on your high places!
@@ -53,6 +57,7 @@ The weapons of war are destroyed!
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### David is Anointed King
 
 [1] Afterward David inquired of the Lord, “Should I go up to one of the cities of Judah?” The Lord told him, “Go up.” David asked, “Where should I go?” The Lord replied, “To Hebron.”
@@ -62,6 +67,9 @@ The weapons of war are destroyed!
 [5] So David sent messengers to the people of Jabesh Gilead and told them, “May you be blessed by the Lord because you have shown this kindness to your lord Saul by burying him.
 [6] Now may the Lord show you true kindness! I also will reward you, because you have done this deed.
 [7] Now be courageous and prove to be valiant warriors, for your lord Saul is dead. The people of Judah have anointed me as king over them.”
+
+### David’s Army Clashes with the Army of Saul
+
 [8] Now Abner son of Ner, the general in command of Saul’s army, had taken Saul’s son Ish Bosheth and had brought him to Mahanaim.
 [9] He appointed him king over Gilead, the Geshurites, Jezreel, Ephraim, Benjamin, and all Israel.
 [10] Ish Bosheth son of Saul was forty years old when he began to rule over Israel. He ruled two years. However, the people of Judah followed David.
@@ -88,8 +96,6 @@ The weapons of war are destroyed!
 
 ## Chapter 3 <!-- scripture:3 -->
 
-### Abner Defects to David’s Camp
-
 [30] Now Joab returned from chasing Abner and assembled all the people. Nineteen of David’s soldiers were missing, in addition to Asahel.
 [31] But David’s soldiers had slaughtered the Benjaminites and Abner’s men—in all, 360 men had died!
 [32] They took Asahel’s body and buried him in his father’s tomb at Bethlehem. Joab and his men then traveled all that night and reached Hebron by dawn.
@@ -98,6 +104,9 @@ The weapons of war are destroyed!
 [3] His second son was Kileab, born to Abigail the widow of Nabal the Carmelite. His third son was Absalom, the son of Maacah daughter of King Talmai of Geshur.
 [4] His fourth son was Adonijah, the son of Haggith. His fifth son was Shephatiah, the son of Abital.
 [5] His sixth son was Ithream, born to David’s wife Eglah. These sons were all born to David in Hebron.
+
+### Abner Defects to David’s Camp
+
 [6] As the war continued between the house of Saul and the house of David, Abner was becoming more influential in the house of Saul.
 [7] Now Saul had a concubine named Rizpah daughter of Aiah. Ish Bosheth said to Abner, “Why did you sleep with my father’s concubine?”
 [8] These words of Ish Bosheth really angered Abner and he said, “Am I the head of a dog that belongs to Judah? This very day I am demonstrating loyalty to the house of Saul your father and to his relatives and his friends! I have not betrayed you into the hand of David. Yet you have accused me of sinning with this woman today!
@@ -114,6 +123,9 @@ The weapons of war are destroyed!
 [19] Then Abner spoke privately with the Benjaminites. Abner also went to Hebron to inform David privately of all that Israel and the entire house of Benjamin had agreed to.
 [20] When Abner, accompanied by twenty men, came to David in Hebron, David prepared a banquet for Abner and the men who were with him.
 [21] Abner said to David, “Let me leave so that I may go and gather all Israel to my lord the king so that they may make an agreement with you. Then you will rule over all that you desire.” So David sent Abner away, and he left in peace.
+
+### Abner Is Killed
+
 [22] Now David’s soldiers and Joab were coming back from a raid, bringing a great deal of plunder with them. Abner was no longer with David in Hebron, for David had sent him away and he had left in peace.
 [23] When Joab and all the army that was with him arrived, Joab was told: “Abner the son of Ner came to the king; he sent him away, and he left in peace!”
 [24] So Joab went to the king and said, “What have you done? Abner has come to you. Why would you send him away? Now he’s gone on his way!
@@ -139,6 +151,7 @@ You fell the way one falls before criminals.”
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Ish Bosheth is killed
 
 [1] When Ish Bosheth the son of Saul heard that Abner had died in Hebron, he was very disheartened, and all Israel was afraid.
@@ -157,6 +170,7 @@ You fell the way one falls before criminals.”
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### David Is Anointed King Over Israel
 
 [1] All the tribes of Israel came to David at Hebron saying, “Look, we are your very flesh and blood!
@@ -164,6 +178,9 @@ You fell the way one falls before criminals.”
 [3] When all the leaders of Israel came to the king at Hebron, King David made an agreement with them in Hebron before the Lord. They designated David as king over Israel.
 [4] David was thirty years old when he began to reign and he reigned for forty years.
 [5] In Hebron he reigned over Judah for seven years and six months, and in Jerusalem he reigned for thirty-three years over all Israel and Judah.
+
+### David Occupies Jerusalem
+
 [6] Then the king and his men advanced to Jerusalem against the Jebusites who lived in the land. The Jebusites said to David, “You cannot invade this place! Even the blind and the lame will turn you back, saying, ‘David cannot invade this place!’”
 [7] But David captured the fortress of Zion (that is, the City of David).
 [8] David said on that day, “Whoever attacks the Jebusites must approach the ‘lame’ and the ‘blind’ who are David’s enemies by going through the water tunnel.” For this reason it is said, “The blind and the lame cannot enter the palace.”
@@ -175,6 +192,9 @@ You fell the way one falls before criminals.”
 [14] These are the names of children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,
 [15] Ibhar, Elishua, Nepheg, Japhia,
 [16] Elishama, Eliada, and Eliphelet.
+
+### Conflict with the Philistines
+
 [17] When the Philistines heard that David had been designated king over Israel, they all went up to search for David. When David heard about it, he went down to the fortress.
 [18] Now the Philistines had arrived and spread out in the valley of Rephaim.
 [19] So David asked the Lord, “Should I march up against the Philistines? Will you hand them over to me?” The Lord said to David, “March up, for I will indeed hand the Philistines over to you.”
@@ -187,6 +207,7 @@ You fell the way one falls before criminals.”
 # 2 Samuel
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### David Brings the Ark to Jerusalem
 
@@ -217,6 +238,7 @@ You fell the way one falls before criminals.”
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### The Lord Establishes a Covenant with David
 
 [1] The king settled into his palace, for the Lord gave him relief from all his enemies on all sides.
@@ -236,6 +258,9 @@ You fell the way one falls before criminals.”
 [15] But my loyal love will not be removed from him as I removed it from Saul, whom I removed from before you.
 [16] Your house and your kingdom will stand before me permanently; your dynasty will be permanent.’”
 [17] Nathan told David all these words that were revealed to him.
+
+### David Offers a Prayer to God
+
 [18] King David went in, sat before the Lord, and said, “Who am I, O Sovereign Lord, and what is my family, that you should have brought me to this point?
 [19] And you didn’t stop there, O Lord God! You have also spoken about the future of your servant’s family. Is this your usual way of dealing with men, O Sovereign Lord?
 [20] What more can David say to you? You have given your servant special recognition, O Sovereign Lord!
@@ -251,6 +276,7 @@ You fell the way one falls before criminals.”
 # 2 Samuel
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### David Subjugates Nearby Nations
 
@@ -269,12 +295,16 @@ You fell the way one falls before criminals.”
 [13] David became famous when he returned from defeating the Edomites in the Valley of Salt; he defeated 18,000 in all.
 [14] He placed garrisons throughout Edom, and all the Edomites became David’s subjects. The Lord protected David wherever he campaigned.
 [15] David reigned over all Israel; he guaranteed justice for all his people.
+
+### David’s Cabinet
+
 [16] Joab son of Zeruiah was general in command of the army; Jehoshaphat son of Ahilud was secretary;
 [17] Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was scribe;
 [18] Benaiah son of Jehoiada supervised the Kerethites and Pelethites; and David’s sons were priests.
 # 2 Samuel
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### David Finds Mephibosheth
 
@@ -294,6 +324,7 @@ You fell the way one falls before criminals.”
 # 2 Samuel
 
 ## Chapter 10 <!-- scripture:10 -->
+
 
 ### David and the Ammonites
 
@@ -319,6 +350,7 @@ You fell the way one falls before criminals.”
 # 2 Samuel
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### David Commits Adultery with Bathsheba
 
@@ -353,6 +385,7 @@ You fell the way one falls before criminals.”
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### Nathan the Prophet Confronts David
 
 [1] So the Lord sent Nathan to David. When he came to David, Nathan said, “There were two men in a certain city, one rich and the other poor.
@@ -380,6 +413,9 @@ You fell the way one falls before criminals.”
 [23] But now he is dead. Why should I fast? Am I able to bring him back at this point? I will go to him, but he cannot return to me!”
 [24] So David comforted his wife Bathsheba. He came to her and went to bed with her. Later she gave birth to a son, and David named him Solomon. Now the Lord loved the child
 [25] and sent word through Nathan the prophet that he should be named Jedidiah for the Lord’s sake.
+
+### David’s Forces Defeat the Ammonites
+
 [26] So Joab fought against Rabbah of the Ammonites and captured the royal city.
 [27] Joab then sent messengers to David, saying, “I have fought against Rabbah and have captured the water supply of the city.
 [28] So now assemble the rest of the army and besiege the city and capture it. Otherwise I will capture the city and it will be named for me.”
@@ -389,6 +425,7 @@ You fell the way one falls before criminals.”
 # 2 Samuel
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### The Rape of Tamar
 
@@ -414,6 +451,9 @@ You fell the way one falls before criminals.”
 [20] Her brother Absalom said to her, “Was Amnon your brother with you? Now be quiet, my sister. He is your brother. Don’t take it so seriously!” Tamar, devastated, lived in the house of her brother Absalom.
 [21] Now King David heard about all these things and was very angry.
 [22] But Absalom said nothing to Amnon, either bad or good, yet Absalom hated Amnon because he had humiliated his sister Tamar.
+
+### Absalom Has Amnon Put to Death
+
 [23] Two years later Absalom’s sheepshearers were in Baal Hazor, near Ephraim. Absalom invited all the king’s sons.
 [24] Then Absalom went to the king and said, “My shearers have begun their work. Let the king and his servants go with me.”
 [25] But the king said to Absalom, “No, my son. We shouldn’t all go. We shouldn’t burden you in that way.” Though Absalom pressed him, the king was not willing to go. Instead, David blessed him.
@@ -434,6 +474,7 @@ You fell the way one falls before criminals.”
 # 2 Samuel
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### David Permits Absalom to Return to Jerusalem
 
@@ -474,6 +515,7 @@ You fell the way one falls before criminals.”
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### Absalom Leads an Insurrection against David
 
 [1] Some time later Absalom managed to acquire a chariot and horses, as well as fifty men to serve as his royal guard.
@@ -488,6 +530,9 @@ You fell the way one falls before criminals.”
 [10] Then Absalom sent spies through all the tribes of Israel who said, “When you hear the sound of the horn, you may assume that Absalom rules in Hebron.”
 [11] Now 200 men had gone with Absalom from Jerusalem. Since they were invited, they went naively and were unaware of what Absalom was planning.
 [12] While he was offering sacrifices, Absalom sent for Ahithophel the Gilonite, David’s adviser, to come from his city, Giloh. The conspiracy was gaining momentum, and the people were starting to side with Absalom.
+
+### David Flees from Jerusalem
+
 [13] Then a messenger came to David and reported, “The men of Israel are loyal to Absalom!”
 [14] So David said to all his servants who were with him in Jerusalem, “Come on! Let’s escape! Otherwise no one will be delivered from Absalom! Go immediately, or else he will quickly overtake us and bring disaster on us and kill the city’s residents with the sword.”
 [15] The king’s servants replied to the king, “We will do whatever our lord the king decides.”
@@ -517,12 +562,16 @@ You fell the way one falls before criminals.”
 
 ## Chapter 16 <!-- scripture:16 -->
 
+
 ### David Receives Gifts from Ziba
 
 [1] When David had gone a short way beyond the summit, Ziba the servant of Mephibosheth was there to meet him. He had a couple of donkeys that were saddled, and on them were 200 loaves of bread, 100 raisin cakes, 100 baskets of summer fruit, and a container of wine.
 [2] The king asked Ziba, “Why did you bring these things?” Ziba replied, “The donkeys are for the king’s family to ride on, the loaves of bread and the summer fruit are for the attendants to eat, and the wine is for those who get exhausted in the desert.”
 [3] The king asked, “Where is your master’s grandson?” Ziba replied to the king, “He remains in Jerusalem, for he said, ‘Today the house of Israel will give back to me my grandfather’s kingdom.’”
 [4] The king said to Ziba, “Everything that was Mephibosheth’s now belongs to you.” Ziba replied, “I bow before you. May I find favor in your sight, my lord the king.”
+
+### Shimei Curses David and His Men
+
 [5] Then King David reached Bahurim. There a man from Saul’s extended family named Shimei son of Gera came out, yelling curses as he approached.
 [6] He threw stones at David and all of King David’s servants, as well as all the people and the soldiers who were on his right and on his left.
 [7] As he yelled curses, Shimei said, “Leave! Leave! You man of bloodshed, you wicked man!
@@ -533,6 +582,9 @@ You fell the way one falls before criminals.”
 [12] Perhaps the Lord will notice my affliction and this day grant me good in place of his curse.”
 [13] So David and his men went on their way. But Shimei kept going along the side of the hill opposite him, yelling curses as he threw stones and dirt at them.
 [14] The king and all the people who were with him arrived exhausted at their destination, where David refreshed himself.
+
+### The Advice of Ahithophel
+
 [15] Now when Absalom and all the men of Israel arrived in Jerusalem, Ahithophel was with him.
 [16] When David’s friend Hushai the Arkite came to Absalom, Hushai said to him, “Long live the king! Long live the king!”
 [17] Absalom said to Hushai, “Do you call this loyalty to your friend? Why didn’t you go with your friend?”
@@ -545,6 +597,7 @@ You fell the way one falls before criminals.”
 # 2 Samuel
 
 ## Chapter 17 <!-- scripture:17 -->
+
 
 ### The Death of Ahithophel
 
@@ -581,6 +634,7 @@ You fell the way one falls before criminals.”
 
 ## Chapter 18 <!-- scripture:18 -->
 
+
 ### The Death of Absalom
 
 [1] David assembled the army that was with him. He appointed leaders of thousands and leaders of hundreds.
@@ -601,6 +655,9 @@ You fell the way one falls before criminals.”
 [16] Then Joab blew the trumpet and the army turned back from chasing Israel, for Joab had called for the army to halt.
 [17] They took Absalom, threw him into a large pit in the forest, and stacked a huge pile of stones over him. In the meantime all the Israelite soldiers fled to their homes.
 [18] Before this Absalom had set up a monument and dedicated it to himself in the King’s Valley, reasoning, “I have no son who will carry on my name.” He named the monument after himself, and to this day it is known as Absalom’s Memorial.
+
+### David Learns of Absalom’s Death
+
 [19] Then Ahimaaz the son of Zadok said, “Let me run and give the king the good news that the Lord has vindicated him before his enemies.”
 [20] But Joab said to him, “You will not be a bearer of good news today. You will bear good news some other day, but not today, for the king’s son is dead.”
 [21] Then Joab said to the Cushite, “Go and tell the king what you have seen.” After bowing to Joab, the Cushite ran off.
@@ -620,8 +677,6 @@ You fell the way one falls before criminals.”
 
 ## Chapter 19 <!-- scripture:19 -->
 
-### David Goes Back to Jerusalem
-
 [1] (
 [2] So the victory of that day was turned to mourning as far as all the people were concerned. For the people heard on that day, “The king is grieved over his son.”
 [3] That day the people stole away to go to the city the way people who are embarrassed steal away in fleeing from battle.
@@ -630,6 +685,9 @@ You fell the way one falls before criminals.”
 [6] You seem to love your enemies and hate your friends! For you have as much as declared today that leaders and servants don’t matter to you. I realize now that if Absalom were alive and all of us were dead today, it would be all right with you.
 [7] So get up now and go out and give some encouragement to your servants. For I swear by the Lord that if you don’t go out there, not a single man will stay here with you tonight! This disaster will be worse for you than any disaster that has overtaken you from your youth right to the present time!”
 [8] So the king got up and sat at the city gate. When all the people were informed that the king was sitting at the city gate, they all came before him.
+
+### David Goes Back to Jerusalem
+
 [9] All the people throughout all the tribes of Israel were arguing among themselves saying, “The king delivered us from the hand of our enemies. He rescued us from the hand of the Philistines, but now he has fled from the land because of Absalom.
 [10] But Absalom, whom we anointed as our king, has died in battle. So now why do you hesitate to bring the king back?”
 [11] Then King David sent a message to Zadok and Abiathar the priests saying, “Tell the elders of Judah, ‘Why should you delay any further in bringing the king back to his palace, when everything Israel is saying has come to the king’s attention.
@@ -669,6 +727,7 @@ You fell the way one falls before criminals.”
 
 ## Chapter 20 <!-- scripture:20 -->
 
+
 ### Sheba’s Rebellion
 
 [1] Now a wicked man named Sheba son of Bikri, a Benjaminite, happened to be there. He blew the trumpet and said,
@@ -704,6 +763,7 @@ Every man go home, O Israel!”
 
 ## Chapter 21 <!-- scripture:21 -->
 
+
 ### The Gibeonites Demand Revenge
 
 [1] During David’s reign there was a famine for three consecutive years. So David inquired of the Lord. The Lord said, “It is because of Saul and his bloodstained family, because he murdered the Gibeonites.”
@@ -720,6 +780,9 @@ Every man go home, O Israel!”
 [12] he went and took the bones of Saul and of his son Jonathan from the leaders of Jabesh Gilead. (They had secretly taken them from the plaza at Beth Shan. It was there that Philistines publicly exposed their corpses after they had killed Saul at Gilboa.)
 [13] David brought the bones of Saul and of Jonathan his son from there; they also gathered up the bones of those who had been executed.
 [14] They buried the bones of Saul and his son Jonathan in the land of Benjamin at Zela in the grave of his father Kish. After they had done everything that the king had commanded, God responded to their prayers for the land.
+
+### Israel Engages in Various Battles with the Philistines
+
 [15] Another battle was fought between the Philistines and Israel. So David went down with his soldiers and fought the Philistines. David became exhausted.
 [16] Now Ishbi-Benob, one of the descendants of Rapha, had a spear that weighed 300 bronze shekels, and he was armed with a new weapon. He had said that he would kill David.
 [17] But Abishai the son of Zeruiah came to David’s aid, striking the Philistine down and killing him. Then David’s men took an oath saying, “You will not go out to battle with us again! You must not extinguish the lamp of Israel!”
@@ -731,6 +794,7 @@ Every man go home, O Israel!”
 # 2 Samuel
 
 ## Chapter 22 <!-- scripture:22 -->
+
 
 ### David Sings to the Lord
 
@@ -853,6 +917,7 @@ to David and to his descendants forever!”
 
 ## Chapter 23 <!-- scripture:23 -->
 
+
 ### David’s Final Words
 
 [1] These are the final words of David:
@@ -882,6 +947,9 @@ for they cannot be held in the hand.
 must use an iron instrument
 or the wooden shaft of a spear.
 They are completely burned up right where they lie!”
+
+### David’s Warriors
+
 [8] These are the names of David’s warriors:
 [9] Next in command was Eleazar son of Dodo, the son of Ahohi. He was one of the three warriors who were with David when they defied the Philistines who were assembled there for battle. When the men of Israel retreated,
 [10] he stood his ground and fought the Philistines until his hand grew so tired that it seemed stuck to his sword. The Lord gave a great victory on that day. When the army returned to him, the only thing left to do was to plunder the corpses.
@@ -918,6 +986,7 @@ They are completely burned up right where they lie!”
 
 ## Chapter 24 <!-- scripture:24 -->
 
+
 ### David Displeases the Lord by Taking a Census
 
 [1] The Lord’s anger again raged against Israel, and he incited David against them, saying, “Go count Israel and Judah.”
@@ -937,6 +1006,9 @@ They are completely burned up right where they lie!”
 [15] So the Lord sent a plague through Israel from the morning until the completion of the appointed time, and 70,000 people died from Dan to Beer Sheba.
 [16] When the angel extended his hand to destroy Jerusalem, the Lord relented from his judgment. He told the angel who was killing the people, “That’s enough! Stop now!” (Now the angel of the Lord was near the threshing floor of Araunah the Jebusite.)
 [17] When he saw the angel who was destroying the people, David said to the Lord, “Look, it is I who have sinned and done this evil thing! As for these sheep—what have they done? Attack me and my family.”
+
+### David Acquires a Threshing Floor and Constructs an Altar There
+
 [18] So Gad went to David that day and told him, “Go up and build an altar for the Lord on the threshing floor of Araunah the Jebusite.”
 [19] So David went up as Gad instructed him to do, according to the Lord’s instructions.
 [20] When Araunah looked out and saw the king and his servants approaching him, he went out and bowed to the king with his face to the ground.

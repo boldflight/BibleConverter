@@ -2,10 +2,14 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, to the church of God that is in Corinth, with all the saints who are in all Achaia.
 [2] Grace and peace to you from God our Father and the Lord Jesus Christ!
+
+### Thanksgiving for God’s Comfort
+
 [3] Blessed is the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,
 [4] who comforts us in all our troubles so that we may be able to comfort those experiencing any trouble with the comfort with which we ourselves are comforted by God.
 [5] For just as the sufferings of Christ overflow toward us, so also our comfort through Christ overflows to you.
@@ -15,6 +19,9 @@
 [9] Indeed we felt as if the sentence of death had been passed against us, so that we would not trust in ourselves but in God who raises the dead.
 [10] He delivered us from so great a risk of death, and he will deliver us. We have set our hope on him that he will deliver us yet again,
 [11] as you also join in helping us by prayer, so that many people may give thanks to God on our behalf for the gracious gift given to us through the help of many.
+
+### Paul Defends His Changed Plans
+
 [12] For our reason for confidence is this: the testimony of our conscience, that with pure motives and sincerity which are from God —not by human wisdom but by the grace of God—we conducted ourselves in the world, and all the more toward you.
 [13] For we do not write you anything other than what you can read and also understand. But I hope that you will understand completely
 [14] just as also you have partly understood us, that we are your source of pride just as you also are ours in the day of the Lord Jesus.
@@ -29,6 +36,7 @@
 # 2 Corinthians
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Why Paul Postponed His Visit
 
@@ -47,6 +55,9 @@
 [11] so that we may not be exploited by Satan (for we are not ignorant of his schemes).
 [12] Now when I arrived in Troas to proclaim the gospel of Christ, even though the Lord had opened a door of opportunity for me,
 [13] I had no relief in my spirit, because I did not find my brother Titus there. So I said goodbye to them and set out for Macedonia.
+
+### Apostolic Ministry
+
 [14] But thanks be to God who always leads us in triumphal procession in Christ and who makes known through us the fragrance that consists of the knowledge of him in every place.
 [15] For we are a sweet aroma of Christ to God among those who are being saved and among those who are perishing—
 [16] to the latter an odor from death to death, but to the former a fragrance from life to life. And who is adequate for these things?
@@ -54,6 +65,7 @@
 # 2 Corinthians
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### A Living Letter
 
@@ -63,6 +75,9 @@
 [4] Now we have such confidence in God through Christ.
 [5] Not that we are adequate in ourselves to consider anything as if it were coming from ourselves, but our adequacy is from God,
 [6] who made us adequate to be servants of a new covenant not based on the letter but on the Spirit, for the letter kills, but the Spirit gives life.
+
+### The Greater Glory of the Spirit’s Ministry
+
 [7] But if the ministry that produced death—carved in letters on stone tablets —came with glory, so that the Israelites could not keep their eyes fixed on the face of Moses because of the glory of his face (a glory which was made ineffective),
 [8] how much more glorious will the ministry of the Spirit be?
 [9] For if there was glory in the ministry that produced condemnation, how much more does the ministry that produces righteousness excel in glory!
@@ -79,6 +94,7 @@
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Paul’s Perseverance in Ministry
 
 [1] Therefore, since we have this ministry, just as God has shown us mercy, we do not become discouraged.
@@ -87,6 +103,9 @@
 [4] among whom the god of this age has blinded the minds of those who do not believe so they would not see the light of the glorious gospel of Christ, who is the image of God.
 [5] For we do not proclaim ourselves, but Jesus Christ as Lord, and ourselves as your slaves for Jesus’ sake.
 [6] For God, who said “Let light shine out of darkness,” is the one who shined in our hearts to give us the light of the glorious knowledge of God in the face of Christ.
+
+### An Eternal Weight of Glory
+
 [7] But we have this treasure in clay jars, so that the extraordinary power belongs to God and does not come from us.
 [8] We are experiencing trouble on every side, but are not crushed; we are perplexed, but not driven to despair;
 [9] we are persecuted, but not abandoned; we are knocked down, but not destroyed,
@@ -103,6 +122,7 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
+
 ### Living by Faith, Not by Sight
 
 [1] For we know that if our earthly house, the tent we live in, is dismantled, we have a building from God, a house not built by human hands, that is eternal in the heavens.
@@ -115,6 +135,9 @@
 [8] Thus we are full of courage and would prefer to be away from the body and at home with the Lord.
 [9] So then whether we are alive or away, we make it our ambition to please him.
 [10] For we must all appear before the judgment seat of Christ, so that each one may be paid back according to what he has done while in the body, whether good or evil.
+
+### The Message of Reconciliation
+
 [11] Therefore, because we know the fear of the Lord, we try to persuade people, but we are well known to God, and I hope we are well known to your consciences too.
 [12] We are not trying to commend ourselves to you again, but are giving you an opportunity to be proud of us, so that you may be able to answer those who take pride in outward appearance and not in what is in the heart.
 [13] For if we are out of our minds, it is for God; if we are of sound mind, it is for you.
@@ -129,6 +152,7 @@
 # 2 Corinthians
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### God’s Suffering Servants
 
@@ -145,6 +169,9 @@
 [11] We have spoken freely to you, Corinthians; our heart has been opened wide to you.
 [12] Our affection for you is not restricted, but you are restricted in your affections for us.
 [13] Now as a fair exchange—I speak as to my children—open wide your hearts to us also.
+
+### Unequal Partners
+
 [14] Do not become partners with those who do not believe, for what partnership is there between righteousness and lawlessness, or what fellowship does light have with darkness?
 [15] And what agreement does Christ have with Beliar? Or what does a believer share in common with an unbeliever?
 [16] And what mutual agreement does the temple of God have with idols? For we are the temple of the living God, just as God said, “I will live in them and will walk among them, and I will be their God, and they will be my people.”
@@ -154,11 +181,15 @@
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### Self-Purification
 
 [1] Therefore, since we have these promises, dear friends, let us cleanse ourselves from everything that could defile the body and the spirit, and thus accomplish holiness out of reverence for God.
 [2] Make room for us in your hearts; we have wronged no one, we have ruined no one, we have exploited no one.
 [3] I do not say this to condemn you, for I told you before that you are in our hearts so that we die together and live together with you.
+
+### A Letter That Caused Sadness
+
 [4] I have great confidence in you; I take great pride on your behalf. I am filled with encouragement; I am overflowing with joy in the midst of all our suffering.
 [5] For even when we came into Macedonia, our body had no rest at all, but we were troubled in every way—struggles from the outside, fears from within.
 [6] But God, who encourages the downhearted, encouraged us by the arrival of Titus.
@@ -175,6 +206,7 @@
 # 2 Corinthians
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### Completing the Collection for the Saints
 
@@ -193,6 +225,9 @@
 [13] For I do not say this so there would be relief for others and suffering for you, but as a matter of equality.
 [14] At the present time, your abundance will meet their need, so that one day their abundance may also meet your need, and thus there may be equality,
 [15] as it is written: “The one who gathered much did not have too much, and the one who gathered little did not have too little.”
+
+### The Mission of Titus
+
 [16] But thanks be to God who put in the heart of Titus the same devotion I have for you,
 [17] because he not only accepted our request, but since he was very eager, he is coming to you of his own accord.
 [18] And we are sending along with him the brother who is praised by all the churches for his work in spreading the gospel.
@@ -205,6 +240,7 @@
 # 2 Corinthians
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### Preparing the Gift
 
@@ -227,6 +263,7 @@
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### Paul’s Authority from the Lord
 
 [1] Now I, Paul, appeal to you personally by the meekness and gentleness of Christ (I who am meek when present among you, but am full of courage toward you when away!)—
@@ -240,6 +277,9 @@
 [9] I do not want to seem as though I am trying to terrify you with my letters,
 [10] because some say, “His letters are weighty and forceful, but his physical presence is weak and his speech is of no account.”
 [11] Let such a person consider this: What we say by letters when we are absent, we also are in actions when we are present.
+
+### Paul’s Mission
+
 [12] For we would not dare to classify or compare ourselves with some of those who recommend themselves. But when they measure themselves by themselves and compare themselves with themselves, they are without understanding.
 [13] But we will not boast beyond certain limits, but will confine our boasting according to the limits of the work to which God has appointed us, that reaches even as far as you.
 [14] For we were not overextending ourselves, as though we did not reach as far as you, because we were the first to reach as far as you with the gospel about Christ.
@@ -250,6 +290,7 @@
 # 2 Corinthians
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### Paul and His Opponents
 
@@ -268,6 +309,9 @@
 [13] For such people are false apostles, deceitful workers, disguising themselves as apostles of Christ.
 [14] And no wonder, for even Satan disguises himself as an angel of light.
 [15] Therefore it is not surprising his servants also disguise themselves as servants of righteousness, whose end will correspond to their actions.
+
+### Paul’s Sufferings for Christ
+
 [16] I say again, let no one think that I am a fool. But if you do, then at least accept me as a fool, so that I too may boast a little.
 [17] What I am saying with this boastful confidence I do not say the way the Lord would. Instead it is, as it were, foolishness.
 [18] Since many are boasting according to human standards, I too will boast.
@@ -290,6 +334,7 @@
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### Paul’s Thorn in the Flesh
 
 [1] It is necessary to go on boasting. Though it is not profitable, I will go on to visions and revelations from the Lord.
@@ -302,6 +347,9 @@
 [8] I asked the Lord three times about this, that it would depart from me.
 [9] But he said to me, “My grace is enough for you, for my power is made perfect in weakness.” So then, I will boast most gladly about my weaknesses, so that the power of Christ may reside in me.
 [10] Therefore I am content with weaknesses, with insults, with troubles, with persecutions and difficulties for the sake of Christ, for whenever I am weak, then I am strong.
+
+### The Signs of an Apostle
+
 [11] I have become a fool. You yourselves forced me to do it, for I should have been commended by you. For I lack nothing in comparison to those “super-apostles,” even though I am nothing.
 [12] Indeed, the signs of an apostle were performed among you with great perseverance by signs and wonders and powerful deeds.
 [13] For how were you treated worse than the other churches, except that I myself was not a burden to you? Forgive me this injustice!
@@ -317,6 +365,7 @@
 
 ## Chapter 13 <!-- scripture:13 -->
 
+
 ### Paul’s Third Visit to Corinth
 
 [1] This is the third time I am coming to visit you. By the testimony of two or three witnesses every matter will be established.
@@ -329,6 +378,9 @@
 [8] For we cannot do anything against the truth, but only for the sake of the truth.
 [9] For we rejoice whenever we are weak, but you are strong. And we pray for this: that you may become fully qualified.
 [10] Because of this I am writing these things while absent, so that when I arrive I may not have to deal harshly with you by using my authority—the Lord gave it to me for building up, not for tearing down!
+
+### Final Exhortations and Greetings
+
 [11] Finally, brothers and sisters, rejoice, set things right, be encouraged, agree with one another, live in peace, and the God of love and peace will be with you.
 [12] Greet one another with a holy kiss. All the saints greet you.
 [13] The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.

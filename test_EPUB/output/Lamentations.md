@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The Prophet Speaks
 
 [1] Alas! The city once full of people
@@ -71,6 +72,9 @@ as they searched for a morsel of bread.
 They exchanged their valuables
 for just enough food
 to stay alive.
+
+### Jerusalem Speaks
+
 “Look, O Lord! Consider
 that I have become worthless!”
 [12] Is it nothing to you, all you who pass by on the road?
@@ -103,12 +107,18 @@ For there is no one in sight who can comfort me
 or encourage me.
 My children are desolated
 because an enemy has prevailed.
+
+### The Prophet Speaks
+
 [17] Zion spread out her hands,
 but there is no one to comfort her.
 The Lord has issued a decree against Jacob;
 his neighbors have become his enemies.
 Jerusalem has become
 like filthy garbage in their midst.
+
+### Jerusalem Speaks
+
 [18] The Lord is right to judge me!
 Yes, I rebelled against his commands.
 Please listen, all you nations,
@@ -142,6 +152,7 @@ and my heart is sick with sorrow.
 # Lamentations
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### The Prophet Speaks
 
@@ -261,6 +272,9 @@ Lift up your hands to him
 for your children’s lives;
 they are fainting from hunger
 at every street corner.
+
+### Jerusalem Speaks
+
 [20] Look, O Lord! Consider!
 Whom have you ever afflicted like this?
 Should women eat their offspring,
@@ -282,6 +296,7 @@ those healthy infants whom I bore and raised.
 # Lamentations
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### The Prophet Speaks
 
@@ -420,6 +435,7 @@ from under the Lord’s heaven.
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### The Prophet Speaks
 
 [1] Alas! Gold has lost its luster;
@@ -486,6 +502,9 @@ but the nations say, “They may not stay here any longer.”
 he no longer watches over them.
 They did not honor the priests;
 they did not show favor to the elders.
+
+### The People of Jerusalem Lament
+
 [17] Our eyes continually failed us
 as we looked in vain for help.
 From our watchtowers we watched
@@ -502,6 +521,9 @@ they ambushed us in the wilderness.
 was caught in their traps,
 of whom we thought,
 “Under his protection we will survive among the nations.”
+
+### The Prophet Speaks
+
 [21] Rejoice and be glad for now, O people of Edom,
 who reside in the land of Uz.
 But the cup of judgment will pass to you also;
@@ -513,6 +535,7 @@ and reveal your offenses!
 # Lamentations
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### The People of Jerusalem Pray
 

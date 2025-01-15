@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Jonah Tries to Run from the Lord
 
 [1] The Lord’s message came to Jonah son of Amittai,
@@ -20,6 +21,9 @@
 [14] So they cried out to the Lord, “Oh, please, Lord, don’t let us die on account of this man! Don’t hold us guilty of shedding innocent blood. After all, you, Lord, have done just as you pleased.”
 [15] So they picked Jonah up and threw him into the sea, and the sea stopped raging.
 [16] The men feared the Lord greatly and earnestly vowed to offer lavish sacrifices to the Lord.
+
+### Jonah Prays
+
 [17] (
 # Jonah
 
@@ -54,6 +58,7 @@ Salvation belongs to the Lord!”
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### The People of Nineveh Respond to Jonah’s Warning
 
 [1] The Lord’s message came to Jonah a second time,
@@ -69,6 +74,7 @@ Salvation belongs to the Lord!”
 # Jonah
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Jonah Responds to God’s Kindness
 

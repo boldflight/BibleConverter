@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### The Lord Commissions Joshua
 
 [1] After Moses the Lord’s servant died, the Lord said to Joshua son of Nun, Moses’ assistant:
@@ -13,6 +14,9 @@
 [7] Make sure you are very strong and brave! Carefully obey all the law my servant Moses charged you to keep. Do not swerve from it to the right or to the left, so that you may be successful in all you do.
 [8] This law scroll must not leave your lips. You must memorize it day and night so you can carefully obey all that is written in it. Then you will prosper and be successful.
 [9] I repeat, be strong and brave! Don’t be afraid and don’t panic, for I, the Lord your God, am with you in all you do.”
+
+### Joshua Prepares for the Invasion
+
 [10] Joshua instructed the leaders of the people:
 [11] “Go through the camp and command the people, ‘Prepare your supplies, for within three days you will cross the Jordan River and begin the conquest of the land the Lord your God is ready to hand over to you.’”
 [12] Joshua told the Reubenites, the Gadites, and the half-tribe of Manasseh:
@@ -25,6 +29,7 @@
 # Joshua
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Joshua Sends Spies into the Land
 
@@ -56,6 +61,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Israel Crosses the Jordan
 
 [1] Bright and early the next morning Joshua and the Israelites left Shittim and came to the Jordan. They camped there before crossing the river.
@@ -78,6 +84,7 @@
 # Joshua
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### Israel Commemorates the Crossing
 
@@ -109,9 +116,10 @@
 
 ## Chapter 5 <!-- scripture:5 -->
 
+[1] When all the Amorite kings on the west side of the Jordan and all the Canaanite kings along the seacoast heard how the Lord had dried up the water of the Jordan before the Israelites while they crossed, they lost their courage and could not even breathe for fear of the Israelites.
+
 ### A New Generation is Circumcised
 
-[1] When all the Amorite kings on the west side of the Jordan and all the Canaanite kings along the seacoast heard how the Lord had dried up the water of the Jordan before the Israelites while they crossed, they lost their courage and could not even breathe for fear of the Israelites.
 [2] At that time the Lord told Joshua, “Make flint knives and circumcise the Israelites once again.”
 [3] So Joshua made flint knives and circumcised the Israelites at the Hill of the Foreskins.
 [4] This is why Joshua had to circumcise them: All the men old enough to fight when they left Egypt died on the journey through the wilderness after they left Egypt.
@@ -123,6 +131,9 @@
 [10] So the Israelites camped in Gilgal and celebrated the Passover in the evening of the fourteenth day of the month in the rift valley plains of Jericho.
 [11] They ate some of the produce of the land the day after the Passover, including unleavened bread and roasted grain.
 [12] The manna stopped appearing the day they ate some of the produce of the land; the Israelites never ate manna again. They ate from the produce of the land of Canaan that year.
+
+### Israel Conquers Jericho
+
 [13] When Joshua was near Jericho, he looked up and saw a man standing in front of him holding a drawn sword. Joshua approached him and asked him, “Are you on our side or allied with our enemies?”
 [14] He answered, “Truly I am the commander of the Lord’s army. Now I have arrived!” Joshua bowed down with his face to the ground and asked, “What does my master want to say to his servant?”
 [15] The commander of the Lord’s army answered Joshua, “Remove your sandals from your feet, because the place where you stand is holy.” Joshua did so.
@@ -161,6 +172,7 @@
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### Achan Sins and is Punished
 
 [1] But the Israelites disobeyed the command about the city’s riches. Achan son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, stole some of the riches. The Lord was furious with the Israelites.
@@ -193,6 +205,7 @@
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### Israel Conquers Ai
 
 [1] The Lord told Joshua, “Don’t be afraid and don’t panic! Take the whole army with you and march against Ai! See, I am handing over to you the king of Ai, along with his people, city, and land.
@@ -224,6 +237,9 @@
 [27] But Israel did plunder the cattle and the goods of the city, in keeping with the Lord’s orders to Joshua.
 [28] Joshua burned Ai and made it a permanently uninhabited mound (it remains that way to this very day).
 [29] He hung the king of Ai on a tree, leaving him exposed until evening. At sunset Joshua ordered that his corpse be taken down from the tree. They threw it down at the entrance of the city gate and erected over it a large pile of stones (it remains to this very day).
+
+### Covenant Renewal
+
 [30] Then Joshua built an altar for the Lord God of Israel on Mount Ebal,
 [31] just as Moses the Lord’s servant had commanded the Israelites. As described in the law scroll of Moses, it was made with uncut stones untouched by an iron tool. On it they offered burnt sacrifices to the Lord and sacrificed tokens of peace.
 [32] There, in the presence of the Israelites, Joshua inscribed on the stones a duplicate of the law written by Moses.
@@ -233,6 +249,7 @@
 # Joshua
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### The Gibeonites Deceive Israel
 
@@ -267,6 +284,7 @@
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### Israel Defeats an Amorite Coalition
 
 [1] Adoni-Zedek, king of Jerusalem, heard how Joshua captured Ai and annihilated it and its king as he did Jericho and its king. He also heard how the people of Gibeon made peace with Israel and lived among them.
@@ -298,6 +316,9 @@ O moon, over the Valley of Aijalon!”
 [25] Then Joshua said to them, “Don’t be afraid and don’t panic! Be strong and brave, for the Lord will do the same thing to all your enemies you fight.”
 [26] Then Joshua executed them and hung them on five trees. They were left hanging on the trees until evening.
 [27] At sunset Joshua ordered his men to take them down from the trees. They threw them into the cave where they had hidden and piled large stones over the mouth of the cave. (They remain to this very day.)
+
+### Joshua Launches a Southern Campaign
+
 [28] That day Joshua captured Makkedah and put the sword to it and its king. He annihilated everyone who lived in it; he left no survivors. He did to its king what he had done to the king of Jericho.
 [29] Joshua and all Israel marched from Makkedah to Libnah and fought against it.
 [30] The Lord handed it and its king over to Israel, and Israel put the sword to all who lived there; they left no survivors. They did to its king what they had done to the king of Jericho.
@@ -318,6 +339,7 @@ O moon, over the Valley of Aijalon!”
 
 ## Chapter 11 <!-- scripture:11 -->
 
+
 ### Israel Defeats a Northern Coalition
 
 [1] When King Jabin of Hazor heard the news about Israel’s victories, he organized a coalition, including King Jobab of Madon, the king of Shimron, the king of Acshaph,
@@ -335,6 +357,9 @@ O moon, over the Valley of Aijalon!”
 [13] But Israel did not burn any of the cities located on mounds except for Hazor; it was the only one Joshua burned.
 [14] The Israelites plundered all the goods of these cities and the cattle, but they totally destroyed all the people and allowed no one who breathed to live.
 [15] Moses the Lord’s servant passed on the Lord’s commands to Joshua, and Joshua did as he was told. He did not ignore any of the commands the Lord had given Moses.
+
+### A Summary of Israel’s Victories
+
 [16] Joshua conquered the whole land, including the hill country, all the Negev, all the land of Goshen, the foothills, the rift valley, the hill country of Israel and its foothills,
 [17] from Mount Halak up to Seir, as far as Baal Gad in the Lebanon Valley below Mount Hermon. He captured all their kings and executed them.
 [18] Joshua campaigned against these kings for quite some time.
@@ -390,6 +415,7 @@ the king of Goyim—near Gilgal—(one),
 
 ## Chapter 13 <!-- scripture:13 -->
 
+
 ### The Lord Speaks to Joshua
 
 [1] When Joshua was very old, the Lord told him, “You are very old, and a great deal of land remains to be conquered.
@@ -399,6 +425,9 @@ the king of Goyim—near Gilgal—(one),
 [5] the territory of Byblos and all Lebanon to the east, from Baal Gad below Mount Hermon to Lebo Hamath.
 [6] I will drive out before the Israelites all who live in the hill country from Lebanon to Misrephoth Maim, all the Sidonians; you be sure to parcel it out to Israel as I instructed you.
 [7] Now, divide up this land among the nine tribes and the half-tribe of Manasseh.”
+
+### Tribal Lands East of the Jordan
+
 [8] The other half of Manasseh, Reuben, and Gad received their allotted tribal lands on east side of the Jordan, just as Moses, the Lord’s servant, had assigned them.
 [9] Their territory started from Aroer (on the edge of the Arnon Valley), included the city in the middle of the valley, the whole plain of Medeba as far as Dibon,
 [10] and all the cities of King Sihon of the Amorites who ruled in Heshbon, and ended at the Ammonite border.
@@ -428,6 +457,7 @@ the king of Goyim—near Gilgal—(one),
 # Joshua
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### Judah’s Tribal Lands
 
@@ -517,6 +547,7 @@ the king of Goyim—near Gilgal—(one),
 
 ## Chapter 16 <!-- scripture:16 -->
 
+
 ### Joseph’s Tribal Lands
 
 [1] The land allotted to Joseph’s descendants extended from the Jordan at Jericho to the waters of Jericho to the east, through the desert and on up from Jericho into the hill country of Bethel.
@@ -555,6 +586,7 @@ the king of Goyim—near Gilgal—(one),
 
 ## Chapter 18 <!-- scripture:18 -->
 
+
 ### The Tribes Meet at Shiloh
 
 [1] The entire Israelite community assembled at Shiloh and there they set up the tent of meeting. Though they had subdued the land,
@@ -567,6 +599,9 @@ the king of Goyim—near Gilgal—(one),
 [8] When the men started out, Joshua told those going to map out the land, “Go, walk through the land, map it out, and return to me. Then I will draw lots for you before the Lord here in Shiloh.”
 [9] The men journeyed through the land and mapped it and its cities out into seven regions on a scroll. Then they came to Joshua at the camp in Shiloh.
 [10] Joshua drew lots for them in Shiloh before the Lord and divided the land among the Israelites according to their allotted portions.
+
+### Benjamin’s Tribal Lands
+
 [11] The first lot belonged to the tribe of Benjamin by its clans. Their allotted territory was between Judah and Joseph.
 [12] Their northern border started at the Jordan, went up to the slope of Jericho on the north, ascended westward to the hill country, and extended to the wilderness of Beth Aven.
 [13] It then crossed from there to Luz, to the slope of Luz to the south (that is, Bethel), and descended to Ataroth Addar located on the hill that is south of lower Beth Horon.
@@ -589,6 +624,7 @@ the king of Goyim—near Gilgal—(one),
 
 ## Chapter 19 <!-- scripture:19 -->
 
+
 ### Simeon’s Tribal Lands
 
 [1] The second lot belonged to the tribe of Simeon by its clans. Their assigned land was in the middle of Judah’s assigned land.
@@ -600,6 +636,9 @@ the king of Goyim—near Gilgal—(one),
 [7] Ain, Rimmon, Ether, and Ashan—a total of four cities and their towns,
 [8] as well as all the towns around these cities as far as Baalath Beer (Ramah of the Negev). This was the land assigned to the tribe of Simeon by its clans.
 [9] Simeon’s assigned land was taken from Judah’s allotted portion, for Judah’s territory was too large for them; so Simeon was assigned land within Judah.
+
+### Zebulun’s Tribal Lands
+
 [10] The third lot belonged to the tribe of Zebulun by its clans. The border of their territory extended to Sarid.
 [11] Their border went up westward to Maralah and touched Dabbesheth and the valley near Jokneam.
 [12] From Sarid it turned eastward to the territory of Kisloth Tabor, extended to Daberath, and went up to Japhia.
@@ -607,6 +646,9 @@ the king of Goyim—near Gilgal—(one),
 [14] It then turned on the north to Hannathon and ended at the Valley of Iphtah El.
 [15] Their territory included Kattah, Nahalal, Shimron, Idalah, and Bethlehem; in all they had twelve cities and their towns.
 [16] This was the land assigned to the tribe of Zebulun by its clans, including these cities and their towns.
+
+### Issachar’s Tribal Lands
+
 [17] The fourth lot belonged to the tribe of Issachar by its clans.
 [18] Their assigned land included Jezreel, Kesulloth, Shunem,
 [19] Hapharaim, Shion, Anaharath,
@@ -614,6 +656,9 @@ the king of Goyim—near Gilgal—(one),
 [21] Remeth, En Gannim, En Haddah and Beth Pazzez.
 [22] Their border touched Tabor, Shahazumah, and Beth Shemesh, and ended at the Jordan. They had sixteen cities and their towns.
 [23] This was the land assigned to the tribe of Issachar by its clans, including these cities and their towns.
+
+### Asher’s Tribal Lands
+
 [24] The fifth lot belonged to the tribe of Asher by its clans.
 [25] Their territory included Helkath, Hali, Beten, Acshaph,
 [26] Alammelech, Amad, and Mishal. Their border touched Carmel to the west and Shihor Libnath.
@@ -622,6 +667,9 @@ the king of Goyim—near Gilgal—(one),
 [29] It then turned toward Ramah as far as the fortified city of Tyre, turned to Hosah, and ended at the sea near Hebel, Achzib,
 [30] Umah, Aphek, and Rehob. In all they had twenty-two cities and their towns.
 [31] This was the land assigned to the tribe of Asher by its clans, including these cities and their towns.
+
+### Naphtali’s Tribal Lands
+
 [32] The sixth lot belonged to the tribe of Naphtali by its clans.
 [33] Their border started at Heleph and the oak of Zaanannim, went to Adami Nekeb, Jabneel and on to Lakkum, and ended at the Jordan River.
 [34] It turned westward to Aznoth Tabor, extended from there to Hukok, touched Zebulun on the south, Asher on the west, and the Jordan on the east.
@@ -630,6 +678,9 @@ the king of Goyim—near Gilgal—(one),
 [37] Kedesh, Edrei, En Hazor,
 [38] Yiron, Migdal El, Horem, Beth Anath, and Beth Shemesh. In all they had nineteen cities and their towns.
 [39] This was the land assigned to the tribe of Naphtali by its clans, including these cities and their towns.
+
+### Dan’s Tribal Lands
+
 [40] The seventh lot belonged to the tribe of Dan by its clans.
 [41] Their assigned land included Zorah, Eshtaol, Ir Shemesh,
 [42] Shaalabbin, Aijalon, Ithlah,
@@ -639,12 +690,16 @@ the king of Goyim—near Gilgal—(one),
 [46] the waters of Jarkon, and Rakkon, including the territory in front of Joppa.
 [47] (The Danites failed to conquer their territory, so they went up and fought with Leshem and captured it. They put the sword to it, took possession of it, and lived in it. They renamed it Dan after their ancestor.)
 [48] This was the land assigned to the tribe of Dan by its clans, including these cities and their towns.
+
+### Joshua Receives Land
+
 [49] When they finished dividing the land into its regions, the Israelites gave Joshua son of Nun some land.
 [50] As the Lord had instructed, they gave him the city he requested—Timnath Serah in the Ephraimite hill country. He built up the city and lived in it.
 [51] These are the land assignments that Eleazar the priest, Joshua son of Nun, and the Israelite tribal leaders made by drawing lots in Shiloh before the Lord at the entrance of the tent of meeting. So they finished dividing up the land.
 # Joshua
 
 ## Chapter 20 <!-- scripture:20 -->
+
 
 ### Israel Designates Cities of Refuge
 
@@ -660,6 +715,7 @@ the king of Goyim—near Gilgal—(one),
 # Joshua
 
 ## Chapter 21 <!-- scripture:21 -->
+
 
 ### Levitical Cities
 
@@ -712,6 +768,7 @@ the king of Goyim—near Gilgal—(one),
 
 ## Chapter 22 <!-- scripture:22 -->
 
+
 ### Joshua Sends Home the Eastern Tribes
 
 [1] Then Joshua summoned the Reubenites, the Gadites, and the half-tribe of Manasseh
@@ -723,6 +780,9 @@ the king of Goyim—near Gilgal—(one),
 [7] (Now to one half-tribe of Manasseh, Moses had assigned land in Bashan; and to the other half Joshua had assigned land on the west side of the Jordan with their fellow Israelites.) When Joshua sent them home, he rewarded them,
 [8] saying, “Take home great wealth, a lot of cattle, silver, gold, bronze, iron, and a lot of clothing. Divide up the goods captured from your enemies with your brothers.”
 [9] So the Reubenites, the Gadites, and the half-tribe of Manasseh left the Israelites in Shiloh in the land of Canaan and headed home to their own land in Gilead, which they acquired by the Lord’s command through Moses.
+
+### Civil War is Averted
+
 [10] The Reubenites, the Gadites, and the half-tribe of Manasseh came to Geliloth near the Jordan in the land of Canaan and built there, near the Jordan, an impressive altar.
 [11] The Israelites received this report: “Look, the Reubenites, the Gadites, and the half-tribe of Manasseh have built an altar at the entrance to the land of Canaan, at Geliloth near the Jordan on the Israelite side.”
 [12] When the Israelites heard this, the entire Israelite community assembled at Shiloh to launch an attack against them.
@@ -752,6 +812,7 @@ the king of Goyim—near Gilgal—(one),
 
 ## Chapter 23 <!-- scripture:23 -->
 
+
 ### Joshua Challenges Israel to be Faithful
 
 [1] A long time passed after the Lord made Israel secure from all their enemies, and Joshua was very old.
@@ -773,6 +834,7 @@ the king of Goyim—near Gilgal—(one),
 # Joshua
 
 ## Chapter 24 <!-- scripture:24 -->
+
 
 ### Israel Renews its Commitment to the Lord
 
@@ -804,6 +866,9 @@ the king of Goyim—near Gilgal—(one),
 [26] Joshua wrote these words in the Law Scroll of God. He then took a large stone and set it up there under the oak tree near the Lord’s sanctuary.
 [27] Joshua said to all the people, “Look, this stone will be a witness against us, for it has heard everything the Lord said to us. It will be a witness against you if you deny your God.”
 [28] When Joshua dismissed the people, they went to their allotted portions of land.
+
+### An Era Ends
+
 [29] After all this Joshua son of Nun, the Lord’s servant, died at the age of 110.
 [30] They buried him in his allotted territory in Timnath Serah in the hill country of Ephraim, north of Mount Gaash.
 [31] Israel worshiped the Lord throughout Joshua’s lifetime and as long as the elderly men who outlived him remained alive. These men had experienced firsthand everything the Lord had done for Israel.

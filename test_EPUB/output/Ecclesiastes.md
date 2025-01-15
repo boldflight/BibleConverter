@@ -2,11 +2,18 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Title
 
 [1] The words of the Teacher, the son of David, king in Jerusalem:
+
+### Introduction: Utter Futility
+
 [2] “Futile! Futile!” laments the Teacher.
 “Absolutely futile! Everything is futile!”
+
+### Futility Illustrated from Nature
+
 [3] What benefit do people get from all the effort
 which they expend on earth?
 [4] A generation comes and a generation goes,
@@ -27,6 +34,9 @@ It was already done long ago, before our time.
 [11] No one remembers the former events,
 nor will anyone remember the events that are yet to happen;
 they will not be remembered by the future generations.
+
+### Futility of Secular Accomplishment
+
 [12] I, the Teacher, have been king over Israel in Jerusalem.
 [13] I decided to carefully and thoroughly examine
 all that has been accomplished on earth.
@@ -36,6 +46,9 @@ that keeps them occupied.
 and I concluded: Everything he has accomplished is futile —like chasing the wind!
 [15] What is bent cannot be straightened,
 and what is missing cannot be supplied.
+
+### Futility of Secular Wisdom
+
 [16] I thought to myself,
 “I have become much wiser than any of my predecessors who ruled over Jerusalem;
 I have acquired much wisdom and knowledge.”
@@ -46,6 +59,7 @@ whoever increases his knowledge merely increases his heartache.
 # Ecclesiastes
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Futility of Self-Indulgent Pleasure
 
@@ -59,6 +73,9 @@ and of self-indulgent pleasure, “It accomplishes nothing!”
 and the effects of behaving foolishly,
 so that I might discover what is profitable
 for people to do on earth during the few days of their lives.
+
+### Futility of Materialism
+
 [4] I increased my possessions:
 I built houses for myself;
 I planted vineyards for myself.
@@ -85,6 +102,9 @@ and on all the effort that I had expended to accomplish it,
 I concluded: “All these achievements and possessions are ultimately profitless —
 like chasing the wind!
 There is nothing gained from them on earth.”
+
+### Wisdom is Better than Folly
+
 [12] Next, I decided to consider wisdom, as well as foolish behavior and ideas.
 For what more can the king’s successor do than what the king has already done?
 [13] I realized that wisdom is preferable to folly,
@@ -101,6 +121,9 @@ Alas, the wise man dies—just like the fool!
 [17] So I loathed life because what
 happens on earth seems awful to me;
 for all the benefits of wisdom are futile—like chasing the wind.
+
+### Futility of Being a Workaholic
+
 [18] So I loathed all the fruit of my effort,
 for which I worked so hard on earth,
 because I must leave it behind in the hands of my successor.
@@ -114,11 +137,17 @@ for which I worked so hard on earth.
 however, he must hand over the fruit of his labor as an inheritance
 to someone else who did not work for it.
 This also is futile, and an awful injustice!
+
+### Painful Days and Restless Nights
+
 [22] What does a man acquire from all his labor
 and from the anxiety that accompanies his toil on earth?
 [23] For all day long his work produces pain and frustration,
 and even at night his mind cannot relax.
 This also is futile!
+
+### Enjoy Work and its Benefits
+
 [24] There is nothing better for people than to eat and drink,
 and to find enjoyment in their work.
 I also perceived that this ability to find enjoyment comes from God.
@@ -131,6 +160,7 @@ This task of the wicked is futile—like chasing the wind!
 # Ecclesiastes
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### A Time for All Events in Life
 
@@ -150,6 +180,9 @@ a time to keep, and a time to throw away;
 a time to keep silent, and a time to speak.
 [8] A time to love, and a time to hate;
 a time for war, and a time for peace.
+
+### Man is Ignorant of God’s Timing
+
 [9] What benefit can a worker gain from his toil?
 [10] I have observed the burden
 that God has given to people to keep them occupied.
@@ -157,16 +190,25 @@ that God has given to people to keep them occupied.
 but he has also placed ignorance in the human heart
 so that people cannot discover what God has ordained,
 from the beginning to the end of their lives.
+
+### Enjoy Life in the Present
+
 [12] I have concluded that there is nothing better for people
 than to be happy and to enjoy
 themselves as long as they live,
 [13] and also that everyone should eat and drink, and find enjoyment in all his toil,
 for these things are a gift from God.
+
+### God’s Sovereignty
+
 [14] I also know that whatever God does will endure forever;
 nothing can be added to it, and nothing taken away from it.
 God has made it this way, so that men will fear him.
 [15] Whatever exists now has already been, and whatever will be has already been;
 for God will seek to do again what has occurred in the past.
+
+### The Problem of Injustice and Oppression
+
 [16] I saw something else on earth:
 In the place of justice, there was wickedness,
 and in the place of fairness, there was wickedness.
@@ -191,6 +233,7 @@ for who can show them what the future holds?
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Evil Oppression on Earth
 
 [1] So I again considered all the oppression that continually occurs on earth.
@@ -201,6 +244,9 @@ no one delivers them from the power of their oppressors.
 more fortunate than those who are still alive.
 [3] But better than both is the one who has not been born
 and has not seen the evil things that are done on earth.
+
+### Labor Motivated by Envy
+
 [4] Then I considered all the skillful work that is done:
 Surely it is nothing more than competition between one person and another.
 This also is profitless—like chasing the wind.
@@ -208,6 +254,9 @@ This also is profitless—like chasing the wind.
 so he has nothing to eat but his own flesh.
 [6] Better is one handful with some rest
 than two hands full of toil and chasing the wind.
+
+### Labor Motivated by Greed
+
 [7] So I again considered another futile thing on earth:
 [8] A man who is all alone with no companion,
 he has no children nor siblings;
@@ -215,6 +264,9 @@ yet there is no end to all his toil,
 and he is never satisfied with riches.
 He laments, “For whom am I toiling and depriving myself of pleasure?”
 This also is futile and a burdensome task!
+
+### Labor is Beneficial When Its Rewards Are Shared
+
 [9] Two people are better than one,
 because they can reap more benefit from their labor.
 [10] For if they fall, one will help his companion up,
@@ -224,6 +276,9 @@ but how can one person keep warm by himself?
 [12] Although an assailant may overpower one person,
 two can withstand him.
 Moreover, a three-stranded cord is not quickly broken.
+
+### Labor Motivated by Prestige Seeking
+
 [13] A poor but wise youth is better than an old and foolish king
 who no longer knows how to receive advice.
 [14] For he came out of prison to become king,
@@ -236,6 +291,7 @@ This also is profitless and like chasing the wind.
 # Ecclesiastes
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Rash Vows
 
@@ -259,6 +315,9 @@ so that he would destroy the work of your hands?
 [7] Just as there is futility in many dreams,
 so also in many words.
 Therefore, fear God.
+
+### Government Corruption
+
 [8] If you see the extortion of the poor,
 or the perversion of justice and fairness in the government,
 do not be astonished by the matter.
@@ -266,6 +325,9 @@ For the high official is watched by a higher official,
 and there are higher ones over them!
 [9] The produce of the land is seized by all of them,
 even the king is served by the fields.
+
+### Covetousness
+
 [10] The one who loves money will never be satisfied with money,
 he who loves wealth will never be satisfied with his income.
 This also is futile.
@@ -273,6 +335,9 @@ This also is futile.
 so what does its owner gain, except that he gets to see it with his eyes?
 [12] The sleep of the laborer is pleasant—whether he eats little or much—
 but the wealth of the rich will not allow him to sleep.
+
+### Materialism Thwarts Enjoyment of Life
+
 [13] Here is a misfortune on earth that I have seen:
 Wealth hoarded by its owner to his own misery.
 [14] Then that wealth was lost through bad luck;
@@ -284,6 +349,9 @@ Just as he came, so will he go.
 What did he gain from toiling for the wind?
 [17] Surely, he ate in darkness every day of his life,
 and he suffered greatly with sickness and anger.
+
+### Enjoy the Fruit of Your Labor
+
 [18] I have seen personally what is the only beneficial and appropriate course of action for people:
 to eat and drink, and find enjoyment in all their hard work on earth
 during the few days of their life that God has given them,
@@ -297,6 +365,7 @@ because God keeps him preoccupied with the joy he derives from his activity.
 # Ecclesiastes
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### Not Everyone Enjoys Life
 
@@ -324,6 +393,9 @@ And what advantage does a pauper gain by knowing how to survive?
 [9] It is better to be content with what the eyes can see
 than for one’s heart always to crave more.
 This continual longing is futile—like chasing the wind.
+
+### The Futile Way Life Works
+
 [10] Whatever has happened was foreordained,
 and what happens to a person was also foreknown.
 It is useless for him to argue with God about his fate
@@ -338,6 +410,7 @@ Nor can anyone tell him what the future will hold for him on earth.
 
 ## Chapter 7 <!-- scripture:7 -->
 
+
 ### Life is Brief and Death is Certain
 
 [1] A good reputation is better than precious perfume;
@@ -350,11 +423,17 @@ and the living should take this to heart.
 because sober reflection is good for the heart.
 [4] The heart of the wise is in the house of mourning,
 but the heart of fools is in the house of merrymaking.
+
+### Frivolous Living Versus Wisdom
+
 [5] It is better for a person to receive a rebuke from those who are wise
 than to listen to the song of fools.
 [6] For like the crackling of quick-burning thorns under a cooking pot,
 so is the laughter of the fool.
 This kind of folly also is useless.
+
+### Human Wisdom Overturned by Adversity
+
 [7] Surely oppression can turn a wise person into a fool;
 likewise, a bribe corrupts the heart.
 [8] The end of a matter is better than its beginning;
@@ -363,18 +442,27 @@ likewise, patience is better than pride.
 for anger resides in the lap of fools.
 [10] Do not say, “Why were the old days better than these days?”
 for it is not wise to ask that.
+
+### Wisdom Can Lengthen One’s Life
+
 [11] Wisdom, like an inheritance, is a good thing;
 it benefits those who see the light of day.
 [12] For wisdom provides protection,
 just as money provides protection.
 But the advantage of knowledge is this:
 Wisdom preserves the life of its owner.
+
+### Wisdom Acknowledges God’s Orchestration of Life
+
 [13] Consider the work of God:
 For who can make straight what he has bent?
 [14] In times of prosperity be joyful,
 but in times of adversity consider this:
 God has made one as well as the other,
 so that no one can discover what the future holds.
+
+### Exceptions to the Law of Retribution
+
 [15] During the days of my fleeting life I have seen both of these things:
 Sometimes a righteous person dies prematurely in spite of his righteousness,
 and sometimes a wicked person lives long in spite of his evil deeds.
@@ -384,6 +472,9 @@ otherwise you might be disappointed.
 otherwise you might die before your time.
 [18] It is best to take hold of one warning without letting go of the other warning;
 for the one who fears God will follow both warnings.
+
+### Wisdom Needed Because No One is Truly Righteous
+
 [19] Wisdom gives a wise person more protection
 than ten rulers in a city.
 [20] For there is not one truly righteous person on the earth
@@ -392,10 +483,16 @@ who continually does good and never sins.
 otherwise, you might even hear your servant cursing you.
 [22] For you know in your own heart
 that you also have cursed others many times.
+
+### Human Wisdom is Limited
+
 [23] I have examined all this by wisdom;
 I said, “I am determined to comprehend this” —but it was beyond my grasp.
 [24] Whatever has happened is beyond human understanding;
 it is far deeper than anyone can fathom.
+
+### True Righteousness and Wisdom Are Virtually Nonexistent
+
 [25] I tried to understand, examine, and comprehend
 the role of wisdom in the scheme of things,
 and to understand the stupidity of wickedness and the insanity of folly.
@@ -414,6 +511,7 @@ but they have sought many evil schemes.
 # Ecclesiastes
 
 ## Chapter 8 <!-- scripture:8 -->
+
 
 ### Human Government Demonstrates Limitations of Wisdom
 
@@ -437,6 +535,9 @@ Just as no one can be discharged during the battle,
 so wickedness cannot rescue the wicked.
 [9] While applying my mind to everything that happens in this world, I have seen all this:
 Sometimes one person dominates other people to their harm.
+
+### Contradictions to the Law of Retribution
+
 [10] Not only that, but I have seen the wicked approaching and entering the temple,
 and as they left the holy temple, they
 boasted in the city that they had done so.
@@ -452,10 +553,16 @@ because they do not stand in fear before God.
 Sometimes there are righteous people who get what the wicked deserve,
 and sometimes there are wicked people who get what the righteous deserve.
 I said, “This also is an enigma.”
+
+### Enjoy Life In Spite of Its Injustices
+
 [15] So I recommend the enjoyment of life,
 for there is nothing better on earth for a person to do except to eat, drink, and enjoy life.
 So joy will accompany him in his toil
 during the days of his life that God gives him on earth.
+
+### Limitations of Human Wisdom
+
 [16] When I tried to gain wisdom
 and to observe the activity on earth—
 even though it prevents anyone from sleeping day or night —
@@ -467,6 +574,7 @@ he would not really comprehend it.
 # Ecclesiastes
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### Everyone Will Die
 
@@ -485,12 +593,18 @@ what happens to those who make vows, also happens to those who are afraid to mak
 the same fate awaits everyone.
 In addition to this, the hearts of all people are full of evil,
 and there is folly in their hearts during their lives—then they die.
+
+### Better to Be Poor but Alive than Rich but Dead
+
 [4] But whoever is among the living has hope;
 a live dog is better than a dead lion.
 [5] For the living know that they will die, but the dead do not know anything;
 they have no further reward—and even the memory of them disappears.
 [6] What they loved, as well as what they hated and envied, perished long ago,
 and they no longer have a part in anything that happens on earth.
+
+### Life is Brief, so Cherish its Joys
+
 [7] Go, eat your food with joy,
 and drink your wine with a happy heart,
 because God has already approved your works.
@@ -503,6 +617,9 @@ for that is your reward in life and in your burdensome work on earth.
 do it with all your might,
 because there is neither work nor planning nor knowledge nor wisdom in the grave,
 the place where you will eventually go.
+
+### Wisdom Cannot Protect against Seemingly Chance Events
+
 [11] Again, I observed this on the earth:
 the race is not always won by the swiftest,
 the battle is not always won by the strongest;
@@ -513,6 +630,9 @@ for time and chance may overcome them all.
 [12] Surely, no one knows his appointed time.
 Like fish that are caught in a deadly net, and like birds that are caught in a snare—
 just like them, all people are ensnared at an unfortunate time that falls upon them suddenly.
+
+### Most People Are Not Receptive to Wise Counsel
+
 [13] This is what I also observed about wisdom on earth,
 and it is a great burden to me:
 [14] There was once a small city with a few men in it,
@@ -522,6 +642,9 @@ and he could have delivered the city by his wisdom,
 but no one listened to that poor man.
 [16] So I concluded that wisdom is better than might,
 but a poor man’s wisdom is despised; no one ever listens to his advice.
+
+### Wisdom versus Fools, Sin, and Folly
+
 [17] The words of the wise are heard in quiet,
 more than the shouting of a ruler is heard among fools.
 [18] Wisdom is better than weapons of war,
@@ -530,10 +653,11 @@ but one sinner can destroy much that is good.
 
 ## Chapter 10 <!-- scripture:10 -->
 
-### Wisdom Can Be Nullified By the Caprice of Rulers
-
 [1] One dead fly makes the perfumer’s ointment give off a rancid stench,
 so a little folly can outweigh much wisdom.
+
+### Wisdom Can Be Nullified By the Caprice of Rulers
+
 [2] A wise person’s good sense protects him,
 but a fool’s lack of sense leaves him vulnerable.
 [3] Even when a fool walks along the road he lacks sense,
@@ -546,6 +670,9 @@ It is an error a ruler makes.
 while wealthy men sit in lowly positions.
 [7] I have seen slaves on horseback
 and princes walking on foot like slaves.
+
+### Wisdom is Needed to Avert Dangers in Everyday Life
+
 [8] One who digs a pit may fall into it,
 and one who breaks through a wall may be bitten by a snake.
 [9] One who quarries stones may be injured by them;
@@ -555,6 +682,9 @@ he must exert a great deal of effort;
 so wisdom has the advantage of giving success.
 [11] If the snake should bite before it is charmed,
 the snake charmer is in trouble.
+
+### Words and Works of Wise Men and Fools
+
 [12] The words of a wise person win him favor,
 but the words of a fool are self-destructive.
 [13] At the beginning his words are foolish
@@ -564,6 +694,9 @@ No one knows what will happen;
 who can tell him what will happen in the future?
 [15] The toil of a stupid fool wears him out,
 because he does not even know the way to the city.
+
+### The Problem with Foolish Rulers
+
 [16] Woe to you, O land, when your king is childish,
 and your princes feast in the morning.
 [17] Blessed are you, O land, when your king is the son of nobility,
@@ -580,6 +713,7 @@ or some winged creature might repeat your words.
 # Ecclesiastes
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### Ignorance of the Future Demands Diligence in the Present
 
@@ -598,10 +732,16 @@ so you do not know the work of God who makes everything.
 and do not stop working until the evening;
 for you do not know which activity will succeed —
 whether this one or that one, or whether both will prosper equally.
+
+### Life Should Be Enjoyed Because Death is Inevitable
+
 [7] Light is sweet,
 and it is pleasant for a person to see the sun.
 [8] So, if a man lives many years, let him rejoice in them all,
 but let him remember that the days of darkness will be many—all that is about to come is obscure.
+
+### Enjoy Life to the Fullest under the Fear of God
+
 [9] Rejoice, young man, while you are young,
 and let your heart cheer you in the days of your youth.
 Follow the impulses of your heart and the desires of your eyes,
@@ -612,6 +752,7 @@ for youth and the prime of life are fleeting.
 # Ecclesiastes
 
 ## Chapter 12 <!-- scripture:12 -->
+
 
 ### Fear God Now Because Old Age and Death Come Quickly
 
@@ -640,8 +781,14 @@ or the pitcher is shattered at the well,
 or the water wheel is broken at the cistern—
 [7] and the dust returns to the earth as it was,
 and the life’s breath returns to God who gave it.
+
+### Concluding Refrain: The Teacher Restates His Thesis
+
 [8] “Absolutely futile!” laments the Teacher,
 “All these things are futile!”
+
+### Concluding Epilogue: The Teacher’s Advice is Wise
+
 [9] Not only was the Teacher wise,
 but he also taught knowledge to the people;
 he carefully evaluated and arranged many proverbs.
@@ -650,6 +797,9 @@ and to write accurately truthful sayings.
 [11] The words of the sages are like prods,
 and the collected sayings are like firmly fixed nails;
 they are given by one shepherd.
+
+### Concluding Exhortation: Fear God and Obey His Commands
+
 [12] Be warned, my son, of anything in addition to them.
 There is no end to the making of many books,
 and much study is exhausting to the body.

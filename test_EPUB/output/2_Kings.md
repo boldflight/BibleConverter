@@ -2,6 +2,7 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Elijah Confronts the King and His Commanders
 
 [1] After Ahab died, Moab rebelled against Israel.
@@ -26,6 +27,7 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
+
 ### Elijah Makes a Swift Departure
 
 [1] Just before the Lord took Elijah up to heaven in a windstorm, Elijah and Elisha were traveling from Gilgal.
@@ -46,6 +48,9 @@
 [16] They said to him, “Look, there are fifty capable men with your servants. Let them go and look for your master, for the wind sent from the Lord may have carried him away and dropped him on one of the hills or in one of the valleys.” But Elisha replied, “Don’t send them out.”
 [17] But they were so insistent that he became embarrassed. So he said, “Send them out.” They sent the fifty men out, and they looked for three days, but could not find Elijah.
 [18] When they came back, Elisha was staying in Jericho. He said to them, “Didn’t I tell you, ‘Don’t go’?”
+
+### Elisha Demonstrates His Authority
+
 [19] The men of the city said to Elisha, “Look, the city has a good location, as our master can see. But the water is bad and the land doesn’t produce crops.”
 [20] Elisha said, “Get me a new jar and put some salt in it.” So they got it.
 [21] He went out to the spring and threw the salt in. Then he said, “This is what the Lord has said, ‘I have purified this water. It will no longer cause death or fail to produce crops.’”
@@ -56,6 +61,7 @@
 # 2 Kings
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### Moab Fights with Israel
 
@@ -90,6 +96,7 @@
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### Elisha Helps a Widow and Her Sons
 
 [1] Now a wife of one of the prophets appealed to Elisha for help, saying, “Your servant, my husband is dead. You know that your servant was a loyal follower of the Lord. Now the creditor is coming to take away my two boys to be his servants.”
@@ -99,6 +106,9 @@
 [5] So she left him and closed the door behind her and her sons. As they were bringing the containers to her, she was pouring the olive oil.
 [6] When the containers were full, she said to one of her sons, “Bring me another container.” But he answered her, “There are no more.” Then the olive oil stopped flowing.
 [7] She went and told the prophet. He said, “Go, sell the olive oil. Repay your creditor, and then you and your sons can live off the rest of the profit.”
+
+### Elisha Gives Life to a Boy
+
 [8] One day Elisha traveled to Shunem, where a prominent woman lived. She insisted that he stop for a meal. So whenever he was passing through, he would stop in there for a meal.
 [9] She said to her husband, “Look, I’m sure that the man who regularly passes through here is a very special prophet.
 [10] Let’s make a small, private upper room and furnish it with a bed, table, chair, and lamp. When he visits us, he can stay there.”
@@ -129,16 +139,23 @@
 [35] Elisha went back and walked around in the house. Then he got up on the bed again and bent down over him. The child sneezed seven times and opened his eyes.
 [36] Elisha called to Gehazi and said, “Get the Shunammite woman.” So he did so and she came to him. He said to her, “Take your son.”
 [37] She came in, fell at his feet, and bowed down. Then she picked up her son and left.
+
+### Elisha Makes a Meal Edible
+
 [38] Now Elisha went back to Gilgal, while there was a famine in the land. Some of the prophets were visiting him and he told his servant, “Put the big pot on the fire and boil some stew for the prophets.”
 [39] Someone went out to the field to gather some herbs and found a wild vine. He picked some of its fruit, enough to fill up the fold of his robe. He came back, cut it up, and threw the slices into the stew pot, not knowing they were harmful.
 [40] The stew was poured out for the men to eat. When they ate some of the stew, they cried out, “Death is in the pot, O prophet!” They could not eat it.
 [41] He said, “Get some flour.” Then he threw it into the pot and said, “Now pour some out for the men so they may eat.” There was no longer anything harmful in the pot.
+
+### Elisha Miraculously Feeds a Hundred People
+
 [42] Now a man from Baal Shalisha brought some food for the prophet —twenty loaves of bread made from the firstfruits of the barley harvest, as well as fresh ears of grain. Elisha said, “Set it before the people so they may eat.”
 [43] But his attendant said, “How can I feed a hundred men with this?” He replied, “Set it before the people so they may eat, for this is what the Lord has said, ‘They will eat and have some left over.’”
 [44] So he set it before them; they ate and had some left over, just as in the Lord’s message.
 # 2 Kings
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Elisha Heals a Syrian General
 
@@ -173,6 +190,7 @@
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Elisha Makes an Ax Head Float
 
 [1] Some of the prophets said to Elisha, “Look, the place where we meet with you is too cramped for us.
@@ -182,6 +200,9 @@
 [5] As one of them was felling a tree, the ax head dropped into the water. He shouted, “Oh no, my master! It was borrowed!”
 [6] The prophet asked, “Where did it drop in?” When he showed him the spot, Elisha cut off a branch, threw it in at that spot, and made the ax head float.
 [7] He said, “Lift it out.” So he reached out his hand and grabbed it.
+
+### Elisha Defeats an Army
+
 [8] Now the king of Syria was at war with Israel. He consulted his advisers, who said, “Invade at such and such a place.”
 [9] But the prophet sent this message to the king of Israel, “Make sure you don’t pass through this place because Syria is invading there.”
 [10] So the king of Israel sent a message to the place the prophet had pointed out, warning it to be on its guard. This happened on several occasions.
@@ -198,6 +219,9 @@
 [21] When the king of Israel saw them, he asked Elisha, “Should I strike them down, my master?”
 [22] He replied, “Do not strike them down! You did not capture them with your sword or bow, so what gives you the right to strike them down? Give them some food and water, so they can eat and drink and then go back to their master.”
 [23] So he threw a big banquet for them and they ate and drank. Then he sent them back to their master. After that no Syrian raiding parties again invaded the land of Israel.
+
+### The Lord Saves Samaria
+
 [24] Later King Ben Hadad of Syria assembled his entire army and attacked and besieged Samaria.
 [25] Samaria’s food supply ran out. They laid siege to it so long that a donkey’s head was selling for eighty shekels of silver and a quarter of a kab of dove’s droppings for five shekels of silver.
 [26] While the king of Israel was passing by on the city wall, a woman shouted to him, “Help us, my master, O king!”
@@ -236,6 +260,7 @@
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### Elisha Again Helps the Shunammite Woman
 
 [1] Now Elisha advised the woman whose son he had brought back to life, “You and your family should go and live somewhere else for a while, for the Lord has decreed that a famine will overtake the land for seven years.”
@@ -244,6 +269,9 @@
 [4] Now the king was talking to Gehazi, the prophet’s servant, and said, “Tell me all the great things that Elisha has done.”
 [5] While Gehazi was telling the king how Elisha had brought the dead back to life, the woman whose son he had brought back to life came to ask the king for her house and field. Gehazi said, “My master, O king, this is the very woman, and this is her son whom Elisha brought back to life!”
 [6] The king asked the woman about it, and she gave him the details. The king assigned a eunuch to take care of her request and ordered him, “Give her back everything she owns, as well as the amount of crops her field produced from the day she left the land until now.”
+
+### Elisha Meets with Hazael
+
 [7] Elisha traveled to Damascus while King Ben Hadad of Syria was sick. The king was told, “The prophet has come here.”
 [8] So the king told Hazael, “Take a gift and go visit the prophet. Request from him an oracle from the Lord. Ask him, ‘Will I recover from this sickness?’”
 [9] So Hazael went to visit Elisha. He took along a gift, as well as forty camel-loads of all the fine things of Damascus. When he arrived, he stood before him and said, “Your son, King Ben Hadad of Syria, has sent me to you with this question, ‘Will I recover from this sickness?’”
@@ -253,6 +281,9 @@
 [13] Hazael said, “How could your servant, who is as insignificant as a dog, accomplish this great military victory?” Elisha answered, “The Lord has revealed to me that you will be the king of Syria.”
 [14] He left Elisha and went to his master. Ben Hadad asked him, “What did Elisha tell you?” Hazael replied, “He told me you would surely recover.”
 [15] The next day Hazael took a piece of cloth, dipped it in water, and spread it over Ben Hadad’s face until he died. Then Hazael replaced him as king.
+
+### Jehoram’s Reign over Judah
+
 [16] In the fifth year of the reign of Israel’s King Joram, son of Ahab, Jehoshaphat’s son Jehoram became king over Judah.
 [17] He was thirty-two years old when he became king and he reigned for eight years in Jerusalem.
 [18] He followed in the footsteps of the kings of Israel, just as Ahab’s dynasty had done, for he married Ahab’s daughter. He did evil in the sight of the Lord.
@@ -262,6 +293,9 @@
 [22] So Edom has remained free from Judah’s control to this very day. At that same time Libnah also rebelled.
 [23] The rest of the events of Jehoram’s reign, including a record of his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah.
 [24] Jehoram passed away and was buried with his ancestors in the City of David. His son Ahaziah replaced him as king.
+
+### Ahaziah Takes the Throne of Judah
+
 [25] In the twelfth year of the reign of Israel’s King Joram, son of Ahab, Jehoram’s son Ahaziah became king over Judah.
 [26] Ahaziah was twenty-two years old when he became king and he reigned for one year in Jerusalem. His mother was Athaliah, the granddaughter of King Omri of Israel.
 [27] He followed in the footsteps of Ahab’s dynasty and did evil in the sight of the Lord, as Ahab’s dynasty had done, for he was related to Ahab’s family.
@@ -270,6 +304,7 @@
 # 2 Kings
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### Jehu Becomes King
 
@@ -287,6 +322,9 @@
 [12] But they said, “You’re lying! Tell us what he said.” So he told them what he had said. He also related how he had said, “This is what the Lord has said, ‘I have designated you as king over Israel.’”
 [13] Each of them quickly took off his cloak, and they spread them out at Jehu’s feet on the steps. The trumpet was blown and they shouted, “Jehu is king!”
 [14] Then Jehu son of Jehoshaphat son of Nimshi conspired against Joram.
+
+### Jehu the Assassin
+
 [15] But King Joram had returned to Jezreel to recover from the wounds he received from the Syrians when he fought against King Hazael of Syria. Jehu told his supporters, “If you really want me to be king, then don’t let anyone escape from the city to go and warn Jezreel.”
 [16] Jehu drove his chariot to Jezreel, for Joram was recuperating there. (Now King Ahaziah of Judah had come down to visit Joram.)
 [17] Now the watchman was standing on the tower in Jezreel and saw Jehu’s troops approaching. He said, “I see troops!” Joram ordered, “Send a rider out to meet them and have him ask, ‘Is everything all right?’”
@@ -314,6 +352,7 @@
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### Jehu Wipes Out Ahab’s Family
 
 [1] Ahab had seventy sons living in Samaria. So Jehu wrote letters and sent them to Samaria to the leading officials of Jezreel and to the guardians of Ahab’s dynasty. This is what the letters said,
@@ -333,6 +372,9 @@
 [15] When he left there, he met Jehonadab son of Rekab who had been looking for him. Jehu greeted him and asked, “Are you as committed to me as I am to you?” Jehonadab answered, “I am!” Jehu replied, “If so, give me your hand.” So he offered his hand and Jehu pulled him up into the chariot.
 [16] Jehu said, “Come with me and see how zealous I am for the Lord’s cause.” So he took him along in his chariot.
 [17] He went to Samaria and killed each of Ahab’s remaining family members who were in Samaria until he destroyed them, in keeping with the Lord’s message which he had announced to Elijah.
+
+### Jehu Executes the Prophets and Priests of Baal
+
 [18] Jehu assembled all the people and said to them, “Ahab worshiped Baal a little; Jehu will worship him with great devotion.
 [19] So now, bring to me all the prophets of Baal, as well as all his servants and priests. None of them must be absent, for I am offering a great sacrifice to Baal. Any of them who fails to appear will lose his life.” But Jehu was tricking them so he could destroy the servants of Baal.
 [20] Then Jehu ordered, “Make arrangements for a celebration for Baal.” So they announced it.
@@ -344,6 +386,9 @@
 [26] They hauled out the sacred pillar of the temple of Baal and burned it.
 [27] They demolished the sacred pillar of Baal and the temple of Baal; it is used as a latrine to this very day.
 [28] So Jehu eradicated Baal worship from Israel.
+
+### A Summary of Jehu’s Reign
+
 [29] However, Jehu did not repudiate the sins that Jeroboam son of Nebat had encouraged Israel to commit; the golden calves remained in Bethel and Dan.
 [30] The Lord said to Jehu, “You have done well. You have accomplished my will and carried out my wishes with regard to Ahab’s dynasty. Therefore four generations of your descendants will rule over Israel.”
 [31] But Jehu did not carefully and wholeheartedly obey the law of the Lord God of Israel. He did not repudiate the sins which Jeroboam had encouraged Israel to commit.
@@ -355,6 +400,7 @@
 # 2 Kings
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### Athaliah is Eliminated
 
@@ -381,6 +427,7 @@
 # 2 Kings
 
 ## Chapter 12 <!-- scripture:12 -->
+
 
 ### Joash’s Reign over Judah
 
@@ -410,6 +457,7 @@
 
 ## Chapter 13 <!-- scripture:13 -->
 
+
 ### Jehoahaz’s Reign over Israel
 
 [1] In the twenty-third year of the reign of Judah’s King Joash son of Ahaziah, Jehu’s son Jehoahaz became king over Israel. He reigned in Samaria for seventeen years.
@@ -421,10 +469,16 @@
 [7] Jehoahaz had no army left except for 50 horsemen, 10 chariots, and 10,000 foot soldiers. The king of Syria had destroyed his troops and trampled on them as dust.
 [8] The rest of the events of Jehoahaz’s reign, including all his accomplishments and successes, are recorded in the scroll called the Annals of the Kings of Israel.
 [9] Jehoahaz passed away and was buried in Samaria. His son Jehoash replaced him as king.
+
+### Jehoash’s Reign over Israel
+
 [10] In the thirty-seventh year of King Jehoash’s reign over Judah, Jehoahaz’s son Jehoash became king over Israel. He reigned in Samaria for sixteen years.
 [11] He did evil in the sight of the Lord. He did not repudiate the sinful ways of Jeroboam son of Nebat who encouraged Israel to sin; he continued in those sins.
 [12] The rest of the events of Jehoash’s reign, including all his accomplishments and his successful war with King Amaziah of Judah, are recorded in the scroll called the Annals of the Kings of Israel.
 [13] Jehoash passed away and Jeroboam succeeded him on the throne. Jehoash was buried in Samaria with the kings of Israel.
+
+### Elisha Makes One Final Prophecy
+
 [14] Now Elisha had a terminal illness. King Jehoash of Israel went down to visit him. He wept before him and said, “My father, my father! The chariot and horsemen of Israel!”
 [15] Elisha told him, “Take a bow and some arrows,” and he did so.
 [16] Then Elisha told the king of Israel, “Aim the bow.” He did so, and Elisha placed his hands on the king’s hands.
@@ -440,6 +494,7 @@
 # 2 Kings
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### Amaziah’s Reign over Judah
 
@@ -465,6 +520,9 @@
 [20] His body was carried back by horses, and he was buried in Jerusalem with his ancestors in the City of David.
 [21] All the people of Judah took Azariah, who was sixteen years old, and made him king in his father Amaziah’s place.
 [22] Azariah built up Elat and restored it to Judah after the king had passed away.
+
+### Jeroboam II’s Reign over Israel
+
 [23] In the fifteenth year of the reign of Judah’s King Amaziah son of Joash, Jeroboam son of Joash became king over Israel. He reigned for forty-one years in Samaria.
 [24] He did evil in the sight of the Lord; he did not repudiate the sinful ways of Jeroboam son of Nebat who encouraged Israel to sin.
 [25] He restored the border of Israel from Lebo Hamath in the north to the sea of the rift valley in the south, just as in the message from the Lord God of Israel that he had announced through his servant Jonah son of Amittai, the prophet from Gath Hepher.
@@ -476,6 +534,7 @@
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### Azariah’s Reign over Judah
 
 [1] In the twenty-seventh year of King Jeroboam’s reign over Israel, Amaziah’s son Azariah became king over Judah.
@@ -485,6 +544,9 @@
 [5] The Lord afflicted the king with an illness; he suffered from a skin disease until the day he died. He lived in separate quarters, while his son Jotham was in charge of the palace and ruled over the people of the land.
 [6] The rest of the events of Azariah’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah.
 [7] Azariah passed away and was buried with his ancestors in the City of David. His son Jotham replaced him as king.
+
+### Zechariah’s Reign over Israel
+
 [8] In the thirty-eighth year of King Azariah’s reign over Judah, Jeroboam’s son Zechariah became king over Israel. He reigned in Samaria for six months.
 [9] He did evil in the sight of the Lord, as his ancestors had done. He did not repudiate the sinful ways of Jeroboam son of Nebat who encouraged Israel to sin.
 [10] Shallum son of Jabesh conspired against him; he assassinated him in Ibleam and took his place as king.
@@ -494,21 +556,33 @@
 [14] Menahem son of Gadi went up from Tirzah to Samaria and attacked Shallum son of Jabesh. He killed him and took his place as king.
 [15] The rest of the events of Shallum’s reign, including the conspiracy he organized, are recorded in the scroll called the Annals of the Kings of Israel.
 [16] At that time Menahem came from Tirzah and attacked Tiphsah. He struck down all who lived in the city and the surrounding territory, because they would not surrender. He even ripped open the pregnant women.
+
+### Menahem’s Reign over Israel
+
 [17] In the thirty-ninth year of King Azariah’s reign over Judah, Menahem son of Gadi became king over Israel. He reigned for ten years in Samaria.
 [18] He did evil in the sight of the Lord; he did not repudiate the sinful ways of Jeroboam son of Nebat, who encouraged Israel to sin.
 [19] Pul king of Assyria invaded the land, and Menahem paid him 1,000 talents of silver to gain his support and to solidify his control of the kingdom.
 [20] Menahem got this silver by taxing all the wealthy men in Israel; he took fifty shekels of silver from each one of them and paid it to the king of Assyria. Then the king of Assyria left; he did not stay there in the land.
 [21] The rest of the events of Menahem’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
 [22] Menahem passed away and his son Pekahiah replaced him as king.
+
+### Pekahiah’s Reign over Israel
+
 [23] In the fiftieth year of King Azariah’s reign over Judah, Menahem’s son Pekahiah became king over Israel. He reigned in Samaria for two years.
 [24] He did evil in the sight of the Lord; he did not repudiate the sinful ways of Jeroboam son of Nebat who encouraged Israel to sin.
 [25] His officer Pekah son of Remaliah conspired against him. He and fifty Gileadites assassinated Pekahiah, as well as Argob and Arieh, in Samaria in the fortress of the royal palace. Pekah then took his place as king.
 [26] The rest of the events of Pekahiah’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
+
+### Pekah’s Reign over Israel
+
 [27] In the fifty-second year of King Azariah’s reign over Judah, Pekah son of Remaliah became king over Israel. He reigned in Samaria for twenty years.
 [28] He did evil in the sight of the Lord; he did not repudiate the sinful ways of Jeroboam son of Nebat who encouraged Israel to sin.
 [29] During Pekah’s reign over Israel, King Tiglath-Pileser of Assyria came and captured Ijon, Abel Beth Maacah, Janoah, Kedesh, Hazor, Gilead, and Galilee, including all the territory of Naphtali. He deported the people to Assyria.
 [30] Hoshea son of Elah conspired against Pekah son of Remaliah. He assassinated him and took his place as king, in the twentieth year of the reign of Jotham son of Uzziah.
 [31] The rest of the events of Pekah’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
+
+### Jotham’s Reign over Judah
+
 [32] In the second year of the reign of Israel’s King Pekah son of Remaliah, Uzziah’s son Jotham became king over Judah.
 [33] He was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem. His mother was Jerusha the daughter of Zadok.
 [34] He did what the Lord approved, just as his father Uzziah had done.
@@ -519,6 +593,7 @@
 # 2 Kings
 
 ## Chapter 16 <!-- scripture:16 -->
+
 
 ### Ahaz’s Reign over Judah
 
@@ -546,6 +621,7 @@
 
 ## Chapter 17 <!-- scripture:17 -->
 
+
 ### Hoshea’s Reign over Israel
 
 [1] In the twelfth year of King Ahaz’s reign over Judah, Hoshea son of Elah became king over Israel. He reigned in Samaria for nine years.
@@ -554,6 +630,9 @@
 [4] The king of Assyria discovered that Hoshea was planning a revolt. Hoshea had sent messengers to King So of Egypt and had not sent his annual tribute to the king of Assyria. So the king of Assyria arrested him and imprisoned him.
 [5] The king of Assyria marched through the whole land. He attacked Samaria and besieged it for three years.
 [6] In the ninth year of Hoshea’s reign, the king of Assyria captured Samaria and deported the people of Israel to Assyria. He settled them in Halah, along the Habor (the river of Gozan), and in the cities of the Medes.
+
+### A Summary of Israel’s Sinful History
+
 [7] This happened because the Israelites sinned against the Lord their God, who brought them up from the land of Egypt and freed them from the power of Pharaoh king of Egypt. They worshiped other gods;
 [8] they observed the practices of the nations whom the Lord had driven out from before them, and followed the example of the kings of Israel.
 [9] The Israelites said things about the Lord their God that were not right. They built high places in all their towns, from watchtower to fortified city.
@@ -571,6 +650,9 @@
 [21] He tore Israel away from David’s dynasty, and Jeroboam son of Nebat became their king. Jeroboam drove Israel away from the Lord and encouraged them to commit a serious sin.
 [22] The Israelites followed in the sinful ways of Jeroboam and did not repudiate them.
 [23] Finally the Lord rejected Israel just as he had warned he would do through all his servants the prophets. Israel was deported from its land to Assyria and remains there to this very day.
+
+### The King of Assyria Populates Israel with Foreigners
+
 [24] The king of Assyria brought foreigners from Babylon, Cuthah, Avva, Hamath, and Sepharvaim and settled them in the cities of Samaria in place of the Israelites. They took possession of Samaria and lived in its cities.
 [25] When they first moved in, they did not worship the Lord. So the Lord sent lions among them and the lions were killing them.
 [26] The king of Assyria was told, “The nations whom you deported and settled in the cities of Samaria do not know the requirements of the God of the land, so he has sent lions among them. They are killing the people because they do not know the requirements of the God of the land.”
@@ -593,6 +675,7 @@
 
 ## Chapter 18 <!-- scripture:18 -->
 
+
 ### Hezekiah Becomes King of Judah
 
 [1] In the third year of the reign of Israel’s King Hoshea son of Elah, Ahaz’s son Hezekiah became king over Judah.
@@ -607,6 +690,9 @@
 [10] After three years he captured it (in the sixth year of Hezekiah’s reign); in the ninth year of King Hoshea’s reign over Israel, Samaria was captured.
 [11] The king of Assyria deported the people of Israel to Assyria. He settled them in Halah, along the Habor (the river of Gozan), and in the cities of the Medes.
 [12] This happened because they did not obey the Lord their God and broke his covenant with them. They did not pay attention to and obey all that Moses, the Lord’s servant, had commanded.
+
+### Sennacherib Invades Judah
+
 [13] In the fourteenth year of King Hezekiah’s reign, King Sennacherib of Assyria marched up against all the fortified cities of Judah and captured them.
 [14] King Hezekiah of Judah sent this message to the king of Assyria, who was at Lachish, “I have violated our treaty. If you leave, I will do whatever you demand.” So the king of Assyria demanded that King Hezekiah of Judah pay 300 talents of silver and thirty talents of gold.
 [15] Hezekiah gave him all the silver in the Lord’s temple and in the treasuries of the royal palace.
@@ -718,6 +804,7 @@ He will not enter this city,” says the Lord.
 
 ## Chapter 20 <!-- scripture:20 -->
 
+
 ### Hezekiah is Healed
 
 [1] In those days Hezekiah was stricken with a terminal illness. The prophet Isaiah son of Amoz visited him and told him, “This is what the Lord has said, ‘Give your household instructions, for you are about to die; you will not get well.’”
@@ -731,6 +818,9 @@ He will not enter this city,” says the Lord.
 [9] Isaiah replied, “This is your sign from the Lord confirming that the Lord will do what he has said. Do you want the shadow to move ahead ten steps or to go back ten steps?”
 [10] Hezekiah answered, “It is easy for the shadow to lengthen ten steps, but not for it to go back ten steps.”
 [11] Isaiah the prophet called out to the Lord, and the Lord made the shadow go back ten steps on the stairs of Ahaz.
+
+### Messengers from Babylon Visit Hezekiah
+
 [12] At that time Merodach Baladan son of Baladan, king of Babylon, sent messengers with letters and a gift to Hezekiah, for he had heard that Hezekiah was ill.
 [13] Hezekiah welcomed them and showed them his whole storehouse, with its silver, gold, spices, and high quality olive oil, as well as his armory and everything in his treasuries. Hezekiah showed them everything in his palace and in his whole kingdom.
 [14] Isaiah the prophet visited King Hezekiah and asked him, “What did these men say? Where do they come from?” Hezekiah replied, “They come from the distant land of Babylon.”
@@ -744,6 +834,7 @@ He will not enter this city,” says the Lord.
 # 2 Kings
 
 ## Chapter 21 <!-- scripture:21 -->
+
 
 ### Manasseh’s Reign over Judah
 
@@ -765,6 +856,9 @@ He will not enter this city,” says the Lord.
 [16] Furthermore Manasseh killed so many innocent people, he stained Jerusalem with their blood from end to end, in addition to encouraging Judah to sin by doing evil in the sight of the Lord.
 [17] The rest of the events of Manasseh’s reign and all his accomplishments, as well as the sinful acts he committed, are recorded in the scroll called the Annals of the Kings of Judah.
 [18] Manasseh passed away and was buried in his palace garden, the garden of Uzzah, and his son Amon replaced him as king.
+
+### Amon’s Reign over Judah
+
 [19] Amon was twenty-two years old when he became king, and he reigned for two years in Jerusalem. His mother was Meshullemeth, the daughter of Haruz, from Jotbah.
 [20] He did evil in the sight of the Lord, just as his father Manasseh had done.
 [21] He followed in the footsteps of his father and worshiped and bowed down to the disgusting idols that his father had worshiped.
@@ -776,6 +870,7 @@ He will not enter this city,” says the Lord.
 # 2 Kings
 
 ## Chapter 22 <!-- scripture:22 -->
+
 
 ### Josiah Repents
 
@@ -802,6 +897,7 @@ He will not enter this city,” says the Lord.
 # 2 Kings
 
 ## Chapter 23 <!-- scripture:23 -->
+
 
 ### The King Institutes Religious Reform
 
@@ -835,18 +931,22 @@ He will not enter this city,” says the Lord.
 [28] The rest of the events of Josiah’s reign and all his accomplishments are recorded in the scroll called the Annals of the Kings of Judah.
 [29] During Josiah’s reign Pharaoh Necho king of Egypt marched toward the Euphrates River to help the king of Assyria. King Josiah marched out to fight him, but Necho killed him at Megiddo when he saw him.
 [30] His servants transported his dead body from Megiddo in a chariot and brought it to Jerusalem, where they buried him in his tomb. The people of the land took Josiah’s son Jehoahaz, poured olive oil on his head, and made him king in his father’s place.
+
+### Jehoahaz’s Reign over Judah
+
 [31] Jehoahaz was twenty-three years old when he became king, and he reigned three months in Jerusalem. His mother was Hamutal the daughter of Jeremiah, from Libnah.
 [32] He did evil in the sight of the Lord as his ancestors had done.
 [33] Pharaoh Necho imprisoned him in Riblah in the land of Hamath and prevented him from ruling in Jerusalem. He imposed on the land a special tax of 100 talents of silver and a talent of gold.
 [34] Pharaoh Necho made Josiah’s son Eliakim king in Josiah’s place, and changed his name to Jehoiakim. He took Jehoahaz to Egypt, where he died.
 [35] Jehoiakim paid Pharaoh the required amount of silver and gold, but to meet Pharaoh’s demands Jehoiakim had to tax the land. He collected an assessed amount from each man among the people of the land in order to pay Pharaoh Necho.
+
+### Jehoiakim’s Reign over Judah
+
 [36] Jehoiakim was twenty-five years old when he became king, and he reigned for eleven years in Jerusalem. His mother was Zebidah the daughter of Pedaiah, from Rumah.
 [37] He did evil in the sight of the Lord as his ancestors had done.
 # 2 Kings
 
 ## Chapter 24 <!-- scripture:24 -->
-
-### Jehoiachin’s Reign over Judah
 
 [1] During Jehoiakim’s reign, King Nebuchadnezzar of Babylon attacked. Jehoiakim was his subject for three years, but then he rebelled against him.
 [2] The Lord sent against him Babylonian, Syrian, Moabite, and Ammonite raiding bands; he sent them to destroy Judah, just as in the Lord’s message that he had announced through his servants the prophets.
@@ -855,6 +955,9 @@ He will not enter this city,” says the Lord.
 [5] The rest of the events of Jehoiakim’s reign and all his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah.
 [6] He passed away and his son Jehoiachin replaced him as king.
 [7] The king of Egypt did not march out from his land again, for the king of Babylon conquered all the territory that the king of Egypt had formerly controlled between the Stream of Egypt and the Euphrates River.
+
+### Jehoiachin’s Reign over Judah
+
 [8] Jehoiachin was eighteen years old when he became king, and he reigned three months in Jerusalem. His mother was Nehushta the daughter of Elnathan, from Jerusalem.
 [9] He did evil in the sight of the Lord as his ancestors had done.
 [10] At that time the generals of King Nebuchadnezzar of Babylon marched to Jerusalem and besieged the city.
@@ -865,13 +968,14 @@ He will not enter this city,” says the Lord.
 [15] He deported Jehoiachin from Jerusalem to Babylon, along with the king’s mother and wives, his eunuchs, and the high-ranking officials of the land.
 [16] The king of Babylon deported to Babylon all the soldiers (there were 7,000), as well as 1,000 craftsmen and metal workers. This included all the best warriors.
 [17] The king of Babylon made Mattaniah, Jehoiachin’s uncle, king in Jehoiachin’s place. He renamed him Zedekiah.
+
+### Zedekiah’s Reign over Judah
+
 [18] Zedekiah was twenty-one years old when he became king, and he ruled for eleven years in Jerusalem. His mother was Hamutal, the daughter of Jeremiah, from Libnah.
 [19] He did evil in the sight of the Lord, as Jehoiakim had done.
 # 2 Kings
 
 ## Chapter 25 <!-- scripture:25 -->
-
-### Nebuchadnezzar Destroys Jerusalem
 
 [20] What follows is a record of what happened to Jerusalem and Judah because of the Lord’s anger; he finally threw them out of his presence. Zedekiah rebelled against the king of Babylon.
 [1] So King Nebuchadnezzar of Babylon came against Jerusalem with his whole army and set up camp outside it. They built siege ramps all around it. He arrived on the tenth day of the tenth month in the ninth year of Zedekiah’s reign.
@@ -881,6 +985,9 @@ He will not enter this city,” says the Lord.
 [5] But the Babylonian army chased after the king. They caught up with him in the rift valley plains of Jericho, and his entire army deserted him.
 [6] They captured the king and brought him up to the king of Babylon at Riblah, where he passed sentence on him.
 [7] Zedekiah’s sons were executed while Zedekiah was forced to watch. The king of Babylon then had Zedekiah’s eyes put out, bound him in bronze chains, and carried him off to Babylon.
+
+### Nebuchadnezzar Destroys Jerusalem
+
 [8] On the seventh day of the fifth month, in the nineteenth year of King Nebuchadnezzar of Babylon, Nebuzaradan, the captain of the royal guard, who served the king of Babylon, arrived in Jerusalem.
 [9] He burned down the Lord’s temple, the royal palace, and all the houses in Jerusalem, including every large house.
 [10] The whole Babylonian army that came with the captain of the royal guard tore down the walls that surrounded Jerusalem.
@@ -895,11 +1002,17 @@ He will not enter this city,” says the Lord.
 [19] From the city he took a eunuch who was in charge of the soldiers, five of the king’s advisers who were discovered in the city, an official army secretary who drafted citizens for military service, and sixty citizens from the people of the land who were discovered in the city.
 [20] Nebuzaradan, captain of the royal guard, took them and brought them to the king of Babylon at Riblah.
 [21] The king of Babylon ordered them to be executed at Riblah in the territory of Hamath. So Judah was deported from its land.
+
+### Gedaliah Appointed Governor
+
 [22] Now King Nebuchadnezzar of Babylon appointed Gedaliah son of Ahikam, son of Shaphan, as governor over the people whom he allowed to remain in the land of Judah.
 [23] All the officers of the Judahite army and their troops heard that the king of Babylon had appointed Gedaliah to govern. So they came to Gedaliah at Mizpah. The officers who came were Ishmael son of Nethaniah, Johanan son of Kareah, Seraiah son of Tanhumeth the Netophathite, and Jaazaniah son of the Maacathite.
 [24] Gedaliah took an oath so as to give them and their troops some assurance of safety. He said, “You don’t need to be afraid to submit to the Babylonian officials. Settle down in the land and submit to the king of Babylon. Then things will go well for you.”
 [25] But in the seventh month Ishmael son of Nethaniah, son of Elishama, who was a member of the royal family, came with ten of his men and murdered Gedaliah, as well as the Judeans and Babylonians who were with him at Mizpah.
 [26] Then all the people, from the youngest to the oldest, as well as the army officers, left for Egypt, because they were afraid of what the Babylonians might do.
+
+### Jehoiachin in Babylon
+
 [27] In the thirty-seventh year of the exile of King Jehoiachin of Judah, on the twenty-seventh day of the twelfth month, King Evil Merodach of Babylon, in the first year of his reign, pardoned King Jehoiachin of Judah and released him from prison.
 [28] He spoke kindly to him and gave him a more prestigious position than the other kings who were with him in Babylon.
 [29] Jehoiachin took off his prison clothes and ate daily in the king’s presence for the rest of his life.

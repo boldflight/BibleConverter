@@ -2,9 +2,13 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul and Silvanus and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ. Grace and peace to you!
+
+### Thanksgiving for Response to the Gospel
+
 [2] We thank God always for all of you as we mention you constantly in our prayers,
 [3] because we recall in the presence of our God and Father your work of faith and labor of love and endurance of hope in our Lord Jesus Christ.
 [4] We know, brothers and sisters loved by God, that he has chosen you,
@@ -17,6 +21,7 @@
 # 1 Thessalonians
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### Paul’s Ministry in Thessalonica
 
@@ -36,6 +41,9 @@
 [14] For you became imitators, brothers and sisters, of God’s churches in Christ Jesus that are in Judea, because you too suffered the same things from your own countrymen as they in fact did from the Jews,
 [15] who killed both the Lord Jesus and the prophets and persecuted us severely. They are displeasing to God and are opposed to all people,
 [16] because they hinder us from speaking to the Gentiles so that they may be saved. Thus they constantly fill up their measure of sins, but wrath has come upon them completely.
+
+### Forced Absence from Thessalonica
+
 [17] But when we were separated from you, brothers and sisters, for a short time (in presence, not in affection) we became all the more fervent in our great desire to see you in person.
 [18] For we wanted to come to you (I, Paul, in fact tried again and again) but Satan thwarted us.
 [19] For who is our hope or joy or crown to boast of before our Lord Jesus at his coming? Is it not of course you?
@@ -61,6 +69,7 @@
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### A Life Pleasing to God
 
 [1] Finally then, brothers and sisters, we ask you and urge you in the Lord Jesus, that as you received instruction from us about how you must live and please God (as you are in fact living) that you do so more and more.
@@ -75,6 +84,9 @@
 [10] And indeed you are practicing it toward all the brothers and sisters in all of Macedonia. But we urge you, brothers and sisters, to do so more and more,
 [11] to aspire to lead a quiet life, to attend to your own business, and to work with your own hands, as we commanded you.
 [12] In this way you will live a decent life before outsiders and not be in need.
+
+### The Lord Returns for Believers
+
 [13] Now we do not want you to be uninformed, brothers and sisters, about those who are asleep, so that you will not grieve like the rest who have no hope.
 [14] For if we believe that Jesus died and rose again, so also we believe that God will bring with him those who have fallen asleep as Christians.
 [15] For we tell you this by the word of the Lord, that we who are alive, who are left until the coming of the Lord, will surely not go ahead of those who have fallen asleep.
@@ -84,6 +96,7 @@
 # 1 Thessalonians
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### The Day of the Lord
 
@@ -98,6 +111,9 @@
 [9] For God did not destine us for wrath but for gaining salvation through our Lord Jesus Christ.
 [10] He died for us so that whether we are alert or asleep we will come to life together with him.
 [11] Therefore encourage one another and build up each other, just as you are in fact doing.
+
+### Final Instructions
+
 [12] Now we ask you, brothers and sisters, to acknowledge those who labor among you and preside over you in the Lord and admonish you,
 [13] and to esteem them most highly in love because of their work. Be at peace among yourselves.
 [14] And we urge you, brothers and sisters, admonish the undisciplined, comfort the discouraged, help the weak, be patient toward all.
@@ -109,6 +125,9 @@
 [20] Do not treat prophecies with contempt.
 [21] But examine all things; hold fast to what is good.
 [22] Stay away from every form of evil.
+
+### Conclusion
+
 [23] Now may the God of peace himself make you completely holy and may your spirit and soul and body be kept entirely blameless at the coming of our Lord Jesus Christ.
 [24] He who calls you is trustworthy, and he will in fact do this.
 [25] Brothers and sisters, pray for us too.

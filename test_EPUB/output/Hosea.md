@@ -2,9 +2,13 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Superscription
 
 [1] This is the Lord’s message that came to Hosea son of Beeri during the time of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and during the time of Jeroboam son of Joash, king of Israel.
+
+### Symbols of Sin and Judgment: The Prostitute and Her Children
+
 [2] When the Lord first spoke through Hosea, he said to him, “Go marry a prostitute who will bear illegitimate children conceived through prostitution, because the nation continually commits spiritual prostitution by turning away from the Lord.”
 [3] So Hosea married Gomer, the daughter of Diblaim. Then she conceived and gave birth to a son for him.
 [4] Then the Lord said to Hosea, “Name him ‘Jezreel,’ because in a little while I will punish the dynasty of Jehu on account of the bloodshed in the valley of Jezreel, and I will put an end to the kingdom of Israel.
@@ -13,15 +17,19 @@
 [7] But I will have pity on the nation of Judah. I will deliver them by the Lord their God; I will not deliver them by the warrior’s bow, by sword, by military victory, by chariot horses, or by chariots.”
 [8] When she had weaned “No Pity” (Lo-Ruhamah), she conceived again and gave birth to another son.
 [9] Then the Lord said: “Name him ‘Not My People’ (Lo-Ammi), because you are not my people and I am not your God.”
+
+### The Restoration of Israel
+
 [10] (
 [11] Then the people of Judah and the people of Israel will be gathered together. They will appoint for themselves one leader, and will flourish in the land. Certainly, the day of Jezreel will be great!
 # Hosea
 
 ## Chapter 2 <!-- scripture:2 -->
 
+[1] Then you will call your brother, “My People” (Ammi)! You will call your sister, “Pity” (Ruhamah)!
+
 ### Idolatrous Israel Will Be Punished Like a Prostitute
 
-[1] Then you will call your brother, “My People” (Ammi)! You will call your sister, “Pity” (Ruhamah)!
 [2] “Plead earnestly with your mother
 (for she is not my wife, and I am not her husband),
 so that she might put an end to her adulterous lifestyle,
@@ -38,6 +46,9 @@ she who conceived them has acted shamefully.
 For she said, “I will seek out my lovers;
 they are the ones who give me my bread and my water,
 my wool, my flax, my olive oil, and my wine.
+
+### The Lord’s Discipline Will Bring Israel Back
+
 [6] “Therefore, I will soon fence her in with thorns;
 I will wall her in so that she cannot find her way.
 [7] Then she will pursue her lovers, but she will not catch them;
@@ -45,6 +56,9 @@ she will seek them, but she will not find them.
 Then she will say,
 ‘I will go back to my husband,
 because I was better off then than I am now.’
+
+### Agricultural Fertility Withdrawn from Israel
+
 [8] “Yet until now she has refused to acknowledge that I was the one
 who gave her the grain, the new wine, and the olive oil;
 and that it was I who lavished on her the silver and gold—
@@ -70,6 +84,9 @@ when she burned incense to the Baal idols;
 she adorned herself with earrings and jewelry,
 and went after her lovers,
 but she forgot me!” says the Lord.
+
+### Future Repentance and Restoration of Israel
+
 [14] “However, in the future I will allure her;
 I will lead her back into the wilderness,
 and speak tenderly to her.
@@ -82,6 +99,9 @@ when she came up from the land of Egypt.
 you will never again call me, ‘My master.’
 [17] For I will remove the names of the Baal idols from your lips,
 so that you will never again utter their names!
+
+### New Covenant Relationship with Repentant Israel
+
 [18] “At that time I will make a covenant for them with the wild animals,
 the birds of the air, and the creatures that crawl on the ground.
 I will abolish the warrior’s bow and sword—
@@ -92,6 +112,9 @@ I will commit myself to you in righteousness and justice,
 in steadfast love and tender compassion.
 [20] I will commit myself to you in faithfulness;
 then you will acknowledge the Lord.
+
+### Agricultural Fertility Restored to the Repentant Nation
+
 [21] “At that time, I will willingly respond,” declares the Lord.
 “I will respond to the sky,
 and the sky will respond to the ground;
@@ -105,6 +128,7 @@ And he will say, ‘You are my God!’”
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### An Illustration of God’s Love for Idolatrous Israel
 
 [1] The Lord said to me, “Go, show love to your wife again, even though she loves another man and continually commits adultery. Likewise, the Lord loves the Israelites although they turn to other gods and love to offer raisin cakes to idols.”
@@ -115,6 +139,7 @@ And he will say, ‘You are my God!’”
 # Hosea
 
 ## Chapter 4 <!-- scripture:4 -->
+
 
 ### The Lord’s Covenant Lawsuit against the Nation Israel
 
@@ -128,6 +153,9 @@ They resort to violence and bloodshed.
 and all its inhabitants will perish.
 The wild animals, the birds of the sky,
 and even the fish in the sea will perish.
+
+### The Lord’s Dispute against the Sinful Priesthood
+
 [4] Do not let anyone accuse or contend against anyone else:
 for my case is against you priests!
 [5] You stumble day and night,
@@ -152,6 +180,9 @@ and I will repay them for their deeds.
 they will engage in prostitution, but not increase in numbers;
 because they have abandoned the Lord
 by pursuing other gods.
+
+### Judgment of Pagan Idolatry and Cultic Prostitution
+
 [11] Old and new wine
 take away the understanding of my people.
 [12] They consult their wooden idols,
@@ -169,6 +200,9 @@ nor your daughters-in-law when they commit adultery.
 For the men consort with harlots,
 they sacrifice with temple prostitutes.
 It is true: “A people that lacks understanding will come to ruin!”
+
+### Warning to Judah: Do Not Join in Israel’s Apostasy
+
 [15] Although you, O Israel, commit adultery,
 do not let Judah become guilty!
 Do not journey to Gilgal.
@@ -179,6 +213,9 @@ Soon the Lord will put them out to pasture
 like a lamb in a broad field.
 [17] Ephraim has attached himself to idols;
 Do not go near him!
+
+### The Shameful Sinners Will Be Brought to Shame
+
 [18] They consume their alcohol,
 then engage in cult prostitution;
 they dearly love their shameful behavior.
@@ -187,6 +224,7 @@ they will be brought to shame because of their idolatrous worship.
 # Hosea
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Announcement of Sin and Judgment
 
@@ -208,6 +246,9 @@ and they do not acknowledge the Lord.
 [5] The arrogance of Israel testifies against it;
 Israel and Ephraim will be overthrown because of their iniquity.
 Even Judah will be brought down with them.
+
+### The Futility of Sacrificial Ritual without Moral Obedience
+
 [6] Although they bring their flocks and herds
 to seek the favor of the Lord,
 They will not find him—
@@ -215,16 +256,25 @@ he has withdrawn himself from them!
 [7] They have committed treason against the Lord,
 because they bore illegitimate children.
 Soon the new moon festival will devour them and their fields.
+
+### The Prophet’s Declaration of Judgment
+
 [8] Blow the ram’s horn in Gibeah!
 Sound the trumpet in Ramah!
 Sound the alarm in Beth Aven;
 tremble in fear, O Benjamin!
 [9] Ephraim will be ruined in the day of judgment.
 What I am declaring to the tribes of Israel will certainly take place!
+
+### The Oppressors of the Helpless Will Be Oppressed
+
 [10] The princes of Judah are like those who move boundary markers.
 I will pour out my rage on them like a torrential flood.
 [11] Ephraim will be oppressed, crushed under judgment,
 because he was determined to pursue worthless idols.
+
+### The Curse of the Incurable Wound
+
 [12] I will be like a moth to Ephraim,
 like wood rot to the house of Judah.
 [13] When Ephraim saw his sickness
@@ -233,6 +283,9 @@ then Ephraim turned to Assyria,
 and begged its great king for help.
 But he will not be able to heal you.
 He cannot cure your wound!
+
+### The Lion Will Carry Israel Off Into Exile
+
 [14] I will be like a lion to Ephraim,
 like a young lion to the house of Judah.
 I myself will tear them to pieces,
@@ -244,6 +297,7 @@ in their distress they will earnestly seek me.
 # Hosea
 
 ## Chapter 6 <!-- scripture:6 -->
+
 
 ### Superficial Repentance Breeds False Assurance of God’s Forgiveness
 
@@ -260,6 +314,9 @@ Let us seek to know the Lord!
 He will come to our rescue as certainly as the appearance of the dawn,
 as certainly as the winter rain comes,
 as certainly as the spring rain that waters the land.
+
+### Transitory Faithfulness and Imminent Judgment
+
 [4] What am I going to do with you, O Ephraim?
 What am I going to do with you, O Judah?
 For your faithfulness is as fleeting as the morning mist;
@@ -269,6 +326,9 @@ I will certainly kill you in fulfillment of my oracles of judgment,
 for my judgment will come forth like the light of the dawn.
 [6] For I delight in faithfulness, not simply in sacrifice;
 I delight in acknowledging God, not simply in whole burnt offerings.
+
+### Indictments Against the Cities of Israel and Judah
+
 [7] At Adam they broke the covenant;
 Oh how they were unfaithful to me!
 [8] Gilead is a city full of evildoers;
@@ -281,12 +341,13 @@ they have done heinous crimes!
 there Ephraim commits prostitution with other gods,
 and Israel defiles itself.
 [11] I have appointed a time to reap judgment for you also, O Judah!
+
+### If Israel Would Repent of Sin, God Would Relent of Judgment
+
 Whenever I want to restore the fortunes of my people,
 # Hosea
 
 ## Chapter 7 <!-- scripture:7 -->
-
-### Political Intrigue and Conspiracy in the Palace
 
 [1] whenever I want to heal Israel,
 the sin of Ephraim is revealed,
@@ -298,6 +359,9 @@ and gangs rob people out in the streets.
 that I remember all their wicked deeds.
 Their evil deeds have now surrounded them;
 their sinful deeds are always before me.
+
+### Political Intrigue and Conspiracy in the Palace
+
 [3] The royal advisers delight the king with their evil schemes,
 the princes make him glad with their lies.
 [4] They are all like bakers,
@@ -315,6 +379,9 @@ but in the morning it bursts into a flaming fire.
 they devour their rulers.
 All their kings fall,
 and none of them call on me!
+
+### Israel Lacks Discernment and Refuses to Repent
+
 [8] Ephraim has mixed itself like flour among the nations;
 Ephraim is like a ruined cake of bread that is scorched on one side.
 [9] Foreigners are consuming what his strenuous labor produced,
@@ -324,6 +391,9 @@ but he does not realize it.
 [10] The arrogance of Israel testifies against him,
 yet they refuse to return to the Lord their God.
 In spite of all this they refuse to seek him.
+
+### Israel Turns to Assyria and Egypt for Help
+
 [11] Ephraim has been like a dove,
 easily deceived and lacking discernment.
 They called to Egypt for help;
@@ -331,6 +401,9 @@ they turned to Assyria for protection.
 [12] I will throw my bird net over them while they are flying;
 I will bring them down like birds in the sky;
 I will discipline them when I hear them flocking together.
+
+### Israel Has Turned Away from the Lord
+
 [13] Woe to them! For they have fled from me!
 Destruction to them! For they have rebelled against me!
 I want to deliver them,
@@ -350,6 +423,7 @@ So people will disdain them in the land of Egypt.
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### God Will Raise Up the Assyrians to Attack Israel
 
 [1] Sound the alarm!
@@ -360,6 +434,9 @@ and have rebelled against my law.
 “My God, we acknowledge you!”
 [3] But Israel has rejected what is morally good;
 so an enemy will pursue him.
+
+### The Political and Cultic Sin of Israel
+
 [4] They enthroned kings without my consent.
 They appointed princes without my approval.
 They made idols out of their silver and gold,
@@ -370,6 +447,9 @@ They will not survive much longer without being punished,
 even though they are Israelites!
 [6] That idol was made by a workman—it is not God!
 The calf idol of Samaria will be broken to bits.
+
+### The Fertility Cultists Will Become Infertile
+
 [7] They sow the wind,
 and so they will reap the whirlwind!
 The stalk does not have any standing grain;
@@ -378,6 +458,9 @@ Even if it were to yield grain,
 foreigners would swallow it all up.
 [8] Israel will be swallowed up among the nations;
 they will be like a worthless piece of pottery.
+
+### Israel’s Hired Lovers
+
 [9] They have gone up to Assyria,
 like a wild donkey that wanders off.
 Ephraim has hired prostitutes as lovers.
@@ -385,6 +468,9 @@ Ephraim has hired prostitutes as lovers.
 I will soon gather them together for judgment.
 Then they will begin to waste away
 under the oppression of a mighty king.
+
+### Sacrifices Ineffective without Moral Obedience
+
 [11] Although Ephraim has built many altars for sin offerings,
 these have become altars for sinning.
 [12] I spelled out my law for him in great detail,
@@ -403,6 +489,7 @@ it will consume their royal citadels.
 
 ## Chapter 9 <!-- scripture:9 -->
 
+
 ### Fertility Cult Festivals Have Intoxicated Israel
 
 [1] O Israel, do not rejoice jubilantly like the nations,
@@ -411,6 +498,9 @@ You love to receive a prostitute’s wages
 on all the floors where you thresh your grain.
 [2] Threshing floors and wine vats will not feed the people,
 and new wine only deceives them.
+
+### Assyrian Exile Will Reverse the Egyptian Exodus
+
 [3] They will not remain in the Lord’s land.
 Ephraim will return to Egypt;
 they will eat ritually unclean food in Assyria.
@@ -422,6 +512,9 @@ For their bread will be only to satisfy their appetite;
 it will not come into the temple of the Lord.
 [5] So what will you do on the festival day,
 on the festival days of the Lord?
+
+### No Escape for the Israelites This Time
+
 [6] Look! Even if they flee from the destruction,
 Egypt will take hold of them,
 and Memphis will bury them.
@@ -430,6 +523,9 @@ thorn bushes will occupy their homes.
 [7] The time of judgment is about to arrive!
 The time of retribution is imminent!
 Israel will be humbled!
+
+### Israel Rejects Hosea’s Prophetic Exhortations
+
 The prophet is considered a fool —
 the inspired man is viewed as a madman —
 because of the multitude of your sins
@@ -437,6 +533,9 @@ and your intense animosity.
 [8] The prophet is a watchman over Ephraim on behalf of God,
 yet traps are laid for him along all his paths;
 animosity rages against him in the land of his God.
+
+### The Best of Times, the Worst of Times
+
 [9] They have sunk deep into corruption
 as in the days of Gibeah.
 He will remember their wrongdoing.
@@ -445,6 +544,9 @@ He will repay them for their sins.
 I viewed your ancestors like an early fig on a fig tree in its first season.
 Then they came to Baal Peor and they dedicated themselves to shame—
 they became as detestable as what they loved.
+
+### The Fertility Worshipers Will Become Infertile
+
 [11] Ephraim will be like a bird;
 what they value will fly away.
 They will not bear children—
@@ -478,6 +580,7 @@ so they will be fugitives among the nations.
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### Israel is Guilty of Fertility Cult Worship
 
 [1] Israel was a fertile vine
@@ -490,6 +593,9 @@ they adorned the fertility pillars.
 soon they will be punished for their guilt.
 The Lord will break their altars;
 he will completely destroy their fertility pillars.
+
+### The Lord Will Punish Israel by Removing Its Kings
+
 [3] Very soon they will say, “We have no king
 since we did not fear the Lord.
 But what can a king do for us anyway?”
@@ -497,6 +603,9 @@ But what can a king do for us anyway?”
 taking false oaths and making empty agreements.
 Therefore legal disputes sprout up
 like poisonous weeds in the furrows of a plowed field.
+
+### The Calf Idol and Idolaters of Samaria Will Be Exiled
+
 [5] The inhabitants of Samaria will lament over the calf idol of Beth Aven.
 Its people will mourn over it;
 its idolatrous priests will wail over it,
@@ -512,12 +621,18 @@ it is the place where Israel sins.
 Thorns and thistles will grow up over its altars.
 Then they will say to the mountains, “Cover us!”
 and to the hills, “Fall on us!”
+
+### Failure to Learn from the Sin and Judgment of Gibeah
+
 [9] O Israel, you have sinned since the time of Gibeah,
 and there you have remained.
 Did not war overtake the evildoers in Gibeah?
 [10] When I please, I will discipline them;
 I will gather nations together to attack them,
 to bind them in chains for their two sins.
+
+### Fertility Imagery: Plowing, Sowing, and Reaping
+
 [11] Ephraim was a well-trained heifer who loved to thresh grain;
 I myself put a fine yoke on her neck.
 I will harness Ephraim.
@@ -533,6 +648,9 @@ you have reaped injustice;
 you have eaten the fruit of deception.
 Because you have depended on your chariots;
 you have relied on your many warriors.
+
+### Bethel Will Be Destroyed Like Beth Arbel
+
 [14] The roar of battle will rise against your people;
 all your fortresses will be devastated,
 just as Shalman devastated Beth Arbel on the day of battle,
@@ -544,6 +662,7 @@ the king of Israel will be destroyed.
 # Hosea
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### Reversal of the Exodus: Return to Egypt and Exile in Assyria
 
@@ -569,6 +688,9 @@ it will destroy the bars of their city gates,
 and will devour them in their fortresses.
 [7] My people are obsessed with turning away from me;
 they call to Baal, but he will never exalt them!
+
+### The Divine Dilemma: Judgment or Mercy?
+
 [8] “How can I give you up, O Ephraim?
 How can I surrender you, O Israel?
 How can I treat you like Admah?
@@ -579,6 +701,9 @@ All my tender compassions are aroused.
 I cannot totally destroy Ephraim!
 Because I am God, and not man—the Holy One among you—
 I will not come in wrath!
+
+### God Will Restore the Exiles to Israel
+
 [10] “He will roar like a lion,
 and they will follow the Lord;
 when he roars,
@@ -587,6 +712,9 @@ his children will come trembling from the west.
 like birds from Egypt,
 like doves from Assyria,
 and I will settle them in their homes,” declares the Lord.
+
+### God’s Lawsuit against Israel: Breach of Covenant
+
 [12] (12:1) Ephraim has surrounded me with lies;
 the house of Israel has surrounded me with deceit.
 But Judah still roams about with God;
@@ -594,8 +722,6 @@ he remains faithful to the Holy One.
 # Hosea
 
 ## Chapter 12 <!-- scripture:12 -->
-
-### Israel Must Return to the God of Jacob
 
 [1] Ephraim continually feeds on the wind;
 he chases the east wind all day;
@@ -605,6 +731,9 @@ and send olive oil as tribute to Egypt.
 [2] The Lord also has a covenant lawsuit against Judah;
 he will punish Jacob according to his ways
 and repay him according to his deeds.
+
+### Israel Must Return to the God of Jacob
+
 [3] In the womb he attacked his brother;
 in his manly vigor he struggled with God.
 [4] He struggled with an angel and prevailed;
@@ -616,6 +745,9 @@ the Lord is the name by which he is remembered!
 [6] But you must return to your God,
 by maintaining love and justice
 and by waiting for your God to return to you.
+
+### The Lord Refutes Israel’s False Claim of Innocence
+
 [7] The businessmen love to cheat;
 they use dishonest scales.
 [8] Ephraim boasts, “I am very rich!
@@ -631,6 +763,9 @@ I spoke in parables through the prophets.”
 Certainly its inhabitants will come to nothing!
 Do they sacrifice bulls in Gilgal?
 Surely their altars will be like stones heaped up on a plowed field!
+
+### Jacob in Aram, Israel in Egypt, and Ephraim in Trouble
+
 [12] Jacob fled to the country of Aram,
 then Israel worked to acquire a wife;
 he tended sheep to pay for her.
@@ -642,6 +777,7 @@ his Lord will repay him for the contempt he has shown.
 # Hosea
 
 ## Chapter 13 <!-- scripture:13 -->
+
 
 ### Baal Worshipers and Calf Worshipers to be Destroyed
 
@@ -658,6 +794,9 @@ There is a saying about them:
 like early morning dew that evaporates,
 like chaff that is blown away from a threshing floor,
 like smoke that disappears through an open window.
+
+### Well-Fed Israel Will Be Fed to Wild Animals
+
 [4] But I am the Lord your God,
 who brought you out of Egypt.
 Therefore, you must not acknowledge any God but me.
@@ -673,6 +812,9 @@ like a leopard I will lurk by the path.
 I will rip open their chests.
 I will devour them there like a lion—
 like a wild animal would tear them apart.
+
+### Israel’s King Unable to Deliver the Nation
+
 [9] I will destroy you, O Israel!
 Who is there to help you?
 [10] Where then is your king,
@@ -681,17 +823,26 @@ Where are your rulers for whom you asked, saying,
 “Give me a king and princes”?
 [11] I granted you a king in my anger,
 and I will take him away in my wrath!
+
+### Israel’s Punishment Will Not Be Withheld Much Longer
+
 [12] The punishment of Ephraim has been decreed;
 his punishment is being stored up for the future.
 [13] The labor pains of a woman will overtake him,
 but the baby will lack wisdom;
 when the time arrives,
 he will not come out of the womb!
+
+### The Lord Will Not Relent from the Threatened Judgment
+
 [14] Will I deliver them from the power of Sheol? No, I will not!
 Will I redeem them from death? No, I will not!
 O Death, bring on your plagues!
 O Sheol, bring on your destruction!
 My eyes will not show any compassion!
+
+### The Capital of the Northern Empire Will Be Destroyed
+
 [15] Even though he flourishes like a reed plant,
 a scorching east wind will come,
 a wind from the Lord rising up from the desert.
@@ -708,6 +859,7 @@ their pregnant women will be ripped open.
 
 ## Chapter 14 <!-- scripture:14 -->
 
+
 ### Prophetic Call to Genuine Repentance
 
 [1] Return, O Israel, to the Lord your God,
@@ -721,6 +873,9 @@ we will not ride warhorses.
 We will never again say, ‘Our gods,’
 to what our own hands have made.
 For only you will show compassion to Orphan Israel!”
+
+### Divine Promise to Relent from Judgment and to Restore Blessings
+
 [4] “I will heal their waywardness
 and love them freely,
 for my anger will turn away from them.
@@ -738,6 +893,9 @@ and his fame will be like the wine from Lebanon.
 I will answer him and care for him.
 I am like a luxuriant cypress tree;
 your fruitfulness comes from me!”
+
+### Concluding Exhortation
+
 [9] Who is wise?
 Let him discern these things!
 Who is discerning?

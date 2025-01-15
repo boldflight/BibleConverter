@@ -2,12 +2,19 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul and Silvanus and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ.
 [2] Grace and peace to you from God the Father and the Lord Jesus Christ!
+
+### Thanksgiving
+
 [3] We ought to thank God always for you, brothers and sisters, and rightly so, because your faith flourishes more and more and the love of each one of you all for one another is ever greater.
 [4] As a result we ourselves boast about you in the churches of God for your perseverance and faith in all the persecutions and afflictions you are enduring.
+
+### Encouragement in Persecution
+
 [5] This is evidence of God’s righteous judgment, to make you worthy of the kingdom of God, for which in fact you are suffering.
 [6] For it is right for God to repay with affliction those who afflict you,
 [7] and to you who are being afflicted to give rest together with us when the Lord Jesus is revealed from heaven with his mighty angels.
@@ -19,6 +26,7 @@
 # 2 Thessalonians
 
 ## Chapter 2 <!-- scripture:2 -->
+
 
 ### The Day of the Lord
 
@@ -34,6 +42,9 @@
 [10] and with every kind of evil deception directed against those who are perishing, because they found no place in their hearts for the truth so as to be saved.
 [11] Consequently God sends on them a deluding influence so that they will believe what is false.
 [12] And so all of them who have not believed the truth but have delighted in evil will be condemned.
+
+### Call to Stand Firm
+
 [13] But we ought to thank God always for you, brothers and sisters loved by the Lord, because God chose you from the beginning for salvation through sanctification by the Spirit and faith in the truth.
 [14] He called you to this salvation through our gospel, so that you may possess the glory of our Lord Jesus Christ.
 [15] Therefore, brothers and sisters, stand firm and hold on to the traditions that we taught you, whether by speech or by letter.
@@ -43,6 +54,7 @@
 
 ## Chapter 3 <!-- scripture:3 -->
 
+
 ### Request for Prayer
 
 [1] Finally, pray for us, brothers and sisters, that the Lord’s message may spread quickly and be honored as in fact it was among you,
@@ -50,6 +62,9 @@
 [3] But the Lord is faithful, and he will strengthen you and protect you from the evil one.
 [4] And we are confident about you in the Lord that you are both doing—and will do—what we are commanding.
 [5] Now may the Lord direct your hearts toward the love of God and the endurance of Christ.
+
+### Response to the Undisciplined
+
 [6] But we command you, brothers and sisters, in the name of our Lord Jesus Christ, to keep away from any brother who lives an undisciplined life and not according to the tradition they received from us.
 [7] For you know yourselves how you must imitate us, because we did not behave without discipline among you,
 [8] and we did not eat anyone’s food without paying. Instead, in toil and drudgery we worked night and day in order not to burden any of you.
@@ -60,6 +75,9 @@
 [13] But you, brothers and sisters, do not grow weary in doing what is right.
 [14] But if anyone does not obey our message through this letter, take note of him and do not associate closely with him, so that he may be ashamed.
 [15] Yet do not regard him as an enemy, but admonish him as a brother.
+
+### Conclusion
+
 [16] Now may the Lord of peace himself give you peace at all times and in every way. The Lord be with you all.
 [17] I, Paul, write this greeting with my own hand, which is how I write in every letter.
 [18] The grace of our Lord Jesus Christ be with you all.

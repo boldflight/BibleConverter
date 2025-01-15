@@ -2,17 +2,24 @@
 
 ## Chapter 1 <!-- scripture:1 -->
 
+
 ### Salutation
 
 [1] From Paul, called to be an apostle of Christ Jesus by the will of God, and Sosthenes, our brother,
 [2] to the church of God that is in Corinth, to those who are sanctified in Christ Jesus, and called to be saints, with all those in every place who call on the name of our Lord Jesus Christ, their Lord and ours.
 [3] Grace and peace to you from God our Father and the Lord Jesus Christ!
+
+### Thanksgiving
+
 [4] I always thank my God for you because of the grace of God that was given to you in Christ Jesus.
 [5] For you were made rich in every way in him, in all your speech and in every kind of knowledge —
 [6] just as the testimony about Christ has been confirmed among you—
 [7] so that you do not lack any spiritual gift as you wait for the revelation of our Lord Jesus Christ.
 [8] He will also strengthen you to the end, so that you will be blameless on the day of our Lord Jesus Christ.
 [9] God is faithful, by whom you were called into fellowship with his son, Jesus Christ our Lord.
+
+### Divisions in the Church
+
 [10] I urge you, brothers and sisters, by the name of our Lord Jesus Christ, to agree together, to end your divisions, and to be united by the same mind and purpose.
 [11] For members of Chloe’s household have made it clear to me, my brothers and sisters, that there are quarrels among you.
 [12] Now I mean this, that each of you is saying, “I am with Paul,” or “I am with Apollos,” or “I am with Cephas,” or “I am with Christ.”
@@ -21,6 +28,9 @@
 [15] so that no one can say that you were baptized in my name!
 [16] (I also baptized the household of Stephanus. Otherwise, I do not remember whether I baptized anyone else.)
 [17] For Christ did not send me to baptize, but to preach the gospel—and not with clever speech, so that the cross of Christ would not become useless.
+
+### The Message of the Cross
+
 [18] For the message about the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.
 [19] For it is written, “I will destroy the wisdom of the wise, and I will thwart the cleverness of the intelligent.”
 [20] Where is the wise man? Where is the expert in the Mosaic law? Where is the debater of this age? Has God not made the wisdom of the world foolish?
@@ -39,13 +49,14 @@
 
 ## Chapter 2 <!-- scripture:2 -->
 
-### Wisdom from God
-
 [1] When I came to you, brothers and sisters, I did not come with superior eloquence or wisdom as I proclaimed the testimony of God.
 [2] For I decided to be concerned about nothing among you except Jesus Christ, and him crucified.
 [3] And I was with you in weakness and in fear and with much trembling.
 [4] My conversation and my preaching were not with persuasive words of wisdom, but with a demonstration of the Spirit and of power,
 [5] so that your faith would not be based on human wisdom but on the power of God.
+
+### Wisdom from God
+
 [6] Now we do speak wisdom among the mature, but not a wisdom of this age or of the rulers of this age, who are perishing.
 [7] Instead we speak the wisdom of God, hidden in a mystery, that God determined before the ages for our glory.
 [8] None of the rulers of this age understood it. If they had known it, they would not have crucified the Lord of glory.
@@ -60,6 +71,7 @@
 # 1 Corinthians
 
 ## Chapter 3 <!-- scripture:3 -->
+
 
 ### Immaturity and Self-deception
 
@@ -90,6 +102,7 @@
 
 ## Chapter 4 <!-- scripture:4 -->
 
+
 ### The Apostles’ Ministry
 
 [1] One should think about us this way—as servants of Christ and stewards of the mysteries of God.
@@ -105,6 +118,9 @@
 [11] To the present hour we are hungry and thirsty, poorly clothed, brutally treated, and without a roof over our heads.
 [12] We do hard work, toiling with our own hands. When we are verbally abused, we respond with a blessing, when persecuted, we endure,
 [13] when people lie about us, we answer in a friendly manner. We are the world’s dirt and scum, even now.
+
+### A Father’s Warning
+
 [14] I am not writing these things to shame you, but to correct you as my dear children.
 [15] For though you may have 10,000 guardians in Christ, you do not have many fathers, because I became your father in Christ Jesus through the gospel.
 [16] I encourage you, then, be imitators of me.
@@ -116,6 +132,7 @@
 # 1 Corinthians
 
 ## Chapter 5 <!-- scripture:5 -->
+
 
 ### Church Discipline
 
@@ -136,6 +153,7 @@
 
 ## Chapter 6 <!-- scripture:6 -->
 
+
 ### Lawsuits
 
 [1] When any of you has a legal dispute with another, does he dare go to court before the unrighteous rather than before the saints?
@@ -149,6 +167,9 @@
 [9] Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals,
 [10] thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God.
 [11] Some of you once lived this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God.
+
+### Flee Sexual Immorality
+
 [12] “All things are lawful for me” —but not everything is beneficial. “All things are lawful for me”—but I will not be controlled by anything.
 [13] “Food is for the stomach and the stomach is for food, but God will do away with both.” The body is not for sexual immorality, but for the Lord, and the Lord for the body.
 [14] Now God indeed raised the Lord and he will raise us by his power.
@@ -161,6 +182,7 @@
 # 1 Corinthians
 
 ## Chapter 7 <!-- scripture:7 -->
+
 
 ### Celibacy and Marriage
 
@@ -180,6 +202,9 @@
 [14] For the unbelieving husband is sanctified because of the wife, and the unbelieving wife because of her husband. Otherwise your children are unclean, but now they are holy.
 [15] But if the unbeliever wants a divorce, let it take place. In these circumstances the brother or sister is not bound. God has called you in peace.
 [16] For how do you know, wife, whether you will bring your husband to salvation? Or how do you know, husband, whether you will bring your wife to salvation?
+
+### The Circumstances of Your Calling
+
 [17] Nevertheless, as the Lord has assigned to each one, as God has called each person, so must he live. I give this sort of direction in all the churches.
 [18] Was anyone called after he had been circumcised? He should not try to undo his circumcision. Was anyone called who is uncircumcised? He should not get circumcised.
 [19] Circumcision is nothing and uncircumcision is nothing. Instead, keeping God’s commandments is what counts.
@@ -188,6 +213,9 @@
 [22] For the one who was called in the Lord as a slave is the Lord’s freedman. In the same way, the one who was called as a free person is Christ’s slave.
 [23] You were bought with a price. Do not become slaves of men.
 [24] In whatever situation someone was called, brothers and sisters, let him remain in it with God.
+
+### Remaining Unmarried
+
 [25] With regard to the question about people who have never married, I have no command from the Lord, but I give my opinion as one shown mercy by the Lord to be trustworthy.
 [26] Because of the impending crisis I think it best for you to remain as you are.
 [27] The one bound to a wife should not seek divorce. The one released from a wife should not seek marriage.
@@ -208,6 +236,7 @@
 
 ## Chapter 8 <!-- scripture:8 -->
 
+
 ### Food Sacrificed to Idols
 
 [1] With regard to food sacrificed to idols, we know that “we all have knowledge.” Knowledge puffs up, but love builds up.
@@ -226,6 +255,7 @@
 # 1 Corinthians
 
 ## Chapter 9 <!-- scripture:9 -->
+
 
 ### The Rights of an Apostle
 
@@ -260,6 +290,7 @@
 
 ## Chapter 10 <!-- scripture:10 -->
 
+
 ### Learning from Israel’s Failures
 
 [1] For I do not want you to be unaware, brothers and sisters, that our fathers were all under the cloud and all passed through the sea,
@@ -275,6 +306,9 @@
 [11] These things happened to them as examples and were written for our instruction, on whom the ends of the ages have come.
 [12] So let the one who thinks he is standing be careful that he does not fall.
 [13] No trial has overtaken you that is not faced by others. And God is faithful: He will not let you be tried beyond what you are able to bear, but with the trial will also provide a way out so that you may be able to endure it.
+
+### Avoid Idol Feasts
+
 [14] So then, my dear friends, flee from idolatry.
 [15] I am speaking to thoughtful people. Consider what I say.
 [16] Is not the cup of blessing that we bless a sharing in the blood of Christ? Is not the bread that we break a sharing in the body of Christ?
@@ -287,6 +321,7 @@
 # 1 Corinthians
 
 ## Chapter 11 <!-- scripture:11 -->
+
 
 ### Live to Glorify God
 
@@ -302,6 +337,9 @@
 [32] Do not give offense to Jews or Greeks or to the church of God,
 [33] just as I also try to please everyone in all things. I do not seek my own benefit, but the benefit of many, so that they may be saved.
 [1] Be imitators of me, just as I also am of Christ.
+
+### Women’s Head Coverings
+
 [2] I praise you because you remember me in everything and maintain the traditions just as I passed them on to you.
 [3] But I want you to know that Christ is the head of every man, and the man is the head of a woman, and God is the head of Christ.
 [4] Any man who prays or prophesies with his head covered disgraces his head.
@@ -317,6 +355,9 @@
 [14] Does not nature itself teach you that if a man has long hair, it is a disgrace for him,
 [15] but if a woman has long hair, it is her glory? For her hair is given to her for a covering.
 [16] If anyone intends to quarrel about this, we have no other practice, nor do the churches of God.
+
+### The Lord’s Supper
+
 [17] Now in giving the following instruction I do not praise you, because you come together not for the better but for the worse.
 [18] For in the first place, when you come together as a church I hear there are divisions among you, and in part I believe it.
 [19] For there must in fact be divisions among you, so that those of you who are approved may be evident.
@@ -339,6 +380,7 @@
 
 ## Chapter 12 <!-- scripture:12 -->
 
+
 ### Spiritual Gifts
 
 [1] With regard to spiritual gifts, brothers and sisters, I do not want you to be uninformed.
@@ -352,6 +394,9 @@
 [9] to another faith by the same Spirit, and to another gifts of healing by the one Spirit,
 [10] to another performance of miracles, to another prophecy, and to another discernment of spirits, to another different kinds of tongues, and to another the interpretation of tongues.
 [11] It is one and the same Spirit, distributing as he decides to each person, who produces all these things.
+
+### Different Members in One Body
+
 [12] For just as the body is one and yet has many members, and all the members of the body—though many—are one body, so too is Christ.
 [13] For in one Spirit we were all baptized into one body. Whether Jews or Greeks or slaves or free, we were all made to drink of the one Spirit.
 [14] For in fact the body is not a single member, but many.
@@ -376,6 +421,7 @@
 
 ## Chapter 13 <!-- scripture:13 -->
 
+
 ### The Way of Love
 
 [1] If I speak in the tongues of men and of angels, but I do not have love, I am a noisy gong or a clanging cymbal.
@@ -394,6 +440,7 @@
 # 1 Corinthians
 
 ## Chapter 14 <!-- scripture:14 -->
+
 
 ### Prophecy and Tongues
 
@@ -422,6 +469,9 @@
 [23] So if the whole church comes together and all speak in tongues, and unbelievers or uninformed people enter, will they not say that you have lost your minds?
 [24] But if all prophesy, and an unbeliever or uninformed person enters, he will be convicted by all, he will be called to account by all.
 [25] The secrets of his heart are disclosed, and in this way he will fall down with his face to the ground and worship God, declaring, “God is really among you.”
+
+### Church Order
+
 [26] What should you do then, brothers and sisters? When you come together, each one has a song, has a lesson, has a revelation, has a tongue, has an interpretation. Let all these things be done for the strengthening of the church.
 [27] If someone speaks in a tongue, it should be two, or at the most three, one after the other, and someone must interpret.
 [28] But if there is no interpreter, he should be silent in the church. Let him speak to himself and to God.
@@ -441,6 +491,7 @@
 
 ## Chapter 15 <!-- scripture:15 -->
 
+
 ### Christ’s Resurrection
 
 [1] Now I want to make clear for you, brothers and sisters, the gospel that I preached to you, that you received and on which you stand,
@@ -454,6 +505,9 @@
 [9] For I am the least of the apostles, unworthy to be called an apostle, because I persecuted the church of God.
 [10] But by the grace of God I am what I am, and his grace to me has not been in vain. In fact, I worked harder than all of them—yet not I, but the grace of God with me.
 [11] Whether then it was I or they, this is the way we preach and this is the way you believed.
+
+### No Resurrection?
+
 [12] Now if Christ is being preached as raised from the dead, how can some of you say there is no resurrection of the dead?
 [13] But if there is no resurrection of the dead, then not even Christ has been raised.
 [14] And if Christ has not been raised, then our preaching is futile and your faith is empty.
@@ -477,6 +531,9 @@
 [32] If from a human point of view I fought with wild beasts at Ephesus, what did it benefit me? If the dead are not raised, let us eat and drink, for tomorrow we die.
 [33] Do not be deceived: “Bad company corrupts good morals.”
 [34] Sober up as you should, and stop sinning! For some have no knowledge of God—I say this to your shame!
+
+### The Resurrection Body
+
 [35] But someone will say, “How are the dead raised? With what kind of body will they come?”
 [36] Fool! What you sow will not come to life unless it dies.
 [37] And what you sow is not the body that is to be, but a bare seed —perhaps of wheat or something else.
@@ -501,12 +558,16 @@
 
 ## Chapter 16 <!-- scripture:16 -->
 
+
 ### A Collection to Aid Jewish Christians
 
 [1] With regard to the collection for the saints, please follow the directions that I gave to the churches of Galatia:
 [2] On the first day of the week, each of you should set aside some income and save it to the extent that God has blessed you, so that a collection will not have to be made when I come.
 [3] Then, when I arrive, I will send those whom you approve with letters of explanation to carry your gift to Jerusalem.
 [4] And if it seems advisable that I should go also, they will go with me.
+
+### Paul’s Plans to Visit
+
 [5] But I will come to you after I have gone through Macedonia—for I will be going through Macedonia—
 [6] and perhaps I will stay with you, or even spend the winter, so that you can send me on my journey, wherever I go.
 [7] For I do not want to see you now in passing, since I hope to spend some time with you, if the Lord allows.
@@ -515,6 +576,9 @@
 [10] Now if Timothy comes, see that he has nothing to fear among you, for he is doing the Lord’s work, as I am too.
 [11] So then, let no one treat him with contempt. But send him on his way in peace so that he may come to me. For I am expecting him with the brothers.
 [12] With regard to our brother Apollos: I strongly encouraged him to visit you with the other brothers, but it was simply not his intention to come now. He will come when he has the opportunity.
+
+### Final Challenge and Blessing
+
 [13] Stay alert, stand firm in the faith, show courage, be strong.
 [14] Everything you do should be done in love.
 [15] Now, brothers and sisters, you know about the household of Stephanus, that as the first converts of Achaia, they devoted themselves to ministry for the saints. I urge you

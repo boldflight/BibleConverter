@@ -15,6 +15,10 @@ struct BibleConverter: ParsableCommand {
     var outputPath: String
     
     mutating func run() throws {
+        var processedFiles = 0
+        var uniqueBooks = Set<String>()  // Track unique books
+        var progressBar = ProgressBar()
+        
         try validateEPUB(at: epubPath)
         
         let epubURL = URL(fileURLWithPath: epubPath)
@@ -29,7 +33,13 @@ struct BibleConverter: ParsableCommand {
         var currentBook: String?
         var currentMarkdown = ""
         
-        for itemref in spineItems {
+        print("\nConverting EPUB to Markdown...")
+        progressBar.total = spineItems.count
+        
+        for (index, itemref) in spineItems.enumerated() {
+            progressBar.current = index + 1
+            progressBar.draw()
+            
             guard let id = itemref.attribute(forName: "idref")?.stringValue,
                   let item = manifestItems[id],
                   let href = item.attribute(forName: "href")?.stringValue,
@@ -38,9 +48,11 @@ struct BibleConverter: ParsableCommand {
             let fileURL = epubURL.appendingPathComponent("OEBPS").appendingPathComponent(href)
             
             guard FileManager.default.fileExists(atPath: fileURL.path) else {
-                print("Warning: Skipping missing file: \(href)")
+                print("\nWarning: Skipping missing file: \(href)")
                 continue
             }
+            
+            processedFiles += 1
             
             let encoding = try detectEncoding(from: fileURL)
             let content = try String(contentsOf: fileURL, encoding: encoding)
@@ -51,6 +63,7 @@ struct BibleConverter: ParsableCommand {
                 if book != currentBook {
                     if let current = currentBook {
                         try saveBook(current, markdown: currentMarkdown, to: outputPath)
+                        uniqueBooks.insert(current)  // Track unique book
                     }
                     currentBook = book
                     currentMarkdown = markdown
@@ -62,7 +75,12 @@ struct BibleConverter: ParsableCommand {
         
         if let current = currentBook {
             try saveBook(current, markdown: currentMarkdown, to: outputPath)
+            uniqueBooks.insert(current)  // Track unique book
         }
+        
+        print("\n\nConversion complete!")
+        print("Processed \(processedFiles) EPUB chapter files")
+        print("Created \(uniqueBooks.count) markdown book files")
     }
     
     private mutating func validateEPUB(at path: String) throws {

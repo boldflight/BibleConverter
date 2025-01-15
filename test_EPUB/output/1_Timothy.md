@@ -1,6 +1,6 @@
 # 1 Timothy
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -29,7 +29,7 @@
 [19] To do this you must hold firmly to faith and a good conscience, which some have rejected and so have suffered shipwreck in regard to the faith.
 [20] Among these are Hymenaeus and Alexander, whom I handed over to Satan to be taught not to blaspheme.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Prayer for All People
@@ -53,7 +53,7 @@
 [14] And Adam was not deceived, but the woman, because she was fully deceived, fell into transgression.
 [15] But she will be delivered through childbearing, if she continues in faith and love and holiness with self-control.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Qualifications for Overseers and Deacons
@@ -84,7 +84,7 @@ proclaimed among Gentiles,
 believed on in the world,
 taken up in glory.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Timothy’s Ministry in the Later Times
@@ -106,7 +106,7 @@ taken up in glory.
 [15] Take pains with these things; be absorbed in them, so that everyone will see your progress.
 [16] Be conscientious about how you live and what you teach. Persevere in this, because by doing so you will save both yourself and those who listen to you.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Instructions about Specific Groups
@@ -137,7 +137,7 @@ taken up in glory.
 [24] The sins of some people are obvious, going before them into judgment, but for others, they show up later.
 [25] Similarly good works are also obvious, and the ones that are not cannot remain hidden.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 [1] Those who are under the yoke as slaves must regard their own masters as deserving of full respect. This will prevent the name of God and Christian teaching from being discredited.
 [2] But those who have believing masters must not show them less respect because they are brothers. Instead they are to serve all the more, because those who benefit from their service are believers and dearly loved.

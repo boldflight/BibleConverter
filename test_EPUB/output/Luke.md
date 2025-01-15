@@ -1,6 +1,6 @@
 # Luke
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Explanatory Preface
@@ -114,7 +114,7 @@ the dawn will break upon us from on high
 to guide our feet into the way of peace.”
 [80] And the child kept growing and becoming strong in spirit, and he was in the wilderness until the day he was revealed to Israel.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Census and the Birth of Jesus
@@ -190,7 +190,7 @@ and for glory to your people Israel.”
 [51] Then he went down with them and came to Nazareth, and was obedient to them. But his mother kept all these things in her heart.
 [52] And Jesus increased in wisdom and in stature, and in favor with God and with people.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Ministry of John the Baptist
@@ -238,7 +238,7 @@ and for glory to your people Israel.”
 [37] the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Kenan,
 [38] the son of Enosh, the son of Seth, the son of Adam, the son of God.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Temptation of Jesus
@@ -295,7 +295,7 @@ and for glory to your people Israel.”
 [43] But Jesus said to them, “I must proclaim the good news of the kingdom of God to the other towns too, for that is what I was sent to do.”
 [44] So he continued to preach in the synagogues of Judea.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### The Call of the Disciples
@@ -352,7 +352,7 @@ and for glory to your people Israel.”
 [38] Instead new wine must be poured into new wineskins.
 [39] No one after drinking old wine wants the new, for he says, ‘The old is good enough.’”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Lord of the Sabbath
@@ -421,7 +421,7 @@ and for glory to your people Israel.”
 [48] He is like a man building a house, who dug down deep, and laid the foundation on bedrock. When a flood came, the river burst against that house but could not shake it, because it had been well built.
 [49] But the person who hears and does not put my words into practice is like a man who built a house on the ground without a foundation. When the river burst against that house, it collapsed immediately, and was utterly destroyed!”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Healing the Centurion’s Slave
@@ -485,7 +485,7 @@ we wailed in mourning, yet you did not weep.’
 [49] But those who were at the table with him began to say among themselves, “Who is this, who even forgives sins?”
 [50] He said to the woman, “Your faith has saved you; go in peace.”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Jesus’ Ministry and the Help of Women
@@ -565,7 +565,7 @@ we wailed in mourning, yet you did not weep.’
 [55] Her spirit returned, and she got up immediately. Then he told them to give her something to eat.
 [56] Her parents were astonished, but he ordered them to tell no one what had happened.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### The Sending of the Twelve Apostles
@@ -666,7 +666,7 @@ we wailed in mourning, yet you did not weep.’
 [61] Yet another said, “I will follow you, Lord, but first let me say goodbye to my family.”
 [62] Jesus said to him, “No one who puts his hand to the plow and looks back is fit for the kingdom of God.”
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### The Mission of the Seventy-Two
@@ -720,7 +720,7 @@ we wailed in mourning, yet you did not weep.’
 [41] But the Lord answered her, “Martha, Martha, you are worried and troubled about many things,
 [42] but one thing is needed. Mary has chosen the best part; it will not be taken away from her.”
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Instructions on Prayer
@@ -799,7 +799,7 @@ And do not lead us into temptation.”
 [53] When he went out from there, the experts in the law and the Pharisees began to oppose him bitterly, and to ask him hostile questions about many things,
 [54] plotting against him, to catch him in something he might say.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Fear God, Not People
@@ -882,7 +882,7 @@ And do not lead us into temptation.”
 [58] As you are going with your accuser before the magistrate, make an effort to settle with him on the way, so that he will not drag you before the judge, and the judge hand you over to the officer, and the officer throw you into prison.
 [59] I tell you, you will never get out of there until you have paid the very last cent!”
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### A Call to Repent
@@ -938,7 +938,7 @@ And do not lead us into temptation.”
 [34] O Jerusalem, Jerusalem, you who kill the prophets and stone those who are sent to you! How often I have longed to gather your children together as a hen gathers her chicks under her wings, but you would have none of it!
 [35] Look, your house is forsaken! And I tell you, you will not see me until you say, ‘Blessed is the one who comes in the name of the Lord!’”
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Healing Again on the Sabbath
@@ -988,7 +988,7 @@ And do not lead us into temptation.”
 [34] “Salt is good, but if salt loses its flavor, how can its flavor be restored?
 [35] It is of no value for the soil or for the manure pile; it is to be thrown out. The one who has ears to hear had better listen!”
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### The Parable of the Lost Sheep and Coin
@@ -1029,7 +1029,7 @@ And do not lead us into temptation.”
 [31] Then the father said to him, ‘Son, you are always with me, and everything that belongs to me is yours.
 [32] It was appropriate to celebrate and be glad, for your brother was dead, and is alive; he was lost and is found.’”
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### The Parable of the Clever Steward
@@ -1072,7 +1072,7 @@ And do not lead us into temptation.”
 [30] Then the rich man said, ‘No, father Abraham, but if someone from the dead goes to them, they will repent.’
 [31] He replied to him, ‘If they do not respond to Moses and the prophets, they will not be convinced even if someone rises from the dead.’”
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### Sin, Forgiveness, Faith, and Service
@@ -1123,7 +1123,7 @@ And do not lead us into temptation.”
 [35] There will be two women grinding grain together; one will be taken and the other left.”
 [37] Then the disciples said to him, “Where, Lord?” He replied to them, “Where the dead body is, there the vultures will gather.”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Prayer and the Parable of the Persistent Widow
@@ -1187,7 +1187,7 @@ And do not lead us into temptation.”
 [42] Jesus said to him, “Receive your sight; your faith has healed you.”
 [43] And immediately he regained his sight and followed Jesus, praising God. When all the people saw it, they too gave praise to God.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Jesus and Zacchaeus
@@ -1253,7 +1253,7 @@ And do not lead us into temptation.”
 [47] Jesus was teaching daily in the temple courts. The chief priests and the experts in the law and the prominent leaders among the people were seeking to assassinate him,
 [48] but they could not find a way to do it, for all the people hung on his words.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### The Authority of Jesus
@@ -1319,7 +1319,7 @@ And do not lead us into temptation.”
 [46] “Beware of the experts in the law. They like walking around in long robes, and they love elaborate greetings in the marketplaces and the best seats in the synagogues and the places of honor at banquets.
 [47] They devour widows’ property, and as a show make long prayers. They will receive a more severe punishment.”
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### The Widow’s Offering
@@ -1381,7 +1381,7 @@ And do not lead us into temptation.”
 [37] So every day Jesus was teaching in the temple courts, but at night he went and stayed on the Mount of Olives.
 [38] And all the people came to him early in the morning to listen to him in the temple courts.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Judas’ Decision to Betray Jesus
@@ -1476,7 +1476,7 @@ And do not lead us into temptation.”
 [70] So they all said, “Are you the Son of God, then?” He answered them, “You say that I am.”
 [71] Then they said, “Why do we need further testimony? We have heard it ourselves from his own lips!”
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### Jesus Brought Before Pilate
@@ -1549,7 +1549,7 @@ And do not lead us into temptation.”
 [55] The women who had accompanied Jesus from Galilee followed, and they saw the tomb and how his body was laid in it.
 [56] Then they returned and prepared aromatic spices and perfumes.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### The Resurrection

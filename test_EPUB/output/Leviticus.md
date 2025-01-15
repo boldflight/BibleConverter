@@ -1,6 +1,6 @@
 # Leviticus
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Introduction to the Sacrificial Regulations
@@ -32,7 +32,7 @@
 [16] Then the priest must remove its entrails by cutting off its tail feathers, and throw them to the east side of the altar into the place of fatty ashes,
 [17] and tear it open by its wings without dividing it into two parts. Finally, the priest must offer it up in smoke on the altar on the wood which is in the fire—it is a burnt offering, a gift of a soothing aroma to the Lord.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Grain-Offering Regulations: Offering of Raw Flour
@@ -60,7 +60,7 @@
 [15] And you must put olive oil on it and set frankincense on it—it is a grain offering.
 [16] Then the priest must offer its memorial portion up in smoke—some of its crushed bits, some of its olive oil, in addition to all of its frankincense—it is a gift to the Lord.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Peace-Offering Regulations: Animal from the Herd
@@ -86,7 +86,7 @@
 [16] Then the priest must offer them up in smoke on the altar as a food gift for a soothing aroma—all the fat belongs to the Lord.
 [17] This is a perpetual statute throughout your generations in all the places where you live: You must never eat any fat or any blood.’”
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Sin-Offering Regulations
@@ -139,7 +139,7 @@
 [34] Then the priest must take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and he must pour out all the rest of its blood at the base of the altar.
 [35] Then the one who brought the offering must remove all its fat (just as the fat of the sheep is removed from the peace-offering sacrifice) and the priest must offer them up in smoke on the altar on top of the other gifts for the Lord. So the priest will make atonement on his behalf for his sin which he has committed and he will be forgiven.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Additional Sin-Offering Regulations
@@ -170,7 +170,7 @@
 [18] and must bring a flawless ram from the flock, convertible into silver shekels, for a guilt offering to the priest. So the priest will make atonement on his behalf for his error that he committed (although he himself had not known it) and he will be forgiven.
 [19] It is a guilt offering; he was surely guilty before the Lord.”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Trespass by Deception and False Oath
@@ -218,7 +218,7 @@
 [29] Any male among the priests may eat it. It is most holy.
 [30] But any sin offering from which some of its blood is brought into the Meeting Tent to make atonement in the sanctuary must not be eaten. It must be burned up in the fire.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Guilt Offering
@@ -277,7 +277,7 @@
 [37] This is the law for the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering, and the peace-offering sacrifice,
 [38] which the Lord commanded Moses on Mount Sinai on the day he commanded the Israelites to present their offerings to the Lord in the desert of Sinai.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Ordination of the Priests
@@ -331,7 +331,7 @@
 [35] You must reside at the entrance of the Meeting Tent day and night for seven days and keep the charge of the Lord so that you will not die, for this is what I have been commanded.”
 [36] So Aaron and his sons did all the things the Lord had commanded through Moses.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Inauguration of Tabernacle Worship
@@ -370,7 +370,7 @@
 [23] Moses and Aaron then entered into the Meeting Tent. When they came out, they blessed the people, and the glory of the Lord appeared to all the people.
 [24] Then fire went out from the presence of the Lord and consumed the burnt offering and the fat parts on the altar, and all the people saw it, so they shouted loudly and fell down with their faces to the ground.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Nadab and Abihu
@@ -405,7 +405,7 @@
 [19] But Aaron spoke to Moses, “See here! Just today they presented their sin offering and their burnt offering before the Lord and such things as these have happened to me! If I had eaten a sin offering today would the Lord have been pleased?”
 [20] When Moses heard this explanation, he was satisfied.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Clean and Unclean Land Creatures
@@ -479,7 +479,7 @@
 [46] This is the law of the land animals, the birds, all the living creatures that move in the water, and all the creatures that swarm on the land,
 [47] to distinguish between the unclean and the clean, between the living creatures that may be eaten and the living creatures that must not be eaten.’”
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Purification of a Woman after Childbirth
@@ -493,7 +493,7 @@
 [7] The priest is to present it before the Lord and make atonement on her behalf, and she will be clean from her flow of blood. This is the law of the one who bears a child, for the male or the female child.
 [8] If she cannot afford a sheep, then she must take two turtledoves or two young pigeons, one for a burnt offering and one for a sin offering, and the priest is to make atonement on her behalf, and she will be clean.’”
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Infections on the Skin
@@ -588,7 +588,7 @@
 
 [59] This is the law of the diseased infection in the garment of wool or linen, or the warp or woof, or any article of leather, for pronouncing it clean or unclean.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Purification of Diseased Skin Infections
@@ -666,7 +666,7 @@
 [56] for the swelling, for the scab, and for the bright spot,
 [57] to teach when something is unclean and when it is clean. This is the law for dealing with infectious disease.”
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Male Bodily Discharges
@@ -717,7 +717,7 @@
 [32] This is the law for the one with a discharge: for the one who has a seminal emission and becomes unclean by it,
 [33] for the one who is sick in her menstruation, for the one with a discharge, whether male or female, and for a man who goes to bed with an unclean woman.’”
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### The Day of Atonement
@@ -772,7 +772,7 @@
 [33] and he is to purify the Most Holy Place, he is to purify the Meeting Tent and the altar, and he is to make atonement for the priests and for all the people of the assembly.
 [34] This is to be a perpetual statute for you to make atonement for the Israelites for all their sins once a year.” So he did just as the Lord had commanded Moses.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### The Slaughter of Animals
@@ -800,7 +800,7 @@
 [15] “‘Any person who eats an animal that has died of natural causes or an animal torn by beasts, whether a native citizen or a resident foreigner, must wash his clothes, bathe in water, and be unclean until evening; then he will be clean.
 [16] But if he does not wash his clothes and does not bathe his body, he will bear his punishment for his iniquity.’”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Exhortation to Obedience and Life
@@ -842,7 +842,7 @@
 [29] For if anyone does any of these abominations, that person who does them will be cut off from the midst of the people.
 [30] You must obey my charge not to practice any of the abominable statutes that have been done before you, so that you do not defile yourselves by them. I am the Lord your God.’”
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Religious and Social Regulations
@@ -909,7 +909,7 @@
 [36] You must have honest balances, honest weights, an honest ephah, and an honest hin. I am the Lord your God who brought you out from the land of Egypt.
 [37] You must be sure to obey all my statutes and regulations. I am the Lord.’”
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Prohibitions against Illegitimate Family Worship
@@ -957,7 +957,7 @@
 
 [27] “‘A man or woman who has in them a spirit of the dead or a familiar spirit must be put to death. They must pelt them with stones; their blood guilt is on themselves.’”
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### Rules for the Priests
@@ -993,7 +993,7 @@
 [23] but he must not go near the special curtain or step forward to the altar because he has a physical flaw. Thus he must not profane my holy places, for I am the Lord who sanctifies them.’”
 [24] So Moses spoke these things to Aaron, his sons, and all the Israelites.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Regulations for the Eating of Priestly Stipends
@@ -1035,7 +1035,7 @@
 [32] You must not profane my holy name, and I will be sanctified in the midst of the Israelites. I am the Lord who sanctifies you,
 [33] the one who brought you out from the land of Egypt to be your God. I am the Lord.”
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### Regulations for Israel’s Appointed Times
@@ -1106,7 +1106,7 @@
 [43] so that your future generations may know that I made the Israelites live in shelters when I brought them out from the land of Egypt. I am the Lord your God.’”
 [44] So Moses spoke to the Israelites about the appointed times of the Lord.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### Regulations for the Lampstand and the Table of Bread
@@ -1138,7 +1138,7 @@
 [22] There will be one regulation for you, whether a resident foreigner or a native citizen, for I am the Lord your God.’”
 [23] Then Moses spoke to the Israelites and they brought the one who cursed outside the camp and stoned him with stones. So the Israelites did just as the Lord had commanded Moses.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### Regulations for the Sabbatical Year
@@ -1211,7 +1211,7 @@
 [54] If, however, he is not redeemed in these ways, he must go free in the Jubilee year, he and his children with him,
 [55] because the Israelites are my own servants; they are my servants whom I brought out from the land of Egypt. I am the Lord your God.
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### Exhortation to Obedience
@@ -1275,7 +1275,7 @@
 
 [46] These are the statutes, regulations, and instructions which the Lord established between himself and the Israelites at Mount Sinai through Moses.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### Redemption of Persons Given as Votive Offerings

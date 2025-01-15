@@ -1,6 +1,6 @@
 # Ezekiel
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### A Vision of God’s Glory
@@ -34,7 +34,7 @@
 [27] I saw an amber glow like a fire enclosed all around from his waist up. From his waist down I saw something that looked like fire. There was a brilliant light around it,
 [28] like the appearance of a rainbow in the clouds after the rain. This was the appearance of the surrounding brilliant light; it looked like the glory of the Lord. When I saw it, I threw myself face down, and I heard a voice speaking.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Ezekiel’s Commission
@@ -50,7 +50,7 @@
 [9] Then I looked and realized a hand was stretched out to me, and in it was a written scroll.
 [10] He unrolled it before me, and it had writing on the front and back; written on it were laments, mourning, and woe.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 [1] He said to me, “Son of man, eat what you see in front of you —eat this scroll—and then go and speak to the house of Israel.”
 [2] So I opened my mouth and he fed me the scroll.
@@ -86,7 +86,7 @@
 [26] I will make your tongue stick to the roof of your mouth so that you will be silent and unable to reprove them, for they are a rebellious house.
 [27] But when I speak with you, I will loosen your tongue and you must say to them, ‘This is what the Sovereign Lord says.’ Those who listen will listen, but the indifferent will refuse, for they are a rebellious house.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Ominous Object Lessons
@@ -109,7 +109,7 @@
 [16] Then he said to me, “Son of man, I am about to remove the bread supply in Jerusalem. They will eat their bread ration anxiously, and they will drink their water ration in terror
 [17] because they will lack bread and water. Each one will be terrified, and they will rot for their iniquity.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 [1] “As for you, son of man, take a sharp sword and use it as a barber’s razor. Shave off some of the hair from your head and your beard. Then take scales and divide up the hair you cut off.
 [2] Burn a third of it in the fire inside the city when the days of your siege are completed. Take a third and slash it with a sword all around the city. Scatter a third to the wind, and I will unleash a sword behind them.
@@ -129,7 +129,7 @@
 [16] I will shoot against them deadly, destructive arrows of famine, which I will shoot to destroy you. I will prolong a famine on you and will remove the bread supply.
 [17] I will send famine and wild beasts against you, and they will take your children from you. Plague and bloodshed will overwhelm you, and I will bring a sword against you. I, the Lord, have spoken!”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Judgment on the Mountains of Israel
@@ -149,7 +149,7 @@
 [13] Then you will know that I am the Lord when their dead lie among their idols around their altars, on every high hill and on all the mountaintops, under every green tree and every leafy oak —the places where they have offered fragrant incense to all their idols.
 [14] I will stretch out my hand against them and make the land a desolate waste from the wilderness to Riblah, in all the places where they live. Then they will know that I am the Lord.’”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The End Arrives
@@ -182,7 +182,7 @@
 [26] Disaster after disaster will come, and one rumor after another. They will seek a vision from a prophet; priestly instruction will disappear, along with counsel from the elders.
 [27] The king will mourn and the prince will be clothed with shuddering; the hands of the people of the land will tremble. Based on their behavior I will deal with them, and by their standard of justice I will judge them. Then they will know that I am the Lord!”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### A Desecrated Temple
@@ -206,7 +206,7 @@
 [17] He said to me, “Do you see, son of man? Is it a trivial thing that the house of Judah commits these abominations they are practicing here? For they have filled the land with violence and provoked me to anger still further. Look, they are putting the branch to their nose!
 [18] Therefore I will act with fury! My eye will not pity them nor will I spare them. When they have shouted in my ears, I will not listen to them.”
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### The Execution of Idolaters
@@ -223,7 +223,7 @@
 [10] But as for me, my eye will not pity them nor will I spare them; I hereby repay them for what they have done.”
 [11] Next I noticed the man dressed in linen with the writing kit at his side bringing back word: “I have done just as you commanded me.”
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### God’s Glory Leaves the Temple
@@ -251,7 +251,7 @@
 [21] Each had four faces; each had four wings and the form of human hands under the wings.
 [22] As for the form of their faces, they were the faces whose appearance I had seen at the Kebar River. Each one moved straight ahead.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### The Fall of Jerusalem
@@ -282,7 +282,7 @@
 [24] Then a wind lifted me up and carried me to the exiles in Babylonia, in the vision given to me by the Spirit of God.
 [25] So I told the exiles everything the Lord had shown me.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Previewing the Exile
@@ -316,7 +316,7 @@
 [27] “Take note, son of man, the house of Israel is saying, ‘The vision that he sees is for distant days; he is prophesying about the far future.’
 [28] Therefore say to them, ‘This is what the Sovereign Lord says: None of my words will be delayed any longer! The word I speak will come to pass, declares the Sovereign Lord.’”
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### False Prophets Denounced
@@ -345,7 +345,7 @@
 [22] This is because you have disheartened the righteous person with lies (although I have not grieved him), and because you have encouraged the wicked person not to turn from his evil conduct and preserve his life.
 [23] Therefore you will no longer see false visions and practice divination. I will rescue my people from your power, and you will know that I am the Lord.’”
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Well-Deserved Judgment
@@ -374,7 +374,7 @@
 [22] Yet some survivors will be left in it, sons and daughters who will be brought out. They will come out to you, and when you see their behavior and their deeds, you will be consoled about the catastrophe I have brought on Jerusalem—for everything I brought on it.
 [23] They will console you when you see their behavior and their deeds, because you will know that it was not without reason that I have done everything that I have done in it, declares the Sovereign Lord.”
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Burning a Useless Vine
@@ -388,7 +388,7 @@
 [7] I will set my face against them—although they have escaped from the fire, the fire will still consume them! Then you will know that I am the Lord, when I set my face against them.
 [8] I will make the land desolate because they have acted unfaithfully, declares the Sovereign Lord.”
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### God’s Unfaithful Bride
@@ -457,7 +457,7 @@
 [62] I will establish my covenant with you, and then you will know that I am the Lord.
 [63] Then you will remember, be ashamed, and remain silent because of your disgrace when I make atonement for all you have done, declares the Sovereign Lord.’”
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### A Parable of Two Eagles and a Vine
@@ -519,7 +519,7 @@ I make the high tree low; I raise up the low tree.
 I make the green tree wither, and I make the dry tree sprout.
 I, the Lord, have spoken, and I will do it!’”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Individual Retribution
@@ -559,7 +559,7 @@ And the children’s teeth become numb?’
 [31] Throw away all your sins you have committed and fashion yourselves a new heart and a new spirit! Why should you die, O house of Israel?
 [32] For I take no delight in the death of anyone, declares the Sovereign Lord. Repent and live!
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Lament for the Princes of Israel
@@ -596,7 +596,7 @@ in a dry and thirsty land.
 [14] A fire has gone out from its branch; it has consumed its shoot and its fruit.
 No strong branch was left in it, nor a scepter to rule.’
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Israel’s Rebellion
@@ -654,7 +654,7 @@ No strong branch was left in it, nor a scepter to rule.’
 [48] And everyone will see that I, the Lord, have burned it; it will not be extinguished.’”
 [49] Then I said, “O Sovereign Lord! They are saying of me, ‘Does he not simply speak in eloquent figures of speech?’”
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### The Sword of Judgment
@@ -734,7 +734,7 @@ your blood will stain the middle of the land;
 you will no longer be remembered,
 for I, the Lord, have spoken.’”
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### The Sins of Jerusalem
@@ -771,7 +771,7 @@ for I, the Lord, have spoken.’”
 [30] “I looked for a man from among them who would repair the wall and stand in the gap before me on behalf of the land, so that I would not destroy it, but I found no one.
 [31] So I have poured my anger on them and destroyed them with the fire of my fury. I hereby repay them for what they have done, declares the Sovereign Lord.”
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### Two Sisters
@@ -826,7 +826,7 @@ for I, the Lord, have spoken.’”
 [48] I will put an end to the obscene conduct in the land; all the women will learn a lesson from this and not engage in obscene conduct.
 [49] They will repay you for your obscene conduct, and you will be punished for idol worship. Then you will know that I am the Sovereign Lord.”
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### The Boiling Pot
@@ -889,7 +889,7 @@ until I have exhausted my anger on you.
 [26] On that day a fugitive will come to you to report the news.
 [27] On that day you will be able to speak again; you will talk with the fugitive and be silent no longer. You will be an object lesson for them, and they will know that I am the Lord.”
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### A Prophecy Against Ammon
@@ -921,7 +921,7 @@ until I have exhausted my anger on you.
 [16] So this is what the Sovereign Lord says: Take note, I am about to stretch out my hand against the Philistines. I will kill the Kerethites and destroy those who remain on the seacoast.
 [17] I will exact great vengeance upon them with angry rebukes. Then they will know that I am the Lord, when I exact my vengeance upon them.’”
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### A Prophecy Against Tyre
@@ -952,7 +952,7 @@ the coastlands by the sea will be terrified by your passing.’
 [20] then I will bring you down to bygone people, to be with those who descend to the Pit. I will make you live in the lower parts of the earth among the primeval ruins, with those who descend to the Pit, so that you will not be inhabited or stand in the land of the living.
 [21] I will bring terrors on you, and you will be no more! Though you are sought after, you will never be found again, declares the Sovereign Lord.”
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### A Lament for Tyre
@@ -1022,7 +1022,7 @@ and their kings are horribly afraid—their faces are troubled.
 [36] The traders among the peoples hiss at you;
 you have become a horror, and will be no more.’”
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### A Prophecy Against the King of Tyre
@@ -1098,7 +1098,7 @@ Then they will know that I am the Lord.
 [25] “‘This is what the Sovereign Lord says: When I regather the house of Israel from the peoples where they are dispersed, I will reveal my sovereign power over them in the sight of the nations, and they will live in their land that I gave to my servant Jacob.
 [26] They will live securely in it; they will build houses and plant vineyards. They will live securely when I execute my judgments on all those who scorn them and surround them. Then they will know that I am the Lord their God.’”
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 
 ### A Prophecy Against Egypt
@@ -1136,7 +1136,7 @@ and when they leaned on you, you splintered and caused their legs to be unsteady
 [20] I have given him the land of Egypt as his compensation for attacking Tyre, because they did it for me, declares the Sovereign Lord.
 [21] On that day I will make Israel powerful, and I will give you the right to be heard among them. Then they will know that I am the Lord.”
 
-## Chapter 30 <!-- scripture:30 -->
+## Chapter 30
 
 
 ### A Lament Over Egypt
@@ -1205,7 +1205,7 @@ Then they will know that I am the Lord.’”
 [25] I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will fall limp. Then they will know that I am the Lord when I place my sword in the hand of the king of Babylon and he extends it against the land of Egypt.
 [26] I will scatter the Egyptians among the nations and disperse them among foreign countries. Then they will know that I am the Lord.”
 
-## Chapter 31 <!-- scripture:31 -->
+## Chapter 31
 
 
 ### A Cedar in Lebanon
@@ -1245,7 +1245,7 @@ all the trees of Eden, in the garden of God, envied it.
 [17] Those who lived in its shade, its allies among the nations, also went down with it to Sheol, to those killed by the sword.
 [18] Which of the trees of Eden was like you in majesty and loftiness? You will be brought down with the trees of Eden to the lower parts of the earth; you will lie among the uncircumcised, with those killed by the sword! This is what will happen to Pharaoh and all his hordes, declares the Sovereign Lord.’”
 
-## Chapter 32 <!-- scripture:32 -->
+## Chapter 32
 
 
 ### Lamentation over Pharaoh and Egypt
@@ -1319,7 +1319,7 @@ declares the Sovereign Lord.”
 [31] “Pharaoh will see them and be consoled over all his hordes who were killed by the sword, Pharaoh and all his army, declares the Sovereign Lord.
 [32] Indeed, I terrified him in the land of the living, yet he will lie in the midst of the uncircumcised with those killed by the sword, Pharaoh and all his hordes, declares the Sovereign Lord.”
 
-## Chapter 33 <!-- scripture:33 -->
+## Chapter 33
 
 
 ### Ezekiel Israel’s Watchman
@@ -1361,7 +1361,7 @@ declares the Sovereign Lord.”
 [32] Realize that to them you are like a sensual song, a beautiful voice and skilled musician. They hear your words, but they do not obey them.
 [33] When all this comes true—and it certainly will —then they will know that a prophet was among them.”
 
-## Chapter 34 <!-- scripture:34 -->
+## Chapter 34
 
 
 ### A Prophecy Against False Shepherds
@@ -1398,7 +1398,7 @@ declares the Sovereign Lord.”
 [30] Then they will know that I, the Lord their God, am with them, and that they are my people, the house of Israel, declares the Sovereign Lord.
 [31] And you, my sheep, the sheep of my pasture, are my people, and I am your God, declares the Sovereign Lord.’”
 
-## Chapter 35 <!-- scripture:35 -->
+## Chapter 35
 
 
 ### Prophecy Against Mount Seir
@@ -1424,7 +1424,7 @@ Then you will know that I am the Lord!
 [14] This is what the Sovereign Lord says: While the whole earth rejoices, I will turn you into a desolation.
 [15] As you rejoiced over the inheritance of the house of Israel because it was desolate, so will I deal with you—you will be desolate, Mount Seir, and all Edom—all of it! Then they will know that I am the Lord.’”
 
-## Chapter 36 <!-- scripture:36 -->
+## Chapter 36
 
 
 ### Blessings on the Mountains of Israel
@@ -1468,7 +1468,7 @@ Then you will know that I am the Lord!
 [37] “This is what the Sovereign Lord says: I will allow the house of Israel to ask me to do this for them: I will multiply their people like sheep.
 [38] Like the sheep for offerings, like the sheep of Jerusalem during her appointed feasts, so the ruined cities will be filled with flocks of people. Then they will know that I am the Lord.”
 
-## Chapter 37 <!-- scripture:37 -->
+## Chapter 37
 
 
 ### The Valley of Dry Bones
@@ -1502,7 +1502,7 @@ Then you will know that I am the Lord!
 [27] My dwelling place will be with them; I will be their God, and they will be my people.
 [28] Then, when my sanctuary is among them forever, the nations will know that I, the Lord, sanctify Israel.’”
 
-## Chapter 38 <!-- scripture:38 -->
+## Chapter 38
 
 
 ### A Prophecy Against Gog
@@ -1531,7 +1531,7 @@ Then you will know that I am the Lord!
 [22] I will judge him with plague and bloodshed. I will rain down on him, his troops, and the many peoples who are with him a torrential downpour, hailstones, fire, and brimstone.
 [23] I will exalt and magnify myself; I will reveal myself before many nations. Then they will know that I am the Lord.’
 
-## Chapter 39 <!-- scripture:39 -->
+## Chapter 39
 
 [1] “As for you, son of man, prophesy against Gog, and say: ‘This is what the Sovereign Lord says: Look, I am against you, O Gog, chief prince of Meshech and Tubal!
 [2] I will turn you around and drag you along; I will lead you up from the remotest parts of the north and bring you against the mountains of Israel.
@@ -1563,7 +1563,7 @@ Then you will know that I am the Lord!
 [28] Then they will know that I am the Lord their God because I sent them into exile among the nations and then gathered them into their own land. I will not leave any of them in exile any longer.
 [29] I will no longer hide my face from them, when I pour out my Spirit on the house of Israel, declares the Sovereign Lord.”
 
-## Chapter 40 <!-- scripture:40 -->
+## Chapter 40
 
 
 ### Vision of the New Temple
@@ -1618,7 +1618,7 @@ Then you will know that I am the Lord!
 [48] Then he brought me to the porch of the temple and measured the jambs of the porch as 8¾ feet on either side; the width of the gate was 24½ feet, and the sides were 5¼ feet on each side.
 [49] The length of the porch was 35 feet and the width 19¼ feet; steps led up to it, and there were pillars beside the jambs on either side.
 
-## Chapter 41 <!-- scripture:41 -->
+## Chapter 41
 
 
 ### The Inner Temple
@@ -1650,7 +1650,7 @@ Then you will know that I am the Lord!
 [25] On the doors of the outer sanctuary were carved cherubim and palm trees, like those carved on the walls, and there was a canopy of wood on the front of the outside porch.
 [26] There were narrow windows and decorative palm trees on either side of the side walls of the porch; this is what the side chambers of the temple and the canopies were like.
 
-## Chapter 42 <!-- scripture:42 -->
+## Chapter 42
 
 
 ### Chambers for the Temple
@@ -1676,7 +1676,7 @@ Then you will know that I am the Lord!
 [19] He turned to the west side and measured 875 feet by the measuring stick.
 [20] He measured it on all four sides. It had a wall around it, 875 feet long and 875 feet wide, to separate the holy and common places.
 
-## Chapter 43 <!-- scripture:43 -->
+## Chapter 43
 
 
 ### The Glory Returns to the Temple
@@ -1712,7 +1712,7 @@ Then you will know that I am the Lord!
 [26] For seven days they will make atonement for the altar and cleanse it, so they will consecrate it.
 [27] When the prescribed period is over, on the eighth day and thereafter the priests will offer up on the altar your burnt offerings and your peace offerings; I will accept you, declares the Sovereign Lord.”
 
-## Chapter 44 <!-- scripture:44 -->
+## Chapter 44
 
 
 ### The Closed Gate
@@ -1752,7 +1752,7 @@ Then you will know that I am the Lord!
 [30] The first of all the firstfruits and all contributions of any kind will be for the priests; you will also give to the priest the first portion of your dough, so that a blessing may rest on your house.
 [31] The priests will not eat any bird or animal that has died a natural death or was torn to pieces by a wild animal.
 
-## Chapter 45 <!-- scripture:45 -->
+## Chapter 45
 
 
 ### The Lord’s Portion of the Land
@@ -1783,7 +1783,7 @@ Then you will know that I am the Lord!
 [24] He will provide as a grain offering an ephah for each bull, an ephah for each ram, and a gallon of olive oil for each ephah of grain.
 [25] In the seventh month, on the fifteenth day of the month, at the feast, he will make the same provisions for the sin offering, burnt offering, and grain offering, and for the olive oil, for the seven days.
 
-## Chapter 46 <!-- scripture:46 -->
+## Chapter 46
 
 
 ### The Prince’s Offerings
@@ -1813,7 +1813,7 @@ Then you will know that I am the Lord!
 [23] There was a row of masonry around each of the four courts, and places for boiling offerings were made under the rows all around.
 [24] Then he said to me, “These are the houses for boiling, where the ministers of the temple boil the sacrifices of the people.”
 
-## Chapter 47 <!-- scripture:47 -->
+## Chapter 47
 
 
 ### Water from the Temple
@@ -1845,7 +1845,7 @@ Then you will know that I am the Lord!
 [22] You must allot it as an inheritance among yourselves and for the resident foreigners who live among you, who have fathered sons among you. You must treat them as native-born among the people of Israel; they will be allotted an inheritance with you among the tribes of Israel.
 [23] In whatever tribe the resident foreigner lives, there you will give him his inheritance,” declares the Sovereign Lord.
 
-## Chapter 48 <!-- scripture:48 -->
+## Chapter 48
 
 
 ### The Tribal Portions

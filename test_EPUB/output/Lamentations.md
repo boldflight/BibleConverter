@@ -1,6 +1,6 @@
 # Lamentations
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Prophet Speaks
@@ -150,7 +150,7 @@ because of all my acts of rebellion.
 For my groans are many,
 and my heart is sick with sorrow.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Prophet Speaks
@@ -293,7 +293,7 @@ no one escaped or survived.
 My enemy has finished off
 those healthy infants whom I bore and raised.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Prophet Speaks
@@ -430,7 +430,7 @@ may your curse be on them!
 [66] Pursue them in anger and eradicate them
 from under the Lord’s heaven.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Prophet Speaks
@@ -530,7 +530,7 @@ he will not prolong your exile.
 But, O people of Edom, he will punish your sin
 and reveal your offenses!
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### The People of Jerusalem Pray

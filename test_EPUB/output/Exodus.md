@@ -1,6 +1,6 @@
 # Exodus
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Blessing during Bondage in Egypt
@@ -28,7 +28,7 @@
 [21] And because the midwives feared God, he made households for them.
 [22] Then Pharaoh commanded all his people, “All sons that are born you must throw into the river, but all daughters you may let live.”
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Birth of the Deliverer
@@ -65,7 +65,7 @@
 [24] God heard their groaning; God remembered his covenant with Abraham, with Isaac, and with Jacob.
 [25] God saw the Israelites, and God understood.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 [1] Now Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian, and he led the flock to the far side of the desert and came to the mountain of God, to Horeb.
 [2] The angel of the Lord appeared to him in a flame of fire from within a bush. He looked, and the bush was ablaze with fire, but it was not being consumed!
@@ -90,7 +90,7 @@
 [21] “I will grant this people favor with the Egyptians, so that when you depart you will not leave empty-handed.
 [22] Every woman will ask her neighbor and the one who happens to be staying in her house for items of silver and gold and for clothing. You will put these articles on your sons and daughters—thus you will plunder Egypt!”
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Source of Sufficiency
@@ -130,7 +130,7 @@
 [30] Aaron spoke all the words that the Lord had spoken to Moses and did the signs in the sight of the people,
 [31] and the people believed. When they heard that the Lord had attended to the Israelites and that he had seen their affliction, they bowed down close to the ground.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Opposition to the Plan of God
@@ -162,7 +162,7 @@
 [22] Moses returned to the Lord, and said, “Lord, why have you caused trouble for this people? Why did you ever send me?
 [23] From the time I went to speak to Pharaoh in your name, he has caused trouble for this people, and you have certainly not rescued them!”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 [1] Then the Lord said to Moses, “Now you will see what I will do to Pharaoh, for compelled by my strong hand he will release them, and by my strong hand he will drive them out of his land.”
 [2] God spoke to Moses and said to him, “I am the Lord.
@@ -201,7 +201,7 @@
 [29] he said to him, “I am the Lord. Tell Pharaoh king of Egypt all that I am telling you.”
 [30] But Moses said before the Lord, “Since I speak with difficulty, why should Pharaoh listen to me?”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 [1] So the Lord said to Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.
 [2] You are to speak everything I command you, and your brother Aaron is to tell Pharaoh that he must release the Israelites from his land.
@@ -231,7 +231,7 @@
 [23] And Pharaoh turned and went into his house. He did not pay any attention to this.
 [24] All the Egyptians dug around the Nile for water to drink, because they could not drink the water of the Nile.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Plague Two: Frogs
@@ -276,7 +276,7 @@
 [31] and the Lord did as Moses asked —he removed the swarms of flies from Pharaoh, from his servants, and from his people. Not one remained!
 [32] But Pharaoh hardened his heart this time also and did not release the people.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Plague Five: Disease
@@ -323,7 +323,7 @@
 [34] When Pharaoh saw that the rain and hail and thunder ceased, he sinned again: both he and his servants hardened their hearts.
 [35] So Pharaoh’s heart remained hard, and he did not release the Israelites, as the Lord had predicted through Moses.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Plague Eight: Locusts
@@ -361,7 +361,7 @@
 [28] Pharaoh said to him, “Go from me! Watch out for yourself! Do not appear before me again, for when you see my face you will die!”
 [29] Moses said, “As you wish! I will not see your face again.”
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Plague Ten: Death
@@ -377,7 +377,7 @@
 [9] The Lord said to Moses, “Pharaoh will not listen to you, so that my wonders may be multiplied in the land of Egypt.”
 [10] So Moses and Aaron did all these wonders before Pharaoh, but the Lord hardened Pharaoh’s heart, and he did not release the Israelites from his land.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### The Institution of the Passover
@@ -440,7 +440,7 @@
 [50] So all the Israelites did exactly as the Lord commanded Moses and Aaron.
 [51] And on this very day the Lord brought the Israelites out of the land of Egypt by their regiments.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### The Law of the Firstborn
@@ -471,7 +471,7 @@
 [21] Now the Lord was going before them by day in a pillar of cloud to lead them in the way, and by night in a pillar of fire to give them light, so that they could travel day or night.
 [22] He did not remove the pillar of cloud by day nor the pillar of fire by night from before the people.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### The Victory at the Red Sea
@@ -508,7 +508,7 @@
 [30] So the Lord saved Israel on that day from the power of the Egyptians, and Israel saw the Egyptians dead on the shore of the sea.
 [31] When Israel saw the great power that the Lord had exercised over the Egyptians, they feared the Lord, and they believed in the Lord and in his servant Moses.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### The Song of Triumph
@@ -577,7 +577,7 @@ the horse and its rider he has thrown into the sea.”
 [26] He said, “If you will diligently obey the Lord your God, and do what is right in his sight, and pay attention to his commandments, and keep all his statutes, then all the diseases that I brought on the Egyptians I will not bring on you, for I, the Lord, am your healer.”
 [27] Then they came to Elim, where there were twelve wells of water and seventy palm trees, and they camped there by the water.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### The Provision of Manna
@@ -619,7 +619,7 @@ the horse and its rider he has thrown into the sea.”
 [35] Now the Israelites ate manna forty years, until they came to a land that was inhabited; they ate manna until they came to the border of the land of Canaan.
 [36] (Now an omer is one-tenth of an ephah.)
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### Water at Massah and Meribah
@@ -644,7 +644,7 @@ the horse and its rider he has thrown into the sea.”
 [15] Moses built an altar, and he called it “The Lord is my Banner,”
 [16] for he said, “For a hand was lifted up to the throne of the Lord —that the Lord will have war with Amalek from generation to generation.”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### The Advice of Jethro
@@ -677,7 +677,7 @@ the horse and its rider he has thrown into the sea.”
 [26] They judged the people under normal circumstances; the difficult cases they would bring to Moses, but every small case they would judge themselves.
 [27] Then Moses sent his father-in-law on his way, and so Jethro went to his own land.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Israel at Sinai
@@ -708,7 +708,7 @@ the horse and its rider he has thrown into the sea.”
 [24] The Lord said to him, “Go, get down, and then come up, and Aaron with you, but do not let the priests and the people force their way through to come up to the Lord, lest he break through against them.”
 [25] So Moses went down to the people and spoke to them.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### The Decalogue
@@ -743,7 +743,7 @@ the horse and its rider he has thrown into the sea.”
 [25] If you make me an altar of stone, you must not build it of stones shaped with tools, for if you use your tool on it you have defiled it.
 [26] And you must not go up by steps to my altar, so that your nakedness is not exposed.’
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### The Ordinances
@@ -794,7 +794,7 @@ the horse and its rider he has thrown into the sea.”
 [35] If the ox of one man injures the ox of his neighbor so that it dies, then they will sell the live ox and divide its proceeds, and they will also divide the dead ox.
 [36] Or if it is known that the ox had the habit of goring, and its owner did not take the necessary precautions, he must surely pay ox for ox, and the dead animal will become his.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Laws about Property
@@ -834,7 +834,7 @@ the horse and its rider he has thrown into the sea.”
 [30] You must also do this for your oxen and for your sheep; seven days they may remain with their mothers, but give them to me on the eighth day.
 [31] “You will be holy people to me; you must not eat any meat torn by animals in the field. You must throw it to the dogs.
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### Justice
@@ -879,7 +879,7 @@ the horse and its rider he has thrown into the sea.”
 [32] “You must make no covenant with them or with their gods.
 [33] They must not live in your land, lest they make you sin against me, for if you serve their gods, it will surely be a snare to you.”
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### The Lord Ratifies the Covenant
@@ -903,7 +903,7 @@ the horse and its rider he has thrown into the sea.”
 [17] Now the appearance of the glory of the Lord was like a devouring fire on the top of the mountain in plain view of the people.
 [18] Moses went into the cloud when he went up the mountain, and Moses was on the mountain forty days and forty nights.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### The Materials for the Tabernacle
@@ -958,7 +958,7 @@ the horse and its rider he has thrown into the sea.”
 [39] About seventy-five pounds of pure gold is to be used for it and for all these utensils.
 [40] Now be sure to make them according to the pattern you were shown on the mountain.
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### The Tabernacle
@@ -1001,7 +1001,7 @@ the horse and its rider he has thrown into the sea.”
 [36] “You are to make a hanging for the entrance of the tent of blue, purple, and scarlet yarn and fine twisted linen, the work of an embroiderer.
 [37] You are to make for the hanging five posts of acacia wood and overlay them with gold, and their hooks will be gold, and you are to cast five bronze bases for them.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### The Altar
@@ -1034,7 +1034,7 @@ the horse and its rider he has thrown into the sea.”
 [20] “You are to command the Israelites that they bring to you pure oil of pressed olives for the light, so that the lamps will burn regularly.
 [21] In the tent of meeting outside the curtain that is before the testimony, Aaron and his sons are to arrange it from evening to morning before the Lord.This is to be a lasting ordinance among the Israelites for generations to come.
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### The Clothing of the Priests
@@ -1083,7 +1083,7 @@ the horse and its rider he has thrown into the sea.”
 [42] Make for them linen undergarments to cover their naked bodies; they must cover from the waist to the thighs.
 [43] These must be on Aaron and his sons when they enter the tent of meeting, or when they approach the altar to minister in the Holy Place, so that they bear no iniquity and die. It is to be a perpetual ordinance for him and for his descendants after him.
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 
 ### The Consecration of Aaron and His Sons
@@ -1135,7 +1135,7 @@ the horse and its rider he has thrown into the sea.”
 [45] I will reside among the Israelites, and I will be their God,
 [46] and they will know that I am the Lord their God, who brought them out from the land of Egypt, so that I may reside among them. I am the Lord their God.
 
-## Chapter 30 <!-- scripture:30 -->
+## Chapter 30
 
 
 ### The Altar of Incense
@@ -1188,7 +1188,7 @@ the horse and its rider he has thrown into the sea.”
 [37] And the incense that you are to make, you must not make for yourselves using the same recipe; it is to be most holy to you, belonging to the Lord.
 [38] Whoever makes anything like it, to use as perfume, will be cut off from his people.”
 
-## Chapter 31 <!-- scripture:31 -->
+## Chapter 31
 
 
 ### Willing Artisans
@@ -1215,7 +1215,7 @@ the horse and its rider he has thrown into the sea.”
 [17] It is a sign between me and the Israelites forever; for in six days the Lord made the heavens and the earth, and on the seventh day he rested and was refreshed.’”
 [18] He gave Moses two tablets of testimony when he had finished speaking with him on Mount Sinai, tablets of stone written by the finger of God.
 
-## Chapter 32 <!-- scripture:32 -->
+## Chapter 32
 
 
 ### The Sin of the Golden Calf
@@ -1256,7 +1256,7 @@ the horse and its rider he has thrown into the sea.”
 [34] So now go, lead the people to the place I have spoken to you about. See, my angel will go before you. But on the day that I punish, I will indeed punish them for their sin.”
 [35] And the Lord sent a plague on the people because they had made the calf —the one Aaron made.
 
-## Chapter 33 <!-- scripture:33 -->
+## Chapter 33
 
 [1] The Lord said to Moses, “Go up from here, you and the people whom you brought up out of the land of Egypt, to the land I promised on oath to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your descendants.’
 [2] I will send an angel before you, and I will drive out the Canaanite, the Amorite, the Hittite, the Perizzite, the Hivite, and the Jebusite.
@@ -1285,7 +1285,7 @@ the horse and its rider he has thrown into the sea.”
 [22] When my glory passes by, I will put you in a cleft in the rock and will cover you with my hand while I pass by.
 [23] Then I will take away my hand, and you will see my back, but my face must not be seen.”
 
-## Chapter 34 <!-- scripture:34 -->
+## Chapter 34
 
 
 ### The New Tablets of the Covenant
@@ -1329,7 +1329,7 @@ the horse and its rider he has thrown into the sea.”
 [34] But when Moses went in before the Lord to speak with him, he would remove the veil until he came out. Then he would come out and tell the Israelites what he had been commanded.
 [35] When the Israelites would see the face of Moses, that the skin of Moses’ face shone, Moses would put the veil on his face again, until he went in to speak with the Lord.
 
-## Chapter 35 <!-- scripture:35 -->
+## Chapter 35
 
 
 ### Sabbath Regulations
@@ -1367,7 +1367,7 @@ the horse and its rider he has thrown into the sea.”
 [28] and spices and olive oil for the light, for the anointing oil, and for the fragrant incense.
 [29] The Israelites brought a freewill offering to the Lord, every man and woman whose heart was willing to bring materials for all the work that the Lord through Moses had commanded them to do.
 
-## Chapter 36 <!-- scripture:36 -->
+## Chapter 36
 
 [30] Moses said to the Israelites, “See, the Lord has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah.
 [31] He has filled him with the Spirit of God—with skill, with understanding, with knowledge, and in all kinds of work—
@@ -1417,7 +1417,7 @@ the horse and its rider he has thrown into the sea.”
 [37] He made a hanging for the entrance of the tent of blue, purple, and scarlet yarn and fine twisted linen, the work of an embroiderer,
 [38] and its five posts and their hooks. He overlaid their tops and their bands with gold, but their five bases were bronze.
 
-## Chapter 37 <!-- scripture:37 -->
+## Chapter 37
 
 
 ### The Making of the Ark
@@ -1461,7 +1461,7 @@ the horse and its rider he has thrown into the sea.”
 [28] He made the poles of acacia wood and overlaid them with gold.
 [29] He made the sacred anointing oil and the pure fragrant incense, the work of a perfumer.
 
-## Chapter 38 <!-- scripture:38 -->
+## Chapter 38
 
 
 ### The Making of the Altar for the Burnt Offering
@@ -1504,7 +1504,7 @@ the horse and its rider he has thrown into the sea.”
 [30] With it he made the bases for the door of the tent of meeting, the bronze altar, the bronze grating for it, and all the utensils of the altar,
 [31] the bases for the courtyard all around, the bases for the gate of the courtyard, all the tent pegs of the tabernacle, and all the tent pegs of the courtyard all around.
 
-## Chapter 39 <!-- scripture:39 -->
+## Chapter 39
 
 
 ### The Making of the Priestly Garments
@@ -1565,7 +1565,7 @@ the horse and its rider he has thrown into the sea.”
 [42] The Israelites did all the work according to all that the Lord had commanded Moses.
 [43] Moses inspected all the work, and they had done it just as the Lord had commanded—they had done it exactly—and Moses blessed them.
 
-## Chapter 40 <!-- scripture:40 -->
+## Chapter 40
 
 
 ### Setting Up the Sanctuary

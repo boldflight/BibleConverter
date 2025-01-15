@@ -1,6 +1,6 @@
 # Judges
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Judah Takes the Lead
@@ -45,7 +45,7 @@
 [35] The Amorites managed to remain in Har Heres, Aijalon, and Shaalbim. Whenever the tribe of Joseph was strong militarily, the Amorites were forced to do hard labor.
 [36] The border of Amorite territory ran from the Scorpion Ascent to Sela and on up.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Confrontation and Repentance at Bokim
@@ -83,7 +83,7 @@
 [22] in order to test Israel. I want to see whether or not the people will carefully walk in the path marked out by the Lord, as their ancestors were careful to do.”
 [23] This is why the Lord permitted these nations to remain and did not conquer them immediately; he did not hand them over to Joshua.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 [1] These were the nations the Lord permitted to remain so he could use them to test Israel—he wanted to test all those who had not experienced battle against the Canaanites.
 [2] He left those nations simply because he wanted to teach the subsequent generations of Israelites, who had not experienced the earlier battles, how to conduct holy war.
@@ -123,7 +123,7 @@
 [30] Israel humiliated Moab that day, and the land had rest for eighty years.
 [31] After Ehud came Shamgar son of Anath. He killed 600 Philistines with an oxgoad. So he also delivered Israel.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Deborah Summons Barak
@@ -153,7 +153,7 @@
 [23] That day God humiliated King Jabin of Canaan before the Israelites.
 [24] Israel’s power continued to overwhelm King Jabin of Canaan until they did away with him.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Celebrating the Victory in Song
@@ -256,7 +256,7 @@ for the neck of the plunderer!’
 But may those who love you shine
 like the rising sun at its brightest.”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Oppression and Confrontation
@@ -311,7 +311,7 @@ like the rising sun at its brightest.”
 [39] Gideon said to God, “Please do not get angry at me, when I ask for just one more sign. Please allow me one more test with the fleece. This time make only the fleece dry, while the ground around it is covered with dew.”
 [40] That night God did as he asked. Only the fleece was dry and the ground around it was covered with dew.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Gideon Reduces the Ranks
@@ -351,7 +351,7 @@ like the rising sun at its brightest.”
 [24] Now Gideon sent messengers throughout the Ephraimite hill country who announced, “Go down and head off the Midianites. Take control of the fords of the streams all the way to Beth Barah and the Jordan River.” When all the Ephraimites had assembled, they took control of the fords all the way to Beth Barah and the Jordan River.
 [25] They captured the two Midianite generals, Oreb and Zeeb. They executed Oreb on the rock of Oreb and Zeeb in the winepress of Zeeb. They chased the Midianites and brought the heads of Oreb and Zeeb to Gideon, who was now on the other side of the Jordan River.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 [1] The Ephraimites said to him, “Why have you done such a thing to us? You did not summon us when you went to fight the Midianites!” They argued vehemently with him.
 [2] He said to them, “Now what have I accomplished compared to you? Even Ephraim’s leftover grapes are better quality than Abiezer’s harvest!
@@ -401,7 +401,7 @@ like the rising sun at its brightest.”
 [34] The Israelites did not remain true to the Lord their God, who had delivered them from all the enemies who lived around them.
 [35] They did not treat the family of Jerub Baal (that is, Gideon) fairly in return for all the good he had done for Israel.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Abimelech Murders His Brothers
@@ -470,7 +470,7 @@ like the rising sun at its brightest.”
 [56] God repaid Abimelech for the evil he did to his father by murdering his seventy half brothers.
 [57] God also repaid the men of Shechem for their evil deeds. The curse spoken by Jotham son of Jerub Baal fell on them.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Stability Restored
@@ -500,7 +500,7 @@ like the rising sun at its brightest.”
 [17] The Ammonites assembled and camped in Gilead; the Israelites gathered together and camped in Mizpah.
 [18] The leaders of Gilead said to one another, “Who is willing to lead the charge against the Ammonites? He will become the leader of all who live in Gilead!”
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 [1] Now Jephthah the Gileadite was a brave warrior. His mother was a prostitute, but Gilead was his father.
 [2] Gilead’s wife also gave him sons. When his wife’s sons grew up, they made Jephthah leave and said to him, “You are not going to inherit any of our father’s wealth, because you are another woman’s son.”
@@ -549,7 +549,7 @@ like the rising sun at its brightest.”
 [39] After two months she returned to her father, and he did to her as he had vowed. She died a virgin. Her tragic death gave rise to a custom in Israel.
 [40] Every year Israelite women commemorate the daughter of Jephthah the Gileadite for four days.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Civil Strife Mars the Victory
@@ -573,7 +573,7 @@ like the rising sun at its brightest.”
 [14] He had forty sons and thirty grandsons who rode on seventy donkeys. He led Israel for eight years.
 [15] Then Abdon son of Hillel the Pirathonite died and was buried in Pirathon in the land of Ephraim, in the hill country of the Amalekites.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Samson’s Birth
@@ -604,7 +604,7 @@ like the rising sun at its brightest.”
 [24] Manoah’s wife gave birth to a son and named him Samson. The child grew and the Lord empowered him.
 [25] The Lord’s Spirit began to control him in Mahaneh Dan between Zorah and Eshtaol.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Samson’s Unconsummated Marriage
@@ -636,7 +636,7 @@ you would not have solved my riddle!”
 [19] The Lord’s Spirit empowered him. He went down to Ashkelon and killed thirty men. He took their clothes and gave them to the men who had solved the riddle. He was furious as he went back home.
 [20] Samson’s bride was then given to his best man.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Samson Versus the Philistines
@@ -666,7 +666,7 @@ I have struck down a thousand men!”
 [19] So God split open the basin at Lehi and water flowed out from it. When he took a drink, his strength was restored and he revived. For this reason he named the spring En Hakkore. It remains in Lehi to this very day.
 [20] Samson led Israel for twenty years during the days of Philistine prominence.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### Samson’s Downfall
@@ -706,7 +706,7 @@ I have struck down a thousand men!”
 [30] Samson said, “Let me die with the Philistines!” He pushed hard, and the temple collapsed on the rulers and all the people in it. He killed many more people in his death than he had killed during his life.
 [31] His brothers and all his family went down and brought him back. They buried him between Zorah and Eshtaol in the tomb of Manoah his father. He had led Israel for twenty years.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### Micah Makes His Own Religion
@@ -728,7 +728,7 @@ I have struck down a thousand men!”
 [12] Micah paid the Levite; the young man became his priest and lived in Micah’s house.
 [13] Micah said, “Now I know the Lord will make me rich, because I have this Levite as my priest.”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### The Tribe of Dan Finds an Inheritance
@@ -765,7 +765,7 @@ I have struck down a thousand men!”
 [30] The Danites worshiped the carved image. Jonathan, descendant of Gershom, son of Moses, and his descendants served as priests for the tribe of Dan until the time of the exile.
 [31] They worshiped Micah’s carved image the whole time God’s authorized shrine was in Shiloh.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Sodom and Gomorrah Revisited
@@ -801,7 +801,7 @@ I have struck down a thousand men!”
 [29] When he got home, he took a knife, grasped his concubine, and carved her up into twelve pieces. Then he sent the pieces throughout Israel.
 [30] Everyone who saw the sight said, “Nothing like this has happened or been witnessed during the entire time since the Israelites left the land of Egypt! Take careful note of it! Discuss it and speak!”
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Civil War Breaks Out
@@ -855,7 +855,7 @@ I have struck down a thousand men!”
 [47] But 600 survivors turned and ran away to the wilderness, to the cliff of Rimmon. They stayed there four months.
 [48] The Israelites returned to the Benjaminite towns and put the sword to them. They wiped out the cities, the animals, and everything they could find. They set fire to every city in their path.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### Six Hundred Brides for Six Hundred Brothers

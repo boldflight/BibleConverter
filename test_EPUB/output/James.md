@@ -1,6 +1,6 @@
 # James
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -39,7 +39,7 @@
 [26] If someone thinks he is religious yet does not bridle his tongue, and so deceives his heart, his religion is futile.
 [27] Pure and undefiled religion before God the Father is this: to care for orphans and widows in their adversity and to keep oneself unstained by the world.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Prejudice and the Law of Love
@@ -74,7 +74,7 @@
 [25] And similarly, was not Rahab the prostitute also justified by works when she welcomed the messengers and sent them out by another way?
 [26] For just as the body without the spirit is dead, so also faith without works is dead.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Power of the Tongue
@@ -101,7 +101,7 @@
 [17] But the wisdom from above is first pure, then peaceable, gentle, accommodating, full of mercy and good fruit, impartial, and not hypocritical.
 [18] And the fruit that consists of righteousness is planted in peace among those who make peace.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Passions and Pride
@@ -124,7 +124,7 @@
 [16] But as it is, you boast about your arrogant plans. All such boasting is evil.
 [17] So whoever knows what is good to do and does not do it is guilty of sin.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Warning to the Rich

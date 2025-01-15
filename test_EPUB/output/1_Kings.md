@@ -1,6 +1,6 @@
 # 1 Kings
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Adonijah Tries to Seize the Throne
@@ -62,7 +62,7 @@
 [52] Solomon said, “If he is a loyal subject, not a hair of his head will be harmed, but if he is found to be a traitor, he will die.”
 [53] King Solomon sent men to bring him down from the altar. He came and bowed down to King Solomon, and Solomon told him, “Go home.”
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### David’s Final Words to Solomon
@@ -117,7 +117,7 @@
 [45] But King Solomon will be empowered, and David’s dynasty will endure permanently before the Lord.”
 [46] The king then gave the order to Benaiah son of Jehoiada who went and executed Shimei.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Lord Gives Solomon Wisdom
@@ -154,7 +154,7 @@
 [27] The king responded, “Give the first woman the living child; don’t kill him. She is the mother.”
 [28] When all Israel heard about the judicial decision which the king had rendered, they respected the king, for they realized that he possessed divine wisdom to make judicial decisions.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Solomon’s Royal Court and Administrators
@@ -197,7 +197,7 @@
 [33] He produced manuals on botany, describing every kind of plant, from the cedars of Lebanon to the hyssop that grows on walls. He also produced manuals on biology, describing animals, birds, insects, and fish.
 [34] People from all nations came to hear Solomon’s display of wisdom; they came from all the kings of the earth who heard about his wisdom.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Solomon Gathers Building Materials for the Temple
@@ -221,7 +221,7 @@
 [17] By royal order they supplied large valuable stones in order to build the temple’s foundation with chiseled stone.
 [18] Solomon’s and Hiram’s construction workers, along with men from Byblos, did the chiseling and prepared the wood and stones for the building of the temple.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Building of the Temple
@@ -265,7 +265,7 @@
 [37] In the month of Ziv in the fourth year of Solomon’s reign the foundation was laid for the Lord’s temple.
 [38] In the eleventh year, in the month of Bul (the eighth month) the temple was completed in accordance with all its specifications and blueprints. It took seven years to build.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Building of the Royal Palace
@@ -325,7 +325,7 @@
 [50] the pure gold bowls, trimming shears, basins, pans, and censers, and the gold door sockets for the inner sanctuary (the Most Holy Place) and for the doors of the main hall of the temple.
 [51] When King Solomon finished constructing the Lord’s temple, he put the holy items that belonged to his father David (the silver, gold, and other articles) in the treasuries of the Lord’s temple.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Solomon Moves the Ark into the Temple
@@ -403,7 +403,7 @@
 [65] At that time Solomon and all Israel with him celebrated a festival before the Lord our God for two entire weeks. This great assembly included people from all over the land, from Lebo Hamath in the north to the Stream of Egypt in the south.
 [66] On the fifteenth day after the festival started, he dismissed the people. They asked God to empower the king and then went to their homes, happy and content because of all the good the Lord had done for his servant David and his people Israel.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### The Lord Gives Solomon a Promise and a Warning
@@ -440,7 +440,7 @@
 [27] Hiram sent his fleet and some of his sailors, who were well acquainted with the sea, to serve with Solomon’s men.
 [28] They sailed to Ophir, took from there 420 talents of gold, and then brought them to King Solomon.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Solomon Entertains a Queen
@@ -478,7 +478,7 @@
 [28] Solomon acquired his horses from Egypt and from Que; the king’s traders purchased them from Que.
 [29] They paid 600 silver pieces for each chariot from Egypt and 150 silver pieces for each horse. They also sold chariots and horses to all the kings of the Hittites and to the kings of Syria.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### The Lord Punishes Solomon for Idolatry
@@ -530,7 +530,7 @@
 [42] Solomon ruled over all Israel from Jerusalem for forty years.
 [43] Then Solomon passed away and was buried in the city of his father David. His son Rehoboam replaced him as king.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Rehoboam Loses His Kingdom
@@ -571,7 +571,7 @@
 [31] He built temples on the high places and appointed as priests common people who were not Levites.
 [32] Jeroboam inaugurated a festival on the fifteenth day of the eighth month, like the festival celebrated in Judah. On the altar in Bethel he offered sacrifices to the calves he had made. In Bethel he also appointed priests for the high places he had made.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### A Prophet from Judah Visits Bethel
@@ -615,7 +615,7 @@
 [33] After this happened, Jeroboam still did not change his evil ways; he continued to appoint common people as priests at the high places. Anyone who wanted the job he consecrated as a priest.
 [34] This sin caused Jeroboam’s dynasty to come to an end and to be destroyed from the face of the earth.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 [1] At that time Jeroboam’s son Abijah became sick.
 [2] Jeroboam told his wife, “Disguise yourself so that people cannot recognize you are Jeroboam’s wife. Then go to Shiloh; Ahijah the prophet, who told me I would rule over this nation, lives there.
@@ -655,7 +655,7 @@
 [30] Rehoboam and Jeroboam were continually at war with each other.
 [31] Rehoboam passed away and was buried with his ancestors in the City of David. His mother was an Ammonite named Naamah. His son Abijah replaced him as king.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Abijah’s Reign over Judah
@@ -704,7 +704,7 @@
 [33] In the third year of Asa’s reign over Judah, Baasha son of Ahijah became king over all Israel in Tirzah; he ruled for twenty-four years.
 [34] He did evil in the sight of the Lord; he followed in Jeroboam’s footsteps and encouraged Israel to sin.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 [1] The Lord’s message against Baasha came to Jehu son of Hanani:
 [2] “I raised you up from the dust and made you ruler over my people Israel. Yet you followed in Jeroboam’s footsteps and encouraged my people Israel to sin; their sins have made me angry.
@@ -753,7 +753,7 @@
 [33] Ahab also made an Asherah pole; he did more to anger the Lord God of Israel than all the kings of Israel who were before him.
 [34] During Ahab’s reign, Hiel the Bethelite rebuilt Jericho. Abiram, his firstborn son, died when he laid the foundation; Segub, his youngest son, died when he erected its gates, in keeping with the Lord’s message that he had spoken through Joshua son of Nun.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### Elijah Visits a Widow in Sidonian Territory
@@ -783,7 +783,7 @@
 [23] Elijah took the boy, brought him down from the upper room to the house, and handed him to his mother. Elijah then said, “See, your son is alive!”
 [24] The woman said to Elijah, “Now I know that you are a prophet and that the Lord’s message really does come through you.”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Elijah Meets the King’s Servant
@@ -838,7 +838,7 @@
 [45] Meanwhile the sky was covered with dark clouds, the wind blew, and there was a heavy rainstorm. Ahab rode toward Jezreel.
 [46] Now the Lord energized Elijah with power; he tucked his robe into his belt and ran ahead of Ahab all the way to Jezreel.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Elijah Runs for His Life
@@ -865,7 +865,7 @@
 [20] He left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, then I will follow you.” Elijah said to him, “Go back! Indeed, what have I done to you?”
 [21] Elisha went back and took his pair of oxen and slaughtered them. He cooked the meat over a fire that he made by burning the harness and yoke. He gave the people meat and they ate. Then he got up and followed Elijah and became his assistant.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Ben Hadad Invades Israel
@@ -923,7 +923,7 @@
 [42] The prophet then said to him, “This is what the Lord has said: ‘Because you released a man I had determined should die, you will pay with your life, and your people will suffer instead of his people.’”
 [43] The king of Israel went home to Samaria bitter and angry.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### Ahab Murders Naboth
@@ -958,7 +958,7 @@
 [28] The Lord’s message came to Elijah the Tishbite,
 [29] “Have you noticed how Ahab shows remorse before me? Because he shows remorse before me, I will not bring disaster on his dynasty during his lifetime, but during the reign of his son.”
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Ahab Dies in Battle

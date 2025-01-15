@@ -1,6 +1,6 @@
 # Acts
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Jesus Ascends to Heaven
@@ -35,7 +35,7 @@
 [25] to assume the task of this service and apostleship from which Judas turned aside to go to his own place.”
 [26] Then they cast lots for them, and the one chosen was Matthias; so he was counted with the eleven apostles.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Holy Spirit and the Day of Pentecost
@@ -87,7 +87,7 @@
 [46] Every day they continued to gather together by common consent in the temple courts, breaking bread from house to house, sharing their food with glad and humble hearts,
 [47] praising God and having the good will of all the people. And the Lord was adding to their number every day those who were being saved.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Peter and John Heal a Lame Man at the Temple
@@ -122,7 +122,7 @@
 [25] You are the sons of the prophets and of the covenant that God made with your ancestors, saying to Abraham, ‘And in your descendants all the nations of the earth will be blessed.’
 [26] God raised up his servant and sent him first to you, to bless you by turning each one of you from your iniquities.”
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Arrest and Trial of Peter and John
@@ -170,7 +170,7 @@
 [36] So Joseph, a Levite who was a native of Cyprus, called by the apostles Barnabas (which is translated “son of encouragement”),
 [37] sold a field that belonged to him and brought the money and placed it at the apostles’ feet.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### The Judgment on Ananias and Sapphira
@@ -224,7 +224,7 @@
 [41] So they left the council rejoicing because they had been considered worthy to suffer dishonor for the sake of the name.
 [42] And every day both in the temple courts and from house to house, they did not stop teaching and proclaiming the good news that Jesus was the Christ.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Appointment of the First Seven Deacons
@@ -248,7 +248,7 @@
 [14] For we have heard him saying that Jesus the Nazarene will destroy this place and change the customs that Moses handed down to us.”
 [15] All who were sitting in the council looked intently at Stephen and saw his face was like the face of an angel.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Stephen’s Defense Before the Council
@@ -305,7 +305,7 @@
 [52] Which of the prophets did your ancestors not persecute? They killed those who foretold long ago the coming of the Righteous One, whose betrayers and murderers you have now become!
 [53] You received the law by decrees given by angels, but you did not obey it.”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Stephen is Killed
@@ -365,7 +365,7 @@
 [39] Now when they came up out of the water, the Spirit of the Lord snatched Philip away, and the eunuch did not see him any more, but went on his way rejoicing.
 [40] Philip, however, found himself at Azotus, and as he passed through the area, he proclaimed the good news to all the towns until he came to Caesarea.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### The Conversion of Saul
@@ -426,7 +426,7 @@
 [42] This became known throughout all Joppa, and many believed in the Lord.
 [43] So Peter stayed many days in Joppa with a man named Simon, a tanner.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Peter Visits Cornelius
@@ -483,7 +483,7 @@
 [47] “No one can withhold the water for these people to be baptized, who have received the Holy Spirit just as we did, can he?”
 [48] So he gave orders to have them baptized in the name of Jesus Christ. Then they asked him to stay for several days.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Peter Defends His Actions to the Jerusalem Church
@@ -525,7 +525,7 @@
 [29] So the disciples, each in accordance with his financial ability, decided to send relief to the brothers living in Judea.
 [30] They did so, sending their financial aid to the elders by Barnabas and Saul.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### James is Killed and Peter Imprisoned
@@ -556,7 +556,7 @@
 [24] But the word of God kept on increasing and multiplying.
 [25] So Barnabas and Saul returned to Jerusalem when they had completed their mission, bringing along with them John Mark.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### The Church at Antioch Commissions Barnabas and Saul
@@ -619,7 +619,7 @@
 [51] So after they shook the dust off their feet in protest against them, they went to Iconium.
 [52] And the disciples were filled with joy and with the Holy Spirit.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Paul and Barnabas at Iconium
@@ -659,7 +659,7 @@
 [27] When they arrived and gathered the church together, they reported all the things God had done with them, and that he had opened a door of faith for the Gentiles.
 [28] So they spent considerable time with the disciples.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### The Jerusalem Council
@@ -699,7 +699,7 @@
 [40] but Paul chose Silas and set out, commended to the grace of the Lord by the brothers and sisters.
 [41] He passed through Syria and Cilicia, strengthening the churches.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### Timothy Joins Paul and Silas
@@ -754,7 +754,7 @@
 [39] and came and apologized to them. After they brought them out, they asked them repeatedly to leave the city.
 [40] When they came out of the prison, they entered Lydia’s house, and when they saw the brothers, they encouraged them and then departed.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### Paul and Silas at Thessalonica
@@ -800,7 +800,7 @@
 [33] So Paul left the Areopagus.
 [34] But some people joined him and believed. Among them were Dionysius, who was a member of the Areopagus, a woman named Damaris, and others with them.
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Paul at Corinth
@@ -843,7 +843,7 @@
 [27] When Apollos wanted to cross over to Achaia, the brothers encouraged him and wrote to the disciples to welcome him. When he arrived, he assisted greatly those who had believed by grace,
 [28] for he refuted the Jews vigorously in public debate, demonstrating from the scriptures that the Christ was Jesus.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Disciples of John the Baptist at Ephesus
@@ -899,7 +899,7 @@
 [40] For we are in danger of being charged with rioting today, since there is no cause we can give to explain this disorderly gathering.”
 [41] After he had said this, he dismissed the assembly.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Paul Travels Through Macedonia and Greece
@@ -946,7 +946,7 @@
 [37] They all began to weep loudly, and hugged Paul and kissed him,
 [38] especially saddened by what he had said, that they were not going to see him again. Then they accompanied him to the ship.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### Paul’s Journey to Jerusalem
@@ -992,7 +992,7 @@
 [39] Paul answered, “I am a Jew from Tarsus in Cilicia, a citizen of an important city. Please allow me to speak to the people.”
 [40] When the commanding officer had given him permission, Paul stood on the steps and gestured to the people with his hand. When they had become silent, he addressed them in Aramaic,
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Paul’s Defense
@@ -1034,7 +1034,7 @@
 
 [30] The next day, because the commanding officer wanted to know the true reason Paul was being accused by the Jews, he released him and ordered the chief priests and the whole council to assemble. He then brought Paul down and had him stand before them.
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 [1] Paul looked directly at the council and said, “Brothers, I have lived my life with a clear conscience before God to this day.”
 [2] At that the high priest Ananias ordered those standing near Paul to strike him on the mouth.
@@ -1070,7 +1070,7 @@
 [34] When the governor had read the letter, he asked what province he was from. When he learned that he was from Cilicia,
 [35] he said, “I will give you a hearing when your accusers arrive too.” Then he ordered that Paul be kept under guard in Herod’s palace.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### The Accusations Against Paul
@@ -1109,7 +1109,7 @@
 [26] At the same time he was also hoping that Paul would give him money, and for this reason he sent for Paul as often as possible and talked with him.
 [27] After two years had passed, Porcius Festus succeeded Felix, and because he wanted to do the Jews a favor, Felix left Paul in prison.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### Paul Appeals to Caesar
@@ -1148,7 +1148,7 @@
 [26] But I have nothing definite to write to my lord about him. Therefore I have brought him before you all, and especially before you, King Agrippa, so that after this preliminary hearing I may have something to write.
 [27] For it seems unreasonable to me to send a prisoner without clearly indicating the charges against him.”
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### Paul Offers His Defense
@@ -1186,7 +1186,7 @@
 [31] and as they were leaving they said to one another, “This man is not doing anything deserving death or imprisonment.”
 [32] Agrippa said to Festus, “This man could have been released if he had not appealed to Caesar.”
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### Paul and Company Sail for Rome
@@ -1242,7 +1242,7 @@
 [43] But the centurion, wanting to save Paul’s life, prevented them from carrying out their plan. He ordered those who could swim to jump overboard first and get to land,
 [44] and the rest were to follow, some on planks and some on pieces of the ship. And in this way all were brought safely to land.
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### Paul on Malta

@@ -1,6 +1,6 @@
 # Deuteronomy
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Covenant Setting
@@ -67,7 +67,7 @@
 [45] Then you came back and wept before the Lord, but he paid no attention to you whatsoever.
 [46] Therefore, you remained at Kadesh for a long time—indeed, for the full time.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Journey from Kadesh Barnea to Moab
@@ -116,7 +116,7 @@
 [36] From Aroer, which is at the edge of Wadi Arnon (it is the city in the wadi), all the way to Gilead there was not a town able to resist us—the Lord our God gave them all to us.
 [37] However, you did not approach the land of the Ammonites, the Wadi Jabbok, the cities of the hill country, or any place else forbidden by the Lord our God.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Defeat of King Og of Bashan
@@ -160,7 +160,7 @@
 [28] Commission Joshua, and encourage and strengthen him, because he will lead these people over and will enable them to inherit the land you will see.”
 [29] So we settled down in the valley opposite Beth Peor.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Privileges of the Covenant
@@ -233,7 +233,7 @@
 [48] Their territory extended from Aroer at the edge of the Arnon valley as far as Mount Siyon —that is, Hermon—
 [49] including all the rift valley of the Transjordan in the east to the sea of the rift valley, beneath the slopes of Pisgah.)
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### The Opening Exhortation
@@ -278,7 +278,7 @@
 [32] Be careful, therefore, to do exactly what the Lord your God has commanded you; do not turn right or left!
 [33] Walk just as he has commanded you so that you may live, that it may go well with you, and that you may live long in the land you are going to possess.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Exhortation to Keep the Covenant Principles
@@ -324,7 +324,7 @@
 [24] The Lord commanded us to obey all these statutes and to revere him so that it may always go well for us and he may preserve us, as he has to this day.
 [25] We will be innocent if we carefully keep all these commandments before the Lord our God, just as he demands.”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Dispossession of Nonvassals
@@ -365,7 +365,7 @@
 [25] You must burn the images of their gods, but do not covet the silver and gold that covers them so much that you take it for yourself and thus become ensnared by it; for it is abhorrent to the Lord your God.
 [26] You must not bring any abhorrent thing into your house and thereby become an object of divine wrath along with it. You must absolutely detest and abhor it, for it is an object of divine wrath.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### The Lord’s Provision in the Desert
@@ -394,7 +394,7 @@
 [19] Now if you forget the Lord your God at all and follow other gods, worshiping and prostrating yourselves before them, I testify to you today that you will surely be annihilated.
 [20] Just like the nations the Lord is about to destroy from your sight, so he will do to you because you would not obey him.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Theological Justification of the Conquest
@@ -435,7 +435,7 @@
 [28] Otherwise the people of the land from which you brought us will say, “The Lord was unable to bring them to the land he promised them, and because of his hatred for them he has brought them out to kill them in the wilderness.”
 [29] They are your people, your valued property, whom you brought out with great strength and power.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### The Opportunity to Begin Again
@@ -469,7 +469,7 @@
 [21] He is the one you should praise; he is your God, the one who has done these great and awesome things for you that you have seen.
 [22] When your ancestors went down to Egypt, they numbered only seventy, but now the Lord your God has made you as numerous as the stars of the sky.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Reiteration of the Call to Obedience
@@ -516,7 +516,7 @@
 [31] For you are about to cross the Jordan to possess the land the Lord your God is giving you, and you will possess and inhabit it.
 [32] Be certain to keep all the statutes and ordinances that I am presenting to you today.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### The Central Sanctuary
@@ -562,7 +562,7 @@
 [30] After they have been destroyed from your presence, be careful not to be ensnared like they are; do not pursue their gods and say, “How do these nations serve their gods? I will do the same.”
 [31] You must not worship the Lord your God the way they do! For everything that is abhorrent to him, everything he hates, they have done when worshiping their gods. They even burn up their sons and daughters before their gods!
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Idolatry and False Prophets
@@ -593,7 +593,7 @@
 [17] You must not take for yourself anything that has been placed under judgment. Then the Lord will relent from his intense anger, show you compassion, have mercy on you, and multiply you as he promised your ancestors.
 [18] Thus you must obey the Lord your God, keeping all his commandments that I am giving you today and doing what is right before him.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### The Holy and the Profane
@@ -631,7 +631,7 @@
 [28] At the end of every three years you must bring all the tithe of your produce, in that very year, and you must store it up in your villages.
 [29] Then the Levites (because they have no allotment or inheritance with you), the resident foreigners, the orphans, and the widows of your villages may come and eat their fill so that the Lord your God may bless you in all the work you do.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### The Year of Debt Release
@@ -669,7 +669,7 @@
 [22] You may eat it in your villages, whether you are ritually impure or clean, just as you would eat a gazelle or an ibex.
 [23] However, you must not eat its blood; you must pour it out on the ground like water.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### The Passover
@@ -709,7 +709,7 @@
 [21] You must not plant any kind of tree as a sacred Asherah pole near the altar of the Lord your God which you build for yourself.
 [22] You must not erect a sacred pillar, a thing the Lord your God detests.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 [1] You must not sacrifice to him a bull or sheep that has a blemish or any other defect, because that is considered offensive to the Lord your God.
 [2] Suppose a man or woman is discovered among you in one of your villages that the Lord your God is giving you who sins before the Lord your God and breaks his covenant
@@ -738,7 +738,7 @@
 [19] It must be with him constantly, and he must read it as long as he lives, so that he may learn to revere the Lord his God and observe all the words of this law and these statutes and carry them out.
 [20] Then he will not exalt himself above his fellow citizens or turn from the commandments to the right or left, and he and his descendants will enjoy many years ruling over his kingdom in Israel.
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Provision for Priests and Levites
@@ -769,7 +769,7 @@
 [21] Now if you say to yourselves, ‘How can we tell that a message is not from the Lord?’ —
 [22] whenever a prophet speaks in my name and the prediction is not fulfilled, then I have not spoken it; the prophet has presumed to speak it, so you need not fear him.”
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Laws Concerning Manslaughter
@@ -799,7 +799,7 @@
 [20] The rest of the people will hear and become afraid to keep doing such evil among you.
 [21] You must not show pity; the principle will be a life for a life, an eye for an eye, a tooth for a tooth, a hand for a hand, and a foot for a foot.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Laws Concerning War with Distant Enemies
@@ -828,7 +828,7 @@
 [19] If you besiege a city for a long time while attempting to capture it, you must not chop down its trees, for you may eat fruit from them and should not cut them down. A tree in the field is not human that you should besiege it!
 [20] However, you may chop down any tree you know is not suitable for food, and you may use it to build siege works against the city that is making war with you until that city falls.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### Laws Concerning Unsolved Murder
@@ -866,7 +866,7 @@
 [22] If a person commits a sin punishable by death and is executed, and you hang the corpse on a tree,
 [23] his body must not remain all night on the tree; instead you must make certain you bury him that same day, for the one who is left exposed on a tree is cursed by God. You must not defile your land that the Lord your God is giving you as an inheritance.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Laws Concerning Preservation of Life
@@ -908,7 +908,7 @@
 [29] The man who has slept with her must pay her father fifty shekels of silver and she must become his wife. Because he has humiliated her, he may never divorce her as long as he lives.
 [30] (
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### Purity in Public Worship
@@ -951,7 +951,7 @@
 [24] When you enter the vineyard of your neighbor you may eat as many grapes as you please, but you must not take away any in a container.
 [25] When you go into the ripe grain fields of your neighbor you may pluck off the kernels with your hand, but you must not use a sickle on your neighbor’s ripe grain.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 [1] If a man marries a woman and she does not please him because he has found something indecent in her, then he may draw up a divorce document, give it to her, and evict her from his house.
 [2] When she has left him she may go and become someone else’s wife.
@@ -979,7 +979,7 @@
 [21] When you gather the grapes of your vineyard you must not do so a second time; they should go to the resident foreigner, orphan, and widow.
 [22] Remember that you were slaves in the land of Egypt; therefore, I am commanding you to do all this.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 [1] If controversy arises between people, they should go to court for judgment. When the judges hear the case, they shall exonerate the innocent but condemn the guilty.
 [2] Then, if the guilty person is sentenced to a beating, the judge shall force him to lie down and be beaten in his presence with the number of blows his wicked behavior deserves.
@@ -1007,7 +1007,7 @@
 [18] how they met you along the way and cut off all your stragglers in the rear of the march when you were exhausted and tired; they were unafraid of God.
 [19] So when the Lord your God gives you relief from all the enemies who surround you in the land he is giving you as an inheritance, you must wipe out the memory of the Amalekites from under heaven —do not forget!
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### Presentation of the Firstfruits
@@ -1038,7 +1038,7 @@
 [18] And today the Lord has declared you to be his special people (as he already promised you) so you may keep all his commandments.
 [19] Then he will elevate you above all the nations he has made and you will receive praise, fame, and honor. You will be a people holy to the Lord your God, as he has said.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### The Assembly at Shechem
@@ -1073,7 +1073,7 @@
 [25] ‘Cursed is the one who takes a bribe to kill an innocent person.’ Then all the people will say, ‘Amen!’
 [26] ‘Cursed is the one who refuses to keep the words of this law.’ Then all the people will say, ‘Amen!’
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### The Covenant Blessings
@@ -1165,7 +1165,7 @@
 [67] In the morning you will say, ‘If only it were evening!’ And in the evening you will say, ‘I wish it were morning!’ because of the things you will fear and the things you will see.
 [68] Then the Lord will make you return to Egypt by ship, over a route I said to you that you would never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 
 ### Narrative Interlude
@@ -1209,7 +1209,7 @@
 [28] So the Lord has uprooted them from their land in anger, wrath, and great rage and has deported them to another land, as is clear today.’
 [29] The secret things belong to the Lord our God, but those that are revealed belong to us and our descendants forever, so that we might obey all the words of this law.
 
-## Chapter 30 <!-- scripture:30 -->
+## Chapter 30
 
 
 ### The Results of Covenant Reaffirmation
@@ -1238,7 +1238,7 @@
 [19] Today I invoke heaven and earth as witnesses against you that I have set life and death, blessing and curse, before you. Therefore choose life so that you and your descendants may live!
 [20] I also call on you to love the Lord your God, to obey him and be loyal to him, for he gives you life and enables you to live continually in the land the Lord promised to give to your ancestors Abraham, Isaac, and Jacob.”
 
-## Chapter 31 <!-- scripture:31 -->
+## Chapter 31
 
 
 ### Succession of Moses by Joshua
@@ -1283,7 +1283,7 @@
 [29] For I know that after I die you will totally corrupt yourselves and turn away from the path I have commanded you to walk. Disaster will confront you in future days because you will act wickedly before the Lord, inciting him to anger because of your actions.”
 [30] Then Moses recited the words of this song from start to finish in the hearing of the whole assembly of Israel:
 
-## Chapter 32 <!-- scripture:32 -->
+## Chapter 32
 
 
 ### Invocation of Witnesses
@@ -1458,7 +1458,7 @@ and make atonement for his land and people.
 [51] for both of you rebelled against me among the Israelites at the waters of Meribah Kadesh in the wilderness of Zin when you did not show me proper respect among the Israelites.
 [52] You will see the land before you, but you will not enter the land that I am giving to the Israelites.”
 
-## Chapter 33 <!-- scripture:33 -->
+## Chapter 33
 
 
 ### Introduction to the Blessing of Moses
@@ -1608,7 +1608,7 @@ and your exalted sword.
 May your enemies cringe before you;
 may you trample on their backs.”
 
-## Chapter 34 <!-- scripture:34 -->
+## Chapter 34
 
 
 ### The Death of Moses

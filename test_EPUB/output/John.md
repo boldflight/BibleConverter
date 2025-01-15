@@ -1,6 +1,6 @@
 # John
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Prologue to the Gospel
@@ -66,7 +66,7 @@
 [50] Jesus said to him, “Because I told you that I saw you under the fig tree, do you believe? You will see greater things than these.”
 [51] He continued, “I tell all of you the solemn truth —you will see heaven opened and the angels of God ascending and descending on the Son of Man.”
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Turning Water into Wine
@@ -103,7 +103,7 @@
 [24] But Jesus would not entrust himself to them, because he knew all people.
 [25] He did not need anyone to testify about man, for he knew what was in man.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Conversation with Nicodemus
@@ -148,7 +148,7 @@
 [35] The Father loves the Son and has placed all things under his authority.
 [36] The one who believes in the Son has eternal life. The one who rejects the Son will not see life, but God’s wrath remains on him.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Departure From Judea
@@ -226,7 +226,7 @@
 [53] Then the father realized that it was the very time Jesus had said to him, “Your son will live,” and he himself believed along with his entire household.
 [54] Jesus did this as his second miraculous sign when he returned from Judea to Galilee.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Healing a Paralytic at the Pool of Bethesda
@@ -284,7 +284,7 @@
 [46] If you believed Moses, you would believe me, because he wrote about me.
 [47] But if you do not believe what Moses wrote, how will you believe my words?”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Feeding of the Five Thousand
@@ -373,7 +373,7 @@
 [70] Jesus replied, “Didn’t I choose you, the twelve, and yet one of you is the devil?”
 [71] (Now he said this about Judas son of Simon Iscariot, for Judas, one of the twelve, was going to betray him.)
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Feast of Shelters
@@ -446,7 +446,7 @@
 [51] “Our law doesn’t condemn a man unless it first hears from him and learns what he is doing, does it?”
 [52] They replied, “You aren’t from Galilee too, are you? Investigate carefully and you will see that no prophet comes from Galilee!”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### A Woman Caught in Adultery
@@ -521,7 +521,7 @@
 [58] Jesus said to them, “I tell you the solemn truth, before Abraham came into existence, I am!”
 [59] Then they picked up stones to throw at him, but Jesus was hidden from them and went out from the temple area.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Healing a Man Born Blind
@@ -574,7 +574,7 @@
 [40] Some of the Pharisees who were with him heard this and asked him, “We are not blind too, are we?”
 [41] Jesus replied, “If you were blind, you would not be guilty of sin, but now because you claim that you can see, your guilt remains.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Jesus as the Good Shepherd
@@ -625,7 +625,7 @@
 [41] Many came to him and began to say, “John performed no miraculous sign, but everything John said about this man was true!”
 [42] And many believed in Jesus there.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### The Death of Lazarus
@@ -697,7 +697,7 @@
 [56] Thus they were looking for Jesus, and saying to one another as they stood in the temple courts, “What do you think? That he won’t come to the feast?”
 [57] (Now the chief priests and the Pharisees had given orders that anyone who knew where Jesus was should report it, so that they could arrest him.)
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Jesus’ Anointing
@@ -763,7 +763,7 @@
 [49] For I have not spoken from my own authority, but the Father himself who sent me has commanded me what I should say and what I should speak.
 [50] And I know that his commandment is eternal life. Thus the things I say, I say just as the Father has told me.”
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Washing the Disciples’ Feet
@@ -813,7 +813,7 @@
 [37] Peter said to him, “Lord, why can’t I follow you now? I will lay down my life for you!”
 [38] Jesus answered, “Will you lay down your life for me? I tell you the solemn truth, the rooster will not crow until you have denied me three times!
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Jesus’ Parting Words to His Disciples
@@ -853,7 +853,7 @@
 [30] I will not speak with you much longer, for the ruler of this world is coming. He has no power over me,
 [31] but I am doing just what the Father commanded me, so that the world may know that I love the Father. Get up, let us go from here.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### The Vine and the Branches
@@ -889,7 +889,7 @@
 [26] When the Advocate comes, whom I will send you from the Father—the Spirit of truth who goes out from the Father—he will testify about me,
 [27] and you also will testify, because you have been with me from the beginning.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 [1] “I have told you all these things so that you will not fall away.
 [2] They will put you out of the synagogue, yet a time is coming when the one who kills you will think he is offering service to God.
@@ -925,7 +925,7 @@
 [32] Look, a time is coming—and has come—when you will be scattered, each one to his own home, and I will be left alone. Yet I am not alone, because my Father is with me.
 [33] I have told you these things so that in me you may have peace. In the world you have trouble and suffering, but take courage —I have conquered the world.”
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### Jesus Prays for the Father to Glorify Him
@@ -963,7 +963,7 @@
 [25] Righteous Father, even if the world does not know you, I know you, and these men know that you sent me.
 [26] I made known your name to them, and I will continue to make it known, so that the love you have loved me with may be in them, and I may be in them.”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Betrayal and Arrest
@@ -1027,7 +1027,7 @@
 [39] But it is your custom that I release one prisoner for you at the Passover. So do you want me to release for you the king of the Jews?”
 [40] Then they shouted back, “Not this man, but Barabbas!” (Now Barabbas was a revolutionary.)
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Pilate Tries to Release Jesus
@@ -1084,7 +1084,7 @@
 [41] Now at the place where Jesus was crucified there was a garden, and in the garden was a new tomb where no one had yet been buried.
 [42] And so, because it was the Jewish day of preparation and the tomb was nearby, they placed Jesus’ body there.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### The Resurrection
@@ -1130,7 +1130,7 @@
 [30] Now Jesus performed many other miraculous signs in the presence of the disciples, which are not recorded in this book.
 [31] But these are recorded so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### Jesus’ Appearance to the Disciples in Galilee

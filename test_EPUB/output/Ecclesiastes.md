@@ -1,6 +1,6 @@
 # Ecclesiastes
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Title
@@ -57,7 +57,7 @@ however, I concluded that even this endeavor is like trying to chase the wind.
 [18] For with great wisdom comes great frustration;
 whoever increases his knowledge merely increases his heartache.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Futility of Self-Indulgent Pleasure
@@ -157,7 +157,7 @@ but to the sinner, he gives the task of amassing wealth —
 only to give it to the one who pleases God.
 This task of the wicked is futile—like chasing the wind!
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### A Time for All Events in Life
@@ -228,7 +228,7 @@ and the animal’s spirit descends into the earth?”
 because that is their reward;
 for who can show them what the future holds?
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Evil Oppression on Earth
@@ -286,7 +286,7 @@ as well as the successor who would arise in his place.
 yet future generations will not rejoice in him.
 This also is profitless and like chasing the wind.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Rash Vows
@@ -359,7 +359,7 @@ these things are the gift of God.
 [20] For he does not think much about the fleeting days of his life
 because God keeps him preoccupied with the joy he derives from his activity.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Not Everyone Enjoys Life
@@ -402,7 +402,7 @@ during the few days of his fleeting life—
 for they pass away like a shadow.
 Nor can anyone tell him what the future will hold for him on earth.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Life is Brief and Death is Certain
@@ -503,7 +503,7 @@ but I have not found one upright woman among all of them.
 [29] This alone have I discovered: God made humankind upright,
 but they have sought many evil schemes.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Human Government Demonstrates Limitations of Wisdom
@@ -565,7 +565,7 @@ Despite all human efforts to discover it, no one can ever grasp it.
 Even if a wise person claimed that he understood,
 he would not really comprehend it.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Everyone Will Die
@@ -642,7 +642,7 @@ more than the shouting of a ruler is heard among fools.
 [18] Wisdom is better than weapons of war,
 but one sinner can destroy much that is good.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 [1] One dead fly makes the perfumer’s ointment give off a rancid stench,
 so a little folly can outweigh much wisdom.
@@ -702,7 +702,7 @@ and do not curse the rich while in your bedroom;
 for a bird might report what you are thinking,
 or some winged creature might repeat your words.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Ignorance of the Future Demands Diligence in the Present
@@ -740,7 +740,7 @@ but know that God will judge your motives and actions.
 and put away pain from your body;
 for youth and the prime of life are fleeting.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Fear God Now Because Old Age and Death Come Quickly

@@ -1,6 +1,6 @@
 # Matthew
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Genealogy of Jesus Christ
@@ -34,7 +34,7 @@
 [24] When Joseph awoke from sleep he did what the angel of the Lord told him. He took his wife,
 [25] but did not have marital relations with her until she gave birth to a son, whom he named Jesus.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Visit of the Wise Men
@@ -67,7 +67,7 @@
 [22] But when he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there. After being warned in a dream, he went to the regions of Galilee.
 [23] He came to a town called Nazareth and lived there. Then what had been spoken by the prophets was fulfilled, that Jesus would be called a Nazarene.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Ministry of John the Baptist
@@ -93,7 +93,7 @@
 [16] After Jesus was baptized, just as he was coming up out of the water, the heavens opened and he saw the Spirit of God descending like a dove and coming to rest on him.
 [17] And a voice from heaven said, “This is my one dear Son; in him I take great delight.”
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Temptation of Jesus
@@ -131,7 +131,7 @@
 [24] So a report about him spread throughout Syria. People brought to him all who suffered with various illnesses and afflictions, those who had seizures, paralytics, and those possessed by demons, and he healed them.
 [25] And large crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and beyond the Jordan River.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### The Beatitudes
@@ -208,7 +208,7 @@
 [47] And if you only greet your brothers, what more do you do? Even the Gentiles do the same, don’t they?
 [48] So then, be perfect, as your heavenly Father is perfect.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Pure-hearted Giving
@@ -262,7 +262,7 @@ may your will be done on earth as it is in heaven.
 [33] But above all pursue his kingdom and righteousness, and all these things will be given to you as well.
 [34] So then, do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Do Not Judge
@@ -312,7 +312,7 @@ may your will be done on earth as it is in heaven.
 [28] When Jesus finished saying these things, the crowds were amazed by his teaching,
 [29] because he taught them like one who had authority, not like their experts in the law.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Cleansing a Leper
@@ -367,7 +367,7 @@ may your will be done on earth as it is in heaven.
 [33] The herdsmen ran off, went into the town, and told everything that had happened to the demon-possessed men.
 [34] Then the entire town came out to meet Jesus. And when they saw him, they begged him to leave their region.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Healing and Forgiving a Paralytic
@@ -426,7 +426,7 @@ may your will be done on earth as it is in heaven.
 [37] Then he said to his disciples, “The harvest is plentiful, but the workers are few.
 [38] Therefore ask the Lord of the harvest to send out workers into his harvest-ready fields.”
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Sending Out the Twelve Apostles
@@ -486,7 +486,7 @@ may your will be done on earth as it is in heaven.
 [41] Whoever receives a prophet in the name of a prophet will receive a prophet’s reward. Whoever receives a righteous person in the name of a righteous person will receive a righteous person’s reward.
 [42] And whoever gives only a cup of cold water to one of these little ones in the name of a disciple, I tell you the truth, he will never lose his reward.”
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 [1] When Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in their towns.
 
@@ -527,7 +527,7 @@ we wailed in mourning, yet you did not weep.’
 [29] Take my yoke on you and learn from me, because I am gentle and humble in heart, and you will find rest for your souls.
 [30] For my yoke is easy to bear, and my load is not hard to carry.”
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Lord of the Sabbath
@@ -597,7 +597,7 @@ we wailed in mourning, yet you did not weep.’
 [49] And pointing toward his disciples he said, “Here are my mother and my brothers!
 [50] For whoever does the will of my Father in heaven is my brother and sister and mother.”
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### The Parable of the Sower
@@ -681,7 +681,7 @@ we wailed in mourning, yet you did not weep.’
 [57] And so they took offense at him. But Jesus said to them, “A prophet is not without honor except in his hometown and in his own house.”
 [58] And he did not do many miracles there because of their unbelief.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### The Death of John the Baptist
@@ -729,7 +729,7 @@ we wailed in mourning, yet you did not weep.’
 [35] When the people there recognized him, they sent word into all the surrounding area, and they brought all their sick to him.
 [36] They begged him if they could only touch the edge of his cloak, and all who touched it were healed.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Breaking Human Traditions
@@ -784,7 +784,7 @@ we wailed in mourning, yet you did not weep.’
 [38] Not counting children and women, there were 4,000 men who ate.
 [39] After sending away the crowd, he got into the boat and went to the region of Magadan.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### The Demand for a Sign
@@ -827,7 +827,7 @@ we wailed in mourning, yet you did not weep.’
 [27] For the Son of Man will come with his angels in the glory of his Father, and then he will reward each person according to what he has done.
 [28] I tell you the truth, there are some standing here who will not experience death before they see the Son of Man coming in his kingdom.”
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### The Transfiguration
@@ -868,7 +868,7 @@ we wailed in mourning, yet you did not weep.’
 [26] After he said, “From foreigners,” Jesus said to him, “Then the sons are free.
 [27] But so that we don’t offend them, go to the lake and throw out a hook. Take the first fish that comes up, and when you open its mouth, you will find a four drachma coin. Take that and give it to them for me and you.”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Questions About the Greatest
@@ -917,7 +917,7 @@ we wailed in mourning, yet you did not weep.’
 [34] And in anger his lord turned him over to the prison guards to torture him until he repaid all he owed.
 [35] So also my heavenly Father will do to you, if each of you does not forgive your brother from your heart.”
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Questions About Divorce
@@ -959,7 +959,7 @@ we wailed in mourning, yet you did not weep.’
 [29] And whoever has left houses or brothers or sisters or father or mother or children or fields for my sake will receive a hundred times as much and will inherit eternal life.
 [30] But many who are first will be last, and the last first.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Workers in the Vineyard
@@ -1008,7 +1008,7 @@ we wailed in mourning, yet you did not weep.’
 [33] They said to him, “Lord, let our eyes be opened.”
 [34] Moved with compassion, Jesus touched their eyes. Immediately they received their sight and followed him.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### The Triumphal Entry
@@ -1074,7 +1074,7 @@ we wailed in mourning, yet you did not weep.’
 [45] When the chief priests and the Pharisees heard his parables, they realized that he was speaking about them.
 [46] They wanted to arrest him, but they were afraid of the crowds, because the crowds regarded him as a prophet.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### The Parable of the Wedding Banquet
@@ -1135,7 +1135,7 @@ we wailed in mourning, yet you did not weep.’
 [42] “What do you think about the Christ? Whose son is he?” They said, “The son of David.”
 [43] He said to them, “How then does David by the Spirit call him ‘Lord,’ saying,
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### Seven Woes
@@ -1182,7 +1182,7 @@ we wailed in mourning, yet you did not weep.’
 [38] Look, your house is left to you desolate!
 [39] For I tell you, you will not see me from now until you say, ‘Blessed is the one who comes in the name of the Lord!’”
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### The Destruction of the Temple
@@ -1260,7 +1260,7 @@ we wailed in mourning, yet you did not weep.’
 [50] then the master of that slave will come on a day when he does not expect him and at an hour he does not foresee,
 [51] and will cut him in two, and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### The Parable of the Ten Virgins
@@ -1318,7 +1318,7 @@ we wailed in mourning, yet you did not weep.’
 [45] Then he will answer them, ‘I tell you the truth, just as you did not do it for one of the least of these, you did not do it for me.’
 [46] And these will depart into eternal punishment, but the righteous into eternal life.”
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### The Plot Against Jesus
@@ -1422,7 +1422,7 @@ we wailed in mourning, yet you did not weep.’
 [74] At that he began to curse, and he swore with an oath, “I do not know the man!” At that moment a rooster crowed.
 [75] Then Peter remembered what Jesus had said: “Before the rooster crows, you will deny me three times.” And he went outside and wept bitterly.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### Jesus Brought Before Pilate
@@ -1515,7 +1515,7 @@ we wailed in mourning, yet you did not weep.’
 [65] Pilate said to them, “Take a guard of soldiers. Go and make it as secure as you can.”
 [66] So they went with the soldiers of the guard and made the tomb secure by sealing the stone.
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### The Resurrection

@@ -1,6 +1,6 @@
 # Habakkuk
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Habakkuk Complains to the Lord
@@ -69,7 +69,7 @@ and more than enough to eat.
 [17] Will he then continue to fill and empty his throw net?
 Will he always destroy nations and spare none?
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 I will remain stationed on the city wall.
 I will keep watching so I can see what he says to me
@@ -144,7 +144,7 @@ it has no life’s breath inside it.
 [20] But the Lord is in his majestic palace.
 The whole earth is speechless in his presence!”
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Habakkuk’s Vision of the Divine Warrior

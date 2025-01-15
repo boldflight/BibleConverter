@@ -1,6 +1,6 @@
 # Philemon
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation

@@ -1,6 +1,6 @@
 # Proverbs
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Introduction to the Book
@@ -85,7 +85,7 @@ and the careless ease of fools will destroy them.
 [33] But the one who listens to me will live in security,
 and will be at ease from the dread of harm.”
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Benefits of Seeking Wisdom
@@ -135,7 +135,7 @@ and those with integrity will remain in it,
 [22] but the wicked will be removed from the land,
 and the treacherous will be torn away from it.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Exhortations to Seek Wisdom and Walk with the Lord
@@ -218,7 +218,7 @@ yet he shows favor to the humble.
 [35] The wise inherit honor,
 but he holds fools up to public contempt.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Admonition to Follow Righteousness and Avoid Wickedness
@@ -279,7 +279,7 @@ so that all your ways may be established.
 [27] Do not turn to the right or to the left;
 turn yourself away from evil.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Admonition to Avoid Seduction to Evil
@@ -332,7 +332,7 @@ and he will be held by the cords of his own sin.
 [23] He will die because there was no discipline;
 because of the greatness of his folly he will reel.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Admonitions and Warnings against Dangerous and Destructive Acts
@@ -413,7 +413,7 @@ and he will not show mercy when he takes revenge.
 [35] He will not consider any compensation;
 he will not be willing, even if you multiply the compensation.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Admonition to Avoid the Wiles of the Adulteress
@@ -476,7 +476,7 @@ and all those she has slain are many.
 [27] Her house is the way to the grave,
 going down to the chambers of death.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### The Appeal of Wisdom
@@ -557,7 +557,7 @@ and received favor from the Lord.
 [36] But the one who misses me brings harm to himself;
 all who hate me love death.”
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### The Consequences of Accepting Wisdom or Folly
@@ -599,7 +599,7 @@ and food obtained in secret is pleasant!”
 [18] But they do not realize that the dead are there,
 that her guests are in the depths of the grave.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### The First Collection of Solomonic Proverbs
@@ -669,7 +669,7 @@ but the one who speaks perversion will be destroyed.
 [32] The lips of the righteous know what is pleasing,
 but the speech of the wicked is perverse.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 [1] The Lord abhors dishonest scales,
 but an accurate weight is his delight.
@@ -734,7 +734,7 @@ and the one who wins souls is wise.
 [31] If the righteous are recompensed on earth,
 how much more the wicked sinner!
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 [1] The one who loves discipline loves knowledge,
 but the one who hates reproof is stupid.
@@ -793,7 +793,7 @@ but personal possessions are precious to the diligent.
 [28] In the path of righteousness there is life,
 but another path leads to death.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 [1] A wise son accepts his father’s discipline,
 but a scoffer has never listened to rebuke.
@@ -846,7 +846,7 @@ but the one who loves his child is diligent in disciplining him.
 [25] The righteous has enough food to satisfy his appetite,
 but the belly of the wicked will be empty.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 [1] Every wise woman has built her household,
 but a foolish woman tears it down with her own hands.
@@ -919,7 +919,7 @@ but sin is a disgrace to any people.
 [35] The king shows favor to a wise servant,
 but his wrath falls on one who acts shamefully.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 [1] A gentle response turns away anger,
 but a harsh word stirs up wrath.
@@ -988,7 +988,7 @@ but whoever listens to reproof acquires understanding.
 [33] The fear of the Lord provides wise instruction,
 and before honor comes humility.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 [1] The intentions of the heart belong to a man,
 but the answer of the tongue comes from the Lord.
@@ -1057,7 +1057,7 @@ and one who controls his temper is better than one who captures a city.
 [33] The dice are thrown into the lap,
 but their every decision is from the Lord.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 [1] Better is a dry crust of bread where there is quietness
 than a house full of feasting with strife.
@@ -1117,7 +1117,7 @@ and the one who stays calm is discerning.
 [28] Even a fool who remains silent is considered wise,
 and the one who holds his tongue is deemed discerning.
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 [1] One who has isolated himself seeks his own desires;
 he rejects all sound judgment.
@@ -1168,7 +1168,7 @@ but a rich man answers harshly.
 [24] There are companions who harm one another,
 but there is a friend who sticks closer than a brother.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 [1] Better is a poor person who walks in his integrity
 than one who is perverse in his speech and is a fool.
@@ -1230,7 +1230,7 @@ and the mouth of the wicked devours iniquity.
 [29] Penalties have been prepared for scorners,
 and floggings for the backs of fools.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 [1] Wine is a mocker and strong drink is a brawler;
 whoever goes astray by them is not wise.
@@ -1293,7 +1293,7 @@ and the splendor of old men is gray hair.
 [30] Beatings and wounds cleanse away evil,
 and floggings cleanse the innermost being.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 [1] The king’s heart is in the hand of the Lord like channels of water;
 he turns it wherever he wants.
@@ -1358,7 +1358,7 @@ and there is no counsel against the Lord.
 [31] A horse is prepared for the day of battle,
 but the victory is from the Lord.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 [1] A good name is to be chosen rather than great wealth,
 good favor more than silver or gold.
@@ -1423,7 +1423,7 @@ that was put in place by your ancestors.
 he will take his position before kings;
 he will not take his position before obscure people.
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 [1] When you sit down to eat with a ruler,
 consider carefully what is before you,
@@ -1501,7 +1501,7 @@ and like one who lies down on the top of the rigging.
 They beat me, but I did not know it!
 When will I awake? I will look for another drink.”
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 [1] Do not envy evil people,
 do not desire to be with them;
@@ -1579,7 +1579,7 @@ a little folding of the hands to relax,
 [34] and your poverty will come like a bandit,
 and your need like an armed robber.”
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### Proverbs of Solomon Collected by Hezekiah
@@ -1643,7 +1643,7 @@ nor is it honorable for people to seek their own glory.
 [28] Like a city that is broken down and without a wall,
 so is a person who cannot control his temper.
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 [1] Like snow in summer or rain in harvest,
 so honor is not fitting for a fool.
@@ -1702,7 +1702,7 @@ the one who rolls a stone—it will come back on him.
 [28] A lying tongue hates those crushed by it,
 and a flattering mouth works ruin.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 [1] Do not boast about tomorrow;
 for you do not know what a day may bring forth.
@@ -1762,7 +1762,7 @@ and the goats will be for the price of a field.
 for the food of your household,
 and for the sustenance of your servant girls.
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 [1] The wicked person fled, though no one was pursuing,
 but the righteous person can be as confident as a lion.
@@ -1822,7 +1822,7 @@ but whoever shuts his eyes to them will receive many curses.
 [28] When the wicked gain control, people hide themselves,
 but when they perish, the righteous increase.
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 [1] The one who stiffens his neck after numerous rebukes
 will suddenly be destroyed without remedy.
@@ -1879,7 +1879,7 @@ but it is from the Lord that one receives justice.
 [27] An unjust person is an abomination to the righteous,
 and the one who lives an upright life is an abomination to the wicked.
 
-## Chapter 30 <!-- scripture:30 -->
+## Chapter 30
 
 
 ### The Words of Agur
@@ -1969,7 +1969,7 @@ put your hand over your mouth!
 and as punching the nose produces blood,
 so stirring up anger produces strife.
 
-## Chapter 31 <!-- scripture:31 -->
+## Chapter 31
 
 
 ### The Words of Lemuel

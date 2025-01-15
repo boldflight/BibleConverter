@@ -1,6 +1,6 @@
 # Isaiah
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Heading
@@ -132,7 +132,7 @@ their deeds like a spark;
 both will burn together,
 and no one will put out the fire.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Future Glory of Jerusalem
@@ -219,7 +219,7 @@ when he rises up to terrify the earth.
 whose life’s breath is in their nostrils.
 For why should they be given special consideration?
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### A Coming Leadership Crisis
@@ -303,7 +303,7 @@ your strong men will die in battle.
 [26] Her gates will mourn and lament;
 deprived of her people, she will sit on the ground.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 [1] Seven women will grab hold of
 one man at that time.
@@ -334,7 +334,7 @@ indeed a canopy will accompany the Lord’s glorious presence.
 [6] By day it will be a shelter to provide shade from the heat,
 as well as safety and protection from the heavy downpour.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### A Love Song Gone Sour
@@ -450,7 +450,7 @@ it will sound like sea waves crashing against rocks.
 One will look out over the land and see the darkness of disaster,
 clouds will turn the light into darkness.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Isaiah’s Commission
@@ -482,7 +482,7 @@ like one of the large sacred trees or an Asherah pole,
 when a sacred pillar on a high place is thrown down.
 That sacred pillar symbolizes the special chosen family.”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Ahaz Receives a Sign
@@ -520,7 +520,7 @@ then you will not remain secure.’”
 [24] With bow and arrow people will hunt there, for the whole land will be covered with thorns and briers.
 [25] They will stay away from all the hills that were cultivated for fear of the thorns and briers. Cattle will graze there, and sheep will trample on them.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### A Child is Born for a Sign
@@ -565,7 +565,7 @@ seal the official record of God’s instructions and give it to my followers.
 who has rejected the family of Jacob;
 I will wait for him.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Darkness Turns to Light as an Ideal King Arrives
@@ -663,7 +663,7 @@ together they fought against Judah.
 Despite all this, his anger does not subside,
 and his hand is ready to strike again.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 [1] Beware, those who enact unjust policies;
 those who are always instituting unfair regulations,
@@ -762,7 +762,7 @@ the loftiest ones will be brought low.
 [34] The thickets of the forest will be chopped down with an ax,
 and mighty Lebanon will fall.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### An Ideal King Establishes a Kingdom of Peace
@@ -823,7 +823,7 @@ for the remnant of his people,
 just as there was for Israel,
 when they went up from the land of Egypt.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 [1] At that time you will say:
 “I praise you, O Lord,
@@ -845,7 +845,7 @@ let this be known throughout the earth.
 [6] Cry out and shout for joy, O citizens of Zion,
 for the Holy One of Israel acts mightily among you!”
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### The Lord Will Judge Babylon
@@ -927,7 +927,7 @@ jackals will yelp in the once-splendid palaces.
 Her time is almost up,
 her days will not be prolonged.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 [1] The Lord will certainly have compassion on Jacob; he will again choose Israel as his special people and restore them to their land. Resident foreigners will join them and unite with the family of Jacob.
 [2] Nations will take them and bring them back to their own place. Then the family of Israel will make foreigners their servants as they settle in the Lord’s land. They will make their captors captives and rule over the ones who oppressed them.
@@ -1038,7 +1038,7 @@ and there are no stragglers in its ranks.
 Indeed, the Lord has made Zion secure;
 the oppressed among his people will find safety in her.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### The Lord Will Judge Moab
@@ -1078,7 +1078,7 @@ Indeed, I will heap even more trouble on Dimon.
 A lion will attack the Moabite fugitives
 and the people left in the land.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 [1] Send rams as tribute to the ruler of the land,
 from Sela in the wilderness
@@ -1128,7 +1128,7 @@ and enter their temples to pray, their prayers will be ineffective.
 [13] This is the message the Lord previously announced about Moab.
 [14] Now the Lord makes this announcement: “Within exactly three years Moab’s splendor will disappear, along with all her many people; there will be only a few insignificant survivors left.”
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### The Lord Will Judge Damascus
@@ -1186,7 +1186,7 @@ by morning they vanish.
 This is the fate of those who try to plunder us,
 the destiny of those who try to loot us!
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### The Lord Will Judge a Distant Land in the South
@@ -1224,7 +1224,7 @@ a nation strong and victorious,
 whose land rivers divide.
 The tribute will be brought to the place where the Lord of Heaven’s Armies has chosen to reside, on Mount Zion.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### The Lord Will Judge Egypt
@@ -1287,7 +1287,7 @@ head or tail, shoots or stalk.
 [24] At that time Israel will be the third member of the group, along with Egypt and Assyria, and will be a recipient of blessing in the earth.
 [25] The Lord of Heaven’s Armies will pronounce a blessing over the earth, saying, “Blessed be my people, Egypt, and the work of my hands, Assyria, and my special possession, Israel!”
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 [1] The Lord revealed the following message during the year in which King Sargon of Assyria sent his commanding general to Ashdod, and he fought against it and captured it.
 [2] At that time the Lord announced through Isaiah son of Amoz: “Go, remove the sackcloth from your waist and take your sandals off your feet.” He did as instructed and walked around in undergarments and barefoot.
@@ -1296,7 +1296,7 @@ head or tail, shoots or stalk.
 [5] Those who put their hope in Cush and took pride in Egypt will be afraid and embarrassed.
 [6] At that time those who live on this coast will say, ‘Look what has happened to our source of hope to whom we fled for help, expecting to be rescued from the king of Assyria! How can we escape now?’”
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### The Lord Will Judge Babylon
@@ -1377,7 +1377,7 @@ and from the severity of the battle.
 [16] For this is what the Lord has told me: “Within exactly one year all the splendor of Kedar will come to an end.
 [17] Just a handful of archers, the warriors of Kedar, will be left.” Indeed, the Lord God of Israel has spoken.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### The Lord Will Judge Jerusalem
@@ -1448,7 +1448,7 @@ you will be thrown down from your position.
 [24] His father’s family will gain increasing prominence because of him, including the offspring and the offshoots. All the small containers, including the bowls and all the jars, will hang from this peg.’
 [25] “At that time,” says the Lord of Heaven’s Armies, “the peg fastened into a solid place will come loose. It will be cut off and fall, and the load hanging on it will be cut off.” Indeed, the Lord has spoken.
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### The Lord Will Judge Tyre
@@ -1511,7 +1511,7 @@ so you’ll be noticed.”
 [17] At the end of seventy years the Lord will revive Tyre. She will start making money again by selling her services to all the earth’s kingdoms.
 [18] Her profits and earnings will be set apart for the Lord. They will not be stored up or accumulated, for her profits will be given to those who live in the Lord’s presence and will be used to purchase large quantities of food and beautiful clothes.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### The Lord Will Judge the Earth
@@ -1597,7 +1597,7 @@ for the Lord of Heaven’s Armies will rule
 on Mount Zion in Jerusalem
 in the presence of his assembly, in majestic splendor.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 [1] O Lord, you are my God!
 I will exalt you in praise, I will extol your fame.
@@ -1642,7 +1642,7 @@ the Lord will bring down Moab’s pride as it spreads its hands.
 [12] The fortified city (along with the very tops of your walls) he will knock down,
 he will bring it down, he will throw it down to the dusty ground.
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### Judah Will Celebrate
@@ -1718,7 +1718,7 @@ to punish the sin of those who live on the earth.
 The earth will display the blood shed on it;
 it will no longer cover up its slain.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 [1] At that time the Lord will punish
 with his destructive, great, and powerful sword
@@ -1763,7 +1763,7 @@ the one who formed them has no mercy on them.
 [12] At that time the Lord will shake the tree, from the Euphrates River to the Stream of Egypt. Then you will be gathered up one by one, O Israelites.
 [13] At that time a large trumpet will be blown, and the ones lost in the land of Assyria will come, as well as the refugees in the land of Egypt. They will worship the Lord on the holy mountain in Jerusalem.
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### The Lord Will Judge Ephraim
@@ -1881,7 +1881,7 @@ but his horses do not crush it.
 [29] This also comes from the Lord of Heaven’s Armies,
 who gives supernatural guidance and imparts great wisdom.
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 
 ### Ariel is Besieged
@@ -1973,7 +1973,7 @@ they will respect the God of Israel.
 [24] Those who stray morally will gain understanding;
 those who complain will acquire insight.
 
-## Chapter 30 <!-- scripture:30 -->
+## Chapter 30
 
 
 ### Egypt Will Prove Unreliable
@@ -2107,7 +2107,7 @@ The firewood is piled high on it.
 The Lord’s breath, like a stream flowing with brimstone,
 will ignite it.
 
-## Chapter 31 <!-- scripture:31 -->
+## Chapter 31
 
 
 ### Egypt Will Disappoint
@@ -2155,7 +2155,7 @@ This is what the Lord says—
 the one whose fire is in Zion,
 whose firepot is in Jerusalem.
 
-## Chapter 32 <!-- scripture:32 -->
+## Chapter 32
 
 
 ### Justice and Wisdom Will Prevail
@@ -2228,7 +2228,7 @@ and the city is annihilated,
 you who plant seed by all the banks of the streams,
 you who let your ox and donkey graze.
 
-## Chapter 33 <!-- scripture:33 -->
+## Chapter 33
 
 
 ### The Lord Will Restore Zion
@@ -2318,7 +2318,7 @@ even the lame will drag off plunder.
 [24] No resident of Zion will say, “I am ill”;
 the people who live there will have their sin forgiven.
 
-## Chapter 34 <!-- scripture:34 -->
+## Chapter 34
 
 
 ### The Lord Will Judge Edom
@@ -2389,7 +2389,7 @@ he measures out their assigned place.
 They will live there permanently;
 they will settle in it through successive generations.
 
-## Chapter 35 <!-- scripture:35 -->
+## Chapter 35
 
 
 ### The Land and Its People Are Transformed
@@ -2433,7 +2433,7 @@ Unending joy will crown them,
 happiness and joy will overwhelm them;
 grief and suffering will disappear.
 
-## Chapter 36 <!-- scripture:36 -->
+## Chapter 36
 
 
 ### Sennacherib Invades Judah
@@ -2461,7 +2461,7 @@ grief and suffering will disappear.
 [21] They were silent and did not respond, for the king had ordered, “Don’t respond to him.”
 [22] Eliakim son of Hilkiah, the palace supervisor, accompanied by Shebna the scribe and Joah son of Asaph, the secretary, went to Hezekiah with their clothes torn and reported to him what the chief adviser had said.
 
-## Chapter 37 <!-- scripture:37 -->
+## Chapter 37
 
 [1] When King Hezekiah heard this, he tore his clothes, put on sackcloth, and went to the Lord’s temple.
 [2] Eliakim the palace supervisor, Shebna the scribe, and the leading priests, clothed in sackcloth, sent this message to the prophet Isaiah son of Amoz:
@@ -2542,7 +2542,7 @@ for the sake of my reputation and because of my promise to David my servant.”
 [37] So King Sennacherib of Assyria broke camp and went on his way. He went home and stayed in Nineveh.
 [38] One day, as he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer struck him down with the sword. They ran away to the land of Ararat; his son Esarhaddon replaced him as king.
 
-## Chapter 38 <!-- scripture:38 -->
+## Chapter 38
 
 
 ### The Lord Hears Hezekiah’s Prayer
@@ -2595,7 +2595,7 @@ A father tells his sons about your faithfulness.
 and we will celebrate with music
 for the rest of our lives in the Lord’s temple.”
 
-## Chapter 39 <!-- scripture:39 -->
+## Chapter 39
 
 
 ### Messengers from Babylon Visit Hezekiah
@@ -2609,7 +2609,7 @@ for the rest of our lives in the Lord’s temple.”
 [7] ‘Some of your very own descendants whom you father will be taken away and will be made eunuchs in the palace of the king of Babylon.’”
 [8] Hezekiah said to Isaiah, “The Lord’s message that you have announced is appropriate.” Then he thought, “For there will be peace and stability during my lifetime.”
 
-## Chapter 40 <!-- scripture:40 -->
+## Chapter 40
 
 
 ### The Lord Returns to Jerusalem
@@ -2725,7 +2725,7 @@ they rise up as if they had eagles’ wings,
 they run without growing weary,
 they walk without getting tired.
 
-## Chapter 41 <!-- scripture:41 -->
+## Chapter 41
 
 
 ### The Lord Challenges the Nations
@@ -2836,7 +2836,7 @@ that I might ask questions and receive answers.
 their accomplishments are nonexistent;
 their metal images lack any real substance.
 
-## Chapter 42 <!-- scripture:42 -->
+## Chapter 42
 
 
 ### The Lord Commissions His Special Servant
@@ -2934,7 +2934,7 @@ along with the devastation of war.
 Its flames encircled them, but they did not realize it;
 it burned against them, but they did not take it to heart.
 
-## Chapter 43 <!-- scripture:43 -->
+## Chapter 43
 
 
 ### The Lord Will Rescue His People
@@ -3044,7 +3044,7 @@ your spokesmen rebelled against me.
 and handed Jacob over to destruction,
 and subjected Israel to humiliating abuse.
 
-## Chapter 44 <!-- scripture:44 -->
+## Chapter 44
 
 
 ### The Lord Will Renew Israel
@@ -3172,7 +3172,7 @@ to carry out all my wishes
 and to decree concerning Jerusalem, ‘She will be rebuilt,’
 and concerning the temple, ‘It will be reconstructed.’
 
-## Chapter 45 <!-- scripture:45 -->
+## Chapter 45
 
 to Cyrus, whose right hand I hold
 in order to subdue nations before him,
@@ -3292,7 +3292,7 @@ All who are angry at him will cower before him.
 [25] All the descendants of Israel will be vindicated by the Lord
 and will boast in him.
 
-## Chapter 46 <!-- scripture:46 -->
+## Chapter 46
 
 
 ### The Lord Carries His People
@@ -3345,7 +3345,7 @@ I am bringing my salvation near, it does not wait.
 I will save Zion;
 I will adorn Israel with my splendor.
 
-## Chapter 47 <!-- scripture:47 -->
+## Chapter 47
 
 
 ### Babylon Will Fall
@@ -3424,7 +3424,7 @@ those you have so faithfully dealt with since your youth.
 Each strays off in his own direction,
 leaving no one to rescue you.”
 
-## Chapter 48 <!-- scripture:48 -->
+## Chapter 48
 
 
 ### The Lord Appeals to the Exiles
@@ -3512,7 +3512,7 @@ he makes water flow out of a rock for them;
 he splits open a rock and water flows out.’
 [22] There will be no prosperity for the wicked,” says the Lord.
 
-## Chapter 49 <!-- scripture:49 -->
+## Chapter 49
 
 
 ### Delivery of the Exiles
@@ -3631,7 +3631,7 @@ Then all humankind will recognize that
 I am the Lord, your Deliverer,
 your Protector, the Powerful One of Jacob.”
 
-## Chapter 50 <!-- scripture:50 -->
+## Chapter 50
 
 [1] This is what the Lord says:
 “Where is your mother’s divorce certificate
@@ -3687,7 +3687,7 @@ and among the flaming arrows you ignited!
 This is what you will receive from me:
 you will lie down in a place of pain.
 
-## Chapter 51 <!-- scripture:51 -->
+## Chapter 51
 
 
 ### There is Hope for the Future
@@ -3799,7 +3799,7 @@ who said to you, ‘Lie down, so we can walk over you.’
 You made your back like the ground,
 and like the street for those who walked over you.”
 
-## Chapter 52 <!-- scripture:52 -->
+## Chapter 52
 
 [1] Wake up! Wake up!
 Clothe yourself with strength, O Zion!
@@ -3861,7 +3861,7 @@ Kings will be shocked by his exaltation,
 for they will witness something unannounced to them,
 and they will understand something they had not heard about.
 
-## Chapter 53 <!-- scripture:53 -->
+## Chapter 53
 
 [1] Who would have believed what we just heard?
 When was the Lord’s power revealed through him?
@@ -3912,7 +3912,7 @@ and was numbered with the rebels,
 when he lifted up the sin of many
 and intervened on behalf of the rebels.”
 
-## Chapter 54 <!-- scripture:54 -->
+## Chapter 54
 
 
 ### Zion Will Be Secure
@@ -3978,7 +3978,7 @@ This is what the Lord will do for his servants—
 I will vindicate them,”
 says the Lord.
 
-## Chapter 55 <!-- scripture:55 -->
+## Chapter 55
 
 
 ### The Lord Gives an Invitation
@@ -4032,7 +4032,7 @@ firs will grow in place of nettles;
 they will be a monument to the Lord,
 a permanent reminder that will remain.
 
-## Chapter 56 <!-- scripture:56 -->
+## Chapter 56
 
 
 ### The Lord Invites Outsiders to Enter
@@ -4089,7 +4089,7 @@ Let’s guzzle some beer!
 Tomorrow will be just like today!
 We’ll have everything we want!’
 
-## Chapter 57 <!-- scripture:57 -->
+## Chapter 57
 
 [1] The godly perish,
 but no one cares.
@@ -4167,7 +4167,7 @@ that is unable to be quiet;
 its waves toss up mud and sand.
 [21] There will be no prosperity,” says my God, “for the wicked.”
 
-## Chapter 58 <!-- scripture:58 -->
+## Chapter 58
 
 
 ### The Lord Desires Genuine Devotion
@@ -4237,7 +4237,7 @@ and I will give you great prosperity,
 and cause crops to grow on the land I gave to your ancestor Jacob.”
 Know for certain that the Lord has spoken.
 
-## Chapter 59 <!-- scripture:59 -->
+## Chapter 59
 
 
 ### Injustice Brings Alienation from God
@@ -4325,7 +4325,7 @@ driven on by wind sent from the Lord.
 to those in Jacob who repent of their rebellious deeds,” says the Lord.
 [21] “As for me, this is my promise to them,” says the Lord. “My Spirit, who is upon you, and my words, which I have placed in your mouth, will not depart from your mouth or from the mouths of your children and descendants from this time forward,” says the Lord.
 
-## Chapter 60 <!-- scripture:60 -->
+## Chapter 60
 
 
 ### Zion’s Future Splendor
@@ -4416,7 +4416,7 @@ through whom I reveal my splendor.
 the smallest of you will become a large nation.
 When the right time comes, I the Lord will quickly do this!”
 
-## Chapter 61 <!-- scripture:61 -->
+## Chapter 61
 
 
 ### The Lord Will Rejuvenate His People
@@ -4469,7 +4469,7 @@ and a garden yields its produce,
 so the Sovereign Lord will cause deliverance to grow,
 and give his people reason to praise him in the sight of all the nations.
 
-## Chapter 62 <!-- scripture:62 -->
+## Chapter 62
 
 
 ### The Lord Takes Delight in Zion
@@ -4524,7 +4524,7 @@ the Ones Protected by the Lord.”
 You will be called, “Sought After,
 City Not Abandoned.”
 
-## Chapter 63 <!-- scripture:63 -->
+## Chapter 63
 
 
 ### The Victorious Divine Warrior
@@ -4602,7 +4602,7 @@ but then our adversaries knocked down your holy sanctuary.
 but you did not rule over them;
 they were not your subjects.
 
-## Chapter 64 <!-- scripture:64 -->
+## Chapter 64
 
 [1] (63:19b) If only you would tear apart the sky and come down!
 The mountains would tremble before you!
@@ -4643,7 +4643,7 @@ all our prized possessions have been destroyed.
 [12] In light of all this, how can you still hold back, Lord?
 How can you be silent and continue to humiliate us?
 
-## Chapter 65 <!-- scripture:65 -->
+## Chapter 65
 
 
 ### The Lord Will Distinguish Between Sinners and the Godly
@@ -4746,7 +4746,7 @@ and a snake’s food will be dirt.
 They will no longer injure or destroy
 on my entire royal mountain,” says the Lord.
 
-## Chapter 66 <!-- scripture:66 -->
+## Chapter 66
 
 [1] This is what the Lord says:
 “The heavens are my throne

@@ -1,6 +1,6 @@
 # 1 Thessalonians
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -19,7 +19,7 @@
 [9] For people everywhere report how you welcomed us and how you turned to God from idols to serve the living and true God
 [10] and to wait for his Son from heaven, whom he raised from the dead, Jesus our deliverer from the coming wrath.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Paul’s Ministry in Thessalonica
@@ -48,7 +48,7 @@
 [19] For who is our hope or joy or crown to boast of before our Lord Jesus at his coming? Is it not of course you?
 [20] For you are our glory and joy!
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 [1] So when we could bear it no longer, we decided to stay on in Athens alone.
 [2] We sent Timothy, our brother and fellow worker for God in the gospel of Christ, to strengthen you and encourage you about your faith,
@@ -64,7 +64,7 @@
 [12] And may the Lord cause you to increase and abound in love for one another and for all, just as we do for you,
 [13] so that your hearts are strengthened in holiness to be blameless before our God and Father at the coming of our Lord Jesus with all his saints.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### A Life Pleasing to God
@@ -91,7 +91,7 @@
 [17] Then we who are alive, who are left, will be suddenly caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord.
 [18] Therefore encourage one another with these words.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### The Day of the Lord

@@ -1,6 +1,6 @@
 # Revelation
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Prologue
@@ -30,7 +30,7 @@ This will certainly come to pass! Amen.)
 [19] Therefore write what you saw, what is, and what will be after these things.
 [20] The mystery of the seven stars that you saw in my right hand and the seven golden lampstands is this: The seven stars are the angels of the seven churches and the seven lampstands are the seven churches.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### To the Church in Ephesus
@@ -75,7 +75,7 @@ and like clay jars he will break them to pieces,
 [28] just as I have received the right to rule from my Father—and I will give him the morning star.
 [29] The one who has an ear had better hear what the Spirit says to the churches.’
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### To the Church in Sardis
@@ -109,7 +109,7 @@ and like clay jars he will break them to pieces,
 [21] I will grant the one who conquers permission to sit with me on my throne, just as I too conquered and sat down with my Father on his throne.
 [22] The one who has an ear had better hear what the Spirit says to the churches.’”
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Amazing Scene in Heaven
@@ -131,7 +131,7 @@ to receive glory and honor and power,
 since you created all things,
 and because of your will they existed and were created!”
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### The Opening of the Scroll
@@ -162,7 +162,7 @@ and honor and glory and praise!”
 be praise, honor, glory, and ruling power forever and ever!”
 [14] And the four living creatures were saying “Amen,” and the elders threw themselves to the ground and worshiped.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Seven Seals
@@ -185,7 +185,7 @@ be praise, honor, glory, and ruling power forever and ever!”
 [16] They said to the mountains and to the rocks, “Fall on us and hide us from the face of the one who is seated on the throne and from the wrath of the Lamb,
 [17] because the great day of their wrath has come, and who is able to withstand it?”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Sealing of the 144,000
@@ -221,7 +221,7 @@ be to our God for ever and ever. Amen!”
 [16] They will never go hungry or be thirsty again, and the sun will not beat down on them, nor any burning heat,
 [17] because the Lamb in the middle of the throne will shepherd them and lead them to springs of living water, and God will wipe away every tear from their eyes.”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### The Seventh Seal
@@ -240,7 +240,7 @@ be to our God for ever and ever. Amen!”
 [12] Then the fourth angel blew his trumpet, and a third of the sun was struck, and a third of the moon, and a third of the stars, so that a third of them were darkened. And there was no light for a third of the day and for a third of the night likewise.
 [13] Then I looked, and I heard an eagle flying directly overhead, proclaiming with a loud voice, “Woe! Woe! Woe to those who live on the earth because of the remaining sounds of the trumpets of the three angels who are about to blow them!”
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 [1] Then the fifth angel blew his trumpet, and I saw a star that had fallen from the sky to the earth, and he was given the key to the shaft of the abyss.
 [2] He opened the shaft of the abyss and smoke rose out of it like smoke from a giant furnace. The sun and the air were darkened with smoke from the shaft.
@@ -264,7 +264,7 @@ be to our God for ever and ever. Amen!”
 [20] The rest of humanity, who had not been killed by these plagues, did not repent of the works of their hands, so that they did not stop worshiping demons and idols made of gold, silver, bronze, stone, and wood—idols that cannot see or hear or walk about.
 [21] Furthermore, they did not repent of their murders, of their magic spells, of their sexual immorality, or of their stealing.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### The Angel with the Little Scroll
@@ -281,7 +281,7 @@ be to our God for ever and ever. Amen!”
 [10] So I took the little scroll from the angel’s hand and ate it, and it did taste as sweet as honey in my mouth, but when I had eaten it, my stomach became bitter.
 [11] Then they told me: “You must prophesy again about many peoples, nations, languages, and kings.”
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### The Fate of the Two Witnesses
@@ -324,7 +324,7 @@ and to those who revere your name, both small and great,
 and the time has come to destroy those who destroy the earth.”
 [19] Then the temple of God in heaven was opened and the ark of his covenant was visible within his temple. And there were flashes of lightning, roaring, crashes of thunder, an earthquake, and a great hailstorm.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### The Woman, the Child, and the Dragon
@@ -364,7 +364,7 @@ for he knows that he only has a little time!”
 [17] So the dragon became enraged at the woman and went away to make war on the rest of her children, those who keep God’s commandments and hold to the testimony about Jesus.
 [18] And the dragon stood on the sand of the seashore.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### The Two Beasts
@@ -391,7 +391,7 @@ then by the sword he must be killed.
 [17] Thus no one was allowed to buy or sell things unless he bore the mark of the beast—that is, his name or his number.
 [18] This calls for wisdom: Let the one who has insight calculate the beast’s number, for it is man’s number, and his number is 666.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### An Interlude: The Song of the 144,000
@@ -422,7 +422,7 @@ those who die in the Lord from this moment on!’”
 [19] So the angel swung his sickle over the earth and gathered the grapes from the vineyard of the earth and tossed them into the great winepress of the wrath of God.
 [20] Then the winepress was stomped outside the city, and blood poured out of the winepress up to the height of horses’ bridles for a distance of almost 200 miles.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### The Final Plagues
@@ -443,7 +443,7 @@ for your righteous acts have been revealed.”
 [7] Then one of the four living creatures gave the seven angels seven golden bowls filled with the wrath of God who lives forever and ever,
 [8] and the temple was filled with smoke from God’s glory and from his power. Thus no one could enter the temple until the seven plagues from the seven angels were completed.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### The Bowls of God’s Wrath
@@ -474,7 +474,7 @@ Blessed is the one who stays alert and does not lose his clothes so that he will
 [20] Every island fled away and no mountains could be found.
 [21] And gigantic hailstones, weighing about a 100 pounds each, fell from heaven on people, but they blasphemed God because of the plague of hail, since it was so horrendous.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### The Great Prostitute and the Beast
@@ -498,7 +498,7 @@ Blessed is the one who stays alert and does not lose his clothes so that he will
 [17] For God has put into their minds to carry out his purpose by making a decision to give their royal power to the beast until the words of God are fulfilled.
 [18] As for the woman you saw, she is the great city that has sovereignty over the kings of the earth.”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Babylon is Destroyed
@@ -565,7 +565,7 @@ because all the nations were deceived by your magic spells!
 [24] The blood of the saints and prophets was found in her,
 along with the blood of all those who had been killed on the earth.”
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 [1] After these things I heard what sounded like the loud voice of a vast throng in heaven, saying,
 “Hallelujah! Salvation and glory and power belong to our God,
@@ -614,7 +614,7 @@ and small and great!”
 [20] Now the beast was seized, and along with him the false prophet who had performed the signs on his behalf —signs by which he deceived those who had received the mark of the beast and those who worshiped his image. Both of them were thrown alive into the lake of fire burning with sulfur.
 [21] The others were killed by the sword that extended from the mouth of the one who rode the horse, and all the birds gorged themselves with their flesh.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### The Thousand Year Reign
@@ -641,7 +641,7 @@ and small and great!”
 [14] Then Death and Hades were thrown into the lake of fire. This is the second death—the lake of fire.
 [15] If anyone’s name was not found written in the book of life, that person was thrown into the lake of fire.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### A New Heaven and a New Earth
@@ -677,7 +677,7 @@ and small and great!”
 [26] They will bring the grandeur and the wealth of the nations into it,
 [27] but nothing ritually unclean will ever enter into it, nor anyone who does what is detestable or practices falsehood, but only those whose names are written in the Lamb’s book of life.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 [1] Then the angel showed me the river of the water of life—water as clear as crystal—pouring out from the throne of God and of the Lamb,
 [2] flowing down the middle of the city’s main street. On each side of the river is the tree of life producing twelve kinds of fruit, yielding its fruit every month of the year. Its leaves are for the healing of the nations.

@@ -1,6 +1,6 @@
 # 1 John
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Prologue to the Letter
@@ -10,7 +10,7 @@
 [3] What we have seen and heard we announce to you too, so that you may have fellowship with us (and indeed our fellowship is with the Father and with his Son Jesus Christ).
 [4] Thus we are writing these things so that our joy may be complete.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### God Is Light, So We Must Walk in the Light
@@ -63,7 +63,7 @@
 [28] And now, little children, remain in him, so that when he appears we may have confidence and not shrink away from him in shame when he comes back.
 [29] If you know that he is righteous, you also know that everyone who practices righteousness has been fathered by him.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 [1] (See what sort of love the Father has given to us: that we should be called God’s children—and indeed we are! For this reason the world does not know us: because it did not know him.
 [2] Dear friends, we are God’s children now, and what we will be has not yet been revealed. We know that whenever it is revealed we will be like him, because we will see him just as he is.
@@ -93,7 +93,7 @@
 [23] Now this is his commandment: that we believe in the name of his Son Jesus Christ and love one another, just as he gave us the commandment.
 [24] And the person who keeps his commandments resides in God, and God in him. Now by this we know that God resides in us: by the Spirit he has given us.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Testing the Spirits
@@ -121,7 +121,7 @@
 [18] There is no fear in love, but perfect love drives out fear, because fear has to do with punishment. The one who fears punishment has not been perfected in love.
 [19] We love because he loved us first.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 [20] If anyone says “I love God” and yet hates his fellow Christian, he is a liar, because the one who does not love his fellow Christian whom he has seen cannot love God whom he has not seen.
 [21] And the commandment we have from him is this: that the one who loves God should love his fellow Christian too.

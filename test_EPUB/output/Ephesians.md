@@ -1,6 +1,6 @@
 # Ephesians
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -35,7 +35,7 @@
 [22] And God put all things under Christ’s feet, and gave him to the church as head over all things.
 [23] Now the church is his body, the fullness of him who fills all in all.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### New Life Individually
@@ -66,7 +66,7 @@
 [21] In him the whole building, being joined together, grows into a holy temple in the Lord,
 [22] in whom you also are being built together into a dwelling place of God in the Spirit.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Paul’s Relationship to the Divine Mystery
@@ -96,7 +96,7 @@
 [20] Now to him who by the power that is working within us is able to do far beyond all that we ask or think,
 [21] to him be the glory in the church and in Christ Jesus to all generations, forever and ever. Amen.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Live in Unity
@@ -137,7 +137,7 @@
 [31] You must put away all bitterness, anger, wrath, quarreling, and slanderous talk—indeed all malice.
 [32] Instead, be kind to one another, compassionate, forgiving one another, just as God in Christ also forgave you.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Live in Love
@@ -188,7 +188,7 @@ and Christ will shine on you!”
 [32] This mystery is great—but I am actually speaking with reference to Christ and the church.
 [33] Nevertheless, each one of you must also love his own wife as he loves himself, and the wife must respect her husband.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 [1] Children, obey your parents in the Lord, for this is right.
 [2] “Honor your father and mother,” which is the first commandment accompanied by a promise, namely,

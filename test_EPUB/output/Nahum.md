@@ -1,6 +1,6 @@
 # Nahum
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Introduction
@@ -77,7 +77,7 @@ Fulfill your sacred vows to praise God!
 For never again will the wicked Assyrians invade you;
 they have been completely destroyed.”
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Proclamation of the Destruction of Nineveh
@@ -142,7 +142,7 @@ the sword will devour your young lions.
 You will no longer prey upon the land;
 the voices of your messengers will no longer be heard.”
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Reason for Judgment: Sins of Nineveh

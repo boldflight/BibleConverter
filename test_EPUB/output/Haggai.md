@@ -1,6 +1,6 @@
 # Haggai
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Introduction
@@ -30,7 +30,7 @@
 [14] So the Lord energized and encouraged Zerubbabel son of Shealtiel, governor of Judah, the high priest Joshua son of Jehozadak, and the whole remnant of the people. They came and worked on the temple of their God, the Lord of Heaven’s Armies.
 [15] This took place on the twenty-fourth day of the sixth month of King Darius’ second year.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Glory to Come

@@ -1,6 +1,6 @@
 # Genesis
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Creation of the World
@@ -39,7 +39,7 @@ male and female he created them.
 [30] And to all the animals of the earth, and to every bird of the air, and to all the creatures that move on the ground—everything that has living breath in it—I give every green plant for food.” It was so.
 [31] God saw all that he had made—and it was very good! There was evening, and there was morning, the sixth day.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 [1] The heavens and the earth were completed with everything that was in them.
 [2] By the seventh day God finished the work that he had been doing, and he ceased on the seventh day all the work that he had been doing.
@@ -74,7 +74,7 @@ for she was taken out of man.”
 [24] That is why a man leaves his father and mother and unites with his wife, and they become one family.
 [25] The man and his wife were both naked, but they were not ashamed.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Temptation and the Fall
@@ -128,7 +128,7 @@ for you are dust, and to dust you will return.”
 [23] So the Lord God expelled him from the orchard in Eden to cultivate the ground from which he had been taken.
 [24] When he drove the man out, he placed on the eastern side of the orchard in Eden angelic sentries who used the flame of a whirling sword to guard the way to the tree of life.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Story of Cain and Abel
@@ -168,7 +168,7 @@ then Lamech seventy-seven times!”
 [25] And Adam was intimate with his wife again, and she gave birth to a son. She named him Seth, saying, “God has given me another child in place of Abel because Cain killed him.”
 [26] And a son was also born to Seth, whom he named Enosh. At that time people began to worship the Lord.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### From Adam to Noah
@@ -206,7 +206,7 @@ then Lamech seventy-seven times!”
 [31] The entire lifetime of Lamech was 777 years, and then he died.
 [32] After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### God’s Grief over Humankind’s Wickedness
@@ -237,7 +237,7 @@ then Lamech seventy-seven times!”
 [21] And you must take for yourself every kind of food that is eaten, and gather it together. It will be food for you and for them.”
 [22] And Noah did all that God commanded him—he did indeed.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 [1] The Lord said to Noah, “Come into the ark, you and all your household, for I consider you godly among this generation.
 [2] You must take with you seven pairs of every kind of clean animal, the male and its mate, two of every kind of unclean animal, the male and its mate,
@@ -264,7 +264,7 @@ then Lamech seventy-seven times!”
 [23] So the Lord destroyed every living thing that was on the surface of the ground, including people, animals, creatures that creep along the ground, and birds of the sky. They were wiped off the earth. Only Noah and those who were with him in the ark survived.
 [24] The waters prevailed over the earth for 150 days.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 [1] But God remembered Noah and all the wild animals and domestic animals that were with him in the ark. God caused a wind to blow over the earth and the waters receded.
 [2] The fountains of the deep and the floodgates of heaven were closed, and the rain stopped falling from the sky.
@@ -293,7 +293,7 @@ cold and heat,
 summer and winter,
 and day and night will not cease.”
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### God’s Covenant with Humankind through Noah
@@ -342,7 +342,7 @@ and may Canaan be the slave of Japheth!”
 [28] After the flood Noah lived 350 years.
 [29] The entire lifetime of Noah was 950 years, and then he died.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### The Table of Nations
@@ -380,7 +380,7 @@ and may Canaan be the slave of Japheth!”
 [31] These are the sons of Shem according to their families, according to their languages, by their lands, and according to their nations.
 [32] These are the families of the sons of Noah, according to their genealogies, by their nations, and from these the nations spread over the earth after the flood.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### The Dispersion of the Nations at Babel
@@ -424,7 +424,7 @@ and may Canaan be the slave of Japheth!”
 [31] Terah took his son Abram, his grandson Lot (the son of Haran), and his daughter-in-law Sarai, his son Abram’s wife, and with them he set out from Ur of the Chaldeans to go to Canaan. When they came to Haran, they settled there.
 [32] The lifetime of Terah was 205 years, and he died in Haran.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### The Obedience of Abram
@@ -459,7 +459,7 @@ so that all the families of the earth may receive blessing through you.”
 [19] Why did you say, ‘She is my sister,’ so that I took her to be my wife? Now, here is your wife. Take her and go!”
 [20] Pharaoh gave his men orders about Abram, and so they expelled him, along with his wife and all his possessions.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Abram’s Solution to the Strife
@@ -483,7 +483,7 @@ so that all the families of the earth may receive blessing through you.”
 [17] Get up and walk throughout the land, for I will give it to you.”
 [18] So Abram moved his tents and went to live by the oaks of Mamre in Hebron, and he built an altar to the Lord there.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### The Blessing of Victory for God’s People
@@ -516,7 +516,7 @@ who delivered your enemies into your hand.”
 [23] that I will take nothing belonging to you, not even a thread or the strap of a sandal. That way you can never say, ‘It is I who made Abram rich.’
 [24] I will take nothing except compensation for what the young men have eaten. As for the share of the men who went with me—Aner, Eshcol, and Mamre—let them take their share.”
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### The Cutting of the Covenant
@@ -543,7 +543,7 @@ who delivered your enemies into your hand.”
 [20] Hittites, Perizzites, Rephaites,
 [21] Amorites, Canaanites, Girgashites, and Jebusites.”
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### The Birth of Ishmael
@@ -572,7 +572,7 @@ He will live away from his brothers.”
 [15] So Hagar gave birth to Abram’s son, whom Abram named Ishmael.
 [16] (Now Abram was 86 years old when Hagar gave birth to Ishmael.)
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### The Sign of the Covenant
@@ -605,7 +605,7 @@ He will live away from his brothers.”
 [26] Abraham and his son Ishmael were circumcised on the very same day.
 [27] All the men of his household, whether born in his household or bought with money from a foreigner, were circumcised with him.
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Three Special Visitors
@@ -647,7 +647,7 @@ He will live away from his brothers.”
 [32] Finally Abraham said, “May the Lord not be angry so that I may speak just once more. What if ten are found there?” He replied, “I will not destroy it for the sake of the ten.”
 [33] The Lord went on his way when he had finished speaking to Abraham. Then Abraham returned home.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### The Destruction of Sodom and Gomorrah
@@ -691,7 +691,7 @@ He will live away from his brothers.”
 [37] The older daughter gave birth to a son and named him Moab. He is the ancestor of the Moabites of today.
 [38] The younger daughter also gave birth to a son and named him Ben Ammi. He is the ancestor of the Ammonites of today.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Abraham and Abimelech
@@ -715,7 +715,7 @@ He will live away from his brothers.”
 [17] Abraham prayed to God, and God healed Abimelech, as well as his wife and female slaves so that they were able to have children.
 [18] For the Lord had caused infertility to strike every woman in the household of Abimelech because he took Sarah, Abraham’s wife.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### The Birth of Isaac
@@ -755,7 +755,7 @@ He will live away from his brothers.”
 [33] Abraham planted a tamarisk tree in Beer Sheba. There he worshiped the Lord, the eternal God.
 [34] So Abraham stayed in the land of the Philistines for quite some time.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### The Sacrifice of Isaac
@@ -785,7 +785,7 @@ He will live away from his brothers.”
 [23] (Now Bethuel became the father of Rebekah.) These were the eight sons Milcah bore to Abraham’s brother Nahor.
 [24] His concubine, whose name was Reumah, also bore him children—Tebah, Gaham, Tahash, and Maacah.
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### The Death of Sarah
@@ -811,7 +811,7 @@ He will live away from his brothers.”
 [19] After this Abraham buried his wife Sarah in the cave in the field of Machpelah next to Mamre (that is, Hebron) in the land of Canaan.
 [20] So Abraham secured the field and the cave that was in it as a burial site from the sons of Heth.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### The Wife for Isaac
@@ -886,7 +886,7 @@ May your descendants possess the strongholds of their enemies.”
 [66] The servant told Isaac everything that had happened.
 [67] Then Isaac brought Rebekah into his mother Sarah’s tent. He took her as his wife and loved her. So Isaac was comforted after his mother’s death.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### The Death of Abraham
@@ -936,7 +936,7 @@ and the older will serve the younger.”
 [33] But Jacob said, “Swear an oath to me now.” So Esau swore an oath to him and sold his birthright to Jacob.
 [34] Then Jacob gave Esau some bread and lentil stew; Esau ate and drank, then got up and went out. So Esau despised his birthright.
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### Isaac and Abimelech
@@ -977,7 +977,7 @@ and the older will serve the younger.”
 [34] When Esau was forty years old, he married Judith the daughter of Beeri the Hittite, as well as Basemath the daughter of Elon the Hittite.
 [35] They caused Isaac and Rebekah great anxiety.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### Jacob Cheats Esau out of the Blessing
@@ -1046,7 +1046,7 @@ from your neck.”
 [45] Stay there until your brother’s anger against you subsides and he forgets what you did to him. Then I’ll send someone to bring you back from there. Why should I lose both of you in one day?”
 [46] Then Rebekah said to Isaac, “I am deeply depressed because of the daughters of Heth. If Jacob were to marry one of these daughters of Heth who live in this land, I would want to die!”
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 [1] So Isaac called for Jacob and blessed him. Then he commanded him, “You must not marry a Canaanite woman!
 [2] Leave immediately for Paddan Aram! Go to the house of Bethuel, your mother’s father, and find yourself a wife there, among the daughters of Laban, your mother’s brother.
@@ -1074,7 +1074,7 @@ from your neck.”
 [21] and I return safely to my father’s home, then the Lord will become my God.
 [22] Then this stone that I have set up as a sacred stone will be the house of God, and I will surely give you back a tenth of everything you give me.”
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 
 ### The Marriages of Jacob
@@ -1118,7 +1118,7 @@ from your neck.”
 [34] She became pregnant again and had another son. She said, “Now this time my husband will show me affection, because I have given birth to three sons for him.” That is why he was named Levi.
 [35] She became pregnant again and had another son. She said, “This time I will praise the Lord.” That is why she named him Judah. Then she stopped having children.
 
-## Chapter 30 <!-- scripture:30 -->
+## Chapter 30
 
 [1] When Rachel saw that she could not give Jacob children, she became jealous of her sister. She said to Jacob, “Give me children or I’ll die!”
 [2] Jacob became furious with Rachel and exclaimed, “Am I in the place of God, who has kept you from having children?”
@@ -1167,7 +1167,7 @@ from your neck.”
 [42] But if the animals were weaker, he did not set the branches there. So the weaker animals ended up belonging to Laban and the stronger animals to Jacob.
 [43] In this way Jacob became extremely prosperous. He owned large flocks, male and female servants, camels, and donkeys.
 
-## Chapter 31 <!-- scripture:31 -->
+## Chapter 31
 
 
 ### Jacob’s Flight from Laban
@@ -1228,7 +1228,7 @@ from your neck.”
 [54] Then Jacob offered a sacrifice on the mountain and invited his relatives to eat the meal. They ate the meal and spent the night on the mountain.
 [55] (
 
-## Chapter 32 <!-- scripture:32 -->
+## Chapter 32
 
 
 ### Jacob Wrestles at Peniel
@@ -1266,7 +1266,7 @@ from your neck.”
 [31] The sun rose over him as he crossed over Penuel, but he was limping because of his hip.
 [32] That is why to this day the Israelites do not eat the sinew which is attached to the socket of the hip, because he struck the socket of Jacob’s hip near the attached sinew.
 
-## Chapter 33 <!-- scripture:33 -->
+## Chapter 33
 
 
 ### Jacob Meets Esau
@@ -1292,7 +1292,7 @@ from your neck.”
 [19] Then he purchased the portion of the field where he had pitched his tent; he bought it from the sons of Hamor, Shechem’s father, for 100 pieces of money.
 [20] There he set up an altar and called it “The God of Israel is God.”
 
-## Chapter 34 <!-- scripture:34 -->
+## Chapter 34
 
 
 ### Dinah and the Shechemites
@@ -1329,7 +1329,7 @@ from your neck.”
 [30] Then Jacob said to Simeon and Levi, “You have brought ruin on me by making me a foul odor among the inhabitants of the land—among the Canaanites and the Perizzites. I am few in number; they will join forces against me and attack me, and both I and my family will be destroyed!”
 [31] But Simeon and Levi replied, “Should he treat our sister like a common prostitute?”
 
-## Chapter 35 <!-- scripture:35 -->
+## Chapter 35
 
 
 ### The Return to Bethel
@@ -1364,7 +1364,7 @@ from your neck.”
 [28] Isaac lived to be 180 years old.
 [29] Then Isaac breathed his last and joined his ancestors. He died an old man who had lived a full life. His sons Esau and Jacob buried him.
 
-## Chapter 36 <!-- scripture:36 -->
+## Chapter 36
 
 
 ### The Descendants of Esau
@@ -1413,7 +1413,7 @@ from your neck.”
 [42] chief Kenaz, chief Teman, chief Mibzar,
 [43] chief Magdiel, chief Iram. These were the chiefs of Edom, according to their settlements in the land they possessed. This was Esau, the father of the Edomites.
 
-## Chapter 37 <!-- scripture:37 -->
+## Chapter 37
 
 
 ### Joseph’s Dreams
@@ -1455,7 +1455,7 @@ from your neck.”
 [35] All his sons and daughters stood by him to console him, but he refused to be consoled. “No,” he said, “I will go to the grave mourning my son.” So Joseph’s father wept for him.
 [36] Now in Egypt the Midianites sold Joseph to Potiphar, one of Pharaoh’s officials, the captain of the guard.
 
-## Chapter 38 <!-- scripture:38 -->
+## Chapter 38
 
 
 ### Judah and Tamar
@@ -1491,7 +1491,7 @@ from your neck.”
 [29] But then he drew back his hand, and his brother came out before him. She said, “How you have broken out of the womb!” So he was named Perez.
 [30] Afterward his brother came out—the one who had the scarlet thread on his hand—and he was named Zerah.
 
-## Chapter 39 <!-- scripture:39 -->
+## Chapter 39
 
 
 ### Joseph and Potiphar’s Wife
@@ -1520,7 +1520,7 @@ from your neck.”
 [22] The warden put all the prisoners under Joseph’s care. He was in charge of whatever they were doing.
 [23] The warden did not concern himself with anything that was in Joseph’s care because the Lord was with him and whatever he was doing the Lord was making successful.
 
-## Chapter 40 <!-- scripture:40 -->
+## Chapter 40
 
 
 ### The Cupbearer and the Baker
@@ -1549,7 +1549,7 @@ from your neck.”
 [22] but the chief baker he impaled, just as Joseph had predicted.
 [23] But the chief cupbearer did not remember Joseph—he forgot him.
 
-## Chapter 41 <!-- scripture:41 -->
+## Chapter 41
 
 
 ### Joseph’s Rise to Power
@@ -1612,7 +1612,7 @@ from your neck.”
 [56] While the famine was over all the earth, Joseph opened the storehouses and sold grain to the Egyptians. The famine was severe throughout the land of Egypt.
 [57] People from every country came to Joseph in Egypt to buy grain because the famine was severe throughout the earth.
 
-## Chapter 42 <!-- scripture:42 -->
+## Chapter 42
 
 
 ### Joseph’s Brothers in Egypt
@@ -1656,7 +1656,7 @@ from your neck.”
 [37] Then Reuben said to his father, “You may put my two sons to death if I do not bring him back to you. Put him in my care and I will bring him back to you.”
 [38] But Jacob replied, “My son will not go down there with you, for his brother is dead and he alone is left. If an accident happens to him on the journey you have to make, then you will bring down my gray hair in sorrow to the grave.”
 
-## Chapter 43 <!-- scripture:43 -->
+## Chapter 43
 
 
 ### The Second Journey to Egypt
@@ -1696,7 +1696,7 @@ from your neck.”
 [33] They sat before him, arranged by order of birth, beginning with the firstborn and ending with the youngest. The men looked at each other in astonishment.
 [34] He gave them portions of the food set before him, but the portion for Benjamin was five times greater than the portions for any of the others. They drank with Joseph until they all became drunk.
 
-## Chapter 44 <!-- scripture:44 -->
+## Chapter 44
 
 
 ### The Final Test
@@ -1736,7 +1736,7 @@ from your neck.”
 [33] “So now, please let your servant remain as my lord’s slave instead of the boy. As for the boy, let him go back with his brothers.
 [34] For how can I go back to my father if the boy is not with me? I couldn’t bear to see my father’s pain.”
 
-## Chapter 45 <!-- scripture:45 -->
+## Chapter 45
 
 
 ### The Reconciliation of the Brothers
@@ -1770,7 +1770,7 @@ from your neck.”
 [27] But when they related to him everything Joseph had said to them, and when he saw the wagons that Joseph had sent to transport him, their father Jacob’s spirit revived.
 [28] Then Israel said, “Enough! My son Joseph is still alive! I will go and see him before I die.”
 
-## Chapter 46 <!-- scripture:46 -->
+## Chapter 46
 
 
 ### The Family of Jacob goes to Egypt
@@ -1812,7 +1812,7 @@ The sons of Beriah were Heber and Malkiel.
 [33] Pharaoh will summon you and say, ‘What is your occupation?’
 [34] Tell him, ‘Your servants have taken care of cattle from our youth until now, both we and our fathers,’ so that you may live in the land of Goshen, for everyone who takes care of sheep is disgusting to the Egyptians.”
 
-## Chapter 47 <!-- scripture:47 -->
+## Chapter 47
 
 
 ### Joseph’s Wise Administration
@@ -1849,7 +1849,7 @@ The sons of Beriah were Heber and Malkiel.
 [30] but when I rest with my fathers, carry me out of Egypt and bury me in their burial place.” Joseph said, “I will do as you say.”
 [31] Jacob said, “Swear to me that you will do so.” So Joseph gave him his word. Then Israel bowed down at the head of his bed.
 
-## Chapter 48 <!-- scripture:48 -->
+## Chapter 48
 
 
 ### Manasseh and Ephraim
@@ -1889,7 +1889,7 @@ Thus he put Ephraim before Manasseh.
 [21] Then Israel said to Joseph, “I am about to die, but God will be with you and will bring you back to the land of your fathers.
 [22] As one who is above your brothers, I give to you the mountain slope, which I took from the Amorites with my sword and my bow.”
 
-## Chapter 49 <!-- scripture:49 -->
+## Chapter 49
 
 
 ### The Blessing of Jacob
@@ -1983,7 +1983,7 @@ and in the evening dividing the plunder.”
 [32] The field and the cave in it were acquired from the sons of Heth.”
 [33] When Jacob finished giving these instructions to his sons, he pulled his feet up onto the bed, breathed his last breath, and went to his people.
 
-## Chapter 50 <!-- scripture:50 -->
+## Chapter 50
 
 
 ### The Burials of Jacob and Joseph

@@ -1,6 +1,6 @@
 # Song of Solomon
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Title/Superscription
@@ -79,7 +79,7 @@ The lush foliage is our canopied bed;
 [17] the cedars are the beams of our bedroom chamber;
 the pines are the rafters of our bedroom.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Lily among the Thorns and the Apple Tree in the Forest
@@ -174,7 +174,7 @@ turn, my beloved—
 be like a gazelle or a young stag
 on the mountain gorges.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Lost Lover is Found
@@ -228,7 +228,7 @@ He is wearing the crown with which his mother crowned him
 on his wedding day,
 on the most joyous day of his life!
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Wedding Night: Praise of the Bride
@@ -298,7 +298,7 @@ Blow on my garden so that its fragrant spices may send out their sweet smell.
 May my beloved come into his garden
 and eat its delightful fruit!
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 _The Lover to His Beloved:_
 [1] I have entered my garden, O my sister, my bride;
@@ -366,7 +366,7 @@ he is totally desirable.
 This is my beloved!
 This is my companion, O maidens of Jerusalem!
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Lost Lover Found
@@ -437,7 +437,7 @@ _The Beloved to Her Lover:_
 Why do you gaze upon the Perfect One
 like the dance of the Mahanaim?
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 _The Lover to His Beloved:_
 [1] (7:2) How beautiful are your sandaled feet,
@@ -494,7 +494,7 @@ there I will give you my love.
 over our door is every delicacy,
 both new and old, which I have stored up for you, my lover.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### The Beloved’s Wish Song

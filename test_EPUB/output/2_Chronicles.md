@@ -1,6 +1,6 @@
 # 2 Chronicles
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Lord Gives Solomon Wisdom
@@ -26,7 +26,7 @@
 [16] Solomon acquired his horses from Egypt and from Que; the king’s traders purchased them from Que.
 [17] They paid 600 silver pieces for each chariot from Egypt, and 150 silver pieces for each horse. They also sold chariots and horses to all the kings of the Hittites and to the kings of Syria.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Solomon Gathers Building Materials for the Temple
@@ -50,7 +50,7 @@
 [17] Solomon took a census of all the male resident foreigners in the land of Israel, after the census his father David had taken. There were 153,600 in all.
 [18] He designated 70,000 as common laborers, 80,000 as stonecutters in the hills, and 3,600 as supervisors to make sure the people completed the work.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Building of the Temple
@@ -73,7 +73,7 @@
 [16] He made ornamental chains and put them on top of the pillars. He also made 100 pomegranate-shaped ornaments and arranged them within the chains.
 [17] He set up the pillars in front of the temple, one on the right side and the other on the left. He named the one on the right Yakin, and the one on the left Boaz.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 [1] He made a bronze altar, 30 feet long, 30 feet wide, and 15 feet high.
 [2] He also made the big bronze basin called “The Sea.” It measured 15 feet from rim to rim, was circular in shape, and stood 7½ high. Its circumference was 45 feet.
@@ -94,7 +94,7 @@
 [17] The king had them cast in earth foundries in the region of the Jordan between Sukkoth and Zarethan.
 [18] Solomon made so many of these items they did not weigh the bronze.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 [19] Solomon also made these items for God’s temple: the gold altar, the tables on which the Bread of the Presence was kept,
 [20] the pure gold lampstands and their lamps which burned as specified at the entrance to the inner sanctuary,
@@ -118,7 +118,7 @@
 [13] The trumpeters and musicians played together, praising and giving thanks to the Lord. Accompanied by trumpets, cymbals, and other instruments, they loudly praised the Lord, singing: “Certainly he is good; certainly his loyal love endures!” Then a cloud filled the Lord’s temple.
 [14] The priests could not carry out their duties because of the cloud; the Lord’s splendor filled God’s temple.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 [1] Then Solomon said, “The Lord has said that he lives in thick darkness.
 [2] O Lord, I have built a lofty temple for you, a place where you can live permanently.”
@@ -163,7 +163,7 @@
 [41] Now ascend, O Lord God, to your resting place, you and the ark of your strength! May your priests, O Lord God, experience your deliverance. May your loyal followers rejoice in the prosperity you give.
 [42] O Lord God, do not reject your chosen ones! Remember the faithful promises you made to your servant David!”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Solomon Dedicates the Temple
@@ -194,7 +194,7 @@
 [21] As for this temple, which was once majestic, everyone who passes by it will be shocked and say, ‘Why did the Lord do this to this land and this temple?’
 [22] Others will then answer, ‘Because they abandoned the Lord God of their ancestors, who led them out of Egypt. They embraced other gods whom they worshiped and served. That is why he brought all this disaster down on them.’”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Building Projects and Commercial Efforts
@@ -218,7 +218,7 @@
 [17] Then Solomon went to Ezion Geber and to Elat on the coast in the land of Edom.
 [18] Huram sent him ships and some of his sailors, men who were well acquainted with the sea. They sailed with Solomon’s men to Ophir and took from there 450 talents of gold, which they brought back to King Solomon.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Solomon Entertains a Queen
@@ -261,7 +261,7 @@
 [30] Solomon ruled over all Israel from Jerusalem for forty years.
 [31] Then Solomon passed away and was buried in the city of his father David. His son Rehoboam replaced him as king.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### The Northern Tribes Rebel
@@ -286,7 +286,7 @@
 [18] King Rehoboam sent Hadoram, the supervisor of the work crews, out after them, but the Israelites stoned him to death. King Rehoboam managed to jump into his chariot and escape to Jerusalem.
 [19] So Israel has been in rebellion against the Davidic dynasty to this very day.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 [1] When Rehoboam arrived in Jerusalem, he summoned 180,000 skilled warriors from Judah and Benjamin to attack Israel and restore the kingdom to Rehoboam.
 [2] But the Lord’s message came to the prophet Shemaiah,
@@ -315,7 +315,7 @@
 [22] Rehoboam appointed Abijah son of Maacah as the leader over his brothers, for he intended to name him his successor.
 [23] He wisely placed some of his many sons throughout the regions of Judah and Benjamin in the various fortified cities. He supplied them with abundant provisions and acquired many wives for them.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 [1] After Rehoboam’s rule was established and solidified, he and all Israel rejected the law of the Lord.
 [2] Because they were unfaithful to the Lord, in King Rehoboam’s fifth year, King Shishak of Egypt attacked Jerusalem.
@@ -334,7 +334,7 @@
 [15] The events of Rehoboam’s reign, from start to finish, are recorded in the Annals of Shemaiah the Prophet and of Iddo the Seer that include genealogical records. There were wars between Rehoboam and Jeroboam continually.
 [16] Then Rehoboam passed away and was buried in the City of David. His son Abijah replaced him as king.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Abijah’s Reign
@@ -362,7 +362,7 @@
 [21] Abijah’s power grew; he had fourteen wives and fathered twenty-two sons and sixteen daughters.
 [22] The rest of the events of Abijah’s reign, including his deeds and sayings, are recorded in the writings of the prophet Iddo.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 [1] (
 
@@ -383,7 +383,7 @@
 [14] They defeated all the towns surrounding Gerar, for the Lord caused them to panic. The men of Judah looted all the towns, for they contained a huge amount of goods.
 [15] They also attacked the tents of the herdsmen in charge of the livestock. They carried off many sheep and camels and then returned to Jerusalem.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 [1] God’s Spirit came upon Azariah son of Oded.
 [2] He met Asa and told him, “Listen to me, Asa and all Judah and Benjamin! The Lord is with you when you are loyal to him. If you seek him, he will respond to you, but if you reject him, he will reject you.
@@ -404,7 +404,7 @@
 [17] The high places were not eliminated from Israel, yet Asa was wholeheartedly devoted to the Lord throughout his lifetime.
 [18] He brought the holy items that his father and he had made into God’s temple, including the silver, gold, and other articles.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### Asa’s Failures
@@ -428,7 +428,7 @@
 [13] Asa passed away in the forty-first year of his reign.
 [14] He was buried in the tomb he had carved out in the City of David. They laid him to rest on a platform covered with spices and assorted mixtures of ointments. They made a huge bonfire to honor him.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### Jehoshaphat Becomes King
@@ -453,7 +453,7 @@
 [18] and Jehozabad led 180,000 trained warriors.
 [19] These were the ones who served the king, besides those whom the king placed in the fortified cities throughout Judah.
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Jehoshaphat Allies with Ahab
@@ -493,7 +493,7 @@
 [33] Now an archer shot an arrow at random, and it struck the king of Israel between the plates of his armor. The king ordered his charioteer, “Turn around and take me from the battle line, for I am wounded.”
 [34] While the battle raged throughout the day, the king of Israel stood propped up in his chariot opposite the Syrians. He died in the evening as the sun was setting.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 [1] When King Jehoshaphat of Judah returned home safely to Jerusalem,
 [2] the prophet Jehu son of Hanani confronted him; he said to King Jehoshaphat, “Is it right to help the wicked and be an ally of those who oppose the Lord? Because you have done this, the Lord is angry with you!
@@ -510,7 +510,7 @@
 [10] Whenever your countrymen who live in the cities bring a case before you (whether it involves a violent crime or other matters related to the law, commandments, rules, and regulations), warn them that they must not sin against the Lord. If you fail to do so, God will be angry with you and your colleagues, but if you obey, you will be free of guilt.
 [11] Take note, Amariah the chief priest will oversee you in every matter pertaining to the Lord and Zebadiah son of Ishmael, the leader of the family of Judah, in every matter pertaining to the king. The Levites will serve as officials before you. Act courageously, and may the Lord be with those who do well!”
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### The Lord Gives Jehoshaphat Military Success
@@ -556,7 +556,7 @@
 [36] They agreed to make large seagoing merchant ships; they built the ships in Ezion Geber.
 [37] Eliezer son of Dodavahu from Mareshah prophesied against Jehoshaphat, “Because you made an alliance with Ahaziah, the Lord will shatter what you have made.” The ships were wrecked and unable to go to sea.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 [1] Jehoshaphat passed away and was buried with his ancestors in the City of David. His son Jehoram replaced him as king.
 
@@ -582,7 +582,7 @@
 [19] After about two years his intestines came out because of the disease, so that he died a very painful death. His people did not make a bonfire to honor him, as they had done for his ancestors.
 [20] Jehoram was thirty-two years old when he became king and he reigned eight years in Jerusalem. No one regretted his death; he was buried in the City of David, but not in the royal tombs.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Ahaziah’s Reign
@@ -603,7 +603,7 @@
 [11] So Jehoshabeath, the daughter of King Jehoram, took Ahaziah’s son Joash and stole him away from the rest of the royal descendants who were to be executed. She hid him and his nurse in the room where the bed covers were stored. So Jehoshabeath the daughter of King Jehoram, wife of Jehoiada the priest and sister of Ahaziah, hid him from Athaliah so she could not execute him.
 [12] He remained in hiding in God’s temple for six years while Athaliah was ruling over the land.
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 [1] In the seventh year Jehoiada made a bold move. He made a pact with the officers of the units of hundreds: Azariah son of Jehoram, Ishmael son of Jehochanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zikri.
 [2] They traveled throughout Judah and assembled the Levites from all the cities of Judah, as well as the Israelite family leaders.
@@ -627,7 +627,7 @@
 [20] He summoned the officers of the units of hundreds, the nobles, the rulers of the people, and all the people of the land, and he then led the king down from the Lord’s temple. They entered the royal palace through the Upper Gate and seated the king on the royal throne.
 [21] All the people of the land celebrated, for the city had rest now that they had killed Athaliah.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### Joash’s Reign
@@ -660,7 +660,7 @@
 [26] The conspirators were Zabad son of Shimeath (an Ammonite woman) and Jehozabad son of Shimrith (a Moabite woman).
 [27] The list of Joash’s sons, the many prophetic oracles about him, and the account of his building project on God’s temple are included in the record of the Scroll of the Kings. His son Amaziah replaced him as king.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### Amaziah’s Reign
@@ -694,7 +694,7 @@
 [27] From the time Amaziah turned from following the Lord, conspirators plotted against him in Jerusalem, so he fled to Lachish. But they sent assassins after him and they killed him there.
 [28] His body was carried back by horses, and he was buried with his ancestors in the City of David.
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### Uzziah’s Reign
@@ -723,7 +723,7 @@
 [22] The rest of the events of Uzziah’s reign, from start to finish, were recorded by the prophet Isaiah son of Amoz.
 [23] Uzziah passed away and was buried near his ancestors in a cemetery belonging to the kings. (This was because he had a skin disease.) His son Jotham replaced him as king.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### Jotham’s Reign
@@ -738,7 +738,7 @@
 [8] He was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem.
 [9] Jotham passed away and was buried in the City of David. His son Ahaz replaced him as king.
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### Ahaz’s Reign
@@ -771,7 +771,7 @@
 [26] The rest of the events of Ahaz’s reign, including his accomplishments from start to finish, are recorded in the Scroll of the Kings of Judah and Israel.
 [27] Ahaz passed away and was buried in the city of Jerusalem; they did not bring him to the tombs of the kings of Israel. His son Hezekiah replaced him as king.
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 
 ### Hezekiah Consecrates the Temple
@@ -813,7 +813,7 @@
 [35] There was a large number of burnt sacrifices, as well as fat from the peace offerings and drink offerings that accompanied the burnt sacrifices. So the service of the Lord’s temple was reinstituted.
 [36] Hezekiah and all the people were happy about what God had done for them, for it had been done quickly.
 
-## Chapter 30 <!-- scripture:30 -->
+## Chapter 30
 
 
 ### Hezekiah Observes the Passover
@@ -846,7 +846,7 @@
 [26] There was a great celebration in Jerusalem, unlike anything that had occurred in Jerusalem since the time of King Solomon son of David of Israel.
 [27] The priests and Levites got up and pronounced blessings on the people. The Lord responded favorably to them as their prayers reached his holy dwelling place in heaven.
 
-## Chapter 31 <!-- scripture:31 -->
+## Chapter 31
 
 [1] When all this was over, the Israelites who were in the cities of Judah went out and smashed the sacred pillars, cut down the Asherah poles, and demolished all the high places and altars throughout Judah, Benjamin, Ephraim, and Manasseh. Then all the Israelites returned to their own homes in their cities.
 
@@ -873,7 +873,7 @@
 [20] This is what Hezekiah did throughout Judah. He did what the Lord his God considered good and right and faithful.
 [21] He wholeheartedly and successfully reinstituted service in God’s temple and obedience to the law, in order to follow his God.
 
-## Chapter 32 <!-- scripture:32 -->
+## Chapter 32
 
 
 ### Sennacherib Invades Judah
@@ -915,7 +915,7 @@
 [32] The rest of the events of Hezekiah’s reign, including his faithful deeds, are recorded in the vision of the prophet Isaiah son of Amoz, included in the Scroll of the Kings of Judah and Israel.
 [33] Hezekiah passed away and was buried on the ascent of the tombs of the descendants of David. All the people of Judah and the residents of Jerusalem buried him with great honor. His son Manasseh replaced him as king.
 
-## Chapter 33 <!-- scripture:33 -->
+## Chapter 33
 
 
 ### Manasseh’s Reign
@@ -949,7 +949,7 @@
 [24] His servants conspired against him and killed him in his palace.
 [25] The people of the land executed all who had conspired against King Amon, and they made his son Josiah king in his place.
 
-## Chapter 34 <!-- scripture:34 -->
+## Chapter 34
 
 
 ### Josiah Institutes Religious Reforms
@@ -988,7 +988,7 @@
 [32] He made all who were in Jerusalem and Benjamin agree to it. The residents of Jerusalem acted in accordance with the covenant of God, the God of their ancestors.
 [33] Josiah removed all the detestable idols from all the areas belonging to the Israelites and encouraged all who were in Israel to worship the Lord their God. Throughout the rest of his reign they did not turn aside from following the Lord God of their ancestors.
 
-## Chapter 35 <!-- scripture:35 -->
+## Chapter 35
 
 
 ### Josiah Observes the Passover
@@ -1024,7 +1024,7 @@
 [26] The rest of the events of Josiah’s reign, including the faithful acts he did in obedience to what is written in the law of the Lord
 [27] and his accomplishments, from start to finish, are recorded in the Scroll of the Kings of Israel and Judah.
 
-## Chapter 36 <!-- scripture:36 -->
+## Chapter 36
 
 
 ### Jehoahaz’s Reign

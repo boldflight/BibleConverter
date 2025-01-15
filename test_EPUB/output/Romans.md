@@ -1,6 +1,6 @@
 # Romans
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -47,7 +47,7 @@
 [31] senseless, covenant-breakers, heartless, ruthless.
 [32] Although they fully know God’s righteous decree that those who practice such things deserve to die, they not only do them but also approve of those who practice them.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Condemnation of the Moralist
@@ -85,7 +85,7 @@
 [28] For a person is not a Jew who is one outwardly, nor is circumcision something that is outward in the flesh,
 [29] but someone is a Jew who is one inwardly, and circumcision is of the heart by the Spirit and not by the letter. This person’s praise is not from people but from God.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 [1] Therefore what advantage does the Jew have, or what is the value of circumcision?
 [2] Actually, there are many advantages. First of all, the Jews were entrusted with the oracles of God.
@@ -114,7 +114,7 @@
 [30] Since God is one, he will justify the circumcised by faith and the uncircumcised through faith.
 [31] Do we then nullify the law through faith? Absolutely not! Instead we uphold the law.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Illustration of Justification
@@ -143,7 +143,7 @@
 [24] but also for our sake, to whom it will be credited, those who believe in the one who raised Jesus our Lord from the dead.
 [25] He was given over because of our transgressions and was raised for the sake of our justification.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### The Expectation of Justification
@@ -173,7 +173,7 @@
 [20] Now the law came in so that the transgression may increase, but where sin increased, grace multiplied all the more,
 [21] so that just as sin reigned in death, so also grace will reign through righteousness to eternal life through Jesus Christ our Lord.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Believer’s Freedom from Sin’s Domination
@@ -205,7 +205,7 @@
 [22] But now, freed from sin and enslaved to God, you have your benefit leading to sanctification, and the end is eternal life.
 [23] For the payoff of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Believer’s Relationship to the Law
@@ -236,7 +236,7 @@
 [24] Wretched man that I am! Who will rescue me from this body of death?
 [25] Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### The Believer’s Relationship to the Holy Spirit
@@ -281,7 +281,7 @@
 [38] For I am convinced that neither death, nor life, nor angels, nor heavenly rulers, nor things that are present, nor things to come, nor powers,
 [39] nor height, nor depth, nor anything else in creation will be able to separate us from the love of God in Christ Jesus our Lord.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Israel’s Rejection Considered
@@ -322,7 +322,7 @@
 [32] Why not? Because they pursued it not by faith but (as if it were possible) by works. They stumbled over the stumbling stone,
 [33] just as it is written,
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 [1] Brothers and sisters, my heart’s desire and prayer to God on behalf of my fellow Israelites is for their salvation.
 [2] For I can testify that they are zealous for God, but their zeal is not in line with the truth.
@@ -346,7 +346,7 @@
 [20] And Isaiah is even bold enough to say, “I was found by those who did not seek me; I became well known to those who did not ask for me.”
 [21] But about Israel he says, “All day long I held out my hands to this disobedient and stubborn people!”
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Israel’s Rejection not Complete nor Final
@@ -384,7 +384,7 @@
 [33] Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how unfathomable his ways!
 [36] For from him and through him and to him are all things. To him be glory forever! Amen.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Consecration of the Believer’s Life
@@ -417,7 +417,7 @@
 [20] Rather, if your enemy is hungry, feed him; if he is thirsty, give him a drink; for in doing this you will be heaping burning coals on his head.
 [21] Do not be overcome by evil, but overcome evil with good.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Submission to Civil Government
@@ -443,7 +443,7 @@
 [13] Let us live decently as in the daytime, not in carousing and drunkenness, not in sexual immorality and sensuality, not in discord and jealousy.
 [14] Instead, put on the Lord Jesus Christ, and make no provision for the flesh to arouse its desires.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Exhortation to Mutual Forbearance
@@ -475,7 +475,7 @@
 [22] The faith you have, keep to yourself before God. Blessed is the one who does not judge himself by what he approves.
 [23] But the man who doubts is condemned if he eats, because he does not do so from faith, and whatever is not from faith is sin.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Exhortation for the Strong to Help the Weak
@@ -523,7 +523,7 @@
 [32] so that by God’s will I may come to you with joy and be refreshed in your company.
 [33] Now may the God of peace be with all of you. Amen.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### Personal Greetings

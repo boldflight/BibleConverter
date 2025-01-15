@@ -1,6 +1,6 @@
 # Numbers
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Organizing the Census of the Israelites
@@ -69,7 +69,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 [53] But the Levites must camp around the tabernacle of the testimony, so that the Lord’s anger will not fall on the Israelite community. The Levites are responsible for the care of the tabernacle of the testimony.”
 [54] The Israelites did according to all that the Lord commanded Moses —that is what they did.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Arrangement of the Tribes
@@ -127,7 +127,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 [33] But the Levites were not numbered among the other Israelites, as the Lord commanded Moses.
 [34] So the Israelites did according to all that the Lord commanded Moses; that is the way they camped under their standards, and that is the way they traveled, each with his clan and family.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Sons of Aaron
@@ -205,7 +205,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 [50] From the firstborn males of the Israelites he collected the money, 1,365 shekels, according to the sanctuary shekel.
 [51] Moses gave the redemption money to Aaron and his sons, according to the word of the Lord, as the Lord had commanded Moses.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Service of the Kohathites
@@ -269,7 +269,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 [48] those of them numbered were 8,580.
 [49] According to the word of the Lord they were numbered, by the authority of Moses, each according to his service and according to what he was to carry. Thus were they numbered by him, as the Lord had commanded Moses.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Separation of the Unclean
@@ -312,7 +312,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 [30] or when jealous feelings come over a man and he becomes suspicious of his wife; then he must have the woman stand before the Lord, and the priest will carry out all this law upon her.
 [31] Then the man will be free from iniquity, but that woman will bear the consequences of her iniquity.’”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Nazirite Vow
@@ -356,7 +356,7 @@ and be gracious to you;
 and give you peace.”’
 [27] “So they will put my name on the Israelites, and I will bless them.”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Leader’s Offerings
@@ -463,7 +463,7 @@ and give you peace.”’
 [88] All the animals for the sacrifice for the peace offering were 24 young bulls, 60 rams, 60 male goats, and 60 lambs in their first year. These were the dedication offerings for the altar after it was anointed.
 [89] Now when Moses went into the tent of meeting to speak with the Lord, he heard the voice speaking to him from above the atonement lid that was on the ark of the testimony, from between the two cherubim. Thus he spoke to him.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Lighting the Lamps
@@ -501,7 +501,7 @@ and give you peace.”’
 [25] and at the age of fifty years they must retire from performing the work and may no longer work.
 [26] They may assist their colleagues in the tent of meeting to attend to needs, but they must do no work. This is the way you must establish the Levites regarding their duties.”
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Passover Regulations
@@ -533,7 +533,7 @@ and give you peace.”’
 [22] Whether it was for two days, or a month, or a year that the cloud prolonged its stay over the tabernacle, the Israelites remained camped without traveling; but when it was taken up, they traveled on.
 [23] At the commandment of the Lord they camped, and at the commandment of the Lord they traveled on; they kept the instructions of the Lord according to the commandment of the Lord, by the authority of Moses.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### The Blowing of Trumpets
@@ -587,7 +587,7 @@ and give you peace.”’
 [35] And when the ark traveled, Moses would say, “Rise up, O Lord! May your enemies be scattered, and may those who hate you flee before you!”
 [36] And when it came to rest he would say, “Return, O Lord, to the many thousands of Israel!”
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### The Israelites Complain
@@ -643,7 +643,7 @@ and give you peace.”’
 [34] So the name of that place was called Kibroth Hattaavah, because there they buried the people that craved different food.
 [35] The people traveled from Kibroth Hattaavah to Hazeroth, and they stayed at Hazeroth.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Miriam and Aaron Oppose Moses
@@ -671,7 +671,7 @@ and give you peace.”’
 [15] So Miriam was shut outside of the camp for seven days, and the people did not journey on until Miriam was brought back in.
 [16] After that the people moved from Hazeroth and camped in the wilderness of Paran.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Spies Sent Out
@@ -719,7 +719,7 @@ and give you peace.”’
 [32] Then they presented the Israelites with a discouraging report of the land they had investigated, saying, “The land that we passed through to investigate is a land that devours its inhabitants. All the people we saw there are of great stature.
 [33] We even saw the Nephilim there (the descendants of Anak came from the Nephilim), and we seemed like grasshoppers both to ourselves and to them.”
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### The Israelites Respond in Unbelief
@@ -773,7 +773,7 @@ and give you peace.”’
 [44] But they dared to go up to the crest of the hill, although neither the ark of the covenant of the Lord nor Moses departed from the camp.
 [45] So the Amalekites and the Canaanites who lived in that hill country swooped down and attacked them as far as Hormah.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Sacrificial Rulings
@@ -832,7 +832,7 @@ and give you peace.”’
 [40] Thus you will remember and obey all my commandments and be holy to your God.
 [41] I am the Lord your God, who brought you out of the land of Egypt to be your God. I am the Lord your God.”
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### The Rebellion of Korah
@@ -894,7 +894,7 @@ and give you peace.”’
 [49] Now 14,700 people died in the plague, in addition to those who died in the event with Korah.
 [50] Then Aaron returned to Moses at the entrance of the tent of meeting, and the plague was stopped.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### The Budding of Aaron’s Staff
@@ -916,7 +916,7 @@ and give you peace.”’
 [12] The Israelites said to Moses, “We are bound to die! We perish, we all perish!
 [13] (
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Responsibilities of the Priests
@@ -963,7 +963,7 @@ and give you peace.”’
 [31] And you may eat it in any place, you and your household, because it is your wages for your service in the tent of meeting.
 [32] And you will bear no sin concerning it when you offer up the best of it. And you must not profane the holy things of the Israelites, or else you will die.’”
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### The Red Heifer Ritual
@@ -994,7 +994,7 @@ and give you peace.”’
 [21] “‘So this will be a perpetual ordinance for them: The one who sprinkles the water of purification must wash his clothes, and the one who touches the water of purification will be unclean until evening.
 [22] And whatever the unclean person touches will be unclean, and the person who touches it will be unclean until evening.’”
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### The Israelites Complain Again
@@ -1041,7 +1041,7 @@ and give you peace.”’
 [28] And Moses removed Aaron’s garments and put them on his son Eleazar. So Aaron died there on the top of the mountain. And Moses and Eleazar came down from the mountain.
 [29] When all the community saw that Aaron was dead, the whole house of Israel mourned for Aaron thirty days.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### Victory at Hormah
@@ -1108,7 +1108,7 @@ which reaches to Medeba.”
 [34] And the Lord said to Moses, “Do not fear him, for I have delivered him and all his people and his land into your hand. You will do to him what you did to King Sihon of the Amorites, who lived in Heshbon.”
 [35] So they defeated Og, his sons, and all his people, until there were no survivors, and they possessed his land.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Balaam Refuses to Curse Israel
@@ -1164,7 +1164,7 @@ which reaches to Medeba.”
 [40] And Balak sacrificed bulls and sheep, and sent some to Balaam, and to the princes who were with him.
 [41] Then on the next morning Balak took Balaam, and brought him up to Bamoth Baal. From there he saw the extent of the nation.
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### Balaam Blesses Israel
@@ -1236,7 +1236,7 @@ and drink the blood of the slain.”
 [29] Then Balaam said to Balak, “Build seven altars here for me, and prepare seven bulls and seven rams.”
 [30] So Balak did as Balaam had said, and offered a bull and a ram on each altar.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### Balaam Prophesies Yet Again
@@ -1312,7 +1312,7 @@ and will afflict Asshur, and will afflict Eber,
 and he will also perish forever.”
 [25] Balaam got up and departed and returned to his home, and Balak also went his way.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### Israel’s Sin with the Moabite Women
@@ -1342,7 +1342,7 @@ and he will also perish forever.”
 [17] “Bring trouble to the Midianites, and destroy them,
 [18] because they bring trouble to you by their treachery with which they have deceived you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, who was killed on the day of the plague that happened as a result of Peor.”
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### A Second Census Required
@@ -1452,7 +1452,7 @@ and he will also perish forever.”
 [64] But there was not a man among these who had been among those numbered by Moses and Aaron the priest when they numbered the Israelites in the desert of Sinai.
 [65] For the Lord had said of them, “They will surely die in the wilderness.” And there was not left a single man of them, except Caleb son of Jephunneh and Joshua son of Nun.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### Special Inheritance Laws
@@ -1484,7 +1484,7 @@ and he will also perish forever.”
 [22] So Moses did as the Lord commanded him; he took Joshua and set him before Eleazar the priest and before the whole community.
 [23] He laid his hands on him and commissioned him, just as the Lord commanded, by the authority of Moses.
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### Daily Offerings
@@ -1533,7 +1533,7 @@ and he will also perish forever.”
 [30] as well as one male goat to make an atonement for you.
 [31] You are to offer them with their drink offerings in addition to the continual burnt offering and its grain offering—they must be unblemished.
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 
 ### Blowing Trumpets
@@ -1585,7 +1585,7 @@ and he will also perish forever.”
 [39] “‘These things you must present to the Lord at your appointed times, in addition to your vows and your freewill offerings, as your burnt offerings, your grain offerings, your drink offerings, and your peace offerings.’”
 [40] (
 
-## Chapter 30 <!-- scripture:30 -->
+## Chapter 30
 
 
 ### Vows Made by Men
@@ -1616,7 +1616,7 @@ and he will also perish forever.”
 [15] But if he should nullify them after he has heard them, then he will bear her iniquity.”
 [16] These are the statutes that the Lord commanded Moses, relating to a man and his wife, and a father and his young daughter who is still living in her father’s house.
 
-## Chapter 31 <!-- scripture:31 -->
+## Chapter 31
 
 
 ### The Midianite War
@@ -1688,7 +1688,7 @@ and he will also perish forever.”
 [53] Each soldier had taken plunder for himself.
 [54] So Moses and Eleazar the priest received the gold from the commanders of thousands and commanders of hundreds and brought it into the tent of meeting as a memorial for the Israelites before the Lord.
 
-## Chapter 32 <!-- scripture:32 -->
+## Chapter 32
 
 
 ### The Petition of the Reubenites and Gadites
@@ -1745,7 +1745,7 @@ and he will also perish forever.”
 [41] Now Jair son of Manasseh went and captured their small towns and named them Havvoth Jair.
 [42] Then Nobah went and captured Kenath and its villages and called it Nobah after his own name.
 
-## Chapter 33 <!-- scripture:33 -->
+## Chapter 33
 
 
 ### Wanderings from Egypt to Sinai
@@ -1816,7 +1816,7 @@ and he will also perish forever.”
 [55] But if you do not drive out the inhabitants of the land before you, then those whom you allow to remain will be irritants in your eyes and thorns in your side, and will cause you trouble in the land where you will be living.
 [56] And what I intended to do to them I will do to you.’”
 
-## Chapter 34 <!-- scripture:34 -->
+## Chapter 34
 
 
 ### The Southern Border of the Land
@@ -1863,7 +1863,7 @@ and he will also perish forever.”
 [28] and from the tribe of the Naphtalites, a leader, Pedahel son of Ammihud.”
 [29] These are the ones whom the Lord commanded to divide up the inheritance among the Israelites in the land of Canaan.
 
-## Chapter 35 <!-- scripture:35 -->
+## Chapter 35
 
 
 ### The Levitical Cities
@@ -1906,7 +1906,7 @@ and he will also perish forever.”
 [33] “‘You must not pollute the land where you live, for blood defiles the land, and the land cannot be cleansed of the blood that is shed there, except by the blood of the person who shed it.
 [34] Therefore do not defile the land that you will inhabit, in which I live, for I the Lord live among the Israelites.’”
 
-## Chapter 36 <!-- scripture:36 -->
+## Chapter 36
 
 
 ### Women and Land Inheritance

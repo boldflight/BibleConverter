@@ -1,6 +1,6 @@
 # Joshua
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Lord Commissions Joshua
@@ -27,7 +27,7 @@
 [17] Just as we obeyed Moses, so we will obey you. But may the Lord your God be with you as he was with Moses.
 [18] Any man who rebels against what you say and does not obey all your commands will be executed. But be strong and brave!”
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Joshua Sends Spies into the Land
@@ -57,7 +57,7 @@
 [23] Then the two men returned—they came down from the hills, crossed the river, came to Joshua son of Nun, and reported to him all they had discovered.
 [24] They told Joshua, “Surely the Lord is handing over all the land to us! All who live in the land are cringing before us!”
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Israel Crosses the Jordan
@@ -80,7 +80,7 @@
 [16] the water coming downstream toward them stopped flowing. It piled up far upstream at Adam (the city near Zarethan); there was no water at all flowing to the sea of the rift valley (the Salt Sea). The people crossed the river opposite Jericho.
 [17] The priests carrying the ark of the covenant of the Lord stood firmly on dry ground in the middle of the Jordan. All Israel crossed over on dry ground until the entire nation was on the other side.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Israel Commemorates the Crossing
@@ -110,7 +110,7 @@
 [23] For the Lord your God dried up the water of the Jordan before you while you crossed over. It was just like when the Lord your God dried up the Red Sea before us while we crossed it.
 [24] He has done this so all the nations of the earth might recognize the Lord’s power and so you might always obey the Lord your God.”
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 [1] When all the Amorite kings on the west side of the Jordan and all the Canaanite kings along the seacoast heard how the Lord had dried up the water of the Jordan before the Israelites while they crossed, they lost their courage and could not even breathe for fear of the Israelites.
 
@@ -134,7 +134,7 @@
 [14] He answered, “Truly I am the commander of the Lord’s army. Now I have arrived!” Joshua bowed down with his face to the ground and asked, “What does my master want to say to his servant?”
 [15] The commander of the Lord’s army answered Joshua, “Remove your sandals from your feet, because the place where you stand is holy.” Joshua did so.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 [1] Now Jericho was shut tightly because of the Israelites. No one was allowed to leave or enter.
 [2] The Lord told Joshua, “See, I am about to defeat Jericho for you, along with its king and its warriors.
@@ -164,7 +164,7 @@
 [26] At that time Joshua made this solemn declaration: “The man who attempts to rebuild this city of Jericho will stand condemned before the Lord. He will lose his firstborn son when he lays its foundations and his youngest son when he erects its gates!”
 [27] The Lord was with Joshua and he became famous throughout the land.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Achan Sins and is Punished
@@ -196,7 +196,7 @@
 [25] Joshua said, “Why have you brought disaster on us? The Lord will bring disaster on you today!” All Israel stoned him to death. (They also stoned and burned the others.)
 [26] Then they erected over him a large pile of stones (it remains to this very day) and the Lord’s anger subsided. So that place is called the Valley of Disaster to this very day.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Israel Conquers Ai
@@ -240,7 +240,7 @@
 [34] Then Joshua read aloud all the words of the law, including the blessings and the curses, just as they are written in the law scroll.
 [35] Joshua read aloud every commandment Moses had given before the whole assembly of Israel, including the women, children, and resident foreigners who lived among them.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### The Gibeonites Deceive Israel
@@ -273,7 +273,7 @@
 [26] Joshua did as they said; he kept the Israelites from killing them
 [27] and that day made them woodcutters and water carriers for the community and for the altar of the Lord at the divinely chosen site. (They continue in that capacity to this very day.)
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Israel Defeats an Amorite Coalition
@@ -327,7 +327,7 @@ O moon, over the Valley of Aijalon!”
 [42] Joshua captured in one campaign all these kings and their lands, for the Lord God of Israel fought for Israel.
 [43] Then Joshua and all Israel returned to the camp at Gilgal.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Israel Defeats a Northern Coalition
@@ -359,7 +359,7 @@ O moon, over the Valley of Aijalon!”
 [22] No Anakites were left in Israelite territory, though some remained in Gaza, Gath, and Ashdod.
 [23] Joshua conquered the whole land, just as the Lord had promised Moses, and he assigned Israel their tribal portions. Then the land was free of war.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 [1] Now these are the kings of the land whom the Israelites defeated and drove from their land on the east side of the Jordan, from the Arnon Valley to Mount Hermon, including all the eastern rift valley:
 [2] King Sihon of the Amorites who lived in Heshbon and ruled from Aroer (on the edge of the Arnon Valley)—including the city in the middle of the valley and half of Gilead—all the way to the Jabbok Valley bordering Ammonite territory.
@@ -401,7 +401,7 @@ the king of Jokneam near Carmel (one),
 the king of Goyim—near Gilgal—(one),
 [24] the king of Tirzah (one),
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### The Lord Speaks to Joshua
@@ -443,7 +443,7 @@ the king of Goyim—near Gilgal—(one),
 [32] These are the land assignments made by Moses in the rift valley plains of Moab east of the Jordan River opposite Jericho.
 [33] However, Moses did not assign land as an inheritance to the Levites; their inheritance is the Lord God of Israel, as he instructed them.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Judah’s Tribal Lands
@@ -464,7 +464,7 @@ the king of Goyim—near Gilgal—(one),
 [14] So Hebron remains the assigned land of Caleb son of Jephunneh the Kenizzite to this very day because he remained loyal to the Lord God of Israel.
 [15] (Hebron used to be called Kiriath Arba. Arba was a famous Anakite.) Then the land was free of war.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 [1] The land allotted to the tribe of Judah by its clans reached to the border of Edom, to the wilderness of Zin in the Negev far to the south.
 [2] Their southern border started at the southern tip of the Salt Sea,
@@ -530,7 +530,7 @@ the king of Goyim—near Gilgal—(one),
 [62] Nibshan, the City of Salt, and En Gedi—a total of six cities and their towns.
 [63] The men of Judah were unable to conquer the Jebusites living in Jerusalem. The Jebusites live with the people of Judah in Jerusalem to this very day.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### Joseph’s Tribal Lands
@@ -546,7 +546,7 @@ the king of Goyim—near Gilgal—(one),
 [9] Also included were the cities set apart for the tribe of Ephraim within Manasseh’s territory, along with their towns.
 [10] The Ephraimites did not conquer the Canaanites living in Gezer. The Canaanites live among the Ephraimites to this very day and do hard labor as their servants.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 [1] The tribe of Manasseh, Joseph’s firstborn son, was also allotted land. The descendants of Makir, Manasseh’s firstborn and the father of Gilead, received land, for they were warriors. They were assigned Gilead and Bashan.
 [2] The rest of Manasseh’s descendants were also assigned land by their clans, including the descendants of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These are the male descendants of Manasseh son of Joseph by their clans.
@@ -567,7 +567,7 @@ the king of Goyim—near Gilgal—(one),
 [17] Joshua said to the family of Joseph—to both Ephraim and Manasseh: “You have many people and great military strength. You will not have just one tribal allotment.
 [18] The whole hill country will be yours; though it is a forest, you can clear it, and it will be entirely yours. You can conquer the Canaanites, though they have chariots with iron-rimmed wheels and are strong.”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### The Tribes Meet at Shiloh
@@ -604,7 +604,7 @@ the king of Goyim—near Gilgal—(one),
 [27] Rekem, Irpeel, Taralah,
 [28] Zelah, Haeleph, the Jebusite city (that is, Jerusalem), Gibeah, and Kiriath—a total of fourteen cities and their towns. This was the land assigned to the tribe of Benjamin by its clans.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Simeon’s Tribal Lands
@@ -679,7 +679,7 @@ the king of Goyim—near Gilgal—(one),
 [50] As the Lord had instructed, they gave him the city he requested—Timnath Serah in the Ephraimite hill country. He built up the city and lived in it.
 [51] These are the land assignments that Eleazar the priest, Joshua son of Nun, and the Israelite tribal leaders made by drawing lots in Shiloh before the Lord at the entrance of the tent of meeting. So they finished dividing up the land.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Israel Designates Cities of Refuge
@@ -694,7 +694,7 @@ the king of Goyim—near Gilgal—(one),
 [8] Beyond the Jordan east of Jericho they selected Bezer in the wilderness on the plain belonging to the tribe of Reuben, Ramoth in Gilead belonging to the tribe of Gad, and Golan in Bashan belonging to the tribe of Manasseh.
 [9] These were the cities of refuge appointed for all the Israelites and for resident foreigners living among them. Anyone who accidentally killed someone could escape there and not be executed by the avenger of blood, at least until his case was reviewed by the assembly.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### Levitical Cities
@@ -745,7 +745,7 @@ the king of Goyim—near Gilgal—(one),
 [44] The Lord made them secure, in fulfillment of all he had solemnly promised their ancestors. None of their enemies could resist them. The Lord handed all their enemies over to them.
 [45] Not one of the Lord’s faithful promises to the family of Israel was left unfulfilled; every one was realized.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Joshua Sends Home the Eastern Tribes
@@ -788,7 +788,7 @@ the king of Goyim—near Gilgal—(one),
 [33] The Israelites were satisfied with their report and gave thanks to God. They said nothing more about launching an attack to destroy the land in which the Reubenites and Gadites lived.
 [34] The Reubenites and Gadites named the altar, “Surely it is a Reminder to us that the Lord is God.”
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### Joshua Challenges Israel to be Faithful
@@ -810,7 +810,7 @@ the king of Goyim—near Gilgal—(one),
 [15] But in the same way every faithful promise the Lord your God made to you has been realized, it is just as certain that if you disobey, then the Lord will bring on you every judgment until he destroys you from this good land that the Lord your God gave you.
 [16] If you violate the covenantal laws of the Lord your God which he commanded you to keep, and follow, worship, and bow down to other gods, then the Lord will be very angry with you and you will disappear quickly from the good land that he gave to you.”
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### Israel Renews its Commitment to the Lord

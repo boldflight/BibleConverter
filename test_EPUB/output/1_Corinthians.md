@@ -1,6 +1,6 @@
 # 1 Corinthians
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -46,7 +46,7 @@
 [30] He is the reason you have a relationship with Christ Jesus, who became for us wisdom from God, and righteousness and sanctification and redemption,
 [31] so that, as it is written, “Let the one who boasts, boast in the Lord.”
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 [1] When I came to you, brothers and sisters, I did not come with superior eloquence or wisdom as I proclaimed the testimony of God.
 [2] For I decided to be concerned about nothing among you except Jesus Christ, and him crucified.
@@ -68,7 +68,7 @@
 [15] The one who is spiritual discerns all things, yet he himself is understood by no one.
 [16] For who has known the mind of the Lord, so as to advise him? But we have the mind of Christ.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Immaturity and Self-deception
@@ -97,7 +97,7 @@
 [22] whether Paul or Apollos or Cephas or the world or life or death or the present or the future. Everything belongs to you,
 [23] and you belong to Christ, and Christ belongs to God.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Apostles’ Ministry
@@ -127,7 +127,7 @@
 [20] For the kingdom of God is demonstrated not in idle talk but with power.
 [21] What do you want? Shall I come to you with a rod of discipline or with love and a spirit of gentleness?
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Church Discipline
@@ -146,7 +146,7 @@
 [12] For what do I have to do with judging those outside? Are you not to judge those inside?
 [13] But God will judge those outside. Remove the evil person from among you.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Lawsuits
@@ -175,7 +175,7 @@
 [19] Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own?
 [20] For you were bought at a price. Therefore glorify God with your body.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Celibacy and Marriage
@@ -227,7 +227,7 @@
 [39] A wife is bound as long as her husband is living. But if her husband dies, she is free to marry anyone she wishes (only someone in the Lord).
 [40] But in my opinion, she will be happier if she remains as she is—and I think that I too have the Spirit of God!
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Food Sacrificed to Idols
@@ -246,7 +246,7 @@
 [12] If you sin against your brothers or sisters in this way and wound their weak conscience, you sin against Christ.
 [13] For this reason, if food causes my brother or sister to sin, I will never eat meat again, so that I may not cause one of them to sin.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### The Rights of an Apostle
@@ -279,7 +279,7 @@
 [26] So I do not run uncertainly or box like one who hits only air.
 [27] Instead I subdue my body and make it my slave, so that after preaching to others I myself will not be disqualified.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Learning from Israel’s Failures
@@ -310,7 +310,7 @@
 [21] You cannot drink the cup of the Lord and the cup of demons. You cannot take part in the table of the Lord and the table of demons.
 [22] Or are we trying to provoke the Lord to jealousy? Are we really stronger than he is?
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Live to Glorify God
@@ -367,7 +367,7 @@
 [33] So then, my brothers and sisters, when you come together to eat, wait for one another.
 [34] If anyone is hungry, let him eat at home, so that when you assemble it does not lead to judgment. I will give directions about other matters when I come.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Spiritual Gifts
@@ -407,7 +407,7 @@
 [30] Not all have gifts of healing, do they? Not all speak in tongues, do they? Not all interpret, do they?
 [31] But you should be eager for the greater gifts.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### The Way of Love
@@ -426,7 +426,7 @@
 [12] For now we see in a mirror indirectly, but then we will see face to face. Now I know in part, but then I will know fully, just as I have been fully known.
 [13] And now these three remain: faith, hope, and love. But the greatest of these is love.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Prophecy and Tongues
@@ -475,7 +475,7 @@
 [39] So then, brothers and sisters, be eager to prophesy, and do not forbid anyone from speaking in tongues.
 [40] And do everything in a decent and orderly manner.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Christ’s Resurrection
@@ -541,7 +541,7 @@
 [53] For this perishable body must put on the imperishable, and this mortal body must put on immortality.
 [54] Now when this perishable puts on the imperishable, and this mortal puts on immortality, then the saying that is written will happen,
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### A Collection to Aid Jewish Christians

@@ -1,6 +1,6 @@
 # 1 Chronicles
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Adam’s Descendants
@@ -90,7 +90,7 @@
 [53] Kenaz, Teman, Mibzar,
 [54] Magdiel, and Iram. These were the tribal chiefs of Edom.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Israel’s Descendants
@@ -166,7 +166,7 @@
 [54] The sons of Salma: Bethlehem, the Netophathites, Atroth Beth Joab, half the Manahathites, the Zorites,
 [55] and the clans of the scribes who lived in Jabez: the Tirathites, Shimeathites, and Sucathites. These are the Kenites who descended from Hammath, the father of Beth Rechab.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### David’s Descendants
@@ -199,7 +199,7 @@
 [23] The sons of Neariah: Elioenai, Hizkiah, and Azrikam—three in all.
 [24] The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven in all.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Judah’s Descendants
@@ -251,7 +251,7 @@
 [42] Five hundred men of Simeon, led by Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi, went to the hill country of Seir
 [43] and defeated the rest of the Amalekite refugees; they live there to this very day.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Reuben’s Descendants
@@ -289,7 +289,7 @@
 [25] But they were unfaithful to the God of their ancestors and worshiped instead the gods of the native peoples whom God had destroyed before them.
 [26] So the God of Israel stirred up King Pul of Assyria (that is, King Tiglath-Pileser of Assyria), and he carried away the Reubenites, Gadites, and half-tribe of Manasseh and took them to Halah, Habor, Hara, and the river of Gozan, where they remain to this very day.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Levi’s Descendants
@@ -379,7 +379,7 @@
 [80] Within the territory of the tribe of Gad: Ramoth in Gilead and its pasturelands, Mahanaim and its pasturelands,
 [81] Heshbon and its pasturelands, and Jazer and its pasturelands.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Issachar’s Descendants
@@ -440,7 +440,7 @@
 [39] The sons of Ulla: Arah, Hanniel, and Rizia.
 [40] All these were the descendants of Asher. They were the leaders of their families, the most capable men, who were warriors and served as head chiefs. There were 26,000 warriors listed in their genealogical records as capable of doing battle.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Benjamin’s Descendants (Continued)
@@ -486,7 +486,7 @@
 [39] The sons of his brother Eshek:
 [40] The sons of Ulam were warriors who were adept archers. They had many sons and grandsons, a total of 150.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 [1] Genealogical records were kept for all Israel; they are recorded in the Scroll of the Kings of Israel.
 
@@ -539,7 +539,7 @@
 [43] and Moza was the father of Binea. His son was Rephaiah, whose son was Eleasah, whose son was Azel.
 [44] Azel had six sons: Azrikam his firstborn, followed by Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Saul’s Death
@@ -559,7 +559,7 @@
 [13] So Saul died because he was unfaithful to the Lord and did not obey the Lord’s instructions; he even tried to conjure up underworld spirits.
 [14] He did not seek the Lord’s guidance, so the Lord killed him and transferred the kingdom to David son of Jesse.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### David Becomes King
@@ -618,7 +618,7 @@
 [46] Eliel the Mahavite,
 [47] Eliel,
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Warriors Who Joined David at Ziklag
@@ -667,7 +667,7 @@
 [39] They spent three days feasting there with David, for their relatives had given them provisions.
 [40] Also their neighbors, from as far away as Issachar, Zebulun, and Naphtali, were bringing food on donkeys, camels, mules, and oxen. There were large supplies of flour, fig cakes, raisins, wine, olive oil, beef, and lamb, for Israel was celebrating.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Uzzah Meets Disaster
@@ -687,7 +687,7 @@
 [13] So David did not move the ark to the City of David; he left it in the house of Obed-Edom the Gittite.
 [14] The ark of God remained in Obed-Edom’s house for three months; the Lord blessed Obed-Edom’s family and everything that belonged to him.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### David’s Prestige Grows
@@ -710,7 +710,7 @@
 [16] David did just as God commanded him, and they struck down the Philistine army from Gibeon to Gezer.
 [17] So David became famous in all the lands; the Lord caused all the nations to fear him.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### David Brings the Ark to Jerusalem
@@ -745,7 +745,7 @@
 [28] All Israel brought up the ark of the Lord’s covenant; they were shouting, blowing trumpets, sounding cymbals, and playing stringed instruments.
 [29] As the ark of the Lord’s covenant entered the City of David, Michal, Saul’s daughter, looked out the window. When she saw King David jumping and celebrating, she despised him.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### David Leads in Worship
@@ -834,7 +834,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [42] Heman and Jeduthun were in charge of the music, including the trumpets, cymbals, and the other musical instruments used in praising God. The sons of Jeduthun guarded the entrance.
 [43] Then all the people returned to their homes, and David went to pronounce a blessing on his family.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### God Makes a Promise to David
@@ -870,7 +870,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [26] Now, O Lord, you are the true God; you have made this good promise to your servant.
 [27] Now you are willing to bless your servant’s dynasty so that it may stand permanently before you, for you, O Lord, have blessed it and it will be blessed from now on into the future.”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### David Conquers the Neighboring Nations
@@ -896,7 +896,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [16] Zadok son of Ahitub and Abimelech son of Abiathar were priests; Shavsha was scribe;
 [17] Benaiah son of Jehoiada supervised the Kerethites and Pelethites; and David’s sons were the king’s leading officials.
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### David’s Campaign against the Ammonites
@@ -921,7 +921,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [18] The Arameans fled before Israel. David killed 7,000 Aramean charioteers and 40,000 infantrymen; he also killed Shophach the commanding general.
 [19] When Hadadezer’s subjects saw they were defeated by Israel, they made peace with David and became his subjects. The Arameans were no longer willing to help the Ammonites.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 [1] In the spring, at the time when kings normally conduct wars, Joab led the army into battle and devastated the land of the Ammonites. He went and besieged Rabbah, while David stayed in Jerusalem. Joab defeated Rabbah and tore it down.
 [2] David took the crown from the head of their king and wore it (its weight was a talent of gold and it was set with precious stones). He took a large amount of plunder from the city.
@@ -935,7 +935,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [7] When he taunted Israel, Jonathan son of Shimea, David’s brother, killed him.
 [8] These were the descendants of Rapha who lived in Gath; they were killed by the hand of David and his soldiers.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### The Lord Sends a Plague against Israel
@@ -968,7 +968,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [26] David built there an altar to the Lord and offered burnt sacrifices and peace offerings. He called out to the Lord, and the Lord responded by sending fire from the sky and consuming the burnt sacrifice on the altar.
 [27] The Lord ordered the messenger to put his sword back into its sheath.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 [28] At that time, when David saw that the Lord responded to him at the threshing floor of Ornan the Jebusite, he sacrificed there.
 [29] Now the Lord’s tabernacle (which Moses had made in the wilderness) and the altar for burnt sacrifices were at that time at the worship center in Gibeon.
@@ -996,7 +996,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [18] He told them, “The Lord your God is with you! He has made you secure on every side, for he handed over to me the inhabitants of the region and the region is subdued before the Lord and his people.
 [19] Now seek the Lord your God wholeheartedly and with your entire being! Get up and build the sanctuary of the Lord God! Then you can bring the ark of the Lord’s covenant and the holy items dedicated to God’s service into the temple that is built to honor the Lord.”
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### David Organizes the Levites
@@ -1034,7 +1034,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [31] and whenever burnt sacrifices were offered to the Lord on the Sabbath and at new moon festivals and assemblies. A designated number were to serve before the Lord regularly in accordance with regulations.
 [32] They were in charge of the meeting tent and the Holy Place, and helped their relatives, the descendants of Aaron, in the service of the Lord’s temple.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### David Organizes the Priests
@@ -1074,7 +1074,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [30] The sons of Mushi: Mahli, Eder, and Jerimoth.
 [31] Like their relatives, the descendants of Aaron, they also cast lots before King David, Zadok, Ahimelech, the leaders of families, the priests, and the Levites. The families of the oldest son cast lots along with those of the youngest.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### David Organizes the Musicians
@@ -1111,7 +1111,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [30] the twenty-third to Mahazioth and his sons and relatives—twelve in all,
 [31] the twenty-fourth to Romamti-Ezer and his sons and relatives—twelve in all.
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### Divisions of Gatekeepers
@@ -1152,7 +1152,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [31] As for the Hebronites: Jeriah was the leader of the Hebronites according to the genealogical records. In the fortieth year of David’s reign, they examined the records and discovered there were highly respected men in Jazer in Gilead.
 [32] Jeriah had 2,700 relatives who were respected family leaders. King David placed them in charge of the Reubenites, the Gadites, and the half-tribe of Manasseh; they took care of all matters pertaining to God and the king.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### Leaders of the Army
@@ -1195,7 +1195,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [33] Ahithophel was the king’s adviser;
 [34] Ahithophel was succeeded by Jehoiada son of Benaiah and by Abiathar.
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### David Commissions Solomon to Build the Temple
@@ -1222,7 +1222,7 @@ Then all the people said, “We agree! Praise the Lord.”
 [20] David said to his son Solomon: “Be strong and brave! Do it! Don’t be afraid and don’t panic! For the Lord God, my God, is with you. He will not leave you or abandon you before all the work for the service of the Lord’s temple is finished.
 [21] Here are the divisions of the priests and Levites who will perform all the service of God’s temple. All the willing and skilled men are ready to assist you in all the work and perform their service. The officials and all the people are ready to follow your instructions.”
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 
 ### The People Contribute to the Project

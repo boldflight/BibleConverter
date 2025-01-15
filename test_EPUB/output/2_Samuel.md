@@ -1,6 +1,6 @@
 # 2 Samuel
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### David Learns of the Deaths of Saul and Jonathan
@@ -54,7 +54,7 @@ Your love was more special to me than the love of women.
 [27] How the warriors have fallen!
 The weapons of war are destroyed!
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### David is Anointed King
@@ -92,7 +92,7 @@ The weapons of war are destroyed!
 [28] Then Joab blew the ram’s horn and all the people stopped in their tracks. They stopped chasing Israel and ceased fighting.
 [29] Abner and his men went through the rift valley all that night. They crossed the Jordan River and went through the whole region of Bitron and came to Mahanaim.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 [30] Now Joab returned from chasing Abner and assembled all the people. Nineteen of David’s soldiers were missing, in addition to Asahel.
 [31] But David’s soldiers had slaughtered the Benjaminites and Abner’s men—in all, 360 men had died!
@@ -146,7 +146,7 @@ You fell the way one falls before criminals.”
 [38] Then the king said to his servants, “Do you not realize that a great leader has fallen this day in Israel?
 [39] Today I am weak, even though I am anointed as king. These men, the sons of Zeruiah, are too much for me to bear! May the Lord punish appropriately the one who has done this evil thing!”
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Ish Bosheth is killed
@@ -164,7 +164,7 @@ You fell the way one falls before criminals.”
 [11] Surely when wicked men have killed an innocent man as he slept in his own house, should I not now require his blood from your hands and remove you from the earth?”
 [12] So David issued orders to the soldiers and they put them to death. Then they cut off their hands and feet and hung them near the pool in Hebron. But they took the head of Ish Bosheth and buried it in the tomb of Abner in Hebron.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### David Is Anointed King Over Israel
@@ -201,7 +201,7 @@ You fell the way one falls before criminals.”
 [24] When you hear the sound of marching in the tops of the trees, act decisively. For at that moment the Lord is going before you to strike down the army of the Philistines.”
 [25] David did just as the Lord commanded him, and he struck down the Philistines from Gibeon all the way to Gezer.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### David Brings the Ark to Jerusalem
@@ -230,7 +230,7 @@ You fell the way one falls before criminals.”
 [22] I am willing to shame and humiliate myself even more than this. But with the slave girls whom you mentioned, let me be distinguished.”
 [23] Now Michal, Saul’s daughter, had no children to the day of her death.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Lord Establishes a Covenant with David
@@ -268,7 +268,7 @@ You fell the way one falls before criminals.”
 [28] Now, O Sovereign Lord, you are the true God. May your words prove to be true! You have made this good promise to your servant.
 [29] Now be willing to bless your servant’s dynasty so that it may stand permanently before you, for you, O Sovereign Lord, have spoken. By your blessing may your servant’s dynasty be blessed from now on into the future!”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### David Subjugates Nearby Nations
@@ -295,7 +295,7 @@ You fell the way one falls before criminals.”
 [17] Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was scribe;
 [18] Benaiah son of Jehoiada supervised the Kerethites and Pelethites; and David’s sons were priests.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### David Finds Mephibosheth
@@ -314,7 +314,7 @@ You fell the way one falls before criminals.”
 [12] Now Mephibosheth had a young son whose name was Mica. All the members of Ziba’s household were Mephibosheth’s servants.
 [13] Mephibosheth was living in Jerusalem, for he was a regular guest at the king’s table. But both his feet were crippled.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### David and the Ammonites
@@ -339,7 +339,7 @@ You fell the way one falls before criminals.”
 [18] The Arameans fled before Israel. David killed 700 Aramean charioteers and 40,000 foot soldiers. He also struck down Shobach, the general in command of the army, who died there.
 [19] When all the kings who were subject to Hadadezer saw they were defeated by Israel, they made peace with Israel and became subjects of Israel. The Arameans were no longer willing to help the Ammonites.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### David Commits Adultery with Bathsheba
@@ -372,7 +372,7 @@ You fell the way one falls before criminals.”
 [26] When Uriah’s wife heard that her husband Uriah was dead, she mourned for him.
 [27] When the time of mourning passed, David had her brought to his palace. She became his wife and she bore him a son. But what David had done upset the Lord.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Nathan the Prophet Confronts David
@@ -412,7 +412,7 @@ You fell the way one falls before criminals.”
 [30] He took the crown of their king from his head—it was gold, weighed about seventy-five pounds, and held a precious stone—and it was placed on David’s head. He also took from the city a great deal of plunder.
 [31] He removed the people who were in it and made them labor with saws, iron picks, and iron axes, putting them to work at the brick kiln. This was his policy with all the Ammonite cities. Then David and all the army returned to Jerusalem.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### The Rape of Tamar
@@ -460,7 +460,7 @@ You fell the way one falls before criminals.”
 [38] After Absalom fled and went to Geshur, he remained there for three years.
 [39] The king longed to go to Absalom, for he had since been consoled over the death of Amnon.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### David Permits Absalom to Return to Jerusalem
@@ -499,7 +499,7 @@ You fell the way one falls before criminals.”
 [32] Absalom said to Joab, “Look, I sent a message to you saying, ‘Come here so that I can send you to the king with this message: “Why have I come from Geshur? It would be better for me if I were still there.”’ Let me now see the face of the king. If I am at fault, let him put me to death!”
 [33] So Joab went to the king and informed him. The king summoned Absalom, and he came to the king. Absalom bowed down before the king with his face toward the ground and the king kissed him.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Absalom Leads an Insurrection against David
@@ -545,7 +545,7 @@ You fell the way one falls before criminals.”
 [36] Furthermore, their two sons are there with them, Zadok’s son Ahimaaz and Abiathar’s son Jonathan. You must send them to me with any information you hear.”
 [37] So David’s friend Hushai arrived in the city, just as Absalom was entering Jerusalem.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### David Receives Gifts from Ziba
@@ -580,7 +580,7 @@ You fell the way one falls before criminals.”
 [22] So they pitched a tent for Absalom on the roof, and Absalom slept with his father’s concubines in the sight of all Israel.
 [23] In those days Ahithophel’s advice was considered as valuable as a prophetic revelation. Both David and Absalom highly regarded the advice of Ahithophel.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### The Death of Ahithophel
@@ -615,7 +615,7 @@ You fell the way one falls before criminals.”
 [28] brought bedding, basins, and pottery utensils. They also brought food for David and all who were with him, including wheat, barley, flour, roasted grain, beans, lentils,
 [29] honey, curds, flocks, and cheese. For they said, “The people are no doubt hungry, tired, and thirsty there in the desert.”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### The Death of Absalom
@@ -657,7 +657,7 @@ You fell the way one falls before criminals.”
 [32] The king asked the Cushite, “How is the young man Absalom?” The Cushite replied, “May the enemies of my lord the king and all who have plotted against you be like that young man!”
 [33] (
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 [1] (
 [2] So the victory of that day was turned to mourning as far as all the people were concerned. For the people heard on that day, “The king is grieved over his son.”
@@ -706,7 +706,7 @@ You fell the way one falls before criminals.”
 [42] All the men of Judah replied to the men of Israel, “Because the king is our close relative! Why are you so upset about this? Have we eaten at the king’s expense? Or have we misappropriated anything for our own use?”
 [43] The men of Israel replied to the men of Judah, “We have ten shares in the king, and we have a greater claim on David than you do! Why do you want to curse us? Weren’t we the first to suggest bringing back our king?” But the comments of the men of Judah were more severe than those of the men of Israel.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Sheba’s Rebellion
@@ -741,7 +741,7 @@ Every man go home, O Israel!”
 [25] Sheva was the scribe, and Zadok and Abiathar were the priests.
 [26] Ira the Jairite was David’s personal priest.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### The Gibeonites Demand Revenge
@@ -772,7 +772,7 @@ Every man go home, O Israel!”
 [21] When he taunted Israel, Jonathan, the son of David’s brother Shimeah, killed him.
 [22] These four were the descendants of Rapha who lived in Gath; they were killed by David and his soldiers.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### David Sings to the Lord
@@ -893,7 +893,7 @@ I will sing praises to you.
 he is faithful to his chosen ruler,
 to David and to his descendants forever!”
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### David’s Final Words
@@ -961,7 +961,7 @@ They are completely burned up right where they lie!”
 [38] Ira the Ithrite, Gareb the Ithrite,
 [39] and Uriah the Hittite. Altogether there were thirty-seven.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### David Displeases the Lord by Taking a Census

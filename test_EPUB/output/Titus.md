@@ -1,6 +1,6 @@
 # Titus
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -25,7 +25,7 @@
 [15] All is pure to those who are pure. But to those who are corrupt and unbelieving, nothing is pure, but both their minds and consciences are corrupted.
 [16] They profess to know God but with their deeds they deny him, since they are detestable, disobedient, and unfit for any good deed.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Conduct Consistent with Sound Teaching
@@ -46,7 +46,7 @@
 [14] He gave himself for us to set us free from every kind of lawlessness and to purify for himself a people who are truly his, who are eager to do good.
 [15] So communicate these things with the sort of exhortation or rebuke that carries full authority. Don’t let anyone look down on you.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Conduct Toward Those Outside the Church

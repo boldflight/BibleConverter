@@ -1,6 +1,6 @@
 # Zephaniah
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Introduction
@@ -68,7 +68,7 @@ in the day of the Lord’s angry judgment.
 The whole earth will be consumed by his fiery wrath.
 Indeed, he will bring terrifying destruction on all who live on the earth.”
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Prophet Warns the People
@@ -130,7 +130,7 @@ She thought to herself, “I am unique! No one can compare to me!”
 What a heap of ruins she has become, a place where wild animals live!
 Everyone who passes by her taunts her and shakes his fist.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Jerusalem is Corrupt

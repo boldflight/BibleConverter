@@ -1,6 +1,6 @@
 # Ruth
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### A Family Tragedy: Famine and Death
@@ -41,7 +41,7 @@ Only death will be able to separate me from you!”
 [21] I left here full, but the Lord has caused me to return empty-handed. Why do you call me ‘Naomi,’ seeing that the Lord has opposed me, and the Sovereign One has caused me to suffer?”
 [22] So Naomi returned, accompanied by her Moabite daughter-in-law Ruth, who came back with her from the region of Moab. (Now they arrived in Bethlehem at the beginning of the barley harvest.)
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Ruth Works in the Field of Boaz
@@ -76,7 +76,7 @@ Only death will be able to separate me from you!”
 [22] Naomi then said to her daughter-in-law Ruth, “It is good, my daughter, that you should go out to work with his female servants. That way you will not be harmed, which could happen in another field.”
 [23] So Ruth worked beside Boaz’s female servants, gathering grain until the end of the barley harvest as well as the wheat harvest. After that she stayed home with her mother-in-law.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Naomi Instructs Ruth
@@ -106,7 +106,7 @@ Only death will be able to separate me from you!”
 [17] She said, “He gave me these sixty pounds of barley, for he said to me, ‘Do not go to your mother-in-law empty-handed.’”
 [18] Then Naomi said, “Stay put, my daughter, until you know how the matter turns out. For the man will not rest until he has taken care of the matter today.”
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Boaz Settles the Matter

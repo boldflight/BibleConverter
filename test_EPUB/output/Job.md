@@ -1,6 +1,6 @@
 # Job
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### I. The Prologue (1:1—2:13)
@@ -37,7 +37,7 @@
 [21] He said, “Naked I came from my mother’s womb, and naked I will return there. TheLord gives, and theLord takes away. May the name of theLord be blessed!”
 [22] In all this Job did not sin, nor did he charge God with moral impropriety.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Satan’s Additional Charge
@@ -62,7 +62,7 @@
 [12] But when they gazed intently from a distance but did not recognize him, they began to weep loudly. Each of them tore his robes, and they threw dust into the air over their heads.
 [13] Then they sat down with him on the ground for seven days and seven nights, yet no one spoke a word to him, for they saw that his pain was very great.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### II. Job’s Dialogue With His Friends (3:1—27:23)
@@ -138,7 +138,7 @@ and what I feared has come upon me.
 [26] I have no ease, I have no quietness;
 I cannot rest; turmoil has come upon me.”
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Eliphaz Begins to Speak
@@ -198,7 +198,7 @@ they perish forever without anyone regarding it.
 [21] Is not their excess wealth taken away from them?
 They die, yet without attaining wisdom.’
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 To which of the holy ones will you turn?
 [2] For wrath kills the foolish person,
@@ -260,7 +260,7 @@ As stacks of grain are harvested in their season.
 [27] Look, we have investigated this, so it is true.
 Hear it, and apply it for your own good.”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Job Replies to Eliphaz
@@ -350,7 +350,7 @@ reconsider, for my righteousness is intact!
 [30] Is there any falsehood on my lips?
 Can my mouth not discern evil things?
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Brevity of Life
@@ -416,7 +416,7 @@ For now I will lie down in the dust,
 and you will seek me diligently,
 but I will be gone.”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Bildad’s First Speech to Job
@@ -471,7 +471,7 @@ and your lips with gladness.
 [22] Those who hate you will be clothed with shame,
 and the tent of the wicked will be no more.”
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Job’s Reply to Bildad
@@ -564,7 +564,7 @@ so that his terror would not make me afraid.
 [35] Then would I speak and not fear him,
 but it is not so with me.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### An Appeal for Revelation
@@ -636,7 +636,7 @@ like the deepest darkness,
 and the deepest shadow and disorder,
 where even the light is like darkness.”
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Zophar’s First Speech to Job
@@ -689,7 +689,7 @@ and many will seek your favor.
 and escape eludes them;
 their one hope is to breathe their last.”
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Job’s Reply to Zophar
@@ -756,7 +756,7 @@ in a trackless desert waste.
 [25] They grope about in darkness without light;
 he makes them stagger like drunkards.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Job Pleads His Cause to God
@@ -818,7 +818,7 @@ you put marks on the soles of my feet.
 [28] So I waste away like something rotten,
 like a garment eaten by moths.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### The Brevity of Life
@@ -889,7 +889,7 @@ he does not see it.
 [22] His flesh only has pain for him,
 and he mourns for himself.”
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Eliphaz’s Second Speech
@@ -973,7 +973,7 @@ and fire consumes the tents of those who accept bribes.
 [35] They conceive trouble and bring forth evil;
 their belly prepares deception.”
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### Job’s Reply to Eliphaz
@@ -1037,7 +1037,7 @@ as a man pleads for his friend.
 [22] For the years that lie ahead are few,
 and then I will go on the way of no return.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 [1] My spirit is broken,
 my days have faded out,
@@ -1077,7 +1077,7 @@ And my hope, who sees it?
 [16] Will it go down to the barred gates of death?
 Will we descend together into the dust?”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Bildad’s Second Speech
@@ -1124,7 +1124,7 @@ people of the east are seized with horror, saying,
 [21] ‘Surely such is the residence of an evil man;
 and this is the place of one who has not known God.’”
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### Job’s Reply to Bildad
@@ -1205,7 +1205,7 @@ for wrath brings the punishment by the sword,
 so that you may know
 that there is judgment.”
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Zophar’s Second Speech
@@ -1274,7 +1274,7 @@ rushing waters on the day of God’s wrath.
 [29] Such is the lot God allots the wicked,
 and the heritage of his appointment from God.”
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### Job’s Reply to Zophar
@@ -1368,7 +1368,7 @@ and before him goes a countless throng.
 [34] So how can you console me with your futile words?
 Nothing is left of your answers but deception!”
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Eliphaz’s Third Speech
@@ -1441,7 +1441,7 @@ then he will save the downcast;
 [30] he will deliver even someone who is not innocent,
 who will escape through the cleanness of your hands.”
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### Job’s Reply to Eliphaz
@@ -1487,7 +1487,7 @@ the Almighty has terrified me.
 because of the thick darkness
 that covered my face.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### The Apparent Indifference of God
@@ -1552,7 +1552,7 @@ they are brought low like all others, and gathered in,
 and like a head of grain they are cut off.’
 and reduce my words to nothing?”
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### Bildad’s Third Speech
@@ -1569,7 +1569,7 @@ and the stars are not pure as far as he is concerned,
 [6] how much less a mortal man, who is but a maggot —
 a son of man, who is only a worm!”
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### Job’s Reply to Bildad
@@ -1607,7 +1607,7 @@ his hand pierced the fleeing serpent.
 How faint is the whisper we hear of him!
 But who can understand the thunder of his power?”
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### A Protest of Innocence
@@ -1665,7 +1665,7 @@ as he flees headlong from its power.
 [23] It claps its hands at him in derision
 and hisses him away from his place.
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### III. Job’s Search for Wisdom (28:1—28)
@@ -1740,7 +1740,7 @@ he established it and examined it closely.
 ‘The fear of the Lord —that is wisdom,
 and to turn away from evil is understanding.’”
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 
 ### IV. Job’s Concluding Soliloquy (29:1—31:40)
@@ -1812,7 +1812,7 @@ and sat as their chief;
 I lived like a king among his troops;
 I was like one who comforts mourners.
 
-## Chapter 30 <!-- scripture:30 -->
+## Chapter 30
 
 
 ### Job’s Present Misery
@@ -1898,7 +1898,7 @@ my body is hot with fever.
 [31] My harp is used for mourning
 and my flute for the sound of weeping.
 
-## Chapter 31 <!-- scripture:31 -->
+## Chapter 31
 
 
 ### Job Vindicates Himself
@@ -1998,7 +1998,7 @@ or caused the death of its owners,
 [40] then let thorns sprout up in place of wheat,
 and in place of barley, noxious weeds.”
 
-## Chapter 32 <!-- scripture:32 -->
+## Chapter 32
 
 
 ### V. The Speeches of Elihu (32:1—37:24)
@@ -2056,7 +2056,7 @@ nor will I confer a title on anyone.
 [22] For I do not know how to give honorary titles,
 if I did, my Creator would quickly do away with me.
 
-## Chapter 33 <!-- scripture:33 -->
+## Chapter 33
 
 
 ### Elihu Invites Job’s Attention
@@ -2147,7 +2147,7 @@ speak, for I want to justify you.
 [33] If not, you listen to me;
 be silent, and I will teach you wisdom.”
 
-## Chapter 34 <!-- scripture:34 -->
+## Chapter 34
 
 
 ### Elihu’s Second Speech
@@ -2249,7 +2249,7 @@ because his answers are like those of wicked men.
 in our midst he claps his hands,
 and multiplies his words against God.”
 
-## Chapter 35 <!-- scripture:35 -->
+## Chapter 35
 
 
 ### Elihu’s Third Speech
@@ -2291,7 +2291,7 @@ and that he does not know transgression!
 [16] So Job opens his mouth to no purpose;
 without knowledge he multiplies words.”
 
-## Chapter 36 <!-- scripture:36 -->
+## Chapter 36
 
 
 ### Elihu’s Fourth Speech
@@ -2374,7 +2374,7 @@ and directs it against its target.
 [33] His thunder announces the coming storm,
 the cattle also, concerning the storm’s approach.
 
-## Chapter 37 <!-- scripture:37 -->
+## Chapter 37
 
 [1] At this also my heart pounds
 and leaps from its place.
@@ -2433,7 +2433,7 @@ but justice and abundant righteousness he does not oppress.
 [24] Therefore people fear him,
 for he does not regard all the wise in heart.”
 
-## Chapter 38 <!-- scripture:38 -->
+## Chapter 38
 
 
 ### VI. The Divine Speeches (38:1—42:6)
@@ -2528,7 +2528,7 @@ when they wait in ambush in the thicket?
 when its young cry out to God
 and wander about for lack of food?
 
-## Chapter 39 <!-- scripture:39 -->
+## Chapter 39
 
 the mountain goats give birth?
 Do you watch as the wild deer give birth to their young?
@@ -2593,7 +2593,7 @@ its eyes gaze intently from a distance.
 and where the dead carcasses are,
 there it is.”
 
-## Chapter 40 <!-- scripture:40 -->
+## Chapter 40
 
 
 ### Job’s Reply to God’s Challenge
@@ -2651,7 +2651,7 @@ should surge up to its mouth.
 [24] Can anyone catch it by its eyes,
 or pierce its nose with a snare?
 
-## Chapter 41 <!-- scripture:41 -->
+## Chapter 41
 
 
 ### The Description of Leviathan
@@ -2729,7 +2729,7 @@ a creature without fear.
 [34] It looks on every haughty being;
 it is king over all that are proud.”
 
-## Chapter 42 <!-- scripture:42 -->
+## Chapter 42
 
 
 ### Job’s Confession

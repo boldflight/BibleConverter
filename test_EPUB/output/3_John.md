@@ -1,6 +1,6 @@
 # 3 John
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Introduction and Thanksgiving

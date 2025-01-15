@@ -1,6 +1,6 @@
 # 2 Timothy
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -27,7 +27,7 @@
 [17] But when he arrived in Rome, he eagerly searched for me and found me.
 [18] May the Lord grant him to find mercy from the Lord on that day! And you know very well all the ways he served me in Ephesus.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Serving Faithfully Despite Hardship
@@ -64,7 +64,7 @@ If we deny him, he will also deny us.
 [25] correcting opponents with gentleness. Perhaps God will grant them repentance and then knowledge of the truth
 [26] and they will come to their senses and escape the devil’s trap where they are held captive to do his will.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Ministry in the Last Days
@@ -90,7 +90,7 @@ If we deny him, he will also deny us.
 [16] Every scripture is inspired by God and useful for teaching, for reproof, for correction, and for training in righteousness,
 [17] that the person dedicated to God may be capable and equipped for every good work.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Charge to Timothy Repeated

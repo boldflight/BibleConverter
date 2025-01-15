@@ -1,6 +1,6 @@
 # Joel
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Introduction
@@ -77,7 +77,7 @@ flames have razed all the trees in the fields.
 for the river beds have dried up;
 fire has destroyed the pastures of the wilderness.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Locusts’ Devastation
@@ -218,7 +218,7 @@ For on Mount Zion and in Jerusalem there will be those who survive,
 just as the Lord has promised;
 the remnant will be those whom the Lord will call.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Lord Plans to Judge the Nations

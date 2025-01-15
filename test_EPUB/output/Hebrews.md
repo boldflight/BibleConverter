@@ -1,6 +1,6 @@
 # Hebrews
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Introduction: God Has Spoken Fully and Finally in His Son
@@ -20,7 +20,7 @@
 [13] But to which of the angels has he ever said, “Sit at my right hand until I make your enemies a footstool for your feet”?
 [14] Are they not all ministering spirits, sent out to serve those who will inherit salvation?
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Warning Against Drifting Away
@@ -45,7 +45,7 @@
 [17] Therefore he had to be made like his brothers and sisters in every respect, so that he could become a merciful and faithful high priest in things relating to God, to make atonement for the sins of the people.
 [18] For since he himself suffered when he was tempted, he is able to help those who are tempted.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Jesus and Moses
@@ -69,7 +69,7 @@
 [18] And to whom did he swear they would never enter into his rest, except those who were disobedient?
 [19] So we see that they could not enter because of unbelief.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### God’s Promised Rest
@@ -94,7 +94,7 @@
 [15] For we do not have a high priest incapable of sympathizing with our weaknesses, but one who has been tempted in every way just as we are, yet without sin.
 [16] Therefore let us confidently approach the throne of grace to receive mercy and find grace whenever we need help.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 [1] For every high priest is taken from among the people and appointed to represent them before God, to offer both gifts and sacrifices for sins.
 [2] He is able to deal compassionately with those who are ignorant and erring, since he also is subject to weakness,
@@ -114,7 +114,7 @@
 [13] For everyone who lives on milk is inexperienced in the message of righteousness, because he is an infant.
 [14] But solid food is for the mature, whose perceptions are trained by practice to discern both good and evil.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 [1] Therefore we must progress beyond the elementary instructions about Christ and move on to maturity, not laying this foundation again: repentance from dead works and faith in God,
 [2] teaching about ritual washings, laying on of hands, resurrection of the dead, and eternal judgment.
@@ -137,7 +137,7 @@
 [19] We have this hope as an anchor for the soul, sure and steadfast, which reaches inside behind the curtain,
 [20] where Jesus our forerunner entered on our behalf, since he became a priest forever in the order of Melchizedek.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Nature of Melchizedek’s Priesthood
@@ -174,7 +174,7 @@
 [27] He has no need to do every day what those priests do, to offer sacrifices first for their own sins and then for the sins of the people, since he did this in offering himself once for all.
 [28] For the law appoints as high priests men subject to weakness, but the word of solemn affirmation that came after the law appoints a son made perfect forever.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### The High Priest of a Better Covenant
@@ -189,7 +189,7 @@
 [8] But showing its fault, God says to them,
 [13] When he speaks of a new covenant, he makes the first obsolete. Now what is growing obsolete and aging is about to disappear.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### The Arrangement and Ritual of the Earthly Sanctuary
@@ -226,7 +226,7 @@
 [27] And just as people are appointed to die once, and then to face judgment,
 [28] so also, after Christ was offered once to bear the sins of many, to those who eagerly await him he will appear a second time, not to bear sin but to bring salvation.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Concluding Exposition: Old and New Sacrifices Contrasted
@@ -272,7 +272,7 @@
 [38] But my righteous one will live by faith, and if he shrinks back, I take no pleasure in him.
 [39] But we are not among those who shrink back and thus perish, but are among those who have faith and preserve their souls.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### People Commended for Their Faith
@@ -318,7 +318,7 @@
 [39] And these all were commended for their faith, yet they did not receive what was promised.
 [40] For God had provided something better for us, so that they would be made perfect together with us.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### The Lord’s Discipline
@@ -355,7 +355,7 @@
 [28] So since we are receiving an unshakable kingdom, let us give thanks, and through this let us offer worship pleasing to God in devotion and awe.
 [29] For our God is indeed a devouring fire.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Final Exhortations

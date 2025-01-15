@@ -1,6 +1,6 @@
 # Colossians
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -47,7 +47,7 @@
 [28] We proclaim him by instructing and teaching all people with all wisdom so that we may present every person mature in Christ.
 [29] Toward this goal I also labor, struggling according to his power that powerfully works in me.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 [1] For I want you to know how great a struggle I have for you, and for those in Laodicea, and for those who have not met me face to face.
 [2] My goal is that their hearts, having been knit together in love, may be encouraged, and that they may have all the riches that assurance brings in their understanding of the knowledge of the mystery of God, namely, Christ,
@@ -76,7 +76,7 @@
 [22] These are all destined to perish with use, founded as they are on human commands and teachings.
 [23] Even though they have the appearance of wisdom with their self-imposed worship and humility achieved by an unsparing treatment of the body—a wisdom with no true value—they in reality result in fleshly indulgence.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Exhortations to Seek the Things Above
@@ -102,7 +102,7 @@
 [16] Let the word of Christ dwell in you richly, teaching and exhorting one another with all wisdom, singing psalms, hymns, and spiritual songs, all with grace in your hearts to God.
 [17] And whatever you do in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Exhortation to Households

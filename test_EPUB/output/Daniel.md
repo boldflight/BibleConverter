@@ -1,6 +1,6 @@
 # Daniel
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Daniel Finds Favor in Babylon
@@ -27,7 +27,7 @@
 [20] In every matter of wisdom and insight the king asked them about, he found them to be ten times better than any of the magicians and astrologers that were in his entire empire.
 [21] Now Daniel lived on until the first year of Cyrus the king.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Nebuchadnezzar Has a Disturbing Dream
@@ -96,7 +96,7 @@ For you have enabled us to understand the king’s dilemma.”
 [48] Then the king elevated Daniel to high position and bestowed on him many marvelous gifts. He granted him authority over the entire province of Babylon and made him the main prefect over all the wise men of Babylon.
 [49] And at Daniel’s request, the king appointed Shadrach, Meshach, and Abednego over the administration of the province of Babylon. Daniel himself served in the king’s court.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Daniel’s Friends Are Tested
@@ -135,7 +135,7 @@ For you have enabled us to understand the king’s dilemma.”
 [29] I hereby decree that any people, nation, or language group that blasphemes the God of Shadrach, Meshach, or Abednego will be dismembered and his home reduced to rubble! For there exists no other god who can deliver in this way.”
 [30] Then Nebuchadnezzar promoted Shadrach, Meshach, and Abednego in the province of Babylon.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 [1] (
 [2] I am delighted to tell you about the signs and wonders that the most high God has done for me.
@@ -215,7 +215,7 @@ and says to him, ‘What have you done?’
 [36] At that time my sanity returned to me. I was restored to the honor of my kingdom, and my splendor returned to me. My ministers and my nobles were seeking me out, and I was reinstated over my kingdom. I became even greater than before.
 [37] Now I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, for all his deeds are right and his ways are just. He is able to bring down those who live in pride.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Belshazzar Sees Mysterious Handwriting on a Wall
@@ -255,7 +255,7 @@ and says to him, ‘What have you done?’
 [30] And that very night Belshazzar, the Babylonian king, was killed.
 [31] (
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Daniel is Thrown into a Lions’ Den
@@ -299,7 +299,7 @@ in the heavens and on the earth.
 He has rescued Daniel from the power of the lions!”
 [28] So this Daniel prospered during the reign of Darius and the reign of Cyrus the Persian.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Daniel has a Vision of Four Animals Coming up from the Sea
@@ -371,7 +371,7 @@ His kingdom is an eternal kingdom;
 all authorities will serve him and obey him.’
 [28] “This is the conclusion of the matter. As for me, Daniel, my thoughts troubled me greatly, and the color drained from my face. But I kept the matter to myself.”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Daniel Has a Vision of a Goat and a Ram
@@ -407,7 +407,7 @@ all authorities will serve him and obey him.’
 [26] The vision of the evenings and mornings that was told to you is correct. But you should seal up the vision, for it refers to a time many days from now.”
 [27] I, Daniel, was exhausted and sick for days. Then I got up and again carried out the king’s business. But I was astonished at the vision, and there was no one to explain it.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Daniel Prays for His People
@@ -465,7 +465,7 @@ he will bring sacrifices and offerings to a halt.
 On the wing of abominations will come one who destroys,
 until the decreed end is poured out on the one who destroys.”
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### An Angel Appears to Daniel
@@ -492,7 +492,7 @@ until the decreed end is poured out on the one who destroys.”
 [20] He said, “Do you know why I have come to you? Now I am about to return to engage in battle with the prince of Persia. When I go, the prince of Greece is coming.
 [21] However, I will first tell you what is written in a dependable book. (There is no one who strengthens me against these princes, except Michael your prince.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 [1] And in the first year of Darius the Mede, I stood to strengthen him and to provide protection for him.)
 [2] Now I will tell you the truth.
@@ -543,7 +543,7 @@ until the decreed end is poured out on the one who destroys.”
 [44] But reports will trouble him from the east and north, and he will set out in a tremendous rage to destroy and wipe out many.
 [45] He will pitch his royal tents between the seas toward the beautiful holy mountain. But he will come to his end, with no one to help him.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 [1] “At that time Michael,
 the great prince who watches over your people,

@@ -1,6 +1,6 @@
 # Amos
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Introduction
@@ -66,7 +66,7 @@ a strong gale will blow on the day of the windstorm.
 he and his officials will be carried off together.”
 The Lord has spoken
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 [1] This is what the Lord says:
 “Because Moab has committed three crimes —
@@ -130,7 +130,7 @@ nor will those who ride horses.
 [16] Bravehearted warriors will run away naked in that day.”
 The Lord is speaking.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Every Effect has its Cause
@@ -175,7 +175,7 @@ The houses filled with ivory will be ruined,
 the great houses will be swept away.”
 The Lord is speaking!
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 You oppress the poor;
 you crush the needy.
@@ -227,7 +227,7 @@ He turns the dawn into darkness
 and marches on the heights of the earth.
 The Lord God of Heaven’s Armies is his name!
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Death is Imminent
@@ -306,7 +306,7 @@ and Kiyyun, your star god, which you made for yourselves,
 [27] and I will drive you into exile beyond Damascus,” says the Lord.
 He is called the God of Heaven’s Armies.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Party is over for the Rich
@@ -352,7 +352,7 @@ You say, “Did we not conquer Karnaim by our own power?”
 the Lord, the God who commands armies, is speaking.
 “They will oppress you all the way from Lebo Hamath to the stream of the rift valley.”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Symbolic Visions of Judgment
@@ -393,7 +393,7 @@ Your land will be given to others
 and you will die in a foreign land.
 Israel will certainly be carried into exile away from its land.’”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### More Visions and Messages of Judgment
@@ -440,7 +440,7 @@ but they will not find any.
 They vow, ‘As surely as your god lives, O Dan,’ or, ‘As surely as your beloved one lives, O Beer Sheba!’
 But they will fall down and not get up again.”
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 [1] I saw the Lord standing by the altar and he said,
 “Strike the tops of the support pillars, so the thresholds shake!

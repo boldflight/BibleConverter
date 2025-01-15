@@ -1,6 +1,6 @@
 # Obadiah
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### God’s Judgment on Edom

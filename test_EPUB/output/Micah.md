@@ -1,6 +1,6 @@
 # Micah
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Introduction
@@ -62,7 +62,7 @@ the leaders of Israel shall flee to Adullam.
 shave your foreheads as bald as an eagle,
 for they are taken from you into exile.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Land Robbers Will Lose Their Land
@@ -118,7 +118,7 @@ they will break out, pass through the gate, and leave.
 Their king will advance before them;
 the Lord himself will lead them.”
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### God Will Judge Judah’s Sinful Leaders
@@ -172,7 +172,7 @@ Disaster will not overtake us!”
 Jerusalem will become a heap of ruins,
 and the Temple Mount will become a hill overgrown with brush!
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Better Days Ahead for Jerusalem
@@ -235,7 +235,7 @@ and you will crush many nations.”
 You will devote to the Lord the spoils you take from them
 and dedicate their wealth to the sovereign Ruler of the whole earth.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 [1] (4:14) But now slash yourself, daughter surrounded by soldiers!
 We are besieged!
@@ -297,7 +297,7 @@ and destroy your idols.
 [15] With furious anger I will carry out vengeance
 on the nations that do not obey me.”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Lord Demands Justice, not Ritual
@@ -355,7 +355,7 @@ Therefore I will make you an appalling sight;
 the city’s inhabitants will be taunted derisively,
 and nations will mock all of you.”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Micah Laments Judah’s Sin

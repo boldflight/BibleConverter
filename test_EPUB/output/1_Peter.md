@@ -1,6 +1,6 @@
 # 1 Peter
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -33,7 +33,7 @@
 [23] You have been born anew, not from perishable but from imperishable seed, through the living and enduring word of God.
 [24] For
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 [1] So get rid of all evil and all deceit and hypocrisy and envy and all slander.
 [2] And yearn like newborn infants for pure, spiritual milk, so that by it you may grow up to salvation,
@@ -67,7 +67,7 @@
 [24] He himself bore our sins in his body on the tree, that we may cease from sinning and live for righteousness. By his wounds you were healed.
 [25] For you were going astray like sheep but now you have turned back to the shepherd and guardian of your souls.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Wives and Husbands
@@ -100,7 +100,7 @@ but by being made alive in the spirit.
 [21] And this prefigured baptism, which now saves you —not the washing off of physical dirt but the pledge of a good conscience to God—through the resurrection of Jesus Christ,
 [22] who went into heaven and is at the right hand of God with angels and authorities and powers subject to him.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 [1] So, since Christ suffered in the flesh, you also arm yourselves with the same attitude, because the one who has suffered in the flesh has finished with sin,
 [2] in that he spends the rest of his time on earth concerned about the will of God and not human desires.
@@ -125,7 +125,7 @@ but by being made alive in the spirit.
 [18] And if the righteous are barely saved, what will become of the ungodly and sinners?
 [19] So then let those who suffer according to the will of God entrust their souls to a faithful Creator as they do good.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Leading and Living in God’s Flock

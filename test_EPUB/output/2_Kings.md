@@ -1,6 +1,6 @@
 # 2 Kings
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Elijah Confronts the King and His Commanders
@@ -24,7 +24,7 @@
 [17] And he did die in keeping with the Lord’s message that he had spoken through Elijah. In the second year of the reign of King Jehoram son of Jehoshaphat over Judah, Ahaziah’s brother Jehoram replaced him as king of Israel, because he had no son.
 [18] The rest of the events of Ahaziah’s reign, including his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Elijah Makes a Swift Departure
@@ -58,7 +58,7 @@
 [24] When he turned around and saw them, he called God’s judgment down on them. Two female bears came out of the woods and ripped forty-two of the boys to pieces.
 [25] From there he traveled to Mount Carmel and then back to Samaria.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Moab Fights with Israel
@@ -91,7 +91,7 @@
 [26] When the king of Moab realized he was losing the battle, he and 700 swordsmen tried to break through and attack the king of Edom, but they failed.
 [27] So he took his firstborn son, who was to succeed him as king, and offered him up as a burnt sacrifice on the wall. There was an outburst of divine anger against Israel, so they broke off the attack and returned to their homeland.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Elisha Helps a Widow and Her Sons
@@ -150,7 +150,7 @@
 [43] But his attendant said, “How can I feed a hundred men with this?” He replied, “Set it before the people so they may eat, for this is what the Lord has said, ‘They will eat and have some left over.’”
 [44] So he set it before them; they ate and had some left over, just as in the Lord’s message.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Elisha Heals a Syrian General
@@ -183,7 +183,7 @@
 [26] Elisha replied, “I was there in spirit when a man turned and got down from his chariot to meet you. This is not the proper time to accept silver or to accept clothes, olive groves, vineyards, sheep, cattle, and male and female servants.
 [27] Therefore Naaman’s skin disease will afflict you and your descendants forever!” When Gehazi went out from his presence, his skin was as white as snow.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Elisha Makes an Ax Head Float
@@ -226,7 +226,7 @@
 [30] When the king heard what the woman said, he tore his clothes. As he was passing by on the wall, the people could see he was wearing sackcloth under his clothes.
 [31] Then he said, “May God judge me severely if Elisha son of Shaphat still has his head by the end of the day!”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 [32] Now Elisha was sitting in his house with the community leaders. The king sent a messenger on ahead, but before he arrived, Elisha said to the leaders, “Do you realize this assassin intends to cut off my head? Look, when the messenger arrives, shut the door and lean against it. His master will certainly be right behind him.”
 [33] He was still talking to them when the messenger approached and said, “Look, the Lord is responsible for this disaster! Why should I continue to wait for the Lord to help?”
@@ -251,7 +251,7 @@
 [19] But the officer had replied to the prophet, “Look, even if the Lord made it rain by opening holes in the sky, could this happen so soon?” Elisha had said, “Look, you will see it happen with your own eyes, but you will not eat any of the food!”
 [20] This is exactly what happened to him. The people trampled him to death in the city gate.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Elisha Again Helps the Shunammite Woman
@@ -295,7 +295,7 @@
 [28] He joined Ahab’s son Joram in a battle against King Hazael of Syria at Ramoth Gilead in which the Syrians defeated Joram.
 [29] King Joram returned to Jezreel to recover from the wounds he received from the Syrians in Ramah when he fought against King Hazael of Syria. King Ahaziah son of Jehoram of Judah went down to visit Joram son of Ahab in Jezreel, for he was ill.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Jehu Becomes King
@@ -341,7 +341,7 @@
 [36] So they went back and told him. Then he said, “It is the fulfillment of the Lord’s message that he had spoken through his servant, Elijah the Tishbite, ‘In the plot of land at Jezreel, dogs will devour Jezebel’s flesh.
 [37] Jezebel’s corpse will be like manure on the surface of the ground in the plot of land at Jezreel. People will not be able to even recognize her.’”
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Jehu Wipes Out Ahab’s Family
@@ -389,7 +389,7 @@
 [35] Jehu passed away and was buried in Samaria. His son Jehoahaz replaced him as king.
 [36] Jehu reigned over Israel for twenty-eight years in Samaria.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Athaliah is Eliminated
@@ -415,7 +415,7 @@
 [19] He took the officers of the units of hundreds, the Carians, the royal bodyguard, and all the people of the land, and together they led the king down from the Lord’s temple. They entered the royal palace through the Gate of the Royal Bodyguard, and the king sat down on the royal throne.
 [20] All the people of the land celebrated, for the city had rest now that they had killed Athaliah with the sword in the royal palace.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Joash’s Reign over Judah
@@ -443,7 +443,7 @@
 [20] His servants conspired against him and murdered Joash at Beth Millo, on the road that goes down to Silla.
 [21] His servants Jozabad son of Shimeath and Jehozabad son of Shomer murdered him. He was buried with his ancestors in the City of David. His son Amaziah replaced him as king.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Jehoahaz’s Reign over Israel
@@ -480,7 +480,7 @@
 [24] When King Hazael of Syria died, his son Ben Hadad replaced him as king.
 [25] Jehoahaz’s son Jehoash took back from Ben Hadad son of Hazael the cities that he had taken from his father Jehoahaz in war. Jehoash defeated him three times and recovered the Israelite cities.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Amaziah’s Reign over Judah
@@ -518,7 +518,7 @@
 [28] The rest of the events of Jeroboam’s reign, including all his accomplishments, his military success in restoring Israelite control over Damascus and Hamath, are recorded in the scroll called the Annals of the Kings of Israel.
 [29] Jeroboam passed away and was buried in Samaria with the kings of Israel. His son Zechariah replaced him as king.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Azariah’s Reign over Judah
@@ -577,7 +577,7 @@
 [37] In those days the Lord prompted King Rezin of Syria and Pekah son of Remaliah to attack Judah.
 [38] Jotham passed away and was buried with his ancestors in the city of his ancestor David. His son Ahaz replaced him as king.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### Ahaz’s Reign over Judah
@@ -603,7 +603,7 @@
 [19] The rest of the events of Ahaz’s reign, including his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah.
 [20] Ahaz passed away and was buried with his ancestors in the City of David. His son Hezekiah replaced him as king.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 
 ### Hoshea’s Reign over Israel
@@ -656,7 +656,7 @@
 [40] But they paid no attention; instead they observed their earlier practices.
 [41] These nations were worshiping the Lord and at the same time serving their idols; their sons and grandsons are doing just as their fathers have done, to this very day.
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### Hezekiah Becomes King of Judah
@@ -701,7 +701,7 @@
 [35] Who among all the gods of the lands has rescued their lands from my power? So how can the Lord rescue Jerusalem from my power?’”
 [36] The people were silent and did not respond, for the king had ordered, “Don’t respond to him.”
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 [37] Eliakim son of Hilkiah, the palace supervisor, accompanied by Shebna the scribe and Joah son of Asaph, the secretary, went to Hezekiah with their clothes torn and reported to him what the chief adviser had said.
 [1] When King Hezekiah heard this, he tore his clothes, put on sackcloth, and went to the Lord’s temple.
@@ -783,7 +783,7 @@ He will not enter this city,” says the Lord.
 [36] So King Sennacherib of Assyria broke camp and went on his way. He went home and stayed in Nineveh.
 [37] One day, as he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer struck him down with the sword. They escaped to the land of Ararat; his son Esarhaddon replaced him as king.
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Hezekiah is Healed
@@ -813,7 +813,7 @@ He will not enter this city,” says the Lord.
 [20] The rest of the events of Hezekiah’s reign and all his accomplishments, including how he built a pool and conduit to bring water into the city, are recorded in the scroll called the Annals of the Kings of Judah.
 [21] Hezekiah passed away and his son Manasseh replaced him as king.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### Manasseh’s Reign over Judah
@@ -848,7 +848,7 @@ He will not enter this city,” says the Lord.
 [25] The rest of Amon’s accomplishments are recorded in the scroll called the Annals of the Kings of Judah.
 [26] He was buried in his tomb in the garden of Uzzah, and his son Josiah replaced him as king.
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 
 ### Josiah Repents
@@ -874,7 +874,7 @@ He will not enter this city,” says the Lord.
 [19] ‘You displayed a sensitive spirit and humbled yourself before the Lord when you heard how I intended to make this place and its residents into an appalling example of an accursed people. You tore your clothes and wept before me, and I have heard you,’ says the Lord.
 [20] ‘Therefore I will allow you to die and be buried in peace. You will not have to witness all the disaster I will bring on this place.’”’” Then they reported back to the king.
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### The King Institutes Religious Reform
@@ -923,7 +923,7 @@ He will not enter this city,” says the Lord.
 [36] Jehoiakim was twenty-five years old when he became king, and he reigned for eleven years in Jerusalem. His mother was Zebidah the daughter of Pedaiah, from Rumah.
 [37] He did evil in the sight of the Lord as his ancestors had done.
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 [1] During Jehoiakim’s reign, King Nebuchadnezzar of Babylon attacked. Jehoiakim was his subject for three years, but then he rebelled against him.
 [2] The Lord sent against him Babylonian, Syrian, Moabite, and Ammonite raiding bands; he sent them to destroy Judah, just as in the Lord’s message that he had announced through his servants the prophets.
@@ -951,7 +951,7 @@ He will not enter this city,” says the Lord.
 [18] Zedekiah was twenty-one years old when he became king, and he ruled for eleven years in Jerusalem. His mother was Hamutal, the daughter of Jeremiah, from Libnah.
 [19] He did evil in the sight of the Lord, as Jehoiakim had done.
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 [20] What follows is a record of what happened to Jerusalem and Judah because of the Lord’s anger; he finally threw them out of his presence. Zedekiah rebelled against the king of Babylon.
 [1] So King Nebuchadnezzar of Babylon came against Jerusalem with his whole army and set up camp outside it. They built siege ramps all around it. He arrived on the tenth day of the tenth month in the ninth year of Zedekiah’s reign.

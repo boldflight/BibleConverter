@@ -1,6 +1,6 @@
 # Galatians
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -36,7 +36,7 @@
 [23] They were only hearing, “The one who once persecuted us is now proclaiming the good news of the faith he once tried to destroy.”
 [24] So they glorified God because of me.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Confirmation from the Jerusalem Apostles
@@ -69,7 +69,7 @@
 [20] I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. So the life I now live in the body, I live because of the faithfulness of the Son of God, who loved me and gave himself for me.
 [21] I do not set aside God’s grace, because if righteousness could come through the law, then Christ died for nothing!
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Justification by Law or by Faith?
@@ -110,7 +110,7 @@
 [28] There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female —for all of you are one in Christ Jesus.
 [29] And if you belong to Christ, then you are Abraham’s descendants, heirs according to the promise.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 [1] Now I mean that the heir, as long as he is a minor, is no different from a slave, though he is the owner of everything.
 [2] But he is under guardians and managers until the date set by his father.
@@ -157,7 +157,7 @@ than those of the woman who has a husband.”
 [30] But what does the scripture say? “Throw out the slave woman and her son, for the son of the slave woman will not share the inheritance with the son” of the free woman.
 [31] Therefore, brothers and sisters, we are not children of the slave woman but of the free woman.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Freedom of the Believer
@@ -192,7 +192,7 @@ than those of the woman who has a husband.”
 [25] If we live by the Spirit, let us also behave in accordance with the Spirit.
 [26] Let us not become conceited, provoking one another, being jealous of one another.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Support One Another

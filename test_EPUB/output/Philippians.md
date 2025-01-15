@@ -1,6 +1,6 @@
 # Philippians
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -42,7 +42,7 @@
 [29] For it has been granted to you not only to believe in Christ but also to suffer for him,
 [30] since you are encountering the same conflict that you saw me face and now hear that I am facing.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Christian Unity and Christ’s Humility
@@ -97,7 +97,7 @@ to the glory of God the Father.
 [29] So welcome him in the Lord with great joy, and honor people like him,
 [30] since it was because of the work of Christ that he almost died. He risked his life so that he could make up for your inability to serve me.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### True and False Righteousness
@@ -127,7 +127,7 @@ to the glory of God the Father.
 [20] But our citizenship is in heaven—and we also eagerly await a savior from there, the Lord Jesus Christ,
 [21] who will transform these humble bodies of ours into the likeness of his glorious body by means of that power by which he is able to subject all things to himself.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Christian Practices

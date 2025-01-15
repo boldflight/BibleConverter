@@ -1,6 +1,6 @@
 # Mark
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Ministry of John the Baptist
@@ -68,7 +68,7 @@
 [44] He told him, “See that you do not say anything to anyone, but go, show yourself to a priest, and bring the offering that Moses commanded for your cleansing, as a testimony to them.”
 [45] But as the man went out he began to announce it publicly and spread the story widely, so that Jesus was no longer able to enter any town openly but stayed outside in remote places. Still they kept coming to him from everywhere.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Healing and Forgiving a Paralytic
@@ -111,7 +111,7 @@
 [27] Then he said to them, “The Sabbath was made for people, not people for the Sabbath.
 [28] For this reason the Son of Man is lord even of the Sabbath.”
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Healing a Withered Hand
@@ -164,7 +164,7 @@
 [34] And looking at those who were sitting around him in a circle, he said, “Here are my mother and my brothers!
 [35] For whoever does the will of God is my brother and sister and mother.”
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Parable of the Sower
@@ -228,7 +228,7 @@
 [40] And he said to them, “Why are you cowardly? Do you still not have faith?”
 [41] They were overwhelmed by fear and said to one another, “Who then is this? Even the wind and sea obey him!”
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Healing of a Demoniac
@@ -280,7 +280,7 @@
 [42] The girl got up at once and began to walk around (she was twelve years old). They were completely astonished at this.
 [43] He strictly ordered that no one should know about this, and told them to give her something to eat.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Rejection at Nazareth
@@ -357,7 +357,7 @@
 [55] They ran through that whole region and began to bring the sick on mats to wherever he was rumored to be.
 [56] And wherever he would go—into villages, towns, or countryside—they would place the sick in the marketplaces, and would ask him if they could just touch the edge of his cloak, and all who touched it were healed.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Breaking Human Traditions
@@ -398,7 +398,7 @@
 [36] Jesus ordered them not to tell anyone. But as much as he ordered them not to do this, they proclaimed it all the more.
 [37] People were completely astounded and said, “He has done everything well. He even makes the deaf hear and the mute speak.”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### The Feeding of the Four Thousand
@@ -452,7 +452,7 @@
 [32] He spoke openly about this. So Peter took him aside and began to rebuke him.
 [33] But after turning and looking at his disciples, he rebuked Peter and said, “Get behind me, Satan. You are not setting your mind on God’s interests, but on man’s.”
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Following Jesus
@@ -526,7 +526,7 @@
 [49] Everyone will be salted with fire.
 [50] Salt is good, but if it loses its saltiness, how can you make it salty again? Have salt in yourselves, and be at peace with each other.”
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Divorce
@@ -599,7 +599,7 @@
 [51] Then Jesus said to him, “What do you want me to do for you?” The blind man replied, “Rabbi, let me see again.”
 [52] Jesus said to him, “Go, your faith has healed you.” Immediately he regained his sight and followed him on the road.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### The Triumphal Entry
@@ -649,7 +649,7 @@
 [32] But if we say, ‘From people—’” (they feared the crowd, for they all considered John to be truly a prophet).
 [33] So they answered Jesus, “We don’t know.” Then Jesus said to them, “Neither will I tell you by what authority I am doing these things.”
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### The Parable of the Tenants
@@ -714,7 +714,7 @@
 [43] He called his disciples and said to them, “I tell you the truth, this poor widow has put more into the offering box than all the others.
 [44] For they all gave out of their wealth. But she, out of her poverty, put in what she had to live on, everything she had.”
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### The Destruction of the Temple
@@ -775,7 +775,7 @@
 [36] or else he might find you asleep when he returns suddenly.
 [37] What I say to you I say to everyone: Stay alert!”
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### The Plot Against Jesus
@@ -876,7 +876,7 @@
 [71] Then he began to curse, and he swore with an oath, “I do not know this man you are talking about!”
 [72] Immediately a rooster crowed a second time. Then Peter remembered what Jesus had said to him: “Before a rooster crows twice, you will deny me three times.” And he broke down and wept.
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 
 ### Jesus Brought Before Pilate
@@ -943,7 +943,7 @@
 [46] After Joseph bought a linen cloth and took down the body, he wrapped it in the linen and placed it in a tomb cut out of the rock. Then he rolled a stone across the entrance of the tomb.
 [47] Mary Magdalene and Mary the mother of Joses saw where the body was placed.
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### The Resurrection

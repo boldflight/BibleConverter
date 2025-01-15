@@ -1,6 +1,6 @@
 # 2 Peter
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -33,7 +33,7 @@
 [20] Above all, you do well if you recognize this: No prophecy of scripture ever comes about by the prophet’s own imagination,
 [21] for no prophecy was ever borne of human impulse; rather, men carried along by the Holy Spirit spoke from God.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The False Teachers’ Ungodly Lifestyle
@@ -61,7 +61,7 @@
 [21] For it would have been better for them never to have known the way of righteousness than, having known it, to turn back from the holy commandment that had been delivered to them.
 [22] They are illustrations of this true proverb: “A dog returns to its own vomit,” and “A sow, after washing herself, wallows in the mire.”
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The False Teachers’ Denial of the Lord’s Return

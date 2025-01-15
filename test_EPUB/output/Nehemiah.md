@@ -1,6 +1,6 @@
 # Nehemiah
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### A Prayer of Nehemiah
@@ -17,7 +17,7 @@
 [10] They are your servants and your people, whom you have redeemed by your mighty strength and by your powerful hand.
 [11] Please, Lord, listen attentively to the prayer of your servant and to the prayer of your servants who take pleasure in showing respect to your name. Grant your servant success today and show compassion to me in the presence of this man.”
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Nehemiah Is Permitted to Go to Jerusalem
@@ -46,7 +46,7 @@
 [19] But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard all this, they derided us and expressed contempt toward us. They said, “What is this you are doing? Are you rebelling against the king?”
 [20] I responded to them by saying, “The God of heaven will prosper us. We his servants will start the rebuilding. But you have no just or ancient right in Jerusalem.”
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Names of the Builders
@@ -84,7 +84,7 @@
 [31] After him Malkijah, one of the goldsmiths, worked as far as the house of the temple servants and the traders, opposite the Inspection Gate, and up to the room above the corner.
 [32] And between the room above the corner and the Sheep Gate the goldsmiths and traders worked.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Opposition to the Work Continues
@@ -113,7 +113,7 @@
 [22] At that time I instructed the people, “Let every man and his coworker spend the night in Jerusalem and let them be guards for us by night and workers by day.”
 [23] We did not change clothes —not I, nor my relatives, nor my workers, nor the watchmen who were with me. Each had his weapon, even when getting a drink of water.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Nehemiah Intervenes on behalf of the Oppressed
@@ -138,7 +138,7 @@
 [18] Every day one ox, six select sheep, and some birds were prepared for me, and every ten days all kinds of wine in abundance. Despite all this I did not require the food allotted to the governor, for the work was demanding on this people.
 [19] Please remember me for good, O my God, for all that I have done for this people.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Opposition to the Rebuilding Efforts Continues
@@ -166,7 +166,7 @@
 [18] For many in Judah had sworn allegiance to him, because he was the son-in-law of Shecaniah son of Arah. His son Jonathan had married the daughter of Meshullam son of Berechiah.
 [19] They were telling me about his good deeds and then taking back to him the things I said. Tobiah, on the other hand, sent letters in order to scare me.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 [1] When the wall had been rebuilt and I had positioned the doors, and the gatekeepers, the singers, and the Levites had been appointed,
 [2] I then put in charge over Jerusalem my brother Hanani and Hananiah the chief of the citadel, for he was a faithful man and feared God more than many do.
@@ -242,7 +242,7 @@
 [72] What the rest of the people gave amounted to 20,000 gold drachmas, 2,000 silver minas, and 67 priestly garments.
 [73] The priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all the rest of Israel lived in their cities.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### The People Respond to the Reading of the Law
@@ -266,7 +266,7 @@
 [17] So all the assembly which had returned from the exile constructed temporary shelters and lived in them. The Israelites had not done so from the days of Joshua son of Nun until that day. Everyone experienced very great joy.
 [18] Ezra read in the book of the law of God day by day, from the first day to the last. They observed the festival for seven days, and on the eighth day they held an assembly as was required.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### The People Acknowledge Their Sin before God
@@ -313,7 +313,7 @@
 
 [38] (
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 [1] On the sealed documents were the following names:
 [2] Seraiah, Azariah, Jeremiah,
@@ -355,7 +355,7 @@
 [38] A priest of Aaron’s line will be with the Levites when the Levites collect the tithes, and the Levites will bring up a tenth of the tithes to the temple of our God, to the storerooms of the treasury.
 [39] The Israelites and the Levites will bring the contribution of the grain, the new wine, and the olive oil to the storerooms where the utensils of the sanctuary are kept, and where the priests who minister stay, along with the gatekeepers and the singers. We will not neglect the temple of our God.”
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### The Population of Jerusalem
@@ -397,7 +397,7 @@
 [35] in Lod, Ono, and the Valley of the Craftsmen.
 [36] Some of the Judean divisions of the Levites settled in Benjamin.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### The Priests and the Levites Who Returned to Jerusalem
@@ -453,7 +453,7 @@
 [46] For long ago, in the days of David and Asaph, there had been directors for the singers and for the songs of praise and thanks to God.
 [47] So in the days of Zerubbabel and in the days of Nehemiah, all Israel was contributing the portions for the singers and gatekeepers, according to the daily need. They also set aside the portion for the Levites, and the Levites set aside the portion for the descendants of Aaron.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Further Reforms by Nehemiah

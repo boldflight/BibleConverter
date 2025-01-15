@@ -1,6 +1,6 @@
 # Jonah
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Jonah Tries to Run from the Lord
@@ -26,7 +26,7 @@
 
 [17] (
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 [1] Jonah prayed to the Lord his God from the stomach of the fish
 [2] and said,
@@ -54,7 +54,7 @@ I will surely do what I have promised.
 Salvation belongs to the Lord!”
 [10] Then the Lord commanded the fish and it vomited Jonah out onto dry land.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The People of Nineveh Respond to Jonah’s Warning
@@ -70,7 +70,7 @@ Salvation belongs to the Lord!”
 [9] Who knows? Perhaps God might be willing to change his mind and relent and turn from his fierce anger so that we might not die.”
 [10] When God saw their actions—that they turned from their evil way of living. —God relented concerning the judgment he had threatened them with and did not destroy them.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Jonah Responds to God’s Kindness

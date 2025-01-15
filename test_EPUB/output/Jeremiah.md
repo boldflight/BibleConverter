@@ -1,6 +1,6 @@
 # Jeremiah
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Superscription
@@ -33,7 +33,7 @@ I appointed you to be a prophet to the nations.”
 [18] I, the Lord, hereby promise to make you as strong as a fortified city, an iron pillar, and a bronze wall. You will be able to stand up against all who live in the land, including the kings of Judah, its officials, its priests and all the people of the land.
 [19] They will attack you but they will not be able to overcome you, for I will be with you to rescue you,” says the Lord.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Lord Recalls Israel’s Earlier Faithfulness
@@ -190,7 +190,7 @@ with your hands covering your faces in sorrow and shame
 because the Lord will not allow your reliance on them to be successful
 and you will not gain any help from them.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 and she leaves him and becomes another man’s wife,
 he may not take her back again.
@@ -267,7 +267,7 @@ both we and our ancestors.
 From earliest times to this very day
 we have not obeyed the Lord our God.’
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 “if you want to come back to me,
 you must get those disgusting idols out of my sight
@@ -397,7 +397,7 @@ It is the cry of Daughter Zion gasping for breath,
 reaching out for help, saying, “I am done in!
 My life is ebbing away before these murderers!”
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Judah is Justly Deserving of Coming Judgment
@@ -516,7 +516,7 @@ The priests exercise power by their own authority.
 And my people love to have it this way.
 But they will not be able to help you when the time of judgment comes!
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Destruction of Jerusalem Depicted
@@ -656,7 +656,7 @@ The wicked have not been purged.
 [30] They are regarded as ‘rejected silver’
 because the Lord rejects them.”
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Faulty Religion and Unethical Behavior Will Lead to Judgment
@@ -696,7 +696,7 @@ because the Lord rejects them.”
 [33] Then the dead bodies of these people will be left on the ground for the birds and wild animals to eat. There will not be any survivors to scare them away.
 [34] I will put an end to the sounds of joy and gladness or the glad celebration of brides and grooms throughout the towns of Judah and the streets of Jerusalem. For the whole land will become a desolate wasteland.”
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 [1] The Lord says, “When that time comes, the bones of the kings of Judah and its leaders, the bones of the priests and prophets, and of all the other people who lived in Jerusalem will be dug up from their graves.
 [2] They will be spread out and exposed to the sun, the moon, and the stars. These are things they adored and served, things to which they paid allegiance, from which they sought guidance and worshiped. The bones of these people will never be regathered and reburied. They will be like manure used to fertilize the ground.
@@ -794,7 +794,7 @@ There is still a physician there!
 Why then have my dear people
 not been restored to health?
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 [1] (8:23) I wish that my head were a well full of water
 and my eyes were a fountain full of tears!
@@ -900,7 +900,7 @@ says the Lord.
 [25] The Lord says, “Watch out! The time is soon coming when I will punish all those who are circumcised only in the flesh.
 [26] That is, I will punish the Egyptians, the Judeans, the Edomites, the Ammonites, the Moabites, and all the desert people who cut their hair short at the temples. I will do so because none of the people of those nations are really circumcised in the Lord’s sight. Moreover, none of the people of Israel are circumcised when it comes to their hearts.”
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### The Lord, not Idols, is the Only Worthy Object of Worship
@@ -998,7 +998,7 @@ For they have destroyed the people of Jacob.
 They have completely destroyed them
 and left their homeland in utter ruin.”
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### The People Have Violated Their Covenant with God
@@ -1051,7 +1051,7 @@ because I trust you to vindicate my cause.”
 [22] So the Lord of Heaven’s Armies said, “I will surely punish them! Their young men will be killed in battle. Their sons and daughters will die of starvation.
 [23] Not one of them will survive. I will bring disaster on those men from Anathoth who threatened you. A day of reckoning is coming for them.”
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Jeremiah Appeals to God
@@ -1120,7 +1120,7 @@ because the Lord will take them away in his fierce anger.
 [16] But they must make sure to learn to follow the religious practices of my people. Once they taught my people to swear their oaths using the name of the god Baal. But then, they must swear oaths using my name, saying, “As surely as the Lord lives, I swear.” If they do these things, then they will be included among the people I call my own.
 [17] But I will completely uproot and destroy any of those nations that will not pay heed,’” says the Lord.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### An Object Lesson from Ruined Linen Shorts
@@ -1195,7 +1195,7 @@ on the hills throughout the countryside.
 You are doomed to destruction!
 How long will you continue to be unclean?’”
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### A Lament over the Ravages of Drought
@@ -1282,7 +1282,7 @@ Is it not you, O Lord our God, who does this?
 So we put our hopes in you
 because you alone do all this.”
 
-## Chapter 15 <!-- scripture:15 -->
+## Chapter 15
 
 [1] Then the Lord said to me, “Even if Moses and Samuel stood before me pleading for these people, I would not feel pity for them! Get them away from me! Tell them to go away!
 [2] If they ask you, ‘Where should we go?’ tell them the Lord says this:
@@ -1371,7 +1371,7 @@ says the Lord.
 [21] “I will deliver you from the power of the wicked.
 I will free you from the clutches of violent people.”
 
-## Chapter 16 <!-- scripture:16 -->
+## Chapter 16
 
 
 ### Jeremiah Forbidden to Marry, to Mourn, or to Feast
@@ -1411,7 +1411,7 @@ No, what they make are not gods at all.”
 I will let them know my mighty power in judgment.
 Then they will know that my name is the Lord.
 
-## Chapter 17 <!-- scripture:17 -->
+## Chapter 17
 
 [1] “The sin of Judah is engraved with an iron chisel
 on their stone-hard hearts.
@@ -1500,7 +1500,7 @@ Bring on them the destruction they deserve.”
 [26] Then people will come here from the towns in Judah, from the villages surrounding Jerusalem, from the territory of Benjamin, from the foothills, from the southern hill country, and from the southern part of Judah. They will come bringing offerings to the temple of the Lord: burnt offerings, sacrifices, grain offerings, and incense along with their thank offerings.
 [27] But you must obey me and set the Sabbath day apart to me. You must not carry any loads in through the gates of Jerusalem on the Sabbath day. If you disobey, I will set the gates of Jerusalem on fire. It will burn down all the fortified dwellings in Jerusalem and no one will be able to put it out.’”
 
-## Chapter 18 <!-- scripture:18 -->
+## Chapter 18
 
 
 ### An Object Lesson from the Making of Pottery
@@ -1566,7 +1566,7 @@ Do not ignore their sins as though you had erased them.
 Let them be brought down in defeat before you.
 Deal with them while you are still angry!
 
-## Chapter 19 <!-- scripture:19 -->
+## Chapter 19
 
 
 ### An Object Lesson from a Broken Clay Jar
@@ -1587,7 +1587,7 @@ Deal with them while you are still angry!
 [14] Then Jeremiah left Topheth where the Lord had sent him to give that prophecy. He went to the Lord’s temple and stood in its courtyard and called out to all the people.
 [15] “The Lord of Heaven’s Armies, the God of Israel, says, ‘I will soon bring on this city and all the towns surrounding it all the disaster I threatened to do to it. I will do so because they have stubbornly refused to pay any attention to what I have said!’”
 
-## Chapter 20 <!-- scripture:20 -->
+## Chapter 20
 
 
 ### Jeremiah is Flogged and Put in A Cell
@@ -1649,7 +1649,7 @@ making my pregnant mother’s womb my grave forever.
 All I experience is trouble and grief,
 and I spend my days in shame.
 
-## Chapter 21 <!-- scripture:21 -->
+## Chapter 21
 
 
 ### The Lord Will Hand Jerusalem over to Enemies
@@ -1685,7 +1685,7 @@ says the Lord.
 ‘I will set fire to your palace;
 it will burn up everything around it.’”
 
-## Chapter 22 <!-- scripture:22 -->
+## Chapter 22
 
 [1] The Lord told me, “Go down to the palace of the king of Judah. Give him a message from me there.
 [2] Say: ‘Listen, O king of Judah who follows in David’s succession. You, your officials, and your subjects who pass through the gates of this palace must listen to the Lord’s message.
@@ -1783,7 +1783,7 @@ Enroll him as a man who will not enjoy success during his lifetime.
 For none of his sons will succeed in occupying the throne of David
 or ever succeed in ruling over Judah.”
 
-## Chapter 23 <!-- scripture:23 -->
+## Chapter 23
 
 
 ### New Leaders over a Regathered Remnant
@@ -1894,7 +1894,7 @@ the Lord asks.
 [39] So I will carry you far off and throw you away. I will send both you and the city I gave to you and to your ancestors out of my sight.
 [40] I will bring on you lasting shame and lasting disgrace that will never be forgotten!’”
 
-## Chapter 24 <!-- scripture:24 -->
+## Chapter 24
 
 
 ### Good Figs and Bad Figs
@@ -1910,7 +1910,7 @@ the Lord asks.
 [9] I will bring such disaster on them that all the kingdoms of the earth will be horrified. I will make them an object of reproach, a proverbial example of disaster. I will make them an object of ridicule, an example to be used in curses. That is how they will be remembered wherever I banish them.
 [10] I will bring war, starvation, and disease on them until they are completely destroyed from the land I gave them and their ancestors.’”
 
-## Chapter 25 <!-- scripture:25 -->
+## Chapter 25
 
 
 ### Seventy Years of Servitude for Failure to Give Heed
@@ -1983,7 +1983,7 @@ So their lands will certainly be laid waste
 by the warfare of the oppressive nation
 and by the fierce anger of the Lord.”
 
-## Chapter 26 <!-- scripture:26 -->
+## Chapter 26
 
 
 ### Jeremiah Is Put on Trial as a False Prophet
@@ -2016,7 +2016,7 @@ The temple mount will become a mere wooded ridge.”’
 [23] and they brought Uriah back from there. They took him to King Jehoiakim, who had him executed and had his body thrown into the burial place of the common people.
 [24] However, Ahikam son of Shaphan used his influence to keep Jeremiah from being handed over and executed by the people.
 
-## Chapter 27 <!-- scripture:27 -->
+## Chapter 27
 
 
 ### Jeremiah Counsels Submission to Babylon
@@ -2044,7 +2044,7 @@ The temple mount will become a mere wooded ridge.”’
 [21] Indeed, the Lord of Heaven’s Armies, the God of Israel, has already spoken about the valuable articles that are left in the Lord’s temple, in the royal palace of Judah, and in Jerusalem.
 [22] He has said, ‘They will be carried off to Babylon. They will remain there until it is time for me to show consideration for them again. Then I will bring them back and restore them to this place.’ I, the Lord, affirm this!”
 
-## Chapter 28 <!-- scripture:28 -->
+## Chapter 28
 
 
 ### Jeremiah Confronted by a False Prophet
@@ -2067,7 +2067,7 @@ The temple mount will become a mere wooded ridge.”’
 [16] So the Lord says, ‘I will most assuredly remove you from the face of the earth. You will die this very year because you have counseled rebellion against the Lord.’”
 [17] In the seventh month of that very same year the prophet Hananiah died.
 
-## Chapter 29 <!-- scripture:29 -->
+## Chapter 29
 
 
 ### Jeremiah’s Letter to the Exiles
@@ -2108,7 +2108,7 @@ The temple mount will become a mere wooded ridge.”’
 [31] “Send a message to all the exiles in Babylon. Tell them, ‘The Lord has spoken about Shemaiah the Nehelamite: “Shemaiah has spoken to you as a prophet even though I did not send him. He is making you trust in a lie.
 [32] Because he has done this,” the Lord says, “I will punish Shemaiah the Nehelamite and his whole family. There will not be any of them left to experience the good things that I will do for my people. I, the Lord, affirm it! For he counseled rebellion against the Lord.”’”
 
-## Chapter 30 <!-- scripture:30 -->
+## Chapter 30
 
 
 ### Introduction to the Book of Consolation
@@ -2212,7 +2212,7 @@ on the heads of those who are wicked.
 until he has fully carried out his intended purposes.
 In future days you will come to understand this.
 
-## Chapter 31 <!-- scripture:31 -->
+## Chapter 31
 
 [1] At that time I will be the God of all the clans of Israel
 and they will be my people.
@@ -2365,7 +2365,7 @@ says the Lord.
 [39] The boundary line will extend beyond that, straight west from there to the Hill of Gareb and then turn southward to Goah.
 [40] The whole valley where dead bodies and sacrificial ashes are thrown, and all the terraced fields out to the Kidron Valley on the east as far north as the corner of the Horse Gate, will be included within this city that is sacred to the Lord. The city will never again be torn down or destroyed.”
 
-## Chapter 32 <!-- scripture:32 -->
+## Chapter 32
 
 
 ### Jeremiah Buys a Field
@@ -2421,7 +2421,7 @@ says the Lord.
 [43] You and your people are saying that this land will become desolate, uninhabited by either people or animals. You are saying that it will be handed over to the Babylonians. But fields will again be bought in this land.
 [44] Fields will again be bought with silver, and deeds of purchase signed, sealed, and witnessed. This will happen in the territory of Benjamin, the villages surrounding Jerusalem, the towns in Judah, the southern hill country, the foothills, and southern Judah. For I will restore them to their land. I, the Lord, affirm it!’”
 
-## Chapter 33 <!-- scripture:33 -->
+## Chapter 33
 
 
 ### The Lord Promises a Second Time to Restore Israel and Judah
@@ -2456,7 +2456,7 @@ says the Lord.
 [25] But I, the Lord, make the following promise: ‘I have made a covenant governing the coming of day and night. I have established the fixed laws governing heaven and earth.
 [26] Just as surely as I have done this, so surely will I never reject the descendants of Jacob. Nor will I ever refuse to choose one of my servant David’s descendants to rule over the descendants of Abraham, Isaac, and Jacob. Indeed, I will restore them and show mercy to them.’”
 
-## Chapter 34 <!-- scripture:34 -->
+## Chapter 34
 
 
 ### The Lord Makes an Ominous Promise to Zedekiah
@@ -2487,7 +2487,7 @@ says the Lord.
 [21] I will also hand King Zedekiah of Judah and his officials over to their enemies who want to kill them. I will hand them over to the army of the king of Babylon, even though they have temporarily withdrawn from attacking you.
 [22] For I, the Lord, affirm that I will soon give the order and bring them back to this city. They will fight against it and capture it and burn it down. I will also make the towns of Judah desolate so that there will be no one living in them.”’”
 
-## Chapter 35 <!-- scripture:35 -->
+## Chapter 35
 
 
 ### Judah’s Unfaithfulness Contrasted with the Rechabites’ Faithfulness
@@ -2512,7 +2512,7 @@ says the Lord.
 [18] Then Jeremiah spoke to the Rechabite community, “The Lord of Heaven’s Armies, the God of Israel says, ‘You have obeyed the orders of your ancestor Jonadab. You have followed all his instructions. You have done exactly as he commanded you.’
 [19] So the Lord of Heaven’s Armies, the God of Israel, says, ‘Jonadab son of Rechab will never lack a male descendant to serve me.’”
 
-## Chapter 36 <!-- scripture:36 -->
+## Chapter 36
 
 
 ### Jehoiakim Burns the Scroll Containing the Lord’s Messages
@@ -2553,7 +2553,7 @@ says the Lord.
 [31] I will punish him and his descendants and the officials who serve him for the wicked things they have done. I will bring on them, the citizens of Jerusalem and the people of Judah, all the disaster that I told them about and that they ignored.”’”
 [32] Then Jeremiah got another scroll and gave it to the scribe Baruch son of Neriah. As Jeremiah dictated, Baruch wrote on this scroll everything that had been on the scroll that King Jehoiakim of Judah burned in the fire. They also added on this scroll several other messages of the same kind.
 
-## Chapter 37 <!-- scripture:37 -->
+## Chapter 37
 
 
 ### Introduction to Incidents During the Reign of Zedekiah
@@ -2586,7 +2586,7 @@ says the Lord.
 [20] But now please listen, your royal Majesty, and grant my plea for mercy. Do not send me back to the house of Jonathan, the royal secretary. If you do, I will die there.”
 [21] Then King Zedekiah ordered that Jeremiah be committed to the courtyard of the guardhouse. He also ordered that a loaf of bread be given to him every day from the bakers’ street until all the bread in the city was gone. So Jeremiah was kept in the courtyard of the guardhouse.
 
-## Chapter 38 <!-- scripture:38 -->
+## Chapter 38
 
 
 ### Jeremiah Is Charged with Treason and Put in a Cistern to Die
@@ -2633,7 +2633,7 @@ they have turned their backs on you.’
 ### The Fall of Jerusalem and Its Aftermath
 
 
-## Chapter 39 <!-- scripture:39 -->
+## Chapter 39
 
 [1] King Nebuchadnezzar of Babylon came against Jerusalem with his whole army and laid siege to it. The siege began in the tenth month of the ninth year that Zedekiah ruled over Judah.
 [2] It lasted until the ninth day of the fourth month of Zedekiah’s eleventh year. On that day they broke through the city walls.
@@ -2657,7 +2657,7 @@ they have turned their backs on you.’
 [17] But I will rescue you when it happens. I, the Lord, affirm it! You will not be handed over to those whom you fear.
 [18] I will certainly save you. You will not fall victim to violence. You will escape with your life because you trust in me. I, the Lord, affirm it!”’”
 
-## Chapter 40 <!-- scripture:40 -->
+## Chapter 40
 
 
 ### Jeremiah Is Set Free A Second Time
@@ -2685,7 +2685,7 @@ they have turned their backs on you.’
 [15] Then Johanan son of Kareah spoke privately to Gedaliah there at Mizpah, “Let me go and kill Ishmael the son of Nethaniah before anyone knows about it. Otherwise he will kill you and all the Judeans who have rallied around you will be scattered. Then what remains of Judah will disappear.”
 [16] But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do that because what you are saying about Ishmael is not true.”
 
-## Chapter 41 <!-- scripture:41 -->
+## Chapter 41
 
 [1] But in the seventh month Ishmael, the son of Nethaniah and grandson of Elishama, who was a member of the royal family and had been one of Zedekiah’s chief officers, came with ten of his men to Gedaliah son of Ahikam at Mizpah. While they were eating a meal together with him there at Mizpah,
 [2] Ishmael son of Nethaniah and the ten men who were with him stood up, pulled out their swords, and killed Gedaliah, the son of Ahikam and grandson of Shaphan. Thus Ishmael killed the man that the king of Babylon had appointed to govern the country.
@@ -2709,7 +2709,7 @@ they have turned their backs on you.’
 [17] They set out to go to Egypt to get away from the Babylonians, but stopped at Geruth Kimham near Bethlehem.
 [18] They were afraid of what the Babylonians might do because Ishmael son of Nethaniah had killed Gedaliah son of Ahikam, whom the king of Babylon had appointed to govern the country.
 
-## Chapter 42 <!-- scripture:42 -->
+## Chapter 42
 
 
 ### The Survivors Ask the Lord for Advice but Refuse to Follow It
@@ -2737,7 +2737,7 @@ they have turned their backs on you.’
 [21] This day I have told you what he said. But you do not want to obey the Lord your God by doing what he sent me to tell you.
 [22] So now be very sure of this: You will die from war, starvation, or disease in the place where you want to go and live.”
 
-## Chapter 43 <!-- scripture:43 -->
+## Chapter 43
 
 [1] Jeremiah finished telling all the people all these things the Lord their God had sent him to tell them.
 [2] Then Azariah son of Hoshaiah, Johanan son of Kareah, and other arrogant men said to Jeremiah, “You are telling a lie! The Lord our God did not send you to tell us, ‘You must not go to Egypt and settle there.’
@@ -2756,7 +2756,7 @@ they have turned their backs on you.’
 [12] He will set fire to the temples of the gods of Egypt. He will burn their gods or carry them off as captives. He will pick Egypt clean like a shepherd picks the lice from his clothing. He will leave there unharmed.
 [13] He will demolish the sacred pillars in the temple of the sun in Egypt and will burn down the temples of the gods of Egypt.”’”
 
-## Chapter 44 <!-- scripture:44 -->
+## Chapter 44
 
 
 ### The Lord Will Punish the Judean Exiles in Egypt for Their Idolatry
@@ -2792,7 +2792,7 @@ they have turned their backs on you.’
 [29] Moreover the Lord says, ‘I will make something happen to prove that I will punish you in this place. I will do it so that you will know that my threats to bring disaster on you will prove true.
 [30] I, the Lord, promise that I will hand Pharaoh Hophra king of Egypt over to his enemies who are seeking to kill him. I will do that just as surely as I handed King Zedekiah of Judah over to King Nebuchadnezzar of Babylon, his enemy who was seeking to kill him.’”
 
-## Chapter 45 <!-- scripture:45 -->
+## Chapter 45
 
 
 ### Baruch is Rebuked but also Comforted
@@ -2803,7 +2803,7 @@ they have turned their backs on you.’
 [4] The Lord told Jeremiah, “Tell Baruch, ‘The Lord says, “I am about to tear down what I have built and to uproot what I have planted. I will do this throughout the whole earth.
 [5] Are you looking for great things for yourself? Do not look for such things. For I, the Lord, affirm that I am about to bring disaster on all humanity. But I will allow you to escape with your life wherever you go.”’”
 
-## Chapter 46 <!-- scripture:46 -->
+## Chapter 46
 
 
 ### Prophecies Against Foreign Nations
@@ -2918,7 +2918,7 @@ I will not completely destroy you.
 I will indeed discipline you but only in due measure.
 I will not allow you to go entirely unpunished.”
 
-## Chapter 47 <!-- scripture:47 -->
+## Chapter 47
 
 
 ### Judgment on the Philistine Cities
@@ -2953,7 +2953,7 @@ when I, the Lord, have given it orders?
 I have ordered it to attack
 the people of Ashkelon and the seacoast.”
 
-## Chapter 48 <!-- scripture:48 -->
+## Chapter 48
 
 
 ### Judgment Against Moab
@@ -3124,7 +3124,7 @@ Your daughters will be carried away into exile.
 I will reverse Moab’s ill fortune,”
 says the Lord.
 
-## Chapter 49 <!-- scripture:49 -->
+## Chapter 49
 
 
 ### Judgment Against Ammon
@@ -3292,7 +3292,7 @@ I will destroy their king and their leaders,” says the Lord.
 I will reverse Elam’s ill fortune,”
 says the Lord.
 
-## Chapter 50 <!-- scripture:50 -->
+## Chapter 50
 
 
 ### Judgment Against Babylon
@@ -3488,7 +3488,7 @@ I will completely destroy their land because of what they have done.
 [46] The people of the earth will quake when they hear Babylon has been captured.
 Her cries of anguish will be heard by the other nations.”
 
-## Chapter 51 <!-- scripture:51 -->
+## Chapter 51
 
 [1] The Lord says:
 “I will cause a destructive wind to blow
@@ -3721,7 +3721,7 @@ The nations grow weary trying to get what will be destroyed.”
 [63] When you finish reading this scroll aloud, tie a stone to it and throw it into the middle of the Euphrates River.
 [64] Then say, ‘In the same way Babylon will sink and never rise again because of the disaster I am ready to bring upon her; they will grow faint.’”
 
-## Chapter 52 <!-- scripture:52 -->
+## Chapter 52
 
 
 ### The Fall of Jerusalem

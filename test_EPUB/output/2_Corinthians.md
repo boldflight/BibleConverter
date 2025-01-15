@@ -1,6 +1,6 @@
 # 2 Corinthians
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Salutation
@@ -34,7 +34,7 @@
 [21] But it is God who establishes us together with you in Christ and who anointed us,
 [22] who also sealed us and gave us the Spirit in our hearts as a down payment.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Why Paul Postponed His Visit
@@ -62,7 +62,7 @@
 [16] to the latter an odor from death to death, but to the former a fragrance from life to life. And who is adequate for these things?
 [17] For we are not like so many others, hucksters who peddle the word of God for profit, but we are speaking in Christ before God as persons of sincerity, as persons sent from God.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### A Living Letter
@@ -89,7 +89,7 @@
 [17] Now the Lord is the Spirit, and where the Spirit of the Lord is present, there is freedom.
 [18] And we all, with unveiled faces reflecting the glory of the Lord, are being transformed into the same image from one degree of glory to another, which is from the Lord, who is the Spirit.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Paul’s Perseverance in Ministry
@@ -116,7 +116,7 @@
 [17] For our momentary, light suffering is producing for us an eternal weight of glory far beyond all comparison
 [18] because we are not looking at what can be seen but at what cannot be seen. For what can be seen is temporary, but what cannot be seen is eternal.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Living by Faith, Not by Sight
@@ -146,7 +146,7 @@
 [20] Therefore we are ambassadors for Christ, as though God were making his plea through us. We plead with you on Christ’s behalf, “Be reconciled to God!”
 [21] God made the one who did not know sin to be sin for us, so that in him we would become the righteousness of God.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### God’s Suffering Servants
@@ -173,7 +173,7 @@
 [17] Therefore “come out from their midst, and be separate,” says the Lord, “and touch no unclean thing, and I will welcome you,
 [18] and I will be a father to you, and you will be my sons and daughters,” says the All-Powerful Lord.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### Self-Purification
@@ -198,7 +198,7 @@
 [15] And his affection for you is much greater when he remembers the obedience of you all, how you welcomed him with fear and trembling.
 [16] I rejoice because in everything I am fully confident in you.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### Completing the Collection for the Saints
@@ -231,7 +231,7 @@
 [23] If there is any question about Titus, he is my partner and fellow worker among you; if there is any question about our brothers, they are messengers of the churches, a glory to Christ.
 [24] Therefore show them openly before the churches the proof of your love and of our pride in you.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Preparing the Gift
@@ -252,7 +252,7 @@
 [14] And in their prayers on your behalf, they long for you because of the extraordinary grace God has shown to you.
 [15] Thanks be to God for his indescribable gift!
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Paul’s Authority from the Lord
@@ -279,7 +279,7 @@
 [17] But the one who boasts must boast in the Lord.
 [18] For it is not the person who commends himself who is approved, but the person the Lord commends.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Paul and His Opponents
@@ -321,7 +321,7 @@
 [32] In Damascus, the governor under King Aretas was guarding the city of Damascus in order to arrest me,
 [33] but I was let down in a rope-basket through a window in the city wall, and escaped his hands.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 
 ### Paul’s Thorn in the Flesh
@@ -351,7 +351,7 @@
 [20] For I am afraid that somehow when I come I will not find you what I wish, and you will find me not what you wish. I am afraid that somehow there may be quarreling, jealousy, intense anger, selfish ambition, slander, gossip, arrogance, and disorder.
 [21] I am afraid that when I come again, my God may humiliate me before you, and I will grieve for many of those who previously sinned and have not repented of the impurity, sexual immorality, and licentiousness that they have practiced.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Paul’s Third Visit to Corinth

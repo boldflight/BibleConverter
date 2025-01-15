@@ -1,6 +1,6 @@
 # Esther
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The King Throws a Lavish Party
@@ -31,7 +31,7 @@
 [21] The matter seemed appropriate to the king and the officials. So the king acted on the advice of Memucan.
 [22] He sent letters throughout all the royal provinces, to each province according to its own script and to each people according to their own language, that every man should be ruling his family and should be speaking the language of his own people.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### Esther Becomes Queen in Vashti’s Place
@@ -63,7 +63,7 @@
 [22] When Mordecai learned of the conspiracy, he informed Queen Esther, and Esther told the king in Mordecai’s name.
 [23] The king then had the matter investigated and, finding it to be so, had the two conspirators hanged on a gallows. It was then recorded in the daily chronicles in the king’s presence.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### Haman Conspires to Destroy the Jews
@@ -84,7 +84,7 @@
 [14] A copy of this edict was to be presented as law throughout every province; it was to be made known to all the inhabitants, so that they would be prepared for this day.
 [15] The messengers scurried forth with the king’s order. The edict was issued in Susa the citadel. While the king and Haman sat down to drink, the city of Susa was in an uproar.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Esther Decides to Risk Everything in order to Help Her People
@@ -107,7 +107,7 @@
 [16] “Go, assemble all the Jews who are found in Susa, and fast on my behalf. Don’t eat and don’t drink for three days, night or day. My female attendants and I will also fast in the same way. Afterward I will go to the king, even though it violates the law. If I perish, I perish.”
 [17] So Mordecai set out to do everything that Esther had instructed him.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Esther Appeals to the King for Help
@@ -130,7 +130,7 @@
 [13] Yet all this fails to satisfy me so long as I have to see Mordecai the Jew sitting at the king’s gate.”
 [14] Haman’s wife Zeresh and all his friends said to him, “Have a gallows 75 feet high built, and in the morning tell the king that Mordecai should be hanged on it. Then go with the king to the banquet contented.”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### The Turning Point: The King Honors Mordecai
@@ -150,7 +150,7 @@
 [13] Haman then related to his wife Zeresh and to all his friends everything that had happened to him. These wise men, along with his wife Zeresh, said to him, “If indeed this Mordecai before whom you have begun to fall is Jewish, you will not prevail against him. No, you will surely fall before him!”
 [14] While they were still speaking with him, the king’s eunuchs arrived. They quickly brought Haman to the banquet that Esther had prepared.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The King Has Haman Executed
@@ -166,7 +166,7 @@
 [9] Harbona, one of the king’s eunuchs, said, “Indeed, there is the gallows that Haman made for Mordecai, who spoke out on the king’s behalf. It stands near Haman’s home and is 75 feet high.”
 [10] So they hanged Haman on the very gallows that he had prepared for Mordecai. The king’s rage then abated.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### The King Acts to Protect the Jews
@@ -189,7 +189,7 @@
 [16] For the Jews there was radiant happiness and joyous honor.
 [17] Throughout every province and throughout every city where the king’s edict and his law arrived, the Jews experienced happiness and joy, banquets and holidays. Many of the resident peoples pretended to be Jews, because the fear of the Jews had overcome them.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### The Jews Prevail over Their Enemies
@@ -230,7 +230,7 @@
 [31] to establish these days of Purim in their proper times, just as Mordecai the Jew and Queen Esther had established, and just as they had established both for themselves and their descendants, matters pertaining to fasting and lamentation.
 [32] Esther’s command established these matters of Purim, and the matter was officially recorded.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Mordecai’s Fame Increases

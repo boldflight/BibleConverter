@@ -1,6 +1,6 @@
 # Ezra
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### The Decree of Cyrus
@@ -25,7 +25,7 @@
 and 1,000 other vessels.
 [11] All these gold and silver vessels totaled 5,400. Sheshbazzar brought them all along when the captives were brought up from Babylon to Jerusalem.
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 
 ### The Names of the Returning Exiles
@@ -101,7 +101,7 @@ and 1,000 other vessels.
 [69] As they were able, they gave to the treasury for this work 61,000 drachmas of gold, 5,000 minas of silver, and 100 priestly robes.
 [70] The priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants lived in their towns, and all the rest of Israel lived in their towns.
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### The Altar is Rebuilt
@@ -125,7 +125,7 @@ his loyal love toward Israel is forever.”
 [12] Many of the priests, the Levites, and the leaders —older people who had seen with their own eyes the former temple while it was still established —were weeping loudly, and many others raised their voice in a joyous shout.
 [13] People were unable to tell the difference between the sound of joyous shouting and the sound of the people’s weeping, for the people were shouting so loudly that the sound was heard a long way off.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### Opposition to the Building Efforts
@@ -158,7 +158,7 @@ his loyal love toward Israel is forever.”
 [23] Then, as soon as the copy of the letter from King Artaxerxes was read in the presence of Rehum, Shimshai the scribe, and their colleagues, they proceeded promptly to the Jews in Jerusalem and stopped them with threat of armed force.
 [24] So the work on the temple of God in Jerusalem came to a halt. It remained halted until the second year of the reign of King Darius of Persia.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Tattenai Appeals to Darius
@@ -181,7 +181,7 @@ his loyal love toward Israel is forever.”
 [16] Then this Sheshbazzar went and laid the foundations of the temple of God in Jerusalem. From that time to the present moment it has been in the process of being rebuilt, although it is not yet finished.’
 [17] “Now if the king is so inclined, let a search be conducted in the royal archives there in Babylon in order to determine whether King Cyrus did in fact issue orders for this temple of God to be rebuilt in Jerusalem. Then let the king send us a decision concerning this matter.”
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Darius Issues a Decree
@@ -212,7 +212,7 @@ his loyal love toward Israel is forever.”
 [21] The Israelites who were returning from the exile ate it, along with all those who had joined them in separating themselves from the uncleanness of the nations of the land to seek the Lord God of Israel.
 [22] They observed the Feast of Unleavened Bread for seven days with joy, for the Lord had given them joy and had changed the opinion of the king of Assyria toward them so that he assisted them in the work on the temple of God, the God of Israel.
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 
 ### The Arrival of Ezra
@@ -249,7 +249,7 @@ his loyal love toward Israel is forever.”
 [27] Blessed be the Lord God of our fathers, who so moved in the heart of the king to so honor the temple of the Lord which is in Jerusalem!
 [28] He has also conferred his favor on me before the king, his advisers, and all the influential leaders of the king. I gained strength as the hand of the Lord my God was on me, and I gathered leaders from Israel to go up with me.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### The Leaders Who Returned with Ezra
@@ -294,7 +294,7 @@ his loyal love toward Israel is forever.”
 [35] The exiles who were returning from the captivity offered burnt offerings to the God of Israel—twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs, along with twelve male goats as a sin offering. All this was a burnt offering to the Lord.
 [36] Then they presented the decrees of the king to the king’s satraps and to the governors of Trans-Euphrates, who assisted the people and the temple of God.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### A Prayer of Ezra
@@ -315,7 +315,7 @@ his loyal love toward Israel is forever.”
 [14] Shall we once again break your commandments and intermarry with these abominable peoples? Would you not be so angered by us that you would wipe us out, with no survivor or remnant?
 [15] O Lord God of Israel, you are righteous, for we are left as a remnant this day. Indeed, we stand before you in our guilt. However, because of this guilt no one can really stand before you.”
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### The People Confess Their Sins

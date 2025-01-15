@@ -1,6 +1,6 @@
 # Hosea
 
-## Chapter 1 <!-- scripture:1 -->
+## Chapter 1
 
 
 ### Superscription
@@ -23,7 +23,7 @@
 [10] (
 [11] Then the people of Judah and the people of Israel will be gathered together. They will appoint for themselves one leader, and will flourish in the land. Certainly, the day of Jezreel will be great!
 
-## Chapter 2 <!-- scripture:2 -->
+## Chapter 2
 
 [1] Then you will call your brother, “My People” (Ammi)! You will call your sister, “Pity” (Ruhamah)!
 
@@ -124,7 +124,7 @@ I will have pity on ‘No Pity’ (Lo-Ruhamah).
 I will say to ‘Not My People’ (Lo-Ammi), ‘You are my people!’
 And he will say, ‘You are my God!’”
 
-## Chapter 3 <!-- scripture:3 -->
+## Chapter 3
 
 
 ### An Illustration of God’s Love for Idolatrous Israel
@@ -135,7 +135,7 @@ And he will say, ‘You are my God!’”
 [4] For the Israelites must live many days without a king or prince, without sacrifice or sacred fertility pillar, without ephod or idols.
 [5] Afterward, the Israelites will turn and seek the Lord their God and their Davidic king. Then they will submit to the Lord in fear and receive his blessings in future days.
 
-## Chapter 4 <!-- scripture:4 -->
+## Chapter 4
 
 
 ### The Lord’s Covenant Lawsuit against the Nation Israel
@@ -219,7 +219,7 @@ they dearly love their shameful behavior.
 [19] A whirlwind has wrapped them in its wings;
 they will be brought to shame because of their idolatrous worship.
 
-## Chapter 5 <!-- scripture:5 -->
+## Chapter 5
 
 
 ### Announcement of Sin and Judgment
@@ -291,7 +291,7 @@ until they have suffered their punishment.
 Then they will seek me;
 in their distress they will earnestly seek me.
 
-## Chapter 6 <!-- scripture:6 -->
+## Chapter 6
 
 
 ### Superficial Repentance Breeds False Assurance of God’s Forgiveness
@@ -341,7 +341,7 @@ and Israel defiles itself.
 
 Whenever I want to restore the fortunes of my people,
 
-## Chapter 7 <!-- scripture:7 -->
+## Chapter 7
 
 [1] whenever I want to heal Israel,
 the sin of Ephraim is revealed,
@@ -414,7 +414,7 @@ Their leaders will fall by the sword
 because their prayers to Baal have made me angry.
 So people will disdain them in the land of Egypt.
 
-## Chapter 8 <!-- scripture:8 -->
+## Chapter 8
 
 
 ### God Will Raise Up the Assyrians to Attack Israel
@@ -479,7 +479,7 @@ and Judah has built many fortified cities.
 But I will send fire on their cities;
 it will consume their royal citadels.
 
-## Chapter 9 <!-- scripture:9 -->
+## Chapter 9
 
 
 ### Fertility Cult Festivals Have Intoxicated Israel
@@ -569,7 +569,7 @@ I will kill their precious offspring.
 for they have not obeyed him;
 so they will be fugitives among the nations.
 
-## Chapter 10 <!-- scripture:10 -->
+## Chapter 10
 
 
 ### Israel is Guilty of Fertility Cult Worship
@@ -651,7 +651,7 @@ because of your great wickedness!
 When that day dawns,
 the king of Israel will be destroyed.
 
-## Chapter 11 <!-- scripture:11 -->
+## Chapter 11
 
 
 ### Reversal of the Exodus: Return to Egypt and Exile in Assyria
@@ -710,7 +710,7 @@ the house of Israel has surrounded me with deceit.
 But Judah still roams about with God;
 he remains faithful to the Holy One.
 
-## Chapter 12 <!-- scripture:12 -->
+## Chapter 12
 
 [1] Ephraim continually feeds on the wind;
 he chases the east wind all day;
@@ -764,7 +764,7 @@ and due to a prophet Israel was preserved alive.
 so he will hold him accountable for the blood he has shed,
 his Lord will repay him for the contempt he has shown.
 
-## Chapter 13 <!-- scripture:13 -->
+## Chapter 13
 
 
 ### Baal Worshipers and Calf Worshipers to be Destroyed
@@ -844,7 +844,7 @@ They will fall by the sword;
 their infants will be dashed to the ground—
 their pregnant women will be ripped open.
 
-## Chapter 14 <!-- scripture:14 -->
+## Chapter 14
 
 
 ### Prophetic Call to Genuine Repentance

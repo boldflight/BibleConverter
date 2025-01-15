@@ -148,8 +148,16 @@ struct BibleConverter: ParsableCommand {
     }
     
     private func saveBook(_ name: String, markdown: String, to path: String) throws {
+        
+        var fileName = name.lowercased()
+        
+        // Map the bookName to BibleBook's fileName
+        if let bibleBook = BibleBook.allCases.first(where: { $0.displayName.lowercased() == fileName }) {
+            fileName = bibleBook.fileName
+        }
+        
         let outputURL = URL(fileURLWithPath: path)
-            .appendingPathComponent(name.replacingOccurrences(of: " ", with: "_"))
+            .appendingPathComponent(fileName.replacingOccurrences(of: " ", with: "_"))
             .appendingPathExtension("md")
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
     }

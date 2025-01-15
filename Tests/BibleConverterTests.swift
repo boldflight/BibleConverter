@@ -188,4 +188,39 @@ struct BibleConverterTests {
         #expect(verse1Index < judgmentIndex)
         #expect(judgmentIndex < verse2Index)
     }
+    
+    @Test("Handle Song of Solomon speaker annotations")
+    func testSongOfSolomonSpeakers() async throws {
+        let input = """
+        <?xml version="1.0" encoding="utf-8"?>
+        <html>
+        <body>
+            <h1>Song of Solomon Chapter 1</h1>
+            <p class="paragraphtitle">The Desire for Love</p>
+            <p class="sosspeaker">The Beloved to Her Lover:</p>
+            <p class="poetry"><span class="verse">1:2</span> Oh, how I wish you would kiss me passionately!</p>
+            <p class="sosspeaker">The Maidens to the Lover:</p>
+            <p class="poetry">We will rejoice and delight in you;</p>
+        </body>
+        </html>
+        """
+        
+        let (bookName, markdown) = try converter.convertToMarkdown(input)
+        
+        #expect(bookName == "Song of Solomon")
+        #expect(markdown.contains("### The Desire for Love"))
+        #expect(markdown.contains("_The Beloved to Her Lover:_"))
+        #expect(markdown.contains("[2] Oh, how I wish you would kiss me passionately!"))
+        #expect(markdown.contains("_The Maidens to the Lover:_"))
+        #expect(markdown.contains("We will rejoice and delight in you;"))
+        
+        // Verify order
+        let lines = markdown.components(separatedBy: .newlines)
+        let titleIndex = lines.firstIndex(where: { $0.contains("The Desire for Love") }) ?? 0
+        let speaker1Index = lines.firstIndex(where: { $0.contains("The Beloved to Her Lover") }) ?? 0
+        let verse2Index = lines.firstIndex(where: { $0.contains("[2]") }) ?? 0
+        
+        #expect(titleIndex < speaker1Index)
+        #expect(speaker1Index < verse2Index)
+    }
 }

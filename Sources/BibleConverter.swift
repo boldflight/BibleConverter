@@ -168,13 +168,18 @@ struct BibleConverter: ParsableCommand {
                 markdown += "## Chapter \(chapterNumber) <!-- scripture:\(chapterNumber) -->\n\n"
             }
             
-            let elements = try document.select("p.paragraphtitle, p.bodytext, p.poetry")
+            let elements = try document.select("p.paragraphtitle, p.bodytext, p.poetry, p.sosspeaker")
             
             for element in elements {
                 let className = try element.className()
                 
                 if className == "paragraphtitle" {
                     markdown += "\n### \(try element.text())\n\n"
+                    continue
+                }
+                
+                if className == "sosspeaker" {
+                    markdown += "_\(try element.text())_\n"
                     continue
                 }
                 

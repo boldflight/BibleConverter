@@ -9,6 +9,7 @@
 
 ### The Desire for Love
 
+_The Beloved to Her Lover:_
 [2] Oh, how I wish you would kiss me passionately!
 For your lovemaking is more delightful than wine.
 [3] The fragrance of your colognes is delightful;
@@ -16,12 +17,15 @@ your name is like the finest perfume.
 No wonder the young women adore you!
 [4] Draw me after you; let us hurry!
 May the king bring me into his bedroom chambers!
+_The Maidens to the Lover:_
 We will rejoice and delight in you;
 we will praise your love more than wine.
+_The Beloved to Her Lover:_
 How rightly the young women adore you!
 
 ### The Country Maiden and the Daughters of Jerusalem
 
+_The Beloved to the Maidens:_
 [5] I am dark but lovely, O maidens of Jerusalem,
 dark like the tents of Qedar,
 lovely like the tent curtains of Salmah.
@@ -33,11 +37,13 @@ Alas, my own vineyard I could not keep!
 
 ### The Shepherd and the Shepherdess
 
+_The Beloved to Her Lover:_
 [7] Tell me, O you whom my heart loves,
 where do you pasture your sheep?
 Where do you rest your sheep during the midday heat?
 Tell me lest I wander around
 beside the flocks of your companions!
+_The Lover to His Beloved:_
 [8] If you do not know, O most beautiful of women,
 simply follow the tracks of my flock,
 and pasture your little lambs
@@ -45,12 +51,14 @@ beside the tents of the shepherds.
 
 ### The Beautiful Mare and the Fragrant Myrrh
 
+_The Lover to His Beloved:_
 [9] O my beloved, you are like a mare
 among Pharaoh’s stallions.
 [10] Your cheeks are beautiful with ornaments;
 your neck is lovely with strings of jewels.
 [11] We will make for you gold ornaments
 studded with silver.
+_The Beloved about Her Lover:_
 [12] While the king was at his banqueting table,
 my nard gave forth its fragrance.
 [13] My beloved is like a fragrant pouch of myrrh
@@ -60,9 +68,11 @@ in the vineyards of En Gedi.
 
 ### Mutual Praise and Admiration
 
+_The Lover to His Beloved:_
 [15] Oh, how beautiful you are, my beloved!
 Oh, how beautiful you are!
 Your eyes are like doves!
+_The Beloved to Her Lover:_
 [16] Oh, how handsome you are, my lover!
 Oh, how delightful you are!
 The lush foliage is our canopied bed;
@@ -75,10 +85,13 @@ the pines are the rafters of our bedroom.
 
 ### The Lily among the Thorns and the Apple Tree in the Forest
 
+_The Beloved to Her Lover:_
 [1] I am a meadow flower from Sharon,
 a lily from the valleys.
+_The Lover to His Beloved:_
 [2] Like a lily among the thorns,
 so is my darling among the maidens.
+_The Beloved about Her Lover:_
 [3] Like an apple tree among the trees of the forest,
 so is my beloved among the young men.
 I delight to sit in his shade,
@@ -86,6 +99,7 @@ and his fruit is sweet to my taste.
 
 ### The Banquet Hall for the Lovesick
 
+_The Beloved about Her Lover:_
 [4] He brought me into the banquet hall,
 and he looked at me lovingly.
 [5] Sustain me with raisin cakes,
@@ -96,12 +110,14 @@ for I am faint with love.
 
 [6] His left hand is under my head,
 and his right hand embraces me.
+_The Beloved to the Maidens:_
 [7] I admonish you, O maidens of Jerusalem,
 by the gazelles and by the young does of the open fields:
 Do not awaken or arouse love until it pleases!
 
 ### The Arrival of the Lover
 
+_The Beloved about Her Lover:_
 [8] Listen! My lover is approaching!
 Look! Here he comes,
 leaping over the mountains,
@@ -113,6 +129,7 @@ peering through the lattice.
 
 ### The Season of Love and the Song of the Turtledove
 
+_The Lover to His Beloved:_
 [10] My lover spoke to me, saying:
 “Arise, my darling;
 My beautiful one, come away with me!
@@ -128,6 +145,7 @@ my beautiful one, come away with me!”
 
 ### The Dove in the Clefts of En Gedi
 
+_The Lover to His Beloved:_
 [14] O my dove, in the clefts of the rock,
 in the hiding places of the mountain crags,
 let me see your face,
@@ -137,6 +155,7 @@ and your face is lovely.
 
 ### The Foxes in the Vineyard
 
+_The Beloved to Her Lover:_
 [15] Catch the foxes for us,
 the little foxes,
 that ruin the vineyards —
@@ -144,11 +163,13 @@ for our vineyard is in bloom.
 
 ### Poetic Refrain: Mutual Possession
 
+_The Beloved about Her Lover:_
 [16] My lover is mine and I am his;
 he grazes among the lilies.
 
 ### The Gazelle and the Rugged Mountains
 
+_The Beloved to Her Lover:_
 [17] Until the dawn arrives and the shadows flee,
 turn, my beloved—
 be like a gazelle or a young stag
@@ -160,6 +181,7 @@ on the mountain gorges.
 
 ### The Lost Lover is Found
 
+_The Beloved about Her Lover:_
 [1] All night long on my bed
 I longed for my lover.
 I longed for him but he never appeared.
@@ -177,12 +199,14 @@ to the bedroom chamber of the one who conceived me.
 
 ### The Adjuration Refrain
 
+_The Beloved to the Maidens:_
 [5] I admonish you, O maidens of Jerusalem,
 by the gazelles and by the young does of the open fields:
 “Do not awaken or arouse love until it pleases!”
 
 ### The Royal Wedding Procession
 
+_The Speaker:_
 [6] Who is this coming up from the wilderness
 like a column of smoke,
 like a fragrant billow of myrrh and frankincense,
@@ -212,6 +236,7 @@ on the most joyous day of his life!
 
 ### The Wedding Night: Praise of the Bride
 
+_The Lover to His Beloved:_
 [1] Oh, you are beautiful, my darling!
 Oh, you are beautiful!
 Your eyes behind your veil are like doves.
@@ -259,6 +284,7 @@ The fragrance of your garments is like the fragrance of Lebanon.
 
 ### The Wedding Night: The Delightful Garden
 
+_The Lover to His Beloved:_
 [12] You are a locked garden, my sister, my bride;
 you are an enclosed spring, a sealed-up fountain.
 [13] Your shoots are a royal garden full of pomegranates
@@ -269,6 +295,7 @@ calamus and cinnamon with every kind of spice,
 myrrh and aloes with all the finest spices.
 [15] You are a garden spring,
 a well of fresh water flowing down from Lebanon.
+_The Beloved to Her Lover:_
 [16] Awake, O north wind; come, O south wind!
 Blow on my garden so that its fragrant spices may send out their sweet smell.
 May my beloved come into his garden
@@ -277,21 +304,26 @@ and eat its delightful fruit!
 
 ## Chapter 5 <!-- scripture:5 -->
 
+_The Lover to His Beloved:_
 [1] I have entered my garden, O my sister, my bride;
 I have gathered my myrrh with my balsam spice.
 I have eaten my honeycomb and my honey;
 I have drunk my wine and my milk!
+_The Poet to the Couple:_
 Eat, friends, and drink!
 Drink freely, O lovers!
 
 ### The Trials of Love: The Beloved’s Dream of Losing Her Lover
 
+_The Beloved about Her Lover:_
 [2] I was asleep, but my mind was dreaming.
 Listen! My lover is knocking at the door!
+_The Lover to His Beloved:_
 “Open for me, my sister, my darling,
 my dove, my flawless one!
 My head is drenched with dew,
 my hair with the dampness of the night.”
+_The Beloved to Her Lover:_
 [3] “I have already taken off my robe—must I put it on again?
 I have already washed my feet—must I soil them again?”
 [4] My lover thrust his hand through the hole,
@@ -311,13 +343,16 @@ they took away my cloak, those watchmen on the walls!
 
 ### The Triumph of Love: The Beloved Praises Her Lover
 
+_The Beloved to the Maidens:_
 [8] I admonish you, O maidens of Jerusalem—
 If you find my beloved, what will you tell him?
 Tell him that I am lovesick!
+_The Maidens to The Beloved:_
 [9] Why is your beloved better than others,
 O most beautiful of women?
 Why is your beloved better than others,
 that you would admonish us in this manner?
+_The Beloved to the Maidens:_
 [10] My beloved is dazzling and ruddy;
 he stands out in comparison to all other men.
 [11] His head is like the purest gold.
@@ -341,10 +376,12 @@ This is my companion, O maidens of Jerusalem!
 
 ### The Lost Lover Found
 
+_The Maidens to the Beloved:_
 [1] Where has your beloved gone,
 O most beautiful among women?
 Where has your beloved turned?
 Tell us, that we may seek him with you.
+_The Beloved to the Maidens:_
 [2] My beloved has gone down to his garden,
 to the flowerbeds of balsam spices,
 to graze in the gardens,
@@ -352,11 +389,13 @@ and to gather lilies.
 
 ### Poetic Refrain: Mutual Possession
 
+_The Beloved about Her Lover:_
 [3] I am my lover’s and my lover is mine;
 he grazes among the lilies.
 
 ### The Renewal of Love
 
+_The Lover to His Beloved:_
 [4] My darling, you are as beautiful as Tirzah,
 as lovely as Jerusalem,
 as awe-inspiring as bannered armies.
@@ -385,6 +424,7 @@ awe-inspiring as the stars in procession?”
 
 ### The Return to the Vineyards
 
+_The Lover to His Beloved:_
 [11] I went down to the orchard of walnut trees,
 to look for the blossoms of the valley,
 to see if the vines had budded
@@ -395,14 +435,17 @@ O daughter of my princely people.
 
 ### The Love Song and Dance
 
+_The Lover to His Beloved:_
 [13] (7:1) Turn, turn, O Perfect One!
 Turn, turn, that I may stare at you!
+_The Beloved to Her Lover:_
 Why do you gaze upon the Perfect One
 like the dance of the Mahanaim?
 # Song of Solomon
 
 ## Chapter 7 <!-- scripture:7 -->
 
+_The Lover to His Beloved:_
 [1] (7:2) How beautiful are your sandaled feet,
 O nobleman’s daughter!
 The curves of your thighs are like jewels,
@@ -426,6 +469,7 @@ O love, with your delights!
 
 ### The Palm Tree and the Palm Tree Climber
 
+_The Lover to His Beloved:_
 [7] Your stature is like a palm tree,
 and your breasts are like clusters of grapes.
 [8] I want to climb the palm tree,
@@ -438,11 +482,13 @@ gliding gently over our lips as we sleep together.
 
 ### Poetic Refrain: Mutual Possession
 
+_The Beloved about Her Lover:_
 [10] I am my beloved’s,
 and he desires me!
 
 ### The Journey to the Countryside
 
+_The Beloved to Her Lover:_
 [11] Come, my beloved, let us go to the countryside;
 let us spend the night in the villages.
 [12] Let us rise early to go to the vineyards,
@@ -460,6 +506,7 @@ both new and old, which I have stored up for you, my lover.
 
 ### The Beloved’s Wish Song
 
+_The Beloved to Her Lover:_
 [1] Oh, how I wish you were my little brother,
 nursing at my mother’s breasts;
 if I saw you outside, I could kiss you—
@@ -471,21 +518,26 @@ the nectar of my pomegranates.
 
 ### Double Refrain: Embracing and Adjuration
 
+_The Beloved about Her Lover:_
 [3] His left hand is under my head,
 and his right hand embraces me.
+_The Beloved to the Maidens:_
 [4] I admonish you, O maidens of Jerusalem:
 “Do not arouse or awaken love until it pleases!”
 
 ### The Awakening of Love
 
+_The Maidens about His Beloved:_
 [5] Who is this coming up from the wilderness,
 leaning on her beloved?
+_The Beloved to Her Lover:_
 Under the apple tree I aroused you;
 there your mother conceived you,
 there she who bore you was in labor of childbirth.
 
 ### The Nature of True Love
 
+_The Beloved to Her Lover:_
 [6] Set me like a cylinder seal over your heart,
 like a signet on your arm.
 For love is as strong as death,
@@ -499,6 +551,7 @@ the offer would be utterly despised.
 
 ### The Brother’s Plan and the Sister’s Reward
 
+_The Beloved’s Brothers:_
 [8] We have a little sister,
 and as yet she has no breasts.
 What shall we do for our sister
@@ -507,12 +560,14 @@ on the day when she is spoken for?
 we will build on her a battlement of silver;
 but if she is a door,
 we will barricade her with boards of cedar.
+_The Beloved:_
 [10] I was a wall,
 and my breasts were like fortress towers.
 Then I found favor in his eyes.
 
 ### Solomon’s Vineyard and the Beloved’s Vineyard
 
+_The Beloved to Her Lover:_
 [11] Solomon had a vineyard at Baal Hamon;
 he leased out the vineyard to those who maintained it.
 Each was to bring 1,000 shekels of silver for its fruit.
@@ -522,9 +577,11 @@ and 200 shekels belong to those who maintain it for its fruit.
 
 ### Epilogue: The Lover’s Request and His Beloved’s Invitation
 
+_The Lover to His Beloved:_
 [13] O you who stay in the gardens,
 my companions are listening attentively for your voice;
 let me be the one to hear it!
+_The Beloved to Her Lover:_
 [14] Make haste, my beloved!
 Be like a gazelle or a young stag
 on the mountains of spices.

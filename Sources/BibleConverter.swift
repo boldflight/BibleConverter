@@ -175,24 +175,32 @@ struct BibleConverter: ParsableCommand {
             
             for p in try document.select("p.bodytext, p.poetry") {
                 let className = try p.className()
-                let verseContent = try p.text()
+                
+                for smcaps in try p.select("span.smcaps") {
+                    let text = try smcaps.text()
+                    try smcaps.text(text)
+                }
                 
                 if className == "poetry" {
                     if let verse = try p.select("span.verse").first() {
                         let verseNumber = try verse.text().split(separator: ":")[1]
-                        let verseLine = verse.parent()?.textNodes().map { $0.text().trimmingCharacters(in: .whitespaces) }.joined()
-                        regularVerses.append("[\(verseNumber)] \(verseLine ?? "")\n")
-                    }
-                    let additionalLines = p.textNodes().map { $0.text().trimmingCharacters(in: .whitespaces) }
-                    for line in additionalLines where !line.isEmpty {
-                        regularVerses.append(line + "\n")
+                        try verse.remove()
+                        let verseText = try p.text().trimmingCharacters(in: .whitespaces)
+                        regularVerses.append("[\(verseNumber)] \(verseText)\n")
+                    } else {
+                        let line = try p.text().trimmingCharacters(in: .whitespaces)
+                        if !line.isEmpty {
+                            regularVerses.append(line + "\n")
+                        }
                     }
                 } else {
+                    let verseContent = try p.text()
                     let regex = /(\d+:\d+)\s(.+?)(?=\d+:\d+|\n|$)/
                     let matches = verseContent.matches(of: regex)
                     for match in matches {
                         let verseNumber = match.1.split(separator: ":")[1]
-                        regularVerses.append("[\(verseNumber)] \(match.2)\n")
+                        let verseText = match.2.trimmingCharacters(in: .whitespaces)
+                        regularVerses.append("[\(verseNumber)] \(verseText)\n")
                     }
                 }
             }

@@ -166,14 +166,17 @@ struct ConvertCommand: ParsableCommand {
     }
     
     private func saveBook(_ name: String, markdown: String, to path: String) throws {
+        // Skip empty book names
+        guard !name.isEmpty else { return }
+        
         var fileName = name.lowercased()
         
         // First try to find the book using the BibleBook.from() method
-        if let bibleBook = BibleBook.from(name: name) {
+        if let bibleBook = BibleBook.from(name) {
             fileName = bibleBook.fileName
         } else {
-            print("Warning: Could not match book name: \(name)")
-            // Fall back to simple name conversion if no match found
+            // Only log warnings for non-empty book names that we couldn't match
+            print("\nWarning: Could not match book name: \(name)")
             fileName = fileName.replacingOccurrences(of: " ", with: "_")
         }
         
@@ -181,7 +184,9 @@ struct ConvertCommand: ParsableCommand {
             .appendingPathComponent(fileName)
             .appendingPathExtension("md")
         
-        print("Saving book: \(name) as \(fileName).md")
+        // Only write non-empty markdown content
+        guard !markdown.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else { return }
+        
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
     }
 
@@ -192,6 +197,7 @@ struct ConvertCommand: ParsableCommand {
         do {
             let document = try SwiftSoup.parse(xmlString)
             
+            // First try h1 tag (for most books)
             if let h1 = try document.select("h1").first() {
                 bookName = try h1.text().components(separatedBy: "Chapter")[0].trimmingCharacters(in: .whitespacesAndNewlines)
                 let chapterNumber = try h1.text().components(separatedBy: "Chapter")[1].trimmingCharacters(in: .whitespacesAndNewlines)
@@ -199,9 +205,21 @@ struct ConvertCommand: ParsableCommand {
                     markdown += "# \(bookName)\n"
                 }
                 markdown += "\n## Chapter \(chapterNumber)\n\n"
+            } 
+            // Then try h2 tag (for Psalms)
+            else if let h2 = try document.select("h2").first() {
+                let h2Text = try h2.text()
+                if h2Text.starts(with: "Psalm ") {
+                    bookName = "Psalms"
+                    let psalmNumber = h2Text.components(separatedBy: "Psalm ")[1].trimmingCharacters(in: .whitespacesAndNewlines)
+                    if psalmNumber == "1" {
+                        markdown += "# \(bookName)\n"
+                    }
+                    markdown += "\n## Psalm \(psalmNumber)\n\n"
+                }
             }
             
-            let elements = try document.select("p.paragraphtitle, p.bodytext, p.poetry, p.sosspeaker")
+            let elements = try document.select("p.paragraphtitle, p.bodytext, p.poetry, p.sosspeaker, p.lamhebrew")
             
             for element in elements {
                 let className = try element.className()
@@ -213,6 +231,11 @@ struct ConvertCommand: ParsableCommand {
                 
                 if className == "sosspeaker" {
                     markdown += "_\(try element.text())_\n"
+                    continue
+                }
+                
+                if className == "lamhebrew" {
+                    markdown += "\n#### \(try element.text())\n"
                     continue
                 }
                 

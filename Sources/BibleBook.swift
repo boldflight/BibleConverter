@@ -282,7 +282,7 @@ enum BibleBook: String, CaseIterable {
         }
     }
     
-    static func from(name: String) -> BibleBook? {
+    static func from(_ name: String) -> BibleBook? {
         let normalized = name.lowercased().trimmingCharacters(in: .whitespaces)
         
         return BibleBook.allCases.first { book in

@@ -17,6 +17,7 @@ struct ConvertCommand: ParsableCommand {
     mutating func run() throws {
         var processedFiles = 0
         var uniqueBooks = Set<String>()  // Track unique books
+        var skippedXHTMLFiles = 0  // Track number of XHTML files without valid book content
         var progressBar = ProgressBar()
         
         try validateEPUB(at: epubPath)
@@ -62,8 +63,14 @@ struct ConvertCommand: ParsableCommand {
             if let book = bookName {
                 if book != currentBook {
                     if let current = currentBook {
-                        try saveBook(current, markdown: currentMarkdown, to: outputPath)
-                        uniqueBooks.insert(current)  // Track unique book
+                        do {
+                            try saveBook(current, markdown: currentMarkdown, to: outputPath)
+                            uniqueBooks.insert(current)
+                        } catch ConversionError.emptyContent {
+                            skippedXHTMLFiles += 1
+                        } catch ConversionError.invalidBookName {
+                            skippedXHTMLFiles += 1
+                        }
                     }
                     currentBook = book
                     currentMarkdown = markdown
@@ -74,13 +81,22 @@ struct ConvertCommand: ParsableCommand {
         }
         
         if let current = currentBook {
-            try saveBook(current, markdown: currentMarkdown, to: outputPath)
-            uniqueBooks.insert(current)  // Track unique book
+            do {
+                try saveBook(current, markdown: currentMarkdown, to: outputPath)
+                uniqueBooks.insert(current)
+            } catch ConversionError.emptyContent {
+                skippedXHTMLFiles += 1
+            } catch ConversionError.invalidBookName {
+                skippedXHTMLFiles += 1
+            }
         }
         
         print("\n\nConversion complete!")
         print("Processed \(processedFiles) EPUB chapter files")
         print("Created \(uniqueBooks.count) markdown book files")
+        if skippedXHTMLFiles > 0 {
+            print("Skipped \(skippedXHTMLFiles) XHTML files without valid book content")
+        }
     }
     
     private mutating func validateEPUB(at path: String) throws {
@@ -167,25 +183,23 @@ struct ConvertCommand: ParsableCommand {
     
     private func saveBook(_ name: String, markdown: String, to path: String) throws {
         // Skip empty book names
-        guard !name.isEmpty else { return }
+        guard !name.isEmpty else {
+            throw ConversionError.invalidBookName("Empty book name")
+        }
         
-        var fileName = name.lowercased()
-        
-        // First try to find the book using the BibleBook.from() method
-        if let bibleBook = BibleBook.from(name) {
-            fileName = bibleBook.fileName
-        } else {
-            // Only log warnings for non-empty book names that we couldn't match
-            print("\nWarning: Could not match book name: \(name)")
-            fileName = fileName.replacingOccurrences(of: " ", with: "_")
+        // Require valid Bible book
+        guard let bibleBook = BibleBook.from(name) else {
+            throw ConversionError.invalidBookName(name)
         }
         
         let outputURL = URL(fileURLWithPath: path)
-            .appendingPathComponent(fileName)
+            .appendingPathComponent(bibleBook.fileName)
             .appendingPathExtension("md")
         
         // Only write non-empty markdown content
-        guard !markdown.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else { return }
+        guard !markdown.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else {
+            throw ConversionError.emptyContent
+        }
         
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
     }
@@ -205,7 +219,7 @@ struct ConvertCommand: ParsableCommand {
                     markdown += "# \(bookName)\n"
                 }
                 markdown += "\n## Chapter \(chapterNumber)\n\n"
-            } 
+            }
             // Then try h2 tag (for Psalms)
             else if let h2 = try document.select("h2").first() {
                 let h2Text = try h2.text()
@@ -286,4 +300,6 @@ enum ConversionError: Error {
     case invalidPath
     case invalidFileType
     case epubExtractionFailed(Error)
+    case invalidBookName(String)
+    case emptyContent
 }

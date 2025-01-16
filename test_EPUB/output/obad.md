@@ -23,6 +23,8 @@ You think to yourself,
 [4] Even if you were to soar high like an eagle,
 even if you were to make your nest among the stars,
 I can bring you down even from there!” says the Lord.
+
+[5] “If thieves came to rob you during the night,
 they would steal only as much as they wanted.
 If grape pickers came to harvest your vineyards,
 they would leave some behind for the poor.
@@ -33,6 +35,8 @@ Their hidden valuables will be ransacked!
 Your treaty partners will deceive you and overpower you.
 Your trusted friends will set an ambush for you
 that will take you by surprise!
+
+[8] At that time,” the Lord says,
 “I will destroy the wise sages of Edom,
 the advisers from Esau’s mountain.
 [9] Your warriors will be shattered, O Teman,

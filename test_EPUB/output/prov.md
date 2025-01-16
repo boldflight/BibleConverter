@@ -546,6 +546,8 @@ and I was his delight day by day,
 rejoicing before him at all times,
 [31] rejoicing in the habitable part of his earth,
 and delighting in its people.
+
+[32] “So now, children, listen to me;
 blessed are those who keep my ways.
 [33] Listen to my instruction so that you may be wise,
 and do not neglect it.
@@ -605,6 +607,8 @@ that her guests are in the depths of the grave.
 ### The First Collection of Solomonic Proverbs
 
 [1] The proverbs of Solomon:
+
+A wise child makes a father rejoice,
 but a foolish child is a grief to his mother.
 [2] Treasures gained by wickedness do not profit,
 but righteousness delivers from death.
@@ -1585,6 +1589,8 @@ and your need like an armed robber.”
 ### Proverbs of Solomon Collected by Hezekiah
 
 [1] These also are proverbs of Solomon, which the men of King Hezekiah of Judah copied:
+
+[2] It is the glory of God to conceal a matter,
 and it is the glory of a king to search out a matter.
 [3] As the heaven is high and the earth is deep
 so the hearts of kings are unsearchable.

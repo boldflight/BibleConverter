@@ -7,6 +7,11 @@
 
 [1] The beginning of the gospel of Jesus Christ, the Son of God.
 [2] As it is written in the prophet Isaiah,
+“Look, I am sending my messenger ahead of you,
+who will prepare your way,
+[3] the voice of one shouting in the wilderness,
+‘Prepare the way for the Lord,
+make his paths straight.’”
 [4] In the wilderness John the baptizer began preaching a baptism of repentance for the forgiveness of sins.
 [5] People from the whole Judean countryside and all of Jerusalem were going out to him, and he was baptizing them in the Jordan River as they confessed their sins.
 [6] John wore a garment made of camel’s hair with a leather belt around his waist, and he ate locusts and wild honey.
@@ -183,6 +188,9 @@
 
 [10] When he was alone, those around him with the twelve asked him about the parables.
 [11] He said to them, “The secret of the kingdom of God has been given to you. But to those outside, everything is in parables,
+[12] so that although they look they may look but not see,
+and although they hear they may hear but not understand,
+so they may not repent and be forgiven.”
 [13] He said to them, “Don’t you understand this parable? Then how will you understand any parable?
 [14] The sower sows the word.
 [15] These are the ones on the path where the word is sown: Whenever they hear, immediately Satan comes and snatches the word that was sown in them.
@@ -368,6 +376,10 @@
 [4] And when they come from the marketplace, they do not eat unless they wash. They hold fast to many other traditions: the washing of cups, pots, kettles, and dining couches.)
 [5] The Pharisees and the experts in the law asked him, “Why do your disciples not live according to the tradition of the elders, but eat with unwashed hands?”
 [6] He said to them, “Isaiah prophesied correctly about you hypocrites, as it is written:
+‘This people honors me with their lips,
+but their heart is far from me.
+[7] They worship me in vain,
+teaching as doctrine the commandments of men.’
 [14] Then he called the crowd again and said to them, “Listen to me, everyone, and understand.
 [15] There is nothing outside of a person that can defile him by going into him. Rather, it is what comes out of a person that defiles him.”
 [17] Now when Jesus had left the crowd and entered the house, his disciples asked him about the parable.
@@ -664,6 +676,8 @@
 [8] So they seized him, killed him, and threw his body out of the vineyard.
 [9] What then will the owner of the vineyard do? He will come and destroy those tenants and give the vineyard to others.
 [10] Have you not read this scripture:
+‘The stone the builders rejected has become the cornerstone.
+[11] This is from the Lord, and it is marvelous in our eyes’?”
 
 ### Paying Taxes to Caesar
 
@@ -700,6 +714,9 @@
 
 [35] While Jesus was teaching in the temple courts, he said, “How is it that the experts in the law say that the Christ is David’s son?
 [36] David himself, by the Holy Spirit, said,
+‘The Lord said to my lord,
+“Sit at my right hand,
+until I put your enemies under your feet.”’
 
 ### Warnings About Experts in the Law
 
@@ -822,6 +839,8 @@
 ### The Prediction of Peter’s Denial
 
 [27] Then Jesus said to them, “You will all fall away, for it is written,
+‘I will strike the shepherd,
+and the sheep will be scattered.’
 
 ### Gethsemane
 

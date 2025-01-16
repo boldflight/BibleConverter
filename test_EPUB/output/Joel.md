@@ -19,6 +19,8 @@ and their children the following generation.
 [4] What the gazam-locust left the ‘arbeh-locust consumed,
 what the ‘arbeh-locust left the yeleq-locust consumed,
 and what the yeleq-locust left the hasil-locust consumed.
+
+[5] Wake up, you drunkards, and weep!
 Wail, all you wine drinkers,
 because the sweet wine has been taken away from you.
 [6] For a nation has invaded my land,
@@ -49,6 +51,8 @@ the fig tree languishes—
 the pomegranate, date, and apple as well.
 In fact, all the trees of the field have dried up.
 Indeed, the joy of the people has dried up!
+
+[13] Get dressed and lament, you priests.
 Wail, you who minister at the altar.
 Come, spend the night in sackcloth, you servants of my God,
 because no one brings grain offerings or drink offerings
@@ -71,6 +75,8 @@ because the grain has dried up.
 The herds of livestock wander around in confusion
 because they have no pasture.
 Even the flocks of sheep are suffering.
+
+[19] To you, O Lord, I call out for help,
 for fire has burned up the pastures of the wilderness,
 flames have razed all the trees in the fields.
 [20] Even the wild animals cry out to you,
@@ -93,6 +99,8 @@ like blackness spread over the mountains.
 It is a huge and powerful army —
 there has never been anything like it ever before,
 and there will not be anything like it for many generations to come!
+
+[3] Like fire they devour everything in their path;
 a flame blazes behind them.
 The land looks like the Garden of Eden before them,
 but behind them there is only a desolate wilderness—
@@ -140,6 +148,8 @@ slow to anger and boundless in loyal love —often relenting from calamitous pun
 Perhaps he will be compassionate and grant a reprieve,
 and leave blessing in his wake —
 a meal offering and a drink offering for you to offer to the Lord your God!
+
+[15] Blow the trumpet in Zion.
 Announce a holy fast;
 proclaim a sacred assembly.
 [16] Gather the people;
@@ -171,6 +181,8 @@ Those in front will be driven eastward into the Dead Sea,
 and those in back westward into the Mediterranean Sea.
 His stench will rise up as a foul smell.”
 Indeed, the Lord has accomplished great things!
+
+[21] Do not fear, my land.
 Rejoice and be glad,
 because the Lord has accomplished great things!
 [22] Do not fear, wild animals.
@@ -267,6 +279,8 @@ for there I will sit in judgment on all the surrounding nations.
 Come, stomp the grapes, for the winepress is full!
 The vats overflow.
 Indeed, their evil is great!”
+
+[14] Crowds, great crowds are in the Valley of Decision,
 for the day of the Lord is near in the Valley of Decision!
 [15] The sun and moon are darkened;
 the stars withhold their brightness.

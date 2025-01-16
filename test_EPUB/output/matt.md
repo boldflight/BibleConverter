@@ -44,6 +44,9 @@
 [3] When King Herod heard this he was alarmed, and all Jerusalem with him.
 [4] After assembling all the chief priests and experts in the law, he asked them where the Christ was to be born.
 [5] “In Bethlehem of Judea,” they said, “for it is written this way by the prophet:
+[6] ‘And you, Bethlehem, in the land of Judah,
+are in no way least among the rulers of Judah,
+for out of you will come a ruler who will shepherd my people Israel.’”
 [7] Then Herod privately summoned the wise men and determined from them when the star had appeared.
 [8] He sent them to Bethlehem and said, “Go and look carefully for the child. When you find him, inform me so that I can go and worship him as well.”
 [9] After listening to the king they left, and once again the star they saw when it rose led them until it stopped above the place where the child was.
@@ -58,6 +61,10 @@
 [15] He stayed there until Herod died. In this way what was spoken by the Lord through the prophet was fulfilled: “I called my Son out of Egypt.”
 [16] When Herod saw that he had been tricked by the wise men, he became enraged. He sent men to kill all the children in Bethlehem and throughout the surrounding region from the age of two and under, according to the time he had learned from the wise men.
 [17] Then what was spoken by Jeremiah the prophet was fulfilled:
+[18] “A voice was heard in Ramah,
+weeping and loud wailing,
+Rachel weeping for her children,
+and she did not want to be comforted, because they were gone.”
 
 ### The Return to Nazareth
 
@@ -75,6 +82,8 @@
 [1] In those days John the Baptist came into the wilderness of Judea proclaiming,
 [2] “Repent, for the kingdom of heaven is near.”
 [3] For he is the one about whom the prophet Isaiah had spoken:
+“The voice of one shouting in the wilderness,
+‘Prepare the way for the Lord, make his paths straight.’”
 [4] Now John wore clothing made from camel’s hair with a leather belt around his waist, and his diet consisted of locusts and wild honey.
 [5] Then people from Jerusalem, as well as all Judea and all the region around the Jordan, were going out to him,
 [6] and he was baptizing them in the Jordan River as they confessed their sins.
@@ -115,6 +124,10 @@
 [12] Now when Jesus heard that John had been imprisoned, he went into Galilee.
 [13] While in Galilee, he moved from Nazareth to make his home in Capernaum by the sea, in the region of Zebulun and Naphtali,
 [14] so that what was spoken by the prophet Isaiah would be fulfilled:
+[15] “Land of Zebulun and land of Naphtali,
+the way by the sea, beyond the Jordan, Galilee of the Gentiles—
+[16] the people who sit in darkness have seen a great light,
+and on those who sit in the region and shadow of death a light has dawned.”
 [17] From that time Jesus began to preach this message: “Repent, for the kingdom of heaven is near!”
 
 ### The Call of the Disciples
@@ -340,6 +353,7 @@ may your will be done on earth as it is in heaven.
 [15] He touched her hand, and the fever left her. Then she got up and began to serve them.
 [16] When it was evening, many demon-possessed people were brought to him. He drove out the spirits with a word, and healed all who were sick.
 [17] In this way what was spoken by the prophet Isaiah was fulfilled:
+“He took our weaknesses and carried our diseases.”
 
 ### Challenging Professed Followers
 
@@ -501,6 +515,8 @@ may your will be done on earth as it is in heaven.
 [8] What did you go out to see? A man dressed in soft clothing? Look, those who wear soft clothing are in the palaces of kings!
 [9] What did you go out to see? A prophet? Yes, I tell you, and more than a prophet!
 [10] This is the one about whom it is written:
+‘Look, I am sending my messenger ahead of you,
+who will prepare your way before you.’
 [11] “I tell you the truth, among those born of women, no one has arisen greater than John the Baptist. Yet the one who is least in the kingdom of heaven is greater than he is!
 [12] From the days of John the Baptist until now the kingdom of heaven has suffered violence, and forceful people lay hold of it.
 [13] For all the prophets and the law prophesied until John appeared.
@@ -552,6 +568,14 @@ we wailed in mourning, yet you did not weep.’
 [15] Now when Jesus learned of this, he went away from there. Great crowds followed him, and he healed them all.
 [16] But he sternly warned them not to make him known.
 [17] This fulfilled what was spoken by the prophet Isaiah:
+[18] “Here is my servant whom I have chosen,
+the one I love, in whom I take great delight.
+I will put my Spirit on him, and he will proclaim justice to the nations.
+[19] He will not quarrel or cry out,
+nor will anyone hear his voice in the streets.
+[20] He will not break a bruised reed or extinguish a smoldering wick,
+until he brings justice to victory.
+[21] And in his name the Gentiles will hope.”
 
 ### Jesus and Beelzebul
 
@@ -616,6 +640,15 @@ we wailed in mourning, yet you did not weep.’
 [12] For whoever has will be given more, and will have an abundance. But whoever does not have, even what he has will be taken from him.
 [13] For this reason I speak to them in parables: Although they see they do not see, and although they hear they do not hear nor do they understand.
 [14] And concerning them the prophecy of Isaiah is fulfilled that says:
+‘You will listen carefully yet will never understand,
+you will look closely yet will never comprehend.
+[15] For the heart of this people has become dull;
+they are hard of hearing,
+and they have shut their eyes,
+so that they would not see with their eyes
+and hear with their ears
+and understand with their hearts
+and turn, and I would heal them.’
 [16] “But your eyes are blessed because they see, and your ears because they hear.
 [17] For I tell you the truth, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.
 [18] “So listen to the parable of the sower:
@@ -648,6 +681,8 @@ we wailed in mourning, yet you did not weep.’
 
 [34] Jesus spoke all these things in parables to the crowds; he did not speak to them without a parable.
 [35] This fulfilled what was spoken by the prophet:
+“I will open my mouth in parables,
+I will announce what has been hidden from the foundation of the world.”
 
 ### Explanation for the Disciples
 
@@ -741,6 +776,10 @@ we wailed in mourning, yet you did not weep.’
 [5] But you say, ‘If someone tells his father or mother, “Whatever help you would have received from me is given to God,”
 [6] he does not need to honor his father.’ You have nullified the word of God on account of your tradition.
 [7] Hypocrites! Isaiah prophesied correctly about you when he said,
+[8] ‘This people honors me with their lips,
+but their heart is far from me,
+[9] and they worship me in vain,
+teaching as doctrines the commandments of men.’”
 
 ### True Defilement
 
@@ -1017,6 +1056,10 @@ we wailed in mourning, yet you did not weep.’
 [2] telling them, “Go to the village ahead of you. Right away you will find a donkey tied there, and a colt with her. Untie them and bring them to me.
 [3] If anyone says anything to you, you are to say, ‘The Lord needs them,’ and he will send them at once.”
 [4] This took place to fulfill what was spoken by the prophet:
+[5] “Tell the people of Zion,
+‘Look, your king is coming to you,
+unassuming and seated on a donkey,
+and on a colt, the foal of a donkey.’”
 [6] So the disciples went and did as Jesus had instructed them.
 [7] They brought the donkey and the colt and placed their cloaks on them, and he sat on them.
 [8] A very large crowd spread their cloaks on the road. Others cut branches from the trees and spread them on the road.
@@ -1069,6 +1112,8 @@ we wailed in mourning, yet you did not weep.’
 [40] Now when the owner of the vineyard comes, what will he do to those tenants?”
 [41] They said to him, “He will utterly destroy those evil men! Then he will lease the vineyard to other tenants who will give him his portion at the harvest.”
 [42] Jesus said to them, “Have you never read in the scriptures:
+‘The stone the builders rejected has become the cornerstone.
+This is from the Lord, and it is marvelous in our eyes’?
 [43] For this reason I tell you that the kingdom of God will be taken from you and given to a people who will produce its fruit.
 [44] The one who falls on this stone will be broken to pieces, and the one on whom it falls will be crushed.”
 [45] When the chief priests and the Pharisees heard his parables, they realized that he was speaking about them.
@@ -1134,6 +1179,9 @@ we wailed in mourning, yet you did not weep.’
 [41] While the Pharisees were assembled, Jesus asked them a question:
 [42] “What do you think about the Christ? Whose son is he?” They said, “The son of David.”
 [43] He said to them, “How then does David by the Spirit call him ‘Lord,’ saying,
+[44] ‘The Lord said to my lord,
+“Sit at my right hand,
+until I put your enemies under your feet”’?
 
 ## Chapter 23
 
@@ -1369,6 +1417,8 @@ we wailed in mourning, yet you did not weep.’
 ### The Prediction of Peter’s Denial
 
 [31] Then Jesus said to them, “This night you will all fall away because of me, for it is written:
+‘I will strike the shepherd,
+and the sheep of the flock will be scattered.’
 
 ### Gethsemane
 

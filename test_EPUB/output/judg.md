@@ -166,11 +166,15 @@ Praise the Lord!
 Pay attention, O rulers!
 I will sing to the Lord!
 I will sing to the Lord God of Israel!
+
+[4] O Lord, when you departed from Seir,
 when you marched from Edom’s plains,
 the earth shook, the heavens poured down,
 the clouds poured down rain.
 [5] The mountains trembled before the Lord, the God of Sinai;
 before the Lord God of Israel.
+
+[6] In the days of Shamgar son of Anath,
 in the days of Jael caravans disappeared;
 travelers had to go on winding side roads.
 [7] Warriors were scarce;
@@ -184,12 +188,16 @@ among forty military units in Israel.
 [9] My heart went out to Israel’s leaders,
 to the people who answered the call to war.
 Praise the Lord!
+
+[10] You who ride on light-colored female donkeys,
 who sit on saddle blankets,
 you who walk on the road, pay attention!
 [11] Hear the sound of those who divide the sheep among the watering places;
 there they tell of the Lord’s victorious deeds,
 the victorious deeds of his warriors in Israel.
 Then the Lord’s people went down to the city gates—
+
+[12] Wake up, wake up, Deborah!
 Wake up, wake up, sing a song!
 Get up, Barak!
 Capture your prisoners of war, son of Abinoam!
@@ -212,6 +220,8 @@ Asher remained on the seacoast;
 he stayed by his harbors.
 [18] The men of Zebulun were not concerned about their lives;
 Naphtali charged onto the battlefields.
+
+[19] Kings came, they fought;
 the kings of Canaan fought
 at Taanach by the waters of Megiddo,
 but they took no silver as plunder.
@@ -220,11 +230,15 @@ from their paths in the heavens they fought against Sisera.
 [21] The Kishon River carried them off;
 the river confronted them —the Kishon River.
 Step on the necks of the strong!
+
+[22] The horses’ hooves pounded the ground;
 the stallions galloped madly.
 [23] ‘Call judgment down on Meroz,’ says the angel of the Lord;
 ‘Be sure to call judgment down on those who live there,
 because they did not come to help in the Lord’s battle,
 to help in the Lord’s battle against the warriors.’
+
+[24] The most rewarded of women should be Jael,
 the wife of Heber the Kenite!
 She should be the most rewarded of women who live in tents.
 [25] He asked for water,
@@ -242,6 +256,8 @@ he fell limp and was lifeless;
 between her feet he collapsed and fell,
 in the spot where he collapsed,
 there he fell—violently killed!
+
+[28] Through the window she looked;
 Sisera’s mother cried out through the lattice:
 ‘Why is his chariot so slow to return?
 Why are the hoofbeats of his chariot horses delayed?’
@@ -253,6 +269,8 @@ Sisera is grabbing up colorful cloth,
 he is grabbing up colorful embroidered cloth,
 two pieces of colorful embroidered cloth,
 for the neck of the plunderer!’
+
+[31] May all your enemies perish like this, O Lord!
 But may those who love you shine
 like the rising sun at its brightest.”
 

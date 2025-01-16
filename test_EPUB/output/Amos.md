@@ -157,6 +157,8 @@ Say this:
 “Gather on the hills around Samaria!
 Observe the many acts of violence taking place within the city,
 the oppressive deeds occurring in it.”
+
+[10] “They do not know how to do what is right,” the Lord says.
 “They store up the spoils of destructive violence in their fortresses.
 [11] Therefore,” says the Sovereign Lord, “an enemy will encircle the land.
 He will take away your power;
@@ -168,6 +170,8 @@ They will be left with just a corner of a bed,
 and a part of a couch.
 [13] Listen and warn the family of Jacob!”
 The Sovereign Lord, the God who commands armies, is speaking!
+
+[14] “Certainly when I punish Israel for their covenant transgressions,
 I will destroy Bethel’s altars.
 The horns of the altar will be cut off and fall to the ground.
 [15] I will destroy both the winter and summer houses.
@@ -177,6 +181,8 @@ The Lord is speaking!
 
 ## Chapter 4
 
+
+[1] Listen to this message, you cows of Bashan who live on Mount Samaria!
 You oppress the poor;
 you crush the needy.
 You say to your husbands,
@@ -199,28 +205,42 @@ your tithes on the third day!
 Make a public display of your voluntary offerings!
 For you love to do this, you Israelites.”
 The Sovereign Lord is speaking.
+
+[6] “But surely I gave you no food to eat in all your cities;
 you lacked food everywhere you lived.
 Still you did not come back to me.”
 The Lord is speaking
+
+[7] “I withheld rain from you three months before the harvest.
 I gave rain to one city, but not to another.
 One field would get rain, but the field that received no rain dried up.
 [8] People from two or three cities staggered into one city to get water,
 but remained thirsty.
 Still you did not come back to me.”
 The Lord is speaking
+
+[9] “I destroyed your crops with blight and disease.
 Locusts kept devouring your orchards, vineyards, fig trees, and olive trees.
 Still you did not come back to me.”
 The Lord is speaking
+
+[10] “I sent against you a plague like one of the Egyptian plagues.
 I killed your young men with the sword,
 along with the horses you had captured.
 I made the stench from the corpses rise up into your nostrils.
 Still you did not come back to me.”
 The Lord is speaking
+
+[11] “I overthrew some of you the way God overthrew Sodom and Gomorrah.
 You were like a burning stick snatched from the flames.
 Still you did not come back to me.”
 The Lord is speaking
+
+[12] “Therefore this is what I will do to you, Israel.
 Because I will do this to you,
 prepare to meet your God, Israel!”
+
+[13] For here he is!
 He formed the mountains and created the wind.
 He reveals his plans to men.
 He turns the dawn into darkness
@@ -246,11 +266,15 @@ Do not visit Gilgal.
 Do not journey down to Beer Sheba.
 For the people of Gilgal will certainly be carried into exile,
 and Bethel will become a place where disaster abounds.”
+
+[6] Seek the Lord so you can live!
 Otherwise he will break out like fire against Joseph’s family;
 the fire will consume
 and no one will be able to quench it and save Bethel.
 [7] The Israelites turn justice into bitterness;
 they throw what is fair and right to the ground.
+
+[8] But there is one who made the constellations Pleiades and Orion;
 he can turn the darkness into morning
 and daylight into night.
 He summons the water of the seas
@@ -258,6 +282,8 @@ and pours it out on the earth’s surface.
 The Lord is his name!
 [9] He flashes destruction down upon the strong
 so that destruction overwhelms the fortified places.
+
+[10] The Israelites hate anyone who arbitrates at the city gate;
 they despise anyone who speaks honestly.
 [11] Therefore, because you make the poor pay taxes on their crops
 and exact a grain tax from them,
@@ -269,6 +295,8 @@ You torment the innocent, you take bribes,
 and you deny justice to the needy at the city gate.
 [13] For this reason whoever is smart keeps quiet in such a time,
 for it is an evil time.
+
+[14] Seek good and not evil so you can live!
 Then the Lord God of Heaven’s Armies just might be with you,
 as you claim he is.
 [15] Hate what is wrong, love what is right.
@@ -294,6 +322,8 @@ leaned his hand against the wall,
 and was bitten by a poisonous snake.
 [20] Don’t you realize the Lord’s day of judgment will bring darkness, not light—
 gloomy blackness, not bright light?
+
+[21] “I absolutely despise your festivals!
 I get no pleasure from your religious assemblies.
 [22] Even if you offer me burnt and grain offerings, I will not be satisfied;
 I will not look with favor on your peace offerings of fattened calves.
@@ -301,6 +331,8 @@ I will not look with favor on your peace offerings of fattened calves.
 I don’t want to hear the music of your stringed instruments.
 [24] Justice must flow like torrents of water,
 righteous actions like a stream that never dries up.
+
+[25] You did not bring me sacrifices and grain offerings during the forty years you spent in the wilderness, family of Israel.
 [26] You will pick up your images of Sikkuth, your king,
 and Kiyyun, your star god, which you made for yourselves,
 [27] and I will drive you into exile beyond Damascus,” says the Lord.
@@ -334,12 +366,16 @@ and pour the very best oils on themselves.
 Yet they are not concerned over the ruin of Joseph.
 [7] Therefore they will now be the first to go into exile,
 and the religious banquets where they sprawl on couches will end.
+
+[8] The Sovereign Lord confirms this oath by his very own life.
 The Lord God of Heaven’s Armies is speaking:
 “I despise Jacob’s arrogance;
 I hate their fortresses.
 I will hand over to their enemies the city of Samaria and everything in it.”
 [9] If ten men are left in one house, they too will die.
 [10] When their close relatives, the ones who will burn the corpses, pick up their bodies to remove the bones from the house, they will say to anyone who is in the inner rooms of the house, “Is anyone else with you?” He will respond, “No one.” Then he will say, “Hush! Don’t invoke the Lord’s name!”
+
+[11] Indeed, look! The Lord is giving the command.
 He will smash the large house to bits
 and the small house into little pieces.
 [12] Can horses run on rocky cliffs?
@@ -460,6 +496,8 @@ from there I would command the Sea Serpent to bite them.
 from there I will command the sword to kill them.
 I will not let them out of my sight;
 they will experience disaster, not prosperity.”
+
+[5] The Sovereign Lord of Heaven’s Armies will do this.
 He touches the earth and it dissolves;
 all who live on it mourn.
 The whole earth rises like the Nile River,

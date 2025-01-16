@@ -16,7 +16,18 @@
 [6] But when he again brings his firstborn into the world, he says, “Let all the angels of God worship him!”
 [7] And he says of the angels, “He makes his angels winds and his ministers a flame of fire,”
 [8] but of the Son he says,
+“Your throne, O God, is forever and ever,
+and a righteous scepter is the scepter of your kingdom.
+[9] You have loved righteousness and hated lawlessness.
+So God, your God, has anointed you over your companions with the oil of rejoicing.”
 [10] And,
+“You founded the earth in the beginning, Lord,
+and the heavens are the works of your hands.
+[11] They will perish, but you continue.
+And they will all grow old like a garment,
+[12] and like a robe you will fold them up
+and like a garment they will be changed,
+but you are the same and your years will never run out.”
 [13] But to which of the angels has he ever said, “Sit at my right hand until I make your enemies a footstool for your feet”?
 [14] Are they not all ministering spirits, sent out to serve those who will inherit salvation?
 
@@ -34,6 +45,10 @@
 
 [5] For he did not put the world to come, about which we are speaking, under the control of angels.
 [6] Instead someone testified somewhere:
+“What is man that you think of him or the son of man that you care for him?
+[7] You made him lower than the angels for a little while.
+You crowned him with glory and honor.
+[8] You put all things under his control.”
 [9] but we see Jesus, who was made lower than the angels for a little while, now crowned with glory and honor because he suffered death, so that by God’s grace he would experience death on behalf of everyone.
 [10] For it was fitting for him, for whom and through whom all things exist, in bringing many sons to glory, to make the pioneer of their salvation perfect through sufferings.
 [11] For indeed he who makes holy and those being made holy all have the same origin, and so he is not ashamed to call them brothers and sisters,
@@ -60,6 +75,11 @@
 ### Exposition of Psalm 95: Hearing God’s Word in Faith
 
 [7] Therefore, as the Holy Spirit says,
+“Oh, that today you would listen as he speaks!
+[8] “Do not harden your hearts as in the rebellion, in the day of testing in the wilderness.
+[9] “There your fathers tested me and tried me, and they saw my works for forty years.
+[10] “Therefore, I became provoked at that generation and said, ‘Their hearts are always wandering and they have not known my ways.’
+[11] “As I swore in my anger, ‘They will never enter my rest!’”
 [12] See to it, brothers and sisters, that none of you has an evil, unbelieving heart that forsakes the living God.
 [13] But exhort one another each day, as long as it is called “Today,” that none of you may become hardened by sin’s deception.
 [14] For we have become partners with Christ, if in fact we hold our initial confidence firm until the end.
@@ -187,6 +207,11 @@
 [6] But now Jesus has obtained a superior ministry, since the covenant that he mediates is also better and is enacted on better promises.
 [7] For if that first covenant had been faultless, no one would have looked for a second one.
 [8] But showing its fault, God says to them,
+“Look, the days are coming, says the Lord, when I will complete a new covenant with the house of Israel and with the house of Judah.
+[9] “It will not be like the covenant that I made with their fathers, on the day when I took them by the hand to lead them out of Egypt, because they did not continue in my covenant and I had no regard for them, says the Lord.
+[10] “For this is the covenant that I will establish with the house of Israel after those days, says the Lord. I will put my laws in their minds and I will inscribe them on their hearts. And I will be their God and they will be my people.
+[11] “And there will be no need at all for each one to teach his countryman or each one to teach his brother saying, ‘Know the Lord,’ since they will all know me, from the least to the greatest.
+[12] “For I will be merciful toward their evil deeds, and their sins I will remember no longer.”
 [13] When he speaks of a new covenant, he makes the first obsolete. Now what is growing obsolete and aging is about to disappear.
 
 ## Chapter 9
@@ -236,6 +261,9 @@
 [3] But in those sacrifices there is a reminder of sins year after year.
 [4] For it is impossible for the blood of bulls and goats to take away sins.
 [5] So when he came into the world, he said,
+“Sacrifice and offering you did not desire, but a body you prepared for me.
+[6] “Whole burnt offerings and sin-offerings you took no delight in.
+[7] “Then I said, ‘Here I am: I have come—it is written of me in the scroll of the book—to do your will, O God.’”
 [8] When he says above, “Sacrifices and offerings and whole burnt offerings and sin-offerings you did not desire nor did you take delight in them” (which are offered according to the law),
 [9] then he says, “Here I am: I have come to do your will.” He does away with the first to establish the second.
 [10] By his will we have been made holy through the offering of the body of Jesus Christ once for all.
@@ -328,6 +356,9 @@
 [3] Think of him who endured such opposition against himself by sinners, so that you may not grow weary in your souls and give up.
 [4] You have not yet resisted to the point of bloodshed in your struggle against sin.
 [5] And have you forgotten the exhortation addressed to you as sons?
+“My son, do not scorn the Lord’s discipline
+or give up when he corrects you.
+[6] “For the Lord disciplines the one he loves and chastises every son he accepts.”
 [7] Endure your suffering as discipline; God is treating you as sons. For what son is there that a father does not discipline?
 [8] But if you do not experience discipline, something all sons have shared in, then you are illegitimate and are not sons.
 [9] Besides, we have experienced discipline from our earthly fathers and we respected them; shall we not submit ourselves all the more to the Father of spirits and receive life?

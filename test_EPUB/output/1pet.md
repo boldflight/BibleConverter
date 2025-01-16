@@ -32,6 +32,10 @@
 [22] You have purified your souls by obeying the truth in order to show sincere mutual love. So love one another earnestly from a pure heart.
 [23] You have been born anew, not from perishable but from imperishable seed, through the living and enduring word of God.
 [24] For
+all flesh is like grass
+and all its glory like the flower of the grass;
+the grass withers and the flower falls off,
+[25] but the word of the Lord endures forever.
 
 ## Chapter 2
 
@@ -85,6 +89,11 @@
 [8] Finally, all of you be harmonious, sympathetic, affectionate, compassionate, and humble.
 [9] Do not return evil for evil or insult for insult, but instead bless others because you were called to inherit a blessing.
 [10] For
+the one who wants to love life and see good days must keep his tongue from evil and his lips from uttering deceit.
+[11] And he must turn away from evil and do good;
+he must seek peace and pursue it.
+[12] For the eyes of the Lord are upon the righteous and his ears are open to their prayer.
+But the Lord’s face is against those who do evil.
 [13] For who is going to harm you if you are devoted to what is good?
 [14] But in fact, if you happen to suffer for doing what is right, you are blessed. But do not be terrified of them or be shaken.
 [15] But set Christ apart as Lord in your hearts and always be ready to give an answer to anyone who asks about the hope you possess.

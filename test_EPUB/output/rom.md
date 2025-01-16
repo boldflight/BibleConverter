@@ -100,6 +100,20 @@
 
 [9] What then? Are we better off? Certainly not, for we have already charged that Jews and Greeks alike are all under sin,
 [10] just as it is written:
+“There is no one righteous, not even one,
+[11] there is no one who understands,
+there is no one who seeks God.
+[12] All have turned away,
+together they have become worthless;
+there is no one who shows kindness, not even one.”
+[13] “Their throats are open graves,
+they deceive with their tongues,
+the poison of asps is under their lips.”
+[14] “Their mouths are full of cursing and bitterness.”
+[15] “Their feet are swift to shed blood,
+[16] ruin and misery are in their paths,
+[17] and the way of peace they have not known.”
+[18] “There is no fear of God before their eyes.”
 [19] Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world may be held accountable to God.
 [20] For no one is declared righteous before him by the works of the law, for through the law comes the knowledge of sin.
 [21] But now apart from the law the righteousness of God (although it is attested by the law and the prophets) has been disclosed—
@@ -125,6 +139,8 @@
 [4] Now to the one who works, his pay is not credited due to grace but due to obligation.
 [5] But to the one who does not work, but believes in the one who declares the ungodly righteous, his faith is credited as righteousness.
 [6] So even David himself speaks regarding the blessedness of the man to whom God credits righteousness apart from works:
+[7] “Blessed are those whose lawless deeds are forgiven, and whose sins are covered;
+[8] blessed is the one against whom the Lord will never count sin.”
 [9] Is this blessedness then for the circumcision or also for the uncircumcision? For we say, “faith was credited to Abraham as righteousness.”
 [10] How then was it credited to him? Was he circumcised at the time, or not? No, he was not circumcised but uncircumcised!
 [11] And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised, so that he would become the father of all those who believe but have never been circumcised, that they too could have righteousness credited to them.
@@ -311,9 +327,15 @@
 [23] And what if he is willing to make known the wealth of his glory on the objects of mercy that he has prepared beforehand for glory—
 [24] even us, whom he has called, not only from the Jews but also from the Gentiles?
 [25] As he also says in Hosea:
+“I will call those who were not my people, ‘My people,’ and I will call her who was unloved, ‘My beloved.’”
+[26] “And in the very place where it was said to them, ‘You are not my people,’
+there they will be called ‘sons of the living God.’”
 [27] And Isaiah cries out on behalf of Israel, “Though the number of the children of Israel are as the sand of the sea, only the remnant will be saved,
 [28] for the Lord will execute his sentence on the earth completely and quickly.”
 [29] Just as Isaiah predicted,
+“If the Lord of Heaven’s Armies had not left us descendants,
+we would have become like Sodom,
+and we would have resembled Gomorrah.”
 
 ### Israel’s Rejection Culpable
 
@@ -321,6 +343,9 @@
 [31] but Israel even though pursuing a law of righteousness did not attain it.
 [32] Why not? Because they pursued it not by faith but (as if it were possible) by works. They stumbled over the stumbling stone,
 [33] just as it is written,
+“Look, I am laying in Zion a stone that will cause people to stumble
+and a rock that will make them fall,
+yet the one who believes in him will not be put to shame.”
 
 ## Chapter 10
 
@@ -359,7 +384,14 @@
 [6] And if it is by grace, it is no longer by works, otherwise grace would no longer be grace.
 [7] What then? Israel failed to obtain what it was diligently seeking, but the elect obtained it. The rest were hardened,
 [8] as it is written,
+“God gave them a spirit of stupor,
+eyes that would not see and ears that would not hear,
+to this very day.”
 [9] And David says,
+“Let their table become a snare and trap,
+a stumbling block and a retribution for them;
+[10] let their eyes be darkened so that they may not see,
+and make their backs bend continually.”
 [11] I ask then, they did not stumble into an irrevocable fall, did they? Absolutely not! But by their transgression salvation has come to the Gentiles, to make Israel jealous.
 [12] Now if their transgression means riches for the world and their defeat means riches for the Gentiles, how much more will their full restoration bring?
 [13] Now I am speaking to you Gentiles. Seeing that I am an apostle to the Gentiles, I magnify my ministry,
@@ -376,12 +408,20 @@
 [24] For if you were cut off from what is by nature a wild olive tree, and grafted, contrary to nature, into a cultivated olive tree, how much more will these natural branches be grafted back into their own olive tree?
 [25] For I do not want you to be ignorant of this mystery, brothers and sisters, so that you may not be conceited: A partial hardening has happened to Israel until the full number of the Gentiles has come in.
 [26] And so all Israel will be saved, as it is written:
+“The Deliverer will come out of Zion;
+he will remove ungodliness from Jacob.
+[27] And this is my covenant with them,
+when I take away their sins.”
 [28] In regard to the gospel they are enemies for your sake, but in regard to election they are dearly loved for the sake of the fathers.
 [29] For the gifts and the call of God are irrevocable.
 [30] Just as you were formerly disobedient to God, but have now received mercy due to their disobedience,
 [31] so they too have now been disobedient in order that, by the mercy shown to you, they too may now receive mercy.
 [32] For God has consigned all people to disobedience so that he may show mercy to them all.
 [33] Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how unfathomable his ways!
+[34] For who has known the mind of the Lord,
+or who has been his counselor?
+[35] Or who has first given to God,
+that God needs to repay him?
 [36] For from him and through him and to him are all things. To him be glory forever! Amen.
 
 ## Chapter 12

@@ -81,6 +81,8 @@ Promote justice.
 Give the oppressed reason to celebrate.
 Take up the cause of the orphan.
 Defend the rights of the widow.
+
+[18] Come, let’s consider your options,” says the Lord.
 “Though your sins have stained you like the color red,
 you can become white like snow;
 though they are as easy to see as the color scarlet,
@@ -565,6 +567,8 @@ seal the official record of God’s instructions and give it to my followers.
 who has rejected the family of Jacob;
 I will wait for him.
 
+[18] Look, I and the sons whom the Lord has given me are reminders and object lessons in Israel, sent from the Lord of Heaven’s Armies, who lives on Mount Zion.
+
 ## Chapter 9
 
 
@@ -933,6 +937,8 @@ her days will not be prolonged.
 [2] Nations will take them and bring them back to their own place. Then the family of Israel will make foreigners their servants as they settle in the Lord’s land. They will make their captors captives and rule over the ones who oppressed them.
 [3] When the Lord gives you relief from your suffering and anxiety and from the hard labor that you were made to perform,
 [4] you will taunt the king of Babylon with these words:
+
+“Look how the oppressor has met his end!
 Hostility has ceased!
 [5] The Lord has broken the club of the wicked,
 the scepter of rulers.
@@ -959,6 +965,8 @@ You have become just like us!
 as well as the sound of your stringed instruments.
 You lie on a bed of maggots,
 with a blanket of worms over you.
+
+[12] Look how you have fallen from the sky,
 O shining one, son of the dawn!
 You have been cut down to the ground,
 O conqueror of the nations!
@@ -991,11 +999,15 @@ as if you were a mangled corpse.
 [20] You will not be buried with them,
 because you destroyed your land
 and killed your people.
+
+The offspring of the wicked
 will never be mentioned again.
 [21] Prepare to execute his sons
 for the sins their ancestors have committed.
 They must not rise up and take possession of the earth,
 or fill the surface of the world with cities.
+
+[22] “I will rise up against them,”
 says the Lord of Heaven’s Armies.
 “I will blot out all remembrance of Babylon and destroy all her people,
 including the offspring she produces,”
@@ -1004,6 +1016,8 @@ says the Lord.
 and covered with pools of stagnant water.
 I will get rid of her, just as one sweeps away dirt with a broom,”
 says the Lord of Heaven’s Armies.
+
+[24] The Lord of Heaven’s Armies makes this solemn vow:
 “Be sure of this:
 Just as I have intended, so it will be;
 just as I have planned, it will happen.
@@ -1738,6 +1752,8 @@ I would set them all on fire,
 [5] unless they became my subjects
 and made peace with me;
 let them make peace with me.”
+
+[6] The time is coming when Jacob will take root;
 Israel will blossom and grow branches.
 The produce will fill the surface of the world.
 [7] Has the Lord struck down Israel as he did their oppressors?
@@ -1831,6 +1847,8 @@ When the overwhelming judgment sweeps by
 it will not reach us.
 For we have made a lie our refuge,
 we have hidden ourselves in a deceitful word.”
+
+[16] Therefore, this is what the Sovereign Lord, says:
 “Look, I am laying a stone in Zion,
 an approved stone,
 set in place as a precious cornerstone for the foundation.
@@ -2018,6 +2036,8 @@ relate deceptive messages.
 [11] Turn aside from the way;
 stray off the path.
 Remove from our presence the Holy One of Israel.”
+
+[12] For this reason this is what the Holy One of Israel says:
 “You have rejected this message;
 you trust instead in your ability to oppress and trick,
 and rely on that kind of behavior.
@@ -2489,6 +2509,8 @@ grief and suffering will disappear.
 despises you—she makes fun of you;
 daughter Jerusalem
 shakes her head after you.
+
+[23] Whom have you taunted and hurled insults at?
 At whom have you shouted
 and looked so arrogantly?
 At the Holy One of Israel!
@@ -2504,6 +2526,8 @@ its thickest woods.
 and drank water.
 With the soles of my feet I dried up
 all the rivers of Egypt.”’
+
+[26] Certainly you must have heard!
 Long ago I worked it out,
 in ancient times I planned it,
 and now I am bringing it to pass.
@@ -2530,6 +2554,8 @@ the way you came.’
 [32] “For a remnant will leave Jerusalem;
 survivors will come out of Mount Zion.
 The zeal of the Lord of Heaven’s Armies will accomplish this.
+
+[33] So this is what the Lord says about the king of Assyria:
 “‘He will not enter this city,
 nor will he shoot an arrow here.
 He will not attack it with his shielded warriors,
@@ -2562,6 +2588,8 @@ for the sake of my reputation and because of my promise to David my servant.”
 [10] “I thought,
 ‘In the middle of my life I must walk through the gates of Sheol,
 I am deprived of the rest of my years.’
+
+[11] “I thought,
 ‘I will no longer see the Lord in the land of the living,
 I will no longer look on humankind with the inhabitants of the world.
 [12] My dwelling place is removed and taken away from me
@@ -2583,6 +2611,8 @@ I will walk slowly all my years because I am overcome with grief.
 [16] O Lord, your decrees can give men life;
 may years of life be restored to me.
 Restore my health and preserve my life.’
+
+[17] “Look, the grief I experienced was for my benefit.
 You delivered me from the Pit of oblivion.
 For you removed all my sins from your sight.
 [18] Indeed Sheol does not give you thanks;
@@ -2594,6 +2624,8 @@ A father tells his sons about your faithfulness.
 [20] The Lord is about to deliver me,
 and we will celebrate with music
 for the rest of our lives in the Lord’s temple.”
+
+[21] (Isaiah ordered, “Let them take a fig cake and apply it to the ulcerated sore and he will get well.” 38:22 Hezekiah said, “What is the confirming sign that I will go up to the Lord’s temple?”)
 
 ## Chapter 39
 
@@ -2875,6 +2907,8 @@ or the praise due me with idols.
 now I announce new events.
 Before they begin to occur,
 I reveal them to you.”
+
+[10] Sing to the Lord a brand new song!
 Praise him from the horizon of the earth,
 you who go down to the sea, and everything that lives in it,
 you coastlands and those who live there.
@@ -3174,6 +3208,8 @@ and concerning the temple, ‘It will be reconstructed.’
 
 ## Chapter 45
 
+
+[1] “This is what the Lord says to his chosen one,
 to Cyrus, whose right hand I hold
 in order to subdue nations before him,
 and disarm kings,
@@ -4098,6 +4134,8 @@ when no one minds
 that the godly disappear because of evil.
 [2] Those who live uprightly enter a place of peace;
 they rest on their beds.
+
+[3] “But approach, you sons of omen readers,
 you offspring of adulteresses and prostitutes!
 [4] At whom are you laughing?
 At whom are you opening your mouth
@@ -4755,6 +4793,8 @@ Where then is the house you will build for me?
 Where is the place where I will rest?
 [2] My hand made them;
 that is how they came to be,” says the Lord.
+
+“I show special favor to the humble and contrite,
 who respect what I have to say.
 [3] The one who slaughters a bull also strikes down a man;
 the one who sacrifices a lamb also breaks a dog’s neck;
@@ -4770,6 +4810,8 @@ They did evil before me;
 they chose to do what displeases me.”
 [5] Listen to the Lord’s message,
 you who respect his word!
+
+“Your countrymen, who hate you
 and exclude you, supposedly for the sake of my name,
 say, ‘May the Lord be glorified,
 then we will witness your joy.’

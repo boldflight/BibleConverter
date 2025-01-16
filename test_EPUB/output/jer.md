@@ -171,6 +171,8 @@ We will not come to you anymore?’
 Does a bride forget to put on her bridal attire?
 But my people have forgotten me
 for more days than can even be counted.
+
+[33] “My, how good you have become
 at chasing after your lovers!
 Why, you could even teach prostitutes a thing or two!
 [34] Even your clothes are stained with
@@ -192,6 +194,8 @@ and you will not gain any help from them.
 
 ## Chapter 3
 
+
+[1] “If a man divorces his wife
 and she leaves him and becomes another man’s wife,
 he may not take her back again.
 Doing that would utterly defile the land.
@@ -269,6 +273,8 @@ we have not obeyed the Lord our God.’
 
 ## Chapter 4
 
+
+[1] “If you, Israel, want to come back,” says the Lord,
 “if you want to come back to me,
 you must get those disgusting idols out of my sight
 and must no longer go astray.
@@ -362,6 +368,8 @@ They are like children who have no sense.
 They have no understanding.
 They are skilled at doing evil.
 They do not know how to do good.”
+
+[23] I looked at the land and saw that it was an empty wasteland.
 I looked up at the sky, and its light had vanished.
 [24] I looked at the mountains and saw that they were shaking.
 All the hills were swaying back and forth!
@@ -1087,6 +1095,8 @@ how will you manage in the thick undergrowth along the Jordan River?
 and the members of your own family have betrayed you as well.
 Even they have plotted to do away with you.
 So do not trust them even when they say kind things to you.
+
+[7] “I will abandon my nation.
 I will forsake the people I call my own.
 I will turn my beloved people
 over to the power of their enemies.
@@ -1772,6 +1782,8 @@ They will be like those of a woman giving birth to a baby.”
 [25] I will hand you over to those who want to take your life and of whom you are afraid. I will hand you over to King Nebuchadnezzar of Babylon and his Babylonian soldiers.
 [26] I will force you and your mother who gave you birth into exile. You will be exiled to a country where neither of you were born, and you will both die there.
 [27] You will never come back to this land that you will long to return to!
+
+[28] “This man, Jeconiah, will be like a broken pot someone threw away.
 He will be like a clay vessel that no one wants.
 Why will he and his children be forced into exile?
 Why will they be thrown out into a country they know nothing about?
@@ -2257,6 +2269,8 @@ I will lead them besides streams of water,
 along smooth paths where they will never stumble.
 I will do this because I am Israel’s father;
 Ephraim is my firstborn son.’”
+
+[10] Listen to the Lord’s message, O nations.
 Proclaim it in the faraway lands along the sea.
 Say, “The one who scattered Israel will regather them.
 He will watch over his people like a shepherd watches over his flock.”
@@ -2820,6 +2834,8 @@ mount your horses!
 Take your positions with helmets on;
 ready your spears!
 Put on the armor!
+
+[5] “What do I see?
 The soldiers are frightened.
 They are retreating.
 They are being scattered.
@@ -2969,6 +2985,8 @@ City of Madmen, you will also be destroyed.
 A destructive army will march against you.
 [3] Cries of anguish will arise in Horonaim,
 ‘Oh, the ruin and great destruction!’
+
+[4] “Moab will be crushed.
 Her children will cry out in distress.
 [5] Indeed they will climb the slopes of Luhith,
 weeping continually as they go.
@@ -2976,6 +2994,8 @@ For on the road down to Horonaim
 they will hear the cries of distress over the destruction.
 [6] They will hear, ‘Run! Save yourselves;
 even if you must be like a lonely shrub in the wilderness!’
+
+[7] “Moab, you trust in the things you do and in your riches.
 So you too will be conquered.
 Your god Chemosh will go into exile
 along with his priests and his officials.
@@ -2990,6 +3010,8 @@ Its cities will be laid waste
 and become uninhabited.
 [10] A curse on anyone who is lax in doing the Lord’s work!
 A curse on anyone who keeps from carrying out his destruction!
+
+[11] “From its earliest days Moab has lived undisturbed.
 It has never been taken into exile.
 Its people are like wine allowed to settle undisturbed on its dregs,
 never poured out from one jar to another.
@@ -3092,6 +3114,8 @@ Oh, how her people will wail!
 Oh, how she will turn away in shame!
 Moab will become an object of ridicule,
 a terrifying sight to all the nations that surround her.”
+
+[40] For the Lord says,
 “Look! Like an eagle with outspread wings
 a nation will swoop down on Moab.
 [41] Her towns will be captured;
@@ -3310,6 +3334,8 @@ her disgusting images will be dismayed.
 it will lay her land waste.
 People and animals will flee out of it.
 No one will inhabit it.’
+
+[4] “When that time comes,” says the Lord,
 “the people of Israel and Judah will return to the land together.
 They will come back with tears of repentance
 as they seek the Lord their God.
@@ -3317,6 +3343,8 @@ as they seek the Lord their God.
 they will turn their faces toward it.
 They will come and bind themselves to the Lord
 in a lasting covenant that will never be forgotten.
+
+[6] “My people have been lost sheep.
 Their shepherds have allowed them to go astray.
 They have wandered around in the mountains.
 They have roamed from one mountain and hill to another.
@@ -3325,6 +3353,8 @@ They have forgotten their resting place.
 Their enemies who did this said, ‘We are not liable for punishment!
 For those people have sinned against the Lord, their true pasture.
 They have sinned against the Lord in whom their ancestors trusted.’
+
+[8] “People of Judah, get out of Babylon quickly!
 Leave the land of Babylonia!
 Be the first to depart.
 Be like the male goats that lead the herd.
@@ -3349,6 +3379,8 @@ It will become a dry and barren desert.
 It will be totally desolate.
 All who pass by will be filled with horror and will hiss out their scorn
 because of all the disasters that have happened to it.
+
+[14] “Take up your battle positions all around Babylon,
 all you soldiers who are armed with bows.
 Shoot all your arrows at her! Do not hold any back!
 For she has sinned against the Lord.
@@ -3364,6 +3396,8 @@ kill all those who wield the sickle at harvest time.
 Let all the foreigners return to their own people.
 Let them hurry back to their own lands
 to escape destruction by that enemy army.
+
+[17] “The people of Israel are like scattered sheep
 that lions have chased away.
 First the king of Assyria devoured them.
 Now, last of all, King Nebuchadnezzar of Babylon has gnawed their bones.
@@ -3410,6 +3444,8 @@ the time for them to be punished.”
 They are coming to Zion to declare there
 how the Lord our God is getting revenge,
 getting revenge for what they have done to his temple.
+
+[29] “Call for archers to come against Babylon!
 Summon against her all who draw the bow.
 Set up camp all around the city.
 Do not allow anyone to escape!
@@ -3438,6 +3474,8 @@ His name is the Lord of Heaven’s Armies.
 He will strongly champion their cause.
 As a result he will bring peace and rest to the earth,
 but trouble and turmoil to the people who inhabit Babylonia.
+
+[35] “Destructive forces will come against the Babylonians,” says the Lord.
 “They will come against the people who inhabit Babylonia,
 against her leaders and her men of wisdom.
 [36] Destructive forces will come against her false prophets;
@@ -3475,6 +3513,8 @@ they are coming against you, fair Babylon.
 when he hears news of their coming.
 Anguish will grip him,
 agony like that of a woman giving birth to a baby.
+
+[44] “A lion coming up from the thick undergrowth along the Jordan
 scatters the sheep in the pastureland around it.
 So too I will chase the Babylonians off their land;
 then I will appoint over it whomever I choose.
@@ -3503,6 +3543,8 @@ Do not spare any of her young men.
 Completely destroy her whole army.
 [4] Let them fall slain in the land of Babylonia,
 mortally wounded in the streets of her cities.
+
+[5] “For Israel and Judah will not be forsaken
 by their God, the Lord of Heaven’s Armies.
 For the land of Babylonia is full of guilt
 against the Holy One of Israel.
@@ -3528,6 +3570,8 @@ It will be like it is piled up to heaven, stacked up into the clouds.’
 ‘The Lord has brought about a great deliverance for us!
 Come on, let’s go and proclaim in Zion
 what the Lord our God has done!’
+
+[11] “Sharpen your arrows!
 Fill your quivers!
 The Lord will arouse a spirit of hostility in the kings of Media,
 for he intends to destroy Babylonia.
@@ -3539,6 +3583,8 @@ post them all around the city.
 Put men in ambush,
 for the Lord will do what he has planned.
 He will do what he said he would do to the people of Babylon.
+
+[13] “You who live along the rivers of Babylon,
 the time of your end has come.
 You who are rich in plundered treasure,
 it is time for your lives to be cut off.
@@ -3563,6 +3609,8 @@ When the time comes to punish them, they will be destroyed.
 For he is the one who created everything,
 including the people of Israel whom he claims as his own.
 His name is the Lord of Heaven’s Armies.
+
+[20] “Babylon, you are my war club,
 my weapon for battle.
 I used you to smash nations.
 I used you to destroy kingdoms.
@@ -3574,6 +3622,8 @@ I used you to smash young men and young women.
 [23] I used you to smash shepherds and their flocks.
 I used you to smash farmers and their teams of oxen.
 I used you to smash governors and leaders.”
+
+[24] “But I will repay Babylon
 and all who live in Babylonia
 for all the wicked things they did in Zion
 right before the eyes of you Judeans,”
@@ -3619,6 +3669,8 @@ the soldiers are terrified.
 that has been trampled flat for harvest.
 The time for her to be cut down and harvested
 will come very soon.’
+
+[34] “King Nebuchadnezzar of Babylon
 devoured me and drove my people out.
 Like a monster from the deep he swallowed me.
 He filled his belly with my riches;
@@ -3648,6 +3700,8 @@ they will never wake up,”
 says the Lord.
 [40] “I will lead them off to be slaughtered
 like lambs, rams, and male goats.
+
+[41] “See how Babylon has been captured!
 See how the pride of the whole earth has been taken!
 See what an object of horror
 Babylon has become among the nations!
@@ -3661,6 +3715,8 @@ no one even passes through them.
 I will make him spit out what he has swallowed.
 The nations will not come streaming to him any longer.
 Indeed, the walls of Babylon will fall.
+
+[45] “Get out of Babylon, my people!
 Flee to save your lives
 from the fierce anger of the Lord!
 [46] Do not lose your courage or become afraid
@@ -3669,6 +3725,8 @@ For a report will come in one year.
 Another report will follow it in the next.
 There will be violence in the land
 with ruler fighting against ruler.
+
+[47] “So the time will certainly come
 when I will punish the idols of Babylon.
 Her whole land will be put to shame.
 All her mortally wounded will collapse in her midst.
@@ -3695,6 +3753,8 @@ Throughout her land the mortally wounded will groan.
 and fortifies her elevated stronghold,
 I will send destroyers against her,”
 says the Lord.
+
+[54] Cries of anguish will come from Babylon,
 the sound of great destruction from the land of the Babylonians.
 [55] For the Lord is ready to destroy Babylon,
 and put an end to her loud noise.

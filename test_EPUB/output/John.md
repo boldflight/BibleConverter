@@ -750,6 +750,11 @@
 [37] Although Jesus had performed so many miraculous signs before them, they still refused to believe in him,
 [38] so that the word of the prophet Isaiah would be fulfilled. He said, “Lord, who has believed our message, and to whom has the arm of the Lord been revealed?”
 [39] For this reason they could not believe, because again Isaiah said,
+[40] “He has blinded their eyes
+and hardened their heart,
+so that they would not see with their eyes
+and understand with their heart,
+and turn to me, and I would heal them.”
 [42] Nevertheless, even among the rulers many believed in him, but because of the Pharisees they would not confess Jesus to be the Christ, so that they would not be put out of the synagogue.
 [43] For they loved praise from men more than praise from God.
 

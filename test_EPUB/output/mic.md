@@ -25,6 +25,8 @@ And just what is Jacob’s rebellion?
 Isn’t it Samaria’s doings?
 And what is Judah’s sin?
 Isn’t it Jerusalem’s doings?
+
+[6] “I will turn Samaria into a heap of ruins in an open field,
 into a place for planting vineyards.
 I will dump the rubble of her walls down into the valley
 and lay bare her foundations.
@@ -87,6 +89,8 @@ they sell off the property of my people.
 How they remove it from me!
 They assign our fields to the conqueror.’”
 [5] Therefore no one will assign you land in the Lord’s community.
+
+[6] “Don’t preach with such impassioned rhetoric,” they say excitedly.
 “These prophets should not preach of such things;
 we will not be overtaken by humiliation.”
 [7] Does the family of Jacob say,
@@ -153,6 +157,8 @@ and the daylight will turn to darkness over their heads.
 the omen readers will be humiliated.
 All of them will cover their mouths,
 for they will receive no divine oracles.”
+
+[8] But I am full of the courage that the Lord’s Spirit gives
 and have a strong commitment to justice.
 This enables me to confront Jacob with its rebellion
 and Israel with its sin.
@@ -318,6 +324,8 @@ I sent Moses, Aaron, and Miriam to lead you.
 how Balaam son of Beor responded to him.
 Recall how you journeyed from Shittim to Gilgal,
 so you might acknowledge that the Lord has treated you fairly.”
+
+[6] With what should I enter the Lord’s presence?
 With what should I bow before the sovereign God?
 Should I enter his presence with burnt offerings,
 with year-old calves?
@@ -329,6 +337,8 @@ my offspring—my own flesh and blood—for my sin?
 and what the Lord really wants from you:
 He wants you to carry out justice, to love faithfulness,
 and to live obediently before your God.
+
+[9] Listen! The Lord is calling to the city!
 It is wise to respect your authority, O Lord.
 Listen, O nation, and those assembled in the city!
 [10] “I will not overlook, O sinful house, the dishonest gain you have hoarded away

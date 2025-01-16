@@ -71,6 +71,8 @@ Will he always destroy nations and spare none?
 
 ## Chapter 2
 
+
+[1] I will stand at my watch post;
 I will remain stationed on the city wall.
 I will keep watching so I can see what he says to me
 and can know how I should answer
@@ -108,18 +110,24 @@ and they will rob you.
 all who are left among the nations will rob you.
 You have shed human blood
 and committed violent acts against lands, cities, and those who live in them.
+
+[9] The one who builds his house by unjust gain is as good as dead.
 He does this so he can build his nest way up high
 and escape the clutches of disaster.
 [10] Your schemes will bring shame to your house.
 Because you destroyed many nations, you will self-destruct.
 [11] For the stones in the walls will cry out,
 and the wooden rafters will answer back.
+
+[12] Woe to the one who builds a city by bloodshed—
 he who starts a town by unjust deeds.
 [13] Be sure of this! The Lord of Heaven’s Armies has decreed:
 The nations’ efforts will go up in smoke;
 their exhausting work will be for nothing.
 [14] For recognition of the Lord’s sovereign majesty will fill the earth
 just as the waters fill up the sea.
+
+[15] “Woe to you who force your neighbor to drink wine —
 you who make others intoxicated
 by forcing them to drink from the bowl of your furious anger
 so you can look at their naked bodies.

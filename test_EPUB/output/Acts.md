@@ -59,16 +59,41 @@
 [14] But Peter stood up with the eleven, raised his voice, and addressed them: “You men of Judea and all you who live in Jerusalem, know this and listen carefully to what I say.
 [15] In spite of what you think, these men are not drunk, for it is only nine o’clock in the morning.
 [16] But this is what was spoken about through the prophet Joel:
+[17] ‘And in the last days it will be,’ God says,
+‘that I will pour out my Spirit on all people,
+and your sons and your daughters will prophesy,
+and your young men will see visions,
+and your old men will dream dreams.
+[18] Even on my servants, both men and women,
+I will pour out my Spirit in those days, and they will prophesy.
+[19] And I will perform wonders in the sky above
+and miraculous signs on the earth below,
+blood and fire and clouds of smoke.
+[20] The sun will be changed to darkness
+and the moon to blood
+before the great and glorious day of the Lord comes.
+[21] And then everyone who calls on the name of the Lord will be saved.’
 [22] “Men of Israel, listen to these words: Jesus the Nazarene, a man clearly attested to you by God with powerful deeds, wonders, and miraculous signs that God performed among you through him, just as you yourselves know—
 [23] this man, who was handed over by the predetermined plan and foreknowledge of God, you executed by nailing him to a cross at the hands of Gentiles.
 [24] But God raised him up, having released him from the pains of death, because it was not possible for him to be held in its power.
 [25] For David says about him,
+‘I saw the Lord always in front of me,
+for he is at my right hand so that I will not be shaken.
+[26] Therefore my heart was glad and my tongue rejoiced;
+my body also will live in hope,
+[27] because you will not leave my soul in Hades,
+nor permit your Holy One to experience decay.
+[28] You have made known to me the paths of life;
+you will make me full of joy with your presence.’
 [29] “Brothers, I can speak confidently to you about our forefather David, that he both died and was buried, and his tomb is with us to this day.
 [30] So then, because he was a prophet and knew that God had sworn to him with an oath to seat one of his descendants on his throne,
 [31] David by foreseeing this spoke about the resurrection of the Christ, that he was neither abandoned to Hades, nor did his body experience decay.
 [32] This Jesus God raised up, and we are all witnesses of it.
 [33] So then, exalted to the right hand of God, and having received the promise of the Holy Spirit from the Father, he has poured out what you both see and hear.
 [34] For David did not ascend into heaven, but he himself says,
+‘The Lord said to my lord,
+“Sit at my right hand
+[35] until I make your enemies a footstool for your feet.”’
 
 ### The Response to Peter’s Address
 
@@ -155,6 +180,11 @@
 [23] When they were released, Peter and John went to their fellow believers and reported everything the high priests and the elders had said to them.
 [24] When they heard this, they raised their voices to God with one mind and said, “Master of all, you who made the heaven, the earth, the sea, and everything that is in them,
 [25] who said by the Holy Spirit through your servant David our forefather,
+‘Why do the nations rage,
+and the peoples plot foolish things?
+[26] The kings of the earth stood together,
+and the rulers assembled together,
+against the Lord and against his Christ.’
 [27] “For indeed both Herod and Pontius Pilate, with the Gentiles and the people of Israel, assembled together in this city against your holy servant Jesus, whom you anointed,
 [28] to do as much as your power and your plan had decided beforehand would happen.
 [29] And now, Lord, pay attention to their threats, and grant to your servants to speak your message with great courage,
@@ -301,6 +331,11 @@
 [46] He found favor with God and asked that he could find a dwelling place for the house of Jacob.
 [47] But Solomon built a house for him.
 [48] Yet the Most High does not live in houses made by human hands, as the prophet says,
+[49] ‘Heaven is my throne,
+and earth is the footstool for my feet.
+What kind of house will you build for me, says the Lord,
+or what is my resting place?
+[50] Did my hand not make all these things?’
 [51] “You stubborn people, with uncircumcised hearts and ears! You are always resisting the Holy Spirit, like your ancestors did!
 [52] Which of the prophets did your ancestors not persecute? They killed those who foretold long ago the coming of the Righteous One, whose betrayers and murderers you have now become!
 [53] You received the law by decrees given by angels, but you did not obey it.”
@@ -358,6 +393,12 @@
 [30] So Philip ran up to it and heard the man reading the prophet Isaiah. He asked him, “Do you understand what you’re reading?”
 [31] The man replied, “How in the world can I, unless someone guides me?” So he invited Philip to come up and sit with him.
 [32] Now the passage of scripture the man was reading was this:
+“He was led like a sheep to slaughter,
+and like a lamb before its shearer is silent,
+so he did not open his mouth.
+[33] In humiliation justice was taken from him.
+Who can describe his posterity?
+For his life was taken away from the earth.”
 [34] Then the eunuch said to Philip, “Please tell me, who is the prophet saying this about—himself or someone else?”
 [35] So Philip started speaking, and beginning with this scripture proclaimed the good news about Jesus to him.
 [36] Now as they were going along the road, they came to some water, and the eunuch said, “Look, there is water! What is to stop me from being baptized?”
@@ -607,6 +648,9 @@
 [38] Therefore let it be known to you, brothers, that through this one forgiveness of sins is proclaimed to you,
 [39] and by this one everyone who believes is justified from everything from which the law of Moses could not justify you.
 [40] Watch out, then, that what is spoken about by the prophets does not happen to you:
+[41] ‘Look, you scoffers; be amazed and perish!
+For I am doing a work in your days,
+a work you would never believe, even if someone tells you.’”
 [42] As Paul and Barnabas were going out, the people were urging them to speak about these things on the next Sabbath.
 [43] When the meeting of the synagogue had broken up, many of the Jews and God-fearing proselytes followed Paul and Barnabas, who were speaking with them and were persuading them to continue in the grace of God.
 [44] On the next Sabbath almost the whole city assembled together to hear the word of the Lord.
@@ -679,6 +723,11 @@
 [13] After they stopped speaking, James replied, “Brothers, listen to me.
 [14] Simeon has explained how God first concerned himself to select from among the Gentiles a people for his name.
 [15] The words of the prophets agree with this, as it is written,
+[16] ‘After this I will return,
+and I will rebuild the fallen tent of David;
+I will rebuild its ruins and restore it,
+[17] so that the rest of humanity may seek the Lord,
+[18] namely, all the Gentiles I have called to be my own,’ says the Lord, who makes these things known from long ago.
 [19] “Therefore I conclude that we should not cause extra difficulty for those among the Gentiles who are turning to God,
 [20] but that we should write them a letter telling them to abstain from things defiled by idols and from sexual immorality and from what has been strangled and from blood.
 [21] For Moses has had those who proclaim him in every town from ancient times, because he is read aloud in the synagogues every Sabbath.”
@@ -1279,6 +1328,16 @@
 [24] Some were convinced by what he said, but others refused to believe.
 [25] So they began to leave, unable to agree among themselves, after Paul made one last statement: “The Holy Spirit spoke rightly to your ancestors through the prophet Isaiah
 [26] when he said,
+‘Go to this people and say,
+“You will keep on hearing, but will never understand,
+and you will keep on looking, but will never perceive.
+[27] For the heart of this people has become dull,
+and their ears are hard of hearing,
+and they have closed their eyes,
+so that they would not see with their eyes
+and hear with their ears
+and understand with their heart
+and turn, and I would heal them.”’
 [28] “Therefore be advised that this salvation from God has been sent to the Gentiles; they will listen!”
 [30] Paul lived there two whole years in his own rented quarters and welcomed all who came to him,
 [31] proclaiming the kingdom of God and teaching about the Lord Jesus Christ with complete boldness and without restriction.

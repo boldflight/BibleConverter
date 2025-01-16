@@ -200,6 +200,8 @@ They die, yet without attaining wisdom.’
 
 ## Chapter 5
 
+
+[1] “Call now! Is there anyone who will answer you?
 To which of the holy ones will you turn?
 [2] For wrath kills the foolish person,
 and anger slays the silly one.
@@ -237,6 +239,8 @@ and grope about in the noontime as if it were night.
 even the poor from the hand of the powerful.
 [16] Thus the poor have hope,
 and iniquity shuts its mouth.
+
+[17] “Therefore, blessed is the man whom God corrects,
 so do not despise the discipline of the Almighty.
 [18] For he wounds, but he also bandages;
 he strikes, but his hands also heal.
@@ -436,6 +440,8 @@ even now he will rouse himself for you,
 and will restore your righteous home.
 [7] Your beginning will seem so small,
 since your future will flourish.
+
+[8] “For inquire now of the former generation,
 and pay attention to the findings
 of their ancestors;
 [9] For we were born yesterday and do not have knowledge,
@@ -464,6 +470,8 @@ then that place will disown him, saying,
 ‘I have never seen you!’
 [19] Indeed, this is the joy of his way,
 and out of the earth others spring up.
+
+[20] “Surely, God does not reject a blameless man,
 nor does he grasp the hand
 of the evildoers.
 [21] He will yet fill your mouth with laughter,
@@ -603,6 +611,8 @@ and curdle me like cheese?
 and knit me together with bones and sinews.
 [12] You gave me life and favor,
 and your intervention watched over my spirit.
+
+[13] “But these things you have concealed in your heart;
 I know that this is with you:
 [14] If I sinned, then you would watch me
 and you would not acquit me of my iniquity.
@@ -655,6 +665,8 @@ if only he would open his lips against you,
 for true wisdom has two sides —
 so that you would know
 that God has forgiven some of your sins.
+
+[7] “Can you discover the essence of God?
 Can you find out the perfection of the Almighty?
 [8] It is higher than the heavens—what can you do?
 It is deeper than Sheol —what can you know?
@@ -667,6 +679,8 @@ then who can prevent him?
 when he sees evil, will he not consider it?
 [12] But an empty man will become wise,
 when a wild donkey’s colt is born a human being.
+
+[13] “As for you, if you prove faithful,
 and if you stretch out your hands toward him,
 [14] if iniquity is in your hand—put it far away,
 and do not let evil reside in your tents.
@@ -785,6 +799,8 @@ if you secretly showed partiality.
 and the fear he inspires fall on you?
 [12] Your maxims are proverbs of ashes;
 your defenses are defenses of clay.
+
+[13] “Refrain from talking with me so that I may speak;
 then let come to me what may.
 [14] Why do I put myself in peril,
 and take my life in my hands?
@@ -905,6 +921,8 @@ and hinder meditation before God.
 you choose the language of the crafty.
 [6] Your own mouth condemns you, not I;
 your own lips testify against you.
+
+[7] “Were you the first man ever born?
 Were you brought forth before the hills?
 [8] Do you listen in on God’s secret council?
 Do you limit wisdom to yourself?
@@ -1090,6 +1108,8 @@ and considered stupid in your sight?
 [4] You who tear yourself to pieces in your anger,
 will the earth be abandoned for your sake?
 Or will a rock be moved from its place?
+
+[5] “Yes, the lamp of the wicked is extinguished;
 his flame of fire does not shine.
 [6] The light in his tent grows dark;
 his lamp above him is extinguished.
@@ -1215,6 +1235,8 @@ that there is judgment.”
 because of my feelings within me.
 [3] When I hear a reproof that dishonors me,
 then my understanding prompts me to answer.
+
+[4] “Surely you know that it has been from old,
 ever since humankind was placed on the earth,
 [5] that the elation of the wicked is brief,
 the joy of the godless lasts but a moment.
@@ -1231,6 +1253,8 @@ will recognize him no longer.
 his own hands must return his wealth.
 [11] His bones were full of his youthful vigor,
 but that vigor will lie down with him in the dust.
+
+[12] “If evil is sweet in his mouth
 and he hides it under his tongue,
 [13] if he retains it for himself
 and does not let it go,
@@ -1384,6 +1408,8 @@ that you make your ways blameless?
 and goes to judgment with you?
 [5] Is not your wickedness great
 and is there no end to your iniquity?
+
+[6] “For you took pledges from your brothers
 for no reason,
 and you stripped the clothing from the naked.
 [7] You gave the weary no water to drink
@@ -1396,6 +1422,8 @@ and the arms of the orphans you crushed.
 and why sudden fear terrifies you,
 [11] why it is so dark you cannot see,
 and why a flood of water covers you.
+
+[12] “Is not God on high in heaven?
 And see the lofty stars, how high they are!
 [13] But you have said, ‘What does God know?
 Does he judge through such deep darkness?
@@ -1417,6 +1445,8 @@ was far from me.
 the innocent mock them scornfully, saying,
 [20] ‘Surely our enemies are destroyed,
 and fire consumes their wealth.’
+
+[21] “Reconcile yourself with God,
 and be at peace with him;
 in this way your prosperity will be good.
 [22] Accept instruction from his mouth
@@ -1532,6 +1562,8 @@ but by day they shut themselves in;
 they do not know the light.
 [17] For all of them, the morning is to them like deep darkness;
 they are friends with the terrors of darkness.
+
+[18] “You say, ‘He is foam on the face of the waters;
 their portion of the land is cursed
 so that no one goes to their vineyard.
 [19] The drought as well as the heat
@@ -1550,6 +1582,8 @@ but he is constantly watching all their ways.
 [24] They are exalted for a little while, and then they are gone,
 they are brought low like all others, and gathered in,
 and like a head of grain they are cut off.’
+
+[25] “If this is not so, who can prove me a liar
 and reduce my words to nothing?”
 
 ## Chapter 25
@@ -1928,6 +1962,8 @@ and may other men commit adultery with her.
 an iniquity to be judged.
 [12] For it is a fire that devours even to Destruction,
 and it would uproot all my harvest.
+
+[13] “If I have disregarded the right of my male servants
 or my female servants
 when they disputed with me,
 [14] then what will I do when God confronts me in judgment;
@@ -1951,6 +1987,8 @@ when I saw my support in the court,
 let my arm be broken off at the socket.
 [23] For the calamity from God was a terror to me,
 and by reason of his majesty I was powerless.
+
+[24] “If I have put my confidence in gold
 or said to pure gold,
 ‘You are my security!’
 [25] if I have rejoiced because of the extent of my wealth,
@@ -2270,6 +2308,8 @@ what does it do to him?
 or what does he receive from your hand?
 [8] Your wickedness affects only a person like yourself,
 and your righteousness only other people.
+
+[9] “People cry out
 because of the excess of oppression;
 they cry out for help
 because of the power of the mighty.
@@ -2408,6 +2448,8 @@ over the face of the whole inhabited world.
 or for his land,
 or for mercy,
 he causes it to find its mark.
+
+[14] “Pay attention to this, Job!
 Stand still and consider the wonders God works.
 [15] Do you know how God commands them,
 how he makes lightning flash in his storm cloud?
@@ -2459,6 +2501,8 @@ or who stretched a measuring line across it?
 or who laid its cornerstone—
 [7] when the morning stars sang in chorus,
 and all the sons of God shouted for joy?
+
+[8] “Who shut up the sea with doors
 when it burst forth, coming out of the womb,
 [9] when I made the storm clouds its garment,
 and thick darkness its swaddling band,
@@ -2481,6 +2525,8 @@ or walked about in the recesses of the deep?
 Have you seen the gates of deepest darkness?
 [18] Have you considered the vast expanses of the earth?
 Tell me, if you know it all.
+
+[19] “In what direction does light reside,
 and darkness, where is its place,
 [20] that you may take them to their borders
 and perceive the pathways to their homes?
@@ -2521,6 +2567,8 @@ or has imparted understanding to the mind?
 and who can tip over the water jars of heaven,
 [38] when the dust hardens into a mass,
 and the clumps of earth stick together?
+
+[39] “Do you hunt prey for the lioness,
 and satisfy the appetite of the lions
 [40] when they crouch in their dens,
 when they wait in ambush in the thicket?
@@ -2530,6 +2578,8 @@ and wander about for lack of food?
 
 ## Chapter 39
 
+
+[1] “Are you acquainted with the way
 the mountain goats give birth?
 Do you watch as the wild deer give birth to their young?
 [2] Do you count the months they must fulfill,
@@ -2554,6 +2604,8 @@ will it till the valleys, following after you?
 Will you commit your labor to it?
 [12] Can you count on it to bring in your grain,
 and gather the grain to your threshing floor?
+
+[13] “The wings of the ostrich flap with joy,
 but are they the pinions and plumage of a stork?
 [14] For she leaves her eggs on the ground,
 and lets them be warmed on the soil.
@@ -2566,6 +2618,8 @@ she is unconcerned about the uselessness of her labor.
 and did not impart understanding to her.
 [18] But as soon as she springs up,
 she laughs at the horse and its rider.
+
+[19] “Do you give the horse its strength?
 Do you clothe its neck with a mane?
 [20] Do you make it leap like a locust?
 Its proud neighing is terrifying!
@@ -2582,6 +2636,8 @@ it cannot stand still when the trumpet is blown.
 And from a distance it catches the scent of battle,
 the thunderous shouting of commanders,
 and the battle cries.
+
+[26] “Is it by your understanding that the hawk soars,
 and spreads its wings toward the south?
 [27] Is it at your command that the eagle soars,
 and builds its nest on high?
@@ -2601,6 +2657,8 @@ there it is.”
 [1] Then the Lord answered Job:
 [2] “Will the one who contends with the Almighty correct him?
 Let the person who accuses God give him an answer!”
+
+[3] Then Job answered the Lord:
 [4] “Indeed, I am completely unworthy —how could I reply to you?
 I put my hand over my mouth to silence myself.
 [5] I have spoken once, but I cannot answer;

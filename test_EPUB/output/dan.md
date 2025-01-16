@@ -139,6 +139,8 @@ For you have enabled us to understand the king’s dilemma.”
 
 [1] (
 [2] I am delighted to tell you about the signs and wonders that the most high God has done for me.
+
+[3] “How great are his signs!
 How mighty are his wonders!
 His kingdom will last forever,
 and his authority continues from one generation to the next.”
@@ -163,6 +165,8 @@ on it there was food enough for all.
 Under it the wild animals used to seek shade,
 and in its branches the birds of the sky used to nest.
 All creatures used to feed themselves from it.
+
+[13] While I was watching in my mind’s visions on my bed,
 a holy sentinel came down from heaven.
 [14] He called out loudly as follows:
 ‘Chop down the tree and lop off its branches!
@@ -204,6 +208,8 @@ He establishes over them even the lowliest of human beings.’
 [32] You will be driven from human society, and you will live with the wild animals. You will be fed grass like oxen, and seven periods of time will pass by for you before you understand that the Most High is ruler over human kingdoms and gives them to whomever he wishes.”
 [33] Now in that very moment this pronouncement about Nebuchadnezzar came true. He was driven from human society, he ate grass like oxen, and his body became damp with the dew of the sky, until his hair became long like an eagle’s feathers, and his nails like a bird’s claws.
 [34] But at the end of the appointed time I, Nebuchadnezzar, looked up toward heaven, and my sanity returned to me.
+
+I extolled the Most High,
 and I praised and glorified the one who lives forever.
 For his authority is an everlasting authority,
 and his kingdom extends from one generation to the next.

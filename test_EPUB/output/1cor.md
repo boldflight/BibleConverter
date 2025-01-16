@@ -540,6 +540,9 @@
 [52] in a moment, in the blinking of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we will be changed.
 [53] For this perishable body must put on the imperishable, and this mortal body must put on immortality.
 [54] Now when this perishable puts on the imperishable, and this mortal puts on immortality, then the saying that is written will happen,
+“Death has been swallowed up in victory.”
+[55] “Where, O death, is your victory?
+Where, O death, is your sting?”
 
 ## Chapter 16
 

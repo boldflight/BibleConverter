@@ -479,6 +479,8 @@ like a willow he planted it.
 spreading low to the ground;
 its branches turning toward him, its roots were under itself.
 So it became a vine; it produced shoots and sent out branches.
+
+[7] “‘There was another great eagle
 with broad wings and thick plumage.
 Now this vine twisted its roots toward him
 and sent its branches toward him
@@ -572,6 +574,8 @@ She lay among young lions; she reared her cubs.
 He learned to tear prey; he devoured people.
 [4] The nations heard about him; he was trapped in their pit.
 They brought him with hooks to the land of Egypt.
+
+[5] “‘When she realized that she waited in vain, her hope was lost.
 She took another of her cubs and made him a young lion.
 [6] He walked about among the lions; he became a young lion.
 He learned to tear prey; he devoured people.
@@ -584,6 +588,8 @@ they brought him to the king of Babylon;
 they brought him to prison
 so that his voice would not be heard
 any longer on the mountains of Israel.
+
+[10] “‘Your mother was like a vine in your vineyard, planted by water.
 It was fruitful and full of branches because it was well-watered.
 [11] Its boughs were strong, fit for rulers’ scepters; it reached up into the clouds.
 It stood out because of its height and its many branches.
@@ -1039,6 +1045,8 @@ no secret is hidden from you.
 you have amassed gold and silver in your treasuries.
 [5] By your great skill in trade you have increased your wealth,
 and your heart is proud because of your wealth.
+
+[6] “‘Therefore this is what the Sovereign Lord says:
 Because you think you are godlike,
 [7] I am about to bring foreigners against you, the most terrifying of nations.
 They will draw their swords against the grandeur made by your wisdom,
@@ -1154,6 +1162,8 @@ when the slain fall in Egypt
 and they carry away her wealth
 and dismantle her foundations.
 [5] Ethiopia, Put, Lud, all the foreigners, Libya, and the people of the covenant land will die by the sword along with them.
+
+[6] “‘This is what the Lord says:
 Egypt’s supporters will fall;
 her confident pride will crumble.
 From Migdol to Syene they will die by the sword within her,
@@ -1164,6 +1174,8 @@ and their cities will be among ruined cities.
 when I ignite a fire in Egypt
 and all her allies are defeated.
 [9] “‘On that day messengers will go out from me in ships to frighten overconfident Ethiopia; panic will overtake them on the day of Egypt’s doom; for beware—it is coming!
+
+[10] “‘This is what the Sovereign Lord says:
 I will put an end to the hordes of Egypt,
 by the hand of King Nebuchadrezzar of Babylon.
 [11] He and his people with him,
@@ -1175,6 +1187,8 @@ and fill the land with corpses.
 and hand the land over to evil men.
 I will make the land and everything in it desolate by the hand of foreigners.
 I, the Lord, have spoken!
+
+[13] “‘This is what the Sovereign Lord says:
 I will destroy the idols,
 and put an end to the gods of Memphis.
 There will no longer be a prince from the land of Egypt;

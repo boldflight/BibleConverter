@@ -199,6 +199,14 @@ and for glory to your people Israel.”
 [2] during the high priesthood of Annas and Caiaphas, the word of God came to John the son of Zechariah in the wilderness.
 [3] He went into all the region around the Jordan River, preaching a baptism of repentance for the forgiveness of sins.
 [4] As it is written in the book of the words of the prophet Isaiah,
+“The voice of one shouting in the wilderness:
+‘Prepare the way for the Lord,
+make his paths straight.
+[5] Every valley will be filled,
+and every mountain and hill will be brought low,
+and the crooked will be made straight,
+and the rough ways will be made smooth,
+[6] and all humanity will see the salvation of God.’”
 [7] So John said to the crowds that came out to be baptized by him, “You offspring of vipers! Who warned you to flee from the coming wrath?
 [8] Therefore produce fruit that proves your repentance, and don’t begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you that God can raise up children for Abraham from these stones!
 [9] Even now the ax is laid at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.”
@@ -266,6 +274,12 @@ and for glory to your people Israel.”
 
 [16] Now Jesus came to Nazareth, where he had been brought up, and went into the synagogue on the Sabbath day, as was his custom. He stood up to read,
 [17] and the scroll of the prophet Isaiah was given to him. He unrolled the scroll and found the place where it was written,
+[18] “The Spirit of the Lord is upon me,
+because he has anointed me to proclaim good news to the poor.
+He has sent me to proclaim release to the captives
+and the regaining of sight to the blind,
+to set free those who are oppressed,
+[19] to proclaim the year of the Lord’s favor.”
 [20] Then he rolled up the scroll, gave it back to the attendant, and sat down. The eyes of everyone in the synagogue were fixed on him.
 [21] Then he began to tell them, “Today this scripture has been fulfilled even as you heard it being read.”
 [22] All were speaking well of him, and were amazed at the gracious words coming out of his mouth. They said, “Isn’t this Joseph’s son?”
@@ -1312,6 +1326,9 @@ And do not lead us into temptation.”
 
 [41] But he said to them, “How is it that they say that the Christ is David’s son?
 [42] For David himself says in the book of Psalms,
+‘The Lord said to my lord,
+“Sit at my right hand,
+[43] until I make your enemies a footstool for your feet.”’
 
 ### Jesus Warns the Disciples against Pride
 

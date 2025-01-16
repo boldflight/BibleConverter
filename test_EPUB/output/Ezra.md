@@ -5,16 +5,16 @@
 
 ### The Decree of Cyrus
 
-[1] In the first year of King Cyrus of Persia, in fulfillment of the Lord’s message spoken through Jeremiah, the Lord motivated King Cyrus of Persia to issue a proclamation throughout his kingdom and also to put it in writing. It read:
+[1] In the first year of King Cyrus of Persia, in fulfillment of the **Lord**’s message spoken through Jeremiah, the **Lord** motivated King Cyrus of Persia to issue a proclamation throughout his kingdom and also to put it in writing. It read:
 [2] “This is what King Cyrus of Persia says:
-[3] Anyone of his people among you (may his God be with him!) may go up to Jerusalem, which is in Judah, and may build the temple of the Lord God of Israel—he is the God who is in Jerusalem.
+[3] Anyone of his people among you (may his God be with him!) may go up to Jerusalem, which is in Judah, and may build the temple of the **Lord** God of Israel—he is the God who is in Jerusalem.
 [4] Anyone who survives in any of those places where he is a resident foreigner must be helped by his neighbors with silver, gold, equipment, and animals, along with voluntary offerings for the temple of God which is in Jerusalem.’”
 
 ### The Exiles Prepare to Return to Jerusalem
 
-[5] Then the leaders of Judah and Benjamin, along with the priests and the Levites—all those whose mind God had stirred—got ready to go up in order to build the temple of the Lord in Jerusalem.
+[5] Then the leaders of Judah and Benjamin, along with the priests and the Levites—all those whose mind God had stirred—got ready to go up in order to build the temple of the **Lord** in Jerusalem.
 [6] All their neighbors assisted them with silver utensils, gold, equipment, animals, and expensive gifts, not to mention all the voluntary offerings.
-[7] Then King Cyrus brought out the vessels of the Lord’s temple which Nebuchadnezzar had brought from Jerusalem and had displayed in the temple of his gods.
+[7] Then King Cyrus brought out the vessels of the **Lord**’s temple which Nebuchadnezzar had brought from Jerusalem and had displayed in the temple of his gods.
 [8] King Cyrus of Persia entrusted them to Mithredath the treasurer, who counted them out to Sheshbazzar the leader of the Judahite exiles.
 [9] The inventory of these items was as follows:
 30 gold basins,
@@ -97,7 +97,7 @@ and 1,000 other vessels.
 [65] not counting their male and female servants, who numbered 7,337. They also had 200 male and female singers
 [66] and 736 horses, 245 mules,
 [67] 435 camels, and 6,720 donkeys.
-[68] When they came to the Lord’s temple in Jerusalem, some of the family leaders offered voluntary offerings for the temple of God in order to rebuild it on its site.
+[68] When they came to the **Lord**’s temple in Jerusalem, some of the family leaders offered voluntary offerings for the temple of God in order to rebuild it on its site.
 [69] As they were able, they gave to the treasury for this work 61,000 drachmas of gold, 5,000 minas of silver, and 100 priestly robes.
 [70] The priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants lived in their towns, and all the rest of Israel lived in their towns.
 
@@ -108,18 +108,18 @@ and 1,000 other vessels.
 
 [1] When the seventh month arrived and the Israelites were living in their towns, the people assembled in Jerusalem.
 [2] Then Jeshua the son of Jozadak and his priestly colleagues and Zerubbabel son of Shealtiel and his colleagues started to build the altar of the God of Israel so they could offer burnt offerings on it as required by the law of Moses the man of God.
-[3] They established the altar on its foundations, even though they were in terror of the local peoples, and they offered burnt offerings on it to the Lord, both the morning and the evening offerings.
+[3] They established the altar on its foundations, even though they were in terror of the local peoples, and they offered burnt offerings on it to the **Lord**, both the morning and the evening offerings.
 [4] They observed the Feast of Shelters as required and offered the proper number of daily burnt offerings according to the requirement for each day.
-[5] Afterward they offered the continual burnt offerings and those for the new moons and those for all the holy assemblies of the Lord and all those that were being voluntarily offered to the Lord.
-[6] From the first day of the seventh month they began to offer burnt offerings to the Lord. However, the Lord’s temple was not at that time established.
+[5] Afterward they offered the continual burnt offerings and those for the new moons and those for all the holy assemblies of the **Lord** and all those that were being voluntarily offered to the **Lord**.
+[6] From the first day of the seventh month they began to offer burnt offerings to the **Lord**. However, the **Lord**’s temple was not at that time established.
 
 ### Preparations for Rebuilding the Temple
 
 [7] So they provided money for the masons and carpenters, and food, beverages, and olive oil for the people of Sidon and Tyre, so that they would bring cedar timber from Lebanon to the seaport at Joppa, in accord with the edict of King Cyrus of Persia.
-[8] In the second year after they had come to the temple of God in Jerusalem, in the second month, Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak initiated the work, along with the rest of their associates, the priests and the Levites, and all those who were coming to Jerusalem from the exile. They appointed the Levites who were at least twenty years old to take charge of the work on the Lord’s temple.
+[8] In the second year after they had come to the temple of God in Jerusalem, in the second month, Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak initiated the work, along with the rest of their associates, the priests and the Levites, and all those who were coming to Jerusalem from the exile. They appointed the Levites who were at least twenty years old to take charge of the work on the **Lord**’s temple.
 [9] So Jeshua appointed both his sons and his relatives, Kadmiel and his sons (the sons of Yehudah), to take charge of the workers in the temple of God, along with the sons of Henadad, their sons, and their relatives the Levites.
-[10] When the builders established the Lord’s temple, the priests, ceremonially attired and with their clarions, and the Levites (the sons of Asaph) with their cymbals, stood to praise the Lord according to the instructions left by King David of Israel.
-[11] With antiphonal response they sang, praising and glorifying the Lord:
+[10] When the builders established the **Lord**’s temple, the priests, ceremonially attired and with their clarions, and the Levites (the sons of Asaph) with their cymbals, stood to praise the **Lord** according to the instructions left by King David of Israel.
+[11] With antiphonal response they sang, praising and glorifying the **Lord**:
 “For he is good;
 his loyal love toward Israel is forever.”
 [12] Many of the priests, the Levites, and the leaders —older people who had seen with their own eyes the former temple while it was still established —were weeping loudly, and many others raised their voice in a joyous shout.
@@ -130,9 +130,9 @@ his loyal love toward Israel is forever.”
 
 ### Opposition to the Building Efforts
 
-[1] When the enemies of Judah and Benjamin learned that the former exiles were building a temple for the Lord God of Israel,
+[1] When the enemies of Judah and Benjamin learned that the former exiles were building a temple for the **Lord** God of Israel,
 [2] they came to Zerubbabel and the leaders and said to them, “Let us help you build, for like you we seek your God and we have been sacrificing to him from the time of King Esarhaddon of Assyria, who brought us here.”
-[3] But Zerubbabel, Jeshua, and the rest of the leaders of Israel said to them, “You have no right to help us build the temple of our God. We will build it by ourselves for the Lord God of Israel, just as King Cyrus, the king of Persia, has commanded us.”
+[3] But Zerubbabel, Jeshua, and the rest of the leaders of Israel said to them, “You have no right to help us build the temple of our God. We will build it by ourselves for the **Lord** God of Israel, just as King Cyrus, the king of Persia, has commanded us.”
 [4] Then the local people began to discourage the people of Judah and to dishearten them from building.
 [5] They were hiring advisers to oppose them, so as to frustrate their plans, throughout the time of King Cyrus of Persia until the reign of King Darius of Persia.
 
@@ -209,8 +209,8 @@ his loyal love toward Israel is forever.”
 [18] They appointed the priests by their divisions and the Levites by their divisions over the worship of God at Jerusalem, in accord with the book of Moses.
 [19] The exiles observed the Passover on the fourteenth day of the first month.
 [20] The priests and the Levites had purified themselves, every last one, and they all were ceremonially pure. They sacrificed the Passover lamb for all the exiles, for their colleagues the priests, and for themselves.
-[21] The Israelites who were returning from the exile ate it, along with all those who had joined them in separating themselves from the uncleanness of the nations of the land to seek the Lord God of Israel.
-[22] They observed the Feast of Unleavened Bread for seven days with joy, for the Lord had given them joy and had changed the opinion of the king of Assyria toward them so that he assisted them in the work on the temple of God, the God of Israel.
+[21] The Israelites who were returning from the exile ate it, along with all those who had joined them in separating themselves from the uncleanness of the nations of the land to seek the **Lord** God of Israel.
+[22] They observed the Feast of Unleavened Bread for seven days with joy, for the **Lord** had given them joy and had changed the opinion of the king of Assyria toward them so that he assisted them in the work on the temple of God, the God of Israel.
 
 ## Chapter 7
 
@@ -222,15 +222,15 @@ his loyal love toward Israel is forever.”
 [3] who was the son of Amariah, who was the son of Azariah, who was the son of Meraioth,
 [4] who was the son of Zerahiah, who was the son of Uzzi, who was the son of Bukki,
 [5] who was the son of Abishua, who was the son of Phinehas, who was the son of Eleazar, who was the son of Aaron the chief priest.
-[6] This Ezra is the one who came up from Babylon. He was a scribe who was skilled in the law of Moses which the Lord God of Israel had given. The king supplied him with everything he requested, for the hand of the Lord his God was on him.
+[6] This Ezra is the one who came up from Babylon. He was a scribe who was skilled in the law of Moses which the **Lord** God of Israel had given. The king supplied him with everything he requested, for the hand of the **Lord** his God was on him.
 [7] In the seventh year of King Artaxerxes, Ezra brought up to Jerusalem some of the Israelites and some of the priests, the Levites, the attendants, the gatekeepers, and the temple servants.
 [8] He entered Jerusalem in the fifth month of the seventh year of the king.
 [9] On the first day of the first month he had determined to make the ascent from Babylon, and on the first day of the fifth month he arrived at Jerusalem, for the good hand of his God was on him.
-[10] Now Ezra had dedicated himself to the study of the law of the Lord, to its observance, and to teaching its statutes and judgments in Israel.
+[10] Now Ezra had dedicated himself to the study of the law of the **Lord**, to its observance, and to teaching its statutes and judgments in Israel.
 
 ### Artaxerxes Gives Official Endorsement to Ezra’s Mission
 
-[11] What follows is a copy of the letter that King Artaxerxes gave to Ezra the priestly scribe. Ezra was a scribe in matters pertaining to the commandments of the Lord and his statutes over Israel:
+[11] What follows is a copy of the letter that King Artaxerxes gave to Ezra the priestly scribe. Ezra was a scribe in matters pertaining to the commandments of the **Lord** and his statutes over Israel:
 [12] “Artaxerxes, king of kings, to Ezra the priest, a scribe of the law of the God of heaven:
 [13] I have now issued a decree that anyone in my kingdom from the people of Israel—even the priests and Levites—who wishes to do so may go up with you to Jerusalem.
 [14] You are authorized by the king and his seven advisers to inquire concerning Judah and Jerusalem, according to the law of your God which is in your possession,
@@ -246,8 +246,8 @@ his loyal love toward Israel is forever.”
 [24] Furthermore, be aware of the fact that you have no authority to impose tax, tribute, or toll on any of the priests, the Levites, the musicians, the doorkeepers, the temple servants, or the attendants at the temple of this God.
 [25] “Now you, Ezra, in keeping with the wisdom of your God which you possess, appoint judges and court officials who can arbitrate cases on behalf of all the people who are in Trans-Euphrates who know the laws of your God. Those who do not know this law should be taught.
 [26] Everyone who does not observe both the law of your God and the law of the king will be completely liable to the appropriate penalty, whether it is death or banishment or confiscation of property or detainment in prison.”
-[27] Blessed be the Lord God of our fathers, who so moved in the heart of the king to so honor the temple of the Lord which is in Jerusalem!
-[28] He has also conferred his favor on me before the king, his advisers, and all the influential leaders of the king. I gained strength as the hand of the Lord my God was on me, and I gathered leaders from Israel to go up with me.
+[27] Blessed be the **Lord** God of our fathers, who so moved in the heart of the king to so honor the temple of the **Lord** which is in Jerusalem!
+[28] He has also conferred his favor on me before the king, his advisers, and all the influential leaders of the king. I gained strength as the hand of the **Lord** my God was on me, and I gathered leaders from Israel to go up with me.
 
 ## Chapter 8
 
@@ -284,14 +284,14 @@ his loyal love toward Israel is forever.”
 [25] and I weighed out to them the silver, the gold, and the vessels intended for the temple of our God—items that the king, his advisers, his officials, and all Israel who were present had contributed.
 [26] I weighed out to them: 650 talents of silver, silver vessels worth 100 talents, 100 talents of gold,
 [27] 20 gold bowls worth 1,000 darics, and 2 exquisite vessels of gleaming bronze, as valuable as gold.
-[28] Then I said to them, “You are holy to the Lord, just as these vessels are holy. The silver and the gold are a voluntary offering to the Lord, the God of your fathers.
-[29] Be careful with them and protect them, until you weigh them out before the leading priests and the Levites and the family leaders of Israel in Jerusalem, in the storerooms of the temple of the Lord.
+[28] Then I said to them, “You are holy to the **Lord**, just as these vessels are holy. The silver and the gold are a voluntary offering to the **Lord**, the God of your fathers.
+[29] Be careful with them and protect them, until you weigh them out before the leading priests and the Levites and the family leaders of Israel in Jerusalem, in the storerooms of the temple of the **Lord**.
 [30] Then the priests and the Levites took charge of the silver, the gold, and the vessels that had been weighed out, to transport them to Jerusalem to the temple of our God.
 [31] On the twelfth day of the first month we began traveling from the Ahava Canal to go to Jerusalem. The hand of our God was on us, and he delivered us from our enemies and from bandits along the way.
 [32] So we came to Jerusalem, and we stayed there for three days.
 [33] On the fourth day we weighed out the silver, the gold, and the vessels in the house of our God into the care of Meremoth son of Uriah, the priest, and Eleazar son of Phinehas, who were accompanied by Jozabad son of Jeshua and Noadiah son of Binnui, who were Levites.
 [34] Everything was verified by number and by weight, and the total weight was written down at that time.
-[35] The exiles who were returning from the captivity offered burnt offerings to the God of Israel—twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs, along with twelve male goats as a sin offering. All this was a burnt offering to the Lord.
+[35] The exiles who were returning from the captivity offered burnt offerings to the God of Israel—twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs, along with twelve male goats as a sin offering. All this was a burnt offering to the **Lord**.
 [36] Then they presented the decrees of the king to the king’s satraps and to the governors of Trans-Euphrates, who assisted the people and the temple of God.
 
 ## Chapter 9
@@ -303,17 +303,17 @@ his loyal love toward Israel is forever.”
 [2] Indeed, they have taken some of their daughters as wives for themselves and for their sons, so that the holy race has become intermingled with the local residents. Worse still, the leaders and the officials have been at the forefront of all this unfaithfulness!”
 [3] When I heard this report, I tore my tunic and my robe and ripped out some of the hair from my head and beard. Then I sat down, quite devastated.
 [4] Everyone who held the words of the God of Israel in awe gathered around me because of the unfaithful acts of the people of the exile. Devastated, I continued to sit there until the evening offering.
-[5] At the time of the evening offering I got up from my self-abasement, with my tunic and robe torn, and then dropped to my knees and spread my hands to the Lord my God.
+[5] At the time of the evening offering I got up from my self-abasement, with my tunic and robe torn, and then dropped to my knees and spread my hands to the **Lord** my God.
 [6] I prayed:
 [7] From the days of our fathers until this very day our guilt has been great. Because of our iniquities we, along with our kings and priests, have been delivered over by the local kings to sword, captivity, plunder, and embarrassment—right up to the present time.
-[8] “But now briefly we have received mercy from the Lord our God, in that he has left us a remnant and has given us a secure position in his holy place. Thus our God has enlightened our eyes and has given us a little relief in our time of servitude.
+[8] “But now briefly we have received mercy from the **Lord** our God, in that he has left us a remnant and has given us a secure position in his holy place. Thus our God has enlightened our eyes and has given us a little relief in our time of servitude.
 [9] Although we are slaves, our God has not abandoned us in our servitude. He has extended kindness to us in the sight of the kings of Persia, in that he has revived us to restore the temple of our God and to raise up its ruins and to give us a protective wall in Judah and Jerusalem.
 [10] “And now what are we able to say after this, our God? For we have forsaken your commandments
 [11] which you commanded us through your servants the prophets with these words: ‘The land that you are entering to possess is a land defiled by the impurities of the local residents! With their abominations they have filled it from one end to the other with their filthiness.
 [12] Therefore do not give your daughters in marriage to their sons, and do not take their daughters in marriage for your sons. Do not ever seek their peace or welfare, so that you may be strong and may eat the good of the land and may leave it as an inheritance for your children forever.’
 [13] “Everything that has happened to us has come about because of our wicked actions and our great guilt. Even so, our God, you have exercised restraint toward our iniquities and have given us a remnant such as this.
 [14] Shall we once again break your commandments and intermarry with these abominable peoples? Would you not be so angered by us that you would wipe us out, with no survivor or remnant?
-[15] O Lord God of Israel, you are righteous, for we are left as a remnant this day. Indeed, we stand before you in our guilt. However, because of this guilt no one can really stand before you.”
+[15] O **Lord** God of Israel, you are righteous, for we are left as a remnant this day. Indeed, we stand before you in our guilt. However, because of this guilt no one can really stand before you.”
 
 ## Chapter 10
 
@@ -330,7 +330,7 @@ his loyal love toward Israel is forever.”
 [8] Everyone who did not come within three days would thereby forfeit all his property, in keeping with the counsel of the officials and the elders. Furthermore, he himself would be excluded from the assembly of the exiles.
 [9] All the men of Judah and Benjamin were gathered in Jerusalem within the three days. (It was in the ninth month, on the twentieth day of that month.) All the people sat in the square at the temple of God, trembling because of this matter and because of the rains.
 [10] Then Ezra the priest stood up and said to them, “You have behaved in an unfaithful manner by taking foreign wives! This has contributed to the guilt of Israel.
-[11] Now give praise to the Lord God of your fathers, and do his will. Separate yourselves from the local residents and from these foreign wives.”
+[11] Now give praise to the **Lord** God of your fathers, and do his will. Separate yourselves from the local residents and from these foreign wives.”
 [12] All the assembly replied in a loud voice: “We will do just as you have said!
 [13] However, the people are numerous and it is the rainy season. We are unable to stand here outside. Furthermore, this business cannot be resolved in a day or two, for we have sinned greatly in this matter.
 [14] Let our leaders take steps on behalf of all the assembly. Let all those in our towns who have married foreign women come at an appointed time, and with them the elders of each town and its judges, until the hot anger of our God is turned away from us in this matter.”

@@ -92,7 +92,7 @@
 ### Inheritance Comes from Promises and not Law
 
 [15] Brothers and sisters, I offer an example from everyday life: When a covenant has been ratified, even though it is only a human contract, no one can set it aside or add anything to it.
-[16] Now the promises were spoken to Abraham and to his descendant. Scripture does not say, “and to the descendants,” referring to many, but “and to your descendant,” referring to one, who is Christ.
+[16] Now the promises were spoken to Abraham and to his descendant. Scripture does not say, “and to the descendants**,”** referring to many, but “and to your descendant**,”** referring to one, who is Christ.
 [17] What I am saying is this: The law that came 430 years later does not cancel a covenant previously ratified by God, so as to invalidate the promise.
 [18] For if the inheritance is based on the law, it is no longer based on the promise, but God graciously gave it to Abraham through the promise.
 [19] Why then was the law given? It was added because of transgressions, until the arrival of the descendant to whom the promise had been made. It was administered through angels by an intermediary.

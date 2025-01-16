@@ -5,18 +5,18 @@
 
 ### Superscription
 
-[1] This is the Lord’s message that came to Hosea son of Beeri during the time of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and during the time of Jeroboam son of Joash, king of Israel.
+[1] This is the **Lord**’s message that came to Hosea son of Beeri during the time of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and during the time of Jeroboam son of Joash, king of Israel.
 
 ### Symbols of Sin and Judgment: The Prostitute and Her Children
 
-[2] When the Lord first spoke through Hosea, he said to him, “Go marry a prostitute who will bear illegitimate children conceived through prostitution, because the nation continually commits spiritual prostitution by turning away from the Lord.”
+[2] When the **Lord** first spoke through Hosea, he said to him, “Go marry a prostitute who will bear illegitimate children conceived through prostitution, because the nation continually commits spiritual prostitution by turning away from the **Lord**.”
 [3] So Hosea married Gomer, the daughter of Diblaim. Then she conceived and gave birth to a son for him.
-[4] Then the Lord said to Hosea, “Name him ‘Jezreel,’ because in a little while I will punish the dynasty of Jehu on account of the bloodshed in the valley of Jezreel, and I will put an end to the kingdom of Israel.
+[4] Then the **Lord** said to Hosea, “Name him ‘Jezreel,’ because in a little while I will punish the dynasty of Jehu on account of the bloodshed in the valley of Jezreel, and I will put an end to the kingdom of Israel.
 [5] At that time, I will destroy the military power of Israel in the valley of Jezreel.”
-[6] She conceived again and gave birth to a daughter. Then the Lord said to him, “Name her ‘No Pity’ (Lo-Ruhamah) because I will no longer have pity on the nation of Israel. For I will certainly not forgive their guilt.
-[7] But I will have pity on the nation of Judah. I will deliver them by the Lord their God; I will not deliver them by the warrior’s bow, by sword, by military victory, by chariot horses, or by chariots.”
+[6] She conceived again and gave birth to a daughter. Then the **Lord** said to him, “Name her ‘No Pity’ (Lo-Ruhamah) because I will no longer have pity on the nation of Israel. For I will certainly not forgive their guilt.
+[7] But I will have pity on the nation of Judah. I will deliver them by the **Lord** their God; I will not deliver them by the warrior’s bow, by sword, by military victory, by chariot horses, or by chariots.”
 [8] When she had weaned “No Pity” (Lo-Ruhamah), she conceived again and gave birth to another son.
-[9] Then the Lord said: “Name him ‘Not My People’ (Lo-Ammi), because you are not my people and I am not your God.”
+[9] Then the **Lord** said: “Name him ‘Not My People’ (Lo-Ammi), because you are not my people and I am not your God.”
 
 ### The Restoration of Israel
 
@@ -129,11 +129,11 @@ And he will say, ‘You are my God!’”
 
 ### An Illustration of God’s Love for Idolatrous Israel
 
-[1] The Lord said to me, “Go, show love to your wife again, even though she loves another man and continually commits adultery. Likewise, the Lord loves the Israelites although they turn to other gods and love to offer raisin cakes to idols.”
+[1] The **Lord** said to me, “Go, show love to your wife again, even though she loves another man and continually commits adultery. Likewise, the **Lord** loves the Israelites although they turn to other gods and love to offer raisin cakes to idols.”
 [2] So I paid fifteen shekels of silver and about seven bushels of barley to purchase her.
 [3] Then I told her, “You must live with me many days; you must not commit adultery or become joined to another man, and I also will wait for you.”
 [4] For the Israelites must live many days without a king or prince, without sacrifice or sacred fertility pillar, without ephod or idols.
-[5] Afterward, the Israelites will turn and seek the Lord their God and their Davidic king. Then they will submit to the Lord in fear and receive his blessings in future days.
+[5] Afterward, the Israelites will turn and seek the **Lord** their God and their Davidic king. Then they will submit to the **Lord** in fear and receive his blessings in future days.
 
 ## Chapter 4
 

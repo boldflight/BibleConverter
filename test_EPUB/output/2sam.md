@@ -16,11 +16,11 @@
 [9] He said to me, ‘Stand over me and finish me off! I’m very dizzy, even though I’m still alive.’
 [10] So I stood over him and put him to death, since I knew that he couldn’t live in such a condition. Then I took the crown which was on his head and the bracelet which was on his arm. I have brought them here to my lord.”
 [11] David then grabbed his own clothes and tore them, as did all the men who were with him.
-[12] They lamented and wept and fasted until evening because Saul, his son Jonathan, the Lord’s army, and the house of Israel had fallen by the sword.
+[12] They lamented and wept and fasted until evening because Saul, his son Jonathan, the **Lord**’s army, and the house of Israel had fallen by the sword.
 [13] David said to the young man who told this to him, “Where are you from?” He replied, “I am an Amalekite, the son of a resident foreigner.”
-[14] David replied to him, “How is it that you were not afraid to reach out your hand to destroy the Lord’s anointed?”
+[14] David replied to him, “How is it that you were not afraid to reach out your hand to destroy the **Lord**’s anointed?”
 [15] Then David called one of the soldiers and said, “Come here and strike him down!” So he struck him down, and he died.
-[16] David said to him, “Your blood be on your own head! Your own mouth has testified against you, saying ‘I have put the Lord’s anointed to death.’”
+[16] David said to him, “Your blood be on your own head! Your own mouth has testified against you, saying ‘I have put the **Lord**’s anointed to death.’”
 
 ### David’s Tribute to Saul and Jonathan
 
@@ -59,12 +59,12 @@ The weapons of war are destroyed!
 
 ### David is Anointed King
 
-[1] Afterward David inquired of the Lord, “Should I go up to one of the cities of Judah?” The Lord told him, “Go up.” David asked, “Where should I go?” The Lord replied, “To Hebron.”
+[1] Afterward David inquired of the **Lord**, “Should I go up to one of the cities of Judah?” The **Lord** told him, “Go up.” David asked, “Where should I go?” The **Lord** replied, “To Hebron.”
 [2] So David went up, along with his two wives, Ahinoam the Jezreelite and Abigail, formerly the wife of Nabal the Carmelite.
 [3] David also brought along the men who were with him, each with his family. They settled in the cities of Hebron.
 [4] The men of Judah came and there they anointed David as king over the people of Judah.
-[5] So David sent messengers to the people of Jabesh Gilead and told them, “May you be blessed by the Lord because you have shown this kindness to your lord Saul by burying him.
-[6] Now may the Lord show you true kindness! I also will reward you, because you have done this deed.
+[5] So David sent messengers to the people of Jabesh Gilead and told them, “May you be blessed by the **Lord** because you have shown this kindness to your lord Saul by burying him.
+[6] Now may the **Lord** show you true kindness! I also will reward you, because you have done this deed.
 [7] Now be courageous and prove to be valiant warriors, for your lord Saul is dead. The people of Judah have anointed me as king over them.”
 
 ### David’s Army Clashes with the Army of Saul
@@ -108,7 +108,7 @@ The weapons of war are destroyed!
 [6] As the war continued between the house of Saul and the house of David, Abner was becoming more influential in the house of Saul.
 [7] Now Saul had a concubine named Rizpah daughter of Aiah. Ish Bosheth said to Abner, “Why did you sleep with my father’s concubine?”
 [8] These words of Ish Bosheth really angered Abner and he said, “Am I the head of a dog that belongs to Judah? This very day I am demonstrating loyalty to the house of Saul your father and to his relatives and his friends! I have not betrayed you into the hand of David. Yet you have accused me of sinning with this woman today!
-[9] God will severely judge Abner if I do not do for David exactly what the Lord has promised him,
+[9] God will severely judge Abner if I do not do for David exactly what the **Lord** has promised him,
 [10] namely, to transfer the kingdom from the house of Saul and to establish the throne of David over Israel and over Judah all the way from Dan to Beer Sheba!”
 [11] Ish Bosheth was unable to answer Abner with even a single word because he was afraid of him.
 [12] Then Abner sent messengers to David saying, “To whom does the land belong? Make an agreement with me, and I will do whatever I can to cause all Israel to turn to you.”
@@ -117,7 +117,7 @@ The weapons of war are destroyed!
 [15] So Ish Bosheth took her from her husband Paltiel son of Laish.
 [16] Her husband went along behind her, weeping all the way to Bahurim. Finally Abner said to him, “Go back!” So he returned home.
 [17] Abner advised the elders of Israel, “Previously you were wanting David to be your king.
-[18] Act now! For the Lord has said to David, ‘By the hand of my servant David I will save my people Israel from the Philistines and from all their enemies.’”
+[18] Act now! For the **Lord** has said to David, ‘By the hand of my servant David I will save my people Israel from the Philistines and from all their enemies.’”
 [19] Then Abner spoke privately with the Benjaminites. Abner also went to Hebron to inform David privately of all that Israel and the entire house of Benjamin had agreed to.
 [20] When Abner, accompanied by twenty men, came to David in Hebron, David prepared a banquet for Abner and the men who were with him.
 [21] Abner said to David, “Let me leave so that I may go and gather all Israel to my lord the king so that they may make an agreement with you. Then you will rule over all that you desire.” So David sent Abner away, and he left in peace.
@@ -130,7 +130,7 @@ The weapons of war are destroyed!
 [25] You know Abner the son of Ner. Surely he came here to spy on you and to determine when you leave and when you return and to discover everything that you are doing!”
 [26] Then Joab left David and sent messengers after Abner. They brought him back from the well of Sirah. (But David was not aware of it.)
 [27] When Abner returned to Hebron, Joab took him aside at the gate as if to speak privately with him. Joab then stabbed him in the abdomen and killed him, avenging the shed blood of his brother Asahel.
-[28] When David later heard about this, he said, “I and my kingdom are forever innocent before the Lord of the shed blood of Abner son of Ner.
+[28] When David later heard about this, he said, “I and my kingdom are forever innocent before the **Lord** of the shed blood of Abner son of Ner.
 [29] May his blood whirl over the head of Joab and the entire house of his father! May the males of Joab’s house never cease to have someone with a running sore or a skin disease or one who works at the spindle or one who falls by the sword or one who lacks food!”
 [30] So Joab and his brother Abishai killed Abner, because he had killed their brother Asahel in Gibeon during the battle.
 [31] David instructed Joab and all the people who were with him, “Tear your clothes. Put on sackcloth. Lament before Abner!” Now King David followed behind the funeral pallet.
@@ -144,7 +144,7 @@ You fell the way one falls before criminals.”
 [36] All the people noticed this and it pleased them. In fact, everything the king did pleased all the people.
 [37] All the people and all Israel realized on that day that the killing of Abner son of Ner was not done at the king’s instigation.
 [38] Then the king said to his servants, “Do you not realize that a great leader has fallen this day in Israel?
-[39] Today I am weak, even though I am anointed as king. These men, the sons of Zeruiah, are too much for me to bear! May the Lord punish appropriately the one who has done this evil thing!”
+[39] Today I am weak, even though I am anointed as king. These men, the sons of Zeruiah, are too much for me to bear! May the **Lord** punish appropriately the one who has done this evil thing!”
 
 ## Chapter 4
 
@@ -158,8 +158,8 @@ You fell the way one falls before criminals.”
 [5] Now the sons of Rimmon the Beerothite—Recab and Baanah—went at the hottest part of the day to the home of Ish Bosheth, as he was enjoying his midday rest.
 [6] They entered the house under the pretense of getting wheat and mortally wounded him in the stomach. Then Recab and his brother Baanah escaped.
 [7] They had entered the house while Ish Bosheth was resting on his bed in his bedroom. They mortally wounded him and then cut off his head. Taking his head, they traveled on the way of the rift valley all that night.
-[8] They brought the head of Ish Bosheth to David in Hebron, saying to the king, “Look! The head of Ish Bosheth son of Saul, your enemy who sought your life! The Lord has granted vengeance to my lord the king this day against Saul and his descendants!”
-[9] David replied to Recab and his brother Baanah, the sons of Rimmon the Beerothite, “As surely as the Lord lives, who has delivered my life from all adversity,
+[8] They brought the head of Ish Bosheth to David in Hebron, saying to the king, “Look! The head of Ish Bosheth son of Saul, your enemy who sought your life! The **Lord** has granted vengeance to my lord the king this day against Saul and his descendants!”
+[9] David replied to Recab and his brother Baanah, the sons of Rimmon the Beerothite, “As surely as the **Lord** lives, who has delivered my life from all adversity,
 [10] when someone told me that Saul was dead—even though he thought he was bringing good news —I seized him and killed him in Ziklag. That was the good news I gave to him!
 [11] Surely when wicked men have killed an innocent man as he slept in his own house, should I not now require his blood from your hands and remove you from the earth?”
 [12] So David issued orders to the soldiers and they put them to death. Then they cut off their hands and feet and hung them near the pool in Hebron. But they took the head of Ish Bosheth and buried it in the tomb of Abner in Hebron.
@@ -170,8 +170,8 @@ You fell the way one falls before criminals.”
 ### David Is Anointed King Over Israel
 
 [1] All the tribes of Israel came to David at Hebron saying, “Look, we are your very flesh and blood!
-[2] In the past, when Saul was our king, you were the real leader in Israel. The Lord said to you, ‘You will shepherd my people Israel; you will rule over Israel.’”
-[3] When all the leaders of Israel came to the king at Hebron, King David made an agreement with them in Hebron before the Lord. They designated David as king over Israel.
+[2] In the past, when Saul was our king, you were the real leader in Israel. The **Lord** said to you, ‘You will shepherd my people Israel; you will rule over Israel.’”
+[3] When all the leaders of Israel came to the king at Hebron, King David made an agreement with them in Hebron before the **Lord**. They designated David as king over Israel.
 [4] David was thirty years old when he began to reign and he reigned for forty years.
 [5] In Hebron he reigned over Judah for seven years and six months, and in Jerusalem he reigned for thirty-three years over all Israel and Judah.
 
@@ -181,9 +181,9 @@ You fell the way one falls before criminals.”
 [7] But David captured the fortress of Zion (that is, the City of David).
 [8] David said on that day, “Whoever attacks the Jebusites must approach the ‘lame’ and the ‘blind’ who are David’s enemies by going through the water tunnel.” For this reason it is said, “The blind and the lame cannot enter the palace.”
 [9] So David lived in the fortress and called it the City of David. David built all around it, from the terrace inwards.
-[10] David’s power grew steadily, for the Lord God of Heaven’s Armies was with him.
+[10] David’s power grew steadily, for the **Lord** God of Heaven’s Armies was with him.
 [11] King Hiram of Tyre sent messengers to David, along with cedar logs, carpenters, and stonemasons. They built a palace for David.
-[12] David realized that the Lord had established him as king over Israel and that he had elevated his kingdom for the sake of his people Israel.
+[12] David realized that the **Lord** had established him as king over Israel and that he had elevated his kingdom for the sake of his people Israel.
 [13] David married more concubines and wives from Jerusalem after he arrived from Hebron. Even more sons and daughters were born to David.
 [14] These are the names of children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,
 [15] Ibhar, Elishua, Nepheg, Japhia,
@@ -193,13 +193,13 @@ You fell the way one falls before criminals.”
 
 [17] When the Philistines heard that David had been designated king over Israel, they all went up to search for David. When David heard about it, he went down to the fortress.
 [18] Now the Philistines had arrived and spread out in the valley of Rephaim.
-[19] So David asked the Lord, “Should I march up against the Philistines? Will you hand them over to me?” The Lord said to David, “March up, for I will indeed hand the Philistines over to you.”
-[20] So David marched against Baal Perazim and defeated them there. Then he said, “The Lord has burst out against my enemies like water bursts out.” So he called the name of that place Baal Perazim.
+[19] So David asked the **Lord**, “Should I march up against the Philistines? Will you hand them over to me?” The **Lord** said to David, “March up, for I will indeed hand the Philistines over to you.”
+[20] So David marched against Baal Perazim and defeated them there. Then he said, “The **Lord** has burst out against my enemies like water bursts out.” So he called the name of that place Baal Perazim.
 [21] The Philistines abandoned their idols there, and David and his men picked them up.
 [22] The Philistines again came up and spread out in the valley of Rephaim.
-[23] So David asked the Lord what he should do. This time the Lord said to him, “Don’t march straight up. Instead, circle around behind them and come against them opposite the trees.
-[24] When you hear the sound of marching in the tops of the trees, act decisively. For at that moment the Lord is going before you to strike down the army of the Philistines.”
-[25] David did just as the Lord commanded him, and he struck down the Philistines from Gibeon all the way to Gezer.
+[23] So David asked the **Lord** what he should do. This time the **Lord** said to him, “Don’t march straight up. Instead, circle around behind them and come against them opposite the trees.
+[24] When you hear the sound of marching in the tops of the trees, act decisively. For at that moment the **Lord** is going before you to strike down the army of the Philistines.”
+[25] David did just as the **Lord** commanded him, and he struck down the Philistines from Gibeon all the way to Gezer.
 
 ## Chapter 6
 
@@ -207,26 +207,26 @@ You fell the way one falls before criminals.”
 ### David Brings the Ark to Jerusalem
 
 [1] David again assembled all the best men in Israel, 30,000 in number.
-[2] David and all the men who were with him traveled to Baalah in Judah to bring up from there the ark of God which is called by the name of the Lord of Heaven’s Armies, who sits enthroned between the cherubim that are on it.
+[2] David and all the men who were with him traveled to Baalah in Judah to bring up from there the ark of God which is called by the name of the **Lord** of Heaven’s Armies, who sits enthroned between the cherubim that are on it.
 [3] They loaded the ark of God on a new cart and carried it from the house of Abinadab, which was on the hill. Uzzah and Ahio, the sons of Abinadab, were guiding the new cart.
 [4] They brought it with the ark of God from the house of Abinadab on the hill. Ahio was walking in front of the ark,
-[5] while David and all Israel were energetically celebrating before the Lord, singing and playing various stringed instruments, tambourines, rattles, and cymbals.
+[5] while David and all Israel were energetically celebrating before the **Lord**, singing and playing various stringed instruments, tambourines, rattles, and cymbals.
 [6] When they arrived at the threshing floor of Nacon, Uzzah reached out and grabbed hold of the ark of God, because the oxen stumbled.
-[7] The Lord was so furious with Uzzah, he killed him on the spot for his negligence. He died right there beside the ark of God.
-[8] David was angry because the Lord attacked Uzzah; so he called that place Perez Uzzah, which remains its name to this very day.
-[9] David was afraid of the Lord that day and said, “How will the ark of the Lord ever come to me?”
-[10] So David was no longer willing to bring the ark of the Lord to be with him in the City of David. David left it in the house of Obed-Edom the Gittite.
-[11] The ark of the Lord remained in the house of Obed-Edom the Gittite for three months. The Lord blessed Obed-Edom and all his family.
-[12] King David was told, “The Lord has blessed the family of Obed-Edom and everything he owns because of the ark of God.” So David went and joyfully brought the ark of God from the house of Obed-Edom to the City of David.
-[13] Those who carried the ark of the Lord took six steps and then David sacrificed an ox and a fatling calf.
-[14] Now David, wearing a linen ephod, was dancing with all his strength before the Lord.
-[15] David and all Israel were bringing up the ark of the Lord, shouting and blowing trumpets.
-[16] As the ark of the Lord entered the City of David, Saul’s daughter Michal looked out the window. When she saw King David leaping and dancing before the Lord, she despised him.
-[17] They brought the ark of the Lord and put it in its place in the middle of the tent that David had pitched for it. Then David offered burnt sacrifices and peace offerings before the Lord.
-[18] When David finished offering the burnt sacrifices and peace offerings, he pronounced a blessing over the people in the name of the Lord of Heaven’s Armies.
+[7] The **Lord** was so furious with Uzzah, he killed him on the spot for his negligence. He died right there beside the ark of God.
+[8] David was angry because the **Lord** attacked Uzzah; so he called that place Perez Uzzah, which remains its name to this very day.
+[9] David was afraid of the **Lord** that day and said, “How will the ark of the **Lord** ever come to me?”
+[10] So David was no longer willing to bring the ark of the **Lord** to be with him in the City of David. David left it in the house of Obed-Edom the Gittite.
+[11] The ark of the **Lord** remained in the house of Obed-Edom the Gittite for three months. The **Lord** blessed Obed-Edom and all his family.
+[12] King David was told, “The **Lord** has blessed the family of Obed-Edom and everything he owns because of the ark of God.” So David went and joyfully brought the ark of God from the house of Obed-Edom to the City of David.
+[13] Those who carried the ark of the **Lord** took six steps and then David sacrificed an ox and a fatling calf.
+[14] Now David, wearing a linen ephod, was dancing with all his strength before the **Lord**.
+[15] David and all Israel were bringing up the ark of the **Lord**, shouting and blowing trumpets.
+[16] As the ark of the **Lord** entered the City of David, Saul’s daughter Michal looked out the window. When she saw King David leaping and dancing before the **Lord**, she despised him.
+[17] They brought the ark of the **Lord** and put it in its place in the middle of the tent that David had pitched for it. Then David offered burnt sacrifices and peace offerings before the **Lord**.
+[18] When David finished offering the burnt sacrifices and peace offerings, he pronounced a blessing over the people in the name of the **Lord** of Heaven’s Armies.
 [19] He then handed out to each member of the entire assembly of Israel, both men and women, a portion of bread, a date cake, and a raisin cake. Then all the people went home.
 [20] When David went home to pronounce a blessing on his own house, Michal, Saul’s daughter, came out to meet him. She said, “How the king of Israel has distinguished himself this day! He has exposed himself today before his servants’ slave girls the way a vulgar fool might do!”
-[21] David replied to Michal, “It was before the Lord! I was celebrating before the Lord, who chose me over your father and his entire family and appointed me as leader over the Lord’s people Israel.
+[21] David replied to Michal, “It was before the **Lord**! I was celebrating before the **Lord**, who chose me over your father and his entire family and appointed me as leader over the **Lord**’s people Israel.
 [22] I am willing to shame and humiliate myself even more than this. But with the slave girls whom you mentioned, let me be distinguished.”
 [23] Now Michal, Saul’s daughter, had no children to the day of her death.
 
@@ -235,17 +235,17 @@ You fell the way one falls before criminals.”
 
 ### The Lord Establishes a Covenant with David
 
-[1] The king settled into his palace, for the Lord gave him relief from all his enemies on all sides.
+[1] The king settled into his palace, for the **Lord** gave him relief from all his enemies on all sides.
 [2] The king said to Nathan the prophet, “Look! I am living in a palace made from cedar, while the ark of God sits in the middle of a tent.”
-[3] Nathan replied to the king, “You should go and do whatever you have in mind, for the Lord is with you.”
-[4] That night the Lord’s message came to Nathan,
-[5] “Go, tell my servant David, ‘This is what the Lord has said: Do you really intend to build a house for me to live in?
+[3] Nathan replied to the king, “You should go and do whatever you have in mind, for the **Lord** is with you.”
+[4] That night the **Lord’**s message came to Nathan,
+[5] “Go, tell my servant David, ‘This is what the **Lord** has said: Do you really intend to build a house for me to live in?
 [6] I have not lived in a house from the time I brought the Israelites up from Egypt to the present day. Instead, I was traveling with them and living in a tent.
 [7] Wherever I moved among all the Israelites, I did not say to any of their leaders whom I appointed to care for my people Israel, “Why have you not built me a house made from cedar?”’
-[8] “So now, say this to my servant David, ‘This is what the Lord of Heaven’s Armies has said: I took you from the pasture and from your work as a shepherd to make you leader of my people Israel.
+[8] “So now, say this to my servant David, ‘This is what the **Lord** of Heaven’s Armies has said: I took you from the pasture and from your work as a shepherd to make you leader of my people Israel.
 [9] I was with you wherever you went, and I defeated all your enemies before you. Now I will make you as famous as the great men of the earth.
 [10] I will establish a place for my people Israel and settle them there; they will live there and not be disturbed anymore. Violent men will not oppress them again, as they did in the beginning
-[11] and during the time when I appointed judges to lead my people Israel. Instead, I will give you relief from all your enemies. The Lord declares to you that he himself will build a dynastic house for you.
+[11] and during the time when I appointed judges to lead my people Israel. Instead, I will give you relief from all your enemies. The **Lord** declares to you that he himself will build a dynastic house for you.
 [12] When the time comes for you to die, I will raise up your descendant, one of your own sons, to succeed you, and I will establish his kingdom.
 [13] He will build a house for my name, and I will make his dynasty permanent.
 [14] I will become his father and he will become my son. When he sins, I will correct him with the rod of men and with wounds inflicted by human beings.
@@ -255,18 +255,18 @@ You fell the way one falls before criminals.”
 
 ### David Offers a Prayer to God
 
-[18] King David went in, sat before the Lord, and said, “Who am I, O Sovereign Lord, and what is my family, that you should have brought me to this point?
-[19] And you didn’t stop there, O Lord God! You have also spoken about the future of your servant’s family. Is this your usual way of dealing with men, O Sovereign Lord?
-[20] What more can David say to you? You have given your servant special recognition, O Sovereign Lord!
+[18] King David went in, sat before the **Lord**, and said, “Who am I, O Sovereign **Lord**, and what is my family, that you should have brought me to this point?
+[19] And you didn’t stop there, O **Lord** God! You have also spoken about the future of your servant’s family. Is this your usual way of dealing with men, O Sovereign **Lord**?
+[20] What more can David say to you? You have given your servant special recognition, O Sovereign **Lord**!
 [21] For the sake of your promise and according to your purpose you have done this great thing in order to reveal it to your servant.
-[22] Therefore you are great, O Sovereign Lord, for there is none like you. There is no God besides you! What we have heard is true.
+[22] Therefore you are great, O Sovereign **Lord**, for there is none like you. There is no God besides you! What we have heard is true.
 [23] Who is like your people, Israel, a unique nation on the earth? Their God went to claim a nation for himself and to make a name for himself! You did great and awesome acts for your land, before your people whom you delivered for yourself from the Egyptian empire and its gods.
-[24] You made Israel your very own people for all time. You, O Lord, became their God.
-[25] So now, O Lord God, make this promise you have made about your servant and his family a permanent reality. Do as you promised,
-[26] so you may gain lasting fame, as people say, ‘The Lord of Heaven’s Armies is God over Israel!’ The dynasty of your servant David will be established before you,
-[27] for you, O Lord of Heaven’s Armies, the God of Israel, have told your servant, ‘I will build you a dynastic house.’ That is why your servant has had the courage to pray this prayer to you.
-[28] Now, O Sovereign Lord, you are the true God. May your words prove to be true! You have made this good promise to your servant.
-[29] Now be willing to bless your servant’s dynasty so that it may stand permanently before you, for you, O Sovereign Lord, have spoken. By your blessing may your servant’s dynasty be blessed from now on into the future!”
+[24] You made Israel your very own people for all time. You, O **Lord**, became their God.
+[25] So now, O **Lord** God, make this promise you have made about your servant and his family a permanent reality. Do as you promised,
+[26] so you may gain lasting fame, as people say, ‘The **Lord** of Heaven’s Armies is God over Israel!’ The dynasty of your servant David will be established before you,
+[27] for you, O **Lord** of Heaven’s Armies, the God of Israel, have told your servant, ‘I will build you a dynastic house.’ That is why your servant has had the courage to pray this prayer to you.
+[28] Now, O Sovereign **Lord**, you are the true God. May your words prove to be true! You have made this good promise to your servant.
+[29] Now be willing to bless your servant’s dynasty so that it may stand permanently before you, for you, O Sovereign **Lord**, have spoken. By your blessing may your servant’s dynasty be blessed from now on into the future!”
 
 ## Chapter 8
 
@@ -278,15 +278,15 @@ You fell the way one falls before criminals.”
 [3] David defeated King Hadadezer son of Rehob of Zobah when he came to reestablish his authority over the Euphrates River.
 [4] David seized from him 1,700 charioteers and 20,000 infantrymen. David cut the hamstrings of all but 100 of the chariot horses.
 [5] The Arameans of Damascus came to help King Hadadezer of Zobah, but David killed 22,000 of the Arameans.
-[6] David placed garrisons in the territory of the Arameans of Damascus; the Arameans became David’s subjects and brought tribute. The Lord protected David wherever he campaigned.
+[6] David placed garrisons in the territory of the Arameans of Damascus; the Arameans became David’s subjects and brought tribute. The **Lord** protected David wherever he campaigned.
 [7] David took the golden shields that belonged to Hadadezer’s servants and brought them to Jerusalem.
 [8] From Tebah and Berothai, Hadadezer’s cities, King David took a great deal of bronze.
 [9] When King Toi of Hamath heard that David had defeated the entire army of Hadadezer,
 [10] he sent his son Joram to King David to extend his best wishes and to pronounce a blessing on him for his victory over Hadadezer, for Toi had been at war with Hadadezer. He brought with him various items made of silver, gold, and bronze.
-[11] King David dedicated these things to the Lord, along with the dedicated silver and gold that he had taken from all the nations that he had subdued,
+[11] King David dedicated these things to the **Lord**, along with the dedicated silver and gold that he had taken from all the nations that he had subdued,
 [12] including Edom, Moab, the Ammonites, the Philistines, and Amalek. This also included some of the plunder taken from King Hadadezer son of Rehob of Zobah.
 [13] David became famous when he returned from defeating the Edomites in the Valley of Salt; he defeated 18,000 in all.
-[14] He placed garrisons throughout Edom, and all the Edomites became David’s subjects. The Lord protected David wherever he campaigned.
+[14] He placed garrisons throughout Edom, and all the Edomites became David’s subjects. The **Lord** protected David wherever he campaigned.
 [15] David reigned over all Israel; he guaranteed justice for all his people.
 
 ### David’s Cabinet
@@ -330,7 +330,7 @@ You fell the way one falls before criminals.”
 [9] When Joab saw that the battle would be fought on two fronts, he chose some of Israel’s best men and deployed them against the Arameans.
 [10] He put his brother Abishai in charge of the rest of the army and they were deployed against the Ammonites.
 [11] Joab said, “If the Arameans start to overpower me, you come to my rescue. If the Ammonites start to overpower you, I will come to your rescue.
-[12] Be strong! Let’s fight bravely for the sake of our people and the cities of our God! The Lord will do what he decides is best!”
+[12] Be strong! Let’s fight bravely for the sake of our people and the cities of our God! The **Lord** will do what he decides is best!”
 [13] So Joab and his men marched out to do battle with the Arameans, and they fled before him.
 [14] When the Ammonites saw the Arameans flee, they fled before his brother Abishai and went into the city. Joab withdrew from fighting the Ammonites and returned to Jerusalem.
 [15] When the Arameans realized that they had been defeated by Israel, they consolidated their forces.
@@ -370,38 +370,38 @@ You fell the way one falls before criminals.”
 [24] Then the archers shot at your servants from the wall and some of the king’s soldiers died. Your servant Uriah the Hittite is also dead.”
 [25] David said to the messenger, “Tell Joab, ‘Don’t let this thing upset you. There is no way to anticipate whom the sword will cut down. Press the battle against the city and conquer it.’ Encourage him with these words.”
 [26] When Uriah’s wife heard that her husband Uriah was dead, she mourned for him.
-[27] When the time of mourning passed, David had her brought to his palace. She became his wife and she bore him a son. But what David had done upset the Lord.
+[27] When the time of mourning passed, David had her brought to his palace. She became his wife and she bore him a son. But what David had done upset the **Lord**.
 
 ## Chapter 12
 
 
 ### Nathan the Prophet Confronts David
 
-[1] So the Lord sent Nathan to David. When he came to David, Nathan said, “There were two men in a certain city, one rich and the other poor.
+[1] So the **Lord** sent Nathan to David. When he came to David, Nathan said, “There were two men in a certain city, one rich and the other poor.
 [2] The rich man had a great many flocks and herds.
 [3] But the poor man had nothing except for a little lamb he had acquired. He raised it, and it grew up alongside him and his children. It used to eat his food, drink from his cup, and sleep in his arms. It was just like a daughter to him.
 [4] “When a traveler arrived at the rich man’s home, he did not want to use one of his own sheep or cattle to feed the traveler who had come to visit him. Instead, he took the poor man’s lamb and cooked it for the man who had come to visit him.”
-[5] Then David became very angry at this man. He said to Nathan, “As surely as the Lord lives, the man who did this deserves to die!
+[5] Then David became very angry at this man. He said to Nathan, “As surely as the **Lord** lives, the man who did this deserves to die!
 [6] Because he committed this cold-hearted crime, he must pay for the lamb four times over!”
-[7] Nathan said to David, “You are that man! This is what the Lord God of Israel has said: ‘I chose you to be king over Israel and I rescued you from the hand of Saul.
+[7] Nathan said to David, “You are that man! This is what the **Lord** God of Israel has said: ‘I chose you to be king over Israel and I rescued you from the hand of Saul.
 [8] I gave you your master’s house, and put your master’s wives into your arms. I also gave you the house of Israel and Judah. And if all that somehow seems insignificant, I would have given you so much more as well!
-[9] Why have you shown contempt for the Lord’s decrees by doing evil in my sight? You have struck down Uriah the Hittite with the sword and you have taken his wife to be your own wife! You have killed him with the sword of the Ammonites.
+[9] Why have you shown contempt for the **Lord**’s decrees by doing evil in my sight? You have struck down Uriah the Hittite with the sword and you have taken his wife to be your own wife! You have killed him with the sword of the Ammonites.
 [10] So now the sword will never depart from your house. For you have despised me by taking the wife of Uriah the Hittite as your own!’
-[11] This is what the Lord has said: ‘I am about to bring disaster on you from inside your own household! Right before your eyes I will take your wives and hand them over to your companion. He will go to bed with your wives in broad daylight!
+[11] This is what the **Lord** has said: ‘I am about to bring disaster on you from inside your own household! Right before your eyes I will take your wives and hand them over to your companion. He will go to bed with your wives in broad daylight!
 [12] Although you have acted in secret, I will do this thing before all Israel, and in broad daylight.’”
-[13] Then David exclaimed to Nathan, “I have sinned against the Lord!” Nathan replied to David, “Yes, and the Lord has forgiven your sin. You are not going to die.
-[14] Nonetheless, because you have treated the Lord with such contempt in this matter, the son who has been born to you will certainly die.”
-[15] Then Nathan went to his home. The Lord struck the child that Uriah’s wife had borne to David, and the child became very ill.
+[13] Then David exclaimed to Nathan, “I have sinned against the **Lord**!” Nathan replied to David, “Yes, and the **Lord** has forgiven your sin. You are not going to die.
+[14] Nonetheless, because you have treated the **Lord** with such contempt in this matter, the son who has been born to you will certainly die.”
+[15] Then Nathan went to his home. The **Lord** struck the child that Uriah’s wife had borne to David, and the child became very ill.
 [16] Then David prayed to God for the child and fasted. He would even go and spend the night lying on the ground.
 [17] The elders of his house stood over him and tried to lift him from the ground, but he was unwilling, and refused to eat food with them.
 [18] On the seventh day the child died. But the servants of David were afraid to inform him that the child had died, for they said, “While the child was still alive he would not listen to us when we spoke to him. How can we tell him that the child is dead? He will do himself harm!”
 [19] When David saw that his servants were whispering to one another, he realized that the child was dead. So David asked his servants, “Is the child dead?” They replied, “Yes, he’s dead.”
-[20] So David got up from the ground, bathed, put on oil, and changed his clothes. He went to the house of the Lord and worshiped. Then, when he entered his palace, he requested that food be brought to him, and he ate.
+[20] So David got up from the ground, bathed, put on oil, and changed his clothes. He went to the house of the **Lord** and worshiped. Then, when he entered his palace, he requested that food be brought to him, and he ate.
 [21] His servants said to him, “What is this that you have done? While the child was still alive, you fasted and wept. Once the child was dead you got up and ate food!”
-[22] He replied, “While the child was still alive, I fasted and wept because I thought, ‘Perhaps the Lord will show pity and the child will live.’
+[22] He replied, “While the child was still alive, I fasted and wept because I thought, ‘Perhaps the **Lord** will show pity and the child will live.’
 [23] But now he is dead. Why should I fast? Am I able to bring him back at this point? I will go to him, but he cannot return to me!”
-[24] So David comforted his wife Bathsheba. He came to her and went to bed with her. Later she gave birth to a son, and David named him Solomon. Now the Lord loved the child
-[25] and sent word through Nathan the prophet that he should be named Jedidiah for the Lord’s sake.
+[24] So David comforted his wife Bathsheba. He came to her and went to bed with her. Later she gave birth to a son, and David named him Solomon. Now the **Lord** loved the child
+[25] and sent word through Nathan the prophet that he should be named Jedidiah for the **Lord**’s sake.
 
 ### David’s Forces Defeat the Ammonites
 
@@ -475,13 +475,13 @@ You fell the way one falls before criminals.”
 [8] Then the king told the woman, “Go to your home. I will give instructions concerning your situation.”
 [9] The Tekoan woman said to the king, “My lord the king, let any blame fall on me and on the house of my father. But let the king and his throne be innocent!”
 [10] The king said, “Bring to me whoever speaks to you, and he won’t bother you again!”
-[11] She replied, “In that case, let the king invoke the name of the Lord your God so that the avenger of blood may not add to the killing! Then they will not destroy my son!” He replied, “As surely as the Lord lives, not a single hair of your son’s head will fall to the ground.”
+[11] She replied, “In that case, let the king invoke the name of the **Lord** your God so that the avenger of blood may not add to the killing! Then they will not destroy my son!” He replied, “As surely as the **Lord** lives, not a single hair of your son’s head will fall to the ground.”
 [12] Then the woman said, “Please permit your servant to speak to my lord the king about another matter.” He replied, “Tell me.”
 [13] The woman said, “Why have you devised something like this against God’s people? When the king speaks in this fashion, he makes himself guilty, for the king has not brought back the one he has banished.
 [14] Certainly we must die, and are like water spilled on the ground that cannot be gathered up again. But God does not take away life; instead he devises ways for the banished to be restored.
 [15] I have now come to speak with my lord the king about this matter, because the people have made me fearful. But your servant said, ‘I will speak to the king! Perhaps the king will do what his female servant asks.
 [16] Yes! The king may listen and deliver his female servant from the hand of the man who seeks to remove both me and my son from the inheritance God has given us!’
-[17] So your servant said, ‘May the word of my lord the king be my security, for my lord the king is like the angel of God when it comes to deciding between right and wrong! May the Lord your God be with you!’”
+[17] So your servant said, ‘May the word of my lord the king be my security, for my lord the king is like the angel of God when it comes to deciding between right and wrong! May the **Lord** your God be with you!’”
 [18] Then the king replied to the woman, “Don’t hide any information from me when I question you.” The woman said, “Let my lord the king speak.”
 [19] The king said, “Did Joab put you up to all of this?” The woman answered, “As surely as you live, my lord the king, there is no deviation to the right or to the left from all that my lord the king has said. For your servant Joab gave me instructions. He has put all these words in your servant’s mouth.
 [20] Your servant Joab did this so as to change this situation. But my lord has wisdom like that of the angel of God, and knows everything that is happening in the land.”
@@ -510,8 +510,8 @@ You fell the way one falls before criminals.”
 [4] Absalom would then say, “If only they would make me a judge in the land! Then everyone who had a judicial complaint could come to me and I would make sure he receives a just settlement.”
 [5] When someone approached to bow before him, Absalom would extend his hand and embrace him and kiss him.
 [6] Absalom acted this way toward everyone in Israel who came to the king for justice. In this way Absalom won the loyalty of the citizens of Israel.
-[7] After four years Absalom said to the king, “Let me go and repay my vow that I made to the Lord while I was in Hebron.
-[8] For I made this vow when I was living in Geshur in Aram: ‘If the Lord really does allow me to return to Jerusalem, I will serve the Lord.’”
+[7] After four years Absalom said to the king, “Let me go and repay my vow that I made to the **Lord** while I was in Hebron.
+[8] For I made this vow when I was living in Geshur in Aram: ‘If the **Lord** really does allow me to return to Jerusalem, I will serve the **Lord**.’”
 [9] The king replied to him, “Go in peace.” So Absalom got up and went to Hebron.
 [10] Then Absalom sent spies through all the tribes of Israel who said, “When you hear the sound of the horn, you may assume that Absalom rules in Hebron.”
 [11] Now 200 men had gone with Absalom from Jerusalem. Since they were invited, they went naively and were unaware of what Absalom was planning.
@@ -527,17 +527,17 @@ You fell the way one falls before criminals.”
 [18] All his servants were leaving with him, along with all the Kerethites, all the Pelethites, and all the Gittites—some 600 men who had come on foot from Gath. They were leaving with the king.
 [19] Then the king said to Ittai the Gittite, “Why should you come with us? Go back and stay with the new king, for you are a foreigner and an exile from your own country.
 [20] It seems as if you arrived just yesterday. Today should I make you wander around by going with us? I go where I must go. But as for you, go back and take your men with you. May genuine loyal love protect you!”
-[21] But Ittai replied to the king, “As surely as the Lord lives and as my lord the king lives, wherever my lord the king is, whether it means death or life, there I will be as well!”
+[21] But Ittai replied to the king, “As surely as the **Lord** lives and as my lord the king lives, wherever my lord the king is, whether it means death or life, there I will be as well!”
 [22] So David said to Ittai, “Come along then.” So Ittai the Gittite went along, accompanied by all his men and all the dependents who were with him.
 [23] All the land was weeping loudly as all these people were leaving. As the king was crossing over the Kidron Valley, all the people were leaving on the road that leads to the desert.
 [24] Zadok and all the Levites who were with him were carrying the ark of the covenant of God. When they positioned the ark of God, Abiathar offered sacrifices until all the people had finished leaving the city.
-[25] Then the king said to Zadok, “Take the ark of God back to the city. If I find favor in the Lord’s sight he will bring me back and enable me to see both it and his dwelling place again.
+[25] Then the king said to Zadok, “Take the ark of God back to the city. If I find favor in the **Lord**’s sight he will bring me back and enable me to see both it and his dwelling place again.
 [26] However, if he should say, ‘I do not take pleasure in you,’ then he will deal with me in a way that he considers appropriate.”
 [27] The king said to Zadok the priest, “Are you a seer? Go back to the city in peace! Your son Ahimaaz and Abiathar’s son Jonathan may go with you and Abiathar.
 [28] Look, I will be waiting at the fords of the desert until word from you reaches me.”
 [29] So Zadok and Abiathar took the ark of God back to Jerusalem and remained there.
 [30] As David was going up the Mount of Olives, he was weeping as he went; his head was covered and his feet were bare. All the people who were with him also had their heads covered and were weeping as they went up.
-[31] Now David had been told, “Ahithophel has sided with the conspirators who are with Absalom.” So David prayed, “Make the advice of Ahithophel foolish, O Lord.”
+[31] Now David had been told, “Ahithophel has sided with the conspirators who are with Absalom.” So David prayed, “Make the advice of Ahithophel foolish, O **Lord**.”
 [32] When David reached the summit, where he used to worship God, Hushai the Arkite met him with his clothes torn and dirt on his head.
 [33] David said to him, “If you leave with me you will be a burden to me.
 [34] But you will be able to counter the advice of Ahithophel if you go back to the city and say to Absalom, ‘I will be your servant, O king! Previously I was your father’s servant, and now I will be your servant.’
@@ -560,11 +560,11 @@ You fell the way one falls before criminals.”
 [5] Then King David reached Bahurim. There a man from Saul’s extended family named Shimei son of Gera came out, yelling curses as he approached.
 [6] He threw stones at David and all of King David’s servants, as well as all the people and the soldiers who were on his right and on his left.
 [7] As he yelled curses, Shimei said, “Leave! Leave! You man of bloodshed, you wicked man!
-[8] The Lord has punished you for all the spilled blood of the house of Saul, in whose place you rule. Now the Lord has given the kingdom into the hand of your son Absalom. Disaster has overtaken you, for you are a man of bloodshed!”
+[8] The **Lord** has punished you for all the spilled blood of the house of Saul, in whose place you rule. Now the **Lord** has given the kingdom into the hand of your son Absalom. Disaster has overtaken you, for you are a man of bloodshed!”
 [9] Then Abishai son of Zeruiah said to the king, “Why should this dead dog curse my lord the king? Let me go over and cut off his head!”
-[10] But the king said, “What do we have in common, you sons of Zeruiah? If he curses because the Lord has said to him, ‘Curse David!,’ who can say to him, ‘Why have you done this?’”
-[11] Then David said to Abishai and to all his servants, “My own son, my very own flesh and blood, is trying to take my life. So also now this Benjaminite! Leave him alone so that he can curse, for the Lord has spoken to him.
-[12] Perhaps the Lord will notice my affliction and this day grant me good in place of his curse.”
+[10] But the king said, “What do we have in common, you sons of Zeruiah? If he curses because the **Lord** has said to him, ‘Curse David!,’ who can say to him, ‘Why have you done this?’”
+[11] Then David said to Abishai and to all his servants, “My own son, my very own flesh and blood, is trying to take my life. So also now this Benjaminite! Leave him alone so that he can curse, for the **Lord** has spoken to him.
+[12] Perhaps the **Lord** will notice my affliction and this day grant me good in place of his curse.”
 [13] So David and his men went on their way. But Shimei kept going along the side of the hill opposite him, yelling curses as he threw stones and dirt at them.
 [14] The king and all the people who were with him arrived exhausted at their destination, where David refreshed himself.
 
@@ -573,7 +573,7 @@ You fell the way one falls before criminals.”
 [15] Now when Absalom and all the men of Israel arrived in Jerusalem, Ahithophel was with him.
 [16] When David’s friend Hushai the Arkite came to Absalom, Hushai said to him, “Long live the king! Long live the king!”
 [17] Absalom said to Hushai, “Do you call this loyalty to your friend? Why didn’t you go with your friend?”
-[18] Hushai replied to Absalom, “No, I will be loyal to the one whom the Lord, these people, and all the men of Israel have chosen.
+[18] Hushai replied to Absalom, “No, I will be loyal to the one whom the **Lord**, these people, and all the men of Israel have chosen.
 [19] Moreover, whom should I serve? Should it not be his son? Just as I served your father, so I will serve you.”
 [20] Then Absalom said to Ahithophel, “Give us your advice. What should we do?”
 [21] Ahithophel replied to Absalom, “Sleep with your father’s concubines whom he left to care for the palace. All Israel will hear that you have made yourself repulsive to your father. Then your followers will be motivated to support you.”
@@ -598,7 +598,7 @@ You fell the way one falls before criminals.”
 [11] My advice therefore is this: Let all Israel from Dan to Beer Sheba—in number like the sand by the sea—be mustered to you, and you lead them personally into battle.
 [12] We will come against him wherever he happens to be found. We will descend on him like the dew falls on the ground. Neither he nor any of the men who are with him will be spared alive—not one of them!
 [13] If he regroups in a city, all Israel will take up ropes to that city and drag it down to the valley, so that not a single pebble will be left there!”
-[14] Then Absalom and all the men of Israel said, “The advice of Hushai the Arkite sounds better than the advice of Ahithophel.” Now the Lord had decided to frustrate the sound advice of Ahithophel, so that the Lord could bring disaster on Absalom.
+[14] Then Absalom and all the men of Israel said, “The advice of Hushai the Arkite sounds better than the advice of Ahithophel.” Now the **Lord** had decided to frustrate the sound advice of Ahithophel, so that the **Lord** could bring disaster on Absalom.
 [15] Then Hushai reported to Zadok and Abiathar the priests, “Here is what Ahithophel has advised Absalom and the leaders of Israel to do, and here is what I have advised.
 [16] Now send word quickly to David and warn him, “Don’t spend the night at the fords of the wilderness tonight. Instead, be sure you cross over, or else the king and everyone who is with him may be overwhelmed.”
 [17] Now Jonathan and Ahimaaz were staying in En Rogel. A female servant would go and inform them, and they would then go and inform King David. It was not advisable for them to be seen going into the city.
@@ -641,7 +641,7 @@ You fell the way one falls before criminals.”
 
 ### David Learns of Absalom’s Death
 
-[19] Then Ahimaaz the son of Zadok said, “Let me run and give the king the good news that the Lord has vindicated him before his enemies.”
+[19] Then Ahimaaz the son of Zadok said, “Let me run and give the king the good news that the **Lord** has vindicated him before his enemies.”
 [20] But Joab said to him, “You will not be a bearer of good news today. You will bear good news some other day, but not today, for the king’s son is dead.”
 [21] Then Joab said to the Cushite, “Go and tell the king what you have seen.” After bowing to Joab, the Cushite ran off.
 [22] Ahimaaz the son of Zadok again spoke to Joab, “Whatever happens, let me go after the Cushite.” But Joab said, “Why is it that you want to go, my son? You have no good news that will bring you a reward.”
@@ -650,10 +650,10 @@ You fell the way one falls before criminals.”
 [25] So the watchman called out and informed the king. The king said, “If he is by himself, he brings good news.” The runner came ever closer.
 [26] Then the watchman saw another man running. The watchman called out to the gatekeeper, “There is another man running by himself.” The king said, “This one also is bringing good news.”
 [27] The watchman said, “It appears to me that the first runner is Ahimaaz son of Zadok.” The king said, “He is a good man, and he comes with good news.”
-[28] Then Ahimaaz called out and said to the king, “Greetings!” He bowed down before the king with his face toward the ground and said, “May the Lord your God be praised because he has defeated the men who opposed my lord the king!”
+[28] Then Ahimaaz called out and said to the king, “Greetings!” He bowed down before the king with his face toward the ground and said, “May the **Lord** your God be praised because he has defeated the men who opposed my lord the king!”
 [29] The king replied, “How is the young man Absalom?” Ahimaaz replied, “I saw a great deal of confusion when Joab was sending the king’s servant and me, your servant, but I don’t know what it was all about.”
 [30] The king said, “Turn aside and take your place here.” So he turned aside and waited.
-[31] Then the Cushite arrived and said, “May my lord the king now receive the good news! The Lord has vindicated you today and delivered you from the hand of all who have rebelled against you!”
+[31] Then the Cushite arrived and said, “May my lord the king now receive the good news! The **Lord** has vindicated you today and delivered you from the hand of all who have rebelled against you!”
 [32] The king asked the Cushite, “How is the young man Absalom?” The Cushite replied, “May the enemies of my lord the king and all who have plotted against you be like that young man!”
 [33] (
 
@@ -665,7 +665,7 @@ You fell the way one falls before criminals.”
 [4] The king covered his face and cried out loudly, “My son, Absalom! Absalom, my son, my son!”
 [5] So Joab visited the king at his home. He said, “Today you have embarrassed all your servants who have saved your life this day, as well as the lives of your sons, your daughters, your wives, and your concubines.
 [6] You seem to love your enemies and hate your friends! For you have as much as declared today that leaders and servants don’t matter to you. I realize now that if Absalom were alive and all of us were dead today, it would be all right with you.
-[7] So get up now and go out and give some encouragement to your servants. For I swear by the Lord that if you don’t go out there, not a single man will stay here with you tonight! This disaster will be worse for you than any disaster that has overtaken you from your youth right to the present time!”
+[7] So get up now and go out and give some encouragement to your servants. For I swear by the **Lord** that if you don’t go out there, not a single man will stay here with you tonight! This disaster will be worse for you than any disaster that has overtaken you from your youth right to the present time!”
 [8] So the king got up and sat at the city gate. When all the people were informed that the king was sitting at the city gate, they all came before him.
 
 ### David Goes Back to Jerusalem
@@ -682,7 +682,7 @@ You fell the way one falls before criminals.”
 [18] They crossed at the ford in order to help the king’s household cross and to do whatever he thought appropriate.
 [19] He said to the king, “Don’t think badly of me, my lord, and don’t recall the sin of your servant on the day when you, my lord the king, left Jerusalem! Please don’t call it to mind!
 [20] For I, your servant, know that I sinned, and I have come today as the first of all the house of Joseph to come down to meet my lord the king.”
-[21] Abishai son of Zeruiah replied, “For this should not Shimei be put to death? After all, he cursed the Lord’s anointed!”
+[21] Abishai son of Zeruiah replied, “For this should not Shimei be put to death? After all, he cursed the **Lord**’s anointed!”
 [22] But David said, “What do we have in common, you sons of Zeruiah? You are like my enemy today! Should anyone be put to death in Israel today? Don’t I know that today I am king over Israel?”
 [23] The king said to Shimei, “You won’t die.” The king vowed an oath concerning this.
 [24] Now Mephibosheth, Saul’s grandson, came down to meet the king. From the day the king had left until the day he safely returned, Mephibosheth had not cared for his feet nor trimmed his mustache nor washed his clothes.
@@ -732,7 +732,7 @@ Every man go home, O Israel!”
 [16] a wise woman called out from the city, “Listen up! Listen up! Tell Joab, ‘Come near so that I may speak to you.’”
 [17] When he approached her, the woman asked, “Are you Joab?” He replied, “I am.” She said to him, “Listen to the words of your servant.” He said, “Go ahead. I’m listening.”
 [18] She said, “In the past they would always say, ‘Let them inquire in Abel,’ and that is how they settled things.
-[19] I represent the peaceful and the faithful in Israel. You are attempting to destroy an important city in Israel. Why should you swallow up the Lord’s inheritance?”
+[19] I represent the peaceful and the faithful in Israel. You are attempting to destroy an important city in Israel. Why should you swallow up the **Lord**’s inheritance?”
 [20] Joab answered, “Not at all! I don’t intend to swallow up or destroy anything!
 [21] That’s not the way things are. There is a man from the hill country of Ephraim named Sheba son of Bikri. He has rebelled against King David. Give me just this one man, and I will leave the city.” The woman said to Joab, “This very minute his head will be thrown over the wall to you!”
 [22] Then the woman went to all the people with her wise advice and they cut off Sheba’s head and threw it out to Joab. Joab blew the trumpet, and his men dispersed from the city, each going to his own home. Joab returned to the king in Jerusalem.
@@ -746,15 +746,15 @@ Every man go home, O Israel!”
 
 ### The Gibeonites Demand Revenge
 
-[1] During David’s reign there was a famine for three consecutive years. So David inquired of the Lord. The Lord said, “It is because of Saul and his bloodstained family, because he murdered the Gibeonites.”
+[1] During David’s reign there was a famine for three consecutive years. So David inquired of the **Lord**. The **Lord** said, “It is because of Saul and his bloodstained family, because he murdered the Gibeonites.”
 [2] So the king summoned the Gibeonites and spoke with them. (Now the Gibeonites were not descendants of Israel; they were a remnant of the Amorites. The Israelites had made a promise to them, but Saul tried to kill them because of his zeal for the people of Israel and Judah.)
-[3] David said to the Gibeonites, “What can I do for you, and how can I make amends so that you will bless the Lord’s inheritance?”
+[3] David said to the Gibeonites, “What can I do for you, and how can I make amends so that you will bless the **Lord**’s inheritance?”
 [4] The Gibeonites said to him, “We have no claim to silver or gold from Saul or from his family, nor would we be justified in putting to death anyone in Israel.” David asked, “What then are you asking me to do for you?”
 [5] They replied to the king, “As for this man who exterminated us and who schemed against us so that we were destroyed and left without status throughout all the borders of Israel—
-[6] let seven of his male descendants be turned over to us, and we will execute them before the Lord in Gibeah of Saul, who was the Lord’s chosen one.” The king replied, “I will turn them over.”
-[7] The king had mercy on Mephibosheth son of Jonathan, the son of Saul, in light of the Lord’s oath that had been taken between David and Jonathan son of Saul.
+[6] let seven of his male descendants be turned over to us, and we will execute them before the **Lord** in Gibeah of Saul, who was the **Lord**’s chosen one.” The king replied, “I will turn them over.”
+[7] The king had mercy on Mephibosheth son of Jonathan, the son of Saul, in light of the **Lord**’s oath that had been taken between David and Jonathan son of Saul.
 [8] So the king took Armoni and Mephibosheth, the two sons of Aiah’s daughter Rizpah whom she had born to Saul, and the five sons of Saul’s daughter Merab whom she had born to Adriel the son of Barzillai the Meholathite.
-[9] He turned them over to the Gibeonites, and they executed them on a hill before the Lord. The seven of them died together; they were put to death during harvest time—during the first days of the beginning of the barley harvest.
+[9] He turned them over to the Gibeonites, and they executed them on a hill before the **Lord**. The seven of them died together; they were put to death during harvest time—during the first days of the beginning of the barley harvest.
 [10] Rizpah the daughter of Aiah took sackcloth and spread it out for herself on a rock. From the beginning of the harvest until the rain fell on them, she did not allow the birds of the air to feed on them by day, nor the wild animals by night.
 [11] When David was told what Rizpah daughter of Aiah, Saul’s concubine, had done,
 [12] he went and took the bones of Saul and of his son Jonathan from the leaders of Jabesh Gilead. (They had secretly taken them from the plaza at Beth Shan. It was there that Philistines publicly exposed their corpses after they had killed Saul at Gilboa.)
@@ -777,7 +777,7 @@ Every man go home, O Israel!”
 
 ### David Sings to the Lord
 
-[1] David sang to the Lord the words of this song when the Lord rescued him from the power of all his enemies, including Saul.
+[1] David sang to the **Lord** the words of this song when the **Lord** rescued him from the power of all his enemies, including Saul.
 [2] He said:
 “The Lord is my high ridge, my stronghold, my deliverer.
 [3] My God is my rocky summit where I take shelter,
@@ -930,14 +930,14 @@ They are completely burned up right where they lie!”
 
 [8] These are the names of David’s warriors:
 [9] Next in command was Eleazar son of Dodo, the son of Ahohi. He was one of the three warriors who were with David when they defied the Philistines who were assembled there for battle. When the men of Israel retreated,
-[10] he stood his ground and fought the Philistines until his hand grew so tired that it seemed stuck to his sword. The Lord gave a great victory on that day. When the army returned to him, the only thing left to do was to plunder the corpses.
+[10] he stood his ground and fought the Philistines until his hand grew so tired that it seemed stuck to his sword. The **Lord** gave a great victory on that day. When the army returned to him, the only thing left to do was to plunder the corpses.
 [11] Next in command was Shammah son of Agee the Hararite. When the Philistines assembled at Lehi, where there happened to be an area of a field that was full of lentils, the army retreated before the Philistines.
-[12] But he made a stand in the middle of that area. He defended it and defeated the Philistines; the Lord gave them a great victory.
+[12] But he made a stand in the middle of that area. He defended it and defeated the Philistines; the **Lord** gave them a great victory.
 [13] At the time of the harvest three of the thirty leaders went down to David at the cave of Adullam. A band of Philistines was camped in the valley of Rephaim.
 [14] David was in the stronghold at the time, while a Philistine garrison was in Bethlehem.
 [15] David was thirsty and said, “How I wish someone would give me some water to drink from the cistern in Bethlehem near the gate!”
-[16] So the three elite warriors broke through the Philistine forces and drew some water from the cistern in Bethlehem near the gate. They carried it back to David, but he refused to drink it. He poured it out as a drink offering to the Lord
-[17] and said, “O Lord, I will not do this! It is equivalent to the blood of the men who risked their lives by going.” So he refused to drink it. Such were the exploits of the three elite warriors.
+[16] So the three elite warriors broke through the Philistine forces and drew some water from the cistern in Bethlehem near the gate. They carried it back to David, but he refused to drink it. He poured it out as a drink offering to the **Lord**
+[17] and said, “O **Lord**, I will not do this! It is equivalent to the blood of the men who risked their lives by going.” So he refused to drink it. Such were the exploits of the three elite warriors.
 [18] Abishai son of Zeruiah, the brother of Joab, was head of the three. He killed 300 men with his spear and gained fame among the three.
 [19] From the three he was given honor and he became their officer, even though he was not one of the three.
 [20] Benaiah son of Jehoiada was a brave warrior from Kabzeel who performed great exploits. He struck down the two sons of Ariel of Moab. He also went down and killed a lion in a cistern on a snowy day.
@@ -966,31 +966,31 @@ They are completely burned up right where they lie!”
 
 ### David Displeases the Lord by Taking a Census
 
-[1] The Lord’s anger again raged against Israel, and he incited David against them, saying, “Go count Israel and Judah.”
+[1] The **Lord**’s anger again raged against Israel, and he incited David against them, saying, “Go count Israel and Judah.”
 [2] The king told Joab, the general in command of his army, “Go through all the tribes of Israel from Dan to Beer Sheba and muster the army, so I may know the size of the army.”
-[3] Joab replied to the king, “May the Lord your God make the army a hundred times larger right before the eyes of my lord the king! But why does my master the king want to do this?”
+[3] Joab replied to the king, “May the **Lord** your God make the army a hundred times larger right before the eyes of my lord the king! But why does my master the king want to do this?”
 [4] But the king’s edict stood, despite the objections of Joab and the leaders of the army. So Joab and the leaders of the army left the king’s presence in order to muster the Israelite army.
 [5] They crossed the Jordan and camped at Aroer, on the south side of the city, at the wadi of Gad, near Jazer.
 [6] Then they went on to Gilead and to the region of Tahtim Hodshi, coming to Dan Jaan and on around to Sidon.
 [7] Then they went to the fortress of Tyre and all the cities of the Hivites and the Canaanites. Then they went on to the Negev of Judah, to Beer Sheba.
 [8] They went through all the land and after nine months and twenty days came back to Jerusalem.
 [9] Joab reported the number of warriors to the king. In Israel there were 800,000 sword-wielding warriors, and in Judah there were 500,000 soldiers.
-[10] David felt guilty after he had numbered the army. David said to the Lord, “I have sinned greatly by doing this! Now, O Lord, please remove the guilt of your servant, for I have acted very foolishly.”
-[11] When David got up the next morning, the Lord’s message had already come to the prophet Gad, David’s seer:
-[12] “Go, tell David, ‘This is what the Lord has said: I am offering you three forms of judgment. Pick one of them and I will carry it out against you.’”
+[10] David felt guilty after he had numbered the army. David said to the **Lord**, “I have sinned greatly by doing this! Now, O **Lord**, please remove the guilt of your servant, for I have acted very foolishly.”
+[11] When David got up the next morning, the **Lord’**s message had already come to the prophet Gad, David’s seer:
+[12] “Go, tell David, ‘This is what the **Lord** has said: I am offering you three forms of judgment. Pick one of them and I will carry it out against you.’”
 [13] Gad went to David and told him, “Shall seven years of famine come upon your land? Or shall you flee for three months from your enemies with them in hot pursuit? Or shall there be three days of plague in your land? Now decide what I should tell the one who sent me.”
-[14] David said to Gad, “I am very upset! I prefer that we be attacked by the Lord, for his mercy is great; I do not want to be attacked by human hands!”
-[15] So the Lord sent a plague through Israel from the morning until the completion of the appointed time, and 70,000 people died from Dan to Beer Sheba.
-[16] When the angel extended his hand to destroy Jerusalem, the Lord relented from his judgment. He told the angel who was killing the people, “That’s enough! Stop now!” (Now the angel of the Lord was near the threshing floor of Araunah the Jebusite.)
-[17] When he saw the angel who was destroying the people, David said to the Lord, “Look, it is I who have sinned and done this evil thing! As for these sheep—what have they done? Attack me and my family.”
+[14] David said to Gad, “I am very upset! I prefer that we be attacked by the **Lord**, for his mercy is great; I do not want to be attacked by human hands!”
+[15] So the **Lord** sent a plague through Israel from the morning until the completion of the appointed time, and 70,000 people died from Dan to Beer Sheba.
+[16] When the angel extended his hand to destroy Jerusalem, the **Lord** relented from his judgment. He told the angel who was killing the people, “That’s enough! Stop now!” (Now the angel of the **Lord** was near the threshing floor of Araunah the Jebusite.)
+[17] When he saw the angel who was destroying the people, David said to the **Lord**, “Look, it is I who have sinned and done this evil thing! As for these sheep—what have they done? Attack me and my family.”
 
 ### David Acquires a Threshing Floor and Constructs an Altar There
 
-[18] So Gad went to David that day and told him, “Go up and build an altar for the Lord on the threshing floor of Araunah the Jebusite.”
-[19] So David went up as Gad instructed him to do, according to the Lord’s instructions.
+[18] So Gad went to David that day and told him, “Go up and build an altar for the **Lord** on the threshing floor of Araunah the Jebusite.”
+[19] So David went up as Gad instructed him to do, according to the **Lord**’s instructions.
 [20] When Araunah looked out and saw the king and his servants approaching him, he went out and bowed to the king with his face to the ground.
-[21] Araunah said, “Why has my lord the king come to his servant?” David replied, “To buy from you the threshing floor so I can build an altar for the Lord, so that the plague may be removed from the people.”
+[21] Araunah said, “Why has my lord the king come to his servant?” David replied, “To buy from you the threshing floor so I can build an altar for the **Lord**, so that the plague may be removed from the people.”
 [22] Araunah told David, “My lord the king may take whatever he wishes and offer it. Look! Here are oxen for burnt offerings, and threshing sledges and harnesses for wood.
-[23] I, the servant of my lord the king, give it all to the king!” Araunah also told the king, “May the Lord your God show you favor!”
-[24] But the king said to Araunah, “No, I insist on buying it from you! I will not offer to the Lord my God burnt sacrifices that cost me nothing.”
-[25] Then David built an altar for the Lord there and offered burnt sacrifices and peace offerings. And the Lord accepted prayers for the land, and the plague was removed from Israel.
+[23] I, the servant of my lord the king, give it all to the king!” Araunah also told the king, “May the **Lord** your God show you favor!”
+[24] But the king said to Araunah, “No, I insist on buying it from you! I will not offer to the **Lord** my God burnt sacrifices that cost me nothing.”
+[25] Then David built an altar for the **Lord** there and offered burnt sacrifices and peace offerings. And the **Lord** accepted prayers for the land, and the plague was removed from Israel.

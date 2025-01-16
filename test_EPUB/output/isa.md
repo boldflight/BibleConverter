@@ -459,9 +459,9 @@ clouds will turn the light into darkness.
 
 [1] In the year of King Uzziah’s death, I saw the Lord seated on a high, elevated throne. The hem of his robe filled the temple.
 [2] Seraphs stood over him; each one had six wings. With two wings they covered their faces, with two they covered their feet, and they used the remaining two to fly.
-[3] They called out to one another, “Holy, holy, holy is the Lord of Heaven’s Armies! His majestic splendor fills the entire earth!”
+[3] They called out to one another, “Holy, holy, holy is the **Lord** of Heaven’s Armies! His majestic splendor fills the entire earth!”
 [4] The sound of their voices shook the door frames, and the temple was filled with smoke.
-[5] I said, “Woe to me! I am destroyed, for my lips are contaminated by sin, and I live among people whose lips are contaminated by sin. My eyes have seen the king, the Lord of Heaven’s Armies.”
+[5] I said, “Woe to me! I am destroyed, for my lips are contaminated by sin, and I live among people whose lips are contaminated by sin. My eyes have seen the king, the **Lord** of Heaven’s Armies.”
 [6] But then one of the seraphs flew toward me. In his hand was a hot coal he had taken from the altar with tongs.
 [7] He touched my mouth with it and said, “Look, this coal has touched your lips. Your evil is removed; your sin is forgiven.”
 [8] I heard the voice of the Lord say, “Whom will I send? Who will go on our behalf?” I answered, “Here I am, send me!”
@@ -491,11 +491,11 @@ That sacred pillar symbolizes the special chosen family.”
 
 [1] During the reign of Ahaz son of Jotham, son of Uzziah, king of Judah, King Rezin of Syria and King Pekah son of Remaliah of Israel marched up to Jerusalem to do battle, but they were unable to prevail against it.
 [2] It was reported to the family of David, “Syria has allied with Ephraim.” They and their people were emotionally shaken, just as the trees of the forest shake before the wind.
-[3] So the Lord told Isaiah, “Go out with your son Shear Jashub and meet Ahaz at the end of the conduit of the upper pool that is located on the road to the field where they wash and dry cloth.
+[3] So the **Lord** told Isaiah, “Go out with your son Shear Jashub and meet Ahaz at the end of the conduit of the upper pool that is located on the road to the field where they wash and dry cloth.
 [4] Tell him, ‘Make sure you stay calm! Don’t be afraid. Don’t be intimidated by these two stubs of smoking logs, or by the raging anger of Rezin, Syria, and the son of Remaliah.
 [5] Syria has plotted with Ephraim and the son of Remaliah to bring about your demise.
 [6] They say, “Let’s attack Judah, terrorize it, and conquer it. Then we’ll set up the son of Tabeel as its king.”
-[7] For this reason the Sovereign Lord says:
+[7] For this reason the Sovereign **Lord** says:
 “‘It will not take place;
 it will not happen.
 [8] For Syria’s leader is Damascus,
@@ -505,15 +505,15 @@ Within sixty-five years Ephraim will no longer exist as a nation.
 and Samaria’s leader is the son of Remaliah.
 If your faith does not remain firm,
 then you will not remain secure.’”
-[10] The Lord again spoke to Ahaz:
-[11] “Ask for a confirming sign from the Lord your God. You can even ask for something miraculous.”
-[12] But Ahaz responded, “I don’t want to ask; I don’t want to put the Lord to a test.”
+[10] The **Lord** again spoke to Ahaz:
+[11] “Ask for a confirming sign from the **Lord** your God. You can even ask for something miraculous.”
+[12] But Ahaz responded, “I don’t want to ask; I don’t want to put the **Lord** to a test.”
 [13] So Isaiah replied, “Pay attention, family of David. Do you consider it too insignificant to try the patience of men? Is that why you are also trying the patience of my God?
 [14] For this reason the Lord himself will give you a confirming sign. Look, this young woman is about to conceive and will give birth to a son. You, young woman, will name him Immanuel.
 [15] He will eat sour milk and honey, which will help him know how to reject evil and choose what is right.
 [16] Here is why this will be so: Before the child knows how to reject evil and choose what is right, the land whose two kings you fear will be desolate.
-[17] The Lord will bring on you, your people, and your father’s family a time unlike any since Ephraim departed from Judah—the king of Assyria!”
-[18] At that time the Lord will whistle for flies from the distant streams of Egypt and for bees from the land of Assyria.
+[17] The **Lord** will bring on you, your people, and your father’s family a time unlike any since Ephraim departed from Judah—the king of Assyria!”
+[18] At that time the **Lord** will whistle for flies from the distant streams of Egypt and for bees from the land of Assyria.
 [19] All of them will come and make their home in the ravines between the cliffs and in the crevices of the cliffs, in all the thorn bushes, and in all the watering holes.
 [20] At that time the Lord will use a razor hired from the banks of the Euphrates River, the king of Assyria, to shave the hair off the head and private parts; it will also shave off the beard.
 [21] At that time a man will keep alive a young cow from the herd and a couple of goats.
@@ -527,11 +527,11 @@ then you will not remain secure.’”
 
 ### A Child is Born for a Sign
 
-[1] The Lord told me, “Take a large tablet and inscribe these words on it with an ordinary stylus: ‘Maher Shalal Hash Baz.’
+[1] The **Lord** told me, “Take a large tablet and inscribe these words on it with an ordinary stylus: ‘Maher Shalal Hash Baz.’
 [2] Then I will summon as my reliable witnesses Uriah the priest and Zechariah son of Jeberekiah.”
-[3] I then approached the prophetess for marital relations; she conceived and gave birth to a son. The Lord told me, “Name him Maher Shalal Hash Baz,
+[3] I then approached the prophetess for marital relations; she conceived and gave birth to a son. The **Lord** told me, “Name him Maher Shalal Hash Baz,
 [4] for before the child knows how to cry out ‘My father’ or ‘My mother,’ the wealth of Damascus and the plunder of Samaria will be carried off by the king of Assyria.”
-[5] The Lord spoke to me again:
+[5] The **Lord** spoke to me again:
 [6] “These people have rejected the gently flowing waters of Shiloah and melt in fear over Rezin and the son of Remaliah.
 [7] So look, the Lord is bringing up against them the turbulent and mighty waters of the Euphrates River —the king of Assyria and all his majestic power. It will reach flood stage and overflow its banks.
 [8] It will spill into Judah, flooding and engulfing, as it reaches to the necks of its victims. He will spread his wings out over your entire land, O Immanuel.”
@@ -546,7 +546,7 @@ For God is with us!
 
 ### The Lord Encourages Isaiah
 
-[11] Indeed this is what the Lord told me quite forcefully. He warned me not to act like these people:
+[11] Indeed this is what the **Lord** told me quite forcefully. He warned me not to act like these people:
 [12] “Do not say, ‘Conspiracy,’ every time these people say the word.
 Don’t be afraid of what scares them; don’t be terrified.
 [13] You must recognize the authority of the Lord of Heaven’s Armies.
@@ -575,7 +575,7 @@ I will wait for him.
 ### Darkness Turns to Light as an Ideal King Arrives
 
 [19] They will say to you, “Seek oracles at the pits used to conjure up underworld spirits, from the magicians who chirp and mutter incantations. Should people not seek oracles from their gods, by asking the dead about the destiny of the living?”
-[20] Then you must recall the Lord’s instructions and the prophetic testimony of what would happen. Certainly they say such things because their minds are spiritually darkened.
+[20] Then you must recall the **Lord**’s instructions and the prophetic testimony of what would happen. Certainly they say such things because their minds are spiritually darkened.
 [21] They will pass through the land destitute and starving. Their hunger will make them angry, and they will curse their king and their God as they look upward.
 [22] When one looks out over the land, he sees distress and darkness, gloom and anxiety, darkness and people forced from the land.
 [1] (
@@ -733,13 +733,13 @@ will be completely destroyed,
 as when a sick man’s life ebbs away.
 [19] There will be so few trees left in his forest,
 a child will be able to count them.
-[20] At that time those left in Israel, those who remain of the family of Jacob, will no longer rely on a foreign leader that abuses them. Instead they will truly rely on the Lord, the Holy One of Israel.
+[20] At that time those left in Israel, those who remain of the family of Jacob, will no longer rely on a foreign leader that abuses them. Instead they will truly rely on the **Lord**, the Holy One of Israel.
 [21] A remnant will come back, a remnant of Jacob, to the mighty God.
 [22] For though your people, Israel, are as numerous as the sand on the seashore, only a remnant will come back. Destruction has been decreed; just punishment is about to engulf you.
-[23] The Sovereign Lord of Heaven’s Armies is certainly ready to carry out the decreed destruction throughout the land.
-[24] So here is what the Sovereign Lord of Heaven’s Armies says: “My people who live in Zion, do not be afraid of Assyria, even though they beat you with a club and lift their cudgel against you as Egypt did.
+[23] The Sovereign **Lord** of Heaven’s Armies is certainly ready to carry out the decreed destruction throughout the land.
+[24] So here is what the Sovereign **Lord** of Heaven’s Armies says: “My people who live in Zion, do not be afraid of Assyria, even though they beat you with a club and lift their cudgel against you as Egypt did.
 [25] For very soon my fury will subside, and my anger will be directed toward their destruction.”
-[26] The Lord of Heaven’s Armies is about to beat them with a whip, similar to the way he struck down Midian at the rock of Oreb. He will use his staff against the sea, lifting it up as he did in Egypt.
+[26] The **Lord** of Heaven’s Armies is about to beat them with a whip, similar to the way he struck down Midian at the rock of Oreb. He will use his staff against the sea, lifting it up as he did in Egypt.
 [27] At that time
 the Lord will remove their burden from your shoulders,
 and their yoke from your neck;
@@ -933,9 +933,9 @@ her days will not be prolonged.
 
 ## Chapter 14
 
-[1] The Lord will certainly have compassion on Jacob; he will again choose Israel as his special people and restore them to their land. Resident foreigners will join them and unite with the family of Jacob.
-[2] Nations will take them and bring them back to their own place. Then the family of Israel will make foreigners their servants as they settle in the Lord’s land. They will make their captors captives and rule over the ones who oppressed them.
-[3] When the Lord gives you relief from your suffering and anxiety and from the hard labor that you were made to perform,
+[1] The **Lord** will certainly have compassion on Jacob; he will again choose Israel as his special people and restore them to their land. Resident foreigners will join them and unite with the family of Jacob.
+[2] Nations will take them and bring them back to their own place. Then the family of Israel will make foreigners their servants as they settle in the **Lord**’s land. They will make their captors captives and rule over the ones who oppressed them.
+[3] When the **Lord** gives you relief from your suffering and anxiety and from the hard labor that you were made to perform,
 [4] you will taunt the king of Babylon with these words:
 
 “Look how the oppressor has met his end!
@@ -1139,8 +1139,8 @@ I have brought the joyful shouts to an end.
 my inner being sighs for Kir Hareseth.
 [12] When the Moabites plead with all their might at their high places,
 and enter their temples to pray, their prayers will be ineffective.
-[13] This is the message the Lord previously announced about Moab.
-[14] Now the Lord makes this announcement: “Within exactly three years Moab’s splendor will disappear, along with all her many people; there will be only a few insignificant survivors left.”
+[13] This is the message the **Lord** previously announced about Moab.
+[14] Now the **Lord** makes this announcement: “Within exactly three years Moab’s splendor will disappear, along with all her many people; there will be only a few insignificant survivors left.”
 
 ## Chapter 17
 
@@ -1290,22 +1290,22 @@ they lead Egypt astray in all she does,
 so that she is like a drunk sliding around in his own vomit.
 [15] Egypt will not be able to do a thing,
 head or tail, shoots or stalk.
-[16] At that time the Egyptians will be like women. They will tremble and fear because the Lord of Heaven’s Armies brandishes his fist against them.
-[17] The land of Judah will humiliate Egypt. Everyone who hears about Judah will be afraid because of what the Lord of Heaven’s Armies is planning to do to them.
-[18] At that time five cities in the land of Egypt will speak the language of Canaan and swear allegiance to the Lord of Heaven’s Armies. One will be called the City of the Sun.
-[19] At that time there will be an altar for the Lord in the middle of the land of Egypt, as well as a sacred pillar dedicated to the Lord at its border.
-[20] It will become a visual reminder in the land of Egypt of the Lord of Heaven’s Armies. When they cry out to the Lord because of oppressors, he will send them a deliverer and defender who will rescue them.
-[21] The Lord will reveal himself to the Egyptians, and they will acknowledge the Lord’s authority at that time. They will present sacrifices and offerings; they will make vows to the Lord and fulfill them.
-[22] The Lord will strike Egypt, striking and then healing them. They will turn to the Lord, and he will listen to their prayers and heal them.
+[16] At that time the Egyptians will be like women. They will tremble and fear because the **Lord** of Heaven’s Armies brandishes his fist against them.
+[17] The land of Judah will humiliate Egypt. Everyone who hears about Judah will be afraid because of what the **Lord** of Heaven’s Armies is planning to do to them.
+[18] At that time five cities in the land of Egypt will speak the language of Canaan and swear allegiance to the **Lord** of Heaven’s Armies. One will be called the City of the Sun.
+[19] At that time there will be an altar for the **Lord** in the middle of the land of Egypt, as well as a sacred pillar dedicated to the **Lord** at its border.
+[20] It will become a visual reminder in the land of Egypt of the **Lord** of Heaven’s Armies. When they cry out to the **Lord** because of oppressors, he will send them a deliverer and defender who will rescue them.
+[21] The **Lord** will reveal himself to the Egyptians, and they will acknowledge the **Lord**’s authority at that time. They will present sacrifices and offerings; they will make vows to the **Lord** and fulfill them.
+[22] The **Lord** will strike Egypt, striking and then healing them. They will turn to the **Lord**, and he will listen to their prayers and heal them.
 [23] At that time there will be a highway from Egypt to Assyria. The Assyrians will visit Egypt, and the Egyptians will visit Assyria. The Egyptians and Assyrians will worship together.
 [24] At that time Israel will be the third member of the group, along with Egypt and Assyria, and will be a recipient of blessing in the earth.
-[25] The Lord of Heaven’s Armies will pronounce a blessing over the earth, saying, “Blessed be my people, Egypt, and the work of my hands, Assyria, and my special possession, Israel!”
+[25] The **Lord** of Heaven’s Armies will pronounce a blessing over the earth, saying, “Blessed be my people, Egypt, and the work of my hands, Assyria, and my special possession, Israel!”
 
 ## Chapter 20
 
-[1] The Lord revealed the following message during the year in which King Sargon of Assyria sent his commanding general to Ashdod, and he fought against it and captured it.
-[2] At that time the Lord announced through Isaiah son of Amoz: “Go, remove the sackcloth from your waist and take your sandals off your feet.” He did as instructed and walked around in undergarments and barefoot.
-[3] Later the Lord explained, “In the same way that my servant Isaiah has walked around in undergarments and barefoot for the past three years, as an object lesson and omen pertaining to Egypt and Cush,
+[1] The **Lord** revealed the following message during the year in which King Sargon of Assyria sent his commanding general to Ashdod, and he fought against it and captured it.
+[2] At that time the **Lord** announced through Isaiah son of Amoz: “Go, remove the sackcloth from your waist and take your sandals off your feet.” He did as instructed and walked around in undergarments and barefoot.
+[3] Later the **Lord** explained, “In the same way that my servant Isaiah has walked around in undergarments and barefoot for the past three years, as an object lesson and omen pertaining to Egypt and Cush,
 [4] so the king of Assyria will lead away the captives of Egypt and the exiles of Cush, both young and old. They will be in undergarments and barefoot, with the buttocks exposed; the Egyptians will be publicly humiliated.
 [5] Those who put their hope in Cush and took pride in Egypt will be afraid and embarrassed.
 [6] At that time those who live on this coast will say, ‘Look what has happened to our source of hope to whom we fled for help, expecting to be rescued from the king of Assyria! How can we escape now?’”
@@ -1389,7 +1389,7 @@ from the drawn sword,
 and from the battle-ready bow,
 and from the severity of the battle.
 [16] For this is what the Lord has told me: “Within exactly one year all the splendor of Kedar will come to an end.
-[17] Just a handful of archers, the warriors of Kedar, will be left.” Indeed, the Lord God of Israel has spoken.
+[17] Just a handful of archers, the warriors of Kedar, will be left.” Indeed, the **Lord** God of Israel has spoken.
 
 ## Chapter 22
 
@@ -1439,7 +1439,7 @@ for shaved heads and sackcloth.
 You say, “Kill the ox and slaughter the sheep,
 eat meat and drink wine.
 Eat and drink, for tomorrow we die!”
-[14] The Lord of Heaven’s Armies told me this: “Certainly this sin will not be forgiven as long as you live,” says the Sovereign Lord of Heaven’s Armies.
+[14] The **Lord** of Heaven’s Armies told me this: “Certainly this sin will not be forgiven as long as you live,” says the Sovereign **Lord** of Heaven’s Armies.
 [15] This is what the Sovereign Lord of Heaven’s Armies says:
 “Go visit this administrator, Shebna, who supervises the palace, and tell him:
 [16] ‘What right do you have to be here? What relatives do you have buried here?
@@ -1460,7 +1460,7 @@ you will be thrown down from your position.
 [22] I will place the key to the house of David on his shoulder. When he opens the door, no one can close it; when he closes the door, no one can open it.
 [23] I will fasten him like a peg into a solid place; he will bring honor and respect to his father’s family.
 [24] His father’s family will gain increasing prominence because of him, including the offspring and the offshoots. All the small containers, including the bowls and all the jars, will hang from this peg.’
-[25] “At that time,” says the Lord of Heaven’s Armies, “the peg fastened into a solid place will come loose. It will be cut off and fall, and the load hanging on it will be cut off.” Indeed, the Lord has spoken.
+[25] “At that time,” says the **Lord** of Heaven’s Armies, “the peg fastened into a solid place will come loose. It will be cut off and fall, and the load hanging on it will be cut off.” Indeed, the **Lord** has spoken.
 
 ## Chapter 23
 
@@ -1522,8 +1522,8 @@ forgotten prostitute!
 Play it well,
 play lots of songs,
 so you’ll be noticed.”
-[17] At the end of seventy years the Lord will revive Tyre. She will start making money again by selling her services to all the earth’s kingdoms.
-[18] Her profits and earnings will be set apart for the Lord. They will not be stored up or accumulated, for her profits will be given to those who live in the Lord’s presence and will be used to purchase large quantities of food and beautiful clothes.
+[17] At the end of seventy years the **Lord** will revive Tyre. She will start making money again by selling her services to all the earth’s kingdoms.
+[18] Her profits and earnings will be set apart for the **Lord**. They will not be stored up or accumulated, for her profits will be given to those who live in the **Lord**’s presence and will be used to purchase large quantities of food and beautiful clothes.
 
 ## Chapter 24
 
@@ -1776,8 +1776,8 @@ women come and use them for kindling.
 For these people lack understanding,
 therefore the one who made them has no compassion on them;
 the one who formed them has no mercy on them.
-[12] At that time the Lord will shake the tree, from the Euphrates River to the Stream of Egypt. Then you will be gathered up one by one, O Israelites.
-[13] At that time a large trumpet will be blown, and the ones lost in the land of Assyria will come, as well as the refugees in the land of Egypt. They will worship the Lord on the holy mountain in Jerusalem.
+[12] At that time the **Lord** will shake the tree, from the Euphrates River to the Stream of Egypt. Then you will be gathered up one by one, O Israelites.
+[13] At that time a large trumpet will be blown, and the ones lost in the land of Assyria will come, as well as the refugees in the land of Egypt. They will worship the **Lord** on the holy mountain in Jerusalem.
 
 ## Chapter 28
 
@@ -2050,7 +2050,7 @@ so shattered to bits that none of it can be salvaged.
 Among its fragments one cannot find a shard large enough
 to scoop a hot coal from a fire
 or to skim off water from a cistern.”
-[15] For this is what the Sovereign Lord, the Holy One of Israel says:
+[15] For this is what the Sovereign **Lord**, the Holy One of Israel says:
 “If you repented and patiently waited for me, you would be delivered;
 if you calmly trusted in me, you would find strength,
 but you are unwilling.
@@ -2464,31 +2464,31 @@ grief and suffering will disappear.
 [4] The chief adviser said to them, “Tell Hezekiah: ‘This is what the great king, the king of Assyria, says: “What is your source of confidence?
 [5] Your claim to have a strategy and military strength is just empty talk. In whom are you trusting, that you would dare to rebel against me?
 [6] Look, you must be trusting in Egypt, that splintered reed staff. If someone leans on it for support, it punctures his hand and wounds him. That is what Pharaoh king of Egypt does to all who trust in him!
-[7] Perhaps you will tell me, ‘We are trusting in the Lord our God.’ But Hezekiah is the one who eliminated his high places and altars and then told the people of Judah and Jerusalem, ‘You must worship at this altar.’
+[7] Perhaps you will tell me, ‘We are trusting in the **Lord** our God.’ But Hezekiah is the one who eliminated his high places and altars and then told the people of Judah and Jerusalem, ‘You must worship at this altar.’
 [8] Now make a deal with my master the king of Assyria, and I will give you 2,000 horses, provided you can find enough riders for them.
 [9] Certainly you will not refuse one of my master’s minor officials and trust in Egypt for chariots and horsemen.
-[10] Furthermore it was by the command of the Lord that I marched up against this land to destroy it. The Lord told me, ‘March up against this land and destroy it!’”’”
+[10] Furthermore it was by the command of the **Lord** that I marched up against this land to destroy it. The **Lord** told me, ‘March up against this land and destroy it!’”’”
 [11] Eliakim, Shebna, and Joah said to the chief adviser, “Speak to your servants in Aramaic, for we understand it. Don’t speak with us in the Judahite dialect in the hearing of the people who are on the wall.”
 [12] But the chief adviser said, “My master did not send me to speak these words only to your master and to you. His message is also for the men who sit on the wall, for they will eat their own excrement and drink their own urine along with you!”
 [13] The chief adviser then stood there and called out loudly in the Judahite dialect, “Listen to the message of the great king, the king of Assyria.
 [14] This is what the king says: ‘Don’t let Hezekiah mislead you, for he is not able to rescue you!
-[15] Don’t let Hezekiah talk you into trusting in the Lord by saying, “The Lord will certainly rescue us; this city will not be handed over to the king of Assyria.”
+[15] Don’t let Hezekiah talk you into trusting in the **Lord** by saying, “The **Lord** will certainly rescue us; this city will not be handed over to the king of Assyria.”
 [16] Don’t listen to Hezekiah!’ For this is what the king of Assyria says, ‘Send me a token of your submission and surrender to me. Then each of you may eat from his own vine and fig tree and drink water from his own cistern,
 [17] until I come and take you to a land just like your own—a land of grain and new wine, a land of bread and vineyards.
-[18] Hezekiah is misleading you when he says, “The Lord will rescue us.” Have any of the gods of the nations rescued their lands from the power of the king of Assyria?
+[18] Hezekiah is misleading you when he says, “The **Lord** will rescue us.” Have any of the gods of the nations rescued their lands from the power of the king of Assyria?
 [19] Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Indeed, did any gods rescue Samaria from my power?
-[20] Who among all the gods of these lands have rescued their lands from my power? So how can the Lord rescue Jerusalem from my power?’”
+[20] Who among all the gods of these lands have rescued their lands from my power? So how can the **Lord** rescue Jerusalem from my power?’”
 [21] They were silent and did not respond, for the king had ordered, “Don’t respond to him.”
 [22] Eliakim son of Hilkiah, the palace supervisor, accompanied by Shebna the scribe and Joah son of Asaph, the secretary, went to Hezekiah with their clothes torn and reported to him what the chief adviser had said.
 
 ## Chapter 37
 
-[1] When King Hezekiah heard this, he tore his clothes, put on sackcloth, and went to the Lord’s temple.
+[1] When King Hezekiah heard this, he tore his clothes, put on sackcloth, and went to the **Lord**’s temple.
 [2] Eliakim the palace supervisor, Shebna the scribe, and the leading priests, clothed in sackcloth, sent this message to the prophet Isaiah son of Amoz:
 [3] “This is what Hezekiah says: ‘This is a day of distress, insults, and humiliation, as when a baby is ready to leave the birth canal, but the mother lacks the strength to push it through.
-[4] Perhaps the Lord your God will hear all these things the chief adviser has spoken on behalf of his master, the king of Assyria, who sent him to taunt the living God. When the Lord your God hears, perhaps he will punish him for the things he has said. So pray for this remnant that remains.’”
+[4] Perhaps the **Lord** your God will hear all these things the chief adviser has spoken on behalf of his master, the king of Assyria, who sent him to taunt the living God. When the **Lord** your God hears, perhaps he will punish him for the things he has said. So pray for this remnant that remains.’”
 [5] When King Hezekiah’s servants came to Isaiah,
-[6] Isaiah said to them, “Tell your master this: ‘This is what the Lord has said: “Don’t be afraid because of the things you have heard—these insults the king of Assyria’s servants have hurled against me.
+[6] Isaiah said to them, “Tell your master this: ‘This is what the **Lord** has said: “Don’t be afraid because of the things you have heard—these insults the king of Assyria’s servants have hurled against me.
 [7] Look, I will take control of his mind; he will receive a report and return to his own land. I will cut him down with a sword in his own land.”’”
 [8] When the chief adviser heard the king of Assyria had departed from Lachish, he left and went to Libnah, where the king was campaigning.
 [9] The king heard that King Tirhakah of Ethiopia was marching out to fight him. He again sent messengers to Hezekiah, ordering them:
@@ -2496,15 +2496,15 @@ grief and suffering will disappear.
 [11] Certainly you have heard how the kings of Assyria have annihilated all lands. Do you really think you will be rescued?
 [12] Were the nations whom my predecessors destroyed—the nations of Gozan, Haran, Rezeph, and the people of Eden in Telassar—rescued by their gods?
 [13] Where is the king of Hamath or the king of Arpad or the kings of Lair, Sepharvaim, Hena, and Ivvah?’”
-[14] Hezekiah took the letter from the messengers and read it. Then Hezekiah went up to the Lord’s temple and spread it out before the Lord.
-[15] Hezekiah prayed before the Lord:
-[16] “O Lord of Heaven’s Armies, O God of Israel, who is enthroned on the cherubim! You alone are God over all the kingdoms of the earth. You made the sky and the earth.
-[17] Pay attention, Lord, and hear! Open your eyes, Lord, and observe! Listen to this entire message Sennacherib sent and how he taunts the living God!
-[18] It is true, Lord, that the kings of Assyria have destroyed all the nations and their lands.
+[14] Hezekiah took the letter from the messengers and read it. Then Hezekiah went up to the **Lord**’s temple and spread it out before the **Lord**.
+[15] Hezekiah prayed before the **Lord**:
+[16] “O **Lord** of Heaven’s Armies, O God of Israel, who is enthroned on the cherubim! You alone are God over all the kingdoms of the earth. You made the sky and the earth.
+[17] Pay attention, **Lord**, and hear! Open your eyes, **Lord**, and observe! Listen to this entire message Sennacherib sent and how he taunts the living God!
+[18] It is true, **Lord**, that the kings of Assyria have destroyed all the nations and their lands.
 [19] They have burned the gods of the nations, for they are not really gods, but only the product of human hands manufactured from wood and stone. That is why the Assyrians could destroy them.
-[20] Now, O Lord our God, rescue us from his power, so all the kingdoms of the earth may know that you alone are the Lord.”
-[21] Isaiah son of Amoz sent this message to Hezekiah: “This is what the Lord God of Israel has said: ‘As to what you have prayed to me concerning King Sennacherib of Assyria,
-[22] this is what the Lord says about him:
+[20] Now, O **Lord** our God, rescue us from his power, so all the kingdoms of the earth may know that you alone are the **Lord**.”
+[21] Isaiah son of Amoz sent this message to Hezekiah: “This is what the **Lord** God of Israel has said: ‘As to what you have prayed to me concerning King Sennacherib of Assyria,
+[22] this is what the **Lord** says about him:
 “‘The virgin daughter Zion
 despises you—she makes fun of you;
 daughter Jerusalem
@@ -2564,7 +2564,7 @@ nor will he build siege works against it.
 he will not enter this city,’ says the Lord.
 [35] I will shield this city and rescue it
 for the sake of my reputation and because of my promise to David my servant.”
-[36] The angel of the Lord went out and killed 185,000 troops in the Assyrian camp. When they got up early the next morning, there were all the corpses!
+[36] The angel of the **Lord** went out and killed 185,000 troops in the Assyrian camp. When they got up early the next morning, there were all the corpses!
 [37] So King Sennacherib of Assyria broke camp and went on his way. He went home and stayed in Nineveh.
 [38] One day, as he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer struck him down with the sword. They ran away to the land of Ararat; his son Esarhaddon replaced him as king.
 
@@ -2573,13 +2573,13 @@ for the sake of my reputation and because of my promise to David my servant.”
 
 ### The Lord Hears Hezekiah’s Prayer
 
-[1] In those days Hezekiah was stricken with a terminal illness. The prophet Isaiah son of Amoz visited him and told him, “This is what the Lord says, ‘Give instructions to your household, for you are about to die; you will not get well.’”
-[2] Hezekiah turned his face to the wall and prayed to the Lord,
-[3] “Please, Lord. Remember how I have served you faithfully and with wholehearted devotion, and how I have carried out your will.” Then Hezekiah wept bitterly.
-[4] The Lord’s message came to Isaiah,
-[5] “Go and tell Hezekiah: ‘This is what the Lord God of your ancestor David says: “I have heard your prayer; I have seen your tears. Look, I will add fifteen years to your life.
+[1] In those days Hezekiah was stricken with a terminal illness. The prophet Isaiah son of Amoz visited him and told him, “This is what the **Lord** says, ‘Give instructions to your household, for you are about to die; you will not get well.’”
+[2] Hezekiah turned his face to the wall and prayed to the **Lord**,
+[3] “Please, **Lord**. Remember how I have served you faithfully and with wholehearted devotion, and how I have carried out your will.” Then Hezekiah wept bitterly.
+[4] The **Lord’**s message came to Isaiah,
+[5] “Go and tell Hezekiah: ‘This is what the **Lord** God of your ancestor David says: “I have heard your prayer; I have seen your tears. Look, I will add fifteen years to your life.
 [6] I will also rescue you and this city from the king of Assyria. I will shield this city.”’”
-[7] Isaiah replied, “This is your sign from the Lord confirming that the Lord will do what he has said:
+[7] Isaiah replied, “This is your sign from the **Lord** confirming that the **Lord** will do what he has said:
 [8] Look, I will make the shadow go back ten steps on the stairs of Ahaz.” And then the shadow went back ten steps.
 
 ### Hezekiah’s Song of Thanks
@@ -2636,10 +2636,10 @@ for the rest of our lives in the Lord’s temple.”
 [2] Hezekiah welcomed them and showed them his storehouse with its silver, gold, spices, and high-quality olive oil, as well as his whole armory and everything in his treasuries. Hezekiah showed them everything in his palace and in his whole kingdom.
 [3] Isaiah the prophet visited King Hezekiah and asked him, “What did these men say? Where do they come from?” Hezekiah replied, “They come from the distant land of Babylon.”
 [4] Isaiah asked, “What have they seen in your palace?” Hezekiah replied, “They have seen everything in my palace. I showed them everything in my treasuries.”
-[5] Isaiah said to Hezekiah, “Listen to the message of the Lord of Heaven’s Armies:
-[6] ‘Look, a time is coming when everything in your palace and the things your ancestors have accumulated to this day will be carried away to Babylon; nothing will be left,’ says the Lord.
+[5] Isaiah said to Hezekiah, “Listen to the message of the **Lord** of Heaven’s Armies:
+[6] ‘Look, a time is coming when everything in your palace and the things your ancestors have accumulated to this day will be carried away to Babylon; nothing will be left,’ says the **Lord**.
 [7] ‘Some of your very own descendants whom you father will be taken away and will be made eunuchs in the palace of the king of Babylon.’”
-[8] Hezekiah said to Isaiah, “The Lord’s message that you have announced is appropriate.” Then he thought, “For there will be peace and stability during my lifetime.”
+[8] Hezekiah said to Isaiah, “The **Lord**’s message that you have announced is appropriate.” Then he thought, “For there will be peace and stability during my lifetime.”
 
 ## Chapter 40
 
@@ -3273,7 +3273,7 @@ says the Lord of Heaven’s Armies.
 
 ### The Lord is the Nations’ Only Hope
 
-[14] This is what the Lord says:
+[14] This is what the **Lord** says:
 “The profit of Egypt and the revenue of Ethiopia,
 along with the Sabeans, those tall men,
 will be brought to you and become yours.
@@ -3586,7 +3586,7 @@ a servant of rulers:
 princes will bow down,
 because of the faithful Lord,
 the Holy One of Israel who has chosen you.”
-[8] This is what the Lord says:
+[8] This is what the **Lord** says:
 “At the time I decide to show my favor, I will respond to you;
 in the day of deliverance I will help you;
 I will protect you and make you a covenant mediator for people,
@@ -3643,7 +3643,7 @@ dismissed and divorced.
 Who raised these children?
 Look, I was left all alone;
 where did these children come from?’”
-[22] This is what the Sovereign Lord says:
+[22] This is what the Sovereign **Lord** says:
 “Look I will raise my hand to the nations;
 I will raise my signal flag to the peoples.
 They will bring your sons in their arms
@@ -3847,10 +3847,10 @@ will no longer invade you.
 Get up, captive Jerusalem.
 Take off the iron chains around your neck,
 O captive daughter Zion.
-[3] For this is what the Lord says:
+[3] For this is what the **Lord** says:
 “You were sold for nothing,
 and you will not be redeemed for money.”
-[4] For this is what the Sovereign Lord says:
+[4] For this is what the Sovereign **Lord** says:
 “In the beginning my people went to live temporarily in Egypt;
 Assyria oppressed them for no good reason.
 [5] And now, what do we have here?” says the Lord.
@@ -4085,7 +4085,7 @@ who refrain from doing anything that is wrong.
 ‘The Lord will certainly exclude me from his people.’
 The eunuch should not say,
 ‘Look, I am like a dried-up tree.’”
-[4] For this is what the Lord says:
+[4] For this is what the **Lord** says:
 “For the eunuchs who observe my Sabbaths
 and choose what pleases me
 and are faithful to my covenant,
@@ -4361,7 +4361,7 @@ For he comes like a rushing stream
 driven on by wind sent from the Lord.
 [20] “A protector comes to Zion,
 to those in Jacob who repent of their rebellious deeds,” says the Lord.
-[21] “As for me, this is my promise to them,” says the Lord. “My Spirit, who is upon you, and my words, which I have placed in your mouth, will not depart from your mouth or from the mouths of your children and descendants from this time forward,” says the Lord.
+[21] “As for me, this is my promise to them,” says the **Lord**. “My Spirit, who is upon you, and my words, which I have placed in your mouth, will not depart from your mouth or from the mouths of your children and descendants from this time forward,” says the **Lord**.
 
 ## Chapter 60
 
@@ -4712,7 +4712,7 @@ I will pay them back exactly what they deserve,
 “Because they burned incense on the mountains
 and offended me on the hills,
 I will punish them in full measure.”
-[8] This is what the Lord says:
+[8] This is what the **Lord** says:
 “When juice is discovered in a cluster of grapes,
 someone says, ‘Don’t destroy it, for it contains juice.’
 So I will do for the sake of my servants—
@@ -4734,7 +4734,7 @@ because I called to you, and you did not respond;
 I spoke and you did not listen.
 You did evil before me;
 you chose to do what displeases me.”
-[13] So this is what the Sovereign Lord says:
+[13] So this is what the Sovereign **Lord** says:
 “Look, my servants will eat, but you will be hungry.
 Look, my servants will drink, but you will be thirsty.
 Look, my servants will rejoice, but you will be humiliated.
@@ -4836,7 +4836,7 @@ Share in her great joy,
 all you who have mourned over her!
 [11] For you will nurse from her satisfying breasts and be nourished;
 you will feed with joy from her milk-filled breasts.
-[12] For this is what the Lord says:
+[12] For this is what the **Lord** says:
 “Look, I am ready to extend to her prosperity that will flow like a river,
 the riches of nations will flow into her like a stream that floods its banks.
 You will nurse from her breast and be carried at her side;
@@ -4855,11 +4855,11 @@ his battle cry, and his flaming arrows.
 [16] For the Lord judges all humanity
 with fire and his sword;
 the Lord will kill many.
-[17] “As for those who consecrate and ritually purify themselves so they can follow their leader and worship in the sacred orchards, those who eat the flesh of pigs and other disgusting creatures, like mice —they will all be destroyed together,” says the Lord.
+[17] “As for those who consecrate and ritually purify themselves so they can follow their leader and worship in the sacred orchards, those who eat the flesh of pigs and other disgusting creatures, like mice —they will all be destroyed together,” says the **Lord**.
 [18] “I hate their deeds and thoughts! So I am coming to gather all the nations and ethnic groups; they will come and witness my splendor.
 [19] I will perform a mighty act among them and then send some of those who remain to the nations—to Tarshish, Pul, Lud (known for its archers), Tubal, Javan, and to the distant coastlands that have not heard about me or seen my splendor. They will tell the nations of my splendor.
-[20] They will bring back all your countrymen from all the nations as an offering to the Lord. They will bring them on horses, in chariots, in wagons, on mules, and on camels to my holy hill Jerusalem,” says the Lord, “just as the Israelites bring offerings to the Lord’s temple in ritually pure containers.
-[21] And I will choose some of them as priests and Levites,” says the Lord.
-[22] “For just as the new heavens and the new earth I am about to make will remain standing before me,” says the Lord, “so your descendants and your name will remain.
-[23] From one month to the next and from one Sabbath to the next, all people will come to worship me,” says the Lord.
+[20] They will bring back all your countrymen from all the nations as an offering to the **Lord**. They will bring them on horses, in chariots, in wagons, on mules, and on camels to my holy hill Jerusalem,” says the **Lord**, “just as the Israelites bring offerings to the **Lord**’s temple in ritually pure containers.
+[21] And I will choose some of them as priests and Levites,” says the **Lord**.
+[22] “For just as the new heavens and the new earth I am about to make will remain standing before me,” says the **Lord**, “so your descendants and your name will remain.
+[23] From one month to the next and from one Sabbath to the next, all people will come to worship me,” says the **Lord**.
 [24] “They will go out and observe the corpses of those who rebelled against me, for the maggots that eat them will not die, and the fire that consumes them will not die out. All people will find the sight abhorrent.”

@@ -253,7 +253,7 @@ and says to him, ‘What have you done?’
 [22] “But you, his son Belshazzar, have not humbled yourself, although you knew all this.
 [23] Instead, you have exalted yourself against the Lord of heaven. You brought before you the vessels from his temple, and you and your nobles, together with your wives and concubines, drank wine from them. You praised the gods of silver, gold, bronze, iron, wood, and stone—gods that cannot see or hear or comprehend. But you have not glorified the God who has in his control your very breath and all your ways!
 [24] Therefore the palm of a hand was sent from him, and this writing was inscribed.
-[25] “This is the writing that was inscribed: mene, mene, teqel, and pharsin.
+[25] “This is the writing that was inscribed: **mene**, **mene**, **teqel**, and **pharsin**.
 [26] This is the interpretation of the words: As for Mene —God has numbered your kingdom’s days and brought it to an end.
 [27] As for Teqel —you are weighed on the balances and found to be lacking.
 [28] As for Peres —your kingdom is divided and given over to the Medes and Persians.”
@@ -419,19 +419,19 @@ all authorities will serve him and obey him.’
 ### Daniel Prays for His People
 
 [1] In the first year of Darius son of Ahasuerus, who was of Median descent and who had been appointed king over the Babylonian empire—
-[2] in the first year of his reign I, Daniel, came to understand from the sacred books that the number of years for the fulfilling of the desolation of Jerusalem, which had come as the Lord’s message to the prophet Jeremiah, would be 70 years.
+[2] in the first year of his reign I, Daniel, came to understand from the sacred books that the number of years for the fulfilling of the desolation of Jerusalem, which had come as the **Lord**’s message to the prophet Jeremiah, would be 70 years.
 [3] So I turned my attention to the Lord God to implore him by prayer and requests, with fasting, sackcloth, and ashes.
-[4] I prayed to the Lord my God, confessing in this way:
+[4] I prayed to the **Lord** my God, confessing in this way:
 [5] we have sinned! We have done what is wrong and wicked; we have rebelled by turning away from your commandments and standards.
 [6] We have not paid attention to your servants the prophets, who spoke by your authority to our kings, our leaders, and our ancestors, and to all the inhabitants of the land as well.
 [7] “You are righteous, O Lord, but we are humiliated this day —the people of Judah and the inhabitants of Jerusalem and all Israel, both near and far away in all the countries in which you have scattered them, because they have behaved unfaithfully toward you.
-[8] O Lord, we have been humiliated —our kings, our leaders, and our ancestors—because we have sinned against you.
+[8] O **Lord**, we have been humiliated —our kings, our leaders, and our ancestors—because we have sinned against you.
 [9] Yet the Lord our God is compassionate and forgiving, even though we have rebelled against him.
-[10] We have not obeyed the Lord our God by living according to his laws that he set before us through his servants the prophets.
+[10] We have not obeyed the **Lord** our God by living according to his laws that he set before us through his servants the prophets.
 [11] “All Israel has broken your law and turned away by not obeying you. Therefore you have poured out on us the judgment solemnly threatened in the law of Moses the servant of God, for we have sinned against you.
 [12] He has carried out his threats against us and our rulers who were over us by bringing great calamity on us—what has happened to Jerusalem has never been equaled under all heaven!
-[13] Just as it is written in the law of Moses, so all this calamity has come on us. Still we have not tried to pacify the Lord our God by turning back from our sin and by seeking wisdom from your reliable moral standards.
-[14] The Lord was mindful of the calamity, and he brought it on us. For the Lord our God is just in all he has done, and we have not obeyed him.
+[13] Just as it is written in the law of Moses, so all this calamity has come on us. Still we have not tried to pacify the **Lord** our God by turning back from our sin and by seeking wisdom from your reliable moral standards.
+[14] The **Lord** was mindful of the calamity, and he brought it on us. For the **Lord** our God is just in all he has done, and we have not obeyed him.
 [15] “Now, O Lord our God, who brought your people out of the land of Egypt with great power and made a name for yourself that is remembered to this day—we have sinned and behaved wickedly.
 [16] O Lord, according to all your justice, please turn your raging anger away from your city Jerusalem, your holy mountain. For due to our sins and the iniquities of our ancestors, Jerusalem and your people are mocked by all our neighbors.
 [17] “So now, our God, accept the prayer and requests of your servant, and show favor to your devastated sanctuary for your own sake.
@@ -440,7 +440,7 @@ all authorities will serve him and obey him.’
 
 ### Gabriel Gives to Daniel a Prophecy of Seventy Weeks
 
-[20] While I was still speaking and praying, confessing my sin and the sin of my people Israel and presenting my request before the Lord my God concerning his holy mountain —
+[20] While I was still speaking and praying, confessing my sin and the sin of my people Israel and presenting my request before the **Lord** my God concerning his holy mountain —
 [21] yes, while I was still praying, the man Gabriel, whom I had seen previously in a vision, was approaching me in my state of extreme weariness, around the time of the evening offering.
 [22] He spoke with me, instructing me as follows: “Daniel, I have now come to impart understanding to you.
 [23] At the beginning of your requests a message went out, and I have come to convey it to you, for you are of great value in God’s sight. Therefore consider the message and understand the vision:

@@ -80,7 +80,7 @@ when he counters my argument.
 
 ### The Lord Assures Habakkuk
 
-[2] The Lord responded:
+[2] The **Lord** responded:
 “Write down this message.
 Record it legibly on tablets
 so the one who announces it may read it easily.

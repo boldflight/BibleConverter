@@ -16,13 +16,13 @@
 
 ### Satan’s Accusation of Job
 
-[6] Now the day came when the sons of God came to present themselves before theLord—and Satan also arrived among them.
-[7] TheLord said to Satan, “Where have you come from?” And Satan answered theLord, “From roving about on the earth, and from walking back and forth across it.”
-[8] So theLord said to Satan, “Have you considered my servant Job? There is no one like him on the earth, a blameless and upright man, one who fears God and turns away from evil.”
-[9] Then Satan answered theLord, “Is it for nothing that Job fears God?
+[6] Now the day came when the sons of God came to present themselves before the**Lord**—and Satan also arrived among them.
+[7] The**Lord** said to Satan, “Where have you come from?” And Satan answered the**Lord**, “From roving about on the earth, and from walking back and forth across it.”
+[8] So the**Lord** said to Satan, “Have you considered my servant Job? There is no one like him on the earth, a blameless and upright man, one who fears God and turns away from evil.”
+[9] Then Satan answered the**Lord**, “Is it for nothing that Job fears God?
 [10] Have you not made a hedge around him and his household and all that he has on every side? You have blessed the work of his hands, and his livestock have increased in the land.
 [11] But extend your hand and strike everything he has, and he will no doubt curse you to your face!”
-[12] So theLord said to Satan, “All right then, everything he has is in your power. Only do not extend your hand against the man himself!” So Satan went out from the presence of theLord.
+[12] So the**Lord** said to Satan, “All right then, everything he has is in your power. Only do not extend your hand against the man himself!” So Satan went out from the presence of the**Lord**.
 
 ### Job’s Integrity in Adversity
 
@@ -34,7 +34,7 @@
 [18] While this one was still speaking another messenger arrived and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house,
 [19] and suddenly a great wind swept across the wilderness and struck the four corners of the house, and it fell on the young people, and they died! And I—only I alone—escaped to tell you!”
 [20] Then Job got up and tore his robe. He shaved his head, and then he threw himself down with his face to the ground.
-[21] He said, “Naked I came from my mother’s womb, and naked I will return there. TheLord gives, and theLord takes away. May the name of theLord be blessed!”
+[21] He said, “Naked I came from my mother’s womb, and naked I will return there. The**Lord** gives, and the**Lord** takes away. May the name of the**Lord** be blessed!”
 [22] In all this Job did not sin, nor did he charge God with moral impropriety.
 
 ## Chapter 2
@@ -42,16 +42,16 @@
 
 ### Satan’s Additional Charge
 
-[1] Again the day came when the sons of God came to present themselves before theLord, and Satan also arrived among them to present himself before theLord.
-[2] And theLord said to Satan, “Where have you come from?” Satan answered theLord, “From roving about on the earth, and from walking back and forth across it.”
-[3] Then theLord said to Satan, “Have you considered my servant Job? For there is no one like him on the earth, a pure and upright man, one who fears God and turns away from evil. And he still holds firmly to his integrity, so that you stirred me up to destroy him without reason.”
-[4] But Satan answered theLord, “Skin for skin! Indeed, a man will give up all that he has to save his life.
+[1] Again the day came when the sons of God came to present themselves before the**Lord**, and Satan also arrived among them to present himself before the**Lord**.
+[2] And the**Lord** said to Satan, “Where have you come from?” Satan answered the**Lord**, “From roving about on the earth, and from walking back and forth across it.”
+[3] Then the**Lord** said to Satan, “Have you considered my servant Job? For there is no one like him on the earth, a pure and upright man, one who fears God and turns away from evil. And he still holds firmly to his integrity, so that you stirred me up to destroy him without reason.”
+[4] But Satan answered the**Lord**, “Skin for skin! Indeed, a man will give up all that he has to save his life.
 [5] But extend your hand and strike his bone and his flesh, and he will no doubt curse you to your face!”
-[6] So theLord said to Satan, “All right, he is in your power; only preserve his life.”
+[6] So the**Lord** said to Satan, “All right, he is in your power; only preserve his life.”
 
 ### Job’s Integrity in Suffering
 
-[7] So Satan went out from the presence of theLord, and he afflicted Job with a malignant ulcer from the soles of his feet to the top of his head.
+[7] So Satan went out from the presence of the**Lord**, and he afflicted Job with a malignant ulcer from the soles of his feet to the top of his head.
 [8] Job took a shard of broken pottery to scrape himself with while he was sitting among the ashes.
 [9] Then his wife said to him, “Are you still holding firmly to your integrity? Curse God, and die!”
 [10] But he replied, “You’re talking like one of the godless women would do! Should we receive what is good from God, and not also receive what is evil?” In all this Job did not sin by what he said.
@@ -2483,7 +2483,7 @@ for he does not regard all the wise in heart.”
 
 ### The Lord’s First Speech
 
-[1] Then the Lord answered Job out of the whirlwind:
+[1] Then the **Lord** answered Job out of the whirlwind:
 [2] “Who is this who darkens counsel
 with words without knowledge?
 [3] Get ready for a difficult task like a man;
@@ -2654,7 +2654,7 @@ there it is.”
 
 ### Job’s Reply to God’s Challenge
 
-[1] Then the Lord answered Job:
+[1] Then the **Lord** answered Job:
 [2] “Will the one who contends with the Almighty correct him?
 Let the person who accuses God give him an answer!”
 
@@ -2666,7 +2666,7 @@ twice, but I will say no more.”
 
 ### The Lord’s Second Speech
 
-[6] Then the Lord answered Job from the whirlwind:
+[6] Then the **Lord** answered Job from the whirlwind:
 [7] “Get ready for a difficult task like a man.
 I will question you and you will inform me.
 [8] Would you indeed annul my justice?
@@ -2792,7 +2792,7 @@ it is king over all that are proud.”
 
 ### Job’s Confession
 
-[1] Then Job answered the Lord:
+[1] Then Job answered the **Lord**:
 [2] “I know that you can do all things;
 no purpose of yours can be thwarted;
 [3] you asked, ‘Who is this who darkens counsel without knowledge?’
@@ -2810,12 +2810,12 @@ and I repent in dust and ashes!”
 
 ### Job’s Restoration
 
-[7] After the Lord had spoken these things to Job, he said to Eliphaz the Temanite, “My anger is stirred up against you and your two friends, because you have not spoken about me what is right, as my servant Job has.
+[7] After the **Lord** had spoken these things to Job, he said to Eliphaz the Temanite, “My anger is stirred up against you and your two friends, because you have not spoken about me what is right, as my servant Job has.
 [8] So now take seven bulls and seven rams and go to my servant Job and offer a burnt offering for yourselves. And my servant Job will intercede for you, and I will respect him, so that I do not deal with you according to your folly, because you have not spoken about me what is right, as my servant Job has.”
-[9] So they went, Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite, and did just as the Lord had told them; and the Lord had respect for Job.
-[10] So the Lord restored what Job had lost after he prayed for his friends, and the Lord doubled all that had belonged to Job.
-[11] So they came to him, all his brothers and sisters and all who had known him before, and they dined with him in his house. They comforted him and consoled him for all the trouble the Lord had brought on him, and each one gave him a piece of silver and a gold ring.
-[12] So the Lord blessed the second part of Job’s life more than the first. He had 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 female donkeys.
+[9] So they went, Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite, and did just as the **Lord** had told them; and the **Lord** had respect for Job.
+[10] So the **Lord** restored what Job had lost after he prayed for his friends, and the **Lord** doubled all that had belonged to Job.
+[11] So they came to him, all his brothers and sisters and all who had known him before, and they dined with him in his house. They comforted him and consoled him for all the trouble the **Lord** had brought on him, and each one gave him a piece of silver and a gold ring.
+[12] So the **Lord** blessed the second part of Job’s life more than the first. He had 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 female donkeys.
 [13] And he also had seven sons and three daughters.
 [14] The first daughter he named Jemimah, the second Keziah, and the third Keren-Happuch.
 [15] Nowhere in all the land could women be found who were as beautiful as Job’s daughters, and their father granted them an inheritance alongside their brothers.

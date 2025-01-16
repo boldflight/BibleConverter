@@ -52,7 +52,7 @@ a wicked military strategist.
 
 ### Oracle of Deliverance to Judah
 
-[12] This is what the Lord says:
+[12] This is what the **Lord** says:
 “Even though they are powerful —
 and what is more, even though their army is numerous —
 nevertheless, they will be destroyed and trickle away!

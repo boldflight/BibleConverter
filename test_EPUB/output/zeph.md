@@ -5,7 +5,7 @@
 
 ### Introduction
 
-[1] This is the Lord’s message that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah during the time of Josiah son of Amon, king of Judah:
+[1] This is the **Lord’**s message that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah during the time of Josiah son of Amon, king of Judah:
 
 ### The Lord’s Day of Judgment is Approaching
 

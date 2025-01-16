@@ -10,17 +10,17 @@
 [3] Sometime later Naomi’s husband Elimelech died, so she and her two sons were left alone.
 [4] Both her sons married Moabite women. (One was named Orpah and the other Ruth.) And they continued to live there about ten years.
 [5] Then Naomi’s two sons, Mahlon and Kilion, also died. So the woman was left all alone—bereaved of her two children as well as her husband!
-[6] So she decided to return home from the region of Moab, accompanied by her daughters-in-law, because while she was living in Moab she had heard that the Lord had shown concern for his people, reversing the famine by providing abundant crops.
+[6] So she decided to return home from the region of Moab, accompanied by her daughters-in-law, because while she was living in Moab she had heard that the **Lord** had shown concern for his people, reversing the famine by providing abundant crops.
 
 ### Ruth Returns with Naomi
 
 [7] Now as she and her two daughters-in-law began to leave the place where she had been living to return to the land of Judah,
-[8] Naomi said to her two daughters-in-law, “Listen to me! Each of you should return to your mother’s home. May the Lord show you the same kind of devotion that you have shown to your deceased husbands and to me.
-[9] May the Lord enable each of you to find security in the home of a new husband.” Then she kissed them goodbye, and they wept loudly.
+[8] Naomi said to her two daughters-in-law, “Listen to me! Each of you should return to your mother’s home. May the **Lord** show you the same kind of devotion that you have shown to your deceased husbands and to me.
+[9] May the **Lord** enable each of you to find security in the home of a new husband.” Then she kissed them goodbye, and they wept loudly.
 [10] But they said to her, “No! We will return with you to your people.”
 [11] But Naomi replied, “Go back home, my daughters! There is no reason for you to return to Judah with me. I am no longer capable of giving birth to sons who might become your husbands!
 [12] Go back home, my daughters! For I am too old to get married again. Even if I thought that there was hope that I could get married tonight and conceive sons,
-[13] surely you would not want to wait until they were old enough to marry. Surely you would not remain unmarried all that time! No, my daughters, you must not return with me. For my intense suffering is too much for you to bear. For the Lord is afflicting me!”
+[13] surely you would not want to wait until they were old enough to marry. Surely you would not remain unmarried all that time! No, my daughters, you must not return with me. For my intense suffering is too much for you to bear. For the **Lord** is afflicting me!”
 [14] Again they wept loudly. Then Orpah kissed her mother-in-law goodbye, but Ruth clung tightly to her.
 [15] So Naomi said, “Look, your sister-in-law is returning to her people and to her god. Follow your sister-in-law back home!”
 [16] But Ruth replied,
@@ -38,7 +38,7 @@ Only death will be able to separate me from you!”
 ### Naomi and Ruth Arrive in Bethlehem
 
 [20] But she replied to them, “Don’t call me ‘Naomi’! Call me ‘Mara’ because the Sovereign One has treated me very harshly.
-[21] I left here full, but the Lord has caused me to return empty-handed. Why do you call me ‘Naomi,’ seeing that the Lord has opposed me, and the Sovereign One has caused me to suffer?”
+[21] I left here full, but the **Lord** has caused me to return empty-handed. Why do you call me ‘Naomi,’ seeing that the **Lord** has opposed me, and the Sovereign One has caused me to suffer?”
 [22] So Naomi returned, accompanied by her Moabite daughter-in-law Ruth, who came back with her from the region of Moab. (Now they arrived in Bethlehem at the beginning of the barley harvest.)
 
 ## Chapter 2
@@ -52,7 +52,7 @@ Only death will be able to separate me from you!”
 
 ### Boaz and Ruth Meet
 
-[4] Now at that very moment, Boaz arrived from Bethlehem and greeted the harvesters, “May the Lord be with you!” They replied, “May the Lord bless you!”
+[4] Now at that very moment, Boaz arrived from Bethlehem and greeted the harvesters, “May the **Lord** be with you!” They replied, “May the **Lord** bless you!”
 [5] Boaz asked his servant in charge of the harvesters, “To whom does this young woman belong?”
 [6] The servant in charge of the harvesters replied, “She’s the young Moabite woman who came back with Naomi from the region of Moab.
 [7] She asked, ‘May I follow the harvesters and gather grain among the bundles?’ Since she arrived she has been working hard from this morning until now —except for sitting in the resting hut a short time.”
@@ -60,7 +60,7 @@ Only death will be able to separate me from you!”
 [9] Take note of the field where the men are harvesting and follow behind with the female workers. I will tell the men to leave you alone. When you are thirsty, you may go to the water jars and drink some of the water the servants draw.”
 [10] Ruth knelt before him with her forehead to the ground and said to him, “Why are you so kind and so attentive to me, even though I am a foreigner?”
 [11] Boaz replied to her, “I have been given a full report of all that you have done for your mother-in-law following the death of your husband—how you left your father and your mother, as well as your homeland, and came to live among people you did not know previously.
-[12] May the Lord reward your efforts! May your acts of kindness be repaid fully by the Lord God of Israel, from whom you have sought protection.”
+[12] May the **Lord** reward your efforts! May your acts of kindness be repaid fully by the **Lord** God of Israel, from whom you have sought protection.”
 [13] She said, “You really are being kind to me, sir, for you have reassured and encouraged me, your servant, even though I will never be like one of your servants.”
 [14] Later during the mealtime Boaz said to her, “Come here and have some food! Dip your bread in the vinegar.” So she sat down beside the harvesters. Then he handed her some roasted grain. She ate until she was full and saved the rest.
 [15] When she got up to gather grain, Boaz told his male servants, “Let her gather grain even among the bundles. Don’t chase her off!
@@ -71,7 +71,7 @@ Only death will be able to separate me from you!”
 
 [18] She carried it back to town, and her mother-in-law saw how much grain she had gathered. Then Ruth gave her the roasted grain she had saved from mealtime.
 [19] Her mother-in-law asked her, “Where did you gather grain today? Where did you work? May the one who took notice of you be rewarded!” So Ruth told her mother-in-law with whom she had worked. She said, “The name of the man with whom I worked today is Boaz.”
-[20] Naomi said to her daughter-in-law, “May he be rewarded by the Lord because he has shown loyalty to the living on behalf of the dead!” Then Naomi said to her, “This man is a close relative of ours; he is our guardian.”
+[20] Naomi said to her daughter-in-law, “May he be rewarded by the **Lord** because he has shown loyalty to the living on behalf of the dead!” Then Naomi said to her, “This man is a close relative of ours; he is our guardian.”
 [21] Ruth the Moabite replied, “He even told me, ‘You may go along beside my servants until they have finished gathering all my harvest!’”
 [22] Naomi then said to her daughter-in-law Ruth, “It is good, my daughter, that you should go out to work with his female servants. That way you will not be harmed, which could happen in another field.”
 [23] So Ruth worked beside Boaz’s female servants, gathering grain until the end of the barley harvest as well as the wheat harvest. After that she stayed home with her mother-in-law.
@@ -93,10 +93,10 @@ Only death will be able to separate me from you!”
 [7] When Boaz had finished his meal and was feeling satisfied, he lay down to sleep at the far end of the grain heap. Then Ruth crept up quietly, uncovered his legs, and lay down beside him.
 [8] In the middle of the night he was startled and turned over. Now he saw a woman lying beside him!
 [9] He said, “Who are you?” She replied, “I am Ruth, your servant. Marry your servant, for you are a guardian of the family interests.”
-[10] He said, “May you be rewarded by the Lord, my dear! This act of devotion is greater than what you did before. For you have not sought to marry one of the young men, whether rich or poor.
+[10] He said, “May you be rewarded by the **Lord**, my dear! This act of devotion is greater than what you did before. For you have not sought to marry one of the young men, whether rich or poor.
 [11] Now, my dear, don’t worry! I intend to do for you everything you propose, for everyone in the village knows that you are a worthy woman.
 [12] Now yes, it is true that I am a guardian, but there is another guardian who is a closer relative than I am.
-[13] Remain here tonight. Then in the morning, if he agrees to marry you, fine, let him do so. But if he does not want to do so, I promise, as surely as the Lord lives, to marry you. Sleep here until morning.”
+[13] Remain here tonight. Then in the morning, if he agrees to marry you, fine, let him do so. But if he does not want to do so, I promise, as surely as the **Lord** lives, to marry you. Sleep here until morning.”
 [14] So she slept beside him until morning. She woke up while it was still dark. Boaz thought, “No one must know that a woman visited the threshing floor.”
 [15] Then he said, “Hold out the shawl you are wearing and grip it tightly.” As she held it tightly, he measured out about sixty pounds of barley into the shawl and put it on her shoulders. Then he went into town,
 [16] and she returned to her mother-in-law.
@@ -121,13 +121,13 @@ Only death will be able to separate me from you!”
 [8] So the guardian said to Boaz, “You may acquire it,” and he removed his sandal.
 [9] Then Boaz said to the leaders and all the people, “You are witnesses today that I have acquired from Naomi all that belonged to Elimelech, Kilion, and Mahlon.
 [10] I have also acquired Ruth the Moabite, the wife of Mahlon, as my wife to raise up a descendant who will inherit his property so the name of the deceased might not disappear from among his relatives and from his village. You are witnesses today.”
-[11] All the people who were at the gate and the elders replied, “We are witnesses. May the Lord make the woman who is entering your home like Rachel and Leah, both of whom built up the house of Israel! May you prosper in Ephrathah and become famous in Bethlehem.
-[12] May your family become like the family of Perez —whom Tamar bore to Judah—through the descendants the Lord gives you by this young woman.”
+[11] All the people who were at the gate and the elders replied, “We are witnesses. May the **Lord** make the woman who is entering your home like Rachel and Leah, both of whom built up the house of Israel! May you prosper in Ephrathah and become famous in Bethlehem.
+[12] May your family become like the family of Perez —whom Tamar bore to Judah—through the descendants the **Lord** gives you by this young woman.”
 
 ### A Grandson is Born to Naomi
 
-[13] So Boaz married Ruth and slept with her. The Lord enabled her to conceive and she gave birth to a son.
-[14] The village women said to Naomi, “May the Lord be praised because he has not left you without a guardian today! May he become famous in Israel!
+[13] So Boaz married Ruth and slept with her. The **Lord** enabled her to conceive and she gave birth to a son.
+[14] The village women said to Naomi, “May the **Lord** be praised because he has not left you without a guardian today! May he become famous in Israel!
 [15] He will encourage you and provide for you when you are old, for your daughter-in-law, who loves you, has given him birth. She is better to you than seven sons!”
 [16] Naomi took the child and placed him on her lap; she became his caregiver.
 [17] The neighbor women gave him a name, saying, “A son has been born to Naomi.” They named him Obed. Now he became the father of Jesse—David’s father.

@@ -5,22 +5,22 @@
 
 ### Jonah Tries to Run from the Lord
 
-[1] The Lord’s message came to Jonah son of Amittai,
+[1] The **Lord’**s message came to Jonah son of Amittai,
 [2] “Go immediately to Nineveh, that large capital city, and announce judgment against its people because their wickedness has come to my attention.”
-[3] Instead, Jonah immediately headed off to Tarshish to escape from the commission of the Lord. He traveled to Joppa and found a merchant ship heading to Tarshish. So he paid the fare and went aboard it to go with them to Tarshish, far away from the Lord.
-[4] But the Lord hurled a powerful wind on the sea. Such a violent tempest arose on the sea that the ship threatened to break up!
+[3] Instead, Jonah immediately headed off to Tarshish to escape from the commission of the **Lord**. He traveled to Joppa and found a merchant ship heading to Tarshish. So he paid the fare and went aboard it to go with them to Tarshish, far away from the **Lord**.
+[4] But the **Lord** hurled a powerful wind on the sea. Such a violent tempest arose on the sea that the ship threatened to break up!
 [5] The sailors were so afraid that each cried out to his own god and they flung the ship’s cargo overboard to make the ship lighter. Jonah, meanwhile, had gone down into the hold below deck, had lain down, and was sound asleep.
 [6] The ship’s captain approached him and said, “What are you doing asleep? Get up! Cry out to your god! Perhaps your god might take notice of us so that we might not die!”
 [7] The sailors said to one another, “Come on, let’s cast lots to find out whose fault it is that this disaster has overtaken us.” So they cast lots, and Jonah was singled out.
 [8] They said to him, “Tell us, whose fault is it that this disaster has overtaken us? What’s your occupation? Where do you come from? What’s your country? And who are your people?”
-[9] He said to them, “I am a Hebrew, and I worship the Lord, the God of heaven, who made the sea and the dry land.”
-[10] Hearing this, the men became even more afraid and said to him, “What have you done?” (The men said this because they knew that he was trying to escape from the Lord, because he had previously told them.)
+[9] He said to them, “I am a Hebrew, and I worship the **Lord**, the God of heaven, who made the sea and the dry land.”
+[10] Hearing this, the men became even more afraid and said to him, “What have you done?” (The men said this because they knew that he was trying to escape from the **Lord**, because he had previously told them.)
 [11] Because the storm was growing worse and worse, they said to him, “What should we do to you so that the sea will calm down for us?”
 [12] He said to them, “Pick me up and throw me into the sea so that the sea will calm down for you, because I know it’s my fault you are in this severe storm.”
 [13] Instead, they tried to row back to land, but they were not able to do so because the storm kept growing worse and worse.
-[14] So they cried out to the Lord, “Oh, please, Lord, don’t let us die on account of this man! Don’t hold us guilty of shedding innocent blood. After all, you, Lord, have done just as you pleased.”
+[14] So they cried out to the **Lord**, “Oh, please, **Lord**, don’t let us die on account of this man! Don’t hold us guilty of shedding innocent blood. After all, you, **Lord**, have done just as you pleased.”
 [15] So they picked Jonah up and threw him into the sea, and the sea stopped raging.
-[16] The men feared the Lord greatly and earnestly vowed to offer lavish sacrifices to the Lord.
+[16] The men feared the **Lord** greatly and earnestly vowed to offer lavish sacrifices to the **Lord**.
 
 ### Jonah Prays
 
@@ -28,7 +28,7 @@
 
 ## Chapter 2
 
-[1] Jonah prayed to the Lord his God from the stomach of the fish
+[1] Jonah prayed to the **Lord** his God from the stomach of the fish
 [2] and said,
 “I called out to the Lord from my distress,
 and he answered me;
@@ -52,16 +52,16 @@ And my prayer came to you, to your holy temple.
 [9] But as for me, I promise to offer a sacrifice to you with a public declaration of praise;
 I will surely do what I have promised.
 Salvation belongs to the Lord!”
-[10] Then the Lord commanded the fish and it vomited Jonah out onto dry land.
+[10] Then the **Lord** commanded the fish and it vomited Jonah out onto dry land.
 
 ## Chapter 3
 
 
 ### The People of Nineveh Respond to Jonah’s Warning
 
-[1] The Lord’s message came to Jonah a second time,
+[1] The **Lord’**s message came to Jonah a second time,
 [2] “Go immediately to Nineveh, that large city, and proclaim to it the message that I tell you.”
-[3] So Jonah went immediately to Nineveh, in keeping with the Lord’s message. Now Nineveh was an enormous city —it required three days to walk through it!
+[3] So Jonah went immediately to Nineveh, in keeping with the **Lord’**s message. Now Nineveh was an enormous city —it required three days to walk through it!
 [4] Jonah began to enter the city by going one day’s walk, announcing, “At the end of forty days, Nineveh will be overthrown!”
 [5] The people of Nineveh believed in God, and they declared a fast and put on sackcloth, from the greatest to the least of them.
 [6] When the news reached the king of Nineveh, he got up from his throne, took off his royal robe, put on sackcloth, and sat on ashes.
@@ -76,13 +76,13 @@ Salvation belongs to the Lord!”
 ### Jonah Responds to God’s Kindness
 
 [1] This displeased Jonah terribly and he became very angry.
-[2] He prayed to the Lord and said, “Oh, Lord, this is just what I thought would happen when I was in my own country. This is what I tried to prevent by attempting to escape to Tarshish, because I knew that you are a gracious and compassionate God, slow to anger and abounding in mercy, and one who relents concerning threatened judgment.
-[3] So now, Lord, kill me instead, because I would rather die than live!”
-[4] The Lord said, “Are you really so very angry?”
+[2] He prayed to the **Lord** and said, “Oh, **Lord**, this is just what I thought would happen when I was in my own country. This is what I tried to prevent by attempting to escape to Tarshish, because I knew that you are a gracious and compassionate God, slow to anger and abounding in mercy, and one who relents concerning threatened judgment.
+[3] So now, **Lord**, kill me instead, because I would rather die than live!”
+[4] The **Lord** said, “Are you really so very angry?”
 [5] Jonah left the city and sat down east of it. He made a shelter for himself there and sat down under it in the shade to see what would happen to the city.
-[6] The Lord God appointed a little plant and caused it to grow up over Jonah to be a shade over his head to rescue him from his misery. Now Jonah was very delighted about the little plant.
+[6] The **Lord** God appointed a little plant and caused it to grow up over Jonah to be a shade over his head to rescue him from his misery. Now Jonah was very delighted about the little plant.
 [7] So God sent a worm at dawn the next day, and it attacked the little plant so that it dried up.
 [8] When the sun began to shine, God sent a hot east wind. So the sun beat down on Jonah’s head, and he grew faint. So he despaired of life and said, “I would rather die than live!”
 [9] God said to Jonah, “Are you really so very angry about the little plant?” And he said, “I am as angry as I could possibly be!”
-[10] The Lord said, “You were upset about this little plant, something for which you did not work, nor did you do anything to make it grow. It grew up overnight and died the next day.
+[10] The **Lord** said, “You were upset about this little plant, something for which you did not work, nor did you do anything to make it grow. It grew up overnight and died the next day.
 [11] Should I not be more concerned about Nineveh, this enormous city? There are more than 120,000 people in it who do not know right from wrong, as well as many animals.”

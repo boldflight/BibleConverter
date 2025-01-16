@@ -5,7 +5,7 @@
 
 ### The Lord Commissions Joshua
 
-[1] After Moses the Lord’s servant died, the Lord said to Joshua son of Nun, Moses’ assistant:
+[1] After Moses the **Lord**’s servant died, the **Lord** said to Joshua son of Nun, Moses’ assistant:
 [2] “Moses my servant is dead. Get ready! Cross the Jordan River. Lead these people into the land that I am ready to hand over to them.
 [3] I am handing over to you every place you set foot, as I promised Moses.
 [4] Your territory will extend from the desert in the south to Lebanon in the north. It will extend all the way to the great River Euphrates in the east (including all Syria) and all the way to the Mediterranean Sea in the west.
@@ -13,18 +13,18 @@
 [6] Be strong and brave! You must lead these people in the conquest of this land that I solemnly promised their ancestors I would hand over to them.
 [7] Make sure you are very strong and brave! Carefully obey all the law my servant Moses charged you to keep. Do not swerve from it to the right or to the left, so that you may be successful in all you do.
 [8] This law scroll must not leave your lips. You must memorize it day and night so you can carefully obey all that is written in it. Then you will prosper and be successful.
-[9] I repeat, be strong and brave! Don’t be afraid and don’t panic, for I, the Lord your God, am with you in all you do.”
+[9] I repeat, be strong and brave! Don’t be afraid and don’t panic, for I, the **Lord** your God, am with you in all you do.”
 
 ### Joshua Prepares for the Invasion
 
 [10] Joshua instructed the leaders of the people:
-[11] “Go through the camp and command the people, ‘Prepare your supplies, for within three days you will cross the Jordan River and begin the conquest of the land the Lord your God is ready to hand over to you.’”
+[11] “Go through the camp and command the people, ‘Prepare your supplies, for within three days you will cross the Jordan River and begin the conquest of the land the **Lord** your God is ready to hand over to you.’”
 [12] Joshua told the Reubenites, the Gadites, and the half-tribe of Manasseh:
-[13] “Remember what Moses the Lord’s servant commanded you. The Lord your God is giving you a place to settle and is handing this land over to you.
+[13] “Remember what Moses the **Lord**’s servant commanded you. The **Lord** your God is giving you a place to settle and is handing this land over to you.
 [14] Your wives, children, and cattle may stay in the land that Moses assigned to you east of the Jordan River. But all of you warriors must cross over armed for battle ahead of your brothers. You must help them
-[15] until the Lord gives your brothers a place like yours to settle and they conquer the land the Lord your God is ready to hand over to them. Then you may go back to your allotted land and occupy the land Moses the Lord’s servant assigned you east of the Jordan.”
+[15] until the **Lord** gives your brothers a place like yours to settle and they conquer the land the **Lord** your God is ready to hand over to them. Then you may go back to your allotted land and occupy the land Moses the **Lord**’s servant assigned you east of the Jordan.”
 [16] They told Joshua, “We will do everything you say. We will go wherever you send us.
-[17] Just as we obeyed Moses, so we will obey you. But may the Lord your God be with you as he was with Moses.
+[17] Just as we obeyed Moses, so we will obey you. But may the **Lord** your God be with you as he was with Moses.
 [18] Any man who rebels against what you say and does not obey all your commands will be executed. But be strong and brave!”
 
 ## Chapter 2
@@ -40,12 +40,12 @@
 [6] (Now she had taken them up to the roof and had hidden them in the stalks of flax she had spread out on the roof.)
 [7] Meanwhile, the king’s men tried to find them on the road to the Jordan River near the fords. The city gate was shut as soon as they set out in pursuit of them.
 [8] Now before the spies went to sleep, Rahab went up to the roof.
-[9] She said to the men, “I know the Lord is handing this land over to you. We are absolutely terrified of you, and all who live in the land are cringing before you.
-[10] For we heard how the Lord dried up the water of the Red Sea before you when you left Egypt and how you annihilated the two Amorite kings, Sihon and Og, on the other side of the Jordan.
-[11] When we heard the news we lost our courage and no one could even breathe for fear of you. For the Lord your God is God in heaven above and on earth below!
-[12] So now, promise me this with an oath sworn in the Lord’s name. Because I have shown allegiance to you, show allegiance to my family. Give me a solemn pledge
+[9] She said to the men, “I know the **Lord** is handing this land over to you. We are absolutely terrified of you, and all who live in the land are cringing before you.
+[10] For we heard how the **Lord** dried up the water of the Red Sea before you when you left Egypt and how you annihilated the two Amorite kings, Sihon and Og, on the other side of the Jordan.
+[11] When we heard the news we lost our courage and no one could even breathe for fear of you. For the **Lord** your God is God in heaven above and on earth below!
+[12] So now, promise me this with an oath sworn in the **Lord**’s name. Because I have shown allegiance to you, show allegiance to my family. Give me a solemn pledge
 [13] that you will spare the lives of my father, mother, brothers, sisters, and all who belong to them, and will rescue us from death.”
-[14] The men said to her, “If you die, may we die too! If you do not report what we’ve been up to, then we will show unswerving allegiance to you when the Lord hands the land over to us.”
+[14] The men said to her, “If you die, may we die too! If you do not report what we’ve been up to, then we will show unswerving allegiance to you when the **Lord** hands the land over to us.”
 [15] Then Rahab let them down by a rope through the window. (Her house was built as part of the city wall; she lived in the wall.)
 [16] She told them, “Head to the hill country, so the ones chasing you don’t find you. Hide from them there for three days, long enough for those chasing you to return. Then you can be on your way.”
 [17] The men said to her, “We are not bound by this oath you made us swear unless the following conditions are met:
@@ -55,7 +55,7 @@
 [21] She said, “I agree to these conditions.” She sent them on their way and then tied the red rope in the window.
 [22] They went to the hill country and stayed there for three days, long enough for those chasing them to return. Their pursuers looked all along the way but did not find them.
 [23] Then the two men returned—they came down from the hills, crossed the river, came to Joshua son of Nun, and reported to him all they had discovered.
-[24] They told Joshua, “Surely the Lord is handing over all the land to us! All who live in the land are cringing before us!”
+[24] They told Joshua, “Surely the **Lord** is handing over all the land to us! All who live in the land are cringing before us!”
 
 ## Chapter 3
 
@@ -64,66 +64,66 @@
 
 [1] Bright and early the next morning Joshua and the Israelites left Shittim and came to the Jordan. They camped there before crossing the river.
 [2] After three days the leaders went through the camp
-[3] and commanded the people: “When you see the ark of the covenant of the Lord your God being carried by the Levitical priests, you must leave here and walk behind it.
+[3] and commanded the people: “When you see the ark of the covenant of the **Lord** your God being carried by the Levitical priests, you must leave here and walk behind it.
 [4] But stay about 3,000 feet behind it. Keep your distance so you can see which way you should go, for you have not traveled this way before.”
-[5] Joshua told the people, “Ritually consecrate yourselves, for tomorrow the Lord will perform miraculous deeds among you.”
+[5] Joshua told the people, “Ritually consecrate yourselves, for tomorrow the **Lord** will perform miraculous deeds among you.”
 [6] Joshua told the priests, “Pick up the ark of the covenant and pass on ahead of the people.” So they picked up the ark of the covenant and went ahead of the people.
-[7] The Lord told Joshua, “This very day I will begin to honor you before all Israel, so they will know that I am with you just as I was with Moses.
+[7] The **Lord** told Joshua, “This very day I will begin to honor you before all Israel, so they will know that I am with you just as I was with Moses.
 [8] Instruct the priests carrying the ark of the covenant, ‘When you reach the bank of the Jordan River, wade into the water.’”
-[9] Joshua told the Israelites, “Come here and listen to the words of the Lord your God!”
+[9] Joshua told the Israelites, “Come here and listen to the words of the **Lord** your God!”
 [10] Joshua continued, “This is how you will know the living God is among you and that he will truly drive out before you the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites.
 [11] Look! The ark of the covenant of the Lord of the whole earth is ready to enter the Jordan ahead of you.
 [12] Now select for yourselves twelve men from the tribes of Israel, one per tribe.
-[13] When the feet of the priests carrying the ark of the Lord, the Lord of the whole earth, touch the water of the Jordan, the water coming downstream toward you will stop flowing and pile up.”
+[13] When the feet of the priests carrying the ark of the **Lord**, the Lord of the whole earth, touch the water of the Jordan, the water coming downstream toward you will stop flowing and pile up.”
 [14] So when the people left their tents to cross the Jordan, the priests carrying the ark of the covenant went ahead of them.
 [15] When the ones carrying the ark reached the Jordan, and the feet of the priests carrying the ark touched the surface of the water—(the Jordan is at flood stage all during harvest time) —
 [16] the water coming downstream toward them stopped flowing. It piled up far upstream at Adam (the city near Zarethan); there was no water at all flowing to the sea of the rift valley (the Salt Sea). The people crossed the river opposite Jericho.
-[17] The priests carrying the ark of the covenant of the Lord stood firmly on dry ground in the middle of the Jordan. All Israel crossed over on dry ground until the entire nation was on the other side.
+[17] The priests carrying the ark of the covenant of the **Lord** stood firmly on dry ground in the middle of the Jordan. All Israel crossed over on dry ground until the entire nation was on the other side.
 
 ## Chapter 4
 
 
 ### Israel Commemorates the Crossing
 
-[1] When the entire nation was on the other side, the Lord told Joshua,
+[1] When the entire nation was on the other side, the **Lord** told Joshua,
 [2] “Select for yourselves twelve men from the people, one per tribe.
 [3] Instruct them, ‘Pick up twelve stones from the middle of the Jordan, from the very place where the priests stand firmly, and carry them over with you and put them in the place where you camp tonight.’”
 [4] Joshua summoned the twelve men he had appointed from the Israelites, one per tribe.
-[5] Joshua told them, “Go in front of the ark of the Lord your God to the middle of the Jordan. Each of you is to put a stone on his shoulder, according to the number of the Israelite tribes.
+[5] Joshua told them, “Go in front of the ark of the **Lord** your God to the middle of the Jordan. Each of you is to put a stone on his shoulder, according to the number of the Israelite tribes.
 [6] The stones will be a reminder to you. When your children ask someday, ‘Why are these stones important to you?’
-[7] tell them how the water of the Jordan stopped flowing before the ark of the covenant of the Lord. When it crossed the Jordan, the water of the Jordan stopped flowing. These stones will be a lasting memorial for the Israelites.”
-[8] The Israelites did just as Joshua commanded. They picked up twelve stones, according to the number of the Israelite tribes, from the middle of the Jordan as the Lord had instructed Joshua. They carried them over with them to the camp and put them there.
+[7] tell them how the water of the Jordan stopped flowing before the ark of the covenant of the **Lord**. When it crossed the Jordan, the water of the Jordan stopped flowing. These stones will be a lasting memorial for the Israelites.”
+[8] The Israelites did just as Joshua commanded. They picked up twelve stones, according to the number of the Israelite tribes, from the middle of the Jordan as the **Lord** had instructed Joshua. They carried them over with them to the camp and put them there.
 [9] Joshua also set up twelve stones in the middle of the Jordan in the very place where the priests carrying the ark of the covenant stood. They remain there to this very day.
 [10] Now the priests carrying the ark of the covenant were standing in the middle of the Jordan until everything the Lord had commanded Joshua to tell the people was accomplished, in accordance with all that Moses had commanded Joshua. The people went across quickly,
-[11] and when all the people had finished crossing, the ark of the Lord and the priests crossed as the people looked on.
+[11] and when all the people had finished crossing, the ark of the **Lord** and the priests crossed as the people looked on.
 [12] The Reubenites, the Gadites, and the half-tribe of Manasseh crossed over armed for battle ahead of the Israelites, just as Moses had instructed them.
-[13] About 40,000 battle-ready troops marched past the Lord to fight on the rift valley plains of Jericho.
-[14] That day the Lord brought honor to Joshua before all Israel. They respected him all his life, just as they had respected Moses.
-[15] The Lord told Joshua,
+[13] About 40,000 battle-ready troops marched past the **Lord** to fight on the rift valley plains of Jericho.
+[14] That day the **Lord** brought honor to Joshua before all Israel. They respected him all his life, just as they had respected Moses.
+[15] The **Lord** told Joshua,
 [16] “Instruct the priests carrying the ark of the covenantal laws to come up from the Jordan.”
 [17] So Joshua instructed the priests, “Come up from the Jordan!”
-[18] The priests carrying the ark of the covenant of the Lord came up from the middle of the Jordan, and as soon as they set foot on dry land, the water of the Jordan flowed again and returned to flood stage.
+[18] The priests carrying the ark of the covenant of the **Lord** came up from the middle of the Jordan, and as soon as they set foot on dry land, the water of the Jordan flowed again and returned to flood stage.
 [19] The people went up from the Jordan on the tenth day of the first month and camped in Gilgal on the eastern border of Jericho.
 [20] Now Joshua set up in Gilgal the twelve stones they had taken from the Jordan.
 [21] He told the Israelites, “When your children someday ask their fathers, ‘What do these stones represent?’
 [22] explain to your children, ‘Israel crossed the Jordan River on dry ground.’
-[23] For the Lord your God dried up the water of the Jordan before you while you crossed over. It was just like when the Lord your God dried up the Red Sea before us while we crossed it.
-[24] He has done this so all the nations of the earth might recognize the Lord’s power and so you might always obey the Lord your God.”
+[23] For the **Lord** your God dried up the water of the Jordan before you while you crossed over. It was just like when the **Lord** your God dried up the Red Sea before us while we crossed it.
+[24] He has done this so all the nations of the earth might recognize the **Lord**’s power and so you might always obey the **Lord** your God.”
 
 ## Chapter 5
 
-[1] When all the Amorite kings on the west side of the Jordan and all the Canaanite kings along the seacoast heard how the Lord had dried up the water of the Jordan before the Israelites while they crossed, they lost their courage and could not even breathe for fear of the Israelites.
+[1] When all the Amorite kings on the west side of the Jordan and all the Canaanite kings along the seacoast heard how the **Lord** had dried up the water of the Jordan before the Israelites while they crossed, they lost their courage and could not even breathe for fear of the Israelites.
 
 ### A New Generation is Circumcised
 
-[2] At that time the Lord told Joshua, “Make flint knives and circumcise the Israelites once again.”
+[2] At that time the **Lord** told Joshua, “Make flint knives and circumcise the Israelites once again.”
 [3] So Joshua made flint knives and circumcised the Israelites at the Hill of the Foreskins.
 [4] This is why Joshua had to circumcise them: All the men old enough to fight when they left Egypt died on the journey through the wilderness after they left Egypt.
 [5] Now all the men who left were circumcised, but all the sons born on the journey through the wilderness after they left Egypt were uncircumcised.
-[6] Indeed, for forty years the Israelites traveled through the wilderness until all the men old enough to fight when they left Egypt, the ones who had disobeyed the Lord, died off. For the Lord had sworn a solemn oath to them that he would not let them see the land he had sworn by oath to their ancestors to give them, a land rich in milk and honey.
+[6] Indeed, for forty years the Israelites traveled through the wilderness until all the men old enough to fight when they left Egypt, the ones who had disobeyed the **Lord**, died off. For the **Lord** had sworn a solemn oath to them that he would not let them see the land he had sworn by oath to their ancestors to give them, a land rich in milk and honey.
 [7] He replaced them with their sons, whom Joshua circumcised. They were uncircumcised; their fathers had not circumcised them along the way.
 [8] When all the men had been circumcised, they stayed there in the camp until they had healed.
-[9] The Lord said to Joshua, “Today I have taken away the disgrace of Egypt from you.” So that place is called Gilgal even to this day.
+[9] The **Lord** said to Joshua, “Today I have taken away the disgrace of Egypt from you.” So that place is called Gilgal even to this day.
 [10] So the Israelites camped in Gilgal and celebrated the Passover in the evening of the fourteenth day of the month in the rift valley plains of Jericho.
 [11] They ate some of the produce of the land the day after the Passover, including unleavened bread and roasted grain.
 [12] The manna stopped appearing the day they ate some of the produce of the land; the Israelites never ate manna again. They ate from the produce of the land of Canaan that year.
@@ -131,83 +131,83 @@
 ### Israel Conquers Jericho
 
 [13] When Joshua was near Jericho, he looked up and saw a man standing in front of him holding a drawn sword. Joshua approached him and asked him, “Are you on our side or allied with our enemies?”
-[14] He answered, “Truly I am the commander of the Lord’s army. Now I have arrived!” Joshua bowed down with his face to the ground and asked, “What does my master want to say to his servant?”
-[15] The commander of the Lord’s army answered Joshua, “Remove your sandals from your feet, because the place where you stand is holy.” Joshua did so.
+[14] He answered, “Truly I am the commander of the **Lord**’s army. Now I have arrived!” Joshua bowed down with his face to the ground and asked, “What does my master want to say to his servant?”
+[15] The commander of the **Lord**’s army answered Joshua, “Remove your sandals from your feet, because the place where you stand is holy.” Joshua did so.
 
 ## Chapter 6
 
 [1] Now Jericho was shut tightly because of the Israelites. No one was allowed to leave or enter.
-[2] The Lord told Joshua, “See, I am about to defeat Jericho for you, along with its king and its warriors.
+[2] The **Lord** told Joshua, “See, I am about to defeat Jericho for you, along with its king and its warriors.
 [3] Have all the warriors march around the city one time; do this for six days.
 [4] Have seven priests carry seven rams’ horns in front of the ark. On the seventh day march around the city seven times, while the priests blow the horns.
 [5] When you hear the signal from the ram’s horn, have the whole army give a loud battle cry. Then the city wall will collapse, and the warriors should charge straight ahead.”
-[6] So Joshua son of Nun summoned the priests and instructed them, “Pick up the ark of the covenant, and seven priests must carry seven rams’ horns in front of the ark of the Lord.”
-[7] And he told the army, “Move ahead and march around the city, with armed troops going ahead of the ark of the Lord.”
-[8] When Joshua gave the army its orders, the seven priests carrying the seven rams’ horns before the Lord moved ahead and blew the horns as the ark of the covenant of the Lord followed behind.
+[6] So Joshua son of Nun summoned the priests and instructed them, “Pick up the ark of the covenant, and seven priests must carry seven rams’ horns in front of the ark of the **Lord**.”
+[7] And he told the army, “Move ahead and march around the city, with armed troops going ahead of the ark of the **Lord**.”
+[8] When Joshua gave the army its orders, the seven priests carrying the seven rams’ horns before the **Lord** moved ahead and blew the horns as the ark of the covenant of the **Lord** followed behind.
 [9] Armed troops marched ahead of the priests blowing the horns, while the rear guard followed along behind the ark blowing rams’ horns.
 [10] Now Joshua had instructed the army, “Do not give a battle cry or raise your voices; say nothing until the day I tell you, ‘Give the battle cry.’ Then give the battle cry!”
-[11] So Joshua made sure they marched the ark of the Lord around the city one time. Then they went back to the camp and spent the night there.
-[12] Bright and early the next morning Joshua had the priests pick up the ark of the Lord.
-[13] The seven priests carrying the seven rams’ horns before the ark of the Lord marched along blowing their horns. Armed troops marched ahead of them, while the rear guard followed along behind the ark of the Lord blowing rams’ horns.
+[11] So Joshua made sure they marched the ark of the **Lord** around the city one time. Then they went back to the camp and spent the night there.
+[12] Bright and early the next morning Joshua had the priests pick up the ark of the **Lord**.
+[13] The seven priests carrying the seven rams’ horns before the ark of the **Lord** marched along blowing their horns. Armed troops marched ahead of them, while the rear guard followed along behind the ark of the **Lord** blowing rams’ horns.
 [14] They marched around the city one time on the second day, then returned to the camp. They did this six days in all.
 [15] On the seventh day they were up at the crack of dawn and marched around the city as before—only this time they marched around it seven times.
-[16] The seventh time around, the priests blew the rams’ horns, and Joshua told the army, “Give the battle cry, for the Lord is handing the city over to you!
-[17] The city and all that is in it must be set apart for the Lord; only Rahab the prostitute and all who are with her in her house will live, because she hid the spies we sent.
+[16] The seventh time around, the priests blew the rams’ horns, and Joshua told the army, “Give the battle cry, for the **Lord** is handing the city over to you!
+[17] The city and all that is in it must be set apart for the **Lord**; only Rahab the prostitute and all who are with her in her house will live, because she hid the spies we sent.
 [18] But be careful when you are setting apart the riches for God. If you take any of it, then you will make the Israelite camp subject to annihilation and cause a disaster.
-[19] All the silver and gold, as well as bronze and iron items, belong to the Lord. They must go into the Lord’s treasury.”
+[19] All the silver and gold, as well as bronze and iron items, belong to the **Lord**. They must go into the **Lord**’s treasury.”
 [20] The rams’ horns sounded, and when the army heard the signal, they gave a loud battle cry. The wall collapsed, and the warriors charged straight ahead into the city and captured it.
 [21] They annihilated with the sword everything that breathed in the city, including men and women, young and old, as well as cattle, sheep, and donkeys.
 [22] Joshua told the two men who had spied on the land, “Enter the prostitute’s house and bring out the woman and all who belong to her as you promised her.”
 [23] So the young spies went and brought out Rahab, her father, mother, brothers, and all who belonged to her. They brought out her whole family and took them to a place outside the Israelite camp.
-[24] But they burned the city and all that was in it, except for the silver, gold, and bronze and iron items they put in the treasury of the Lord’s house.
+[24] But they burned the city and all that was in it, except for the silver, gold, and bronze and iron items they put in the treasury of the **Lord**’s house.
 [25] Yet Joshua spared Rahab the prostitute, her father’s family, and all who belonged to her. She lives in Israel to this very day because she hid the messengers Joshua sent to spy on Jericho.
-[26] At that time Joshua made this solemn declaration: “The man who attempts to rebuild this city of Jericho will stand condemned before the Lord. He will lose his firstborn son when he lays its foundations and his youngest son when he erects its gates!”
-[27] The Lord was with Joshua and he became famous throughout the land.
+[26] At that time Joshua made this solemn declaration: “The man who attempts to rebuild this city of Jericho will stand condemned before the **Lord**. He will lose his firstborn son when he lays its foundations and his youngest son when he erects its gates!”
+[27] The **Lord** was with Joshua and he became famous throughout the land.
 
 ## Chapter 7
 
 
 ### Achan Sins and is Punished
 
-[1] But the Israelites disobeyed the command about the city’s riches. Achan son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, stole some of the riches. The Lord was furious with the Israelites.
+[1] But the Israelites disobeyed the command about the city’s riches. Achan son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, stole some of the riches. The **Lord** was furious with the Israelites.
 [2] Joshua sent men from Jericho to Ai (which is located near Beth Aven, east of Bethel) and instructed them, “Go up and spy on the land.” So the men went up and spied on Ai.
 [3] They returned and reported to Joshua, “Don’t send the whole army. About two or three thousand men are adequate to defeat Ai. Don’t tire out the whole army, for Ai is small.”
 [4] So about 3,000 men went up, but they fled from the men of Ai.
 [5] The men of Ai killed about thirty-six of them and chased them from in front of the city gate all the way to the fissures and defeated them on the steep slope. The people’s courage melted away like water.
-[6] Joshua tore his clothes; he and the leaders of Israel lay face down on the ground before the ark of the Lord until evening and threw dirt on their heads.
-[7] Joshua prayed, “O, Sovereign Lord! Why did you bring these people across the Jordan to hand us over to the Amorites so they could destroy us? If only we had been satisfied to live on the other side of the Jordan!
+[6] Joshua tore his clothes; he and the leaders of Israel lay face down on the ground before the ark of the **Lord** until evening and threw dirt on their heads.
+[7] Joshua prayed, “O, Sovereign **Lord**! Why did you bring these people across the Jordan to hand us over to the Amorites so they could destroy us? If only we had been satisfied to live on the other side of the Jordan!
 [8] O Lord, what can I say now that Israel has retreated before its enemies?
 [9] When the Canaanites and all who live in the land hear about this, they will turn against us and destroy the very memory of us from the earth. What will you do to protect your great reputation?”
-[10] The Lord responded to Joshua, “Get up! Why are you lying there face down?
+[10] The **Lord** responded to Joshua, “Get up! Why are you lying there face down?
 [11] Israel has sinned; they have violated my covenantal commandment! They have taken some of the riches; they have stolen them and deceitfully put them among their own possessions.
 [12] The Israelites are unable to stand before their enemies; they retreat because they have become subject to annihilation. I will no longer be with you, unless you destroy what has contaminated you.
-[13] Get up! Ritually consecrate the people and tell them this: ‘Ritually consecrate yourselves for tomorrow, because this is what the Lord God of Israel has said, “You are contaminated, O Israel! You will not be able to stand before your enemies until you remove what is contaminating you.”
-[14] In the morning you must approach in tribal order. The tribe the Lord selects must approach by clans. The clan the Lord selects must approach by families. The family the Lord selects must approach man by man.
-[15] The one caught with the riches must be burned up along with all who belong to him, because he violated the Lord’s covenant and did such a disgraceful thing in Israel.’”
+[13] Get up! Ritually consecrate the people and tell them this: ‘Ritually consecrate yourselves for tomorrow, because this is what the **Lord** God of Israel has said, “You are contaminated, O Israel! You will not be able to stand before your enemies until you remove what is contaminating you.”
+[14] In the morning you must approach in tribal order. The tribe the **Lord** selects must approach by clans. The clan the **Lord** selects must approach by families. The family the **Lord** selects must approach man by man.
+[15] The one caught with the riches must be burned up along with all who belong to him, because he violated the **Lord**’s covenant and did such a disgraceful thing in Israel.’”
 [16] Bright and early the next morning Joshua made Israel approach in tribal order, and the tribe of Judah was selected.
 [17] He then made the clans of Judah approach, and the clan of the Zerahites was selected. He made the clan of the Zerahites approach, and Zabdi was selected.
 [18] He then made Zabdi’s family approach man by man and Achan son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, was selected.
-[19] So Joshua said to Achan, “My son, honor the Lord God of Israel and give him praise! Tell me what you did; don’t hide anything from me.”
-[20] Achan told Joshua, “It is true. I have sinned against the Lord God of Israel in this way:
+[19] So Joshua said to Achan, “My son, honor the **Lord** God of Israel and give him praise! Tell me what you did; don’t hide anything from me.”
+[20] Achan told Joshua, “It is true. I have sinned against the **Lord** God of Israel in this way:
 [21] I saw among the goods we seized a nice robe from Babylon, 200 silver pieces, and a bar of gold weighing 50 shekels. I wanted them, so I took them. They are hidden in the ground right in the middle of my tent, with the silver underneath.”
 [22] Joshua sent messengers who ran to the tent. The things were hidden right in his tent, with the silver underneath.
-[23] They took it all from the middle of the tent, brought it to Joshua and all the Israelites, and placed it before the Lord.
+[23] They took it all from the middle of the tent, brought it to Joshua and all the Israelites, and placed it before the **Lord**.
 [24] Then Joshua and all Israel took Achan, son of Zerah, along with the silver, the robe, the bar of gold, his sons, daughters, oxen, donkeys, sheep, tent, and all that belonged to him and brought them up to the Valley of Disaster.
-[25] Joshua said, “Why have you brought disaster on us? The Lord will bring disaster on you today!” All Israel stoned him to death. (They also stoned and burned the others.)
-[26] Then they erected over him a large pile of stones (it remains to this very day) and the Lord’s anger subsided. So that place is called the Valley of Disaster to this very day.
+[25] Joshua said, “Why have you brought disaster on us? The **Lord** will bring disaster on you today!” All Israel stoned him to death. (They also stoned and burned the others.)
+[26] Then they erected over him a large pile of stones (it remains to this very day) and the **Lord**’s anger subsided. So that place is called the Valley of Disaster to this very day.
 
 ## Chapter 8
 
 
 ### Israel Conquers Ai
 
-[1] The Lord told Joshua, “Don’t be afraid and don’t panic! Take the whole army with you and march against Ai! See, I am handing over to you the king of Ai, along with his people, city, and land.
+[1] The **Lord** told Joshua, “Don’t be afraid and don’t panic! Take the whole army with you and march against Ai! See, I am handing over to you the king of Ai, along with his people, city, and land.
 [2] Do to Ai and its king what you did to Jericho and its king, except you may plunder its goods and cattle. Set an ambush behind the city.”
 [3] Joshua and the whole army marched against Ai. Joshua selected 30,000 brave warriors and sent them out at night.
 [4] He ordered them, “Look, set an ambush behind the city. Don’t go very far from the city; all of you be ready!
 [5] I and all the troops who are with me will approach the city. When they come out to fight us like before, we will retreat from them.
 [6] They will attack us until we have lured them from the city, for they will say, ‘They are retreating from us like before.’ We will retreat from them.
-[7] Then you rise up from your hiding place and seize the city. The Lord your God will hand it over to you.
+[7] Then you rise up from your hiding place and seize the city. The **Lord** your God will hand it over to you.
 [8] When you capture the city, set it on fire in keeping with the Lord’s message. See, I have given you orders.”
 [9] Joshua sent them away and they went to their hiding place west of Ai, between Bethel and Ai. Joshua spent that night with the army.
 [10] Bright and early the next morning Joshua gathered the army, and he and the leaders of Israel marched at the head of it to Ai.
@@ -218,7 +218,7 @@
 [15] Joshua and all Israel pretended to be defeated by them, and they retreated along the way to the wilderness.
 [16] All the reinforcements in Ai were ordered to chase them; they chased Joshua and were lured away from the city.
 [17] No men were left in Ai or Bethel; they all went out after Israel. They left the city wide open and chased Israel.
-[18] The Lord told Joshua, “Hold out toward Ai the curved sword in your hand, for I am handing the city over to you.” So Joshua held out toward Ai the curved sword in his hand.
+[18] The **Lord** told Joshua, “Hold out toward Ai the curved sword in your hand, for I am handing the city over to you.” So Joshua held out toward Ai the curved sword in his hand.
 [19] When he held out his hand, the men waiting in ambush rose up quickly from their place and attacked. They entered the city, captured it, and immediately set it on fire.
 [20] When the men of Ai turned around, they saw the smoke from the city ascending into the sky and were so shocked they were unable to flee in any direction. In the meantime the men who were retreating to the wilderness turned against their pursuers.
 [21] When Joshua and all Israel saw that the men in ambush had captured the city and that the city was going up in smoke, they turned around and struck down the men of Ai.
@@ -227,16 +227,16 @@
 [24] When Israel had finished killing all the men of Ai who had chased them toward the wilderness (they all fell by the sword), all Israel returned to Ai and put the sword to it.
 [25] So 12,000 men and women died that day, including all the men of Ai.
 [26] Joshua kept holding out his curved sword until Israel had annihilated all who lived in Ai.
-[27] But Israel did plunder the cattle and the goods of the city, in keeping with the Lord’s orders to Joshua.
+[27] But Israel did plunder the cattle and the goods of the city, in keeping with the **Lord**’s orders to Joshua.
 [28] Joshua burned Ai and made it a permanently uninhabited mound (it remains that way to this very day).
 [29] He hung the king of Ai on a tree, leaving him exposed until evening. At sunset Joshua ordered that his corpse be taken down from the tree. They threw it down at the entrance of the city gate and erected over it a large pile of stones (it remains to this very day).
 
 ### Covenant Renewal
 
-[30] Then Joshua built an altar for the Lord God of Israel on Mount Ebal,
-[31] just as Moses the Lord’s servant had commanded the Israelites. As described in the law scroll of Moses, it was made with uncut stones untouched by an iron tool. On it they offered burnt sacrifices to the Lord and sacrificed tokens of peace.
+[30] Then Joshua built an altar for the **Lord** God of Israel on Mount Ebal,
+[31] just as Moses the **Lord**’s servant had commanded the Israelites. As described in the law scroll of Moses, it was made with uncut stones untouched by an iron tool. On it they offered burnt sacrifices to the **Lord** and sacrificed tokens of peace.
 [32] There, in the presence of the Israelites, Joshua inscribed on the stones a duplicate of the law written by Moses.
-[33] All the people, rulers, leaders, and judges were standing on either side of the ark, in front of the Levitical priests who carried the ark of the covenant of the Lord. Both resident foreigners and native Israelites were there. Half the people stood in front of Mount Gerizim and the other half in front of Mount Ebal, as Moses the Lord’s servant had previously instructed them to do for the formal blessing ceremony.
+[33] All the people, rulers, leaders, and judges were standing on either side of the ark, in front of the Levitical priests who carried the ark of the covenant of the **Lord**. Both resident foreigners and native Israelites were there. Half the people stood in front of Mount Gerizim and the other half in front of Mount Ebal, as Moses the **Lord**’s servant had previously instructed them to do for the formal blessing ceremony.
 [34] Then Joshua read aloud all the words of the law, including the blessings and the curses, just as they are written in the law scroll.
 [35] Joshua read aloud every commandment Moses had given before the whole assembly of Israel, including the women, children, and resident foreigners who lived among them.
 
@@ -253,25 +253,25 @@
 [6] They came to Joshua at the camp in Gilgal and said to him and the men of Israel, “We have come from a distant land. Make a treaty with us.”
 [7] The men of Israel said to the Hivites, “Perhaps you live near us. So how can we make a treaty with you?”
 [8] But they said to Joshua, “We are willing to be your subjects.” So Joshua said to them, “Who are you and where do you come from?”
-[9] They told him, “Your subjects have come from a very distant land because of the reputation of the Lord your God, for we have heard the news about all he did in Egypt
+[9] They told him, “Your subjects have come from a very distant land because of the reputation of the **Lord** your God, for we have heard the news about all he did in Egypt
 [10] and all he did to the two Amorite kings on the other side of the Jordan—King Sihon of Heshbon and King Og of Bashan in Ashtaroth.
 [11] Our leaders and all who live in our land told us, ‘Take provisions for your journey and go meet them. Tell them, “We are willing to be your subjects. Make a treaty with us.”’
 [12] This bread of ours was warm when we packed it in our homes the day we started out to meet you, but now it is dry and hard.
 [13] These wineskins we filled were brand new, but look how they have ripped. Our clothes and sandals have worn out because it has been a very long journey.”
-[14] The men examined some of their provisions, but they failed to ask the Lord’s advice.
+[14] The men examined some of their provisions, but they failed to ask the **Lord**’s advice.
 [15] Joshua made a peace treaty with them and agreed to let them live. The leaders of the community sealed it with an oath.
 [16] Three days after they made the treaty with them, the Israelites found out they were from the local area and lived nearby.
 [17] So the Israelites set out and on the third day arrived at their cities—Gibeon, Kephirah, Beeroth, and Kiriath Jearim.
-[18] The Israelites did not attack them because the leaders of the community had sworn an oath to them in the name of the Lord God of Israel. The whole community criticized the leaders,
-[19] but all the leaders told the whole community, “We swore an oath to them in the name of the Lord God of Israel! So now we can’t hurt them.
+[18] The Israelites did not attack them because the leaders of the community had sworn an oath to them in the name of the **Lord** God of Israel. The whole community criticized the leaders,
+[19] but all the leaders told the whole community, “We swore an oath to them in the name of the **Lord** God of Israel! So now we can’t hurt them.
 [20] We must let them live so we can escape the curse attached to the oath we swore to them.”
 [21] The leaders then added, “Let them live.” So they became woodcutters and water carriers for the whole community, as the leaders had decided.
 [22] Joshua summoned the Gibeonites and said to them, “Why did you trick us by saying, ‘We live far away from you,’ when you really live nearby?
 [23] Now you are condemned to perpetual servitude as woodcutters and water carriers for the house of my God.”
-[24] They said to Joshua, “It was carefully reported to your subjects how the Lord your God commanded Moses his servant to assign you the whole land and to destroy all who live in the land from before you. Because of you we were terrified we would lose our lives, so we did this thing.
+[24] They said to Joshua, “It was carefully reported to your subjects how the **Lord** your God commanded Moses his servant to assign you the whole land and to destroy all who live in the land from before you. Because of you we were terrified we would lose our lives, so we did this thing.
 [25] So now we are in your power. Do to us what you think is good and appropriate.”
 [26] Joshua did as they said; he kept the Israelites from killing them
-[27] and that day made them woodcutters and water carriers for the community and for the altar of the Lord at the divinely chosen site. (They continue in that capacity to this very day.)
+[27] and that day made them woodcutters and water carriers for the community and for the altar of the **Lord** at the divinely chosen site. (They continue in that capacity to this very day.)
 
 ## Chapter 10
 
@@ -285,26 +285,26 @@
 [5] So the five Amorite kings (the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon) and all their troops gathered together and advanced. They deployed their troops and fought against Gibeon.
 [6] The men of Gibeon sent this message to Joshua at the camp in Gilgal, “Do not abandon your subjects! Come up here quickly and rescue us! Help us! For all the Amorite kings living in the hill country are attacking us.”
 [7] So Joshua and his whole army, including the bravest warriors, marched up from Gilgal.
-[8] The Lord told Joshua, “Don’t be afraid of them, for I am handing them over to you. Not one of them can resist you.”
+[8] The **Lord** told Joshua, “Don’t be afraid of them, for I am handing them over to you. Not one of them can resist you.”
 [9] Joshua attacked them by surprise after marching all night from Gilgal.
-[10] The Lord routed them before Israel. Israel thoroughly defeated them at Gibeon. They chased them up the road to the pass of Beth Horon and struck them down all the way to Azekah and Makkedah.
-[11] As they fled from Israel on the slope leading down from Beth Horon, the Lord threw down on them large hailstones from the sky, all the way to Azekah. They died—in fact, more died from the hailstones than the Israelites killed with the sword.
-[12] The day the Lord delivered the Amorites over to the Israelites, Joshua prayed to the Lord before Israel:
+[10] The **Lord** routed them before Israel. Israel thoroughly defeated them at Gibeon. They chased them up the road to the pass of Beth Horon and struck them down all the way to Azekah and Makkedah.
+[11] As they fled from Israel on the slope leading down from Beth Horon, the **Lord** threw down on them large hailstones from the sky, all the way to Azekah. They died—in fact, more died from the hailstones than the Israelites killed with the sword.
+[12] The day the **Lord** delivered the Amorites over to the Israelites, Joshua prayed to the **Lord** before Israel:
 “O sun, stand still over Gibeon;
 O moon, over the Valley of Aijalon!”
 [13] The sun stood still and the moon stood motionless while the nation took vengeance on its enemies. The event is recorded in the Scroll of the Upright One. The sun stood motionless in the middle of the sky and did not set for about a full day.
-[14] There has not been a day like it before or since. The Lord listened to a human being, for the Lord fought for Israel!
+[14] There has not been a day like it before or since. The **Lord** listened to a human being, for the **Lord** fought for Israel!
 [15] Then Joshua and all Israel returned to the camp at Gilgal.
 [16] The five Amorite kings ran away and hid in the cave at Makkedah.
 [17] Joshua was told, “The five kings have been found hiding in the cave at Makkedah.”
 [18] Joshua said, “Roll large stones over the mouth of the cave and post guards in front of it.
-[19] But don’t you delay! Chase your enemies and catch them. Don’t allow them to retreat to their cities, for the Lord your God is handing them over to you.”
+[19] But don’t you delay! Chase your enemies and catch them. Don’t allow them to retreat to their cities, for the **Lord** your God is handing them over to you.”
 [20] Joshua and the Israelites almost totally wiped them out, but some survivors did escape to the fortified cities.
 [21] Then the whole army safely returned to Joshua at the camp in Makkedah. No one dared threaten the Israelites.
 [22] Joshua said, “Open the cave’s mouth and bring the five kings out of the cave to me.”
 [23] They did as ordered; they brought the five kings out of the cave to him—the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon.
 [24] When they brought the kings out to Joshua, he summoned all the men of Israel and said to the commanders of the troops who accompanied him, “Come here and put your feet on the necks of these kings.” So they came up and put their feet on their necks.
-[25] Then Joshua said to them, “Don’t be afraid and don’t panic! Be strong and brave, for the Lord will do the same thing to all your enemies you fight.”
+[25] Then Joshua said to them, “Don’t be afraid and don’t panic! Be strong and brave, for the **Lord** will do the same thing to all your enemies you fight.”
 [26] Then Joshua executed them and hung them on five trees. They were left hanging on the trees until evening.
 [27] At sunset Joshua ordered his men to take them down from the trees. They threw them into the cave where they had hidden and piled large stones over the mouth of the cave. (They remain to this very day.)
 
@@ -312,9 +312,9 @@ O moon, over the Valley of Aijalon!”
 
 [28] That day Joshua captured Makkedah and put the sword to it and its king. He annihilated everyone who lived in it; he left no survivors. He did to its king what he had done to the king of Jericho.
 [29] Joshua and all Israel marched from Makkedah to Libnah and fought against it.
-[30] The Lord handed it and its king over to Israel, and Israel put the sword to all who lived there; they left no survivors. They did to its king what they had done to the king of Jericho.
+[30] The **Lord** handed it and its king over to Israel, and Israel put the sword to all who lived there; they left no survivors. They did to its king what they had done to the king of Jericho.
 [31] Joshua and all Israel marched from Libnah to Lachish. He deployed his troops and fought against it.
-[32] The Lord handed Lachish over to Israel, and they captured it on the second day. They put the sword to all who lived there, just as they had done to Libnah.
+[32] The **Lord** handed Lachish over to Israel, and they captured it on the second day. They put the sword to all who lived there, just as they had done to Libnah.
 [33] Then King Horam of Gezer came up to help Lachish, but Joshua struck him down, as well as his army, until no survivors remained.
 [34] Joshua and all Israel marched from Lachish to Eglon. They deployed troops and fought against it.
 [35] That day they captured it and put the sword to all who lived there. That day they annihilated it just as they had done to Lachish.
@@ -322,9 +322,9 @@ O moon, over the Valley of Aijalon!”
 [37] They captured it and put the sword to its king, all its surrounding cities, and all who lived in it; they left no survivors. As they had done at Eglon, they annihilated it and all who lived there.
 [38] Joshua and all Israel turned to Debir and fought against it.
 [39] They captured it, its king, and all its surrounding cities and put the sword to them. They annihilated everyone who lived there; they left no survivors. They did to Debir and its king what they had done to Libnah and its king and to Hebron.
-[40] Joshua defeated the whole land, including the hill country, the Negev, the foothills, the slopes, and all their kings. He left no survivors. He annihilated everything that breathed, just as the Lord God of Israel had commanded.
+[40] Joshua defeated the whole land, including the hill country, the Negev, the foothills, the slopes, and all their kings. He left no survivors. He annihilated everything that breathed, just as the **Lord** God of Israel had commanded.
 [41] Joshua conquered the area between Kadesh Barnea and Gaza and the whole region of Goshen, all the way to Gibeon.
-[42] Joshua captured in one campaign all these kings and their lands, for the Lord God of Israel fought for Israel.
+[42] Joshua captured in one campaign all these kings and their lands, for the **Lord** God of Israel fought for Israel.
 [43] Then Joshua and all Israel returned to the camp at Gilgal.
 
 ## Chapter 11
@@ -337,16 +337,16 @@ O moon, over the Valley of Aijalon!”
 [3] Canaanites came from the east and west; Amorites, Hittites, Perizzites, and Jebusites from the hill country; and Hivites from below Hermon in the area of Mizpah.
 [4] These kings came out with their armies; they were as numerous as the sand on the seashore and had a large number of horses and chariots.
 [5] All these kings gathered and joined forces at the Waters of Merom to fight Israel.
-[6] The Lord told Joshua, “Don’t be afraid of them, for about this time tomorrow I will cause all of them to lie dead before Israel. You must hamstring their horses and burn their chariots.”
+[6] The **Lord** told Joshua, “Don’t be afraid of them, for about this time tomorrow I will cause all of them to lie dead before Israel. You must hamstring their horses and burn their chariots.”
 [7] Joshua and his whole army caught them by surprise at the Waters of Merom and attacked them.
-[8] The Lord handed them over to Israel, and they struck them down and chased them all the way to Greater Sidon, Misrephoth Maim, and the Mizpah Valley to the east. They struck them down until no survivors remained.
-[9] Joshua did to them as the Lord had commanded him; he hamstrung their horses and burned their chariots.
+[8] The **Lord** handed them over to Israel, and they struck them down and chased them all the way to Greater Sidon, Misrephoth Maim, and the Mizpah Valley to the east. They struck them down until no survivors remained.
+[9] Joshua did to them as the **Lord** had commanded him; he hamstrung their horses and burned their chariots.
 [10] At that time Joshua turned, captured Hazor, and struck down its king with the sword, for Hazor was at that time the leader of all these kingdoms.
 [11] They annihilated everyone who lived there with the sword —no one who breathed remained—and burned Hazor.
-[12] Joshua captured all these royal cities and all their kings and annihilated them with the sword, as Moses the Lord’s servant had commanded.
+[12] Joshua captured all these royal cities and all their kings and annihilated them with the sword, as Moses the **Lord**’s servant had commanded.
 [13] But Israel did not burn any of the cities located on mounds except for Hazor; it was the only one Joshua burned.
 [14] The Israelites plundered all the goods of these cities and the cattle, but they totally destroyed all the people and allowed no one who breathed to live.
-[15] Moses the Lord’s servant passed on the Lord’s commands to Joshua, and Joshua did as he was told. He did not ignore any of the commands the Lord had given Moses.
+[15] Moses the **Lord**’s servant passed on the **Lord**’s commands to Joshua, and Joshua did as he was told. He did not ignore any of the commands the **Lord** had given Moses.
 
 ### A Summary of Israel’s Victories
 
@@ -354,10 +354,10 @@ O moon, over the Valley of Aijalon!”
 [17] from Mount Halak up to Seir, as far as Baal Gad in the Lebanon Valley below Mount Hermon. He captured all their kings and executed them.
 [18] Joshua campaigned against these kings for quite some time.
 [19] No city made peace with the Israelites (except the Hivites living in Gibeon); they had to conquer all of them,
-[20] for the Lord determined to make them obstinate so they would attack Israel. He wanted Israel to annihilate them without mercy, as he had instructed Moses.
+[20] for the **Lord** determined to make them obstinate so they would attack Israel. He wanted Israel to annihilate them without mercy, as he had instructed Moses.
 [21] At that time Joshua attacked and eliminated the Anakites from the hill country —from Hebron, Debir, Anab, and all the hill country of Judah and Israel. Joshua annihilated them and their cities.
 [22] No Anakites were left in Israelite territory, though some remained in Gaza, Gath, and Ashdod.
-[23] Joshua conquered the whole land, just as the Lord had promised Moses, and he assigned Israel their tribal portions. Then the land was free of war.
+[23] Joshua conquered the whole land, just as the **Lord** had promised Moses, and he assigned Israel their tribal portions. Then the land was free of war.
 
 ## Chapter 12
 
@@ -366,7 +366,7 @@ O moon, over the Valley of Aijalon!”
 [3] His kingdom included the eastern rift valley from the Sea of Kinnereth to the sea of the rift valley (the Salt Sea), including the route to Beth Jeshimoth and the area southward below the slopes of Pisgah.
 [4] The territory of King Og of Bashan, one of the few remaining Rephaites, who lived in Ashtaroth and Edrei
 [5] and ruled over Mount Hermon, Salecah, all Bashan to the border of the Geshurites and Maacathites, and half of Gilead as far as the border of King Sihon of Heshbon.
-[6] Moses the Lord’s servant and the Israelites defeated them and Moses the Lord’s servant assigned their land to Reuben, Gad, and the half-tribe of Manasseh.
+[6] Moses the **Lord**’s servant and the Israelites defeated them and Moses the **Lord**’s servant assigned their land to Reuben, Gad, and the half-tribe of Manasseh.
 [7] These are the kings of the land whom Joshua and the Israelites defeated on the west side of the Jordan, from Baal Gad in the Lebanon Valley to Mount Halak up to Seir. Joshua assigned this territory to the Israelite tribes,
 [8] including the hill country, the foothills, the rift valley, the slopes, the wilderness, and the Negev —the land of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites:
 [9] the king of Jericho (one),
@@ -406,7 +406,7 @@ the king of Goyim—near Gilgal—(one),
 
 ### The Lord Speaks to Joshua
 
-[1] When Joshua was very old, the Lord told him, “You are very old, and a great deal of land remains to be conquered.
+[1] When Joshua was very old, the **Lord** told him, “You are very old, and a great deal of land remains to be conquered.
 [2] This is the land that remains: all the territory of the Philistines and all the Geshurites,
 [3] from the Shihor River east of Egypt northward to the territory of Ekron (it is regarded as Canaanite territory), including the area belonging to the five Philistine lords who ruled in Gaza, Ashdod, Ashkelon, Gath, and Ekron, as well as Avvite land
 [4] to the south; all the Canaanite territory, from Arah in the region of Sidon to Aphek, as far as Amorite territory;
@@ -416,13 +416,13 @@ the king of Goyim—near Gilgal—(one),
 
 ### Tribal Lands East of the Jordan
 
-[8] The other half of Manasseh, Reuben, and Gad received their allotted tribal lands on east side of the Jordan, just as Moses, the Lord’s servant, had assigned them.
+[8] The other half of Manasseh, Reuben, and Gad received their allotted tribal lands on east side of the Jordan, just as Moses, the **Lord**’s servant, had assigned them.
 [9] Their territory started from Aroer (on the edge of the Arnon Valley), included the city in the middle of the valley, the whole plain of Medeba as far as Dibon,
 [10] and all the cities of King Sihon of the Amorites who ruled in Heshbon, and ended at the Ammonite border.
 [11] Their territory also included Gilead, Geshurite and Maacathite territory, all Mount Hermon, and all Bashan to Salecah—
 [12] the whole kingdom of Og in Bashan, who ruled in Ashtaroth and Edrei. (He was one of the few remaining Rephaites.) Moses defeated them and took their lands.
 [13] But the Israelites did not conquer the Geshurites and Maacathites; Geshur and Maacah live among Israel to this very day.
-[14] However, Moses did not assign land as an inheritance to the Levites; their inheritance is the sacrificial offerings made to the Lord God of Israel, as he instructed them.
+[14] However, Moses did not assign land as an inheritance to the Levites; their inheritance is the sacrificial offerings made to the **Lord** God of Israel, as he instructed them.
 [15] Moses assigned land to the tribe of Reuben by its clans.
 [16] Their territory started at Aroer (on the edge of the Arnon Valley) and included the city in the middle of the valley, the whole plain of Medeba,
 [17] Heshbon and all its surrounding cities on the plain, including Dibon, Bamoth Baal, Beth Baal Meon,
@@ -441,7 +441,7 @@ the king of Goyim—near Gilgal—(one),
 [30] Their territory started at Mahanaim and encompassed all Bashan, the whole realm of King Og of Bashan, including all sixty cities in Havvoth Jair in Bashan.
 [31] Half of Gilead, Ashtaroth, and Edrei, cities in the kingdom of Og in Bashan, were assigned to the descendants of Makir son of Manasseh, to half the descendants of Makir by their clans.
 [32] These are the land assignments made by Moses in the rift valley plains of Moab east of the Jordan River opposite Jericho.
-[33] However, Moses did not assign land as an inheritance to the Levites; their inheritance is the Lord God of Israel, as he instructed them.
+[33] However, Moses did not assign land as an inheritance to the Levites; their inheritance is the **Lord** God of Israel, as he instructed them.
 
 ## Chapter 14
 
@@ -449,19 +449,19 @@ the king of Goyim—near Gilgal—(one),
 ### Judah’s Tribal Lands
 
 [1] The following is a record of the territory assigned to the Israelites in the land of Canaan by Eleazar the priest, Joshua son of Nun, and the Israelite tribal leaders.
-[2] The land assignments to the nine-and-a-half tribes were made by drawing lots, as the Lord had instructed Moses.
+[2] The land assignments to the nine-and-a-half tribes were made by drawing lots, as the **Lord** had instructed Moses.
 [3] Now Moses had assigned land to the two-and-a-half tribes east of the Jordan, but he assigned no land to the Levites.
 [4] The descendants of Joseph were considered as two tribes, Manasseh and Ephraim. The Levites were allotted no territory, though they were assigned cities in which to live, along with the grazing areas for their cattle and possessions.
-[5] The Israelites followed the Lord’s instructions to Moses and divided up the land.
-[6] The men of Judah approached Joshua in Gilgal, and Caleb son of Jephunneh the Kenizzite said to him, “You know what the Lord said about you and me to Moses, the man of God, at Kadesh Barnea.
-[7] I was forty years old when Moses, the Lord’s servant, sent me from Kadesh Barnea to spy on the land and I brought back to him an honest report.
-[8] My countrymen who accompanied me frightened the people, but I remained loyal to the Lord my God.
-[9] That day Moses made this solemn promise: ‘Surely the land on which you walked will belong to you and your descendants permanently, for you remained loyal to the Lord your God.’
-[10] So now, look, the Lord has preserved my life, just as he promised, these past forty-five years since the Lord spoke these words to Moses, while Israel traveled through the wilderness. See here, I am today eighty-five years old!
+[5] The Israelites followed the **Lord**’s instructions to Moses and divided up the land.
+[6] The men of Judah approached Joshua in Gilgal, and Caleb son of Jephunneh the Kenizzite said to him, “You know what the **Lord** said about you and me to Moses, the man of God, at Kadesh Barnea.
+[7] I was forty years old when Moses, the **Lord**’s servant, sent me from Kadesh Barnea to spy on the land and I brought back to him an honest report.
+[8] My countrymen who accompanied me frightened the people, but I remained loyal to the **Lord** my God.
+[9] That day Moses made this solemn promise: ‘Surely the land on which you walked will belong to you and your descendants permanently, for you remained loyal to the **Lord** your God.’
+[10] So now, look, the **Lord** has preserved my life, just as he promised, these past forty-five years since the **Lord** spoke these words to Moses, while Israel traveled through the wilderness. See here, I am today eighty-five years old!
 [11] Today I am still as strong as when Moses sent me out. I can fight and go about my daily activities with the same energy I had then.
-[12] Now, assign me this hill country that the Lord promised me at that time! No doubt you heard then that the Anakites live there in large, fortified cities. But assuming the Lord is with me, I will conquer them, as the Lord promised.”
+[12] Now, assign me this hill country that the **Lord** promised me at that time! No doubt you heard then that the Anakites live there in large, fortified cities. But assuming the **Lord** is with me, I will conquer them, as the **Lord** promised.”
 [13] Joshua asked God to empower Caleb son of Jephunneh and assigned him Hebron.
-[14] So Hebron remains the assigned land of Caleb son of Jephunneh the Kenizzite to this very day because he remained loyal to the Lord God of Israel.
+[14] So Hebron remains the assigned land of Caleb son of Jephunneh the Kenizzite to this very day because he remained loyal to the **Lord** God of Israel.
 [15] (Hebron used to be called Kiriath Arba. Arba was a famous Anakite.) Then the land was free of war.
 
 ## Chapter 15
@@ -478,7 +478,7 @@ the king of Goyim—near Gilgal—(one),
 [10] It then turned from Baalah westward to Mount Seir, crossed to the slope of Mount Jearim on the north (that is Kesalon), descended to Beth Shemesh, and crossed to Timnah.
 [11] It then extended to the slope of Ekron to the north, went toward Shikkeron, crossed to Mount Baalah, extended to Jabneel, and ended at the sea.
 [12] The western border was the Mediterranean Sea. These were the borders of the tribe of Judah and its clans.
-[13] Caleb son of Jephunneh was assigned Kiriath Arba (that is Hebron) within the tribe of Judah, according to the Lord’s instructions to Joshua. (Arba was the father of Anak.)
+[13] Caleb son of Jephunneh was assigned Kiriath Arba (that is Hebron) within the tribe of Judah, according to the **Lord**’s instructions to Joshua. (Arba was the father of Anak.)
 [14] Caleb drove out from there three Anakites—Sheshai, Ahiman, and Talmai, descendants of Anak.
 [15] From there he attacked the people of Debir. (Debir used to be called Kiriath Sepher.)
 [16] Caleb said, “To the man who attacks and captures Kiriath Sepher I will give my daughter Achsah as a wife.”
@@ -551,7 +551,7 @@ the king of Goyim—near Gilgal—(one),
 [1] The tribe of Manasseh, Joseph’s firstborn son, was also allotted land. The descendants of Makir, Manasseh’s firstborn and the father of Gilead, received land, for they were warriors. They were assigned Gilead and Bashan.
 [2] The rest of Manasseh’s descendants were also assigned land by their clans, including the descendants of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These are the male descendants of Manasseh son of Joseph by their clans.
 [3] Now Zelophehad son of Hepher, son of Gilead, son of Makir, son of Manasseh, had no sons, only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
-[4] They went before Eleazar the priest, Joshua son of Nun, and the leaders and said, “The Lord told Moses to assign us land among our relatives.” So Joshua assigned them land among their uncles, as the Lord had commanded.
+[4] They went before Eleazar the priest, Joshua son of Nun, and the leaders and said, “The **Lord** told Moses to assign us land among our relatives.” So Joshua assigned them land among their uncles, as the **Lord** had commanded.
 [5] Manasseh was allotted ten shares of land, in addition to the land of Gilead and Bashan east of the Jordan,
 [6] for the daughters of Manasseh were assigned land among his sons. The land of Gilead belonged to the rest of the descendants of Manasseh.
 [7] The border of Manasseh went from Asher to Micmethath, which is near Shechem. It then went south toward those who live by En Tappuah.
@@ -561,7 +561,7 @@ the king of Goyim—near Gilgal—(one),
 [11] Within Issachar’s and Asher’s territories Manasseh was assigned Beth Shean, Ibleam, the residents of Dor, the residents of Endor, the residents of Taanach, the residents of Megiddo, the three of Napheth, and the towns surrounding all these cities.
 [12] But the men of Manasseh were unable to conquer these cities; the Canaanites managed to remain in those areas.
 [13] Whenever the Israelites were strong militarily, they forced the Canaanites to do hard labor, but they never totally conquered them.
-[14] The descendants of Joseph said to Joshua, “Why have you assigned us only one tribal allotment? After all, we have many people, for until now the Lord has enabled us to increase in number.”
+[14] The descendants of Joseph said to Joshua, “Why have you assigned us only one tribal allotment? After all, we have many people, for until now the **Lord** has enabled us to increase in number.”
 [15] Joshua replied to them, “Since you have so many people, go up into the forest and clear out a place to live in the land of the Perizzites and Rephaites, if the hill country of Ephraim is too small for you.”
 [16] The descendants of Joseph said, “The whole hill country is inadequate for us, and the Canaanites living down in the valley in Beth Shean and its surrounding towns and in the Valley of Jezreel have chariots with iron-rimmed wheels.”
 [17] Joshua said to the family of Joseph—to both Ephraim and Manasseh: “You have many people and great military strength. You will not have just one tribal allotment.
@@ -574,14 +574,14 @@ the king of Goyim—near Gilgal—(one),
 
 [1] The entire Israelite community assembled at Shiloh and there they set up the tent of meeting. Though they had subdued the land,
 [2] seven Israelite tribes had not been assigned their allotted land.
-[3] So Joshua said to the Israelites: “How long do you intend to put off occupying the land the Lord God of your ancestors has given you?
+[3] So Joshua said to the Israelites: “How long do you intend to put off occupying the land the **Lord** God of your ancestors has given you?
 [4] Pick three men from each tribe. I will send them out to walk through the land and make a map of it for me.
 [5] Divide it into seven regions. Judah will stay in its territory in the south, and the family of Joseph in its territory in the north.
-[6] But as for you, map out the land into seven regions and bring it to me. I will draw lots for you here before the Lord our God.
-[7] But the Levites will not have an allotted portion among you, for their inheritance is to serve the Lord. Gad, Reuben, and the half-tribe of Manasseh have already received their allotted land east of the Jordan, which Moses the Lord’s servant assigned them.”
-[8] When the men started out, Joshua told those going to map out the land, “Go, walk through the land, map it out, and return to me. Then I will draw lots for you before the Lord here in Shiloh.”
+[6] But as for you, map out the land into seven regions and bring it to me. I will draw lots for you here before the **Lord** our God.
+[7] But the Levites will not have an allotted portion among you, for their inheritance is to serve the **Lord**. Gad, Reuben, and the half-tribe of Manasseh have already received their allotted land east of the Jordan, which Moses the **Lord**’s servant assigned them.”
+[8] When the men started out, Joshua told those going to map out the land, “Go, walk through the land, map it out, and return to me. Then I will draw lots for you before the **Lord** here in Shiloh.”
 [9] The men journeyed through the land and mapped it and its cities out into seven regions on a scroll. Then they came to Joshua at the camp in Shiloh.
-[10] Joshua drew lots for them in Shiloh before the Lord and divided the land among the Israelites according to their allotted portions.
+[10] Joshua drew lots for them in Shiloh before the **Lord** and divided the land among the Israelites according to their allotted portions.
 
 ### Benjamin’s Tribal Lands
 
@@ -676,15 +676,15 @@ the king of Goyim—near Gilgal—(one),
 ### Joshua Receives Land
 
 [49] When they finished dividing the land into its regions, the Israelites gave Joshua son of Nun some land.
-[50] As the Lord had instructed, they gave him the city he requested—Timnath Serah in the Ephraimite hill country. He built up the city and lived in it.
-[51] These are the land assignments that Eleazar the priest, Joshua son of Nun, and the Israelite tribal leaders made by drawing lots in Shiloh before the Lord at the entrance of the tent of meeting. So they finished dividing up the land.
+[50] As the **Lord** had instructed, they gave him the city he requested—Timnath Serah in the Ephraimite hill country. He built up the city and lived in it.
+[51] These are the land assignments that Eleazar the priest, Joshua son of Nun, and the Israelite tribal leaders made by drawing lots in Shiloh before the **Lord** at the entrance of the tent of meeting. So they finished dividing up the land.
 
 ## Chapter 20
 
 
 ### Israel Designates Cities of Refuge
 
-[1] The Lord instructed Joshua:
+[1] The **Lord** instructed Joshua:
 [2] “Have the Israelites select the cities of refuge that I told you about through Moses.
 [3] Anyone who accidentally kills someone can escape there; these cities will be a place of asylum from the avenger of blood.
 [4] The one who committed manslaughter should escape to one of these cities, stand at the entrance of the city gate, and present his case to the leaders of that city. They should then bring him into the city, give him a place to stay, and let him live there.
@@ -700,13 +700,13 @@ the king of Goyim—near Gilgal—(one),
 ### Levitical Cities
 
 [1] The tribal leaders of the Levites went before Eleazar the priest and Joshua son of Nun and the Israelite tribal leaders
-[2] in Shiloh in the land of Canaan and said, “The Lord told Moses to assign us cities in which to live along with the grazing areas for our cattle.”
-[3] So the Israelites assigned these cities and their grazing areas to the Levites from their own holdings, as the Lord had instructed.
+[2] in Shiloh in the land of Canaan and said, “The **Lord** told Moses to assign us cities in which to live along with the grazing areas for our cattle.”
+[3] So the Israelites assigned these cities and their grazing areas to the Levites from their own holdings, as the **Lord** had instructed.
 [4] The first lot belonged to the Kohathite clans. The Levites who were descendants of Aaron the priest were allotted thirteen cities from the tribes of Judah, Simeon, and Benjamin.
 [5] The rest of Kohath’s descendants were allotted ten cities from the clans of the tribe of Ephraim, and from the tribe of Dan and the half-tribe of Manasseh.
 [6] Gershon’s descendants were allotted thirteen cities from the clans of the tribe of Issachar, and from the tribes of Asher and Naphtali and the half-tribe of Manasseh in Bashan.
 [7] Merari’s descendants by their clans were allotted twelve cities from the tribes of Reuben, Gad, and Zebulun.
-[8] So the Israelites assigned to the Levites by lot these cities and their grazing areas, as the Lord had instructed Moses.
+[8] So the Israelites assigned to the Levites by lot these cities and their grazing areas, as the **Lord** had instructed Moses.
 [9] They assigned from the tribes of Judah and Simeon the cities listed below.
 [10] (They were assigned to the Kohathite clans of the Levites who were descendants of Aaron, for the first lot fell to them.)
 [11] They assigned them Kiriath Arba (Arba was the father of Anak), that is, Hebron, in the hill country of Judah, along with its surrounding grazing areas.
@@ -741,9 +741,9 @@ the king of Goyim—near Gilgal—(one),
 [40] The Merarite clans (the remaining Levites) were allotted twelve cities.
 [41] The Levites received within the land owned by the Israelites forty-eight cities in all and their grazing areas.
 [42] Each of these cities had grazing areas around it; they were alike in this regard.
-[43] So the Lord gave Israel all the land he had solemnly promised to their ancestors, and they conquered it and lived in it.
-[44] The Lord made them secure, in fulfillment of all he had solemnly promised their ancestors. None of their enemies could resist them. The Lord handed all their enemies over to them.
-[45] Not one of the Lord’s faithful promises to the family of Israel was left unfulfilled; every one was realized.
+[43] So the **Lord** gave Israel all the land he had solemnly promised to their ancestors, and they conquered it and lived in it.
+[44] The **Lord** made them secure, in fulfillment of all he had solemnly promised their ancestors. None of their enemies could resist them. The **Lord** handed all their enemies over to them.
+[45] Not one of the **Lord**’s faithful promises to the family of Israel was left unfulfilled; every one was realized.
 
 ## Chapter 22
 
@@ -751,14 +751,14 @@ the king of Goyim—near Gilgal—(one),
 ### Joshua Sends Home the Eastern Tribes
 
 [1] Then Joshua summoned the Reubenites, the Gadites, and the half-tribe of Manasseh
-[2] and told them: “You have carried out all the instructions of Moses the Lord’s servant, and you have obeyed all I have told you.
-[3] You have not abandoned your fellow Israelites this entire time, right up to this very day. You have completed the task given you by the Lord your God.
-[4] Now the Lord your God has made your fellow Israelites secure, just as he promised them. So now you may turn around and go to your homes in your own land that Moses the Lord’s servant assigned to you east of the Jordan.
-[5] But carefully obey the commands and instructions Moses the Lord’s servant gave you. Love the Lord your God, follow all his instructions, obey his commands, be loyal to him, and serve him with all your heart and being!”
+[2] and told them: “You have carried out all the instructions of Moses the **Lord**’s servant, and you have obeyed all I have told you.
+[3] You have not abandoned your fellow Israelites this entire time, right up to this very day. You have completed the task given you by the **Lord** your God.
+[4] Now the **Lord** your God has made your fellow Israelites secure, just as he promised them. So now you may turn around and go to your homes in your own land that Moses the **Lord**’s servant assigned to you east of the Jordan.
+[5] But carefully obey the commands and instructions Moses the **Lord**’s servant gave you. Love the **Lord** your God, follow all his instructions, obey his commands, be loyal to him, and serve him with all your heart and being!”
 [6] Joshua rewarded them and sent them on their way; they returned to their homes.
 [7] (Now to one half-tribe of Manasseh, Moses had assigned land in Bashan; and to the other half Joshua had assigned land on the west side of the Jordan with their fellow Israelites.) When Joshua sent them home, he rewarded them,
 [8] saying, “Take home great wealth, a lot of cattle, silver, gold, bronze, iron, and a lot of clothing. Divide up the goods captured from your enemies with your brothers.”
-[9] So the Reubenites, the Gadites, and the half-tribe of Manasseh left the Israelites in Shiloh in the land of Canaan and headed home to their own land in Gilead, which they acquired by the Lord’s command through Moses.
+[9] So the Reubenites, the Gadites, and the half-tribe of Manasseh left the Israelites in Shiloh in the land of Canaan and headed home to their own land in Gilead, which they acquired by the **Lord**’s command through Moses.
 
 ### Civil War is Averted
 
@@ -768,47 +768,47 @@ the king of Goyim—near Gilgal—(one),
 [13] The Israelites sent Phinehas son of Eleazar, the priest, to the land of Gilead to the Reubenites, the Gadites, and the half-tribe of Manasseh.
 [14] He was accompanied by ten leaders, one from each of the Israelite tribes, each one a family leader among the Israelite clans.
 [15] They went to the land of Gilead to the Reubenites, the Gadites, and the half-tribe of Manasseh, and said to them:
-[16] “The entire community of the Lord says, ‘Why have you disobeyed the God of Israel by turning back today from following the Lord? You built an altar for yourselves and have rebelled today against the Lord.
-[17] The sin we committed at Peor was bad enough. To this very day we have not purified ourselves; it even brought a plague on the community of the Lord.
-[18] Now today you dare to turn back from following the Lord! You are rebelling today against the Lord; tomorrow he may break out in anger against the entire community of Israel.
-[19] But if your own land is impure, cross over to the Lord’s own land, where the Lord himself lives, and settle down among us. But don’t rebel against the Lord or us by building for yourselves an altar other than the altar of the Lord our God.
+[16] “The entire community of the **Lord** says, ‘Why have you disobeyed the God of Israel by turning back today from following the **Lord**? You built an altar for yourselves and have rebelled today against the **Lord**.
+[17] The sin we committed at Peor was bad enough. To this very day we have not purified ourselves; it even brought a plague on the community of the **Lord**.
+[18] Now today you dare to turn back from following the **Lord**! You are rebelling today against the **Lord**; tomorrow he may break out in anger against the entire community of Israel.
+[19] But if your own land is impure, cross over to the **Lord**’s own land, where the **Lord** himself lives, and settle down among us. But don’t rebel against the **Lord** or us by building for yourselves an altar other than the altar of the **Lord** our God.
 [20] When Achan son of Zerah disobeyed the command about the city’s riches, the entire Israelite community was judged, though only one man had sinned. He most certainly died for his sin!’”
 [21] The Reubenites, the Gadites, and the half-tribe of Manasseh answered the leaders of the Israelite clans:
-[22] “El, God, the Lord! El, God, the Lord! He knows the truth! Israel must also know! If we have rebelled or disobeyed the Lord, don’t spare us today!
-[23] If we have built an altar for ourselves to turn back from following the Lord by making burnt sacrifices and grain offerings on it, or by offering tokens of peace on it, the Lord himself will punish us.
-[24] We swear we have done this because we were worried that in the future your descendants would say to our descendants, ‘What relationship do you have with the Lord God of Israel?
-[25] The Lord made the Jordan a boundary between us and you Reubenites and Gadites. You have no right to worship the Lord.’ In this way your descendants might cause our descendants to stop obeying the Lord.
+[22] “El, God, the **Lord**! El, God, the **Lord**! He knows the truth! Israel must also know! If we have rebelled or disobeyed the **Lord**, don’t spare us today!
+[23] If we have built an altar for ourselves to turn back from following the **Lord** by making burnt sacrifices and grain offerings on it, or by offering tokens of peace on it, the **Lord** himself will punish us.
+[24] We swear we have done this because we were worried that in the future your descendants would say to our descendants, ‘What relationship do you have with the **Lord** God of Israel?
+[25] The **Lord** made the Jordan a boundary between us and you Reubenites and Gadites. You have no right to worship the **Lord**.’ In this way your descendants might cause our descendants to stop obeying the **Lord**.
 [26] So we decided to build this altar, not for burnt offerings and sacrifices,
-[27] but as a reminder to us and you and our descendants who follow us, that we will honor the Lord in his very presence with burnt offerings, sacrifices, and tokens of peace. Then in the future your descendants will not be able to say to our descendants, ‘You have no right to worship the Lord.’
-[28] We said, ‘If in the future they say such a thing to us or to our descendants, we will reply, “See the model of the Lord’s altar that our ancestors made, not for burnt offerings or sacrifices, but as a reminder to us and you.”’
-[29] Far be it from us to rebel against the Lord by turning back today from following after the Lord by building an altar for burnt offerings, sacrifices, and tokens of peace aside from the altar of the Lord our God located in front of his dwelling place!”
+[27] but as a reminder to us and you and our descendants who follow us, that we will honor the **Lord** in his very presence with burnt offerings, sacrifices, and tokens of peace. Then in the future your descendants will not be able to say to our descendants, ‘You have no right to worship the **Lord**.’
+[28] We said, ‘If in the future they say such a thing to us or to our descendants, we will reply, “See the model of the **Lord**’s altar that our ancestors made, not for burnt offerings or sacrifices, but as a reminder to us and you.”’
+[29] Far be it from us to rebel against the **Lord** by turning back today from following after the **Lord** by building an altar for burnt offerings, sacrifices, and tokens of peace aside from the altar of the **Lord** our God located in front of his dwelling place!”
 [30] When Phinehas the priest and the community leaders and Israel’s clan leaders who accompanied him heard the defense of the Reubenites, the Gadites, and the Manassehites, they were satisfied.
-[31] Phinehas son of Eleazar, the priest, said to the Reubenites, the Gadites, and the Manassehites, “Today we know that the Lord is among us, because you have not disobeyed the Lord in this. Now you have rescued the Israelites from the Lord’s judgment.”
+[31] Phinehas son of Eleazar, the priest, said to the Reubenites, the Gadites, and the Manassehites, “Today we know that the **Lord** is among us, because you have not disobeyed the **Lord** in this. Now you have rescued the Israelites from the **Lord**’s judgment.”
 [32] Phinehas son of Eleazar, the priest, and the leaders left the Reubenites and Gadites in the land of Gilead and reported back to the Israelites in the land of Canaan.
 [33] The Israelites were satisfied with their report and gave thanks to God. They said nothing more about launching an attack to destroy the land in which the Reubenites and Gadites lived.
-[34] The Reubenites and Gadites named the altar, “Surely it is a Reminder to us that the Lord is God.”
+[34] The Reubenites and Gadites named the altar, “Surely it is a Reminder to us that the **Lord** is God.”
 
 ## Chapter 23
 
 
 ### Joshua Challenges Israel to be Faithful
 
-[1] A long time passed after the Lord made Israel secure from all their enemies, and Joshua was very old.
+[1] A long time passed after the **Lord** made Israel secure from all their enemies, and Joshua was very old.
 [2] So Joshua summoned all Israel, including the elders, rulers, judges, and leaders, and told them: “I am very old.
-[3] You saw everything the Lord your God did to all these nations on your behalf, for the Lord your God fights for you.
+[3] You saw everything the **Lord** your God did to all these nations on your behalf, for the **Lord** your God fights for you.
 [4] See, I have parceled out to your tribes these remaining nations, from the Jordan to the Mediterranean Sea in the west, including all the nations I defeated.
-[5] The Lord your God will drive them out from before you and remove them, so you can occupy their land as the Lord your God promised you.
+[5] The **Lord** your God will drive them out from before you and remove them, so you can occupy their land as the **Lord** your God promised you.
 [6] Be very strong! Carefully obey all that is written in the law scroll of Moses so you won’t swerve from it to the right or the left,
 [7] or associate with these nations that remain near you. You must not invoke or make solemn declarations by the names of their gods! You must not worship or bow down to them!
-[8] But you must be loyal to the Lord your God, as you have been to this very day.
-[9] “The Lord drove out from before you great and mighty nations; no one has been able to resist you to this very day.
-[10] One of you makes a thousand run away, for the Lord your God fights for you, as he promised you he would.
-[11] Watch yourselves carefully! Love the Lord your God!
+[8] But you must be loyal to the **Lord** your God, as you have been to this very day.
+[9] “The **Lord** drove out from before you great and mighty nations; no one has been able to resist you to this very day.
+[10] One of you makes a thousand run away, for the **Lord** your God fights for you, as he promised you he would.
+[11] Watch yourselves carefully! Love the **Lord** your God!
 [12] But if you ever turn away and make alliances with these nations that remain near you, and intermarry with them and establish friendly relations with them,
-[13] know for certain that the Lord your God will no longer drive out these nations from before you. They will trap and ensnare you; they will be a whip that tears your sides and thorns that blind your eyes until you disappear from this good land the Lord your God gave you.
-[14] “Look, today I am about to die. You know with all your heart and being that not even one of all the faithful promises the Lord your God made to you is left unfulfilled; every one was realized—not one promise is unfulfilled!
-[15] But in the same way every faithful promise the Lord your God made to you has been realized, it is just as certain that if you disobey, then the Lord will bring on you every judgment until he destroys you from this good land that the Lord your God gave you.
-[16] If you violate the covenantal laws of the Lord your God which he commanded you to keep, and follow, worship, and bow down to other gods, then the Lord will be very angry with you and you will disappear quickly from the good land that he gave to you.”
+[13] know for certain that the **Lord** your God will no longer drive out these nations from before you. They will trap and ensnare you; they will be a whip that tears your sides and thorns that blind your eyes until you disappear from this good land the **Lord** your God gave you.
+[14] “Look, today I am about to die. You know with all your heart and being that not even one of all the faithful promises the **Lord** your God made to you is left unfulfilled; every one was realized—not one promise is unfulfilled!
+[15] But in the same way every faithful promise the **Lord** your God made to you has been realized, it is just as certain that if you disobey, then the **Lord** will bring on you every judgment until he destroys you from this good land that the **Lord** your God gave you.
+[16] If you violate the covenantal laws of the **Lord** your God which he commanded you to keep, and follow, worship, and bow down to other gods, then the **Lord** will be very angry with you and you will disappear quickly from the good land that he gave to you.”
 
 ## Chapter 24
 
@@ -816,38 +816,38 @@ the king of Goyim—near Gilgal—(one),
 ### Israel Renews its Commitment to the Lord
 
 [1] Joshua assembled all the Israelite tribes at Shechem. He summoned Israel’s elders, rulers, judges, and leaders, and they appeared before God.
-[2] Joshua told all the people, “This is what the Lord God of Israel has said: ‘In the distant past your ancestors lived beyond the Euphrates River, including Terah the father of Abraham and Nahor. They worshiped other gods,
+[2] Joshua told all the people, “This is what the **Lord** God of Israel has said: ‘In the distant past your ancestors lived beyond the Euphrates River, including Terah the father of Abraham and Nahor. They worshiped other gods,
 [3] but I took your father Abraham from beyond the Euphrates and brought him into the entire land of Canaan. I made his descendants numerous; I gave him Isaac,
 [4] and to Isaac I gave Jacob and Esau. To Esau I assigned Mount Seir, while Jacob and his sons went down to Egypt.
 [5] I sent Moses and Aaron, and I struck Egypt down when I intervened in their land. Then I brought you out.
 [6] When I brought your fathers out of Egypt, you arrived at the sea. The Egyptians chased your fathers with chariots and horsemen to the Red Sea.
-[7] Your fathers cried out for help to the Lord; he made the area between you and the Egyptians dark, and then he drowned them in the sea. You witnessed with your very own eyes what I did in Egypt. You lived in the wilderness for a long time.
+[7] Your fathers cried out for help to the **Lord**; he made the area between you and the Egyptians dark, and then he drowned them in the sea. You witnessed with your very own eyes what I did in Egypt. You lived in the wilderness for a long time.
 [8] Then I brought you to the land of the Amorites who lived east of the Jordan. They fought with you, but I handed them over to you; you conquered their land, and I destroyed them from before you.
 [9] Balak son of Zippor, king of Moab, launched an attack against Israel. He summoned Balaam son of Beor to call down judgment on you.
 [10] I refused to respond to Balaam; he kept prophesying good things about you, and I rescued you from his power.
 [11] You crossed the Jordan and came to Jericho. The leaders of Jericho, as well as the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites, fought with you, but I handed them over to you.
 [12] I sent terror ahead of you to drive out before you the two Amorite kings. I gave you the victory; it was not by your swords or bows.
 [13] I gave you a land in which you had not worked hard; you took up residence in cities you did not build, and you are eating the produce of vineyards and olive groves you did not plant.’
-[14] “Now obey the Lord and worship him with integrity and loyalty. Put aside the gods your ancestors worshiped beyond the Euphrates and in Egypt, and worship the Lord.
-[15] If you have no desire to worship the Lord, then choose today whom you will worship, whether it be the gods whom your ancestors worshiped beyond the Euphrates, or the gods of the Amorites in whose land you are living. But I and my family will worship the Lord.”
-[16] The people responded, “Far be it from us to abandon the Lord so we can worship other gods!
-[17] For the Lord our God took us and our fathers out of slavery in the land of Egypt and performed these awesome miracles before our very eyes. He continually protected us as we traveled and when we passed through nations.
-[18] The Lord drove out from before us all the nations, including the Amorites who lived in the land. So we too will worship the Lord, for he is our God!”
-[19] Joshua warned the people, “You will not keep worshiping the Lord, for he is a holy God. He is a jealous God who will not forgive your rebellion or your sins.
-[20] If you abandon the Lord and worship foreign gods, he will turn against you; he will bring disaster on you and destroy you, though he once treated you well.”
-[21] The people said to Joshua, “No! We really will worship the Lord.”
-[22] Joshua said to the people, “Do you agree to be witnesses against yourselves that you have chosen to worship the Lord?” They replied, “We are witnesses!”
-[23] Joshua said, “Now put aside the foreign gods that are among you and submit to the Lord God of Israel.”
-[24] The people said to Joshua, “We will worship the Lord our God and obey him.”
+[14] “Now obey the **Lord** and worship him with integrity and loyalty. Put aside the gods your ancestors worshiped beyond the Euphrates and in Egypt, and worship the **Lord**.
+[15] If you have no desire to worship the **Lord**, then choose today whom you will worship, whether it be the gods whom your ancestors worshiped beyond the Euphrates, or the gods of the Amorites in whose land you are living. But I and my family will worship the **Lord**.”
+[16] The people responded, “Far be it from us to abandon the **Lord** so we can worship other gods!
+[17] For the **Lord** our God took us and our fathers out of slavery in the land of Egypt and performed these awesome miracles before our very eyes. He continually protected us as we traveled and when we passed through nations.
+[18] The **Lord** drove out from before us all the nations, including the Amorites who lived in the land. So we too will worship the **Lord**, for he is our God!”
+[19] Joshua warned the people, “You will not keep worshiping the **Lord**, for he is a holy God. He is a jealous God who will not forgive your rebellion or your sins.
+[20] If you abandon the **Lord** and worship foreign gods, he will turn against you; he will bring disaster on you and destroy you, though he once treated you well.”
+[21] The people said to Joshua, “No! We really will worship the **Lord**.”
+[22] Joshua said to the people, “Do you agree to be witnesses against yourselves that you have chosen to worship the **Lord**?” They replied, “We are witnesses!”
+[23] Joshua said, “Now put aside the foreign gods that are among you and submit to the **Lord** God of Israel.”
+[24] The people said to Joshua, “We will worship the **Lord** our God and obey him.”
 [25] That day Joshua drew up an agreement for the people, and he established rules and regulations for them in Shechem.
-[26] Joshua wrote these words in the Law Scroll of God. He then took a large stone and set it up there under the oak tree near the Lord’s sanctuary.
-[27] Joshua said to all the people, “Look, this stone will be a witness against us, for it has heard everything the Lord said to us. It will be a witness against you if you deny your God.”
+[26] Joshua wrote these words in the Law Scroll of God. He then took a large stone and set it up there under the oak tree near the **Lord**’s sanctuary.
+[27] Joshua said to all the people, “Look, this stone will be a witness against us, for it has heard everything the **Lord** said to us. It will be a witness against you if you deny your God.”
 [28] When Joshua dismissed the people, they went to their allotted portions of land.
 
 ### An Era Ends
 
-[29] After all this Joshua son of Nun, the Lord’s servant, died at the age of 110.
+[29] After all this Joshua son of Nun, the **Lord**’s servant, died at the age of 110.
 [30] They buried him in his allotted territory in Timnath Serah in the hill country of Ephraim, north of Mount Gaash.
-[31] Israel worshiped the Lord throughout Joshua’s lifetime and as long as the elderly men who outlived him remained alive. These men had experienced firsthand everything the Lord had done for Israel.
+[31] Israel worshiped the **Lord** throughout Joshua’s lifetime and as long as the elderly men who outlived him remained alive. These men had experienced firsthand everything the **Lord** had done for Israel.
 [32] The bones of Joseph, which the Israelites had brought up from Egypt, were buried at Shechem in the part of the field that Jacob bought from the sons of Hamor, the father of Shechem, for 100 pieces of money. So it became the inheritance of the tribe of Joseph.
 [33] Eleazar son of Aaron died, and they buried him in Gibeah in the hill country of Ephraim, where his son Phinehas had been assigned land.

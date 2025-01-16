@@ -5,7 +5,7 @@
 
 ### Introduction
 
-[1] This is the Lord’s message that came to Micah of Moresheth during the time of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
+[1] This is the **Lord’**s message that came to Micah of Moresheth during the time of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 
 ### The Judge is Coming
 
@@ -77,7 +77,7 @@ because they have the power to do so.
 and seize the houses they want.
 They defraud people of their homes
 and deprive people of the land they have inherited.
-[3] Therefore the Lord says this:
+[3] Therefore the **Lord** says this:
 “Look, I am devising disaster for this nation!
 It will be like a yoke from which you cannot free your neck.
 You will no longer walk proudly,
@@ -144,7 +144,7 @@ like meat in a kettle.
 but he will not answer them.
 He will hide his face from them at that time,
 because they have done such wicked deeds.”
-[5] This is what the Lord has said about the prophets who mislead my people,
+[5] This is what the **Lord** has said about the prophets who mislead my people,
 “If someone gives them enough to eat,
 they offer an oracle of peace.
 But if someone does not give them food,
@@ -308,7 +308,7 @@ on the nations that do not obey me.”
 
 ### The Lord Demands Justice, not Ritual
 
-[1] Listen to what the Lord says:
+[1] Listen to what the **Lord** says:
 “Get up! Defend yourself before the mountains.
 Present your case before the hills.”
 [2] Hear the Lord’s accusation, you mountains,

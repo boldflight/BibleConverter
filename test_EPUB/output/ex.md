@@ -68,12 +68,12 @@
 ## Chapter 3
 
 [1] Now Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian, and he led the flock to the far side of the desert and came to the mountain of God, to Horeb.
-[2] The angel of the Lord appeared to him in a flame of fire from within a bush. He looked, and the bush was ablaze with fire, but it was not being consumed!
+[2] The angel of the **Lord** appeared to him in a flame of fire from within a bush. He looked, and the bush was ablaze with fire, but it was not being consumed!
 [3] So Moses thought, “I will turn aside to see this amazing sight. Why does the bush not burn up?”
-[4] When the Lord saw that he had turned aside to look, God called to him from within the bush and said, “Moses, Moses!” And Moses said, “Here I am.”
+[4] When the **Lord** saw that he had turned aside to look, God called to him from within the bush and said, “Moses, Moses!” And Moses said, “Here I am.”
 [5] God said, “Do not approach any closer! Take your sandals off your feet, for the place where you are standing is holy ground.”
 [6] He added, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” Then Moses hid his face, because he was afraid to look at God.
-[7] The Lord said, “I have surely seen the affliction of my people who are in Egypt. I have heard their cry because of their taskmasters, for I know their sorrows.
+[7] The **Lord** said, “I have surely seen the affliction of my people who are in Egypt. I have heard their cry because of their taskmasters, for I know their sorrows.
 [8] I have come down to deliver them from the hand of the Egyptians and to bring them up from that land to a land that is both good and spacious, to a land flowing with milk and honey, to the region of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.
 [9] And now indeed the cry of the Israelites has come to me, and I have also seen how severely the Egyptians oppress them.
 [10] So now go, and I will send you to Pharaoh to bring my people, the Israelites, out of Egypt.”
@@ -81,10 +81,10 @@
 [12] He replied, “Surely I will be with you, and this will be the sign to you that I have sent you: When you bring the people out of Egypt, you and they will serve God at this mountain.”
 [13] Moses said to God, “If I go to the Israelites and tell them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ —what should I say to them?”
 [14] God said to Moses, “I AM that I AM.” And he said, “You must say this to the Israelites, ‘I AM has sent me to you.’”
-[15] God also said to Moses, “You must say this to the Israelites, ‘The Lord —the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob—has sent me to you. This is my name forever, and this is my memorial from generation to generation.’
-[16] “Go and bring together the elders of Israel and tell them, ‘The Lord, the God of your fathers, appeared to me—the God of Abraham, Isaac, and Jacob—saying, “I have attended carefully to you and to what has been done to you in Egypt,
+[15] God also said to Moses, “You must say this to the Israelites, ‘The **Lord** —the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob—has sent me to you. This is my name forever, and this is my memorial from generation to generation.’
+[16] “Go and bring together the elders of Israel and tell them, ‘The **Lord**, the God of your fathers, appeared to me—the God of Abraham, Isaac, and Jacob—saying, “I have attended carefully to you and to what has been done to you in Egypt,
 [17] and I have promised that I will bring you up out of the affliction of Egypt to the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites, to a land flowing with milk and honey.”’
-[18] “The elders will listen to you, and then you and the elders of Israel must go to the king of Egypt and tell him, ‘The Lord, the God of the Hebrews, has met with us. So now, let us go three days’ journey into the wilderness, so that we may sacrifice to the Lord our God.’
+[18] “The elders will listen to you, and then you and the elders of Israel must go to the king of Egypt and tell him, ‘The **Lord**, the God of the Hebrews, has met with us. So now, let us go three days’ journey into the wilderness, so that we may sacrifice to the **Lord** our God.’
 [19] But I know that the king of Egypt will not let you go, not even under force.
 [20] So I will extend my hand and strike Egypt with all my wonders that I will do among them, and after that he will release you.
 [21] “I will grant this people favor with the Egyptians, so that when you depart you will not leave empty-handed.
@@ -95,20 +95,20 @@
 
 ### The Source of Sufficiency
 
-[1] Moses answered again, “And if they do not believe me or pay attention to me, but say, ‘The Lord has not appeared to you’?”
-[2] The Lord said to him, “What is that in your hand?” He said, “A staff.”
-[3] The Lord said, “Throw it to the ground.” So he threw it to the ground, and it became a snake, and Moses ran from it.
-[4] But the Lord said to Moses, “Put out your hand and grab it by the tail”—so he put out his hand and caught it, and it became a staff in his hand —
-[5] “that they may believe that the Lord, the God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has appeared to you.”
-[6] The Lord also said to him, “Put your hand into your robe.” So he put his hand into his robe, and when he brought it out—there was his hand, leprous like snow!
+[1] Moses answered again, “And if they do not believe me or pay attention to me, but say, ‘The **Lord** has not appeared to you’?”
+[2] The **Lord** said to him, “What is that in your hand?” He said, “A staff.”
+[3] The **Lord** said, “Throw it to the ground.” So he threw it to the ground, and it became a snake, and Moses ran from it.
+[4] But the **Lord** said to Moses, “Put out your hand and grab it by the tail”—so he put out his hand and caught it, and it became a staff in his hand —
+[5] “that they may believe that the **Lord**, the God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has appeared to you.”
+[6] The **Lord** also said to him, “Put your hand into your robe.” So he put his hand into his robe, and when he brought it out—there was his hand, leprous like snow!
 [7] He said, “Put your hand back into your robe.” So he put his hand back into his robe, and when he brought it out from his robe—there it was, restored like the rest of his skin!
 [8] “If they do not believe you or pay attention to the former sign, then they may believe the latter sign.
 [9] And if they do not believe even these two signs or listen to you, then take some water from the Nile and pour it out on the dry ground. The water you take out of the Nile will become blood on the dry ground.”
-[10] Then Moses said to the Lord, “O my Lord, I am not an eloquent man, neither in the past nor since you have spoken to your servant, for I am slow of speech and slow of tongue.”
-[11] The Lord said to him, “Who gave a mouth to man, or who makes a person mute or deaf or seeing or blind? Is it not I, the Lord?
+[10] Then Moses said to the **Lord**, “O my Lord, I am not an eloquent man, neither in the past nor since you have spoken to your servant, for I am slow of speech and slow of tongue.”
+[11] The **Lord** said to him, “Who gave a mouth to man, or who makes a person mute or deaf or seeing or blind? Is it not I, the **Lord**?
 [12] So now go, and I will be with your mouth and will teach you what you must say.”
 [13] But Moses said, “O my Lord, please send anyone else whom you wish to send!”
-[14] Then the Lord became angry with Moses, and he said, “What about your brother Aaron the Levite? I know that he can speak very well. Moreover, he is coming to meet you, and when he sees you he will be glad in his heart.
+[14] Then the **Lord** became angry with Moses, and he said, “What about your brother Aaron the Levite? I know that he can speak very well. Moreover, he is coming to meet you, and when he sees you he will be glad in his heart.
 [15] “So you are to speak to him and put the words in his mouth. And as for me, I will be with your mouth and with his mouth, and I will teach you both what you must do.
 [16] He will speak for you to the people, and it will be as if he were your mouth and as if you were his God.
 [17] You will also take in your hand this staff, with which you will do the signs.”
@@ -116,28 +116,28 @@
 ### The Return of Moses
 
 [18] So Moses went back to his father-in-law Jethro and said to him, “Let me go, so that I may return to my relatives in Egypt and see if they are still alive.” Jethro said to Moses, “Go in peace.”
-[19] The Lord said to Moses in Midian, “Go back to Egypt, because all the men who were seeking your life are dead.”
+[19] The **Lord** said to Moses in Midian, “Go back to Egypt, because all the men who were seeking your life are dead.”
 [20] Then Moses took his wife and sons and put them on a donkey and headed back to the land of Egypt, and Moses took the staff of God in his hand.
-[21] The Lord said to Moses, “When you go back to Egypt, see that you do before Pharaoh all the wonders I have put under your control. But I will harden his heart and he will not let the people go.
-[22] You must say to Pharaoh, ‘This is what the Lord has said, “Israel is my son, my firstborn,
+[21] The **Lord** said to Moses, “When you go back to Egypt, see that you do before Pharaoh all the wonders I have put under your control. But I will harden his heart and he will not let the people go.
+[22] You must say to Pharaoh, ‘This is what the **Lord** has said, “Israel is my son, my firstborn,
 [23] and I said to you, ‘Let my son go that he may serve me,’ but since you have refused to let him go, I will surely kill your son, your firstborn!”’”
-[24] Now on the way, at a place where they stopped for the night, the Lord met Moses and sought to kill him.
+[24] Now on the way, at a place where they stopped for the night, the **Lord** met Moses and sought to kill him.
 [25] But Zipporah took a flint knife, cut off the foreskin of her son and touched it to Moses’ feet, and said, “Surely you are a bridegroom of blood to me.”
-[26] So the Lord let him alone. (At that time she said, “A bridegroom of blood,” referring to the circumcision.)
-[27] The Lord said to Aaron, “Go to the wilderness to meet Moses. So he went and met him at the mountain of God and greeted him with a kiss.
-[28] Moses told Aaron all the words of the Lord who had sent him and all the signs that he had commanded him.
+[26] So the **Lord** let him alone. (At that time she said, “A bridegroom of blood,” referring to the circumcision.)
+[27] The **Lord** said to Aaron, “Go to the wilderness to meet Moses. So he went and met him at the mountain of God and greeted him with a kiss.
+[28] Moses told Aaron all the words of the **Lord** who had sent him and all the signs that he had commanded him.
 [29] Then Moses and Aaron went and brought together all the Israelite elders.
-[30] Aaron spoke all the words that the Lord had spoken to Moses and did the signs in the sight of the people,
-[31] and the people believed. When they heard that the Lord had attended to the Israelites and that he had seen their affliction, they bowed down close to the ground.
+[30] Aaron spoke all the words that the **Lord** had spoken to Moses and did the signs in the sight of the people,
+[31] and the people believed. When they heard that the **Lord** had attended to the Israelites and that he had seen their affliction, they bowed down close to the ground.
 
 ## Chapter 5
 
 
 ### Opposition to the Plan of God
 
-[1] Afterward Moses and Aaron went to Pharaoh and said, “This is what the Lord, the God of Israel, has said, ‘Release my people so that they may hold a pilgrim feast to me in the wilderness.’”
-[2] But Pharaoh said, “Who is the Lord that I should obey him by releasing Israel? I do not know the Lord, and I will not release Israel!”
-[3] And they said, “The God of the Hebrews has met with us. Let us go a three-day journey into the wilderness so that we may sacrifice to the Lord our God, so that he does not strike us with plague or the sword.”
+[1] Afterward Moses and Aaron went to Pharaoh and said, “This is what the **Lord**, the God of Israel, has said, ‘Release my people so that they may hold a pilgrim feast to me in the wilderness.’”
+[2] But Pharaoh said, “Who is the **Lord** that I should obey him by releasing Israel? I do not know the **Lord**, and I will not release Israel!”
+[3] And they said, “The God of the Hebrews has met with us. Let us go a three-day journey into the wilderness so that we may sacrifice to the **Lord** our God, so that he does not strike us with plague or the sword.”
 [4] The king of Egypt said to them, “Moses and Aaron, why do you cause the people to refrain from their work? Return to your labor!”
 [5] Pharaoh was thinking, “The people of the land are now many, and you are giving them rest from their labor.”
 [6] That same day Pharaoh commanded the slave masters and foremen who were over the people:
@@ -151,32 +151,32 @@
 [14] The Israelite foremen whom Pharaoh’s slave masters had set over them were beaten and were asked, “Why did you not complete your requirement for brickmaking as in the past—both yesterday and today?”
 [15] The Israelite foremen went and cried out to Pharaoh, “Why are you treating your servants this way?
 [16] No straw is given to your servants, but we are told, ‘Make bricks!’ Your servants are even being beaten, but the fault is with your people.”
-[17] But Pharaoh replied, “You are slackers! Slackers! That is why you are saying, ‘Let us go sacrifice to the Lord.’”
+[17] But Pharaoh replied, “You are slackers! Slackers! That is why you are saying, ‘Let us go sacrifice to the **Lord**.’”
 [18] So now, get back to work! You will not be given straw, but you must still produce your quota of bricks!”
 [19] The Israelite foremen saw that they were in trouble when they were told, “You must not reduce the daily quota of your bricks.”
 [20] When they went out from Pharaoh, they encountered Moses and Aaron standing there to meet them,
-[21] and they said to them, “May the Lord look on you and judge, because you have made us stink in the opinion of Pharaoh and his servants, so that you have given them an excuse to kill us!”
+[21] and they said to them, “May the **Lord** look on you and judge, because you have made us stink in the opinion of Pharaoh and his servants, so that you have given them an excuse to kill us!”
 
 ### The Assurance of Deliverance
 
-[22] Moses returned to the Lord, and said, “Lord, why have you caused trouble for this people? Why did you ever send me?
+[22] Moses returned to the **Lord**, and said, “Lord, why have you caused trouble for this people? Why did you ever send me?
 [23] From the time I went to speak to Pharaoh in your name, he has caused trouble for this people, and you have certainly not rescued them!”
 
 ## Chapter 6
 
-[1] Then the Lord said to Moses, “Now you will see what I will do to Pharaoh, for compelled by my strong hand he will release them, and by my strong hand he will drive them out of his land.”
-[2] God spoke to Moses and said to him, “I am the Lord.
-[3] I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by my name ‘the Lord’ I was not known to them.
+[1] Then the **Lord** said to Moses, “Now you will see what I will do to Pharaoh, for compelled by my strong hand he will release them, and by my strong hand he will drive them out of his land.”
+[2] God spoke to Moses and said to him, “I am the **Lord**.
+[3] I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by my name ‘the **Lord**’ I was not known to them.
 [4] I also established my covenant with them to give them the land of Canaan, where they were living as resident foreigners.
 [5] I have also heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant.
-[6] Therefore, tell the Israelites, ‘I am the Lord. I will bring you out from your enslavement to the Egyptians, I will rescue you from the hard labor they impose, and I will redeem you with an outstretched arm and with great judgments.
-[7] I will take you to myself for a people, and I will be your God. Then you will know that I am the Lord your God, who brought you out from your enslavement to the Egyptians.
-[8] I will bring you to the land I swore to give to Abraham, to Isaac, and to Jacob—and I will give it to you as a possession. I am the Lord.’”
+[6] Therefore, tell the Israelites, ‘I am the **Lord**. I will bring you out from your enslavement to the Egyptians, I will rescue you from the hard labor they impose, and I will redeem you with an outstretched arm and with great judgments.
+[7] I will take you to myself for a people, and I will be your God. Then you will know that I am the **Lord** your God, who brought you out from your enslavement to the Egyptians.
+[8] I will bring you to the land I swore to give to Abraham, to Isaac, and to Jacob—and I will give it to you as a possession. I am the **Lord**.’”
 [9] Moses told this to the Israelites, but they did not listen to him because of their discouragement and hard labor.
-[10] Then the Lord said to Moses,
+[10] Then the **Lord** said to Moses,
 [11] “Go, tell Pharaoh king of Egypt that he must release the Israelites from his land.”
-[12] But Moses replied to the Lord, “If the Israelites did not listen to me, then how will Pharaoh listen to me, since I speak with difficulty?”
-[13] The Lord spoke to Moses and Aaron and gave them a charge for the Israelites and Pharaoh king of Egypt to bring the Israelites out of the land of Egypt.
+[12] But Moses replied to the **Lord**, “If the Israelites did not listen to me, then how will Pharaoh listen to me, since I speak with difficulty?”
+[13] The **Lord** spoke to Moses and Aaron and gave them a charge for the Israelites and Pharaoh king of Egypt to bring the Israelites out of the land of Egypt.
 
 ### The Ancestry of Moses and Aaron
 
@@ -192,42 +192,42 @@
 [23] Aaron married Elisheba, the daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar.
 [24] The sons of Korah were Assir, Elkanah, and Abiasaph. These were the Korahite clans.
 [25] Now Eleazar son of Aaron married one of the daughters of Putiel and she bore him Phinehas.
-[26] It was the same Aaron and Moses to whom the Lord said, “Bring the Israelites out of the land of Egypt by their regiments.”
+[26] It was the same Aaron and Moses to whom the **Lord** said, “Bring the Israelites out of the land of Egypt by their regiments.”
 [27] They were the men who were speaking to Pharaoh king of Egypt, in order to bring the Israelites out of Egypt. It was the same Moses and Aaron.
 
 ### The Authentication of the Word
 
-[28] When the Lord spoke to Moses in the land of Egypt,
-[29] he said to him, “I am the Lord. Tell Pharaoh king of Egypt all that I am telling you.”
-[30] But Moses said before the Lord, “Since I speak with difficulty, why should Pharaoh listen to me?”
+[28] When the **Lord** spoke to Moses in the land of Egypt,
+[29] he said to him, “I am the **Lord**. Tell Pharaoh king of Egypt all that I am telling you.”
+[30] But Moses said before the **Lord**, “Since I speak with difficulty, why should Pharaoh listen to me?”
 
 ## Chapter 7
 
-[1] So the Lord said to Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.
+[1] So the **Lord** said to Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.
 [2] You are to speak everything I command you, and your brother Aaron is to tell Pharaoh that he must release the Israelites from his land.
 [3] But I will harden Pharaoh’s heart, and although I will multiply my signs and my wonders in the land of Egypt,
 [4] Pharaoh will not listen to you. I will reach into Egypt and bring out my regiments, my people the Israelites, from the land of Egypt with great acts of judgment.
-[5] Then the Egyptians will know that I am the Lord when I extend my hand over Egypt and bring the Israelites out from among them.”
-[6] And Moses and Aaron did so; they did just as the Lord commanded them.
+[5] Then the Egyptians will know that I am the **Lord** when I extend my hand over Egypt and bring the Israelites out from among them.”
+[6] And Moses and Aaron did so; they did just as the **Lord** commanded them.
 [7] Now Moses was eighty years old and Aaron was eighty-three years old when they spoke to Pharaoh.
-[8] The Lord said to Moses and Aaron,
+[8] The **Lord** said to Moses and Aaron,
 [9] “When Pharaoh says to you, ‘Do a miracle,’ and you say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ it will become a snake.”
-[10] When Moses and Aaron went to Pharaoh, they did so, just as the Lord had commanded them—Aaron threw down his staff before Pharaoh and his servants and it became a snake.
+[10] When Moses and Aaron went to Pharaoh, they did so, just as the **Lord** had commanded them—Aaron threw down his staff before Pharaoh and his servants and it became a snake.
 [11] Then Pharaoh also summoned wise men and sorcerers, and the magicians of Egypt by their secret arts did the same thing.
 [12] Each man threw down his staff, and the staffs became snakes. But Aaron’s staff swallowed up their staffs.
-[13] Yet Pharaoh’s heart became hard, and he did not listen to them, just as the Lord had predicted.
+[13] Yet Pharaoh’s heart became hard, and he did not listen to them, just as the **Lord** had predicted.
 
 ### Plague One: Water to Blood
 
-[14] The Lord said to Moses, “Pharaoh’s heart is hard; he refuses to release the people.
+[14] The **Lord** said to Moses, “Pharaoh’s heart is hard; he refuses to release the people.
 [15] Go to Pharaoh in the morning when he goes out to the water. Position yourself to meet him by the edge of the Nile, and take in your hand the staff that was turned into a snake.
-[16] Tell him, ‘The Lord, the God of the Hebrews, has sent me to you to say, “Release my people, that they may serve me in the wilderness!” But until now you have not listened.
-[17] This is what the Lord has said: “By this you will know that I am the Lord: I am going to strike the water of the Nile with the staff that is in my hand, and it will be turned into blood.
+[16] Tell him, ‘The **Lord**, the God of the Hebrews, has sent me to you to say, “Release my people, that they may serve me in the wilderness!” But until now you have not listened.
+[17] This is what the **Lord** has said: “By this you will know that I am the **Lord**: I am going to strike the water of the Nile with the staff that is in my hand, and it will be turned into blood.
 [18] Fish in the Nile will die, the Nile will stink, and the Egyptians will be unable to drink water from the Nile.”’”
-[19] Then the Lord said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over Egypt’s waters—over their rivers, over their canals, over their ponds, and over all their reservoirs —so that it becomes blood.’ There will be blood everywhere in the land of Egypt, even in wooden and stone containers.”
-[20] Moses and Aaron did so, just as the Lord had commanded. He raised the staff and struck the water that was in the Nile right before the eyes of Pharaoh and his servants, and all the water that was in the Nile was turned to blood.
+[19] Then the **Lord** said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over Egypt’s waters—over their rivers, over their canals, over their ponds, and over all their reservoirs —so that it becomes blood.’ There will be blood everywhere in the land of Egypt, even in wooden and stone containers.”
+[20] Moses and Aaron did so, just as the **Lord** had commanded. He raised the staff and struck the water that was in the Nile right before the eyes of Pharaoh and his servants, and all the water that was in the Nile was turned to blood.
 [21] When the fish that were in the Nile died, the Nile began to stink, so that the Egyptians could not drink water from the Nile. There was blood everywhere in the land of Egypt!
-[22] But the magicians of Egypt did the same by their secret arts, and so Pharaoh’s heart remained hard, and he refused to listen to Moses and Aaron —just as the Lord had predicted.
+[22] But the magicians of Egypt did the same by their secret arts, and so Pharaoh’s heart remained hard, and he refused to listen to Moses and Aaron —just as the **Lord** had predicted.
 [23] And Pharaoh turned and went into his house. He did not pay any attention to this.
 [24] All the Egyptians dug around the Nile for water to drink, because they could not drink the water of the Nile.
 
@@ -236,44 +236,44 @@
 
 ### Plague Two: Frogs
 
-[25] Seven full days passed after the Lord struck the Nile.
+[25] Seven full days passed after the **Lord** struck the Nile.
 [1] (
 [2] But if you refuse to release them, then I am going to plague all your territory with frogs.
 [3] The Nile will swarm with frogs, and they will come up and go into your house, in your bedroom, and on your bed, and into the houses of your servants and your people, and into your ovens and your kneading troughs.
 [4] Frogs will come up against you, your people, and all your servants.”’”
-[5] The Lord spoke to Moses, “Tell Aaron, ‘Extend your hand with your staff over the rivers, over the canals, and over the ponds, and bring the frogs up over the land of Egypt.’”
+[5] The **Lord** spoke to Moses, “Tell Aaron, ‘Extend your hand with your staff over the rivers, over the canals, and over the ponds, and bring the frogs up over the land of Egypt.’”
 [6] So Aaron extended his hand over the waters of Egypt, and frogs came up and covered the land of Egypt.
 [7] The magicians did the same with their secret arts and brought up frogs on the land of Egypt too.
-[8] Then Pharaoh summoned Moses and Aaron and said, “Pray to the Lord that he may take the frogs away from me and my people, and I will release the people that they may sacrifice to the Lord.”
+[8] Then Pharaoh summoned Moses and Aaron and said, “Pray to the **Lord** that he may take the frogs away from me and my people, and I will release the people that they may sacrifice to the **Lord**.”
 [9] Moses said to Pharaoh, “You may have the honor over me —when shall I pray for you, your servants, and your people, for the frogs to be removed from you and your houses, so that they will be left only in the Nile?”
-[10] He said, “Tomorrow.” And Moses said, “It will be as you say, so that you may know that there is no one like the Lord our God.
+[10] He said, “Tomorrow.” And Moses said, “It will be as you say, so that you may know that there is no one like the **Lord** our God.
 [11] The frogs will depart from you, your houses, your servants, and your people; they will be left only in the Nile.”
-[12] Then Moses and Aaron went out from Pharaoh, and Moses cried to the Lord because of the frogs that he had brought on Pharaoh.
-[13] The Lord did as Moses asked —the frogs died in the houses, the villages, and the fields.
+[12] Then Moses and Aaron went out from Pharaoh, and Moses cried to the **Lord** because of the frogs that he had brought on Pharaoh.
+[13] The **Lord** did as Moses asked —the frogs died in the houses, the villages, and the fields.
 [14] The Egyptians piled them in countless heaps, and the land stank.
-[15] But when Pharaoh saw that there was relief, he hardened his heart and did not listen to them, just as the Lord had predicted.
+[15] But when Pharaoh saw that there was relief, he hardened his heart and did not listen to them, just as the **Lord** had predicted.
 
 ### Plague Three: Gnats
 
-[16] The Lord said to Moses, “Tell Aaron, ‘Extend your staff and strike the dust of the ground, and it will become gnats throughout all the land of Egypt.’”
+[16] The **Lord** said to Moses, “Tell Aaron, ‘Extend your staff and strike the dust of the ground, and it will become gnats throughout all the land of Egypt.’”
 [17] They did so; Aaron extended his hand with his staff, he struck the dust of the ground, and it became gnats on people and on animals. All the dust of the ground became gnats throughout all the land of Egypt.
 [18] When the magicians attempted to bring forth gnats by their secret arts, they could not. So there were gnats on people and on animals.
-[19] The magicians said to Pharaoh, “It is the finger of God!” But Pharaoh’s heart remained hard, and he did not listen to them, just as the Lord had predicted.
+[19] The magicians said to Pharaoh, “It is the finger of God!” But Pharaoh’s heart remained hard, and he did not listen to them, just as the **Lord** had predicted.
 
 ### Plague Four: Flies
 
-[20] The Lord said to Moses, “Get up early in the morning and position yourself before Pharaoh as he goes out to the water, and tell him, ‘This is what the Lord has said, “Release my people that they may serve me!
+[20] The **Lord** said to Moses, “Get up early in the morning and position yourself before Pharaoh as he goes out to the water, and tell him, ‘This is what the **Lord** has said, “Release my people that they may serve me!
 [21] If you do not release my people, then I am going to send swarms of flies on you and on your servants and on your people and in your houses. The houses of the Egyptians will be full of flies, and even the ground they stand on.
-[22] But on that day I will mark off the land of Goshen, where my people are staying, so that no swarms of flies will be there, that you may know that I am the Lord in the midst of this land.
+[22] But on that day I will mark off the land of Goshen, where my people are staying, so that no swarms of flies will be there, that you may know that I am the **Lord** in the midst of this land.
 [23] I will put a division between my people and your people. This sign will take place tomorrow.”’”
-[24] The Lord did so; a thick swarm of flies came into Pharaoh’s house and into the houses of his servants, and throughout the whole land of Egypt the land was ruined because of the swarms of flies.
+[24] The **Lord** did so; a thick swarm of flies came into Pharaoh’s house and into the houses of his servants, and throughout the whole land of Egypt the land was ruined because of the swarms of flies.
 [25] Then Pharaoh summoned Moses and Aaron and said, “Go, sacrifice to your God within the land.”
-[26] But Moses said, “That would not be the right thing to do, for the sacrifices we make to the Lord our God would be an abomination to the Egyptians. If we make sacrifices that are an abomination to the Egyptians right before their eyes, will they not stone us?
-[27] We must go on a three-day journey into the wilderness and sacrifice to the Lord our God, just as he is telling us.”
-[28] Pharaoh said, “I will release you so that you may sacrifice to the Lord your God in the wilderness. Only you must not go very far. Do pray for me.”
-[29] Moses said, “I am going to go out from you and pray to the Lord, and the swarms of flies will go away from Pharaoh, from his servants, and from his people tomorrow. Only do not let Pharaoh deal falsely again by not releasing the people to sacrifice to the Lord.”
-[30] So Moses went out from Pharaoh and prayed to the Lord,
-[31] and the Lord did as Moses asked —he removed the swarms of flies from Pharaoh, from his servants, and from his people. Not one remained!
+[26] But Moses said, “That would not be the right thing to do, for the sacrifices we make to the **Lord** our God would be an abomination to the Egyptians. If we make sacrifices that are an abomination to the Egyptians right before their eyes, will they not stone us?
+[27] We must go on a three-day journey into the wilderness and sacrifice to the **Lord** our God, just as he is telling us.”
+[28] Pharaoh said, “I will release you so that you may sacrifice to the **Lord** your God in the wilderness. Only you must not go very far. Do pray for me.”
+[29] Moses said, “I am going to go out from you and pray to the **Lord**, and the swarms of flies will go away from Pharaoh, from his servants, and from his people tomorrow. Only do not let Pharaoh deal falsely again by not releasing the people to sacrifice to the **Lord**.”
+[30] So Moses went out from Pharaoh and prayed to the **Lord**,
+[31] and the **Lord** did as Moses asked —he removed the swarms of flies from Pharaoh, from his servants, and from his people. Not one remained!
 [32] But Pharaoh hardened his heart this time also and did not release the people.
 
 ## Chapter 9
@@ -281,83 +281,83 @@
 
 ### Plague Five: Disease
 
-[1] Then the Lord said to Moses, “Go to Pharaoh and tell him, ‘This is what the Lord, the God of the Hebrews, has said, “Release my people that they may serve me!
+[1] Then the **Lord** said to Moses, “Go to Pharaoh and tell him, ‘This is what the **Lord**, the God of the Hebrews, has said, “Release my people that they may serve me!
 [2] For if you refuse to release them and continue holding them,
-[3] then the hand of the Lord will surely bring a very terrible plague on your livestock in the field, on the horses, the donkeys, the camels, the herds, and the flocks.
-[4] But the Lord will distinguish between the livestock of Israel and the livestock of Egypt, and nothing will die of all that the Israelites have.”’”
-[5] The Lord set an appointed time, saying, “Tomorrow the Lord will do this in the land.”
-[6] And the Lord did this on the next day; all the livestock of the Egyptians died, but of the Israelites’ livestock not one died.
+[3] then the hand of the **Lord** will surely bring a very terrible plague on your livestock in the field, on the horses, the donkeys, the camels, the herds, and the flocks.
+[4] But the **Lord** will distinguish between the livestock of Israel and the livestock of Egypt, and nothing will die of all that the Israelites have.”’”
+[5] The **Lord** set an appointed time, saying, “Tomorrow the **Lord** will do this in the land.”
+[6] And the **Lord** did this on the next day; all the livestock of the Egyptians died, but of the Israelites’ livestock not one died.
 [7] Pharaoh sent representatives to investigate, and indeed, not even one of the livestock of Israel had died. But Pharaoh’s heart remained hard, and he did not release the people.
 
 ### Plague Six: Boils
 
-[8] Then the Lord said to Moses and Aaron, “Take handfuls of soot from a furnace, and have Moses throw it into the air while Pharaoh is watching.
+[8] Then the **Lord** said to Moses and Aaron, “Take handfuls of soot from a furnace, and have Moses throw it into the air while Pharaoh is watching.
 [9] It will become fine dust over the whole land of Egypt and will cause boils to break out and fester on both people and animals in all the land of Egypt.”
 [10] So they took soot from a furnace and stood before Pharaoh, Moses threw it into the air, and it caused festering boils to break out on both people and animals.
 [11] The magicians could not stand before Moses because of the boils, for boils were on the magicians and on all the Egyptians.
-[12] But the Lord hardened Pharaoh’s heart, and he did not listen to them, just as the Lord had predicted to Moses.
+[12] But the **Lord** hardened Pharaoh’s heart, and he did not listen to them, just as the **Lord** had predicted to Moses.
 
 ### Plague Seven: Hail
 
-[13] The Lord said to Moses, “Get up early in the morning, stand before Pharaoh, and tell him, ‘This is what the Lord, the God of the Hebrews, has said: “Release my people so that they may serve me!
+[13] The **Lord** said to Moses, “Get up early in the morning, stand before Pharaoh, and tell him, ‘This is what the **Lord**, the God of the Hebrews, has said: “Release my people so that they may serve me!
 [14] For this time I will send all my plagues on your very self and on your servants and your people, so that you may know that there is no one like me in all the earth.
 [15] For by now I could have stretched out my hand and struck you and your people with plague, and you would have been destroyed from the earth.
 [16] But for this purpose I have caused you to stand: to show you my strength, and so that my name may be declared in all the earth.
 [17] You are still exalting yourself against my people by not releasing them.
 [18] I am going to cause very severe hail to rain down about this time tomorrow, such hail as has never occurred in Egypt from the day it was founded until now.
 [19] So now, send instructions to gather your livestock and all your possessions in the fields to a safe place. Every person or animal caught in the field and not brought into the house—the hail will come down on them, and they will die!”’”
-[20] Those of Pharaoh’s servants who feared the Lord’s message hurried to bring their servants and livestock into the houses,
-[21] but those who did not take the Lord’s message seriously left their servants and their cattle in the field.
-[22] Then the Lord said to Moses, “Extend your hand toward the sky that there may be hail in all the land of Egypt, on people and on animals, and on everything that grows in the field in the land of Egypt.”
-[23] When Moses extended his staff toward the sky, the Lord sent thunder and hail, and fire fell to the earth; so the Lord caused hail to rain down on the land of Egypt.
+[20] Those of Pharaoh’s servants who feared the **Lord**’s message hurried to bring their servants and livestock into the houses,
+[21] but those who did not take the **Lord**’s message seriously left their servants and their cattle in the field.
+[22] Then the **Lord** said to Moses, “Extend your hand toward the sky that there may be hail in all the land of Egypt, on people and on animals, and on everything that grows in the field in the land of Egypt.”
+[23] When Moses extended his staff toward the sky, the **Lord** sent thunder and hail, and fire fell to the earth; so the **Lord** caused hail to rain down on the land of Egypt.
 [24] Hail fell and fire mingled with the hail; the hail was so severe that there had not been any like it in all the land of Egypt since it had become a nation.
 [25] The hail struck everything in the open fields, both people and animals, throughout all the land of Egypt. The hail struck everything that grows in the field, and it broke all the trees of the field to pieces.
 [26] Only in the land of Goshen, where the Israelites lived, was there no hail.
-[27] So Pharaoh sent and summoned Moses and Aaron and said to them, “I have sinned this time! The Lord is righteous, and I and my people are guilty.
-[28] Pray to the Lord, for the mighty thunderings and hail are too much! I will release you and you will stay no longer.”
-[29] Moses said to him, “When I leave the city I will spread my hands to the Lord, the thunder will cease, and there will be no more hail, so that you may know that the earth belongs to the Lord.
-[30] But as for you and your servants, I know that you do not yet fear the Lord God.”
+[27] So Pharaoh sent and summoned Moses and Aaron and said to them, “I have sinned this time! The **Lord** is righteous, and I and my people are guilty.
+[28] Pray to the **Lord**, for the mighty thunderings and hail are too much! I will release you and you will stay no longer.”
+[29] Moses said to him, “When I leave the city I will spread my hands to the **Lord**, the thunder will cease, and there will be no more hail, so that you may know that the earth belongs to the **Lord**.
+[30] But as for you and your servants, I know that you do not yet fear the **Lord** God.”
 [31] (Now the flax and the barley were struck by the hail, for the barley had ripened and the flax was in bud.
 [32] But the wheat and the spelt were not struck, for they are later crops.)
-[33] So Moses left Pharaoh, went out of the city, and spread out his hands to the Lord, and the thunder and the hail ceased, and the rain stopped pouring on the earth.
+[33] So Moses left Pharaoh, went out of the city, and spread out his hands to the **Lord**, and the thunder and the hail ceased, and the rain stopped pouring on the earth.
 [34] When Pharaoh saw that the rain and hail and thunder ceased, he sinned again: both he and his servants hardened their hearts.
-[35] So Pharaoh’s heart remained hard, and he did not release the Israelites, as the Lord had predicted through Moses.
+[35] So Pharaoh’s heart remained hard, and he did not release the Israelites, as the **Lord** had predicted through Moses.
 
 ## Chapter 10
 
 
 ### Plague Eight: Locusts
 
-[1] The Lord said to Moses, “Go to Pharaoh, for I have hardened his heart and the heart of his servants, in order to display these signs of mine before him,
-[2] and in order that in the hearing of your son and your grandson you may tell how I made fools of the Egyptians and about my signs that I displayed among them, so that you may know that I am the Lord.”
-[3] So Moses and Aaron came to Pharaoh and told him, “This is what the Lord, the God of the Hebrews, has said: ‘How long do you refuse to humble yourself before me? Release my people so that they may serve me!
+[1] The **Lord** said to Moses, “Go to Pharaoh, for I have hardened his heart and the heart of his servants, in order to display these signs of mine before him,
+[2] and in order that in the hearing of your son and your grandson you may tell how I made fools of the Egyptians and about my signs that I displayed among them, so that you may know that I am the **Lord**.”
+[3] So Moses and Aaron came to Pharaoh and told him, “This is what the **Lord**, the God of the Hebrews, has said: ‘How long do you refuse to humble yourself before me? Release my people so that they may serve me!
 [4] But if you refuse to release my people, I am going to bring locusts into your territory tomorrow.
 [5] They will cover the surface of the earth, so that you will be unable to see the ground. They will eat the remainder of what escaped —what is left over for you—from the hail, and they will eat every tree that grows for you from the field.
 [6] They will fill your houses, the houses of your servants, and all the houses of Egypt, such as neither your fathers nor your grandfathers have seen since they have been in the land until this day!’” Then Moses turned and went out from Pharaoh.
-[7] Pharaoh’s servants said to him, “How long will this man be a menace to us? Release the people so that they may serve the Lord their God. Do you not know that Egypt is destroyed?”
-[8] So Moses and Aaron were brought back to Pharaoh, and he said to them, “Go, serve the Lord your God. Exactly who is going with you?”
-[9] Moses said, “We will go with our young and our old, with our sons and our daughters, and with our sheep and our cattle we will go, because we are to hold a pilgrim feast for the Lord.”
-[10] He said to them, “The Lord will need to be with you if I release you and your dependents! Watch out! Trouble is right in front of you.
-[11] No! Go, you men only, and serve the Lord, for that is what you want.” Then Moses and Aaron were driven out of Pharaoh’s presence.
-[12] The Lord said to Moses, “Extend your hand over the land of Egypt for the locusts, that they may come up over the land of Egypt and eat everything that grows in the ground, everything that the hail has left.”
-[13] So Moses extended his staff over the land of Egypt, and then the Lord brought an east wind on the land all that day and all night. The morning came, and the east wind had brought up the locusts!
+[7] Pharaoh’s servants said to him, “How long will this man be a menace to us? Release the people so that they may serve the **Lord** their God. Do you not know that Egypt is destroyed?”
+[8] So Moses and Aaron were brought back to Pharaoh, and he said to them, “Go, serve the **Lord** your God. Exactly who is going with you?”
+[9] Moses said, “We will go with our young and our old, with our sons and our daughters, and with our sheep and our cattle we will go, because we are to hold a pilgrim feast for the **Lord**.”
+[10] He said to them, “The **Lord** will need to be with you if I release you and your dependents! Watch out! Trouble is right in front of you.
+[11] No! Go, you men only, and serve the **Lord**, for that is what you want.” Then Moses and Aaron were driven out of Pharaoh’s presence.
+[12] The **Lord** said to Moses, “Extend your hand over the land of Egypt for the locusts, that they may come up over the land of Egypt and eat everything that grows in the ground, everything that the hail has left.”
+[13] So Moses extended his staff over the land of Egypt, and then the **Lord** brought an east wind on the land all that day and all night. The morning came, and the east wind had brought up the locusts!
 [14] The locusts went up over all the land of Egypt and settled down in all the territory of Egypt. It was very severe; there had been no locusts like them before, nor will there be such ever again.
 [15] They covered the surface of all the ground so that the ground became dark with them, and they ate all the vegetation of the ground and all the fruit of the trees that the hail had left. Nothing green remained on the trees or on anything that grew in the fields throughout the whole land of Egypt.
-[16] Then Pharaoh quickly summoned Moses and Aaron and said, “I have sinned against the Lord your God and against you!
-[17] So now, forgive my sin this time only, and pray to the Lord your God that he would only take this death away from me.”
-[18] Moses went out from Pharaoh and prayed to the Lord,
-[19] and the Lord turned a very strong west wind, and it picked up the locusts and blew them into the Red Sea. Not one locust remained in all the territory of Egypt.
-[20] But the Lord hardened Pharaoh’s heart, and he did not release the Israelites.
+[16] Then Pharaoh quickly summoned Moses and Aaron and said, “I have sinned against the **Lord** your God and against you!
+[17] So now, forgive my sin this time only, and pray to the **Lord** your God that he would only take this death away from me.”
+[18] Moses went out from Pharaoh and prayed to the **Lord**,
+[19] and the **Lord** turned a very strong west wind, and it picked up the locusts and blew them into the Red Sea. Not one locust remained in all the territory of Egypt.
+[20] But the **Lord** hardened Pharaoh’s heart, and he did not release the Israelites.
 
 ### Plague Nine: Darkness
 
-[21] The Lord said to Moses, “Extend your hand toward heaven so that there may be darkness over the land of Egypt, a darkness so thick it can be felt.”
+[21] The **Lord** said to Moses, “Extend your hand toward heaven so that there may be darkness over the land of Egypt, a darkness so thick it can be felt.”
 [22] So Moses extended his hand toward heaven, and there was absolute darkness throughout the land of Egypt for three days.
 [23] No one could see another person, and no one could rise from his place for three days. But the Israelites had light in the places where they lived.
-[24] Then Pharaoh summoned Moses and said, “Go, serve the Lord—only your flocks and herds will be detained. Even your families may go with you.”
-[25] But Moses said, “Will you also provide us with sacrifices and burnt offerings that we may present them to the Lord our God?
-[26] Our livestock must also go with us! Not a hoof is to be left behind! For we must take these animals to serve the Lord our God. Until we arrive there, we do not know what we must use to serve the Lord.”
-[27] But the Lord hardened Pharaoh’s heart, and he was not willing to release them.
+[24] Then Pharaoh summoned Moses and said, “Go, serve the **Lord**—only your flocks and herds will be detained. Even your families may go with you.”
+[25] But Moses said, “Will you also provide us with sacrifices and burnt offerings that we may present them to the **Lord** our God?
+[26] Our livestock must also go with us! Not a hoof is to be left behind! For we must take these animals to serve the **Lord** our God. Until we arrive there, we do not know what we must use to serve the **Lord**.”
+[27] But the **Lord** hardened Pharaoh’s heart, and he was not willing to release them.
 [28] Pharaoh said to him, “Go from me! Watch out for yourself! Do not appear before me again, for when you see my face you will die!”
 [29] Moses said, “As you wish! I will not see your face again.”
 
@@ -366,23 +366,23 @@
 
 ### Plague Ten: Death
 
-[1] The Lord said to Moses, “I will bring one more plague on Pharaoh and on Egypt; after that he will release you from this place. When he releases you, he will drive you out completely from this place.
+[1] The **Lord** said to Moses, “I will bring one more plague on Pharaoh and on Egypt; after that he will release you from this place. When he releases you, he will drive you out completely from this place.
 [2] Instruct the people that each man and each woman is to request from his or her neighbor items of silver and gold.”
-[3] (Now the Lord granted the people favor with the Egyptians. Moreover, the man Moses was very great in the land of Egypt, respected by Pharaoh’s servants and by the Egyptian people.)
-[4] Moses said, “This is what the Lord has said: ‘About midnight I will go throughout Egypt,
+[3] (Now the **Lord** granted the people favor with the Egyptians. Moreover, the man Moses was very great in the land of Egypt, respected by Pharaoh’s servants and by the Egyptian people.)
+[4] Moses said, “This is what the **Lord** has said: ‘About midnight I will go throughout Egypt,
 [5] and all the firstborn in the land of Egypt will die, from the firstborn son of Pharaoh who sits on his throne, to the firstborn son of the slave girl who is at her hand mill, and all the firstborn of the cattle.
 [6] There will be a great cry throughout the whole land of Egypt, such as there has never been, nor ever will be again.
-[7] But against any of the Israelites not even a dog will bark against either people or animals, so that you may know that the Lord distinguishes between Egypt and Israel.’
+[7] But against any of the Israelites not even a dog will bark against either people or animals, so that you may know that the **Lord** distinguishes between Egypt and Israel.’
 [8] All these your servants will come down to me and bow down to me, saying, ‘Go, you and all the people who follow you,’ and after that I will go out.” Then Moses went out from Pharaoh in great anger.
-[9] The Lord said to Moses, “Pharaoh will not listen to you, so that my wonders may be multiplied in the land of Egypt.”
-[10] So Moses and Aaron did all these wonders before Pharaoh, but the Lord hardened Pharaoh’s heart, and he did not release the Israelites from his land.
+[9] The **Lord** said to Moses, “Pharaoh will not listen to you, so that my wonders may be multiplied in the land of Egypt.”
+[10] So Moses and Aaron did all these wonders before Pharaoh, but the **Lord** hardened Pharaoh’s heart, and he did not release the Israelites from his land.
 
 ## Chapter 12
 
 
 ### The Institution of the Passover
 
-[1] The Lord said to Moses and Aaron in the land of Egypt,
+[1] The **Lord** said to Moses and Aaron in the land of Egypt,
 [2] “This month is to be your beginning of months; it will be your first month of the year.
 [3] Tell the whole community of Israel, ‘On the tenth day of this month they each must take a lamb for themselves according to their families —a lamb for each household.
 [4] If any household is too small for a lamb, the man and his next-door neighbor are to take a lamb according to the number of people—you will make your count for the lamb according to how much each one can eat.
@@ -392,10 +392,10 @@
 [8] They will eat the meat the same night; they will eat it roasted over the fire with bread made without yeast and with bitter herbs.
 [9] Do not eat it raw or boiled in water, but roast it over the fire with its head, its legs, and its entrails.
 [10] You must leave nothing until morning, but you must burn with fire whatever remains of it until morning.
-[11] This is how you are to eat it—dressed to travel, your sandals on your feet, and your staff in your hand. You are to eat it in haste. It is the Lord’s Passover.
-[12] ‘I will pass through the land of Egypt in the same night, and I will attack all the firstborn in the land of Egypt, both of humans and of animals, and on all the gods of Egypt I will execute judgment. I am the Lord.
+[11] This is how you are to eat it—dressed to travel, your sandals on your feet, and your staff in your hand. You are to eat it in haste. It is the **Lord**’s Passover.
+[12] ‘I will pass through the land of Egypt in the same night, and I will attack all the firstborn in the land of Egypt, both of humans and of animals, and on all the gods of Egypt I will execute judgment. I am the **Lord**.
 [13] The blood will be a sign for you on the houses where you are, so that when I see the blood I will pass over you, and this plague will not fall on you to destroy you when I attack the land of Egypt.
-[14] ‘This day will become a memorial for you, and you will celebrate it as a festival to the Lord—you will celebrate it perpetually as a lasting ordinance.
+[14] ‘This day will become a memorial for you, and you will celebrate it as a festival to the **Lord**—you will celebrate it perpetually as a lasting ordinance.
 [15] For seven days you must eat bread made without yeast. Surely on the first day you must put away yeast from your houses because anyone who eats bread made with yeast from the first day to the seventh day will be cut off from Israel.
 [16] ‘On the first day there will be a holy convocation, and on the seventh day there will be a holy convocation for you. You must do no work of any kind on them, only what every person will eat—that alone may be prepared for you.
 [17] So you will keep the Feast of Unleavened Bread, because on this very day I brought your regiments out from the land of Egypt, and so you must keep this day perpetually as a lasting ordinance.
@@ -404,63 +404,63 @@
 [20] You will not eat anything made with yeast; in all the places where you live you must eat bread made without yeast.’”
 [21] Then Moses summoned all the elders of Israel, and told them, “Go and select for yourselves a lamb or young goat for your families, and kill the Passover animals.
 [22] Take a branch of hyssop, dip it in the blood that is in the basin, and apply to the top of the doorframe and the two side posts some of the blood that is in the basin. Not one of you is to go out the door of his house until morning.
-[23] For the Lord will pass through to strike Egypt, and when he sees the blood on the top of the doorframe and the two side posts, then the Lord will pass over the door, and he will not permit the destroyer to enter your houses to strike you.
+[23] For the **Lord** will pass through to strike Egypt, and when he sees the blood on the top of the doorframe and the two side posts, then the **Lord** will pass over the door, and he will not permit the destroyer to enter your houses to strike you.
 [24] You must observe this event as an ordinance for you and for your children forever.
-[25] When you enter the land that the Lord will give to you, just as he said, you must observe this ceremony.
+[25] When you enter the land that the **Lord** will give to you, just as he said, you must observe this ceremony.
 [26] When your children ask you, ‘What does this ceremony mean to you?’ —
-[27] then you will say, ‘It is the sacrifice of the Lord’s Passover, when he passed over the houses of the Israelites in Egypt, when he struck Egypt and delivered our households.’” The people bowed down low to the ground,
-[28] and the Israelites went away and did exactly as the Lord had commanded Moses and Aaron.
+[27] then you will say, ‘It is the sacrifice of the **Lord**’s Passover, when he passed over the houses of the Israelites in Egypt, when he struck Egypt and delivered our households.’” The people bowed down low to the ground,
+[28] and the Israelites went away and did exactly as the **Lord** had commanded Moses and Aaron.
 
 ### The Deliverance from Egypt
 
-[29] It happened at midnight—the Lord attacked all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the prison, and all the firstborn of the cattle.
+[29] It happened at midnight—the **Lord** attacked all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the prison, and all the firstborn of the cattle.
 [30] Pharaoh got up in the night, along with all his servants and all Egypt, and there was a great cry in Egypt, for there was no house in which there was not someone dead.
-[31] Pharaoh summoned Moses and Aaron in the night and said, “Get up, get out from among my people, both you and the Israelites! Go, serve the Lord as you have requested!
+[31] Pharaoh summoned Moses and Aaron in the night and said, “Get up, get out from among my people, both you and the Israelites! Go, serve the **Lord** as you have requested!
 [32] Also, take your flocks and your herds, just as you have requested, and leave. But bless me also.”
 [33] The Egyptians were urging the people on, in order to send them out of the land quickly, for they were saying, “We are all dead!”
 [34] So the people took their dough before the yeast was added, with their kneading troughs bound up in their clothing on their shoulders.
 [35] Now the Israelites had done as Moses told them—they had requested from the Egyptians silver and gold items and clothing.
-[36] The Lord gave the people favor in the sight of the Egyptians, and they gave them whatever they wanted, and so they plundered Egypt.
+[36] The **Lord** gave the people favor in the sight of the Egyptians, and they gave them whatever they wanted, and so they plundered Egypt.
 [37] The Israelites journeyed from Rameses to Sukkoth. There were about 600,000 men on foot, plus their dependents.
 [38] A mixed multitude also went up with them, and flocks and herds—a very large number of cattle.
 [39] They baked cakes of bread without yeast using the dough they had brought from Egypt, for it was made without yeast. Because they were thrust out of Egypt and were not able to delay, they could not prepare food for themselves either.
 [40] Now the length of time the Israelites lived in Egypt was 430 years.
-[41] At the end of the 430 years, on the very day, all the regiments of the Lord went out of the land of Egypt.
-[42] It was a night of vigil for the Lord to bring them out from the land of Egypt, and so on this night all Israel is to keep the vigil to the Lord for generations to come.
+[41] At the end of the 430 years, on the very day, all the regiments of the **Lord** went out of the land of Egypt.
+[42] It was a night of vigil for the **Lord** to bring them out from the land of Egypt, and so on this night all Israel is to keep the vigil to the **Lord** for generations to come.
 
 ### Participation in the Passover
 
-[43] The Lord said to Moses and Aaron, “This is the ordinance of the Passover. No foreigner may share in eating it.
+[43] The **Lord** said to Moses and Aaron, “This is the ordinance of the Passover. No foreigner may share in eating it.
 [44] But everyone’s servant who is bought for money, after you have circumcised him, may eat it.
 [45] A foreigner and a hired worker must not eat it.
 [46] It must be eaten in one house; you must not bring any of the meat outside the house, and you must not break a bone of it.
 [47] The whole community of Israel must observe it.
-[48] “When a resident foreigner lives with you and wants to observe the Passover to the Lord, all his males must be circumcised, and then he may approach and observe it, and he will be like one who is born in the land —but no uncircumcised person may eat of it.
+[48] “When a resident foreigner lives with you and wants to observe the Passover to the **Lord**, all his males must be circumcised, and then he may approach and observe it, and he will be like one who is born in the land —but no uncircumcised person may eat of it.
 [49] The same law will apply to the person who is native-born and to the resident foreigner who lives among you.”
-[50] So all the Israelites did exactly as the Lord commanded Moses and Aaron.
-[51] And on this very day the Lord brought the Israelites out of the land of Egypt by their regiments.
+[50] So all the Israelites did exactly as the **Lord** commanded Moses and Aaron.
+[51] And on this very day the **Lord** brought the Israelites out of the land of Egypt by their regiments.
 
 ## Chapter 13
 
 
 ### The Law of the Firstborn
 
-[1] The Lord spoke to Moses,
+[1] The **Lord** spoke to Moses,
 [2] “Set apart to me every firstborn male—the first offspring of every womb among the Israelites, whether human or animal; it is mine.”
-[3] Moses said to the people, “Remember this day on which you came out from Egypt, from the place where you were enslaved, for the Lord brought you out of there with a mighty hand—and no bread made with yeast may be eaten.
+[3] Moses said to the people, “Remember this day on which you came out from Egypt, from the place where you were enslaved, for the **Lord** brought you out of there with a mighty hand—and no bread made with yeast may be eaten.
 [4] On this day, in the month of Abib, you are going out.
-[5] “When the Lord brings you to the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites, which he swore to your fathers to give you, a land flowing with milk and honey, then you will keep this ceremony in this month.
-[6] For seven days you must eat bread made without yeast, and on the seventh day there is to be a festival to the Lord.
+[5] “When the **Lord** brings you to the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites, which he swore to your fathers to give you, a land flowing with milk and honey, then you will keep this ceremony in this month.
+[6] For seven days you must eat bread made without yeast, and on the seventh day there is to be a festival to the **Lord**.
 [7] Bread made without yeast must be eaten for seven days; no bread made with yeast shall be seen among you, and you must have no yeast among you within any of your borders.
-[8] “You are to tell your son on that day, ‘It is because of what the Lord did for me when I came out of Egypt.’
-[9] It will be a sign for you on your hand and a memorial on your forehead, so that the law of the Lord may be in your mouth, for with a mighty hand the Lord brought you out of Egypt.
+[8] “You are to tell your son on that day, ‘It is because of what the **Lord** did for me when I came out of Egypt.’
+[9] It will be a sign for you on your hand and a memorial on your forehead, so that the law of the **Lord** may be in your mouth, for with a mighty hand the **Lord** brought you out of Egypt.
 [10] So you must keep this ordinance at its appointed time from year to year.
-[11] “When the Lord brings you into the land of the Canaanites, as he swore to you and to your fathers, and gives it to you,
-[12] then you must give over to the Lord the first offspring of every womb. Every firstling of a beast that you have —the males will be the Lord’s.
+[11] “When the **Lord** brings you into the land of the Canaanites, as he swore to you and to your fathers, and gives it to you,
+[12] then you must give over to the **Lord** the first offspring of every womb. Every firstling of a beast that you have —the males will be the **Lord**’s.
 [13] Every firstling of a donkey you must redeem with a lamb, and if you do not redeem it, then you must break its neck. Every firstborn of your sons you must redeem.
-[14] “In the future, when your son asks you ‘What is this?’ you are to tell him, ‘With a mighty hand the Lord brought us out from Egypt, from the land of slavery.
-[15] When Pharaoh stubbornly refused to release us, the Lord killed all the firstborn in the land of Egypt, from the firstborn of people to the firstborn of animals. That is why I am sacrificing to the Lord the first male offspring of every womb, but all my firstborn sons I redeem.’
-[16] It will be for a sign on your hand and for frontlets on your forehead, for with a mighty hand the Lord brought us out of Egypt.”
+[14] “In the future, when your son asks you ‘What is this?’ you are to tell him, ‘With a mighty hand the **Lord** brought us out from Egypt, from the land of slavery.
+[15] When Pharaoh stubbornly refused to release us, the **Lord** killed all the firstborn in the land of Egypt, from the firstborn of people to the firstborn of animals. That is why I am sacrificing to the **Lord** the first male offspring of every womb, but all my firstborn sons I redeem.’
+[16] It will be for a sign on your hand and for frontlets on your forehead, for with a mighty hand the **Lord** brought us out of Egypt.”
 
 ### The Leading of God
 
@@ -468,7 +468,7 @@
 [18] So God brought the people around by the way of the wilderness to the Red Sea, and the Israelites went up from the land of Egypt prepared for battle.
 [19] Moses took the bones of Joseph with him, for Joseph had made the Israelites solemnly swear, “God will surely attend to you, and you will carry my bones up from this place with you.”
 [20] They journeyed from Sukkoth and camped in Etham, on the edge of the desert.
-[21] Now the Lord was going before them by day in a pillar of cloud to lead them in the way, and by night in a pillar of fire to give them light, so that they could travel day or night.
+[21] Now the **Lord** was going before them by day in a pillar of cloud to lead them in the way, and by night in a pillar of fire to give them light, so that they could travel day or night.
 [22] He did not remove the pillar of cloud by day nor the pillar of fire by night from before the people.
 
 ## Chapter 14
@@ -476,44 +476,44 @@
 
 ### The Victory at the Red Sea
 
-[1] The Lord spoke to Moses,
+[1] The **Lord** spoke to Moses,
 [2] “Tell the Israelites that they must turn and camp before Pi Hahiroth, between Migdol and the sea; you are to camp by the sea before Baal Zephon opposite it.
 [3] Pharaoh will think regarding the Israelites, ‘They are wandering around confused in the land—the desert has closed in on them.’
-[4] I will harden Pharaoh’s heart, and he will chase after them. I will gain honor because of Pharaoh and because of all his army, and the Egyptians will know that I am the Lord.” So this is what they did.
+[4] I will harden Pharaoh’s heart, and he will chase after them. I will gain honor because of Pharaoh and because of all his army, and the Egyptians will know that I am the **Lord**.” So this is what they did.
 [5] When it was reported to the king of Egypt that the people had fled, the heart of Pharaoh and his servants was turned against the people, and the king and his servants said, “What in the world have we done? For we have released the people of Israel from serving us!”
 [6] Then he prepared his chariots and took his army with him.
 [7] He took 600 select chariots, and all the rest of the chariots of Egypt, and officers on all of them.
-[8] But the Lord hardened the heart of Pharaoh king of Egypt, and he chased after the Israelites. Now the Israelites were going out defiantly.
+[8] But the **Lord** hardened the heart of Pharaoh king of Egypt, and he chased after the Israelites. Now the Israelites were going out defiantly.
 [9] The Egyptians chased after them, and all the horses and chariots of Pharaoh and his horsemen and his army overtook them camping by the sea, beside Pi Hahiroth, before Baal Zephon.
-[10] When Pharaoh got closer, the Israelites looked up, and there were the Egyptians marching after them, and they were terrified. The Israelites cried out to the Lord,
+[10] When Pharaoh got closer, the Israelites looked up, and there were the Egyptians marching after them, and they were terrified. The Israelites cried out to the **Lord**,
 [11] and they said to Moses, “Is it because there are no graves in Egypt that you have taken us away to die in the desert? What in the world have you done to us by bringing us out of Egypt?
 [12] Isn’t this what we told you in Egypt, ‘Leave us alone so that we can serve the Egyptians, because it is better for us to serve the Egyptians than to die in the desert!’”
-[13] Moses said to the people, “Do not fear! Stand firm and see the salvation of the Lord that he will provide for you today; for the Egyptians that you see today you will never, ever see again.
-[14] The Lord will fight for you, and you can be still.”
-[15] The Lord said to Moses, “Why do you cry out to me? Tell the Israelites to move on.
+[13] Moses said to the people, “Do not fear! Stand firm and see the salvation of the **Lord** that he will provide for you today; for the Egyptians that you see today you will never, ever see again.
+[14] The **Lord** will fight for you, and you can be still.”
+[15] The **Lord** said to Moses, “Why do you cry out to me? Tell the Israelites to move on.
 [16] And as for you, lift up your staff and extend your hand toward the sea and divide it, so that the Israelites may go through the middle of the sea on dry ground.
 [17] And as for me, I am going to harden the hearts of the Egyptians so that they will come after them, that I may be honored because of Pharaoh and his army and his chariots and his horsemen.
-[18] And the Egyptians will know that I am the Lord when I have gained my honor because of Pharaoh, his chariots, and his horsemen.”
+[18] And the Egyptians will know that I am the **Lord** when I have gained my honor because of Pharaoh, his chariots, and his horsemen.”
 [19] The angel of God, who was going before the camp of Israel, moved and went behind them, and the pillar of cloud moved from before them and stood behind them.
 [20] It came between the Egyptian camp and the Israelite camp; it was a dark cloud and it lit up the night so that one camp did not come near the other the whole night.
-[21] Moses stretched out his hand toward the sea, and the Lord drove the sea apart by a strong east wind all that night, and he made the sea into dry land, and the water was divided.
+[21] Moses stretched out his hand toward the sea, and the **Lord** drove the sea apart by a strong east wind all that night, and he made the sea into dry land, and the water was divided.
 [22] So the Israelites went through the middle of the sea on dry ground, the water forming a wall for them on their right and on their left.
 [23] The Egyptians chased them and followed them into the middle of the sea—all the horses of Pharaoh, his chariots, and his horsemen.
-[24] In the morning watch the Lord looked down on the Egyptian army through the pillar of fire and cloud, and he threw the Egyptian army into a panic.
-[25] He jammed the wheels of their chariots so that they had difficulty driving, and the Egyptians said, “Let’s flee from Israel, for the Lord fights for them against Egypt!”
-[26] The Lord said to Moses, “Extend your hand toward the sea, so that the waters may flow back on the Egyptians, on their chariots, and on their horsemen!”
-[27] So Moses extended his hand toward the sea, and the sea returned to its normal state when the sun began to rise. Now the Egyptians were fleeing before it, but the Lord overthrew the Egyptians in the middle of the sea.
+[24] In the morning watch the **Lord** looked down on the Egyptian army through the pillar of fire and cloud, and he threw the Egyptian army into a panic.
+[25] He jammed the wheels of their chariots so that they had difficulty driving, and the Egyptians said, “Let’s flee from Israel, for the **Lord** fights for them against Egypt!”
+[26] The **Lord** said to Moses, “Extend your hand toward the sea, so that the waters may flow back on the Egyptians, on their chariots, and on their horsemen!”
+[27] So Moses extended his hand toward the sea, and the sea returned to its normal state when the sun began to rise. Now the Egyptians were fleeing before it, but the **Lord** overthrew the Egyptians in the middle of the sea.
 [28] The water returned and covered the chariots and the horsemen and all the army of Pharaoh that was coming after the Israelites into the sea —not so much as one of them survived!
 [29] But the Israelites walked on dry ground in the middle of the sea, the water forming a wall for them on their right and on their left.
-[30] So the Lord saved Israel on that day from the power of the Egyptians, and Israel saw the Egyptians dead on the shore of the sea.
-[31] When Israel saw the great power that the Lord had exercised over the Egyptians, they feared the Lord, and they believed in the Lord and in his servant Moses.
+[30] So the **Lord** saved Israel on that day from the power of the Egyptians, and Israel saw the Egyptians dead on the shore of the sea.
+[31] When Israel saw the great power that the **Lord** had exercised over the Egyptians, they feared the **Lord**, and they believed in the **Lord** and in his servant Moses.
 
 ## Chapter 15
 
 
 ### The Song of Triumph
 
-[1] Then Moses and the Israelites sang this song to the Lord. They said,
+[1] Then Moses and the Israelites sang this song to the **Lord**. They said,
 “I will sing to the Lord, for he has triumphed gloriously,
 the horse and its rider he has thrown into the sea.
 [2] The Lord is my strength and my song,
@@ -573,8 +573,8 @@ the horse and its rider he has thrown into the sea.”
 [22] Then Moses led Israel to journey away from the Red Sea. They went out to the wilderness of Shur, walked for three days into the wilderness, and found no water.
 [23] Then they came to Marah, but they were not able to drink the waters of Marah, because they were bitter. (That is why its name was Marah.)
 [24] So the people murmured against Moses, saying, “What can we drink?”
-[25] He cried out to the Lord, and the Lord showed him a tree. When Moses threw it into the water, the water became safe to drink. There the Lord made for them a binding ordinance, and there he tested them.
-[26] He said, “If you will diligently obey the Lord your God, and do what is right in his sight, and pay attention to his commandments, and keep all his statutes, then all the diseases that I brought on the Egyptians I will not bring on you, for I, the Lord, am your healer.”
+[25] He cried out to the **Lord**, and the **Lord** showed him a tree. When Moses threw it into the water, the water became safe to drink. There the **Lord** made for them a binding ordinance, and there he tested them.
+[26] He said, “If you will diligently obey the **Lord** your God, and do what is right in his sight, and pay attention to his commandments, and keep all his statutes, then all the diseases that I brought on the Egyptians I will not bring on you, for I, the **Lord**, am your healer.”
 [27] Then they came to Elim, where there were twelve wells of water and seventy palm trees, and they camped there by the water.
 
 ## Chapter 16
@@ -584,38 +584,38 @@ the horse and its rider he has thrown into the sea.”
 
 [1] When they journeyed from Elim, the entire company of Israelites came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their exodus from the land of Egypt.
 [2] The entire company of Israelites murmured against Moses and Aaron in the wilderness.
-[3] The Israelites said to them, “If only we had died by the hand of the Lord in the land of Egypt, when we sat by the pots of meat, when we ate bread to the full, for you have brought us out into this wilderness to kill this whole assembly with hunger!”
-[4] Then the Lord said to Moses, “I am going to rain bread from heaven for you, and the people will go out and gather the amount for each day, so that I may test them. Will they walk in my law or not?
+[3] The Israelites said to them, “If only we had died by the hand of the **Lord** in the land of Egypt, when we sat by the pots of meat, when we ate bread to the full, for you have brought us out into this wilderness to kill this whole assembly with hunger!”
+[4] Then the **Lord** said to Moses, “I am going to rain bread from heaven for you, and the people will go out and gather the amount for each day, so that I may test them. Will they walk in my law or not?
 [5] On the sixth day they will prepare what they bring in, and it will be twice as much as they gather every other day.”
-[6] Moses and Aaron said to all the Israelites, “In the evening you will know that the Lord has brought you out of the land of Egypt,
-[7] and in the morning you will see the glory of the Lord, because he has heard your murmurings against the Lord. As for us, what are we, that you should murmur against us?”
-[8] Moses said, “You will know this when the Lord gives you meat to eat in the evening and bread in the morning to satisfy you, because the Lord has heard your murmurings that you are murmuring against him. As for us, what are we? Your murmurings are not against us, but against the Lord.”
-[9] Then Moses said to Aaron, “Tell the whole community of the Israelites, ‘Come before the Lord, because he has heard your murmurings.’”
-[10] As Aaron spoke to the whole community of the Israelites and they looked toward the wilderness, there the glory of the Lord appeared in the cloud,
-[11] and the Lord spoke to Moses,
-[12] “I have heard the murmurings of the Israelites. Tell them, ‘During the evening you will eat meat, and in the morning you will be satisfied with bread, so that you may know that I am the Lord your God.’”
+[6] Moses and Aaron said to all the Israelites, “In the evening you will know that the **Lord** has brought you out of the land of Egypt,
+[7] and in the morning you will see the glory of the **Lord**, because he has heard your murmurings against the **Lord**. As for us, what are we, that you should murmur against us?”
+[8] Moses said, “You will know this when the **Lord** gives you meat to eat in the evening and bread in the morning to satisfy you, because the **Lord** has heard your murmurings that you are murmuring against him. As for us, what are we? Your murmurings are not against us, but against the **Lord**.”
+[9] Then Moses said to Aaron, “Tell the whole community of the Israelites, ‘Come before the **Lord**, because he has heard your murmurings.’”
+[10] As Aaron spoke to the whole community of the Israelites and they looked toward the wilderness, there the glory of the **Lord** appeared in the cloud,
+[11] and the **Lord** spoke to Moses,
+[12] “I have heard the murmurings of the Israelites. Tell them, ‘During the evening you will eat meat, and in the morning you will be satisfied with bread, so that you may know that I am the **Lord** your God.’”
 [13] In the evening the quail came up and covered the camp, and in the morning a layer of dew was all around the camp.
 [14] When the layer of dew had evaporated, there on the surface of the wilderness was a thin flaky substance, thin like frost on the earth.
-[15] When the Israelites saw it, they said to one another, “What is it?” because they did not know what it was. Moses said to them, “It is the bread that the Lord has given you for food.
-[16] “This is what the Lord has commanded: ‘Each person is to gather from it what he can eat, an omer per person according to the number of your people; each one will pick it up for whoever lives in his tent.’”
+[15] When the Israelites saw it, they said to one another, “What is it?” because they did not know what it was. Moses said to them, “It is the bread that the **Lord** has given you for food.
+[16] “This is what the **Lord** has commanded: ‘Each person is to gather from it what he can eat, an omer per person according to the number of your people; each one will pick it up for whoever lives in his tent.’”
 [17] The Israelites did so, and they gathered—some more, some less.
 [18] When they measured with an omer, the one who gathered much had nothing left over, and the one who gathered little lacked nothing; each one had gathered what he could eat.
 [19] Moses said to them, “No one is to keep any of it until morning.”
 [20] But they did not listen to Moses; some kept part of it until morning, and it was full of worms and began to stink, and Moses was angry with them.
 [21] So they gathered it each morning, each person according to what he could eat, and when the sun got hot, it would melt.
 [22] And on the sixth day they gathered twice as much food, two omers per person; and all the leaders of the community came and told Moses.
-[23] He said to them, “This is what the Lord has said: ‘Tomorrow is a time of cessation from work, a holy Sabbath to the Lord.Whatever you want to bake, bake today; whatever you want to boil, boil today; whatever is left put aside for yourselves to be kept until morning.’”
+[23] He said to them, “This is what the **Lord** has said: ‘Tomorrow is a time of cessation from work, a holy Sabbath to the **Lord.**Whatever you want to bake, bake today; whatever you want to boil, boil today; whatever is left put aside for yourselves to be kept until morning.’”
 [24] So they put it aside until the morning, just as Moses had commanded, and it did not stink, nor were there any worms in it.
-[25] Moses said, “Eat it today, for today is a Sabbath to the Lord; today you will not find it in the area.
+[25] Moses said, “Eat it today, for today is a Sabbath to the **Lord**; today you will not find it in the area.
 [26] Six days you will gather it, but on the seventh day, the Sabbath, there will not be any.”
 [27] On the seventh day some of the people went out to gather it, but they found nothing.
-[28] So the Lord said to Moses, “How long do you refuse to obey my commandments and my instructions?
-[29] See, because the Lord has given you the Sabbath, that is why he is giving you food for two days on the sixth day. Each of you stay where you are; let no one go out of his place on the seventh day.”
+[28] So the **Lord** said to Moses, “How long do you refuse to obey my commandments and my instructions?
+[29] See, because the **Lord** has given you the Sabbath, that is why he is giving you food for two days on the sixth day. Each of you stay where you are; let no one go out of his place on the seventh day.”
 [30] So the people rested on the seventh day.
 [31] The house of Israel called its name “manna.” It was like coriander seed and was white, and it tasted like wafers with honey.
-[32] Moses said, “This is what the Lord has commanded: ‘Fill an omer with it to be kept for generations to come, so that they may see the food I fed you in the wilderness when I brought you out from the land of Egypt.’”
-[33] Moses said to Aaron, “Take a jar and put in it an omer full of manna, and place it before the Lord to be kept for generations to come.”
-[34] Just as the Lord commanded Moses, so Aaron placed it before the ark of the testimony for safekeeping.
+[32] Moses said, “This is what the **Lord** has commanded: ‘Fill an omer with it to be kept for generations to come, so that they may see the food I fed you in the wilderness when I brought you out from the land of Egypt.’”
+[33] Moses said to Aaron, “Take a jar and put in it an omer full of manna, and place it before the **Lord** to be kept for generations to come.”
+[34] Just as the **Lord** commanded Moses, so Aaron placed it before the ark of the testimony for safekeeping.
 [35] Now the Israelites ate manna forty years, until they came to a land that was inhabited; they ate manna until they came to the border of the land of Canaan.
 [36] (Now an omer is one-tenth of an ephah.)
 
@@ -624,13 +624,13 @@ the horse and its rider he has thrown into the sea.”
 
 ### Water at Massah and Meribah
 
-[1] The whole community of the Israelites traveled on their journey from the wilderness of Sin according to the Lord’s instruction, and they pitched camp in Rephidim. Now there was no water for the people to drink.
-[2] So the people contended with Moses, and they said, “Give us water to drink!” Moses said to them, “Why do you contend with me? Why do you test the Lord?”
+[1] The whole community of the Israelites traveled on their journey from the wilderness of Sin according to the **Lord**’s instruction, and they pitched camp in Rephidim. Now there was no water for the people to drink.
+[2] So the people contended with Moses, and they said, “Give us water to drink!” Moses said to them, “Why do you contend with me? Why do you test the **Lord?**”
 [3] But the people were very thirsty there for water, and they murmured against Moses and said, “Why in the world did you bring us up from Egypt—to kill us and our children and our cattle with thirst?”
-[4] Then Moses cried out to the Lord, “What will I do with this people?—a little more and they will stone me!”
-[5] The Lord said to Moses, “Go over before the people; take with you some of the elders of Israel and take in your hand your staff with which you struck the Nile and go.
+[4] Then Moses cried out to the **Lord**, “What will I do with this people?—a little more and they will stone me!”
+[5] The **Lord** said to Moses, “Go over before the people; take with you some of the elders of Israel and take in your hand your staff with which you struck the Nile and go.
 [6] I will be standing before you there on the rock in Horeb, and you will strike the rock, and water will come out of it so that the people may drink.” And Moses did so in plain view of the elders of Israel.
-[7] He called the name of the place Massah and Meribah, because of the contending of the Israelites and because of their testing the Lord, saying, “Is the Lord among us or not?”
+[7] He called the name of the place Massah and Meribah, because of the contending of the Israelites and because of their testing the **Lord**, saying, “Is the **Lord** among us or not?”
 
 ### Victory over the Amalekites
 
@@ -640,26 +640,26 @@ the horse and its rider he has thrown into the sea.”
 [11] Whenever Moses would raise his hands, then Israel prevailed, but whenever he would rest his hands, then Amalek prevailed.
 [12] When the hands of Moses became heavy, they took a stone and put it under him, and Aaron and Hur held up his hands, one on one side and one on the other, and so his hands were steady until the sun went down.
 [13] So Joshua destroyed Amalek and his army with the sword.
-[14] The Lord said to Moses, “Write this as a memorial in the book, and rehearse it in Joshua’s hearing; for I will surely wipe out the remembrance of Amalek from under heaven.”
-[15] Moses built an altar, and he called it “The Lord is my Banner,”
-[16] for he said, “For a hand was lifted up to the throne of the Lord —that the Lord will have war with Amalek from generation to generation.”
+[14] The **Lord** said to Moses, “Write this as a memorial in the book, and rehearse it in Joshua’s hearing; for I will surely wipe out the remembrance of Amalek from under heaven.”
+[15] Moses built an altar, and he called it “The **Lord** is my Banner,”
+[16] for he said, “For a hand was lifted up to the throne of the **Lord** —that the **Lord** will have war with Amalek from generation to generation.”
 
 ## Chapter 18
 
 
 ### The Advice of Jethro
 
-[1] Jethro, the priest of Midian, Moses’ father-in-law, heard about all that God had done for Moses and for his people Israel, that the Lord had brought Israel out of Egypt.
+[1] Jethro, the priest of Midian, Moses’ father-in-law, heard about all that God had done for Moses and for his people Israel, that the **Lord** had brought Israel out of Egypt.
 [2] Jethro, Moses’ father-in-law, took Moses’ wife Zipporah after he had sent her back,
 [3] and her two sons, one of whom was named Gershom (for Moses had said, “I have been a foreigner in a foreign land”)
 [4] and the other Eliezer (for Moses had said, “The God of my father has been my help and delivered me from the sword of Pharaoh”).
 [5] Jethro, Moses’ father-in-law, together with Moses’ sons and his wife, came to Moses in the wilderness where he was camping by the mountain of God.
 [6] He said to Moses, “I, your father-in-law Jethro, am coming to you, along with your wife and her two sons with her.”
 [7] Moses went out to meet his father-in-law and bowed down and kissed him; they each asked about the other’s welfare, and then they went into the tent.
-[8] Moses told his father-in-law all that the Lord had done to Pharaoh and to Egypt for Israel’s sake, and all the hardship that had come on them along the way, and how the Lord had delivered them.
-[9] Jethro rejoiced because of all the good that the Lord had done for Israel, whom he had delivered from the hand of Egypt.
-[10] Jethro said, “Blessed be the Lord who has delivered you from the hand of Egypt, and from the hand of Pharaoh, who has delivered the people from the Egyptians’ control!
-[11] Now I know that the Lord is greater than all the gods, for in the thing in which they dealt proudly against them he has destroyed them.”
+[8] Moses told his father-in-law all that the **Lord** had done to Pharaoh and to Egypt for Israel’s sake, and all the hardship that had come on them along the way, and how the **Lord** had delivered them.
+[9] Jethro rejoiced because of all the good that the **Lord** had done for Israel, whom he had delivered from the hand of Egypt.
+[10] Jethro said, “Blessed be the **Lord** who has delivered you from the hand of Egypt, and from the hand of Pharaoh, who has delivered the people from the Egyptians’ control!
+[11] Now I know that the **Lord** is greater than all the gods, for in the thing in which they dealt proudly against them he has destroyed them.”
 [12] Then Jethro, Moses’ father-in-law, brought a burnt offering and sacrifices for God, and Aaron and all the elders of Israel came to eat food with the father-in-law of Moses before God.
 [13] On the next day Moses sat to judge the people, and the people stood around Moses from morning until evening.
 [14] When Moses’ father-in-law saw all that he was doing for the people, he said, “What is this that you are doing for the people? Why are you sitting by yourself, and all the people stand around you from morning until evening?”
@@ -684,28 +684,28 @@ the horse and its rider he has thrown into the sea.”
 
 [1] In the third month after the Israelites went out from the land of Egypt, on the very day, they came to the desert of Sinai.
 [2] After they journeyed from Rephidim, they came to the desert of Sinai, and they camped in the desert; Israel camped there in front of the mountain.
-[3] Moses went up to God, and the Lord called to him from the mountain, “Thus you will tell the house of Jacob, and declare to the people of Israel:
+[3] Moses went up to God, and the **Lord** called to him from the mountain, “Thus you will tell the house of Jacob, and declare to the people of Israel:
 [4] ‘You yourselves have seen what I did to Egypt and how I lifted you on eagles’ wings and brought you to myself.
 [5] And now, if you will diligently listen to me and keep my covenant, then you will be my special possession out of all the nations, for all the earth is mine,
 [6] and you will be to me a kingdom of priests and a holy nation.’ These are the words that you will speak to the Israelites.”
-[7] So Moses came and summoned the elders of Israel. He set before them all these words that the Lord had commanded him,
-[8] and all the people answered together, “All that the Lord has commanded we will do!” So Moses brought the words of the people back to the Lord.
-[9] The Lord said to Moses, “I am going to come to you in a dense cloud, so that the people may hear when I speak with you and so that they will always believe in you.” And Moses told the words of the people to the Lord.
-[10] The Lord said to Moses, “Go to the people and sanctify them today and tomorrow, and make them wash their clothes
-[11] and be ready for the third day, for on the third day the Lord will come down on Mount Sinai in the sight of all the people.
+[7] So Moses came and summoned the elders of Israel. He set before them all these words that the **Lord** had commanded him,
+[8] and all the people answered together, “All that the **Lord** has commanded we will do!” So Moses brought the words of the people back to the **Lord**.
+[9] The **Lord** said to Moses, “I am going to come to you in a dense cloud, so that the people may hear when I speak with you and so that they will always believe in you.” And Moses told the words of the people to the **Lord**.
+[10] The **Lord** said to Moses, “Go to the people and sanctify them today and tomorrow, and make them wash their clothes
+[11] and be ready for the third day, for on the third day the **Lord** will come down on Mount Sinai in the sight of all the people.
 [12] You must set boundaries for the people all around, saying, ‘Take heed to yourselves not to go up on the mountain nor touch its edge. Whoever touches the mountain will surely be put to death!
 [13] No hand will touch him —but he will surely be stoned or shot through, whether a beast or a human being; he must not live.’ When the ram’s horn sounds a long blast they may go up on the mountain.”
 [14] Then Moses went down from the mountain to the people and sanctified the people, and they washed their clothes.
 [15] He said to the people, “Be ready for the third day. Do not approach your wives for marital relations.”
 [16] On the third day in the morning there was thunder and lightning and a dense cloud on the mountain, and the sound of a very loud horn; all the people who were in the camp trembled.
 [17] Moses brought the people out of the camp to meet God, and they took their place at the foot of the mountain.
-[18] Now Mount Sinai was completely covered with smoke because the Lord had descended on it in fire, and its smoke went up like the smoke of a great furnace, and the whole mountain shook violently.
+[18] Now Mount Sinai was completely covered with smoke because the **Lord** had descended on it in fire, and its smoke went up like the smoke of a great furnace, and the whole mountain shook violently.
 [19] When the sound of the horn grew louder and louder, Moses was speaking and God was answering him with a voice.
-[20] The Lord came down on Mount Sinai, on the top of the mountain, and the Lord summoned Moses to the top of the mountain, and Moses went up.
-[21] The Lord said to Moses, “Go down and solemnly warn the people, lest they force their way through to the Lord to look, and many of them perish.
-[22] Let the priests also, who approach the Lord, sanctify themselves, lest the Lord break through against them.”
-[23] Moses said to the Lord, “The people are not able to come up to Mount Sinai, because you solemnly warned us, ‘Set boundaries for the mountain and set it apart.’”
-[24] The Lord said to him, “Go, get down, and then come up, and Aaron with you, but do not let the priests and the people force their way through to come up to the Lord, lest he break through against them.”
+[20] The **Lord** came down on Mount Sinai, on the top of the mountain, and the **Lord** summoned Moses to the top of the mountain, and Moses went up.
+[21] The **Lord** said to Moses, “Go down and solemnly warn the people, lest they force their way through to the **Lord** to look, and many of them perish.
+[22] Let the priests also, who approach the **Lord**, sanctify themselves, lest the **Lord** break through against them.”
+[23] Moses said to the **Lord**, “The people are not able to come up to Mount Sinai, because you solemnly warned us, ‘Set boundaries for the mountain and set it apart.’”
+[24] The **Lord** said to him, “Go, get down, and then come up, and Aaron with you, but do not let the priests and the people force their way through to come up to the **Lord**, lest he break through against them.”
 [25] So Moses went down to the people and spoke to them.
 
 ## Chapter 20
@@ -714,17 +714,17 @@ the horse and its rider he has thrown into the sea.”
 ### The Decalogue
 
 [1] God spoke all these words:
-[2] “I, the Lord, am your God, who brought you from the land of Egypt, from the house of slavery.
+[2] “I, the **Lord**, am your God, who brought you from the land of Egypt, from the house of slavery.
 [3] “You shall have no other gods before me.
 [4] “You shall not make for yourself a carved image or any likeness of anything that is in heaven above or that is on the earth beneath or that is in the water below.
-[5] You shall not bow down to them or serve them, for I, the Lord, your God, am a jealous God, responding to the transgression of fathers by dealing with children to the third and fourth generations of those who reject me,
+[5] You shall not bow down to them or serve them, for I, the **Lord**, your God, am a jealous God, responding to the transgression of fathers by dealing with children to the third and fourth generations of those who reject me,
 [6] and showing covenant faithfulness to a thousand generations of those who love me and keep my commandments.
-[7] “You shall not take the name of the Lord your God in vain, for the Lord will not hold guiltless anyone who takes his name in vain.
+[7] “You shall not take the name of the **Lord** your God in vain, for the **Lord** will not hold guiltless anyone who takes his name in vain.
 [8] “Remember the Sabbath day to set it apart as holy.
 [9] For six days you may labor and do all your work,
-[10] but the seventh day is a Sabbath to the Lord your God; on it you shall not do any work, you, or your son, or your daughter, or your male servant, or your female servant, or your cattle, or the resident foreigner who is in your gates.
-[11] For in six days the Lord made the heavens and the earth and the sea and all that is in them, and he rested on the seventh day; therefore the Lord blessed the Sabbath day and set it apart as holy.
-[12] “Honor your father and your mother, that you may live a long time in the land the Lord your God is giving to you.
+[10] but the seventh day is a Sabbath to the **Lord** your God; on it you shall not do any work, you, or your son, or your daughter, or your male servant, or your female servant, or your cattle, or the resident foreigner who is in your gates.
+[11] For in six days the **Lord** made the heavens and the earth and the sea and all that is in them, and he rested on the seventh day; therefore the **Lord** blessed the Sabbath day and set it apart as holy.
+[12] “Honor your father and your mother, that you may live a long time in the land the **Lord** your God is giving to you.
 [13] “You shall not murder.
 [14] “You shall not commit adultery.
 [15] “You shall not steal.
@@ -737,7 +737,7 @@ the horse and its rider he has thrown into the sea.”
 
 ### The Altar
 
-[22] The Lord said to Moses, “Thus you will tell the Israelites: ‘You yourselves have seen that I have spoken with you from heaven.
+[22] The **Lord** said to Moses, “Thus you will tell the Israelites: ‘You yourselves have seen that I have spoken with you from heaven.
 [23] You must not make gods of silver alongside me, nor make gods of gold for yourselves.
 [24] “‘You must make for me an altar made of earth, and you will sacrifice on it your burnt offerings and your peace offerings, your sheep and your cattle. In every place where I cause my name to be honored I will come to you and I will bless you.
 [25] If you make me an altar of stone, you must not build it of stones shaped with tools, for if you use your tool on it you have defiled it.
@@ -809,7 +809,7 @@ the horse and its rider he has thrown into the sea.”
 [8] If the thief is not caught, then the owner of the house will be brought before the judges to see whether he has laid his hand on his neighbor’s goods.
 [9] In all cases of illegal possessions, whether for an ox, a donkey, a sheep, a garment, or any kind of lost item, about which someone says ‘This belongs to me,’ the matter of the two of them will come before the judges, and the one whom the judges declare guilty must repay double to his neighbor.
 [10] If a man gives his neighbor a donkey or an ox or a sheep or any beast to keep, and it dies or is injured or is carried away without anyone seeing it,
-[11] then there will be an oath to the Lord between the two of them, that he has not laid his hand on his neighbor’s goods, and its owner will accept this, and he will not have to pay.
+[11] then there will be an oath to the **Lord** between the two of them, that he has not laid his hand on his neighbor’s goods, and its owner will accept this, and he will not have to pay.
 [12] But if it was stolen from him, he will pay its owner.
 [13] If it is torn in pieces, then he will bring it for evidence, and he will not have to pay for what was torn.
 [14] “If a man borrows an animal from his neighbor and it is hurt or dies when its owner was not with it, the man who borrowed it will surely pay.
@@ -821,7 +821,7 @@ the horse and its rider he has thrown into the sea.”
 [17] If her father refuses to give her to him, he must pay money for the bride price of virgins.
 [18] “You must not allow a sorceress to live.
 [19] “Whoever has sexual relations with a beast must surely be put to death.
-[20] “Whoever sacrifices to a god other than the Lord alone must be utterly destroyed.
+[20] “Whoever sacrifices to a god other than the **Lord** alone must be utterly destroyed.
 [21] “You must not wrong a resident foreigner nor oppress him, for you were foreigners in the land of Egypt.
 [22] “You must not afflict any widow or orphan.
 [23] If you afflict them in any way and they cry to me, I will surely hear their cry,
@@ -858,9 +858,9 @@ the horse and its rider he has thrown into the sea.”
 [14] “Three times in the year you must make a pilgrim feast to me.
 [15] You are to observe the Feast of Unleavened Bread; seven days you must eat bread made without yeast, as I commanded you, at the appointed time of the month of Abib, for at that time you came out of Egypt. No one may appear before me empty-handed.
 [16] “You are also to observe the Feast of Harvest, the firstfruits of your labors that you have sown in the field, and the Feast of Ingathering at the end of the year when you have gathered in your harvest out of the field.
-[17] At three times in the year all your males will appear before the Sovereign Lord.
+[17] At three times in the year all your males will appear before the Sovereign **Lord**.
 [18] “You must not offer the blood of my sacrifice with bread containing yeast; the fat of my festal sacrifice must not remain until morning.
-[19] The first of the firstfruits of your soil you must bring to the house of the Lord your God.
+[19] The first of the firstfruits of your soil you must bring to the house of the **Lord** your God.
 
 ### The Angel of the Presence
 
@@ -869,7 +869,7 @@ the horse and its rider he has thrown into the sea.”
 [22] But if you diligently obey him and do all that I command, then I will be an enemy to your enemies, and I will be an adversary to your adversaries.
 [23] For my angel will go before you and bring you to the Amorites, the Hittites, the Perizzites, the Canaanites, the Hivites, and the Jebusites, and I will destroy them completely.
 [24] “You must not bow down to their gods; you must not serve them or do according to their practices. Instead you must completely overthrow them and smash their standing stones to pieces.
-[25] You must serve the Lord your God, and he will bless your bread and your water, and I will remove sickness from your midst.
+[25] You must serve the **Lord** your God, and he will bless your bread and your water, and I will remove sickness from your midst.
 [26] No woman will miscarry her young or be barren in your land. I will fulfill the number of your days.
 [27] “I will send my terror before you, and I will alarm all the people whom you encounter; I will make all your enemies turn their backs to you.
 [28] I will send hornets before you that will drive out the Hivite, the Canaanite, and the Hittite before you.
@@ -884,23 +884,23 @@ the horse and its rider he has thrown into the sea.”
 
 ### The Lord Ratifies the Covenant
 
-[1] But to Moses the Lord said, “Come up to the Lord, you and Aaron, Nadab and Abihu, and seventy of the elders of Israel, and worship from a distance.
-[2] Moses alone may come near the Lord, but the others must not come near, nor may the people go up with him.”
-[3] Moses came and told the people all the Lord’s words and all the decisions. All the people answered together, “We are willing to do all the words that the Lord has said,”
-[4] and Moses wrote down all the words of the Lord. Early in the morning he built an altar at the foot of the mountain and arranged twelve standing stones —according to the twelve tribes of Israel.
-[5] He sent young Israelite men, and they offered burnt offerings and sacrificed young bulls for peace offerings to the Lord.
+[1] But to Moses the **Lord** said, “Come up to the **Lord**, you and Aaron, Nadab and Abihu, and seventy of the elders of Israel, and worship from a distance.
+[2] Moses alone may come near the **Lord**, but the others must not come near, nor may the people go up with him.”
+[3] Moses came and told the people all the **Lord**’s words and all the decisions. All the people answered together, “We are willing to do all the words that the **Lord** has said,”
+[4] and Moses wrote down all the words of the **Lord**. Early in the morning he built an altar at the foot of the mountain and arranged twelve standing stones —according to the twelve tribes of Israel.
+[5] He sent young Israelite men, and they offered burnt offerings and sacrificed young bulls for peace offerings to the **Lord**.
 [6] Moses took half of the blood and put it in bowls, and half of the blood he splashed on the altar.
-[7] He took the Book of the Covenant and read it aloud to the people, and they said, “We are willing to do and obey all that the Lord has spoken.”
-[8] So Moses took the blood and splashed it on the people and said, “This is the blood of the covenant that the Lord has made with you in accordance with all these words.”
+[7] He took the Book of the Covenant and read it aloud to the people, and they said, “We are willing to do and obey all that the **Lord** has spoken.”
+[8] So Moses took the blood and splashed it on the people and said, “This is the blood of the covenant that the **Lord** has made with you in accordance with all these words.”
 [9] Moses and Aaron, Nadab and Abihu, and the seventy elders of Israel went up,
 [10] and they saw the God of Israel. Under his feet there was something like a pavement made of sapphire, clear like the sky itself.
 [11] But he did not lay a hand on the leaders of the Israelites, so they saw God, and they ate and they drank.
-[12] The Lord said to Moses, “Come up to me on the mountain and remain there, and I will give you the stone tablets with the law and the commandments that I have written, so that you may teach them.”
+[12] The **Lord** said to Moses, “Come up to me on the mountain and remain there, and I will give you the stone tablets with the law and the commandments that I have written, so that you may teach them.”
 [13] So Moses set out with Joshua his attendant, and Moses went up the mountain of God.
 [14] He told the elders, “Wait for us in this place until we return to you. Here are Aaron and Hur with you. Whoever has any matters of dispute can approach them.”
 [15] Moses went up the mountain, and the cloud covered the mountain.
-[16] The glory of the Lord resided on Mount Sinai, and the cloud covered it for six days. On the seventh day he called to Moses from within the cloud.
-[17] Now the appearance of the glory of the Lord was like a devouring fire on the top of the mountain in plain view of the people.
+[16] The glory of the **Lord** resided on Mount Sinai, and the cloud covered it for six days. On the seventh day he called to Moses from within the cloud.
+[17] Now the appearance of the glory of the **Lord** was like a devouring fire on the top of the mountain in plain view of the people.
 [18] Moses went into the cloud when he went up the mountain, and Moses was on the mountain forty days and forty nights.
 
 ## Chapter 25
@@ -908,7 +908,7 @@ the horse and its rider he has thrown into the sea.”
 
 ### The Materials for the Tabernacle
 
-[1] The Lord spoke to Moses,
+[1] The **Lord** spoke to Moses,
 [2] “Tell the Israelites to take an offering for me; from every person motivated by a willing heart you are to receive my offering.
 [3] This is the offering you are to accept from them: gold, silver, bronze,
 [4] blue, purple, scarlet, fine linen, goats’ hair,
@@ -1032,7 +1032,7 @@ the horse and its rider he has thrown into the sea.”
 ### Offering the Oil
 
 [20] “You are to command the Israelites that they bring to you pure oil of pressed olives for the light, so that the lamps will burn regularly.
-[21] In the tent of meeting outside the curtain that is before the testimony, Aaron and his sons are to arrange it from evening to morning before the Lord.This is to be a lasting ordinance among the Israelites for generations to come.
+[21] In the tent of meeting outside the curtain that is before the testimony, Aaron and his sons are to arrange it from evening to morning before the **Lord.**This is to be a lasting ordinance among the Israelites for generations to come.
 
 ## Chapter 28
 
@@ -1050,7 +1050,7 @@ the horse and its rider he has thrown into the sea.”
 [9] “You are to take two onyx stones and engrave on them the names of the sons of Israel,
 [10] six of their names on one stone, and the six remaining names on the second stone, according to the order of their birth.
 [11] You are to engrave the two stones with the names of the sons of Israel with the work of an engraver in stone, like the engravings of a seal; you are to have them set in gold filigree settings.
-[12] You are to put the two stones on the shoulders of the ephod, stones of memorial for the sons of Israel, and Aaron will bear their names before the Lord on his two shoulders for a memorial.
+[12] You are to put the two stones on the shoulders of the ephod, stones of memorial for the sons of Israel, and Aaron will bear their names before the **Lord** on his two shoulders for a memorial.
 [13] You are to make filigree settings of gold
 [14] and two braided chains of pure gold, like a cord, and attach the chains to the settings.
 [15] “You are to make a breastpiece for use in making decisions, the work of an artistic designer; you are to make it in the same fashion as the ephod; you are to make it of gold, blue, purple, scarlet, and fine twisted linen.
@@ -1067,16 +1067,16 @@ the horse and its rider he has thrown into the sea.”
 [26] You are to make two rings of gold and put them on the other two ends of the breastpiece, on its edge that is on the inner side of the ephod.
 [27] You are to make two more gold rings and attach them to the bottom of the two shoulder pieces on the front of the ephod, close to the juncture above the waistband of the ephod.
 [28] They are to tie the breastpiece by its rings to the rings of the ephod by blue cord, so that it may be above the waistband of the ephod, and so that the breastpiece will not be loose from the ephod.
-[29] Aaron will bear the names of the sons of Israel in the breastpiece of decision over his heart when he goes into the Holy Place, for a memorial before the Lord continually.
-[30] “You are to put the Urim and the Thummim into the breastpiece of decision; and they are to be over Aaron’s heart when he goes in before the Lord. Aaron is to bear the decisions of the Israelites over his heart before the Lord continually.
+[29] Aaron will bear the names of the sons of Israel in the breastpiece of decision over his heart when he goes into the Holy Place, for a memorial before the **Lord** continually.
+[30] “You are to put the Urim and the Thummim into the breastpiece of decision; and they are to be over Aaron’s heart when he goes in before the **Lord**. Aaron is to bear the decisions of the Israelites over his heart before the **Lord** continually.
 [31] “You are to make the robe of the ephod completely blue.
 [32] There is to be an opening in its top in the center of it, with an edge all around the opening, the work of a weaver, like the opening of a collar, so that it cannot be torn.
 [33] You are to make pomegranates of blue, purple, and scarlet all around its hem and bells of gold between them all around.
 [34] The pattern is to be a gold bell and a pomegranate, a gold bell and a pomegranate, all around the hem of the robe.
-[35] The robe is to be on Aaron as he ministers, and his sound will be heard when he enters the Holy Place before the Lord and when he leaves, so that he does not die.
-[36] “You are to make a plate of pure gold and engrave on it the way a seal is engraved: ‘Holiness to the Lord.’
+[35] The robe is to be on Aaron as he ministers, and his sound will be heard when he enters the Holy Place before the **Lord** and when he leaves, so that he does not die.
+[36] “You are to make a plate of pure gold and engrave on it the way a seal is engraved: ‘Holiness to the **Lord**.’
 [37] You are to attach to it a blue cord so that it will be on the turban; it is to be on the front of the turban.
-[38] It will be on Aaron’s forehead, and Aaron will bear the iniquity of the holy things, which the Israelites are to sanctify by all their holy gifts; it will always be on his forehead, for their acceptance before the Lord.
+[38] It will be on Aaron’s forehead, and Aaron will bear the iniquity of the holy things, which the Israelites are to sanctify by all their holy gifts; it will always be on his forehead, for their acceptance before the **Lord**.
 [39] You are to weave the tunic of fine linen and make the turban of fine linen, and make the sash the work of an embroiderer.
 [40] “For Aaron’s sons you are to make tunics, sashes, and headbands for glory and for beauty.
 [41] “You are to clothe them—your brother Aaron and his sons with him—and anoint them and ordain them and set them apart as holy, so that they may minister as my priests.
@@ -1098,24 +1098,24 @@ the horse and its rider he has thrown into the sea.”
 [8] You are to present his sons and clothe them with tunics
 [9] and wrap the sashes around Aaron and his sons and put headbands on them, and so the ministry of priesthood will belong to them by a perpetual ordinance. Thus you are to consecrate Aaron and his sons.
 [10] “You are to present the bull at the front of the tent of meeting, and Aaron and his sons are to put their hands on the head of the bull.
-[11] You are to kill the bull before the Lord at the entrance to the tent of meeting
+[11] You are to kill the bull before the **Lord** at the entrance to the tent of meeting
 [12] and take some of the blood of the bull and put it on the horns of the altar with your finger; all the rest of the blood you are to pour out at the base of the altar.
 [13] You are to take all the fat that covers the entrails, and the lobe that is above the liver, and the two kidneys and the fat that is on them, and burn them on the altar.
 [14] But the meat of the bull, its skin, and its dung you are to burn up outside the camp. It is the purification offering.
 [15] “You are to take one ram, and Aaron and his sons are to lay their hands on the ram’s head,
 [16] and you are to kill the ram and take its blood and splash it all around on the altar.
 [17] Then you are to cut the ram into pieces and wash the entrails and its legs and put them on its pieces and on its head
-[18] and burn the whole ram on the altar. It is a burnt offering to the Lord, a soothing aroma; it is an offering made by fire to the Lord.
+[18] and burn the whole ram on the altar. It is a burnt offering to the **Lord**, a soothing aroma; it is an offering made by fire to the **Lord**.
 [19] “You are to take the second ram, and Aaron and his sons are to lay their hands on the ram’s head,
 [20] and you are to kill the ram and take some of its blood and put it on the tip of the right ear of Aaron, on the tip of the right ear of his sons, on the thumb of their right hand, and on the big toe of their right foot, and then splash the blood all around on the altar.
 [21] You are to take some of the blood that is on the altar and some of the anointing oil and sprinkle it on Aaron, on his garments, on his sons, and on his sons’ garments with him, so that he may be holy, he and his garments along with his sons and his sons’ garments.
 [22] “You are to take from the ram the fat, the fat tail, the fat that covers the entrails, the lobe of the liver, the two kidneys and the fat that is on them, and the right thigh—for it is the ram for consecration —
-[23] and one round flat cake of bread, one perforated cake of oiled bread, and one wafer from the basket of bread made without yeast that is before the Lord.
-[24] You are to put all these in Aaron’s hands and in his sons’ hands, and you are to wave them as a wave offering before the Lord.
-[25] Then you are to take them from their hands and burn them on the altar for a burnt offering, for a soothing aroma before the Lord. It is an offering made by fire to the Lord.
-[26] You are to take the breast of the ram of Aaron’s consecration; you are to wave it as a wave offering before the Lord, and it is to be your share.
+[23] and one round flat cake of bread, one perforated cake of oiled bread, and one wafer from the basket of bread made without yeast that is before the **Lord**.
+[24] You are to put all these in Aaron’s hands and in his sons’ hands, and you are to wave them as a wave offering before the **Lord**.
+[25] Then you are to take them from their hands and burn them on the altar for a burnt offering, for a soothing aroma before the **Lord**. It is an offering made by fire to the **Lord**.
+[26] You are to take the breast of the ram of Aaron’s consecration; you are to wave it as a wave offering before the **Lord**, and it is to be your share.
 [27] You are to sanctify the breast of the wave offering and the thigh of the contribution, which were waved and lifted up as a contribution from the ram of consecration, from what belongs to Aaron and to his sons.
-[28] It is to belong to Aaron and to his sons from the Israelites, by a perpetual ordinance, for it is a contribution. It is to be a contribution from the Israelites from their peace offerings, their contribution to the Lord.
+[28] It is to belong to Aaron and to his sons from the Israelites, by a perpetual ordinance, for it is a contribution. It is to be a contribution from the Israelites from their peace offerings, their contribution to the **Lord**.
 [29] “The holy garments that belong to Aaron are to belong to his sons after him, so that they may be anointed in them and consecrated in them.
 [30] The priest who succeeds him from his sons, when he first comes to the tent of meeting to minister in the Holy Place, is to wear them for seven days.
 [31] “You are to take the ram of the consecration and cook its meat in a holy place.
@@ -1128,12 +1128,12 @@ the horse and its rider he has thrown into the sea.”
 [38] “Now this is what you are to prepare on the altar every day continually: two lambs a year old.
 [39] The first lamb you are to prepare in the morning, and the second lamb you are to prepare around sundown.
 [40] With the first lamb offer a tenth of an ephah of fine flour mixed with a fourth of a hin of oil from pressed olives, and a fourth of a hin of wine as a drink offering.
-[41] The second lamb you are to offer around sundown; you are to prepare for it the same meal offering as for the morning and the same drink offering, for a soothing aroma, an offering made by fire to the Lord.
-[42] “This will be a regular burnt offering throughout your generations at the entrance of the tent of meeting before the Lord, where I will meet with you to speak to you there.
+[41] The second lamb you are to offer around sundown; you are to prepare for it the same meal offering as for the morning and the same drink offering, for a soothing aroma, an offering made by fire to the **Lord**.
+[42] “This will be a regular burnt offering throughout your generations at the entrance of the tent of meeting before the **Lord**, where I will meet with you to speak to you there.
 [43] There I will meet with the Israelites, and it will be set apart as holy by my glory.
 [44] “So I will set apart as holy the tent of meeting and the altar, and I will set apart as holy Aaron and his sons that they may minister as priests to me.
 [45] I will reside among the Israelites, and I will be their God,
-[46] and they will know that I am the Lord their God, who brought them out from the land of Egypt, so that I may reside among them. I am the Lord their God.
+[46] and they will know that I am the **Lord** their God, who brought them out from the land of Egypt, so that I may reside among them. I am the **Lord** their God.
 
 ## Chapter 30
 
@@ -1147,30 +1147,30 @@ the horse and its rider he has thrown into the sea.”
 [5] You are to make the poles of acacia wood and overlay them with gold.
 [6] “You are to put it in front of the curtain that is before the ark of the testimony (before the atonement lid that is over the testimony), where I will meet you.
 [7] Aaron is to burn sweet incense on it morning by morning; when he attends to the lamps he is to burn incense.
-[8] When Aaron sets up the lamps around sundown he is to burn incense on it; it is to be a regular incense offering before the Lord throughout your generations.
+[8] When Aaron sets up the lamps around sundown he is to burn incense on it; it is to be a regular incense offering before the **Lord** throughout your generations.
 [9] You must not offer strange incense on it, nor burnt offering, nor meal offering, and you must not pour out a drink offering on it.
-[10] Aaron is to make atonement on its horns once in the year with some of the blood of the sin offering for atonement; once in the year he is to make atonement on it throughout your generations. It is most holy to the Lord.”
+[10] Aaron is to make atonement on its horns once in the year with some of the blood of the sin offering for atonement; once in the year he is to make atonement on it throughout your generations. It is most holy to the **Lord**.”
 
 ### The Ransom Money
 
-[11] The Lord spoke to Moses,
-[12] “When you take a census of the Israelites according to their number, then each man is to pay a ransom for his life to the Lord when you number them, so that there will be no plague among them when you number them.
-[13] Everyone who crosses over to those who are numbered is to pay this: a half shekel according to the shekel of the sanctuary (a shekel weighs twenty gerahs). The half shekel is to be an offering to the Lord.
-[14] Everyone who crosses over to those numbered, from twenty years old and up, is to pay an offering to the Lord.
-[15] The rich are not to pay more and the poor are not to pay less than the half shekel when giving the offering of the Lord, to make atonement for your lives.
-[16] You are to receive the atonement money from the Israelites and give it for the service of the tent of meeting. It will be a memorial for the Israelites before the Lord, to make atonement for your lives.”
+[11] The **Lord** spoke to Moses,
+[12] “When you take a census of the Israelites according to their number, then each man is to pay a ransom for his life to the **Lord** when you number them, so that there will be no plague among them when you number them.
+[13] Everyone who crosses over to those who are numbered is to pay this: a half shekel according to the shekel of the sanctuary (a shekel weighs twenty gerahs). The half shekel is to be an offering to the **Lord**.
+[14] Everyone who crosses over to those numbered, from twenty years old and up, is to pay an offering to the **Lord**.
+[15] The rich are not to pay more and the poor are not to pay less than the half shekel when giving the offering of the **Lord**, to make atonement for your lives.
+[16] You are to receive the atonement money from the Israelites and give it for the service of the tent of meeting. It will be a memorial for the Israelites before the **Lord**, to make atonement for your lives.”
 
 ### The Bronze Laver
 
-[17] The Lord spoke to Moses,
+[17] The **Lord** spoke to Moses,
 [18] “You are also to make a large bronze basin with a bronze stand for washing. You are to put it between the tent of meeting and the altar and put water in it,
 [19] and Aaron and his sons must wash their hands and their feet from it.
-[20] When they enter the tent of meeting, they must wash with water so that they do not die. Also, when they approach the altar to minister by burning incense as an offering made by fire to the Lord,
+[20] When they enter the tent of meeting, they must wash with water so that they do not die. Also, when they approach the altar to minister by burning incense as an offering made by fire to the **Lord**,
 [21] they must wash their hands and their feet so that they do not die. And this will be a perpetual ordinance for them and for their descendants throughout their generations.”
 
 ### Oil and Incense
 
-[22] The Lord spoke to Moses,
+[22] The **Lord** spoke to Moses,
 [23] “Take choice spices: 12½ pounds of free-flowing myrrh, half that—about 6¼ pounds—of sweet-smelling cinnamon, 6¼ pounds of sweet-smelling cane,
 [24] and 12½ pounds of cassia, all weighed according to the sanctuary shekel, and four quarts of olive oil.
 [25] You are to make this into a sacred anointing oil, a perfumed compound, the work of a perfumer. It will be sacred anointing oil.
@@ -1182,10 +1182,10 @@ the horse and its rider he has thrown into the sea.”
 [31] And you are to tell the Israelites: ‘This is to be my sacred anointing oil throughout your generations.
 [32] It must not be applied to people’s bodies, and you must not make any like it with the same recipe. It is holy, and it must be holy to you.
 [33] Whoever makes perfume like it and whoever puts any of it on someone not a priest will be cut off from his people.’”
-[34] The Lord said to Moses, “Take spices, gum resin, onycha, galbanum, and pure frankincense of equal amounts
+[34] The **Lord** said to Moses, “Take spices, gum resin, onycha, galbanum, and pure frankincense of equal amounts
 [35] and make it into an incense, a perfume, the work of a perfumer. It is to be finely ground, and pure and sacred.
 [36] You are to beat some of it very fine and put some of it before the ark of the testimony in the tent of meeting where I will meet with you; it is to be most holy to you.
-[37] And the incense that you are to make, you must not make for yourselves using the same recipe; it is to be most holy to you, belonging to the Lord.
+[37] And the incense that you are to make, you must not make for yourselves using the same recipe; it is to be most holy to you, belonging to the **Lord**.
 [38] Whoever makes anything like it, to use as perfume, will be cut off from his people.”
 
 ## Chapter 31
@@ -1193,7 +1193,7 @@ the horse and its rider he has thrown into the sea.”
 
 ### Willing Artisans
 
-[1] The Lord spoke to Moses,
+[1] The **Lord** spoke to Moses,
 [2] “See, I have chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,
 [3] and I have filled him with the Spirit of God in skill, in understanding, in knowledge, and in all kinds of craftsmanship,
 [4] to make artistic designs for work with gold, with silver, and with bronze,
@@ -1207,12 +1207,12 @@ the horse and its rider he has thrown into the sea.”
 
 ### Sabbath Observance
 
-[12] The Lord said to Moses,
-[13] “Tell the Israelites, ‘Surely you must keep my Sabbaths, for it is a sign between me and you throughout your generations, that you may know that I am the Lord who sanctifies you.
+[12] The **Lord** said to Moses,
+[13] “Tell the Israelites, ‘Surely you must keep my Sabbaths, for it is a sign between me and you throughout your generations, that you may know that I am the **Lord** who sanctifies you.
 [14] So you must keep the Sabbath, for it is holy for you. Everyone who defiles it must surely be put to death; indeed, if anyone does any work on it, then that person will be cut off from among his people.
-[15] Six days work may be done, but on the seventh day is a Sabbath of complete rest, holy to the Lord; anyone who does work on the Sabbath day must surely be put to death.
+[15] Six days work may be done, but on the seventh day is a Sabbath of complete rest, holy to the **Lord**; anyone who does work on the Sabbath day must surely be put to death.
 [16] The Israelites must keep the Sabbath by observing the Sabbath throughout their generations as a perpetual covenant.
-[17] It is a sign between me and the Israelites forever; for in six days the Lord made the heavens and the earth, and on the seventh day he rested and was refreshed.’”
+[17] It is a sign between me and the Israelites forever; for in six days the **Lord** made the heavens and the earth, and on the seventh day he rested and was refreshed.’”
 [18] He gave Moses two tablets of testimony when he had finished speaking with him on Mount Sinai, tablets of stone written by the finger of God.
 
 ## Chapter 32
@@ -1224,16 +1224,16 @@ the horse and its rider he has thrown into the sea.”
 [2] So Aaron said to them, “Break off the gold earrings that are on the ears of your wives, your sons, and your daughters, and bring them to me.”
 [3] So all the people broke off the gold earrings that were on their ears and brought them to Aaron.
 [4] He accepted the gold from them, fashioned it with an engraving tool, and made a molten calf. Then they said, “These are your gods, O Israel, who brought you up out of Egypt.”
-[5] When Aaron saw this, he built an altar before it, and Aaron made a proclamation and said, “Tomorrow will be a feast to the Lord.”
+[5] When Aaron saw this, he built an altar before it, and Aaron made a proclamation and said, “Tomorrow will be a feast to the **Lord**.”
 [6] So they got up early on the next day and offered up burnt offerings and brought peace offerings, and the people sat down to eat and drink, and they rose up to play.
-[7] The Lord spoke to Moses, “Go quickly, descend, because your people, whom you brought up from the land of Egypt, have acted corruptly.
+[7] The **Lord** spoke to Moses, “Go quickly, descend, because your people, whom you brought up from the land of Egypt, have acted corruptly.
 [8] They have quickly turned aside from the way that I commanded them—they have made for themselves a molten calf and have bowed down to it and sacrificed to it and said, ‘These are your gods, O Israel, which brought you up from the land of Egypt.’”
-[9] Then the Lord said to Moses, “I have seen this people. Look what a stiff-necked people they are!
+[9] Then the **Lord** said to Moses, “I have seen this people. Look what a stiff-necked people they are!
 [10] So now, leave me alone so that my anger can burn against them and I can destroy them, and I will make from you a great nation.”
-[11] But Moses sought the favor of the Lord his God and said, “O Lord, why does your anger burn against your people, whom you have brought out from the land of Egypt with great power and with a mighty hand?
+[11] But Moses sought the favor of the **Lord** his God and said, “O **Lord**, why does your anger burn against your people, whom you have brought out from the land of Egypt with great power and with a mighty hand?
 [12] Why should the Egyptians say, ‘For evil he led them out to kill them in the mountains and to destroy them from the face of the earth’? Turn from your burning anger, and relent of this evil against your people.
 [13] Remember Abraham, Isaac, and Israel your servants, to whom you swore by yourself and told them, ‘I will multiply your descendants like the stars of heaven, and all this land that I have spoken about I will give to your descendants, and they will inherit it forever.’”
-[14] Then the Lord relented over the evil that he had said he would do to his people.
+[14] Then the **Lord** relented over the evil that he had said he would do to his people.
 [15] Moses turned and went down from the mountain with the two tablets of the testimony in his hands. The tablets were written on both sides—they were written on the front and on the back.
 [16] Now the tablets were the work of God, and the writing was the writing of God, engraved on the tablets.
 [17] When Joshua heard the noise of the people as they shouted, he said to Moses, “It is the sound of war in the camp!”
@@ -1245,43 +1245,43 @@ the horse and its rider he has thrown into the sea.”
 [23] They said to me, ‘Make us gods that will go before us, for as for this fellow Moses, the man who brought us up out of the land of Egypt, we do not know what has happened to him.’
 [24] So I said to them, ‘Whoever has gold, break it off.’ So they gave it to me, and I threw it into the fire, and this calf came out.”
 [25] Moses saw that the people were running wild, for Aaron had let them get completely out of control, causing derision from their enemies.
-[26] So Moses stood at the entrance of the camp and said, “Whoever is for the Lord, come to me.” All the Levites gathered around him,
-[27] and he said to them, “This is what the Lord, the God of Israel, has said ‘Each man fasten his sword on his side, and go back and forth from entrance to entrance throughout the camp, and each one kill his brother, his friend, and his neighbor.’”
+[26] So Moses stood at the entrance of the camp and said, “Whoever is for the **Lord**, come to me.” All the Levites gathered around him,
+[27] and he said to them, “This is what the **Lord**, the God of Israel, has said ‘Each man fasten his sword on his side, and go back and forth from entrance to entrance throughout the camp, and each one kill his brother, his friend, and his neighbor.’”
 [28] The Levites did what Moses ordered, and that day about 3,000 men of the people died.
-[29] Moses said, “You have been consecrated today for the Lord, for each of you was against his son or against his brother, so he has given a blessing to you today.”
-[30] The next day Moses said to the people, “You have committed a very serious sin, but now I will go up to the Lord—perhaps I can make atonement on behalf of your sin.”
-[31] So Moses returned to the Lord and said, “Alas, this people has committed a very serious sin, and they have made for themselves gods of gold.
+[29] Moses said, “You have been consecrated today for the **Lord**, for each of you was against his son or against his brother, so he has given a blessing to you today.”
+[30] The next day Moses said to the people, “You have committed a very serious sin, but now I will go up to the **Lord**—perhaps I can make atonement on behalf of your sin.”
+[31] So Moses returned to the **Lord** and said, “Alas, this people has committed a very serious sin, and they have made for themselves gods of gold.
 [32] But now, if you will forgive their sin…, but if not, wipe me out from your book that you have written.”
-[33] The Lord said to Moses, “Whoever has sinned against me—that person I will wipe out of my book.
+[33] The **Lord** said to Moses, “Whoever has sinned against me—that person I will wipe out of my book.
 [34] So now go, lead the people to the place I have spoken to you about. See, my angel will go before you. But on the day that I punish, I will indeed punish them for their sin.”
-[35] And the Lord sent a plague on the people because they had made the calf —the one Aaron made.
+[35] And the **Lord** sent a plague on the people because they had made the calf —the one Aaron made.
 
 ## Chapter 33
 
-[1] The Lord said to Moses, “Go up from here, you and the people whom you brought up out of the land of Egypt, to the land I promised on oath to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your descendants.’
+[1] The **Lord** said to Moses, “Go up from here, you and the people whom you brought up out of the land of Egypt, to the land I promised on oath to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your descendants.’
 [2] I will send an angel before you, and I will drive out the Canaanite, the Amorite, the Hittite, the Perizzite, the Hivite, and the Jebusite.
 [3] Go up to a land flowing with milk and honey. But I will not go up among you, for you are a stiff-necked people, and I might destroy you on the way.”
 [4] When the people heard this troubling word they mourned; no one put on his ornaments.
-[5] For the Lord had said to Moses, “Tell the Israelites, ‘You are a stiff-necked people. If I went up among you for a moment, I might destroy you. Now take off your ornaments that I may know what I should do to you.’”
+[5] For the **Lord** had said to Moses, “Tell the Israelites, ‘You are a stiff-necked people. If I went up among you for a moment, I might destroy you. Now take off your ornaments that I may know what I should do to you.’”
 [6] So the Israelites stripped off their ornaments by Mount Horeb.
 
 ### The Presence of the Lord
 
-[7] Moses took the tent and pitched it outside the camp, at a good distance from the camp, and he called it the tent of meeting. Anyone seeking the Lord would go out to the tent of meeting that was outside the camp.
+[7] Moses took the tent and pitched it outside the camp, at a good distance from the camp, and he called it the tent of meeting. Anyone seeking the **Lord** would go out to the tent of meeting that was outside the camp.
 [8] And when Moses went out to the tent, all the people would get up and stand at the entrance to their tents and watch Moses until he entered the tent.
-[9] And whenever Moses entered the tent, the pillar of cloud would descend and stand at the entrance of the tent, and the Lord would speak with Moses.
+[9] And whenever Moses entered the tent, the pillar of cloud would descend and stand at the entrance of the tent, and the **Lord** would speak with Moses.
 [10] When all the people would see the pillar of cloud standing at the entrance of the tent, all the people, each one at the entrance of his own tent, would rise and worship.
-[11] The Lord would speak to Moses face to face, the way a person speaks to a friend. Then Moses would return to the camp, but his servant, Joshua son of Nun, a young man, did not leave the tent.
-[12] Moses said to the Lord, “See, you have been saying to me, ‘Bring this people up,’ but you have not let me know whom you will send with me. But you said, ‘I know you by name, and also you have found favor in my sight.’
+[11] The **Lord** would speak to Moses face to face, the way a person speaks to a friend. Then Moses would return to the camp, but his servant, Joshua son of Nun, a young man, did not leave the tent.
+[12] Moses said to the **Lord**, “See, you have been saying to me, ‘Bring this people up,’ but you have not let me know whom you will send with me. But you said, ‘I know you by name, and also you have found favor in my sight.’
 [13] Now if I have found favor in your sight, show me your way, that I may know you, that I may continue to find favor in your sight. And see that this nation is your people.”
-[14] And the Lord said, “My presence will go with you, and I will give you rest.”
+[14] And the **Lord** said, “My presence will go with you, and I will give you rest.”
 [15] And Moses said to him, “If your presence does not go with us, do not take us up from here.
 [16] For how will it be known then that I have found favor in your sight, I and your people? Is it not by your going with us, so that we will be distinguished, I and your people, from all the people who are on the face of the earth?”
-[17] The Lord said to Moses, “I will do this thing also that you have requested, for you have found favor in my sight, and I know you by name.”
+[17] The **Lord** said to Moses, “I will do this thing also that you have requested, for you have found favor in my sight, and I know you by name.”
 [18] And Moses said, “Show me your glory.”
-[19] And the Lord said, “I will make all my goodness pass before your face, and I will proclaim the Lord by name before you; I will be gracious to whom I will be gracious; I will show mercy to whom I will show mercy.”
+[19] And the **Lord** said, “I will make all my goodness pass before your face, and I will proclaim the **Lord** by name before you; I will be gracious to whom I will be gracious; I will show mercy to whom I will show mercy.”
 [20] But he added, “You cannot see my face, for no one can see me and live.”
-[21] The Lord said, “Here is a place by me; you will station yourself on a rock.
+[21] The **Lord** said, “Here is a place by me; you will station yourself on a rock.
 [22] When my glory passes by, I will put you in a cleft in the rock and will cover you with my hand while I pass by.
 [23] Then I will take away my hand, and you will see my back, but my face must not be seen.”
 
@@ -1290,20 +1290,20 @@ the horse and its rider he has thrown into the sea.”
 
 ### The New Tablets of the Covenant
 
-[1] The Lord said to Moses, “Cut out two tablets of stone like the first, and I will write on the tablets the words that were on the first tablets, which you smashed.
+[1] The **Lord** said to Moses, “Cut out two tablets of stone like the first, and I will write on the tablets the words that were on the first tablets, which you smashed.
 [2] Be prepared in the morning, and go up in the morning to Mount Sinai, and station yourself for me there on the top of the mountain.
 [3] No one is to come up with you; do not let anyone be seen anywhere on the mountain; not even the flocks or the herds may graze in front of that mountain.”
-[4] So Moses cut out two tablets of stone like the first; early in the morning he went up to Mount Sinai, just as the Lord had commanded him, and he took in his hand the two tablets of stone.
-[5] The Lord descended in the cloud and stood with him there and proclaimed the Lord by name.
-[6] The Lord passed by before him and proclaimed: “The Lord, the Lord, the compassionate and gracious God, slow to anger, and abounding in loyal love and faithfulness,
+[4] So Moses cut out two tablets of stone like the first; early in the morning he went up to Mount Sinai, just as the **Lord** had commanded him, and he took in his hand the two tablets of stone.
+[5] The **Lord** descended in the cloud and stood with him there and proclaimed the **Lord** by name.
+[6] The **Lord** passed by before him and proclaimed: “The **Lord**, the **Lord**, the compassionate and gracious God, slow to anger, and abounding in loyal love and faithfulness,
 [7] keeping loyal love for thousands, forgiving iniquity and transgression and sin. But he by no means leaves the guilty unpunished, responding to the transgression of fathers by dealing with children and children’s children, to the third and fourth generation.”
 [8] Moses quickly bowed to the ground and worshiped
 [9] and said, “If now I have found favor in your sight, O Lord, let my Lord go among us, for we are a stiff-necked people; pardon our iniquity and our sin, and take us for your inheritance.”
-[10] He said, “See, I am going to make a covenant before all your people. I will do wonders such as have not been done in all the earth, nor in any nation. All the people among whom you live will see the work of the Lord, for it is a fearful thing that I am doing with you.
+[10] He said, “See, I am going to make a covenant before all your people. I will do wonders such as have not been done in all the earth, nor in any nation. All the people among whom you live will see the work of the **Lord**, for it is a fearful thing that I am doing with you.
 [11] “Obey what I am commanding you this day. I am going to drive out before you the Amorite, the Canaanite, the Hittite, the Perizzite, the Hivite, and the Jebusite.
 [12] Be careful not to make a covenant with the inhabitants of the land where you are going, lest it become a snare among you.
 [13] Rather you must destroy their altars, smash their images, and cut down their Asherah poles.
-[14] For you must not worship any other god, for the Lord, whose name is Jealous, is a jealous God.
+[14] For you must not worship any other god, for the **Lord**, whose name is Jealous, is a jealous God.
 [15] Be careful not to make a covenant with the inhabitants of the land, for when they prostitute themselves to their gods and sacrifice to their gods, and someone invites you, you will eat from his sacrifice;
 [16] and you then take his daughters for your sons, and when his daughters prostitute themselves to their gods, they will make your sons prostitute themselves to their gods as well.
 [17] You must not make yourselves molten gods.
@@ -1312,41 +1312,41 @@ the horse and its rider he has thrown into the sea.”
 [20] Now the firstling of a donkey you may redeem with a lamb, but if you do not redeem it, then break its neck. You must redeem all the firstborn of your sons.
 [21] “On six days you may labor, but on the seventh day you must rest; even at the time of plowing and of harvest you are to rest.
 [22] “You must observe the Feast of Weeks—the firstfruits of the harvest of wheat—and the Feast of Ingathering at the end of the year.
-[23] At three times in the year all your men must appear before the Sovereign Lord, the God of Israel.
-[24] For I will drive out the nations before you and enlarge your borders; no one will covet your land when you go up to appear before the Lord your God three times in the year.
+[23] At three times in the year all your men must appear before the Sovereign **Lord**, the God of Israel.
+[24] For I will drive out the nations before you and enlarge your borders; no one will covet your land when you go up to appear before the **Lord** your God three times in the year.
 [25] “You must not offer the blood of my sacrifice with yeast; the sacrifice from the Feast of Passover must not remain until the following morning.
-[26] “The first of the firstfruits of your soil you must bring to the house of the Lord your God.
-[27] The Lord said to Moses, “Write down these words, for in accordance with these words I have made a covenant with you and with Israel.”
-[28] So he was there with the Lord forty days and forty nights; he did not eat bread, and he did not drink water. He wrote on the tablets the words of the covenant, the Ten Commandments.
+[26] “The first of the firstfruits of your soil you must bring to the house of the **Lord** your God.
+[27] The **Lord** said to Moses, “Write down these words, for in accordance with these words I have made a covenant with you and with Israel.”
+[28] So he was there with the **Lord** forty days and forty nights; he did not eat bread, and he did not drink water. He wrote on the tablets the words of the covenant, the Ten Commandments.
 
 ### The Radiant Face of Moses
 
 [29] Now when Moses came down from Mount Sinai with the two tablets of the testimony in his hand —when he came down from the mountain, Moses did not know that the skin of his face shone while he talked with him.
 [30] When Aaron and all the Israelites saw Moses, the skin of his face shone, and they were afraid to approach him.
 [31] But Moses called to them, so Aaron and all the leaders of the community came back to him, and Moses spoke to them.
-[32] After this all the Israelites approached, and he commanded them all that the Lord had spoken to him on Mount Sinai.
+[32] After this all the Israelites approached, and he commanded them all that the **Lord** had spoken to him on Mount Sinai.
 [33] When Moses finished speaking with them, he would put a veil on his face.
-[34] But when Moses went in before the Lord to speak with him, he would remove the veil until he came out. Then he would come out and tell the Israelites what he had been commanded.
-[35] When the Israelites would see the face of Moses, that the skin of Moses’ face shone, Moses would put the veil on his face again, until he went in to speak with the Lord.
+[34] But when Moses went in before the **Lord** to speak with him, he would remove the veil until he came out. Then he would come out and tell the Israelites what he had been commanded.
+[35] When the Israelites would see the face of Moses, that the skin of Moses’ face shone, Moses would put the veil on his face again, until he went in to speak with the **Lord**.
 
 ## Chapter 35
 
 
 ### Sabbath Regulations
 
-[1] Moses assembled the whole community of the Israelites and said to them, “These are the things that the Lord has commanded you to do.
-[2] In six days work may be done, but on the seventh day there must be a holy day for you, a Sabbath of complete rest to the Lord. Anyone who does work on it will be put to death.
+[1] Moses assembled the whole community of the Israelites and said to them, “These are the things that the **Lord** has commanded you to do.
+[2] In six days work may be done, but on the seventh day there must be a holy day for you, a Sabbath of complete rest to the **Lord**. Anyone who does work on it will be put to death.
 [3] You must not kindle a fire in any of your homes on the Sabbath day.”
 
 ### Willing Workers
 
-[4] Moses spoke to the whole community of the Israelites, “This is the word that the Lord has commanded:
-[5] ‘Take an offering for the Lord. Let everyone who has a willing heart bring an offering to the Lord: gold, silver, bronze;
+[4] Moses spoke to the whole community of the Israelites, “This is the word that the **Lord** has commanded:
+[5] ‘Take an offering for the **Lord**. Let everyone who has a willing heart bring an offering to the **Lord**: gold, silver, bronze;
 [6] blue, purple, and scarlet yarn; fine linen; goats’ hair;
 [7] ram skins dyed red; fine leather; acacia wood;
 [8] olive oil for the light; spices for the anointing oil and for the fragrant incense;
 [9] onyx stones, and other gems for mounting on the ephod and the breastpiece.
-[10] Every skilled person among you is to come and make all that the Lord has commanded:
+[10] Every skilled person among you is to come and make all that the **Lord** has commanded:
 [11] the tabernacle with its tent, its covering, its clasps, its frames, its crossbars, its posts, and its bases;
 [12] the ark, with its poles, the atonement lid, and the special curtain that conceals it;
 [13] the table with its poles and all its vessels, and the Bread of the Presence;
@@ -1357,29 +1357,29 @@ the horse and its rider he has thrown into the sea.”
 [18] tent pegs for the tabernacle and tent pegs for the courtyard and their ropes;
 [19] the woven garments for serving in the Holy Place, the holy garments for Aaron the priest, and the garments for his sons to minister as priests.’”
 [20] So the whole community of the Israelites went out from the presence of Moses.
-[21] Everyone whose heart stirred him to action and everyone whose spirit was willing came and brought the offering for the Lord for the work of the tent of meeting, for all its service, and for the holy garments.
-[22] They came, men and women alike, all who had willing hearts. They brought brooches, earrings, rings and ornaments, all kinds of gold jewelry, and everyone came who waved a wave offering of gold to the Lord.
+[21] Everyone whose heart stirred him to action and everyone whose spirit was willing came and brought the offering for the **Lord** for the work of the tent of meeting, for all its service, and for the holy garments.
+[22] They came, men and women alike, all who had willing hearts. They brought brooches, earrings, rings and ornaments, all kinds of gold jewelry, and everyone came who waved a wave offering of gold to the **Lord**.
 [23] Everyone who had blue, purple, or scarlet yarn, fine linen, goats’ hair, ram skins dyed red, or fine leather brought them.
-[24] Everyone making an offering of silver or bronze brought it as an offering to the Lord, and everyone who had acacia wood for any work of the service brought it.
+[24] Everyone making an offering of silver or bronze brought it as an offering to the **Lord**, and everyone who had acacia wood for any work of the service brought it.
 [25] Every woman who was skilled spun with her hands and brought what she had spun, blue, purple, or scarlet yarn, or fine linen,
 [26] and all the women whose heart stirred them to action and who were skilled spun goats’ hair.
 [27] The leaders brought onyx stones and other gems to be mounted for the ephod and the breastpiece,
 [28] and spices and olive oil for the light, for the anointing oil, and for the fragrant incense.
-[29] The Israelites brought a freewill offering to the Lord, every man and woman whose heart was willing to bring materials for all the work that the Lord through Moses had commanded them to do.
+[29] The Israelites brought a freewill offering to the **Lord**, every man and woman whose heart was willing to bring materials for all the work that the **Lord** through Moses had commanded them to do.
 
 ## Chapter 36
 
-[30] Moses said to the Israelites, “See, the Lord has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah.
+[30] Moses said to the Israelites, “See, the **Lord** has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah.
 [31] He has filled him with the Spirit of God—with skill, with understanding, with knowledge, and in all kinds of work—
 [32] to design artistic designs, to work in gold, in silver, and in bronze,
 [33] and in cutting stones for their setting, and in cutting wood, to do work in every artistic craft.
 [34] And he has put it in his heart to teach, he and Oholiab son of Ahisamach, of the tribe of Dan.
 [35] He has filled them with skill to do all kinds of work as craftsmen, as designers, as embroiderers in blue, purple, and scarlet yarn and in fine linen, and as weavers. They are craftsmen in all the work and artistic designers.
-[1] So Bezalel and Oholiab and every skilled person in whom the Lord has put skill and ability to know how to do all the work for the service of the sanctuary are to do the work according to all that the Lord has commanded.”
-[2] Moses summoned Bezalel and Oholiab and every skilled person in whom the Lord had put skill—everyone whose heart stirred him to volunteer to do the work.
+[1] So Bezalel and Oholiab and every skilled person in whom the **Lord** has put skill and ability to know how to do all the work for the service of the sanctuary are to do the work according to all that the **Lord** has commanded.”
+[2] Moses summoned Bezalel and Oholiab and every skilled person in whom the **Lord** had put skill—everyone whose heart stirred him to volunteer to do the work.
 [3] They received from Moses all the offerings the Israelites had brought to do the work for the service of the sanctuary, and they still continued to bring him a freewill offering each morning.
 [4] So all the skilled people who were doing all the work on the sanctuary came from the work they were doing
-[5] and told Moses, “The people are bringing much more than is needed for the completion of the work which the Lord commanded us to do!”
+[5] and told Moses, “The people are bringing much more than is needed for the completion of the work which the **Lord** commanded us to do!”
 [6] Moses instructed them to take his message throughout the camp, saying, “Let no man or woman do anymore work for the offering for the sanctuary.” So the people were restrained from bringing any more.
 [7] Now the materials were more than enough for them to do all the work.
 
@@ -1493,7 +1493,7 @@ the horse and its rider he has thrown into the sea.”
 ### The Materials of the Construction
 
 [21] This is the inventory of the tabernacle, the tabernacle of the testimony, which was counted by the order of Moses, being the work of the Levites under the direction of Ithamar, son of Aaron the priest.
-[22] Now Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything that the Lord had commanded Moses;
+[22] Now Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything that the **Lord** had commanded Moses;
 [23] and with him was Oholiab son of Ahisamach, of the tribe of Dan, an artisan, a designer, and an embroiderer in blue, purple, and scarlet yarn and fine linen.
 [24] All the gold that was used for the work, in all the work of the sanctuary (namely, the gold of the wave offering) was 29 talents and 730 shekels, according to the sanctuary shekel.
 [25] The silver of those who were numbered of the community was 100 talents and 1,775 shekels, according to the sanctuary shekel,
@@ -1509,16 +1509,16 @@ the horse and its rider he has thrown into the sea.”
 
 ### The Making of the Priestly Garments
 
-[1] From the blue, purple, and scarlet yarn they made woven garments for serving in the sanctuary; they made holy garments that were for Aaron, just as the Lord had commanded Moses.
+[1] From the blue, purple, and scarlet yarn they made woven garments for serving in the sanctuary; they made holy garments that were for Aaron, just as the **Lord** had commanded Moses.
 
 ### The Ephod
 
 [2] He made the ephod of gold, blue, purple, scarlet yarn, and fine twisted linen.
 [3] They hammered the gold into thin sheets and cut it into narrow strips to weave them into the blue, purple, and scarlet yarn, and into the fine linen, the work of an artistic designer.
 [4] They made shoulder pieces for it, attached to two of its corners, so it could be joined together.
-[5] The artistically woven waistband of the ephod that was on it was like it, of one piece with it, of gold, blue, purple, and scarlet yarn and fine twisted linen, just as the Lord had commanded Moses.
+[5] The artistically woven waistband of the ephod that was on it was like it, of one piece with it, of gold, blue, purple, and scarlet yarn and fine twisted linen, just as the **Lord** had commanded Moses.
 [6] They set the onyx stones in gold filigree settings, engraved as with the engravings of a seal with the names of the sons of Israel.
-[7] He put them on the shoulder pieces of the ephod as stones of memorial for the Israelites, just as the Lord had commanded Moses.
+[7] He put them on the shoulder pieces of the ephod as stones of memorial for the Israelites, just as the **Lord** had commanded Moses.
 
 ### The Breastpiece of Decision
 
@@ -1535,7 +1535,7 @@ the horse and its rider he has thrown into the sea.”
 [18] the other two ends of the two chains they attached to the two settings, and they attached them to the shoulder pieces of the ephod at the front of it.
 [19] They made two rings of gold and put them on the other two ends of the breastpiece on its edge, which is on the inner side of the ephod.
 [20] They made two more gold rings and attached them to the bottom of the two shoulder pieces on the front of the ephod, close to the juncture above the waistband of the ephod.
-[21] They tied the breastpiece by its rings to the rings of the ephod by blue cord, so that it was above the waistband of the ephod, so that the breastpiece would not be loose from the ephod, just as the Lord had commanded Moses.
+[21] They tied the breastpiece by its rings to the rings of the ephod by blue cord, so that it was above the waistband of the ephod, so that the breastpiece would not be loose from the ephod, just as the **Lord** had commanded Moses.
 
 ### The Other Garments
 
@@ -1543,16 +1543,16 @@ the horse and its rider he has thrown into the sea.”
 [23] There was an opening in the center of the robe, like the opening of a collar, with an edge all around the opening so that it could not be torn.
 [24] They made pomegranates of blue, purple, and scarlet yarn and twisted linen around the hem of the robe.
 [25] They made bells of pure gold and attached the bells between the pomegranates around the hem of the robe between the pomegranates.
-[26] There was a bell and a pomegranate, a bell and a pomegranate, all around the hem of the robe, to be used in ministering, just as the Lord had commanded Moses.
+[26] There was a bell and a pomegranate, a bell and a pomegranate, all around the hem of the robe, to be used in ministering, just as the **Lord** had commanded Moses.
 [27] They made tunics of fine linen—the work of a weaver, for Aaron and for his sons—
 [28] and the turban of fine linen, the headbands of fine linen, and the undergarments of fine twisted linen.
-[29] The sash was of fine twisted linen and blue, purple, and scarlet yarn, the work of an embroiderer, just as the Lord had commanded Moses.
-[30] They made a plate, the holy diadem, of pure gold and wrote on it an inscription, as on the engravings of a seal, “Holiness to the Lord.”
-[31] They attached to it a blue cord to attach it to the turban above, just as the Lord had commanded Moses.
+[29] The sash was of fine twisted linen and blue, purple, and scarlet yarn, the work of an embroiderer, just as the **Lord** had commanded Moses.
+[30] They made a plate, the holy diadem, of pure gold and wrote on it an inscription, as on the engravings of a seal, “Holiness to the **Lord**.”
+[31] They attached to it a blue cord to attach it to the turban above, just as the **Lord** had commanded Moses.
 
 ### Moses Inspects the Tabernacle
 
-[32] So all the work of the tabernacle, the tent of meeting, was completed, and the Israelites did according to all that the Lord had commanded Moses—they did it exactly so.
+[32] So all the work of the tabernacle, the tent of meeting, was completed, and the Israelites did according to all that the **Lord** had commanded Moses—they did it exactly so.
 [33] They brought the tabernacle to Moses, the tent and all its furnishings, clasps, frames, bars, posts, and bases;
 [34] and the coverings of ram skins dyed red, the covering of fine leather, and the protecting curtain;
 [35] the ark of the testimony and its poles, and the atonement lid;
@@ -1562,15 +1562,15 @@ the horse and its rider he has thrown into the sea.”
 [39] the bronze altar and its bronze grating, its poles, and all its utensils; the large basin with its pedestal;
 [40] the hangings of the courtyard, its posts and its bases, and the curtain for the gateway of the courtyard, its ropes and its tent pegs, and all the furnishings for the service of the tabernacle, for the tent of meeting;
 [41] the woven garments for serving in the sanctuary, the holy garments for Aaron the priest, and the garments for his sons to minister as priests.
-[42] The Israelites did all the work according to all that the Lord had commanded Moses.
-[43] Moses inspected all the work, and they had done it just as the Lord had commanded—they had done it exactly—and Moses blessed them.
+[42] The Israelites did all the work according to all that the **Lord** had commanded Moses.
+[43] Moses inspected all the work, and they had done it just as the **Lord** had commanded—they had done it exactly—and Moses blessed them.
 
 ## Chapter 40
 
 
 ### Setting Up the Sanctuary
 
-[1] Then the Lord spoke to Moses:
+[1] Then the **Lord** spoke to Moses:
 [2] “On the first day of the first month you are to set up the tabernacle, the tent of meeting.
 [3] You are to place the ark of the testimony in it and shield the ark with the special curtain.
 [4] You are to bring in the table and set out the things that belong on it; then you are to bring in the lampstand and set up its lamps.
@@ -1585,26 +1585,26 @@ the horse and its rider he has thrown into the sea.”
 [13] Then you are to clothe Aaron with the holy garments and anoint him and sanctify him so that he may minister as my priest.
 [14] You are to bring his sons and clothe them with tunics
 [15] and anoint them just as you anointed their father, so that they may minister as my priests; their anointing will make them a priesthood that will continue throughout their generations.”
-[16] This is what Moses did, according to all the Lord had commanded him—so he did.
+[16] This is what Moses did, according to all the **Lord** had commanded him—so he did.
 [17] So the tabernacle was set up on the first day of the first month, in the second year.
 [18] When Moses set up the tabernacle and put its bases in place, he set up its frames, attached its bars, and set up its posts.
-[19] Then he spread the tent over the tabernacle and put the covering of the tent over it, as the Lord had commanded him.
+[19] Then he spread the tent over the tabernacle and put the covering of the tent over it, as the **Lord** had commanded him.
 [20] He took the testimony and put it in the ark, attached the poles to the ark, and then put the atonement lid on the ark.
-[21] And he brought the ark into the tabernacle, hung the protecting curtain, and shielded the ark of the testimony from view, just as the Lord had commanded him.
+[21] And he brought the ark into the tabernacle, hung the protecting curtain, and shielded the ark of the testimony from view, just as the **Lord** had commanded him.
 [22] And Moses put the table in the tent of meeting, on the north side of the tabernacle, outside the curtain.
-[23] And he set the bread in order on it before the Lord, just as the Lord had commanded him.
+[23] And he set the bread in order on it before the **Lord**, just as the **Lord** had commanded him.
 [24] And he put the lampstand in the tent of meeting opposite the table, on the south side of the tabernacle.
-[25] Then he set up the lamps before the Lord, just as the Lord had commanded him.
+[25] Then he set up the lamps before the **Lord**, just as the **Lord** had commanded him.
 [26] And he put the gold altar in the tent of meeting in front of the curtain,
-[27] and he burned fragrant incense on it, just as the Lord had commanded him.
+[27] and he burned fragrant incense on it, just as the **Lord** had commanded him.
 [28] Then Moses put the curtain at the entrance to the tabernacle.
-[29] He also put the altar for the burnt offering by the entrance to the tabernacle, the tent of meeting, and offered on it the burnt offering and the meal offering, just as the Lord had commanded him.
+[29] He also put the altar for the burnt offering by the entrance to the tabernacle, the tent of meeting, and offered on it the burnt offering and the meal offering, just as the **Lord** had commanded him.
 [30] Then he put the large basin between the tent of meeting and the altar and put water in it for washing.
 [31] Moses and Aaron and his sons would wash their hands and their feet from it.
-[32] Whenever they entered the tent of meeting, and whenever they approached the altar, they would wash, just as the Lord had commanded Moses.
+[32] Whenever they entered the tent of meeting, and whenever they approached the altar, they would wash, just as the **Lord** had commanded Moses.
 [33] And he set up the courtyard around the tabernacle and the altar, and put the curtain at the gate of the courtyard. So Moses finished the work.
-[34] Then the cloud covered the tent of meeting, and the glory of the Lord filled the tabernacle.
-[35] Moses was not able to enter the tent of meeting because the cloud settled on it and the glory of the Lord filled the tabernacle.
+[34] Then the cloud covered the tent of meeting, and the glory of the **Lord** filled the tabernacle.
+[35] Moses was not able to enter the tent of meeting because the cloud settled on it and the glory of the **Lord** filled the tabernacle.
 [36] But when the cloud was lifted up from the tabernacle, the Israelites would set out on all their journeys;
 [37] but if the cloud was not lifted up, then they would not journey farther until the day it was lifted up.
-[38] For the cloud of the Lord was on the tabernacle by day, but fire would be on it at night, in plain view of all the house of Israel throughout all their journeys.
+[38] For the cloud of the **Lord** was on the tabernacle by day, but fire would be on it at night, in plain view of all the house of Israel throughout all their journeys.

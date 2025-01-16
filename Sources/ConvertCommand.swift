@@ -284,7 +284,8 @@ struct ConvertCommand: ParsableCommand {
                 
                 for smcaps in try element.select("span.smcaps") {
                     let text = try smcaps.text()
-                    try smcaps.text(text)
+                    // Replace plain text with bold markdown syntax
+                    try smcaps.text("**\(text)**")
                 }
                 
                 if className == "bodytext" {

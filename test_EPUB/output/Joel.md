@@ -5,7 +5,7 @@
 
 ### Introduction
 
-[1] This is the Lord’s message that came to Joel the son of Pethuel:
+[1] This is the **Lord**’s message that came to Joel the son of Pethuel:
 
 ### A Locust Plague Foreshadows the Day of the Lord
 

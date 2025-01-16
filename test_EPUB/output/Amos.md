@@ -14,7 +14,7 @@
 from Jerusalem he comes bellowing!
 The shepherds’ pastures wilt;
 the summit of Carmel withers.”
-[3] This is what the Lord says:
+[3] This is what the **Lord** says:
 “Because Damascus has committed three crimes —
 make that four! —I will not revoke my
 decree of judgment.
@@ -26,7 +26,7 @@ I will remove the ruler from Wicked Valley,
 the one who holds the royal scepter from Beth Eden.
 The people of Aram will be deported to Kir.”
 The Lord has spoken!
-[6] This is what the Lord says:
+[6] This is what the **Lord** says:
 “Because Gaza has committed three crimes —
 make that four! —I will not revoke my decree of judgment.
 They deported a whole community and sold them to Edom.
@@ -37,14 +37,14 @@ the one who holds the royal scepter from Ashkelon.
 I will strike Ekron with my hand;
 the rest of the Philistines will also die.”
 The Sovereign Lord has spoken!
-[9] This is what the Lord says:
+[9] This is what the **Lord** says:
 “Because Tyre has committed three crimes —
 make that four —I will not revoke my decree of judgment.
 They sold a whole community to Edom;
 they failed to observe a treaty of brotherhood.
 [10] So I will set fire to Tyre’s city wall;
 fire will consume her fortresses.”
-[11] This is what the Lord says:
+[11] This is what the **Lord** says:
 “Because Edom has committed three crimes —
 make that four —I will not revoke my decree of judgment.
 He chased his brother with a sword;
@@ -53,7 +53,7 @@ In his anger he tore them apart without stopping to rest;
 in his fury he relentlessly attacked them.
 [12] So I will set Teman on fire;
 fire will consume Bozrah’s fortresses.”
-[13] This is what the Lord says:
+[13] This is what the **Lord** says:
 “Because the Ammonites have committed three crimes —
 make that four —I will not revoke my decree of judgment.
 They ripped open Gilead’s pregnant women
@@ -68,7 +68,7 @@ The Lord has spoken
 
 ## Chapter 2
 
-[1] This is what the Lord says:
+[1] This is what the **Lord** says:
 “Because Moab has committed three crimes —
 make that four —I will not revoke my decree of judgment.
 They burned the bones of Edom’s king into lime.
@@ -79,7 +79,7 @@ amid war cries and the blaring of the ram’s horn.
 [3] I will remove Moab’s leader;
 I will kill all Moab’s officials with him.”
 The Lord has spoken!
-[4] This is what the Lord says:
+[4] This is what the **Lord** says:
 “Because Judah has committed three covenant transgressions —
 make that four —I will not revoke my decree of judgment.
 They rejected the Lord’s law;
@@ -92,7 +92,7 @@ and it will consume Jerusalem’s fortresses.”
 
 ### God Will Judge Israel
 
-[6] This is what the Lord says:
+[6] This is what the **Lord** says:
 “Because Israel has committed three covenant transgressions —
 make that four —I will not revoke my decree of judgment.
 They sold the innocent for silver,
@@ -135,7 +135,7 @@ The Lord is speaking.
 
 ### Every Effect has its Cause
 
-[1] Listen, you Israelites, to this message that the Lord is proclaiming against you! This message is for the entire clan I brought up from the land of Egypt:
+[1] Listen, you Israelites, to this message that the **Lord** is proclaiming against you! This message is for the entire clan I brought up from the land of Egypt:
 [2] “I have chosen you alone from all the clans of the earth.
 Therefore I will punish you for all your sins.”
 [3] Do two walk together without having met?
@@ -163,7 +163,7 @@ the oppressive deeds occurring in it.”
 [11] Therefore,” says the Sovereign Lord, “an enemy will encircle the land.
 He will take away your power;
 your fortresses will be looted.”
-[12] This is what the Lord says:
+[12] This is what the **Lord** says:
 “Just as a shepherd salvages from the lion’s mouth a couple of leg bones or a piece of an ear,
 so the Israelites who live in Samaria will be salvaged.
 They will be left with just a corner of a bed,
@@ -256,10 +256,10 @@ The Lord God of Heaven’s Armies is his name!
 [2] “The virgin Israel has fallen down and will not get up again.
 She is abandoned on her own land
 with no one to help her get up.”
-[3] The Sovereign Lord says this:
+[3] The Sovereign **Lord** says this:
 “The city that marches out with a thousand soldiers will have only a hundred left;
 the town that marches out with a hundred soldiers will have only ten left for the family of Israel.”
-[4] The Lord says this to the family of Israel:
+[4] The **Lord** says this to the family of Israel:
 “Seek me so you can live!
 [5] Do not seek Bethel.
 Do not visit Gilgal.
@@ -302,7 +302,7 @@ as you claim he is.
 [15] Hate what is wrong, love what is right.
 Promote justice at the city gate.
 Maybe the Lord God of Heaven’s Armies will have mercy on those who are left from Joseph.
-[16] Because of Israel’s sins this is what the Lord, the Lord God of Heaven’s Armies, says:
+[16] Because of Israel’s sins this is what the Lord, the **Lord** God of Heaven’s Armies, says:
 “In all the squares there will be wailing,
 in all the streets they will mourn the dead.
 They will tell the field workers to lament
@@ -373,7 +373,7 @@ The Lord God of Heaven’s Armies is speaking:
 I hate their fortresses.
 I will hand over to their enemies the city of Samaria and everything in it.”
 [9] If ten men are left in one house, they too will die.
-[10] When their close relatives, the ones who will burn the corpses, pick up their bodies to remove the bones from the house, they will say to anyone who is in the inner rooms of the house, “Is anyone else with you?” He will respond, “No one.” Then he will say, “Hush! Don’t invoke the Lord’s name!”
+[10] When their close relatives, the ones who will burn the corpses, pick up their bodies to remove the bones from the house, they will say to anyone who is in the inner rooms of the house, “Is anyone else with you?” He will respond, “No one.” Then he will say, “Hush! Don’t invoke the **Lord**’s name!”
 
 [11] Indeed, look! The Lord is giving the command.
 He will smash the large house to bits
@@ -393,20 +393,20 @@ the Lord, the God who commands armies, is speaking.
 
 ### Symbolic Visions of Judgment
 
-[1] The Sovereign Lord showed me this: I saw him making locusts just as the crops planted late were beginning to sprout. (The crops planted late sprout after the royal harvest.)
+[1] The Sovereign **Lord** showed me this: I saw him making locusts just as the crops planted late were beginning to sprout. (The crops planted late sprout after the royal harvest.)
 [2] When they had completely consumed the earth’s vegetation, I said,
 “Sovereign Lord, forgive Israel!
 How can Jacob survive?
 He is too weak!”
-[3] The Lord decided not to do this. “It will not happen,” the Lord said.
-[4] The Sovereign Lord showed me this: I saw the Sovereign Lord summoning a shower of fire. It consumed the great deep and devoured the fields.
+[3] The **Lord** decided not to do this. “It will not happen,” the **Lord** said.
+[4] The Sovereign **Lord** showed me this: I saw the Sovereign **Lord** summoning a shower of fire. It consumed the great deep and devoured the fields.
 [5] I said,
 “Sovereign Lord, stop!
 How can Jacob survive?
 He is too weak!”
-[6] The Lord decided not to do this. The Sovereign Lord said, “This will not happen either.”
+[6] The **Lord** decided not to do this. The Sovereign **Lord** said, “This will not happen either.”
 [7] He showed me this: I saw the Lord standing by a tin wall holding tin in his hand.
-[8] The Lord said to me, “What do you see, Amos?” I said, “Tin.” The Lord then said,
+[8] The **Lord** said to me, “What do you see, Amos?” I said, “Tin.” The Lord then said,
 “Look, I am about to place tin among my people Israel.
 I will no longer overlook their sin.
 [9] Isaac’s centers of worship will become desolate;
@@ -420,9 +420,9 @@ I will attack Jeroboam’s dynasty with the sword.”
 [12] Amaziah then said to Amos, “Leave, you visionary! Run away to the land of Judah. Earn your living and prophesy there!
 [13] Don’t prophesy at Bethel any longer, for a royal temple and palace are here.”
 [14] Amos replied to Amaziah, “I was not a prophet by profession. No, I was a herdsman who also took care of sycamore fig trees.
-[15] Then the Lord took me from tending flocks and gave me this commission, ‘Go! Prophesy to my people Israel.’
-[16] So now listen to the Lord’s message! You say, ‘Don’t prophesy against Israel! Don’t preach against the family of Isaac!’
-[17] “Therefore this is what the Lord says:
+[15] Then the **Lord** took me from tending flocks and gave me this commission, ‘Go! Prophesy to my people Israel.’
+[16] So now listen to the **Lord**’s message! You say, ‘Don’t prophesy against Israel! Don’t preach against the family of Isaac!’
+[17] “Therefore this is what the **Lord** says:
 ‘Your wife will become a prostitute in the streets
 and your sons and daughters will die violently.
 Your land will be given to others
@@ -434,8 +434,8 @@ Israel will certainly be carried into exile away from its land.’”
 
 ### More Visions and Messages of Judgment
 
-[1] The Sovereign Lord showed me this: I saw a basket of summer fruit.
-[2] He said, “What do you see, Amos?” I replied, “A basket of summer fruit.” Then the Lord said to me, “The end has come for my people Israel! I will no longer overlook their sins.
+[1] The Sovereign **Lord** showed me this: I saw a basket of summer fruit.
+[2] He said, “What do you see, Amos?” I replied, “A basket of summer fruit.” Then the **Lord** said to me, “The end has come for my people Israel! I will no longer overlook their sins.
 [3] The women singing in the temple will wail in that day.”
 The Sovereign Lord is speaking.
 “There will be many corpses littered everywhere! Be quiet!”
@@ -449,7 +449,7 @@ and to cheat the buyer with rigged scales!
 [6] We’re eager to trade silver for the poor,
 a pair of sandals for the needy.
 We want to mix in some chaff with the grain!”
-[7] The Lord confirms this oath by the arrogance of Jacob:
+[7] The **Lord** confirms this oath by the arrogance of Jacob:
 “I swear I will never forget all you have done!
 [8] Because of this the earth will quake,
 and all who live in it will mourn.

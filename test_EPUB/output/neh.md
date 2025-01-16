@@ -9,7 +9,7 @@
 [2] Hanani, who was one of my relatives, along with some of the men from Judah, came to me, and I asked them about the Jews who had escaped and had survived the exile, and about Jerusalem.
 [3] They said to me, “The remnant that remains from the exile there in the province are experiencing considerable adversity and reproach. The wall of Jerusalem lies breached, and its gates have been burned down!”
 [4] When I heard these things I sat down abruptly, crying and mourning for several days. I continued fasting and praying before the God of heaven.
-[5] Then I said, “Please, O Lord God of heaven, great and awesome God, who keeps his loving covenant with those who love him and obey his commandments,
+[5] Then I said, “Please, O **Lord** God of heaven, great and awesome God, who keeps his loving covenant with those who love him and obey his commandments,
 [6] may your ear be attentive and your eyes be open to hear the prayer of your servant that I am praying to you today throughout both day and night on behalf of your servants the Israelites. I am confessing the sins of the Israelites that we have committed against you—both I myself and my family have sinned.
 [7] We have behaved corruptly against you, not obeying the commandments, the statutes, and the judgments that you commanded your servant Moses.
 [8] Please recall the word you commanded your servant Moses: ‘If you act unfaithfully, I will scatter you among the nations.
@@ -130,7 +130,7 @@
 [10] Even I and my relatives and my associates are lending them money and grain. But let us abandon this practice of seizing collateral!
 [11] This very day return to them their fields, their vineyards, their olive trees, and their houses, along with the interest that you are exacting from them on the money, the grain, the new wine, and the olive oil.”
 [12] They replied, “We will return these things, and we will no longer demand anything from them. We will do just as you say.” Then I called the priests and made the wealthy and the officials swear to do what had been promised.
-[13] I also shook out my garment, and I said, “In this way may God shake out from his house and his property every person who does not carry out this matter. In this way may he be shaken out and emptied!” All the assembly replied, “So be it!” and they praised the Lord. Then the people did as they had promised.
+[13] I also shook out my garment, and I said, “In this way may God shake out from his house and his property every person who does not carry out this matter. In this way may he be shaken out and emptied!” All the assembly replied, “So be it!” and they praised the **Lord**. Then the people did as they had promised.
 [14] From the day that I was appointed governor in the land of Judah, that is, from the twentieth year until the thirty-second year of King Artaxerxes—twelve years in all—neither I nor my relatives ate the food allotted to the governor.
 [15] But the former governors who preceded me had burdened the people and had taken food and wine from them, in addition to forty shekels of silver. Their associates were also domineering over the people. But I did not behave in this way, due to my fear of God.
 [16] I gave myself to the work on this wall, without even purchasing a field. All my associates were gathered there for the work.
@@ -247,20 +247,20 @@
 
 ### The People Respond to the Reading of the Law
 
-[1] all the people gathered together in the plaza which was in front of the Water Gate. They asked Ezra the scribe to bring the book of the law of Moses which the Lord had commanded Israel.
+[1] all the people gathered together in the plaza which was in front of the Water Gate. They asked Ezra the scribe to bring the book of the law of Moses which the **Lord** had commanded Israel.
 [2] So Ezra the priest brought the law before the assembly which included men and women and all those able to understand what they heard. (This happened on the first day of the seventh month.)
 [3] So he read it before the plaza in front of the Water Gate from dawn till noon before the men and women and those children who could understand. All the people were eager to hear the book of the law.
 [4] Ezra the scribe stood on a towering wooden platform constructed for this purpose. Standing near him on his right were Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Masseiah. On his left were Pedaiah, Mishael, Malkijah, Hashum, Hashbaddanah, Zechariah, and Meshullam.
 [5] Ezra opened the book in plain view of all the people, for he was elevated above all the people. When he opened the book, all the people stood up.
-[6] Ezra blessed the Lord, the great God, and all the people replied “Amen! Amen!” as they lifted their hands. Then they bowed down and worshiped the Lord with their faces to the ground.
+[6] Ezra blessed the **Lord**, the great God, and all the people replied “Amen! Amen!” as they lifted their hands. Then they bowed down and worshiped the **Lord** with their faces to the ground.
 [7] Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah—all of whom were Levites —were teaching the people the law, as the people remained standing.
 [8] They read from the book of God’s law, explaining it and imparting insight. Thus the people gained understanding from what was read.
-[9] Then Nehemiah the governor, Ezra the priestly scribe, and the Levites who were imparting understanding to the people said to all of them, “This day is holy to the Lord your God. Do not mourn or weep.” For all the people had been weeping when they heard the words of the law.
-[10] He said to them, “Go and eat delicacies and drink sweet drinks and send portions to those for whom nothing is prepared. For this day is holy to our Lord. Do not grieve, for the joy of the Lord is your strength.”
+[9] Then Nehemiah the governor, Ezra the priestly scribe, and the Levites who were imparting understanding to the people said to all of them, “This day is holy to the **Lord** your God. Do not mourn or weep.” For all the people had been weeping when they heard the words of the law.
+[10] He said to them, “Go and eat delicacies and drink sweet drinks and send portions to those for whom nothing is prepared. For this day is holy to our Lord. Do not grieve, for the joy of the **Lord** is your strength.”
 [11] Then the Levites quieted all the people saying, “Be quiet, for this day is holy. Do not grieve.”
 [12] So all the people departed to eat and drink and to share their food with others and to enjoy tremendous joy, for they had gained insight in the matters that had been made known to them.
 [13] On the second day of the month the family leaders met with Ezra the scribe, together with all the people, the priests, and the Levites, to consider the words of the law.
-[14] They discovered written in the law that the Lord had commanded through Moses that the Israelites should live in temporary shelters during the festival of the seventh month,
+[14] They discovered written in the law that the **Lord** had commanded through Moses that the Israelites should live in temporary shelters during the festival of the seventh month,
 [15] and that they should make a proclamation and disseminate this message in all their cities and in Jerusalem: “Go to the hill country and bring back olive branches and branches of wild olive trees, myrtle trees, date palms, and other leafy trees to construct temporary shelters, as it is written.”
 [16] So the people went out and brought these things back and constructed temporary shelters for themselves, each on his roof and in his courtyard and in the courtyards of the temple of God and in the plaza of the Water Gate and the plaza of the Ephraim Gate.
 [17] So all the assembly which had returned from the exile constructed temporary shelters and lived in them. The Israelites had not done so from the days of Joshua son of Nun until that day. Everyone experienced very great joy.
@@ -273,11 +273,11 @@
 
 [1] On the twenty-fourth day of this same month the Israelites assembled; they were fasting and wearing sackcloth, their heads covered with dust.
 [2] Those truly of Israelite descent separated from all the foreigners, standing and confessing their sins and the iniquities of their ancestors.
-[3] For one-fourth of the day they stood in their place and read from the book of the law of the Lord their God, and for another fourth they were confessing their sins and worshiping the Lord their God.
-[4] Then the Levites—Jeshua, Binnui, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Kenani—stood on the steps and called out loudly to the Lord their God.
-[5] The Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—said, “Stand up and bless the Lord your God!”
-[6] You alone are the Lord. You made the heavens, even the highest heavens, along with all their multitude of stars, the earth and all that is on it, the seas and all that is in them. You impart life to them all, and the multitudes of heaven worship you.
-[7] “You are the Lord God who chose Abram and brought him forth from Ur of the Chaldeans. You changed his name to Abraham.
+[3] For one-fourth of the day they stood in their place and read from the book of the law of the **Lord** their God, and for another fourth they were confessing their sins and worshiping the **Lord** their God.
+[4] Then the Levites—Jeshua, Binnui, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Kenani—stood on the steps and called out loudly to the **Lord** their God.
+[5] The Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—said, “Stand up and bless the **Lord** your God!”
+[6] You alone are the **Lord**. You made the heavens, even the highest heavens, along with all their multitude of stars, the earth and all that is on it, the seas and all that is in them. You impart life to them all, and the multitudes of heaven worship you.
+[7] “You are the **Lord** God who chose Abram and brought him forth from Ur of the Chaldeans. You changed his name to Abraham.
 [8] When you perceived that his heart was faithful toward you, you established a covenant with him to give his descendants the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites, and the Girgashites. You have fulfilled your promise, for you are righteous.
 [9] “You saw the affliction of our ancestors in Egypt, and you heard their cry at the Red Sea.
 [10] You performed awesome signs against Pharaoh, against his servants, and against all the people of his land, for you knew that the Egyptians had acted presumptuously against them. You made for yourself a name that is celebrated to this day.
@@ -343,13 +343,13 @@
 [26] Ahiah, Hanan, Anan,
 [27] Malluch, Harim, and Baanah.
 [28] “Now the rest of the people—the priests, the Levites, the gatekeepers, the singers, the temple attendants, and all those who have separated themselves from the neighboring peoples because of the law of God, along with their wives, their sons, and their daughters, all of whom are able to understand—
-[29] hereby participate with their colleagues the town leaders and enter into a curse and an oath to adhere to the law of God which was given through Moses the servant of God, and to obey carefully all the commandments of the Lord our Lord, along with his ordinances and his statutes.
+[29] hereby participate with their colleagues the town leaders and enter into a curse and an oath to adhere to the law of God which was given through Moses the servant of God, and to obey carefully all the commandments of the **Lord** our Lord, along with his ordinances and his statutes.
 [30] “We will not give our daughters in marriage to the neighboring peoples, and we will not take their daughters in marriage for our sons.
 [31] We will not buy on the Sabbath or on a holy day from the neighboring peoples who bring their wares and all kinds of grain to sell on the Sabbath day. We will let the fields lie fallow every seventh year, and we will cancel every loan.
 [32] We accept responsibility for fulfilling the commands to give one third of a shekel each year for the work of the temple of our God,
 [33] for the loaves of presentation and for the regular grain offerings and regular burnt offerings, for the Sabbaths, for the new moons, for the appointed meetings, for the holy offerings, for the sin offerings to make atonement for Israel, and for all the work of the temple of our God.
-[34] “We—the priests, the Levites, and the people—have cast lots concerning the wood offerings, to bring them to the temple of our God according to our families at the designated times year by year to burn on the altar of the Lord our God, as is written in the law.
-[35] We also accept responsibility for bringing the firstfruits of our land and the firstfruits of every fruit tree year by year to the temple of the Lord.
+[34] “We—the priests, the Levites, and the people—have cast lots concerning the wood offerings, to bring them to the temple of our God according to our families at the designated times year by year to burn on the altar of the **Lord** our God, as is written in the law.
+[35] We also accept responsibility for bringing the firstfruits of our land and the firstfruits of every fruit tree year by year to the temple of the **Lord**.
 [36] We also accept responsibility, as is written in the law, for bringing the firstborn of our sons and our cattle and the firstborn of our herds and of our flocks to the temple of our God, to the priests who are ministering in the temple of our God.
 [37] We will also bring the first of our coarse meal, of our contributions, of the fruit of every tree, of new wine, and of olive oil to the priests at the storerooms of the temple of our God, along with a tenth of the produce of our land to the Levites, for the Levites are the ones who collect the tithes in all the cities where we work.
 [38] A priest of Aaron’s line will be with the Levites when the Levites collect the tithes, and the Levites will bring up a tenth of the tithes to the temple of our God, to the storerooms of the treasury.

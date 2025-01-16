@@ -203,7 +203,7 @@ struct ConvertCommand: ParsableCommand {
         
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
     }
-
+    
     func convertToMarkdown(_ xmlString: String) throws -> (String?, String) {
         var markdown = ""
         var bookName = ""
@@ -233,7 +233,7 @@ struct ConvertCommand: ParsableCommand {
                 }
             }
             
-            let elements = try document.select("p.paragraphtitle, p.bodytext, p.poetry, p.sosspeaker, p.lamhebrew")
+            let elements = try document.select("p.paragraphtitle, p.bodytext, p.poetrybreak, p.poetry, p.otpoetry, p.sosspeaker, p.lamhebrew")
             
             for element in elements {
                 let className = try element.className()
@@ -253,12 +253,27 @@ struct ConvertCommand: ParsableCommand {
                     continue
                 }
                 
+                if className == "poetrybreak" {
+                    if let verse = try element.select("span.verse").first() {
+                        let verseNumber = try verse.text().split(separator: ":")[1]
+                        try verse.remove()
+                        let verseText = try element.text().trimmingCharacters(in: .whitespaces)
+                        markdown += "\n[\(verseNumber)] \(verseText)\n"
+                    } else {
+                        let line = try element.text().trimmingCharacters(in: .whitespaces)
+                        if !line.isEmpty {
+                            markdown += "\n\(line)\n"
+                        }
+                    }
+                    continue
+                }
+                
                 for smcaps in try element.select("span.smcaps") {
                     let text = try smcaps.text()
                     try smcaps.text(text)
                 }
                 
-                if className == "poetry" {
+                if className == "poetry" || className == "otpoetry" {
                     if let verse = try element.select("span.verse").first() {
                         let verseNumber = try verse.text().split(separator: ":")[1]
                         try verse.remove()
@@ -289,17 +304,17 @@ struct ConvertCommand: ParsableCommand {
         
         return (bookName, markdown)
     }
-
-}
-
-enum ConversionError: Error {
-    case opfNotFound
-    case fileNotFound
-    case unableToReadFile
-    case invalidFileSize
-    case invalidPath
-    case invalidFileType
-    case epubExtractionFailed(Error)
-    case invalidBookName(String)
-    case emptyContent
+    
+    enum ConversionError: Error {
+        case opfNotFound
+        case fileNotFound
+        case unableToReadFile
+        case invalidFileSize
+        case invalidPath
+        case invalidFileType
+        case epubExtractionFailed(Error)
+        case invalidBookName(String)
+        case emptyContent
+    }
+    
 }

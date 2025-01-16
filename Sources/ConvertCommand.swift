@@ -166,20 +166,25 @@ struct ConvertCommand: ParsableCommand {
     }
     
     private func saveBook(_ name: String, markdown: String, to path: String) throws {
-        
         var fileName = name.lowercased()
         
-        // Map the bookName to BibleBook's fileName
-        if let bibleBook = BibleBook.allCases.first(where: { $0.displayName.lowercased() == fileName }) {
+        // First try to find the book using the BibleBook.from() method
+        if let bibleBook = BibleBook.from(name: name) {
             fileName = bibleBook.fileName
+        } else {
+            print("Warning: Could not match book name: \(name)")
+            // Fall back to simple name conversion if no match found
+            fileName = fileName.replacingOccurrences(of: " ", with: "_")
         }
         
         let outputURL = URL(fileURLWithPath: path)
-            .appendingPathComponent(fileName.replacingOccurrences(of: " ", with: "_"))
+            .appendingPathComponent(fileName)
             .appendingPathExtension("md")
+        
+        print("Saving book: \(name) as \(fileName).md")
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
     }
-    
+
     func convertToMarkdown(_ xmlString: String) throws -> (String?, String) {
         var markdown = ""
         var bookName = ""

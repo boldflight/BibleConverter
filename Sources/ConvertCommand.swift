@@ -148,8 +148,10 @@ struct ConvertCommand: ParsableCommand {
         if let encodingMatch = xmlString.firstMatch(of: /encoding="([^"]+)"/) {
             switch encodingMatch.1.lowercased() {
             case "utf-8": return .utf8
-            case "windows-1252": return .windowsCP1252
-            case "iso-8859-1": return .isoLatin1
+            case "windows-1252", "cp1252": return .windowsCP1252
+            case "iso-8859-1", "latin1": return .isoLatin1
+            case "utf-16": return .utf16
+            case "ascii": return .ascii
             default: return .utf8
             }
         }
@@ -204,6 +206,16 @@ struct ConvertCommand: ParsableCommand {
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
     }
     
+    private func extractVerseText(from element: Element) throws -> (number: String, text: String)? {
+        if let verse = try element.select("span.verse").first() {
+            let verseNumber = try verse.text().split(separator: ":")[1]
+            try verse.remove()
+            let verseText = try element.text().trimmingCharacters(in: .whitespaces)
+            return (String(verseNumber), verseText)
+        }
+        return nil
+    }
+    
     func convertToMarkdown(_ xmlString: String) throws -> (String?, String) {
         var markdown = ""
         var bookName = ""
@@ -253,16 +265,18 @@ struct ConvertCommand: ParsableCommand {
                     continue
                 }
                 
-                if className == "poetrybreak" {
-                    if let verse = try element.select("span.verse").first() {
-                        let verseNumber = try verse.text().split(separator: ":")[1]
-                        try verse.remove()
-                        let verseText = try element.text().trimmingCharacters(in: .whitespaces)
-                        markdown += "\n[\(verseNumber)] \(verseText)\n"
+                if className == "poetry" || className == "otpoetry" || className == "poetrybreak" {
+                    // Add newline at start for poetrybreak
+                    if className == "poetrybreak" {
+                        markdown += "\n"
+                    }
+                    
+                    if let (verseNumber, verseText) = try extractVerseText(from: element) {
+                        markdown += "[\(verseNumber)] \(verseText)\n"
                     } else {
                         let line = try element.text().trimmingCharacters(in: .whitespaces)
                         if !line.isEmpty {
-                            markdown += "\n\(line)\n"
+                            markdown += line + "\n"
                         }
                     }
                     continue
@@ -273,19 +287,7 @@ struct ConvertCommand: ParsableCommand {
                     try smcaps.text(text)
                 }
                 
-                if className == "poetry" || className == "otpoetry" {
-                    if let verse = try element.select("span.verse").first() {
-                        let verseNumber = try verse.text().split(separator: ":")[1]
-                        try verse.remove()
-                        let verseText = try element.text().trimmingCharacters(in: .whitespaces)
-                        markdown += "[\(verseNumber)] \(verseText)\n"
-                    } else {
-                        let line = try element.text().trimmingCharacters(in: .whitespaces)
-                        if !line.isEmpty {
-                            markdown += line + "\n"
-                        }
-                    }
-                } else if className == "bodytext" {
+                if className == "bodytext" {
                     let verseContent = try element.text()
                     let regex = /(\d+:\d+)\s(.+?)(?=\d+:\d+|\n|$)/
                     let matches = verseContent.matches(of: regex)

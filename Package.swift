@@ -20,10 +20,11 @@ let package = Package(
                 "ZIPFoundation",
                 "SWXMLHash",
                 "SwiftSoup"
-            ]),
+            ]
+        ),
         .testTarget(
-                    name: "BibleConverterTests",
-                    dependencies: ["BibleConverter"]
-                )
+            name: "BibleConverterTests",
+            dependencies: ["BibleConverter"]
+        )
     ]
 )

@@ -306,7 +306,7 @@ struct ConvertCommand: ParsableCommand {
                 }
                 
                 if className == "sosspeaker" {
-                    markdown += "_\(try element.text())_\n"
+                    markdown += "_\(try element.text())_\n\n"
                     continue
                 }
                 

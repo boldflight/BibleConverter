@@ -265,6 +265,12 @@ struct ConvertCommand: ParsableCommand {
                     continue
                 }
                 
+                // Handle smcaps
+                for smcaps in try element.select("span.smcaps") {
+                    let text = try smcaps.text()
+                    try smcaps.text("**\(text)**")
+                }
+                
                 if className == "poetry" || className == "otpoetry" || className == "poetrybreak" {
                     // Add newline at start for poetrybreak
                     if className == "poetrybreak" {
@@ -282,19 +288,9 @@ struct ConvertCommand: ParsableCommand {
                     continue
                 }
                 
-                for smcaps in try element.select("span.smcaps") {
-                    let text = try smcaps.text()
-                    // Replace plain text with bold markdown syntax
-                    try smcaps.text("**\(text)**")
-                }
-                
                 if className == "bodytext" {
-                    let verseContent = try element.text()
-                    let regex = /(\d+:\d+)\s(.+?)(?=\d+:\d+|\n|$)/
-                    let matches = verseContent.matches(of: regex)
-                    for match in matches {
-                        let verseNumber = match.1.split(separator: ":")[1]
-                        let verseText = match.2.trimmingCharacters(in: .whitespaces)
+                    let versesAndTexts = try extractVersesWithText(from: element)
+                    for (verseNumber, verseText) in versesAndTexts {
                         markdown += "[\(verseNumber)] \(verseText)\n"
                     }
                 }
@@ -307,7 +303,38 @@ struct ConvertCommand: ParsableCommand {
         
         return (bookName, markdown)
     }
-    
+
+    private func extractVersesWithText(from element: Element) throws -> [(verseNumber: String, text: String)] {
+        var versesAndTexts = [(verseNumber: String, text: String)]()
+        var currentVerse: String? = nil
+        var currentText = ""
+
+        for child in element.children() {
+            if child.tagName() == "span", try child.className() == "verse" {
+                let verseText = try child.text()
+                if let verseNumber = verseText.split(separator: ":").last.map(String.init) {
+                    if let currentVerseNumber = currentVerse {
+                        // Add previous verse and accumulated text
+                        versesAndTexts.append((currentVerseNumber, currentText.trimmingCharacters(in: .whitespacesAndNewlines)))
+                        currentText = ""
+                    }
+                    currentVerse = verseNumber
+                }
+                try child.remove() // Remove the verse span to prevent duplication
+            } else {
+                // Accumulate the text from this node
+                currentText += try child.text()
+            }
+        }
+
+        // Add the last verse and text
+        if let currentVerseNumber = currentVerse, !currentText.isEmpty {
+            versesAndTexts.append((currentVerseNumber, currentText.trimmingCharacters(in: .whitespacesAndNewlines)))
+        }
+
+        return versesAndTexts
+    }
+
     enum ConversionError: Error {
         case opfNotFound
         case fileNotFound

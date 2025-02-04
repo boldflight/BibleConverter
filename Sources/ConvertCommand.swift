@@ -210,12 +210,62 @@ struct ConvertCommand: ParsableCommand {
         if let verse = try element.select("span.verse").first() {
             let verseNumber = try verse.text().split(separator: ":")[1]
             try verse.remove()
-            let verseText = try element.text().trimmingCharacters(in: .whitespaces)
+            let verseText = try convertInlineFormatting(element: element).trimmingCharacters(in: .whitespaces)
             return (String(verseNumber), verseText)
         }
         return nil
     }
     
+    private func convertInlineFormatting(element: Element) throws -> String {
+        var markdown = ""
+        for node in element.getChildNodes() {
+            if let textNode = node as? TextNode {
+                markdown += textNode.text()
+            } else if let elementNode = node as? Element {
+                let tagName = elementNode.tagName().lowercased()
+                let childMarkdown = try convertInlineFormatting(element: elementNode)
+                switch tagName {
+                case "b", "strong":
+                    markdown += "**\(childMarkdown)**"
+                case "i", "em":
+                    markdown += "_\(childMarkdown)_"
+                default:
+                    markdown += childMarkdown
+                }
+            }
+        }
+        return markdown
+    }
+
+    private func extractVersesWithText(from element: Element) throws -> [(verseNumber: String, text: String)] {
+        var versesAndTexts = [(verseNumber: String, text: String)]()
+        var currentVerse: String? = nil
+        var currentText = ""
+
+        for child in element.children() {
+            if child.tagName() == "span", try child.className() == "verse" {
+                let verseText = try child.text()
+                if let verseNumber = verseText.split(separator: ":").last.map(String.init) {
+                    if let currentVerseNumber = currentVerse {
+                        versesAndTexts.append((currentVerseNumber, currentText.trimmingCharacters(in: .whitespaces)))
+                        currentText = ""
+                    }
+                    currentVerse = verseNumber
+                }
+                try child.remove() // Remove the verse span to prevent duplication
+            } else {
+                // Accumulate the text from this node, converting inline formatting
+                currentText += try convertInlineFormatting(element: child)
+            }
+        }
+
+        if let currentVerseNumber = currentVerse, !currentText.isEmpty {
+            versesAndTexts.append((currentVerseNumber, currentText.trimmingCharacters(in: .whitespaces)))
+        }
+
+        return versesAndTexts
+    }
+
     func convertToMarkdown(_ xmlString: String) throws -> (String?, String) {
         var markdown = ""
         var bookName = ""
@@ -268,7 +318,8 @@ struct ConvertCommand: ParsableCommand {
                 // Handle smcaps
                 for smcaps in try element.select("span.smcaps") {
                     let text = try smcaps.text()
-                    try smcaps.text("**\(text)**")
+                    let processedText = processSmcapsText(text)
+                    try smcaps.text(processedText)
                 }
                 
                 if className == "poetry" || className == "otpoetry" || className == "poetrybreak" {
@@ -304,35 +355,23 @@ struct ConvertCommand: ParsableCommand {
         return (bookName, markdown)
     }
 
-    private func extractVersesWithText(from element: Element) throws -> [(verseNumber: String, text: String)] {
-        var versesAndTexts = [(verseNumber: String, text: String)]()
-        var currentVerse: String? = nil
-        var currentText = ""
-
-        for child in element.children() {
-            if child.tagName() == "span", try child.className() == "verse" {
-                let verseText = try child.text()
-                if let verseNumber = verseText.split(separator: ":").last.map(String.init) {
-                    if let currentVerseNumber = currentVerse {
-                        // Add previous verse and accumulated text
-                        versesAndTexts.append((currentVerseNumber, currentText.trimmingCharacters(in: .whitespacesAndNewlines)))
-                        currentText = ""
-                    }
-                    currentVerse = verseNumber
-                }
-                try child.remove() // Remove the verse span to prevent duplication
-            } else {
-                // Accumulate the text from this node
-                currentText += try child.text()
-            }
+    private func processSmcapsText(_ text: String) -> String {
+        let pattern = "^(.+?)(['']*)$"
+        guard let regex = try? NSRegularExpression(pattern: pattern, options: []) else {
+            return "**\(text)**"  // Fallback to original behavior if regex fails
         }
-
-        // Add the last verse and text
-        if let currentVerseNumber = currentVerse, !currentText.isEmpty {
-            versesAndTexts.append((currentVerseNumber, currentText.trimmingCharacters(in: .whitespacesAndNewlines)))
+        
+        let nsString = text as NSString
+        guard let match = regex.firstMatch(in: text, options: [], range: NSRange(location: 0, length: text.utf16.count)) else {
+            return "**\(text)**"  // No match found, return original text in bold
         }
-
-        return versesAndTexts
+        
+        let mainRange = match.range(at: 1)
+        let punctRange = match.range(at: 2)
+        let main = nsString.substring(with: mainRange)
+        let punct = nsString.substring(with: punctRange)
+        
+        return "**\(main)**\(punct)"
     }
 
     enum ConversionError: Error {

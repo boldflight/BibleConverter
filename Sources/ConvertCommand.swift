@@ -329,13 +329,14 @@ struct ConvertCommand: ParsableCommand {
                     }
                     
                     if let (verseNumber, verseText) = try extractVerseText(from: element) {
-                        markdown += "[\(verseNumber)] \(verseText)\n"
+                        markdown += "[\(verseNumber)] \(verseText)<br>\n"
                     } else {
                         let line = try element.text().trimmingCharacters(in: .whitespaces)
                         if !line.isEmpty {
-                            markdown += line + "\n"
+                            markdown += line + "<br>\n"
                         }
                     }
+                    markdown += "\n"  
                     continue
                 }
                 
@@ -344,6 +345,7 @@ struct ConvertCommand: ParsableCommand {
                     for (verseNumber, verseText) in versesAndTexts {
                         markdown += "[\(verseNumber)] \(verseText)\n"
                     }
+                    markdown += "\n"  // Add an extra newline after each bodytext paragraph
                 }
             }
             

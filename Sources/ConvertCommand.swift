@@ -245,7 +245,7 @@ struct ConvertCommand: ParsableCommand {
                 case "paragraphtitle":
                     markdown += "### \(try element.text())\n\n"
                 case "sosspeaker":
-                    markdown += "_\(try element.text())_\n\n"
+                    markdown += "#### \(try element.text())\n\n"
                 case "lamhebrew":
                     markdown += "#### \(try element.text())\n\n"
                 case "poetry", "otpoetry", "poetrybreak":

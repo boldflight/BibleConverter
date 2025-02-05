@@ -206,81 +206,22 @@ struct ConvertCommand: ParsableCommand {
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
     }
     
-    private func extractVerseText(from element: Element) throws -> (number: String, text: String)? {
-        if let verse = try element.select("span.verse").first() {
-            let verseNumber = try verse.text().split(separator: ":")[1]
-            try verse.remove()
-            let verseText = try convertInlineFormatting(element: element).trimmingCharacters(in: .whitespaces)
-            return (String(verseNumber), verseText)
-        }
-        return nil
-    }
-    
-    private func convertInlineFormatting(element: Element) throws -> String {
-        var markdown = ""
-        for node in element.getChildNodes() {
-            if let textNode = node as? TextNode {
-                markdown += textNode.text()
-            } else if let elementNode = node as? Element {
-                let tagName = elementNode.tagName().lowercased()
-                let childMarkdown = try convertInlineFormatting(element: elementNode)
-                switch tagName {
-                case "b", "strong":
-                    markdown += "**\(childMarkdown)**"
-                case "i", "em":
-                    markdown += "_\(childMarkdown)_"
-                default:
-                    markdown += childMarkdown
-                }
-            }
-        }
-        return markdown
-    }
-
-    private func extractVersesWithText(from element: Element) throws -> [(verseNumber: String, text: String)] {
-        var versesAndTexts = [(verseNumber: String, text: String)]()
-        var currentVerse: String? = nil
-        var currentText = ""
-
-        for child in element.children() {
-            if child.tagName() == "span", try child.className() == "verse" {
-                let verseText = try child.text()
-                if let verseNumber = verseText.split(separator: ":").last.map(String.init) {
-                    if let currentVerseNumber = currentVerse {
-                        versesAndTexts.append((currentVerseNumber, currentText.trimmingCharacters(in: .whitespaces)))
-                        currentText = ""
-                    }
-                    currentVerse = verseNumber
-                }
-                try child.remove() // Remove the verse span to prevent duplication
-            } else {
-                // Accumulate the text from this node, converting inline formatting
-                currentText += try convertInlineFormatting(element: child)
-            }
-        }
-
-        if let currentVerseNumber = currentVerse, !currentText.isEmpty {
-            versesAndTexts.append((currentVerseNumber, currentText.trimmingCharacters(in: .whitespaces)))
-        }
-
-        return versesAndTexts
-    }
-
-    func convertToMarkdown(_ xmlString: String) throws -> (String?, String) {
+    private func convertToMarkdown(_ xmlString: String) throws -> (String?, String) {
         var markdown = ""
         var bookName = ""
         
         do {
             let document = try SwiftSoup.parse(xmlString)
             
+            // Book name and chapter handling remains the same
             // First try h1 tag (for most books)
             if let h1 = try document.select("h1").first() {
                 bookName = try h1.text().components(separatedBy: "Chapter")[0].trimmingCharacters(in: .whitespacesAndNewlines)
                 let chapterNumber = try h1.text().components(separatedBy: "Chapter")[1].trimmingCharacters(in: .whitespacesAndNewlines)
                 if chapterNumber == "1" {
-                    markdown += "# \(bookName)\n"
+                    markdown += "# \(bookName)\n\n"
                 }
-                markdown += "\n## Chapter \(chapterNumber)\n\n"
+                markdown += "## Chapter \(chapterNumber)\n\n"
             }
             // Then try h2 tag (for Psalms)
             else if let h2 = try document.select("h2").first() {
@@ -289,9 +230,9 @@ struct ConvertCommand: ParsableCommand {
                     bookName = "Psalms"
                     let psalmNumber = h2Text.components(separatedBy: "Psalm ")[1].trimmingCharacters(in: .whitespacesAndNewlines)
                     if psalmNumber == "1" {
-                        markdown += "# \(bookName)\n"
+                        markdown += "# \(bookName)\n\n"
                     }
-                    markdown += "\n## Psalm \(psalmNumber)\n\n"
+                    markdown += "## Psalm \(psalmNumber)\n\n"
                 }
             }
             
@@ -300,52 +241,19 @@ struct ConvertCommand: ParsableCommand {
             for element in elements {
                 let className = try element.className()
                 
-                if className == "paragraphtitle" {
-                    markdown += "\n### \(try element.text())\n\n"
-                    continue
-                }
-                
-                if className == "sosspeaker" {
+                switch className {
+                case "paragraphtitle":
+                    markdown += "### \(try element.text())\n\n"
+                case "sosspeaker":
                     markdown += "_\(try element.text())_\n\n"
+                case "lamhebrew":
+                    markdown += "#### \(try element.text())\n\n"
+                case "poetry", "otpoetry", "poetrybreak":
+                    markdown += try processPoetryElement(element)
+                case "bodytext":
+                    markdown += try processBodyTextElement(element)
+                default:
                     continue
-                }
-                
-                if className == "lamhebrew" {
-                    markdown += "\n#### \(try element.text())\n"
-                    continue
-                }
-                
-                // Handle smcaps
-                for smcaps in try element.select("span.smcaps") {
-                    let text = try smcaps.text()
-                    let processedText = processSmcapsText(text)
-                    try smcaps.text(processedText)
-                }
-                
-                if className == "poetry" || className == "otpoetry" || className == "poetrybreak" {
-                    // Add newline at start for poetrybreak
-                    if className == "poetrybreak" {
-                        markdown += "\n"
-                    }
-                    
-                    if let (verseNumber, verseText) = try extractVerseText(from: element) {
-                        markdown += "[\(verseNumber)] \(verseText)<br>\n"
-                    } else {
-                        let line = try element.text().trimmingCharacters(in: .whitespaces)
-                        if !line.isEmpty {
-                            markdown += line + "<br>\n"
-                        }
-                    }
-                    markdown += "\n"  
-                    continue
-                }
-                
-                if className == "bodytext" {
-                    let versesAndTexts = try extractVersesWithText(from: element)
-                    for (verseNumber, verseText) in versesAndTexts {
-                        markdown += "[\(verseNumber)] \(verseText)\n"
-                    }
-                    markdown += "\n"  // Add an extra newline after each bodytext paragraph
                 }
             }
             
@@ -355,6 +263,67 @@ struct ConvertCommand: ParsableCommand {
         }
         
         return (bookName, markdown)
+    }
+
+    private func processPoetryElement(_ element: Element) throws -> String {
+        var poetryMarkdown = ""
+        if try element.className() == "poetrybreak" {
+            poetryMarkdown += "\n"
+        }
+        
+        let processedText = try processElementRecursively(element)
+        poetryMarkdown += processedText.split(separator: "\n").map { $0 + "<br>" }.joined(separator: "\n")
+        poetryMarkdown += "\n"
+        
+        return poetryMarkdown
+    }
+
+    private func processBodyTextElement(_ element: Element) throws -> String {
+        return try processElementRecursively(element) + "\n\n"
+    }
+
+    private func processElementRecursively(_ element: Element) throws -> String {
+        var result = ""
+        var currentVerseNumber: String?
+        
+        for node in element.getChildNodes() {
+            if let textNode = node as? TextNode {
+                if let verseNumber = currentVerseNumber {
+                    result += "\n[\(verseNumber)] "
+                    currentVerseNumber = nil
+                }
+                result += textNode.text().trimmingCharacters(in: .whitespaces)
+            } else if let elementNode = node as? Element {
+                if try elementNode.className() == "verse" {
+                    if let verseText = try elementNode.text().split(separator: ":").last {
+                        currentVerseNumber = String(verseText)
+                    }
+                } else {
+                    result += try processInlineFormatting(element: elementNode)
+                }
+            }
+        }
+        
+        return result.trimmingCharacters(in: .whitespacesAndNewlines)
+    }
+
+    private func processInlineFormatting(element: Element) throws -> String {
+        let tagName = element.tagName().lowercased()
+        let innerContent = try processElementRecursively(element)
+        
+        switch tagName {
+        case "b", "strong":
+            return "**\(innerContent)**"
+        case "i", "em":
+            return "_\(innerContent)_"
+        case "span":
+            if try element.className() == "smcaps" {
+                return processSmcapsText(innerContent)
+            }
+            return innerContent
+        default:
+            return innerContent
+        }
     }
 
     private func processSmcapsText(_ text: String) -> String {

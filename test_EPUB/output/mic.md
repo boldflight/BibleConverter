@@ -75,6 +75,7 @@ because they have the power to do so.<br>
 and seize the houses they want.<br>
 They defraud people of their homes<br>
 and deprive people of the land they have inherited.<br>
+
 [3] Therefore the **Lord** says this:
 
 “Look, I am devising disaster for this nation!<br>
@@ -108,6 +109,7 @@ sin will thoroughly destroy it!<br>
 [11] If a lying windbag should come and say,<br>
 ‘I’ll promise you blessings of wine and beer,’<br>
 he would be just the right preacher for these people!<br>
+
 ### The Lord Will Restore His People
 
 [12] “I will certainly gather all of you, O Jacob,<br>
@@ -140,6 +142,7 @@ like meat in a kettle.<br>
 but he will not answer them.<br>
 He will hide his face from them at that time,<br>
 because they have done such wicked deeds.”<br>
+
 [5] This is what the **Lord** has said about the prophets who mislead my people,
 
 “If someone gives them enough to eat,<br>
@@ -199,6 +202,7 @@ or under his own fig tree without any fear.<br>
 The **Lord** of Heaven’s Armies has decreed it.<br>
 [5] Though all the nations follow their respective gods,<br>
 we will follow the **Lord** our God forever.<br>
+
 ### Restoration Will Follow Crisis
 
 [6] “In that day,” says the **Lord**, “I will gather the lame<br>
@@ -240,6 +244,7 @@ and dedicate their wealth to the sovereign Ruler of the whole earth.<br>
 We are besieged!<br>
 With a scepter they strike Israel’s ruler<br>
 on the side of his face.<br>
+
 ### A King Will Come and a Remnant Will Prosper
 
 [2] (5:1) As for you, Bethlehem Ephrathah,<br>
@@ -278,6 +283,7 @@ which attacks when it passes through.<br>
 It rips its prey and there is no one to stop it.<br>
 [9] Lift your hand triumphantly against your adversaries;<br>
 may all your enemies be destroyed!<br>
+
 ### The Lord Will Purify His People
 
 [10] “In that day,” says the **Lord**,<br>
@@ -387,6 +393,7 @@ a man’s enemies are his own family.<br>
 [7] But I will keep watching for the **Lord**;<br>
 I will wait for the God who delivers me.<br>
 My God will listen to me.<br>
+
 ### Jerusalem Will Be Vindicated
 
 [8] My enemies, do not gloat over me!<br>
@@ -405,6 +412,7 @@ then they will be trampled down<br>
 like mud in the streets.<br>
 [11] It will be a day for rebuilding your walls;<br>
 in that day your boundary will be extended.<br>
+
 ### A Closing Prayer
 
 [12] In that day people will come to you<br>

@@ -28,6 +28,7 @@
 [10] 30 gold bowls,<br>
 410 other silver bowls,<br>
 and 1,000 other vessels.<br>
+
 [11] All these gold and silver vessels totaled 5,400. Sheshbazzar brought them all along when the captives were brought up from Babylon to Jerusalem.
 
 ## Chapter 2
@@ -176,6 +177,7 @@ The number of Israelites was as follows:
 
 “For he is good;<br>
 his loyal love toward Israel is forever.”<br>
+
 All the people gave a loud shout as they praised the **Lord** when the temple of the **Lord** was established.
 [12] Many of the priests, the Levites, and the leaders —older people who had seen with their own eyes the former temple while it was still established —were weeping loudly, and many others raised their voice in a joyous shout.
 [13] People were unable to tell the difference between the sound of joyous shouting and the sound of the people’s weeping, for the people were shouting so loudly that the sound was heard a long way off.

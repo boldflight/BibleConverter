@@ -23,6 +23,7 @@ from Manasseh, Gamaliel son of Pedahzur;<br>
 [13] from Asher, Pagiel son of Ocran;<br>
 [14] from Gad, Eliasaph son of Deuel;<br>
 [15] from Naphtali, Ahira son of Enan.”<br>
+
 ### The Census of the Tribes
 
 [16] These were the ones chosen from the community, leaders of their ancestral tribes. They were the heads of the thousands of Israel.
@@ -396,6 +397,7 @@ From the descendants of Ephraim: According to the records of their clans and fam
 and be gracious to you;<br>
 [26] The **Lord** lift up his countenance upon you<br>
 and give you peace.”’<br>
+
 [27] “So they will put my name on the Israelites, and I will bless them.”
 
 ## Chapter 7
@@ -1174,6 +1176,7 @@ the Arnon<br>
 [15] and the slope of the valleys<br>
 that extends to the dwelling of Ar,<br>
 and falls off at the border of Moab.”<br>
+
 [16] And from there they traveled to Beer; that is the well where the **Lord** spoke to Moses, “Gather the people and I will give them water.”
 [17] Then Israel sang this song:
 
@@ -1181,6 +1184,7 @@ and falls off at the border of Moab.”<br>
 [18] The well which the princes dug,<br>
 which the leaders of the people opened<br>
 with their scepters and their staffs.”<br>
+
 And from the wilderness they traveled to Mattanah;
 [19] and from Mattanah to Nahaliel; and from Nahaliel to Bamoth;
 [20] and from Bamoth to the valley that is in the country of Moab, near the top of Pisgah, which overlooks the wastelands.
@@ -1210,6 +1214,7 @@ and his daughters the prisoners of King Sihon of the Amorites.<br>
 Heshbon has perished as far as Dibon.<br>
 We have shattered them as far as Nophah,<br>
 which reaches to Medeba.”<br>
+
 [31] So the Israelites lived in the land of the Amorites.
 [32] Moses sent spies to reconnoiter Jazer, and they captured its villages and dispossessed the Amorites who were there.
 
@@ -1307,6 +1312,7 @@ and it will not be reckoned among the nations.<br>
 or number the fourth part of Israel?<br>
 Let me die the death of the upright,<br>
 and let the end of my life be like theirs.”<br>
+
 ### Balaam Relocates
 
 [11] Then Balak said to Balaam, “What have you done to me? I brought you to curse my enemies, but on the contrary you have only blessed them!”
@@ -1344,6 +1350,7 @@ and of Israel, ‘Look at what God has done!’<br>
 and like a lion raises himself up;<br>
 they will not lie down until they eat their prey,<br>
 and drink the blood of the slain.”<br>
+
 ### Balaam Relocates Yet Again
 
 [25] Balak said to Balaam, “Neither curse them at all nor bless them at all!”
@@ -1386,6 +1393,7 @@ and will pierce them through with arrows.<br>
 and as a lioness, who can stir him?<br>
 Blessed is the one who blesses you,<br>
 and cursed is the one who curses you!’”<br>
+
 [10] Then Balak became very angry at Balaam, and he struck his hands together. Balak said to Balaam, “I called you to curse my enemies, and look, you have done nothing but bless them these three times!
 [11] So now, go back where you came from! I said that I would greatly honor you, but now the **Lord** has stood in the way of your honor.”
 
@@ -1414,24 +1422,28 @@ Seir, his enemy, will also be a possession;<br>
 but Israel will act valiantly.<br>
 [19] A ruler will be established from Jacob;<br>
 he will destroy the remains of the city.’”<br>
+
 ### Balaam’s Final Prophecies
 
 [20] Then Balaam looked on Amalek and delivered this oracle:
 
 “Amalek was the first of the nations,<br>
 but his end will be that he will perish.”<br>
+
 [21] Then he looked on the Kenites and uttered this oracle:
 
 “Your dwelling place seems strong,<br>
 and your nest is set on a rocky cliff.<br>
 [22] Nevertheless the Kenite will be consumed.<br>
 How long will Asshur take you away captive?”<br>
+
 [23] Then he uttered this oracle:
 
 “O, who will survive when God does this!<br>
 [24] Ships will come from the coast of Kittim,<br>
 and will afflict Asshur, and will afflict Eber,<br>
 and he will also perish forever.”<br>
+
 [25] Balaam got up and departed and returned to his home, and Balak also went his way.
 
 ## Chapter 25

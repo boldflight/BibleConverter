@@ -15,6 +15,7 @@ a discerning plan to the young person.<br>
 and let the discerning acquire guidance!)<br>
 [6] To discern the meaning of a proverb and a parable,<br>
 the sayings of the wise and their riddles.<br>
+
 ### Introduction to the Theme of the Book
 
 [7] Fearing the **Lord** is the beginning of discernment,<br>
@@ -23,6 +24,7 @@ but fools have despised wisdom and moral instruction.<br>
 and do not forsake the teaching from your mother.<br>
 [9] For they will be like an elegant garland on your head,<br>
 and like pendants around your neck.<br>
+
 ### Admonition to Avoid Easy but Unjust Riches
 
 [10] My child, if sinners try to entice you,<br>
@@ -46,6 +48,7 @@ in plain sight of any bird,<br>
 they ambush their own lives!<br>
 [19] Such are the ways of all who gain profit unjustly;<br>
 it takes away the life of those who obtain it!<br>
+
 ### Warning Against Disregarding Wisdom
 
 [20] Wisdom calls out in the street,<br>
@@ -157,6 +160,7 @@ and your vats will overflow with new wine.<br>
 and do not loathe his rebuke.<br>
 [12] For the **Lord** disciplines those he loves,<br>
 just as a father disciplines the son in whom he delights.<br>
+
 ### Blessings of Obtaining Wisdom
 
 [13] Blessed is the one who has found wisdom,<br>
@@ -187,6 +191,7 @@ when you lie down your sleep will be pleasant.<br>
 or when destruction overtakes the wicked;<br>
 [26] for the **Lord** will be the source of your confidence,<br>
 and he will guard your foot from being caught in a trap.<br>
+
 ### Wisdom Demonstrated in Relationships with People
 
 [27] Do not withhold good from those who need it,<br>
@@ -1362,6 +1367,7 @@ the one against whom the **Lord** is angry will fall into it.<br>
 but the rod of discipline will drive it far from him.<br>
 [16] The one who oppresses the poor to increase his own gain<br>
 and the one who gives to the rich —both end up only in poverty.<br>
+
 ### The Sayings of the Wise
 
 [17] Incline your ear and listen to the words of the wise,<br>
@@ -1517,6 +1523,7 @@ and the lamp of the wicked will be extinguished.<br>
 and do not associate with rebels,<br>
 [22] for suddenly their destruction will overtake them,<br>
 and who knows the ruinous judgment both the **Lord** and the king can bring?<br>
+
 ### Further Sayings of the Wise
 
 [23] These sayings also are from the wise:
@@ -1953,6 +1960,7 @@ and remember their misery no more.<br>
 for the legal rights of all the dying.<br>
 [9] Open your mouth, judge in righteousness,<br>
 and plead the cause of the poor and needy.<br>
+
 ### The Wife of Noble Character
 
 [10] Who can find a wife of noble character?<br>

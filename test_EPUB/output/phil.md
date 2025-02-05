@@ -74,6 +74,7 @@ every knee will bow<br>
 [11] and every tongue confess<br>
 that Jesus Christ is Lord<br>
 to the glory of God the Father.<br>
+
 ### Lights in the World
 
 [12] So then, my dear friends, just as you have always obeyed, not only in my presence but even more in my absence, continue working out your salvation with awe and reverence,

@@ -52,6 +52,7 @@ And my prayer came to you, to your holy temple.<br>
 [9] But as for me, I promise to offer a sacrifice to you with a public declaration of praise;<br>
 I will surely do what I have promised.<br>
 Salvation belongs to the **Lord**!”<br>
+
 [10] Then the **Lord** commanded the fish and it vomited Jonah out onto dry land.
 
 ## Chapter 3

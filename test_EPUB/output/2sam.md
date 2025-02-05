@@ -161,6 +161,7 @@ David was told, “The people of Jabesh Gilead are the ones who buried Saul.”
 [34] Your hands were not bound,<br>
 and your feet were not put into irons.<br>
 You fell the way one falls before criminals.”<br>
+
 All the people wept over him again.
 [35] Then all the people came and encouraged David to eat food while it was still day. But David took an oath saying, “God will punish me severely if I taste bread or anything whatsoever before the sun sets!”
 
@@ -863,6 +864,7 @@ Now after he had crossed the Jordan, Shimei son of Gera threw himself down befor
 “We have no share in David;<br>
 we have no inheritance in this son of Jesse!<br>
 Every man go home, O Israel!”<br>
+
 [2] So all the men of Israel deserted David and followed Sheba son of Bikri. But the men of Judah stuck by their king all the way from the Jordan River to Jerusalem.
 
 [3] Then David went to his palace in Jerusalem. The king took the ten concubines he had left to care for the palace and placed them under confinement. Though he provided for their needs, he did not sleep with them. They remained under restriction until the day they died, living out the rest of their lives as widows.
@@ -1088,6 +1090,7 @@ for they cannot be held in the hand.<br>
 must use an iron instrument<br>
 or the wooden shaft of a spear.<br>
 They are completely burned up right where they lie!”<br>
+
 ### David’s Warriors
 
 [8] These are the names of David’s warriors:

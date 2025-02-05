@@ -14,6 +14,7 @@ The **Lord** takes vengeance against his foes;<br>
 he sustains his rage against his enemies.<br>
 [3] The **Lord** is slow to anger but great in power;<br>
 the **Lord** will certainly not allow the wicked to go unpunished.<br>
+
 ### The Divine Warrior Destroys His Enemies but Protects His People
 
 He marches out in the whirlwind and the raging storm;<br>
@@ -36,6 +37,7 @@ and he protects those who seek refuge in him.<br>
 [8] But with an overwhelming flood<br>
 he will make a complete end of Nineveh;<br>
 he will drive his enemies into darkness.<br>
+
 ### Denunciation and Destruction of Nineveh
 
 [9] Whatever you plot against the **Lord**, he will completely destroy!<br>
@@ -46,6 +48,7 @@ like the drink of drunkards,<br>
 like very dry stubble.<br>
 [11] From you, O Nineveh, one has marched forth who plots evil against the **Lord**,<br>
 a wicked military strategist.<br>
+
 ### Oracle of Deliverance to Judah
 
 [12] This is what the **Lord** says:
@@ -57,12 +60,14 @@ Although I afflicted you,<br>
 I will afflict you no more.<br>
 [13] And now, I will break Assyria’s yoke bar from your neck;<br>
 I will tear apart the shackles that are on you.”<br>
+
 ### Oracle of Judgment against the King of Nineveh
 
 [14] The **Lord** has issued a decree against you:<br>
 “Your dynasty will come to an end.<br>
 I will destroy the idols and images in the temples of your gods.<br>
 I will desecrate your grave, because you are accursed!”<br>
+
 ### Proclamation of the Deliverance of Judah
 
 [15] (2:1) Look! A herald is running on the mountains!<br>
@@ -84,6 +89,7 @@ Muster your mighty strength!<br>
 as well as the majesty of Israel,<br>
 though their enemies have plundered them<br>
 and have destroyed their fields.<br>
+
 ### Prophetic Vision of the Fall of Nineveh
 
 [3] The shields of his warriors are dyed red;<br>
@@ -114,6 +120,7 @@ riches of every kind of precious thing.<br>
 [10] Destruction, devastation, and desolation!<br>
 Hearts faint, knees tremble;<br>
 every stomach churns, all their faces have turned pale!<br>
+
 ### Taunt against the Once-Mighty Lion
 
 [11] Where now is the den of the lions<br>
@@ -124,6 +131,7 @@ and no one disturbed them?<br>
 and strangled prey for his lionesses;<br>
 he filled his lairs with prey<br>
 and his dens with torn flesh.<br>
+
 
 ### Battle Cry of the Divine Warrior
 
@@ -140,6 +148,7 @@ the voices of your messengers will no longer be heard.”<br>
 She is full of lies;<br>
 she is filled with plunder;<br>
 she has hoarded her spoil!<br>
+
 ### Portrayal of the Destruction of Nineveh
 
 [2] The chariot drivers will crack their whips;<br>
@@ -153,6 +162,7 @@ There will be many people slain;<br>
 there will be piles of the dead<br>
 and countless casualties —<br>
 so many that people will stumble over the corpses.<br>
+
 ### Taunt against the Harlot City
 
 [4] Because you have acted like a wanton prostitute —<br>
@@ -170,6 +180,7 @@ I will make you a public spectacle.<br>
 they will say, ‘Nineveh has been devastated!<br>
 Who will lament for her?’<br>
 There will be no one to comfort you!”<br>
+
 ### Nineveh Will Suffer the Same Fate as Thebes
 
 [8] You are no more secure than Thebes —<br>
@@ -186,6 +197,7 @@ all her dignitaries were bound with chains.<br>
 [11] You too will act like drunkards;<br>
 you will go into hiding;<br>
 you too will seek refuge from the enemy.<br>
+
 ### The Assyrian Defenses Will Fail
 
 [12] All your fortifications will be like fig trees with first-ripe fruit:<br>
@@ -200,6 +212,7 @@ Make mud bricks to strengthen your walls!<br>
 [15] There the fire will consume you;<br>
 the sword will cut you down;<br>
 it will devour you like the young locust would.<br>
+
 ### The Assyrian Defenders Will Flee
 
 Multiply yourself like the young locust;<br>
@@ -211,6 +224,7 @@ your officials are like a swarm of locusts!<br>
 They encamp in the walls on a cold day,<br>
 yet when the sun rises, they fly away,<br>
 and no one knows where they are.<br>
+
 ### Concluding Dirge
 
 [18] Your shepherds are sleeping, O king of Assyria.<br>

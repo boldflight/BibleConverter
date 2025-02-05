@@ -223,6 +223,7 @@ and the battle bow will be removed.<br>
 Then he will announce peace to the nations.<br>
 His dominion will be from sea to sea<br>
 and from the Euphrates River to the ends of the earth.<br>
+
 [11] Moreover, as for you, because of our covenant relationship secured with blood, I will release your prisoners from the waterless pit.
 [12] Return to the stronghold, you prisoners, with hope; today I declare that I will return double what was taken from you.
 [13] I will bend Judah as my bow; I will load the bow with Ephraim, my arrow. I will stir up your sons, Zion, against your sons, Greece, and I will make you, Zion, like a warrior’s sword.
@@ -267,6 +268,7 @@ because the impenetrable forest has fallen.<br>
 because their magnificence has been destroyed.<br>
 Listen to the roaring of young lions,<br>
 because the thickets of the Jordan have been devastated.<br>
+
 [4] The **Lord** my God says this: “Shepherd the flock set aside for slaughter.
 [5] Those who buy them slaughter them and are not held guilty; those who sell them say, ‘Blessed be the **Lord**, for I am rich.’ Their own shepherds have no compassion for them.
 [6] Indeed, I will no longer have compassion on the people of the land,” says the **Lord**, “but instead I will turn every last person over to his neighbor and his king. They will devastate the land, and I will not deliver it from them.”

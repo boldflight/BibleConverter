@@ -74,6 +74,7 @@ _**blood and fire and clouds of smoke**_.<br>
 **_and the moon to blood_**<br>
 **_before the great and glorious_** _**day of the Lord comes**_.<br>
 [21] **_And then_** _**everyone who calls on the name of the Lord will be saved**_.’<br>
+
 [22] “Men of Israel, listen to these words: Jesus the Nazarene, a man clearly attested to you by God with powerful deeds, wonders, and miraculous signs that God performed among you through him, just as you yourselves know—
 [23] this man, who was handed over by the predetermined plan and foreknowledge of God, you executed by nailing him to a cross at the hands of Gentiles.
 [24] But God raised him up, having released him from the pains of death, because it was not possible for him to be held in its power.
@@ -87,6 +88,7 @@ _**for he is at my right hand so that I will not be shaken**_.<br>
 **_nor permit your Holy One to experience_** _**decay**_.<br>
 [28] **_You have made known to me the paths of life;_**<br>
 _**you will make me full of joy with your presence**_.’<br>
+
 [29] “Brothers, I can speak confidently to you about our forefather David, that he both died and was buried, and his tomb is with us to this day.
 [30] So then, because he was a prophet and knew that God _had sworn to him with an oath to seat one of his descendants_ _on_ _his throne_,
 [31] David by foreseeing this spoke about the resurrection of the Christ, that _he was neither abandoned to Hades_, nor did his body _experience_ _decay_.
@@ -97,6 +99,7 @@ _**you will make me full of joy with your presence**_.’<br>
 ‘**_The Lord said to my lord,_**<br>
 “**_Sit_** **_at_ _my right hand_**<br>
 [35] **_until I make your enemies a footstool_** _**for your feet**_.”’<br>
+
 ### The Response to Peter’s Address
 
 [37] Now when they heard this, they were acutely distressed and said to Peter and the rest of the apostles, “What should we do, brothers?”
@@ -188,6 +191,7 @@ _**you will make me full of joy with your presence**_.’<br>
 [26] **_The kings of the earth stood together,_**<br>
 **_and the rulers assembled together,_**<br>
 **_against the Lord and against his_** _**Christ**_.’<br>
+
 [27] “For indeed both Herod and Pontius Pilate, with the Gentiles and the people of Israel, assembled together in this city against your holy servant Jesus, whom you anointed,
 [28] to do as much as your power and your plan had decided beforehand would happen.
 [29] And now, Lord, pay attention to their threats, and grant to your servants to speak your message with great courage,
@@ -344,6 +348,7 @@ _**and earth is the footstool for my feet**_.<br>
 **_What kind of house will you build for me, says the Lord,_**<br>
 **_or what is my resting place?_**<br>
 [50] **_Did my hand_** **_not_ _make all these things?_**’<br>
+
 [51] “You stubborn people, with uncircumcised hearts and ears! You are always resisting the Holy Spirit, like your ancestors did!
 [52] Which of the prophets did your ancestors not persecute? They killed those who foretold long ago the coming of the Righteous One, whose betrayers and murderers you have now become!
 [53] You received the law by decrees given by angels, but you did not obey it.”
@@ -412,6 +417,7 @@ Now on that day a great persecution began against the church in Jerusalem, and a
 [33] **_In humiliation_** _**justice was taken from him**_.<br>
 **_Who can describe his posterity?_**<br>
 **_For his life was taken away_** _**from the earth**_.”<br>
+
 [34] Then the eunuch said to Philip, “Please tell me, who is the prophet saying this about—himself or someone else?”
 [35] So Philip started speaking, and beginning with this scripture proclaimed the good news about Jesus to him.
 [36] Now as they were going along the road, they came to some water, and the eunuch said, “Look, there is water! What is to stop me from being baptized?”
@@ -675,6 +681,7 @@ On the next day he got up and set out with them, and some of the brothers from J
 [41] ‘**_Look, you scoffers; be amazed and perish!_**<br>
 **_For I am doing a work in your days,_**<br>
 _**a work you would never believe, even if someone tells you**_.’”<br>
+
 [42] As Paul and Barnabas were going out, the people were urging them to speak about these things on the next Sabbath.
 [43] When the meeting of the synagogue had broken up, many of the Jews and God-fearing proselytes followed Paul and Barnabas, who were speaking with them and were persuading them to continue in the grace of God.
 
@@ -756,6 +763,7 @@ _**a work you would never believe, even if someone tells you**_.’”<br>
 [17] **_so that the rest of humanity_** **_may seek the Lord,_**<br>
 **_namely,_** **_all_ _the Gentiles_** **_I have called to be my own,_**’ **_says_ _the Lord,_** _who makes these things_<br>
 [18] _known_ _from_ _long ago_.<br>
+
 [19] “Therefore I conclude that we should not cause extra difficulty for those among the Gentiles who are turning to God,
 [20] but that we should write them a letter telling them to abstain from things defiled by idols and from sexual immorality and from what has been strangled and from blood.
 [21] For Moses has had those who proclaim him in every town from ancient times, because he is read aloud in the synagogues every Sabbath.”
@@ -1385,6 +1393,7 @@ _**a work you would never believe, even if someone tells you**_.’”<br>
 **_and hear with their ears_**<br>
 **_and understand with their heart_**<br>
 **_and turn,_** _**and I would heal them**_.”’<br>
+
 [28] “Therefore be advised that this salvation from God has been sent to the Gentiles; they will listen!”
 
 [30] Paul lived there two whole years in his own rented quarters and welcomed all who came to him,

@@ -49,6 +49,7 @@ If we died with him, we will also live with him.<br>
 [12] If we endure, we will also reign with him.<br>
 If we deny him, he will also deny us.<br>
 [13] If we are unfaithful, he remains faithful, since he cannot deny himself.<br>
+
 ### Dealing with False Teachers
 
 [14] Remind people of these things and solemnly charge them before the Lord not to wrangle over words. This is of no benefit; it just brings ruin on those who listen.

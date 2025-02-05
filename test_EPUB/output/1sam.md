@@ -91,6 +91,7 @@ he thunders against them from the heavens.<br>
 The **Lord** executes judgment to the ends of the earth.<br>
 He will strengthen his king<br>
 and exalt the power of his anointed one.”<br>
+
 [11] Then Elkanah went back home to Ramah.
 
 ### Eli’s Sons Misuse Their Sacred Office
@@ -627,6 +628,7 @@ paying attention is better than the fat of rams.<br>
 and presumption is like the evil of idolatry.<br>
 Because you have rejected the **Lord**’s orders,<br>
 he has rejected you from being king.”<br>
+
 [24] Then Saul said to Samuel, “I have sinned, for I have disobeyed what the **Lord** commanded and your words as well. For I was afraid of the army, and I obeyed their voice.
 [25] Now please forgive my sin. Go back with me so I can worship the **Lord**.”
 
@@ -782,6 +784,7 @@ he has rejected you from being king.”<br>
 
 “Saul has struck down his thousands,<br>
 but David his tens of thousands!”<br>
+
 [8] This made Saul very angry. The statement displeased him and he thought, “They have attributed to David tens of thousands, but to me they have attributed only thousands. What does he lack, except the kingdom?”
 [9] So Saul was keeping an eye on David from that day onward.
 
@@ -936,6 +939,7 @@ When the two of them had gone out into the field,
 
 ‘Saul struck down his thousands,<br>
 but David his tens of thousands’?”<br>
+
 [12] David thought about what they said and was very afraid of King Achish of Gath.
 [13] He altered his behavior in their presence. Since he was in their power, he pretended to be insane, making marks on the doors of the gate and letting his saliva run down his beard.
 
@@ -1234,6 +1238,7 @@ Then Saul realized it was Samuel, and he bowed his face toward the ground and kn
 
 ‘Saul has struck down his thousands,<br>
 but David his tens of thousands’?”<br>
+
 [6] So Achish summoned David and said to him, “As surely as the **Lord** lives, you are an honest man, and I am glad to have you serving with me in the army. I have found no fault with you from the day that you first came to me until the present time. But in the opinion of the leaders, you are not reliable.
 [7] So turn and leave in peace. You must not do anything that the leaders of the Philistines consider improper!”
 

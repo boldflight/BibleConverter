@@ -17,6 +17,7 @@ and _every_ _eye will see him,_<br>
 _even_ _those who pierced him_,<br>
 and all the tribes on the earth will mourn because of him.<br>
 This will certainly come to pass! Amen.)<br>
+
 [8] “I am the Alpha and the Omega,” says the Lord God—the one who is, and who was, and who is still to come—the All-Powerful!
 
 [9] I, John, your brother and the one who shares with you in the persecution, kingdom, and endurance that are in Jesus, was on the island called Patmos because of the word of God and the testimony about Jesus.
@@ -83,6 +84,7 @@ This will certainly come to pass! Amen.)<br>
 
 [27] **_he_** **_will rule_** **_them_ _with an iron rod_**<br>
 **_and like clay jars he will break them to pieces_**,<br>
+
 [28] just as I have received the right to rule from my Father—and I will give him the morning star.
 [29] The one who has an ear had better hear what the Spirit says to the churches.’
 
@@ -142,6 +144,7 @@ In the middle of the throne and around the throne were four living creatures ful
 
 “_**Holy Holy Holy is the Lord God, the All-Powerful**,_<br>
 Who was and who is, and who is still to come!”<br>
+
 [9] And whenever the living creatures give glory, honor, and thanks to the one who sits on the throne, who lives forever and ever,
 [10] the twenty-four elders throw themselves to the ground before the one who sits on the throne and worship the one who lives forever and ever, and they offer their crowns before his throne, saying:
 
@@ -170,6 +173,7 @@ because you were killed,<br>
 and at the cost of your own blood you have purchased for God<br>
 persons from every tribe, language, people, and nation.<br>
 [10] You have appointed them as a kingdom and priests to serve our God, and they will reign on the earth.”<br>
+
 [11] Then I looked and heard the voice of many angels in a circle around the throne, as well as the living creatures and the elders. Their number was ten thousand times ten thousand —thousands times thousands—
 [12] all of whom were singing in a loud voice:
 
@@ -177,10 +181,12 @@ persons from every tribe, language, people, and nation.<br>
 to receive power and wealth<br>
 and wisdom and might<br>
 and honor and glory and praise!”<br>
+
 [13] Then I heard every creature—in heaven, on earth, under the earth, in the sea, and all that is in them—singing:
 
 “To the one seated on the throne and to the Lamb<br>
 be praise, honor, glory, and ruling power forever and ever!”<br>
+
 [14] And the four living creatures were saying “Amen,” and the elders threw themselves to the ground and worshiped.
 
 ## Chapter 6
@@ -231,10 +237,12 @@ from the tribe of Issachar, twelve thousand,<br>
 [8] from the tribe of Zebulun, twelve thousand,<br>
 from the tribe of Joseph, twelve thousand,<br>
 from the tribe of Benjamin, twelve thousand were sealed.<br>
+
 [9] After these things I looked, and here was an enormous crowd that no one could count, made up of persons from every nation, tribe, people, and language, standing before the throne and before the Lamb dressed in long white robes, and with palm branches in their hands.
 [10] They were shouting out in a loud voice,
 
 “Salvation belongs to our God, who is seated on the throne, and to the Lamb!”<br>
+
 [11] And all the angels stood there in a circle around the throne and around the elders and the four living creatures, and they threw themselves down with their faces to the ground before the throne and worshiped God,
 [12] saying,
 
@@ -242,6 +250,7 @@ from the tribe of Benjamin, twelve thousand were sealed.<br>
 and wisdom and thanksgiving,<br>
 and honor and power and strength<br>
 be to our God for ever and ever. Amen!”<br>
+
 [13] Then one of the elders asked me, “These dressed in long white robes—who are they and where have they come from?”
 [14] So I said to him, “My lord, you know the answer.” Then he said to me, “These are the ones who have come out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb!
 [15] For this reason they are before the throne of God, and they serve him day and night in his temple, and the one seated on the throne will shelter them.
@@ -342,6 +351,7 @@ be to our God for ever and ever. Amen!”<br>
 has become the kingdom of our Lord<br>
 and of his Christ,<br>
 and he will reign for ever and ever.”<br>
+
 [16] Then the twenty-four elders who are seated on their thrones before God threw themselves down with their faces to the ground and worshiped God
 [17] with these words:
 
@@ -357,6 +367,7 @@ the prophets, their reward,<br>
 as well as to the saints<br>
 and to those who revere your name, both small and great,<br>
 and the time has come to destroy those who destroy the earth.”<br>
+
 [19] Then the temple of God in heaven was opened and the ark of his covenant was visible within his temple. And there were flashes of lightning, roaring, crashes of thunder, an earthquake, and a great hailstorm.
 
 ## Chapter 12
@@ -392,6 +403,7 @@ But woe to the earth and the sea<br>
 because the devil has come down to you!<br>
 He is filled with terrible anger,<br>
 for he knows that he only has a little time!”<br>
+
 [13] Now when the dragon realized that he had been thrown down to the earth, he pursued the woman who had given birth to the male child.
 [14] But the woman was given the two wings of a giant eagle so that she could fly out into the wilderness, to the place God prepared for her, where she is taken care of—away from the presence of the serpent—for a time, times, and half a time.
 [15] Then the serpent spouted water like a river out of his mouth after the woman in an attempt to sweep her away by a flood,
@@ -417,6 +429,7 @@ for he knows that he only has a little time!”<br>
 into captivity he will go.<br>
 If anyone is to be killed by the sword,<br>
 then by the sword he must be killed.<br>
+
 This requires steadfast endurance and faith from the saints.
 
 [11] Then I saw another beast coming up from the earth. He had two horns like a lamb, but was speaking like a dragon.
@@ -455,6 +468,7 @@ This requires steadfast endurance and faith from the saints.
 
 ‘Blessed are the dead,<br>
 those who die in the Lord from this moment on!’”<br>
+
 “Yes,” says the Spirit, “so they can rest from their hard work, because their deeds will follow them.”
 
 [14] Then I looked, and a white cloud appeared, and seated _on_ _the cloud was one like a son of man!_ He had a golden crown on his head and a sharp sickle in his hand.
@@ -483,6 +497,7 @@ King over the nations!<br>
 and glorify your name, because you alone are holy?<br>
 All nations will come and worship before you<br>
 for your righteous acts have been revealed.”<br>
+
 [5] After these things I looked, and the temple (the tent of the testimony) was opened in heaven,
 [6] and the seven angels who had the seven plagues came out of the temple, dressed in clean bright linen, wearing wide golden belts around their chests.
 [7] Then one of the four living creatures gave the seven angels seven golden bowls filled with the wrath of God who lives forever and ever,
@@ -504,6 +519,7 @@ for your righteous acts have been revealed.”<br>
 the Holy One—because you have passed these judgments,<br>
 [6] because they poured out the blood of your saints and prophets,<br>
 so you have given them blood to drink. They got what they deserved!”<br>
+
 [7] Then I heard the altar reply, “Yes, Lord God, the All-Powerful, your judgments are true and just!”
 
 [8] Then the fourth angel poured out his bowl on the sun, and it was permitted to scorch people with fire.
@@ -518,6 +534,7 @@ so you have given them blood to drink. They got what they deserved!”<br>
 
 [15] (Look ! I will come like a thief!<br>
 Blessed is the one who stays alert and does not lose his clothes so that he will not have to walk around naked and his shameful condition be seen.)<br>
+
 [16] Now the spirits gathered the kings and their armies to the place that is called Armageddon in Hebrew.
 
 [17] Finally the seventh angel poured out his bowl into the air and a loud voice came out of the temple from the throne, saying: “It is done!”
@@ -566,6 +583,7 @@ a haunt for every unclean and detested beast.<br>
 the wine of her immoral passion,<br>
 and the kings of the earth have committed sexual immorality with her,<br>
 and the merchants of the earth have gotten rich from the power of her sensual behavior.”<br>
+
 [4] Then I heard another voice from heaven saying, “Come out of her, my people, so you will not take part in her sins and so you will not receive her plagues,
 [5] because her sins have piled up all the way to heaven and God has remembered her crimes.
 [6] Repay her the same way she repaid others; pay her back double corresponding to her deeds. In the cup she mixed, mix double the amount for her.
@@ -578,6 +596,7 @@ and the merchants of the earth have gotten rich from the power of her sensual be
 “Woe, woe, O great city,<br>
 Babylon the powerful city!<br>
 For in a single hour your doom has come!”<br>
+
 [11] Then the merchants of the earth will weep and mourn for her because no one buys their cargo any longer—
 [12] cargo such as gold, silver, precious stones, pearls, fine linen, purple cloth, silk, scarlet cloth, all sorts of things made of citron wood, all sorts of objects made of ivory, all sorts of things made of expensive wood, bronze, iron and marble,
 [13] cinnamon, spice, incense, perfumed ointment, frankincense, wine, olive oil and costly flour, wheat, cattle and sheep, horses and four-wheeled carriages, slaves and human lives.
@@ -587,6 +606,7 @@ has gone from you,<br>
 and all your luxury and splendor<br>
 have gone from you—<br>
 they will never ever be found again!)<br>
+
 [15] The merchants who sold these things, who got rich from her, will stand a long way off because they are afraid of her torment. They will weep and mourn,
 [16] saying,
 
@@ -594,6 +614,7 @@ they will never ever be found again!)<br>
 dressed in fine linen, purple and scarlet clothing,<br>
 and adorned with gold, precious stones, and pearls—<br>
 [17] because in a single hour such great wealth has been destroyed!”<br>
+
 And every ship’s captain, and all who sail along the coast —seamen, and all who make their living from the sea, stood a long way off
 [18] and began to shout when they saw the smoke from the fire that burned her up, “Who is like the great city?”
 [19] And they threw dust on their heads and were shouting with weeping and mourning,
@@ -604,6 +625,7 @@ because in a single hour she has been destroyed!”<br>
 [20] (Rejoice over her, O heaven,<br>
 and you saints and apostles and prophets,<br>
 for God has pronounced judgment against her on your behalf!)<br>
+
 [21] Then one powerful angel picked up a stone like a huge millstone, threw it into the sea, and said,
 
 “With this kind of sudden violent force<br>
@@ -632,6 +654,7 @@ along with the blood of all those who had been killed on the earth.”<br>
 For he has judged the great prostitute<br>
 who corrupted the earth with her sexual immorality,<br>
 and has avenged the blood of his servants poured out by her own hands!”<br>
+
 [3] Then a second time the crowd shouted, “Hallelujah!” The smoke rises from her forever and ever.
 [4] The twenty-four elders and the four living creatures threw themselves to the ground and worshiped God, who was seated on the throne, saying: “Amen! Hallelujah!”
 
@@ -641,6 +664,7 @@ and has avenged the blood of his servants poured out by her own hands!”<br>
 all you his servants,<br>
 and all you who fear him,<br>
 both the small and the great!”<br>
+
 ### The Wedding Celebration of the Lamb
 
 [6] Then I heard what sounded like the voice of a vast throng, like the roar of many waters and like loud crashes of thunder. They were shouting:
@@ -652,6 +676,7 @@ and give him glory,<br>
 because the wedding celebration of the Lamb has come,<br>
 and his bride has made herself ready.<br>
 [8] She was permitted to be dressed in bright, clean, fine linen” (for the fine linen is the righteous deeds of the saints).<br>
+
 [9] Then the angel said to me, “Write the following: Blessed are those who are invited to the banquet at the wedding celebration of the Lamb!” He also said to me, “These are the true words of God.”
 [10] So I threw myself down at his feet to worship him, but he said, “Do not do this! I am only a fellow servant with you and your brothers and sisters who hold to the testimony about Jesus. Worship God, for the testimony about Jesus is the spirit of prophecy.”
 
@@ -673,6 +698,7 @@ the flesh of powerful people,<br>
 the flesh of horses and those who ride them,<br>
 and the flesh of all people, both free and slave,<br>
 and small and great!”<br>
+
 [19] Then I saw the beast and the kings of the earth and their armies assembled to do battle with the one who rode the horse and with his army.
 [20] Now the beast was seized, and along with him the false prophet who had performed the signs on his behalf —signs by which he deceived those who had received the mark of the beast and those who worshiped his image. Both of them were thrown alive into the lake of fire burning with sulfur.
 [21] The others were killed by the sword that extended from the mouth of the one who rode the horse, and all the birds gorged themselves with their flesh.
@@ -756,6 +782,7 @@ and small and great!”<br>
 
 [7] (Look ! I am coming soon!<br>
 Blessed is the one who keeps the words of the prophecy expressed in this book.)<br>
+
 [8] I, John, am the one who heard and saw these things, and when I heard and saw them, I threw myself down to worship at the feet of the angel who was showing them to me.
 [9] But he said to me, “Do not do this! I am a fellow servant with you and with your brothers the prophets, and with those who obey the words of this book. Worship God!”
 [10] Then he said to me, “Do not seal up the words of the prophecy contained in this book, because the time is near.
@@ -766,6 +793,7 @@ and my reward is with me to pay each one according to what he has done!<br>
 [13] I am the Alpha and the Omega,<br>
 the first and the last,<br>
 the beginning and the end!)<br>
+
 [14] Blessed are those who wash their robes so they can have access to the tree of life and can enter into the city by the gates.
 [15] Outside are the dogs and the sorcerers and the sexually immoral, and the murderers, and the idolaters and everyone who loves and practices falsehood!
 

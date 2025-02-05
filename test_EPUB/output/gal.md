@@ -156,6 +156,7 @@
 **_break forth and shout, you who have no birth pains,_**<br>
 **_because the children of the desolate woman are more numerous_**<br>
 **_than those of the woman who has a husband_**.”<br>
+
 [28] But you, brothers and sisters, are children of the promise like Isaac.
 [29] But just as at that time the one born by natural descent persecuted the one born according to the Spirit, so it is now.
 [30] But what does the scripture say? “_**Throw out the slave woman and her son, for the son of the slave woman will not share the inheritance with the son**_” of the free woman.

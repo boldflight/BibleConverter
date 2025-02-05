@@ -91,6 +91,7 @@ then you will again eat the good crops of the land.<br>
 [20] But if you refuse and rebel,<br>
 you will be devoured by the sword.”<br>
 Know for certain that the **Lord** has spoken.<br>
+
 ### Purifying Judgment
 
 [21] How tragic that the once-faithful city<br>
@@ -157,6 +158,7 @@ Nations will not take up the sword against other nations,<br>
 and they will no longer train for war.<br>
 [5] O descendants of Jacob,<br>
 come, let us walk in the **Lord**’s guiding light.<br>
+
 ### The Lord’s Day of Judgment
 
 [6] Indeed, O **Lord**, you have abandoned your people,<br>
@@ -272,6 +274,7 @@ You have stashed in your houses what you have stolen from the poor.<br>
 [15] Why do you crush my people<br>
 and grind the faces of the poor?”<br>
 The Sovereign **Lord** of Heaven’s Armies has spoken.<br>
+
 ### Washing Away Impurity
 
 [16] The **Lord** says,<br>
@@ -282,6 +285,7 @@ They skip along<br>
 and the jewelry on their ankles jingles.<br>
 [17] So the Lord will afflict the foreheads of Zion’s women with skin diseases;<br>
 the **Lord** will make the front of their heads bald.”<br>
+
 [18] At that time the Lord will remove their beautiful ankle jewelry, neck ornaments, crescent-shaped ornaments,
 [19] earrings, bracelets, veils,
 [20] headdresses, ankle ornaments, sashes, sachets, amulets,
@@ -306,6 +310,7 @@ They will say, “We will provide our own food,<br>
 we will provide our own clothes;<br>
 but let us belong to you —<br>
 take away our shame!”<br>
+
 ### Cleansing and Protection from the Lord
 
 [2] At that time<br>
@@ -361,6 +366,7 @@ not to drop any rain on it.<br>
 the people of Judah are the cultivated place in which he took delight.<br>
 He waited for justice, but look what he got—disobedience!<br>
 He waited for fairness, but look what he got—cries for help!<br>
+
 ### Disaster is Coming
 
 [8] Beware, those who accumulate houses,<br>
@@ -494,6 +500,7 @@ Within sixty-five years Ephraim will no longer exist as a nation.<br>
 and Samaria’s leader is the son of Remaliah.<br>
 If your faith does not remain firm,<br>
 then you will not remain secure.’”<br>
+
 [10] The **Lord** again spoke to Ahaz:
 [11] “Ask for a confirming sign from the **Lord** your God. You can even ask for something miraculous.”
 [12] But Ahaz responded, “I don’t want to ask; I don’t want to put the **Lord** to a test.”
@@ -534,6 +541,7 @@ Get ready for battle, and you will be shattered!<br>
 [10] Devise your strategy, but it will be thwarted.<br>
 Issue your orders, but they will not be executed!<br>
 For God is with us!<br>
+
 ### The Lord Encourages Isaiah
 
 [11] Indeed this is what the **Lord** told me quite forcefully. He warned me not to act like these people:
@@ -608,6 +616,7 @@ establishing it and strengthening it<br>
 by promoting justice and fairness,<br>
 from this time forward and forevermore.<br>
 The zeal of the **Lord** of Heaven’s Armies will accomplish this.<br>
+
 ### God’s Judgment Intensifies
 
 [8] The Lord decreed judgment on Jacob,<br>
@@ -671,6 +680,7 @@ Where will you leave your wealth?<br>
 or to fall among those who have been killed.<br>
 Despite all this, his anger does not subside,<br>
 and his hand is ready to strike again.<br>
+
 ### The Lord Turns on Arrogant Assyria
 
 [5] “Beware, Assyria, the club I use to vent my anger,<br>
@@ -692,6 +702,7 @@ Samaria like Damascus?<br>
 whose carved images were more impressive than Jerusalem’s or Samaria’s.<br>
 [11] As I have done to Samaria and its idols,<br>
 so I will do to Jerusalem and its idols.”<br>
+
 [12] But when the Lord finishes judging Mount Zion and Jerusalem, then he will punish the king of Assyria for what he has proudly planned and for the arrogant attitude he displays.
 [13] For he says:
 
@@ -721,6 +732,7 @@ will be completely destroyed,<br>
 as when a sick man’s life ebbs away.<br>
 [19] There will be so few trees left in his forest,<br>
 a child will be able to count them.<br>
+
 [20] At that time those left in Israel, those who remain of the family of Jacob, will no longer rely on a foreign leader that abuses them. Instead they will truly rely on the **Lord**, the Holy One of Israel.
 [21] A remnant will come back, a remnant of Jacob, to the mighty God.
 [22] For though your people, Israel, are as numerous as the sand on the seashore, only a remnant will come back. Destruction has been decreed; just punishment is about to engulf you.
@@ -789,6 +801,7 @@ an infant will put his hand.<br>
 on my entire royal mountain.<br>
 For there will be universal submission to the **Lord**’s sovereignty,<br>
 just as the waters completely cover the sea.<br>
+
 ### Israel is Reclaimed and Reunited
 
 [10] At that time a root from Jesse will stand like a signal flag for the nations. Nations will look to him for guidance, and his residence will be majestic.
@@ -1016,6 +1029,7 @@ my hand is ready to strike all the nations.”<br>
 and who can possibly frustrate it?<br>
 His hand is ready to strike,<br>
 and who can possibly stop it?<br>
+
 ### The Lord Will Judge the Philistines
 
 [28] This oracle came in the year that King Ahaz died:
@@ -1121,6 +1135,7 @@ I have brought the joyful shouts to an end.<br>
 my inner being sighs for Kir Hareseth.<br>
 [12] When the Moabites plead with all their might at their high places,<br>
 and enter their temples to pray, their prayers will be ineffective.<br>
+
 [13] This is the message the **Lord** previously announced about Moab.
 [14] Now the **Lord** makes this announcement: “Within exactly three years Moab’s splendor will disappear, along with all her many people; there will be only a few insignificant survivors left.”
 
@@ -1267,6 +1282,7 @@ they lead Egypt astray in all she does,<br>
 so that she is like a drunk sliding around in his own vomit.<br>
 [15] Egypt will not be able to do a thing,<br>
 head or tail, shoots or stalk.<br>
+
 [16] At that time the Egyptians will be like women. They will tremble and fear because the **Lord** of Heaven’s Armies brandishes his fist against them.
 [17] The land of Judah will humiliate Egypt. Everyone who hears about Judah will be afraid because of what the **Lord** of Heaven’s Armies is planning to do to them.
 
@@ -1317,6 +1333,7 @@ lay out the carpet,<br>
 eat and drink!<br>
 Get up, you officers,<br>
 smear oil on the shields!<br>
+
 [6] For this is what the Lord has told me:
 
 “Go, post a guard!<br>
@@ -1343,6 +1360,7 @@ what I have heard<br>
 from the **Lord** of Heaven’s Armies,<br>
 the God of Israel,<br>
 I have reported to you.<br>
+
 ### Bad News for Seir
 
 [11] This is an oracle about Dumah:<br>
@@ -1353,6 +1371,7 @@ Watchman, what is left of the night?”<br>
 “Morning is coming, but then night.<br>
 If you want to ask, ask;<br>
 come back again.”<br>
+
 ### The Lord Will Judge Arabia
 
 [13] This is an oracle about Arabia:<br>
@@ -1365,6 +1384,7 @@ bring some food for the fugitives.<br>
 from the drawn sword,<br>
 and from the battle-ready bow,<br>
 and from the severity of the battle.<br>
+
 [16] For this is what the Lord has told me: “Within exactly one year all the splendor of Kedar will come to an end.
 [17] Just a handful of archers, the warriors of Kedar, will be left.” Indeed, the **Lord** God of Israel has spoken.
 
@@ -1415,6 +1435,7 @@ for shaved heads and sackcloth.<br>
 You say, “Kill the ox and slaughter the sheep,<br>
 eat meat and drink wine.<br>
 Eat and drink, for tomorrow we die!”<br>
+
 [14] The **Lord** of Heaven’s Armies told me this: “Certainly this sin will not be forgiven as long as you live,” says the Sovereign **Lord** of Heaven’s Armies.
 
 [15] This is what the Sovereign **Lord** of Heaven’s Armies says:<br>
@@ -1432,6 +1453,7 @@ and there with you will be your impressive chariots,<br>
 which bring disgrace to the house of your master.<br>
 [19] I will remove you from your office;<br>
 you will be thrown down from your position.<br>
+
 [20] “‘At that time I will summon my servant Eliakim, son of Hilkiah.
 [21] I will put your robe on him, tie your belt around him, and transfer your authority to him. He will become a protector of the residents of Jerusalem and of the people of Judah.
 [22] I will place the key to the house of David on his shoulder. When he opens the door, no one can close it; when he closes the door, no one can open it.
@@ -1493,6 +1515,7 @@ demolished its fortresses,<br>
 and turned it into a heap of ruins.<br>
 [14] Wail, you large ships,<br>
 for your fortress is destroyed!<br>
+
 [15] At that time Tyre will be forgotten for seventy years, the typical life span of a king. At the end of seventy years Tyre will try to attract attention again, like the prostitute in the popular song:
 
 [16] “Take the harp,<br>
@@ -1501,6 +1524,7 @@ forgotten prostitute!<br>
 Play it well,<br>
 play lots of songs,<br>
 so you’ll be noticed.”<br>
+
 [17] At the end of seventy years the **Lord** will revive Tyre. She will start making money again by selling her services to all the earth’s kingdoms.
 [18] Her profits and earnings will be set apart for the **Lord**. They will not be stored up or accumulated, for her profits will be given to those who live in the **Lord**’s presence and will be used to purchase large quantities of food and beautiful clothes.
 
@@ -1574,6 +1598,7 @@ the earth shakes violently.<br>
 it will sway back and forth like a hut in a windstorm.<br>
 Its sin will weigh it down,<br>
 and it will fall and never get up again.<br>
+
 ### The Lord Will Become King
 
 [21] At that time the **Lord** will punish<br>
@@ -1651,6 +1676,7 @@ he throws it down to the dust.<br>
 [6] It is trampled underfoot<br>
 by the feet of the oppressed,<br>
 by the soles of the poor.”<br>
+
 ### God’s People Anticipate Vindication
 
 [7] The way of the righteous is level,<br>
@@ -1748,6 +1774,7 @@ women come and use them for kindling.<br>
 For these people lack understanding,<br>
 therefore the one who made them has no compassion on them;<br>
 the one who formed them has no mercy on them.<br>
+
 [12] At that time the **Lord** will shake the tree, from the Euphrates River to the Stream of Egypt. Then you will be gathered up one by one, O Israelites.
 [13] At that time a large trumpet will be blown, and the ones lost in the land of Assyria will come, as well as the refugees in the land of Egypt. They will worship the **Lord** on the holy mountain in Jerusalem.
 
@@ -1804,6 +1831,7 @@ senseless babbling,<br>
 a syllable here, a syllable there.<br>
 As a result, they will fall on their backsides when they try to walk,<br>
 and be injured, ensnared, and captured.<br>
+
 ### The Lord Will Judge Jerusalem
 
 [14] Therefore, listen to the **Lord**’s message,<br>
@@ -1902,6 +1930,7 @@ It will be like a thirsty man dreaming that he is drinking,<br>
 only to awaken and find that he is still weak and his thirst unquenched.<br>
 So it will be for the horde from all the nations<br>
 that fight against Mount Zion.<br>
+
 ### God’s People Are Spiritually Insensitive
 
 [9] You will be shocked and amazed!<br>
@@ -1912,6 +1941,7 @@ they stagger, but not because of beer.<br>
 a strong urge to sleep deeply.<br>
 He has shut your eyes (you prophets),<br>
 and covered your heads (you seers).<br>
+
 [11] To you this entire prophetic revelation is like words in a sealed scroll. When they hand it to one who can read and say, “Read this,” he responds, “I can’t, because it is sealed.”
 [12] Or when they hand the scroll to one who can’t read and say, “Read this,” he says, “I can’t read.”
 
@@ -1932,6 +1962,7 @@ who do their work in secret and boast,<br>
 Should the potter be regarded as clay?<br>
 Should the thing made say about its maker, “He didn’t make me”?<br>
 Or should the pottery say about the potter, “He doesn’t understand”?<br>
+
 ### Changes Are Coming
 
 [17] In just a very short time<br>
@@ -2015,6 +2046,7 @@ so shattered to bits that none of it can be salvaged.<br>
 Among its fragments one cannot find a shard large enough<br>
 to scoop a hot coal from a fire<br>
 or to skim off water from a cistern.”<br>
+
 [15] For this is what the Sovereign **Lord**, the Holy One of Israel says:
 
 “If you repented and patiently waited for me, you would be delivered;<br>
@@ -2029,6 +2061,7 @@ at the battle cry of five enemy soldiers you will all run away,<br>
 until the remaining few are as isolated<br>
 as a flagpole on a mountaintop<br>
 or a signal flag on a hill.”<br>
+
 ### The Lord Will Not Abandon His People
 
 [18] For this reason the **Lord** is ready to show you mercy;<br>
@@ -2111,6 +2144,7 @@ The **Lord** will strike with his hand;<br>
 the one who helps will stumble<br>
 and the one being helped will fall.<br>
 Together they will perish.<br>
+
 ### The Lord Will Defend Zion
 
 [4] Indeed, this is what the **Lord** has said to me:<br>
@@ -2125,6 +2159,7 @@ to do battle on Mount Zion and on its hill.<br>
 so the **Lord** of Heaven’s Armies will protect Jerusalem.<br>
 He will protect and deliver it;<br>
 as he passes over he will rescue it.”<br>
+
 [6] You Israelites! Return to the one you have so blatantly rebelled against!
 [7] For at that time every one will get rid of the silver and gold idols your hands sinfully made.
 
@@ -2165,6 +2200,7 @@ to ruin the poor with lies,<br>
 even when the needy are in the right.<br>
 [8] An honorable man makes honorable plans;<br>
 his honorable character gives him security.<br>
+
 ### The Lord Will Give True Security
 
 [9] You complacent women,<br>
@@ -2510,6 +2546,7 @@ I will put my hook in your nose,<br>
 and my bit between your lips,<br>
 and I will lead you back<br>
 the way you came.’<br>
+
 [30] “This will be your reminder that I have spoken the truth: This year you will eat what grows wild, and next year what grows on its own. But the year after that you will plant seed and harvest crops; you will plant vines and consume their produce.
 [31] Those who remain in Judah will take root in the ground and bear fruit.
 
@@ -2526,6 +2563,7 @@ nor will he build siege works against it.<br>
 he will not enter this city,’ says the **Lord**.<br>
 [35] I will shield this city and rescue it<br>
 for the sake of my reputation and because of my promise to David my servant.”<br>
+
 [36] The angel of the **Lord** went out and killed 185,000 troops in the Assyrian camp. When they got up early the next morning, there were all the corpses!
 [37] So King Sennacherib of Assyria broke camp and went on his way. He went home and stayed in Nineveh.
 [38] One day, as he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer struck him down with the sword. They ran away to the land of Ararat; his son Esarhaddon replaced him as king.
@@ -2647,6 +2685,7 @@ his prize goes before him.<br>
 he gathers up the lambs with his arm;<br>
 he carries them close to his heart;<br>
 he leads the ewes along.<br>
+
 ### The Lord is Incomparable
 
 [12] Who has measured out the waters in the hollow of his hand,<br>
@@ -2745,6 +2784,7 @@ one says to the other, ‘Be strong!’<br>
 the one who wields the hammer encourages the one who pounds on the anvil.<br>
 He approves the quality of the welding,<br>
 and nails it down so it won’t fall over.<br>
+
 ### The Lord Encourages His People
 
 [8] “You, my servant Israel,<br>
@@ -2792,6 +2832,7 @@ I will make evergreens, firs, and cypresses grow together in the arid rift valle
 so they will pay attention and understand<br>
 that the **Lord**’s power has accomplished this,<br>
 and that the Holy One of Israel has brought it into being.<br>
+
 ### The Lord Challenges the Pagan Gods
 
 [21] “Present your argument,” says the **Lord**.<br>
@@ -2851,6 +2892,7 @@ and a light to the nations,<br>
 [7] to open blind eyes,<br>
 to release prisoners from dungeons,<br>
 those who live in darkness from prisons.<br>
+
 ### The Lord Intervenes
 
 [8] “I am the **Lord**! That is my name!<br>
@@ -2892,6 +2934,7 @@ I will not abandon them.<br>
 [17] Those who trust in idols<br>
 will turn back and be utterly humiliated,<br>
 those who say to metal images, ‘You are our gods.’<br>
+
 ### The Lord Reasons with His People
 
 [18] “Listen, you deaf ones!<br>
@@ -2950,6 +2993,7 @@ and my daughters from the remote regions of the earth,<br>
 [7] everyone who belongs to me,<br>
 whom I created for my glory,<br>
 whom I formed—yes, whom I made.<br>
+
 ### The Lord Declares His Sovereignty
 
 [8] Bring out the people who are blind, even though they have eyes,<br>
@@ -2974,6 +3018,7 @@ You are my witnesses,” says the **Lord**, “that I am God.<br>
 [13] From this day forward I am he;<br>
 no one can deliver from my power;<br>
 I will act, and who can prevent it?”<br>
+
 ### The Lord Will Do Something New
 
 [14] This is what the **Lord** says,<br>
@@ -3004,6 +3049,7 @@ and streams in the wastelands,<br>
 to quench the thirst of my chosen people,<br>
 [21] the people whom I formed for myself,<br>
 so they might praise me.<br>
+
 ### The Lord Rebukes His People
 
 [22] “But you did not call for me, O Jacob;<br>
@@ -3045,6 +3091,7 @@ like poplars beside channels of water.<br>
 and another will use the name ‘Jacob.’<br>
 One will write on his hand, ‘The **Lord**’s,’<br>
 and use the name ‘Israel.’”<br>
+
 ### The Absurdity of Idolatry
 
 [6] This is what the **Lord**, Israel’s king, says,<br>
@@ -3127,6 +3174,7 @@ O mountains, give a joyful shout;<br>
 you too, O forest and all your trees!<br>
 For the **Lord** protects Jacob;<br>
 he reveals his splendor through Israel.<br>
+
 ### The Lord Empowers Cyrus
 
 [24] This is what the **Lord**, your Protector, says,<br>
@@ -3187,6 +3235,7 @@ Let the clouds send down showers of deliverance!<br>
 Let the earth absorb it so salvation may grow,<br>
 and deliverance may sprout up along with it.<br>
 I, the **Lord**, create it.’”<br>
+
 ### The Lord Gives a Warning
 
 [9] One who argues with his Creator is in grave danger,<br>
@@ -3213,6 +3262,7 @@ He will rebuild my city;<br>
 he will send my exiled people home,<br>
 but not for a price or a bribe,”<br>
 says the **Lord** of Heaven’s Armies.<br>
+
 ### The Lord is the Nations’ Only Hope
 
 [14] This is what the **Lord** says:
@@ -3521,6 +3571,7 @@ a servant of rulers:<br>
 princes will bow down,<br>
 because of the faithful **Lord**,<br>
 the Holy One of Israel who has chosen you.”<br>
+
 [8] This is what the **Lord** says:
 
 “At the time I decide to show my favor, I will respond to you;<br>
@@ -3546,6 +3597,7 @@ Rejoice, O earth!<br>
 Let the mountains give a joyful shout!<br>
 For the **Lord** consoles his people<br>
 and shows compassion to the oppressed.<br>
+
 ### The Lord Remembers Zion
 
 [14] “Zion said, ‘The **Lord** has abandoned me,<br>
@@ -3578,6 +3630,7 @@ dismissed and divorced.<br>
 Who raised these children?<br>
 Look, I was left all alone;<br>
 where did these children come from?’”<br>
+
 [22] This is what the Sovereign **Lord** says:
 
 “Look I will raise my hand to the nations;<br>
@@ -3620,6 +3673,7 @@ so the fish rot away and die<br>
 from lack of water.<br>
 [3] I can clothe the sky in darkness;<br>
 I can cover it with sackcloth.”<br>
+
 ### The Servant Perseveres
 
 [4] The Sovereign **Lord** has given me the capacity to be his spokesman,<br>
@@ -3728,6 +3782,7 @@ he will not go hungry.<br>
 [15] I am the **Lord** your God,<br>
 who churns up the sea so that its waves surge.<br>
 The **Lord** of Heaven’s Armies is his name!<br>
+
 ### Zion’s Time to Celebrate
 
 [16] “I commission you as my spokesman;<br>
@@ -3778,10 +3833,12 @@ will no longer invade you.<br>
 Get up, captive Jerusalem.<br>
 Take off the iron chains around your neck,<br>
 O captive daughter Zion.<br>
+
 [3] For this is what the **Lord** says:
 
 “You were sold for nothing,<br>
 and you will not be redeemed for money.”<br>
+
 [4] For this is what the Sovereign **Lord** says:
 
 “In the beginning my people went to live temporarily in Egypt;<br>
@@ -3817,6 +3874,7 @@ Stay pure, you who carry the **Lord**’s holy items.<br>
 or leave in a panic.<br>
 For the **Lord** goes before you;<br>
 the God of Israel is your rear guard.<br>
+
 
 ### The Lord Will Vindicate His Servant
 
@@ -4011,6 +4069,7 @@ who refrain from doing anything that is wrong.<br>
 ‘The **Lord** will certainly exclude me from his people.’<br>
 The eunuch should not say,<br>
 ‘Look, I am like a dried-up tree.’”<br>
+
 [4] For this is what the **Lord** says:
 
 “For the eunuchs who observe my Sabbaths<br>
@@ -4030,6 +4089,7 @@ for my temple will be known as a temple where all nations may pray.”<br>
 [8] The Sovereign **Lord** says this,<br>
 the one who gathers the dispersed of Israel:<br>
 “I will still gather them up.”<br>
+
 ### The Lord Denounces Israel’s Paganism
 
 [9] All you wild animals in the fields, come and devour,<br>
@@ -4230,6 +4290,7 @@ they crush and destroy.<br>
 their deeds are unjust.<br>
 They use deceitful methods,<br>
 and whoever deals with them is unfamiliar with peace.<br>
+
 ### Israel Confesses its Sin
 
 [9] For this reason deliverance is far from us<br>
@@ -4260,6 +4321,7 @@ and morality is not even able to enter.<br>
 the one who tries to avoid evil is robbed.<br>
 The **Lord** watches and is displeased,<br>
 for there is no justice.<br>
+
 ### The Lord Intervenes
 
 [16] He sees there is no advocate;<br>
@@ -4280,6 +4342,7 @@ For he comes like a rushing stream<br>
 driven on by wind sent from the **Lord**.<br>
 [20] “A protector comes to Zion,<br>
 to those in Jacob who repent of their rebellious deeds,” says the **Lord**.<br>
+
 [21] “As for me, this is my promise to them,” says the **Lord**. “My Spirit, who is upon you, and my words, which I have placed in your mouth, will not depart from your mouth or from the mouths of your children and descendants from this time forward,” says the **Lord**.
 
 ## Chapter 60
@@ -4503,6 +4566,7 @@ my raging anger drove me on.<br>
 [6] I trampled nations in my anger;<br>
 I made them drunk in my rage;<br>
 I splashed their blood on the ground.”<br>
+
 ### A Prayer for Divine Intervention
 
 [7] I will tell of the faithful acts of the **Lord**,<br>
@@ -4621,6 +4685,7 @@ I will pay them back exactly what they deserve,<br>
 “Because they burned incense on the mountains<br>
 and offended me on the hills,<br>
 I will punish them in full measure.”<br>
+
 [8] This is what the **Lord** says:
 
 “When juice is discovered in a cluster of grapes,<br>
@@ -4644,6 +4709,7 @@ because I called to you, and you did not respond;<br>
 I spoke and you did not listen.<br>
 You did evil before me;<br>
 you chose to do what displeases me.”<br>
+
 [13] So this is what the Sovereign **Lord** says:
 
 “Look, my servants will eat, but you will be hungry.<br>
@@ -4746,6 +4812,7 @@ Share in her great joy,<br>
 all you who have mourned over her!<br>
 [11] For you will nurse from her satisfying breasts and be nourished;<br>
 you will feed with joy from her milk-filled breasts.<br>
+
 [12] For this is what the **Lord** says:
 
 “Look, I am ready to extend to her prosperity that will flow like a river,<br>
@@ -4766,6 +4833,7 @@ his battle cry, and his flaming arrows.<br>
 [16] For the **Lord** judges all humanity<br>
 with fire and his sword;<br>
 the **Lord** will kill many.<br>
+
 [17] “As for those who consecrate and ritually purify themselves so they can follow their leader and worship in the sacred orchards, those who eat the flesh of pigs and other disgusting creatures, like mice —they will all be destroyed together,” says the **Lord**.
 [18] “I hate their deeds and thoughts! So I am coming to gather all the nations and ethnic groups; they will come and witness my splendor.
 [19] I will perform a mighty act among them and then send some of those who remain to the nations—to Tarshish, Pul, Lud (known for its archers), Tubal, Javan, and to the distant coastlands that have not heard about me or seen my splendor. They will tell the nations of my splendor.

@@ -99,6 +99,7 @@ let it wait for daylight but find none,<br>
 nor let it see the first rays of dawn,<br>
 [10] because it did not shut the doors of my mother’s womb on me,<br>
 nor did it hide trouble from my eyes.<br>
+
 ### Job Wishes He Had Died at Birth
 
 [11] “Why did I not die at birth,<br>
@@ -123,6 +124,7 @@ and there the weary are at rest.<br>
 they do not hear the voice of the oppressor.<br>
 [19] Small and great are there,<br>
 and the slave is free from his master.<br>
+
 ### Longing for Death
 
 [20] “Why does God give light to one who is in misery,<br>
@@ -174,6 +176,7 @@ and the growling of the young lion,<br>
 but the teeth of the young lions are broken.<br>
 [11] The mighty lion perishes for lack of prey,<br>
 and the cubs of the lioness are scattered.<br>
+
 ### Ungodly Complainers Provoke God’s Wrath
 
 [12] “Now a word was stealthily brought to me,<br>
@@ -218,6 +221,7 @@ and the thirsty pant for their wealth.<br>
 nor does trouble spring up from the ground,<br>
 [7] but people are born to trouble,<br>
 as surely as the sparks fly upward.<br>
+
 ### Blessings for the One Who Seeks God
 
 [8] “But as for me, I would seek God,<br>
@@ -276,6 +280,7 @@ that is why my words have been wild.<br>
 [4] For the arrows of the Almighty are within me;<br>
 my spirit drinks their poison;<br>
 God’s sudden terrors are arrayed against me.<br>
+
 ### Complaints Reflect Suffering
 
 [5] “Does the wild donkey bray when it is near grass?<br>
@@ -284,6 +289,7 @@ Or does the ox bellow over its fodder?<br>
 Or is there any taste in the white of an egg?<br>
 [7] I have refused to touch such things;<br>
 they are like loathsome food to me.<br>
+
 ### A Cry for Death
 
 [8] “Oh that my request would be realized,<br>
@@ -302,6 +308,7 @@ that I should prolong my life?<br>
 Or is my flesh made of bronze?<br>
 [13] Is not my power to help myself nothing,<br>
 and has not every resource been driven from me?<br>
+
 ### Disappointing Friends
 
 [14] “To the one in despair, kindness should come from his friend<br>
@@ -322,12 +329,14 @@ because each one had been so confident;<br>
 they arrived there, but were disappointed.<br>
 [21] For now you have become like these streams that are no help;<br>
 you see a terror, and are afraid.<br>
+
 ### Friends’ Fears
 
 [22] “Have I ever said, ‘Give me something,<br>
 and from your fortune make gifts in my favor’?<br>
 [23] Or, ‘Deliver me from the enemy’s power,<br>
 and from the hand of tyrants ransom me’?<br>
+
 ### No Sin Discovered
 
 [24] “Teach me and I, for my part, will be silent;<br>
@@ -338,6 +347,7 @@ But what does your reproof prove?<br>
 and treat the words of a despairing man as wind?<br>
 [27] Yes, you would gamble for the fatherless,<br>
 and auction off your friend.<br>
+
 ### Other Explanation
 
 [28] “Now then, be good enough to look at me;<br>
@@ -375,6 +385,7 @@ so the one who goes down to the grave<br>
 does not come up again.<br>
 [10] He returns no more to his house,<br>
 nor does his place of residence know him anymore.<br>
+
 ### Job Remonstrates with God
 
 [11] “Therefore, I will not refrain my mouth;<br>
@@ -390,6 +401,7 @@ and terrify me with visions,<br>
 and death more than life.<br>
 [16] I loathe it; I do not want to live forever;<br>
 leave me alone, for my days are a vapor!<br>
+
 ### Insignificance of Humans
 
 [17] “What is mankind that you make so much of them,<br>
@@ -497,6 +509,7 @@ if he goes by, I cannot perceive him.<br>
 Who dares to say to him, ‘What are you doing?’<br>
 [13] God does not restrain his anger;<br>
 under him the helpers of Rahab lie crushed.<br>
+
 ### The Impossibility of Facing God in Court
 
 [14] “How much less, then, can I answer him<br>
@@ -521,6 +534,7 @@ although I am blameless,<br>
 it would declare me perverse.<br>
 [21] I am blameless. I do not know myself.<br>
 I despise my life.<br>
+
 ### Accusation of God’s Justice
 
 [22] “It is all one! That is why I say,<br>
@@ -531,6 +545,7 @@ he mocks at the despair of the innocent.<br>
 into the hand of a wicked man,<br>
 he covers the faces of its judges;<br>
 if it is not he, then who is it?<br>
+
 ### Renewed Complaint
 
 [25] “My days are swifter than a runner,<br>
@@ -569,6 +584,7 @@ tell me why you are contending with me.’<br>
 to despise the work of your hands,<br>
 while you smile<br>
 on the schemes of the wicked?<br>
+
 ### Motivations of God
 
 [4] “Do you have eyes of flesh,<br>
@@ -580,6 +596,7 @@ and inquire about my sin,<br>
 [7] although you know that I am not guilty,<br>
 and that there is no one who can deliver<br>
 out of your hand?<br>
+
 ### Contradictions in God’s Dealings
 
 [8] “Your hands have shaped me and made me,<br>
@@ -607,6 +624,7 @@ and again you display your power against me.<br>
 [17] You bring new witnesses against me,<br>
 and increase your anger against me;<br>
 relief troops come against me.<br>
+
 ### An Appeal for Relief
 
 [18] “Why then did you bring me out from the womb?<br>
@@ -702,6 +720,7 @@ a fate for those whose feet slip.<br>
 [6] But the tents of robbers are peaceful,<br>
 and those who provoke God are confident —<br>
 who carry their god in their hands.<br>
+
 ### Knowledge of God’s Wisdom
 
 [7] “But now, ask the animals and they will teach you,<br>
@@ -825,6 +844,7 @@ the number of his months is under your control;<br>
 you have set his limit and he cannot pass it.<br>
 [6] Look away from him and let him desist,<br>
 until he fulfills his time like a hired man.<br>
+
 ### The Inevitability of Death
 
 [7] “But there is hope for a tree:<br>
@@ -842,6 +862,7 @@ or a river drains away and dries up,<br>
 until the heavens are no more,<br>
 they will not awake<br>
 nor arise from their sleep.<br>
+
 ### The Possibility of Another Life
 
 [13] “O that you would hide me in Sheol,<br>
@@ -853,6 +874,7 @@ All the days of my hard service I will wait<br>
 until my release comes.<br>
 [15] You will call and I —I will answer you;<br>
 you will long for the creature you have made.<br>
+
 ### The Present Condition
 
 [16] “Surely now you count my steps;<br>
@@ -975,6 +997,7 @@ I could pile up words against you<br>
 and I could shake my head at you.<br>
 [5] But I would strengthen you with my words;<br>
 comfort from my lips would bring you relief.<br>
+
 ### Abandonment by God and Man
 
 [6] “But if I speak, my pain is not relieved,<br>
@@ -1008,6 +1031,7 @@ and buried my horn in the dust;<br>
 and on my eyelids there is a deep darkness,<br>
 [17] although there is no violence in my hands<br>
 and my prayer is pure.<br>
+
 ### An Appeal to God as Witness
 
 [18] “O earth, do not cover my blood,<br>
@@ -1041,6 +1065,7 @@ my whole frame is but a shadow.<br>
 the innocent man is troubled with the godless.<br>
 [9] But the righteous man holds to his way,<br>
 and the one with clean hands grows stronger.<br>
+
 ### Anticipation of Death
 
 [10] “But turn, all of you, and come now!<br>
@@ -1122,6 +1147,7 @@ my error remains solely my concern!<br>
 and plead my disgrace against me,<br>
 [6] know then that God has wronged me<br>
 and encircled me with his net.<br>
+
 ### Job’s Abandonment and Affliction
 
 [7] “If I cry out, ‘Violence!’<br>
@@ -1139,6 +1165,7 @@ and he considers me among his enemies.<br>
 [12] His troops advance together;<br>
 they throw up a siege ramp against me,<br>
 and they camp around my tent.<br>
+
 ### Job’s Forsaken State
 
 [13] “He has put my relatives far from me;<br>
@@ -1162,6 +1189,7 @@ I have escaped alive with only the skin of my teeth.<br>
 for the hand of God has struck me.<br>
 [22] Why do you pursue me like God does?<br>
 Will you never be satiated with my flesh?<br>
+
 ### Job’s Assurance of Vindication
 
 [23] “O that my words were written down!<br>
@@ -1271,6 +1299,7 @@ If so, why should I not be impatient?<br>
 put your hands over your mouths.<br>
 [6] For, when I think about this, I am terrified<br>
 and my body feels a shudder.<br>
+
 ### The Wicked Prosper
 
 [7] “Why do the wicked go on living,<br>
@@ -1294,6 +1323,7 @@ What would we gain<br>
 if we were to pray to him?’<br>
 [16] But their prosperity is not their own doing.<br>
 The counsel of the wicked is far from me!<br>
+
 ### How Often Do the Wicked Suffer?
 
 [17] “How often is the lamp of the wicked extinguished?<br>
@@ -1312,6 +1342,7 @@ when the number of his months<br>
 has been broken off?<br>
 [22] Can anyone teach God knowledge,<br>
 since he judges those that are on high?<br>
+
 ### Death Levels Everything
 
 [23] “One man dies in his full vigor,<br>
@@ -1322,6 +1353,7 @@ and the marrow of his bones moist.<br>
 never having tasted anything good.<br>
 [26] Together they lie down in the dust,<br>
 and worms cover over them both.<br>
+
 ### Futile Words, Deceptive Answers
 
 [27] “Yes, I know what you are thinking,<br>
@@ -1441,6 +1473,7 @@ No, he would only pay attention to me.<br>
 [7] There an upright person<br>
 could present his case before him,<br>
 and I would be delivered forever from my judge.<br>
+
 ### The Inaccessibility and Power of God
 
 [8] “If I go to the east, he is not there,<br>
@@ -1561,6 +1594,7 @@ How you have saved the person who has no strength!<br>
 and abundantly revealed your insight!<br>
 [4] To whom did you utter these words?<br>
 And whose spirit has come forth from your mouth?<br>
+
 ### A Better Description of God’s Greatness
 
 [5] “The dead tremble —<br>
@@ -1603,6 +1637,7 @@ until I die, I will not set aside my integrity!<br>
 and never let it go;<br>
 my conscience will not reproach me<br>
 for as long as I live.<br>
+
 ### The Condition of the Wicked
 
 [7] “May my enemy be like the wicked,<br>
@@ -1671,6 +1706,7 @@ he has overturned mountains at their bases.<br>
 his eyes have spotted every precious thing.<br>
 [11] He has searched the sources of the rivers<br>
 and what was hidden he has brought into the light.<br>
+
 ### No Price Can Buy Wisdom
 
 [12] “But wisdom—where can it be found?<br>
@@ -1689,6 +1725,7 @@ nor can a vase of gold match its worth.<br>
 the price of wisdom is more than pearls.<br>
 [19] The topaz of Cush cannot be compared with it;<br>
 it cannot be purchased with pure gold.<br>
+
 ### God Alone Has Wisdom
 
 [20] “But wisdom—where does it come from?<br>
@@ -1740,6 +1777,7 @@ and the old men would get up and remain standing;<br>
 and covered their mouths with their hands;<br>
 [10] the voices of the nobles fell silent,<br>
 and their tongues stuck to the roof of their mouths.<br>
+
 ### Job’s Benevolence
 
 [11] “As soon as the ear heard these things, it blessed me,<br>
@@ -1756,6 +1794,7 @@ and feet for the lame;<br>
 and I investigated the case of the person I did not know;<br>
 [17] I broke the fangs of the wicked,<br>
 and made him drop his prey from his teeth.<br>
+
 ### Job’s Confidence
 
 [18] “Then I thought, ‘I will die in my own home,<br>
@@ -1764,6 +1803,7 @@ my days as numerous as the grains of sand.<br>
 and the dew lies on my branches all night long.<br>
 [20] My glory will always be fresh in me,<br>
 and my bow ever new in my hand.’<br>
+
 ### Job’s Reputation
 
 [21] “People listened to me and waited silently;<br>
@@ -1803,6 +1843,7 @@ in the holes of the ground, and among the rocks.<br>
 and were huddled together under the nettles.<br>
 [8] Sons of senseless and nameless people,<br>
 they were driven out of the land with whips.<br>
+
 ### Job’s Indignities
 
 [9] “And now I have become their taunt song;<br>
@@ -1822,6 +1863,7 @@ amid the crash they come rolling in.<br>
 [15] Terrors are turned loose on me;<br>
 they drive away my honor like the wind,<br>
 and as a cloud my deliverance has passed away.<br>
+
 ### Job’s Despondency
 
 [16] “And now my soul pours itself out within me;<br>
@@ -1840,6 +1882,7 @@ with the strength of your hand you attack me.<br>
 you toss me about in the storm.<br>
 [23] I know that you are bringing me to death,<br>
 to the meeting place for all the living.<br>
+
 ### The Contrast With the Past
 
 [24] “Surely one does not stretch out his hand<br>
@@ -1940,6 +1983,7 @@ by hiding iniquity in my heart,<br>
 and the contempt of families terrified me,<br>
 so that I remained silent<br>
 and would not go outdoors—<br>
+
 ### Job’s Appeal
 
 [35] “If only I had someone to hear me!<br>
@@ -1951,6 +1995,7 @@ that my accuser had written.<br>
 I would bind it on me like a crown;<br>
 [37] I would give him an accounting of my steps;<br>
 like a prince I would draw near to him.<br>
+
 ### Job’s Final Solemn Oath
 
 [38] “If my land cried out against me<br>
@@ -1959,6 +2004,7 @@ and all its furrows wept together,<br>
 or caused the death of its owners,<br>
 [40] then let thorns sprout up in place of wheat,<br>
 and in place of barley, noxious weeds.”<br>
+
 The words of Job are ended.
 
 ## Chapter 32
@@ -1998,6 +2044,7 @@ not one of you was answering his statements.<br>
 God will refute him, not man.’<br>
 [14] Job has not directed his words to me,<br>
 and so I will not reply to him with your arguments.<br>
+
 ### Job’s Friends Failed to Answer
 
 [15] “They are dismayed and cannot answer anymore;<br>
@@ -2035,6 +2082,7 @@ and take your stand.<br>
 I too have been molded from clay.<br>
 [7] Therefore no fear of me should terrify you,<br>
 nor should my pressure be heavy on you.<br>
+
 ### Elihu Rejects Job’s Plea of Innocence
 
 [8] “Indeed, you have said in my hearing<br>
@@ -2049,6 +2097,7 @@ he watches closely all my paths.’<br>
 for God is greater than a human being.<br>
 [13] Why do you contend against him,<br>
 that he does not answer all a person’s words?<br>
+
 ### Elihu Disagrees With Job’s View of God
 
 [14] “For God speaks, the first time in one way,<br>
@@ -2090,6 +2139,7 @@ but I was not punished according to what I deserved.<br>
 [28] He redeemed my life<br>
 from going down to the place of corruption,<br>
 and my life sees the light!’<br>
+
 ### Elihu’s Appeal to Job
 
 [29] “Indeed, God does all these things,<br>
@@ -2125,6 +2175,7 @@ who drinks derision like water?<br>
 he goes along with wicked men.<br>
 [9] For he says, ‘It does not profit a man<br>
 when he makes his delight with God.’<br>
+
 ### God is Not Unjust
 
 [10] “Therefore, listen to me, you men of understanding.<br>
@@ -2141,6 +2192,7 @@ And who put him over the whole world?<br>
 and gather in his spirit and his breath,<br>
 [15] all flesh would perish together<br>
 and human beings would return to dust.<br>
+
 ### God Is Impartial and Omniscient
 
 [16] “If you have understanding, listen to this,<br>
@@ -2180,6 +2232,7 @@ If he hides his face, then who can see him?<br>
 Yet he is over the individual and the nation alike,<br>
 [30] so that the godless man should not rule,<br>
 and not lay snares for the people.<br>
+
 ### Job Is Foolish to Rebel
 
 [31] “Has anyone said to God,<br>
@@ -2306,6 +2359,7 @@ Or said to him, ‘You have done what is wicked’?<br>
 which people have praised in song.<br>
 [25] All humanity has seen it;<br>
 people gaze on it from afar.<br>
+
 ### The Work and Wisdom of God
 
 [26] “Yes, God is great—beyond our knowledge!<br>
@@ -2397,6 +2451,7 @@ with words without knowledge?<br>
 [3] Get ready for a difficult task like a man;<br>
 I will question you<br>
 and you will inform me.<br>
+
 ### God’s questions to Job
 
 [4] “Where were you<br>
@@ -2568,6 +2623,7 @@ Let the person who accuses God give him an answer!”<br>
 I put my hand over my mouth to silence myself.<br>
 [5] I have spoken once, but I cannot answer;<br>
 twice, but I will say no more.”<br>
+
 ### The Lord’s Second Speech
 
 [6] Then the **Lord** answered Job from the whirlwind:
@@ -2588,6 +2644,7 @@ crush the wicked on the spot.<br>
 imprison them in the grave.<br>
 [14] Then I myself will acknowledge to you<br>
 that your own right hand can save you.<br>
+
 ### The Description of Behemoth
 
 [15] “Look now at Behemoth, which I made as I made you;<br>
@@ -2705,6 +2762,7 @@ I will question you, and you will answer me.’<br>
 but now my eye has seen you.<br>
 [6] Therefore I despise myself,<br>
 and I repent in dust and ashes!”<br>
+
 ### VII. The Epilogue (42:7—17)
 
 ### Job’s Restoration

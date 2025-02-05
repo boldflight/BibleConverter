@@ -1239,6 +1239,7 @@ and boast about your praiseworthy deeds.”<br>
 [36] May the **Lord** God of Israel be praised,<br>
 in the future and forevermore.<br>
 Then all the people said, “We agree! Praise the **Lord**.”<br>
+
 ### David Appoints Worship Leaders
 
 [37] David left Asaph and his colleagues there before the ark of the **Lord**’s covenant to serve before the ark regularly and fulfill each day’s requirements,

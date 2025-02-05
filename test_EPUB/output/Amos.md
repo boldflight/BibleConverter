@@ -14,6 +14,7 @@
 from Jerusalem he comes bellowing!<br>
 The shepherds’ pastures wilt;<br>
 the summit of Carmel withers.”<br>
+
 [3] This is what the **Lord** says:
 
 “Because Damascus has committed three crimes —<br>
@@ -27,6 +28,7 @@ I will remove the ruler from Wicked Valley,<br>
 the one who holds the royal scepter from Beth Eden.<br>
 The people of Aram will be deported to Kir.”<br>
 The **Lord** has spoken!<br>
+
 [6] This is what the **Lord** says:
 
 “Because Gaza has committed three crimes —<br>
@@ -39,6 +41,7 @@ the one who holds the royal scepter from Ashkelon.<br>
 I will strike Ekron with my hand;<br>
 the rest of the Philistines will also die.”<br>
 The Sovereign **Lord** has spoken!<br>
+
 [9] This is what the **Lord** says:
 
 “Because Tyre has committed three crimes —<br>
@@ -47,6 +50,7 @@ They sold a whole community to Edom;<br>
 they failed to observe a treaty of brotherhood.<br>
 [10] So I will set fire to Tyre’s city wall;<br>
 fire will consume her fortresses.”<br>
+
 [11] This is what the **Lord** says:
 
 “Because Edom has committed three crimes —<br>
@@ -57,6 +61,7 @@ In his anger he tore them apart without stopping to rest;<br>
 in his fury he relentlessly attacked them.<br>
 [12] So I will set Teman on fire;<br>
 fire will consume Bozrah’s fortresses.”<br>
+
 [13] This is what the **Lord** says:
 
 “Because the Ammonites have committed three crimes —<br>
@@ -84,6 +89,7 @@ amid war cries and the blaring of the ram’s horn.<br>
 [3] I will remove Moab’s leader;<br>
 I will kill all Moab’s officials with him.”<br>
 The **Lord** has spoken!<br>
+
 [4] This is what the **Lord** says:
 
 “Because Judah has committed three covenant transgressions —<br>
@@ -95,6 +101,7 @@ to which their fathers were loyal,<br>
 led them astray.<br>
 [5] So I will set Judah on fire,<br>
 and it will consume Jerusalem’s fortresses.”<br>
+
 ### God Will Judge Israel
 
 [6] This is what the **Lord** says:
@@ -153,6 +160,7 @@ If disaster overtakes a city, is the **Lord** not responsible?<br>
 [7] Certainly the Sovereign **Lord** does nothing without first revealing his plan to his servants the prophets.<br>
 [8] A lion has roared! Who is not afraid?<br>
 The Sovereign **Lord** has spoken. Who can refuse to prophesy?<br>
+
 ### Samaria Will Fall
 
 [9] Make this announcement in the fortresses of Ashdod<br>
@@ -167,6 +175,7 @@ the oppressive deeds occurring in it.”<br>
 [11] Therefore,” says the Sovereign **Lord**, “an enemy will encircle the land.<br>
 He will take away your power;<br>
 your fortresses will be looted.”<br>
+
 [12] This is what the **Lord** says:
 
 “Just as a shepherd salvages from the lion’s mouth a couple of leg bones or a piece of an ear,<br>
@@ -198,6 +207,7 @@ every last one of you in fishermen’s pots.<br>
 [3] Each of you will go straight through the gaps in the walls;<br>
 you will be thrown out toward Harmon.”<br>
 The **Lord** is speaking.<br>
+
 ### Israel has an Appointment with God
 
 [4] “Go to Bethel and rebel!<br>
@@ -258,10 +268,12 @@ The **Lord** God of Heaven’s Armies is his name!<br>
 [2] “The virgin Israel has fallen down and will not get up again.<br>
 She is abandoned on her own land<br>
 with no one to help her get up.”<br>
+
 [3] The Sovereign **Lord** says this:
 
 “The city that marches out with a thousand soldiers will have only a hundred left;<br>
 the town that marches out with a hundred soldiers will have only ten left for the family of Israel.”<br>
+
 [4] The **Lord** says this to the family of Israel:
 
 “Seek me so you can live!<br>
@@ -306,6 +318,7 @@ as you claim he is.<br>
 [15] Hate what is wrong, love what is right.<br>
 Promote justice at the city gate.<br>
 Maybe the **Lord** God of Heaven’s Armies will have mercy on those who are left from Joseph.<br>
+
 [16] Because of Israel’s sins this is what the Lord, the **Lord** God of Heaven’s Armies, says:
 
 “In all the squares there will be wailing,<br>
@@ -314,6 +327,7 @@ They will tell the field workers to lament<br>
 and the professional mourners to wail.<br>
 [17] In all the vineyards there will be wailing,<br>
 for I will pass through your midst,” says the **Lord**.<br>
+
 ### The Lord Demands Justice
 
 [18] Woe to those who wish for the day of the **Lord**!<br>
@@ -374,6 +388,7 @@ The **Lord** God of Heaven’s Armies is speaking:<br>
 “I despise Jacob’s arrogance;<br>
 I hate their fortresses.<br>
 I will hand over to their enemies the city of Samaria and everything in it.”<br>
+
 [9] If ten men are left in one house, they too will die.
 [10] When their close relatives, the ones who will burn the corpses, pick up their bodies to remove the bones from the house, they will say to anyone who is in the inner rooms of the house, “Is anyone else with you?” He will respond, “No one.” Then he will say, “Hush! Don’t invoke the **Lord**’s name!”
 
@@ -400,6 +415,7 @@ the **Lord**, the God who commands armies, is speaking.<br>
 “Sovereign **Lord**, forgive Israel!<br>
 How can Jacob survive?<br>
 He is too weak!”<br>
+
 [3] The **Lord** decided not to do this. “It will not happen,” the **Lord** said.
 
 [4] The Sovereign **Lord** showed me this: I saw the Sovereign **Lord** summoning a shower of fire. It consumed the great deep and devoured the fields.
@@ -408,6 +424,7 @@ He is too weak!”<br>
 “Sovereign **Lord**, stop!<br>
 How can Jacob survive?<br>
 He is too weak!”<br>
+
 [6] The **Lord** decided not to do this. The Sovereign **Lord** said, “This will not happen either.”
 
 [7] He showed me this: I saw the Lord standing by a tin wall holding tin in his hand.
@@ -418,6 +435,7 @@ I will no longer overlook their sin.<br>
 [9] Isaac’s centers of worship will become desolate;<br>
 Israel’s holy places will be in ruins.<br>
 I will attack Jeroboam’s dynasty with the sword.”<br>
+
 ### Amos Confronts a Priest
 
 [10] Amaziah the priest of Bethel sent this message to King Jeroboam of Israel: “Amos is conspiring against you in the very heart of the kingdom of Israel! The land cannot endure all his prophecies.
@@ -450,6 +468,7 @@ The Sovereign **Lord** is speaking.<br>
 “There will be many corpses littered everywhere! Be quiet!”<br>
 [4] Listen to this, you who trample the needy<br>
 and do away with the destitute in the land.<br>
+
 [5] You say,
 
 “When will the new moon festival be over, so we can sell grain?<br>
@@ -459,6 +478,7 @@ and to cheat the buyer with rigged scales!<br>
 [6] We’re eager to trade silver for the poor,<br>
 a pair of sandals for the needy.<br>
 We want to mix in some chaff with the grain!”<br>
+
 [7] The **Lord** confirms this oath by the arrogance of Jacob:
 
 “I swear I will never forget all you have done!<br>
@@ -530,6 +550,7 @@ It will resemble a sieve being shaken,<br>
 when not even a pebble falls to the ground.<br>
 [10] All the sinners among my people will die by the sword—<br>
 the ones who say, ‘Disaster will not come near, it will not confront us.’<br>
+
 ### The Restoration of the Davidic Dynasty
 
 [11] “In that day I will rebuild the collapsing hut of David.<br>

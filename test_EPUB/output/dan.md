@@ -73,6 +73,7 @@ and light resides with him.<br>
 for you have bestowed wisdom and power on me.<br>
 Now you have enabled me to understand what we requested from you.<br>
 For you have enabled us to understand the king’s dilemma.”<br>
+
 [24] Then Daniel went in to see Arioch (whom the king had appointed to destroy the wise men of Babylon). He came and said to him, “Don’t destroy the wise men of Babylon! Escort me to the king, and I will disclose the interpretation to him.”
 
 [25] So Arioch quickly ushered Daniel into the king’s presence, saying to him, “I have found a man from the captives of Judah who can make known the interpretation to the king.”
@@ -162,6 +163,7 @@ Then Shadrach, Meshach, and Abednego emerged from the fire.
 How mighty are his wonders!<br>
 His kingdom will last forever,<br>
 and his authority continues from one generation to the next.”<br>
+
 ### Nebuchadnezzar Dreams of a Tree Chopped Down
 
 [4] (4:1) I, Nebuchadnezzar, was relaxing in my home, living luxuriously in my palace.
@@ -206,6 +208,7 @@ so that those who are alive may understand<br>
 that the Most High has authority over human kingdoms,<br>
 and he bestows them on whomever he wishes.<br>
 He establishes over them even the lowliest of human beings.’<br>
+
 [18] “This is the dream that I, King Nebuchadnezzar, saw. Now you, Belteshazzar, declare its interpretation, for none of the wise men in my kingdom are able to make known to me the interpretation. But you can do so, for a spirit of the holy gods is in you.”
 
 ### Daniel Interprets Nebuchadnezzar’s Dream
@@ -240,6 +243,7 @@ He does as he wishes with the army of heaven<br>
 and with those who inhabit the earth.<br>
 No one slaps his hand<br>
 and says to him, ‘What have you done?’<br>
+
 [36] At that time my sanity returned to me. I was restored to the honor of my kingdom**,** and my splendor returned to me. My ministers and my nobles were seeking me out, and I was reinstated over my kingdom. I became even greater than before.
 [37] Now I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, for all his deeds are right and his ways are just. He is able to bring down those who live in pride.
 
@@ -337,6 +341,7 @@ his authority is forever.<br>
 and performs signs and wonders<br>
 in the heavens and on the earth.<br>
 He has rescued Daniel from the power of the lions!”<br>
+
 [28] So this Daniel prospered during the reign of Darius and the reign of Cyrus the Persian.
 
 ## Chapter 7
@@ -371,6 +376,7 @@ Many thousands were ministering to him;<br>
 many tens of thousands stood ready to serve him.<br>
 The court convened<br>
 and the books were opened.<br>
+
 [11] “Then I kept on watching because of the arrogant words of the horn that was speaking. I was watching until the beast was killed and its body destroyed and thrown into the flaming fire.
 [12] As for the rest of the beasts, their ruling authority had already been removed, though they were permitted to go on living for a time and a season.
 
@@ -383,6 +389,7 @@ and was escorted before him.<br>
 All peoples, nations, and language groups were serving him.<br>
 His authority is eternal and will not pass away.<br>
 His kingdom will not be destroyed.<br>
+
 ### An Angel Interprets Daniel’s Vision
 
 [15] “As for me, Daniel, my spirit was distressed, and the visions of my mind were alarming me.
@@ -418,6 +425,7 @@ and greatness of the kingdoms under the whole heaven<br>
 will be delivered to the people of the holy ones of the Most High.<br>
 His kingdom is an eternal kingdom;<br>
 all authorities will serve him and obey him.’<br>
+
 [28] “This is the conclusion of the matter. As for me, Daniel, my thoughts troubled me greatly, and the color drained from my face. But I kept the matter to myself.”
 
 ## Chapter 8
@@ -631,6 +639,7 @@ and others to shame and everlasting abhorrence.<br>
 like the brightness of the heavenly expanse.<br>
 And those bringing many to righteousness<br>
 will be like the stars forever and ever.<br>
+
 [4] “But you, Daniel, close up these words and seal the book until the time of the end. Many will dash about, and knowledge will increase.”
 
 [5] I, Daniel, watched as two others stood there, one on each side of the river.

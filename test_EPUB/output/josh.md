@@ -320,6 +320,7 @@
 
 “O sun, stand still over Gibeon;<br>
 O moon, over the Valley of Aijalon!”<br>
+
 [13] The sun stood still and the moon stood motionless while the nation took vengeance on its enemies. The event is recorded in the Scroll of the Upright One. The sun stood motionless in the middle of the sky and did not set for about a full day.
 [14] There has not been a day like it before or since. The **Lord** listened to a human being, for the **Lord** fought for Israel!
 [15] Then Joshua and all Israel returned to the camp at Gilgal.

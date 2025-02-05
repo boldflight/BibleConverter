@@ -6,6 +6,7 @@
 
 [1] The vision that Obadiah saw.<br>
 The Sovereign **Lord** says this concerning Edom:<br>
+
 ### Edom’s Approaching Destruction
 
 We have heard a report from the **Lord**.<br>
@@ -39,6 +40,7 @@ that will take you by surprise!<br>
 the advisers from Esau’s mountain.<br>
 [9] Your warriors will be shattered, O Teman,<br>
 so that everyone will be destroyed from Esau’s mountain!<br>
+
 ### Edom’s Treachery Against Judah
 
 [10] “Because you violently slaughtered your relatives, the people of Jacob,<br>
@@ -55,6 +57,7 @@ You should not have joined in gloating over their misfortune when they suffered 
 You should not have looted their wealth when they endured distress.<br>
 [14] You should not have stood at the fork in the road to slaughter those trying to escape.<br>
 You should not have captured their refugees when they suffered adversity.<br>
+
 ### The Coming Day of the Lord
 
 [15] “For the day of the **Lord** is approaching for all the nations!<br>

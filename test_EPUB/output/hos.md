@@ -46,6 +46,7 @@ she who conceived them has acted shamefully.<br>
 For she said, “I will seek out my lovers;<br>
 they are the ones who give me my bread and my water,<br>
 my wool, my flax, my olive oil, and my wine.<br>
+
 ### The Lord’s Discipline Will Bring Israel Back
 
 [6] “Therefore, I will soon fence her in with thorns;<br>
@@ -55,6 +56,7 @@ she will seek them, but she will not find them.<br>
 Then she will say,<br>
 ‘I will go back to my husband,<br>
 because I was better off then than I am now.’<br>
+
 ### Agricultural Fertility Withdrawn from Israel
 
 [8] “Yet until now she has refused to acknowledge that I was the one<br>
@@ -82,6 +84,7 @@ when she burned incense to the Baal idols;<br>
 she adorned herself with earrings and jewelry,<br>
 and went after her lovers,<br>
 but she forgot me!” says the **Lord**.<br>
+
 ### Future Repentance and Restoration of Israel
 
 [14] “However, in the future I will allure her;<br>
@@ -96,6 +99,7 @@ when she came up from the land of Egypt.<br>
 you will never again call me, ‘My master.’<br>
 [17] For I will remove the names of the Baal idols from your lips,<br>
 so that you will never again utter their names!<br>
+
 ### New Covenant Relationship with Repentant Israel
 
 [18] “At that time I will make a covenant for them with the wild animals,<br>
@@ -108,6 +112,7 @@ I will commit myself to you in righteousness and justice,<br>
 in steadfast love and tender compassion.<br>
 [20] I will commit myself to you in faithfulness;<br>
 then you will acknowledge the **Lord**.<br>
+
 ### Agricultural Fertility Restored to the Repentant Nation
 
 [21] “At that time, I will willingly respond,” declares the **Lord**.<br>
@@ -143,6 +148,7 @@ They resort to violence and bloodshed.<br>
 and all its inhabitants will perish.<br>
 The wild animals, the birds of the sky,<br>
 and even the fish in the sea will perish.<br>
+
 ### The Lord’s Dispute against the Sinful Priesthood
 
 [4] Do not let anyone accuse or contend against anyone else:<br>
@@ -169,6 +175,7 @@ and I will repay them for their deeds.<br>
 they will engage in prostitution, but not increase in numbers;<br>
 because they have abandoned the **Lord**<br>
 by pursuing other gods.<br>
+
 ### Judgment of Pagan Idolatry and Cultic Prostitution
 
 [11] Old and new wine<br>
@@ -188,6 +195,7 @@ nor your daughters-in-law when they commit adultery.<br>
 For the men consort with harlots,<br>
 they sacrifice with temple prostitutes.<br>
 It is true: “A people that lacks understanding will come to ruin!”<br>
+
 ### Warning to Judah: Do Not Join in Israel’s Apostasy
 
 [15] Although you, O Israel, commit adultery,<br>
@@ -200,6 +208,7 @@ Soon the **Lord** will put them out to pasture<br>
 like a lamb in a broad field.<br>
 [17] Ephraim has attached himself to idols;<br>
 Do not go near him!<br>
+
 ### The Shameful Sinners Will Be Brought to Shame
 
 [18] They consume their alcohol,<br>
@@ -229,6 +238,7 @@ and they do not acknowledge the **Lord**.<br>
 [5] The arrogance of Israel testifies against it;<br>
 Israel and Ephraim will be overthrown because of their iniquity.<br>
 Even Judah will be brought down with them.<br>
+
 ### The Futility of Sacrificial Ritual without Moral Obedience
 
 [6] Although they bring their flocks and herds<br>
@@ -238,6 +248,7 @@ he has withdrawn himself from them!<br>
 [7] They have committed treason against the **Lord**,<br>
 because they bore illegitimate children.<br>
 Soon the new moon festival will devour them and their fields.<br>
+
 ### The Prophet’s Declaration of Judgment
 
 [8] Blow the ram’s horn in Gibeah!<br>
@@ -246,12 +257,14 @@ Sound the alarm in Beth Aven;<br>
 tremble in fear, O Benjamin!<br>
 [9] Ephraim will be ruined in the day of judgment.<br>
 What I am declaring to the tribes of Israel will certainly take place!<br>
+
 ### The Oppressors of the Helpless Will Be Oppressed
 
 [10] The princes of Judah are like those who move boundary markers.<br>
 I will pour out my rage on them like a torrential flood.<br>
 [11] Ephraim will be oppressed, crushed under judgment,<br>
 because he was determined to pursue worthless idols.<br>
+
 ### The Curse of the Incurable Wound
 
 [12] I will be like a moth to Ephraim,<br>
@@ -262,6 +275,7 @@ then Ephraim turned to Assyria,<br>
 and begged its great king for help.<br>
 But he will not be able to heal you.<br>
 He cannot cure your wound!<br>
+
 ### The Lion Will Carry Israel Off Into Exile
 
 [14] I will be like a lion to Ephraim,<br>
@@ -289,6 +303,7 @@ Let us seek to know the **Lord**!<br>
 He will come to our rescue as certainly as the appearance of the dawn,<br>
 as certainly as the winter rain comes,<br>
 as certainly as the spring rain that waters the land.<br>
+
 ### Transitory Faithfulness and Imminent Judgment
 
 [4] What am I going to do with you, O Ephraim?<br>
@@ -300,6 +315,7 @@ I will certainly kill you in fulfillment of my oracles of judgment,<br>
 for my judgment will come forth like the light of the dawn.<br>
 [6] For I delight in faithfulness, not simply in sacrifice;<br>
 I delight in acknowledging God, not simply in whole burnt offerings.<br>
+
 ### Indictments Against the Cities of Israel and Judah
 
 [7] At Adam they broke the covenant;<br>
@@ -314,6 +330,7 @@ they have done heinous crimes!<br>
 there Ephraim commits prostitution with other gods,<br>
 and Israel defiles itself.<br>
 [11] I have appointed a time to reap judgment for you also, O Judah!<br>
+
 ### If Israel Would Repent of Sin, God Would Relent of Judgment
 
 Whenever I want to restore the fortunes of my people,<br>
@@ -329,6 +346,7 @@ and gangs rob people out in the streets.<br>
 that I remember all their wicked deeds.<br>
 Their evil deeds have now surrounded them;<br>
 their sinful deeds are always before me.<br>
+
 ### Political Intrigue and Conspiracy in the Palace
 
 [3] The royal advisers delight the king with their evil schemes,<br>
@@ -348,6 +366,7 @@ but in the morning it bursts into a flaming fire.<br>
 they devour their rulers.<br>
 All their kings fall,<br>
 and none of them call on me!<br>
+
 ### Israel Lacks Discernment and Refuses to Repent
 
 [8] Ephraim has mixed itself like flour among the nations;<br>
@@ -359,6 +378,7 @@ but he does not realize it.<br>
 [10] The arrogance of Israel testifies against him,<br>
 yet they refuse to return to the **Lord** their God.<br>
 In spite of all this they refuse to seek him.<br>
+
 ### Israel Turns to Assyria and Egypt for Help
 
 [11] Ephraim has been like a dove,<br>
@@ -368,6 +388,7 @@ they turned to Assyria for protection.<br>
 [12] I will throw my bird net over them while they are flying;<br>
 I will bring them down like birds in the sky;<br>
 I will discipline them when I hear them flocking together.<br>
+
 ### Israel Has Turned Away from the Lord
 
 [13] Woe to them! For they have fled from me!<br>
@@ -397,6 +418,7 @@ and have rebelled against my law.<br>
 “My God, we acknowledge you!”<br>
 [3] But Israel has rejected what is morally good;<br>
 so an enemy will pursue him.<br>
+
 ### The Political and Cultic Sin of Israel
 
 [4] They enthroned kings without my consent.<br>
@@ -409,6 +431,7 @@ They will not survive much longer without being punished,<br>
 even though they are Israelites!<br>
 [6] That idol was made by a workman—it is not God!<br>
 The calf idol of Samaria will be broken to bits.<br>
+
 ### The Fertility Cultists Will Become Infertile
 
 [7] They sow the wind,<br>
@@ -419,6 +442,7 @@ Even if it were to yield grain,<br>
 foreigners would swallow it all up.<br>
 [8] Israel will be swallowed up among the nations;<br>
 they will be like a worthless piece of pottery.<br>
+
 ### Israel’s Hired Lovers
 
 [9] They have gone up to Assyria,<br>
@@ -428,6 +452,7 @@ Ephraim has hired prostitutes as lovers.<br>
 I will soon gather them together for judgment.<br>
 Then they will begin to waste away<br>
 under the oppression of a mighty king.<br>
+
 ### Sacrifices Ineffective without Moral Obedience
 
 [11] Although Ephraim has built many altars for sin offerings,<br>
@@ -454,6 +479,7 @@ You love to receive a prostitute’s wages<br>
 on all the floors where you thresh your grain.<br>
 [2] Threshing floors and wine vats will not feed the people,<br>
 and new wine only deceives them.<br>
+
 ### Assyrian Exile Will Reverse the Egyptian Exodus
 
 [3] They will not remain in the **Lord**’s land.<br>
@@ -467,6 +493,7 @@ For their bread will be only to satisfy their appetite;<br>
 it will not come into the temple of the **Lord**.<br>
 [5] So what will you do on the festival day,<br>
 on the festival days of the **Lord**?<br>
+
 ### No Escape for the Israelites This Time
 
 [6] Look! Even if they flee from the destruction,<br>
@@ -477,6 +504,7 @@ thorn bushes will occupy their homes.<br>
 [7] The time of judgment is about to arrive!<br>
 The time of retribution is imminent!<br>
 Israel will be humbled!<br>
+
 ### Israel Rejects Hosea’s Prophetic Exhortations
 
 The prophet is considered a fool —<br>
@@ -486,6 +514,7 @@ and your intense animosity.<br>
 [8] The prophet is a watchman over Ephraim on behalf of God,<br>
 yet traps are laid for him along all his paths;<br>
 animosity rages against him in the land of his God.<br>
+
 ### The Best of Times, the Worst of Times
 
 [9] They have sunk deep into corruption<br>
@@ -496,6 +525,7 @@ He will repay them for their sins.<br>
 I viewed your ancestors like an early fig on a fig tree in its first season.<br>
 Then they came to Baal Peor and they dedicated themselves to shame—<br>
 they became as detestable as what they loved.<br>
+
 ### The Fertility Worshipers Will Become Infertile
 
 [11] Ephraim will be like a bird;<br>
@@ -541,6 +571,7 @@ they adorned the fertility pillars.<br>
 soon they will be punished for their guilt.<br>
 The **Lord** will break their altars;<br>
 he will completely destroy their fertility pillars.<br>
+
 ### The Lord Will Punish Israel by Removing Its Kings
 
 [3] Very soon they will say, “We have no king<br>
@@ -550,6 +581,7 @@ But what can a king do for us anyway?”<br>
 taking false oaths and making empty agreements.<br>
 Therefore legal disputes sprout up<br>
 like poisonous weeds in the furrows of a plowed field.<br>
+
 ### The Calf Idol and Idolaters of Samaria Will Be Exiled
 
 [5] The inhabitants of Samaria will lament over the calf idol of Beth Aven.<br>
@@ -567,6 +599,7 @@ it is the place where Israel sins.<br>
 Thorns and thistles will grow up over its altars.<br>
 Then they will say to the mountains, “Cover us!”<br>
 and to the hills, “Fall on us!”<br>
+
 ### Failure to Learn from the Sin and Judgment of Gibeah
 
 [9] O Israel, you have sinned since the time of Gibeah,<br>
@@ -575,6 +608,7 @@ Did not war overtake the evildoers in Gibeah?<br>
 [10] When I please, I will discipline them;<br>
 I will gather nations together to attack them,<br>
 to bind them in chains for their two sins.<br>
+
 ### Fertility Imagery: Plowing, Sowing, and Reaping
 
 [11] Ephraim was a well-trained heifer who loved to thresh grain;<br>
@@ -592,6 +626,7 @@ you have reaped injustice;<br>
 you have eaten the fruit of deception.<br>
 Because you have depended on your chariots;<br>
 you have relied on your many warriors.<br>
+
 ### Bethel Will Be Destroyed Like Beth Arbel
 
 [14] The roar of battle will rise against your people;<br>
@@ -628,6 +663,7 @@ it will destroy the bars of their city gates,<br>
 and will devour them in their fortresses.<br>
 [7] My people are obsessed with turning away from me;<br>
 they call to Baal, but he will never exalt them!<br>
+
 ### The Divine Dilemma: Judgment or Mercy?
 
 [8] “How can I give you up, O Ephraim?<br>
@@ -640,6 +676,7 @@ All my tender compassions are aroused.<br>
 I cannot totally destroy Ephraim!<br>
 Because I am God, and not man—the Holy One among you—<br>
 I will not come in wrath!<br>
+
 ### God Will Restore the Exiles to Israel
 
 [10] “He will roar like a lion,<br>
@@ -650,6 +687,7 @@ his children will come trembling from the west.<br>
 like birds from Egypt,<br>
 like doves from Assyria,<br>
 and I will settle them in their homes,” declares the **Lord**.<br>
+
 ### God’s Lawsuit against Israel: Breach of Covenant
 
 [12] (12:1) Ephraim has surrounded me with lies;<br>
@@ -666,6 +704,7 @@ and send olive oil as tribute to Egypt.<br>
 [2] The **Lord** also has a covenant lawsuit against Judah;<br>
 he will punish Jacob according to his ways<br>
 and repay him according to his deeds.<br>
+
 ### Israel Must Return to the God of Jacob
 
 [3] In the womb he attacked his brother;<br>
@@ -679,6 +718,7 @@ the **Lord** is the name by which he is remembered!<br>
 [6] But you must return to your God,<br>
 by maintaining love and justice<br>
 and by waiting for your God to return to you.<br>
+
 ### The Lord Refutes Israel’s False Claim of Innocence
 
 [7] The businessmen love to cheat;<br>
@@ -696,6 +736,7 @@ I spoke in parables through the prophets.”<br>
 Certainly its inhabitants will come to nothing!<br>
 Do they sacrifice bulls in Gilgal?<br>
 Surely their altars will be like stones heaped up on a plowed field!<br>
+
 ### Jacob in Aram, Israel in Egypt, and Ephraim in Trouble
 
 [12] Jacob fled to the country of Aram,<br>
@@ -723,6 +764,7 @@ There is a saying about them:<br>
 like early morning dew that evaporates,<br>
 like chaff that is blown away from a threshing floor,<br>
 like smoke that disappears through an open window.<br>
+
 ### Well-Fed Israel Will Be Fed to Wild Animals
 
 [4] But I am the **Lord** your God,<br>
@@ -740,6 +782,7 @@ like a leopard I will lurk by the path.<br>
 I will rip open their chests.<br>
 I will devour them there like a lion—<br>
 like a wild animal would tear them apart.<br>
+
 ### Israel’s King Unable to Deliver the Nation
 
 [9] I will destroy you, O Israel!<br>
@@ -750,6 +793,7 @@ Where are your rulers for whom you asked, saying,<br>
 “Give me a king and princes”?<br>
 [11] I granted you a king in my anger,<br>
 and I will take him away in my wrath!<br>
+
 ### Israel’s Punishment Will Not Be Withheld Much Longer
 
 [12] The punishment of Ephraim has been decreed;<br>
@@ -758,6 +802,7 @@ his punishment is being stored up for the future.<br>
 but the baby will lack wisdom;<br>
 when the time arrives,<br>
 he will not come out of the womb!<br>
+
 ### The Lord Will Not Relent from the Threatened Judgment
 
 [14] Will I deliver them from the power of Sheol? No, I will not!<br>
@@ -765,6 +810,7 @@ Will I redeem them from death? No, I will not!<br>
 O Death, bring on your plagues!<br>
 O Sheol, bring on your destruction!<br>
 My eyes will not show any compassion!<br>
+
 ### The Capital of the Northern Empire Will Be Destroyed
 
 [15] Even though he flourishes like a reed plant,<br>
@@ -794,6 +840,7 @@ we will not ride warhorses.<br>
 We will never again say, ‘Our gods,’<br>
 to what our own hands have made.<br>
 For only you will show compassion to Orphan Israel!”<br>
+
 ### Divine Promise to Relent from Judgment and to Restore Blessings
 
 [4] “I will heal their waywardness<br>
@@ -813,6 +860,7 @@ and his fame will be like the wine from Lebanon.<br>
 I will answer him and care for him.<br>
 I am like a luxuriant cypress tree;<br>
 your fruitfulness comes from me!”<br>
+
 ### Concluding Exhortation
 
 [9] Who is wise?<br>

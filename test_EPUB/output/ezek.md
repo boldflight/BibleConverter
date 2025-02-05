@@ -567,6 +567,7 @@ and sent its branches toward him<br>
 to be watered from the soil where it was planted.<br>
 [8] In a good field, by abundant waters, it was planted<br>
 to grow branches, bear fruit, and become a beautiful vine.’<br>
+
 [9] “Say to them: ‘This is what the Sovereign **Lord** says:
 
 “‘Will it prosper?<br>
@@ -578,6 +579,7 @@ will be needed to pull it out by its roots.<br>
 [10] Consider! It is planted, but will it prosper?<br>
 Will it not wither completely when the east wind blows on it?<br>
 Will it not wither in the soil where it sprouted?’”<br>
+
 [11] Then the **Lord**'s message came to me:
 [12] “Say to the rebellious house of Israel: ‘Don’t you know what these things mean?’ Say: ‘See here, the king of Babylon came to Jerusalem and took her king and her officials prisoner and brought them to himself in Babylon.
 [13] He took one from the royal family, made a treaty with him, and put him under oath. He then took the leaders of the land
@@ -614,6 +616,7 @@ I, the **Lord**, have spoken, and I will do it!’”<br>
 
 “‘The fathers eat sour grapes,<br>
 And the children’s teeth become numb?’<br>
+
 [3] “As surely as I live, declares the Sovereign **Lord**, you will not quote this proverb in Israel anymore!
 [4] Indeed! All lives are mine—the life of the father as well as the life of the son is mine. The one who sins will die.
 
@@ -693,6 +696,7 @@ a fire consumed them.<br>
 in a dry and thirsty land.<br>
 [14] A fire has gone out from its branch; it has consumed its shoot and its fruit.<br>
 No strong branch was left in it, nor a scepter to rule.’<br>
+
 “This is a lament song, and has become a lament song.”
 
 ## Chapter 20
@@ -781,6 +785,7 @@ No strong branch was left in it, nor a scepter to rule.’<br>
 and also polished.<br>
 [10] It is sharpened for slaughter,<br>
 it is polished to flash like lightning!<br>
+
 “‘Should we rejoice in the scepter of my son? No! The sword despises every tree!
 
 [11] “‘He gave it to be polished,<br>
@@ -792,6 +797,7 @@ for it is wielded against my people;<br>
 against all the princes of Israel.<br>
 They are delivered up to the sword, along with my people.<br>
 Therefore, strike your thigh.<br>
+
 [13] “‘For testing will come, and what will happen when the scepter, which the sword despises, is no more? declares the Sovereign **Lord**.’
 
 [14] “And you, son of man, prophesy,<br>
@@ -808,6 +814,7 @@ wherever your edge is appointed to strike.<br>
 [17] I too will clap my hands together,<br>
 I will exhaust my rage;<br>
 I the **Lord** have spoken.”<br>
+
 [18] The **Lord**'s message came to me:
 [19] “You, son of man, mark out two routes for the king of Babylon’s sword to take; both of them will originate in a single land. Make a signpost and put it at the beginning of the road leading to the city.
 [20] Mark out the routes for the sword to take: ‘Rabbah of the Ammonites’ and ‘Judah with Jerusalem in it.’
@@ -828,6 +835,7 @@ bring low the exalted!<br>
 [27] A total ruin I will make it!<br>
 Indeed, this will not be<br>
 until he comes to whom is the right, and I will give it to him.’<br>
+
 [28] “As for you, son of man, prophesy and say, ‘This is what the Sovereign **Lord** says concerning the Ammonites and their coming humiliation:
 
 “‘A sword, a sword drawn for slaughter,<br>
@@ -969,6 +977,7 @@ fill it with choice bones.<br>
 heap up wood under it;<br>
 boil rapidly,<br>
 and boil its bones in it.<br>
+
 [6] “‘Therefore this is what the Sovereign **Lord** says:
 
 Woe to the city of bloodshed,<br>
@@ -981,6 +990,7 @@ she poured it on an exposed rock;<br>
 she did not pour it on the ground to cover it up with dust.<br>
 [8] To arouse anger, to take vengeance,<br>
 I have placed her blood on an exposed rock so that it cannot be covered up.<br>
+
 [9] “‘Therefore this is what the Sovereign **Lord** says:
 
 Woe to the city of bloodshed!<br>
@@ -998,6 +1008,7 @@ Subject its rot to the fire!<br>
 I tried to cleanse you, but you are not clean.<br>
 You will not be cleansed from your uncleanness<br>
 until I have exhausted my anger on you.<br>
+
 [14] “‘I the **Lord** have spoken; judgment is coming and I will act! I will not relent, or show pity, or be sorry! I will judge you according to your conduct and your deeds, declares the Sovereign **Lord**.’”
 
 ### Ezekiel’s Wife Dies
@@ -1079,6 +1090,7 @@ O renowned city, once mighty in the sea,<br>
 she and her inhabitants, who spread their terror!<br>
 [18] Now the coastlands will tremble on the day of your fall;<br>
 the coastlands by the sea will be terrified by your passing.’<br>
+
 [19] “For this is what the Sovereign **Lord** says: When I make you desolate like the uninhabited cities, when I bring up the deep over you and the surging waters overwhelm you,
 [20] then I will bring you down to bygone people, to be with those who descend to the Pit. I will make you live in the lower parts of the earth among the primeval ruins, with those who descend to the Pit, so that you will not be inhabited or stand in the land of the living.
 [21] I will bring terrors on you, and you will be no more! Though you are sought after, you will never be found again, declares the Sovereign **Lord**.”
@@ -1111,6 +1123,7 @@ They hung shield and helmet on you; they gave you your splendor.<br>
 and the Gammadites were in your towers.<br>
 They hung their quivers on your walls all around;<br>
 they perfected your beauty.<br>
+
 [12] “‘Tarshish was your trade partner because of your abundant wealth; they exchanged silver, iron, tin, and lead for your products.
 [13] Javan, Tubal, and Meshech were your clients; they exchanged slaves and bronze items for your merchandise.
 [14] Beth Togarmah exchanged horses, chargers, and mules for your products.
@@ -1182,6 +1195,7 @@ though you are a man and not a god—<br>
 when you are in the power of those who wound you?<br>
 [10] You will die the death of the uncircumcised by the hand of foreigners;<br>
 for I have spoken, declares the Sovereign **Lord**.’”<br>
+
 [11] The **Lord**'s message came to me:
 [12] “Son of man, sing a lament for the king of Tyre, and say to him, ‘This is what the Sovereign **Lord** says:
 
@@ -1214,6 +1228,7 @@ and I turned you to ashes on the earth<br>
 before the eyes of all who saw you.<br>
 [19] All who know you among the peoples are shocked at you;<br>
 you have become terrified and will be no more.’”<br>
+
 ### A Prophecy Against Sidon
 
 [20] The **Lord**'s message came to me:
@@ -1228,6 +1243,7 @@ and reveal my sovereign power in her.<br>
 [23] I will send a plague into the city and bloodshed into its streets;<br>
 the slain will fall within it, by the sword that attacks it from every side.<br>
 Then they will know that I am the **Lord**.<br>
+
 [24] “‘No longer will Israel suffer from the sharp briers or painful thorns of all who surround and scorn them. Then they will know that I am the Sovereign **Lord**.
 
 [25] “‘This is what the Sovereign **Lord** says: When I regather the house of Israel from the peoples where they are dispersed, I will reveal my sovereign power over them in the sight of the nations, and they will live in their land that I gave to my servant Jacob.
@@ -1256,6 +1272,7 @@ I have given you as food to the beasts of the earth and the birds of the skies.<
 because they were a reed staff for the house of Israel;<br>
 [7] when they grasped you with their hand, you broke and tore their shoulders,<br>
 and when they leaned on you, you splintered and caused their legs to be unsteady.<br>
+
 [8] “‘Therefore, this is what the Sovereign **Lord** says: Look, I am about to bring a sword against you, and I will kill every person and every animal.
 [9] The land of Egypt will become a desolate ruin. Then they will know that I am the **Lord**.
 
@@ -1292,6 +1309,7 @@ and panic will overtake Ethiopia<br>
 when the slain fall in Egypt<br>
 and they carry away her wealth<br>
 and dismantle her foundations.<br>
+
 [5] Ethiopia, Put, Lud, all the foreigners, Libya, and the people of the covenant land will die by the sword along with them.
 
 
@@ -1305,6 +1323,7 @@ and their cities will be among ruined cities.<br>
 [8] They will know that I am the **Lord**<br>
 when I ignite a fire in Egypt<br>
 and all her allies are defeated.<br>
+
 [9] “‘On that day messengers will go out from me in ships to frighten overconfident Ethiopia; panic will overtake them on the day of Egypt’s doom; for beware—it is coming!
 
 
@@ -1344,6 +1363,7 @@ Her confident pride will cease within her;<br>
 a cloud will cover her, and her daughters will go into captivity.<br>
 [19] I will execute judgments on Egypt.<br>
 Then they will know that I am the **Lord**.’”<br>
+
 [20] In the eleventh year, in the first month, on the seventh day of the month, the **Lord**'s message came to me:
 [21] “Son of man, I have broken the arm of Pharaoh king of Egypt. Look, it has not been bandaged for healing or set with a dressing so that it might become strong enough to grasp a sword.
 [22] Therefore this is what the Sovereign **Lord** says: Look, I am against Pharaoh king of Egypt, and I will break his arms, the strong arm and the broken one, and I will make the sword drop from his hand.
@@ -1382,6 +1402,7 @@ the plane trees were as nothing compared to its branches;<br>
 no tree in the garden of God could rival its beauty.<br>
 [9] I made it beautiful with its many branches;<br>
 all the trees of Eden, in the garden of God, envied it.<br>
+
 [10] “‘Therefore this is what the Sovereign **Lord** says: Because it was tall in stature, and its top reached into the clouds, and it was proud of its height,
 [11] I gave it over to the leader of the nations. He has judged it thoroughly, as its sinfulness deserves. I have thrown it out.
 [12] Foreigners from the most terrifying nations have cut it down and left it to lie there on the mountains. In all the valleys its branches have fallen, and its boughs lie broken in the ravines of the land. All the peoples of the land have departed from its shade and left it.
@@ -1405,6 +1426,7 @@ but you are a monster in the seas;<br>
 you thrash about in your streams,<br>
 stir up the water with your feet,<br>
 and muddy your streams.<br>
+
 [3] “‘This is what the Sovereign **Lord** says:
 
 “‘I will throw my net over you in the assembly of many peoples;<br>
@@ -1432,6 +1454,7 @@ among countries you do not know.<br>
 and their kings will shiver with horror because of you.<br>
 When I brandish my sword before them,<br>
 every moment each one will tremble for his life, on the day of your fall.<br>
+
 [11] “‘For this is what the Sovereign **Lord** says:
 
 “‘The sword of the king of Babylon will attack you.<br>
@@ -1452,6 +1475,7 @@ then they will know that I am the **Lord**.’<br>
 The daughters of the nations will chant it.<br>
 They will chant it over Egypt and over all her hordes,<br>
 declares the Sovereign **Lord**.”<br>
+
 [17] In the twelfth year, on the fifteenth day of the month, the **Lord**'s message came to me:
 [18] “Son of man, wail over the horde of Egypt. Bring it down; bring her and the daughters of powerful nations down to the lower parts of the earth, along with those who descend to the Pit.
 [19] Say to them, ‘Whom do you surpass in beauty? Go down and be laid to rest with the uncircumcised!’
@@ -1579,6 +1603,7 @@ and turn you into a desolate ruin.<br>
 [4] I will lay waste your cities,<br>
 and you will become desolate.<br>
 Then you will know that I am the **Lord**!<br>
+
 [5] “‘You have shown unrelenting hostility and poured the people of Israel onto the blades of a sword at the time of their calamity, at the time of their final punishment.
 [6] Therefore, as surely as I live, declares the Sovereign **Lord**, I will subject you to bloodshed, and bloodshed will pursue you. Since you did not hate bloodshed, bloodshed will pursue you.
 [7] I will turn Mount Seir into a desolate ruin; I will cut off from it the one who passes through or returns.

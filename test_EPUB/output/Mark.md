@@ -12,6 +12,7 @@
 [3] **_the voice of one shouting in the wilderness,_**<br>
 ‘**_Prepare the way for the Lord,_**<br>
 **_make_** **_his_ _paths straight_.**’”<br>
+
 [4] In the wilderness John the baptizer began preaching a baptism of repentance for the forgiveness of sins.
 [5] People from the whole Judean countryside and all of Jerusalem were going out to him, and he was baptizing them in the Jordan River as they confessed their sins.
 [6] John wore a garment made of camel’s hair with a leather belt around his waist, and he ate locusts and wild honey.
@@ -189,6 +190,7 @@
 [12] so that **_although they look they may look but not see,_**<br>
 **_and although they hear they may hear but not understand,_**<br>
 _**so they may not repent and be forgiven**_.”<br>
+
 [13] He said to them, “Don’t you understand this parable? Then how will you understand any parable?
 [14] The sower sows the word.
 [15] These are the ones on the path where the word is sown: Whenever they hear, immediately Satan comes and snatches the word that was sown in them.
@@ -381,6 +383,7 @@ _**so they may not repent and be forgiven**_.”<br>
 **_but their heart_** _**is far from me**_.<br>
 [7] **_They worship me in vain,_**<br>
 _**teaching as doctrine the commandments of men**_.’<br>
+
 [14] Then he called the crowd again and said to them, “Listen to me, everyone, and understand.
 [15] There is nothing outside of a person that can defile him by going into him. Rather, it is what comes out of a person that defiles him.”
 
@@ -685,6 +688,7 @@ _**teaching as doctrine the commandments of men**_.’<br>
 
 ‘**_The stone the builders rejected has become the cornerstone_.**<br>
 [11] **_This is from the Lord, and it is marvelous in our eyes_**’?”<br>
+
 ### Paying Taxes to Caesar
 
 [13] Then they sent some of the Pharisees and Herodians to trap him with his own words.
@@ -724,6 +728,7 @@ _**teaching as doctrine the commandments of men**_.’<br>
 ‘**_The Lord said to my lord,_**<br>
 “**_Sit at my right hand,_**<br>
 _**until I put your enemies under your feet**_.”’<br>
+
 ### Warnings About Experts in the Law
 
 [38] In his teaching Jesus also said, “Watch out for the experts in the law. They like walking around in long robes and elaborate greetings in the marketplaces,
@@ -847,6 +852,7 @@ _**until I put your enemies under your feet**_.”’<br>
 
 ‘**_I will strike the shepherd,_**<br>
 _**and the sheep will be scattered**_.’<br>
+
 ### Gethsemane
 
 [32] Then they went to a place called Gethsemane, and Jesus said to his disciples, “Sit here while I pray.”

@@ -42,6 +42,7 @@
 [27] God created humankind in his own image,<br>
 in the image of God he created them,<br>
 male and female he created them.<br>
+
 [28] God blessed them and said to them, “Be fruitful and multiply! Fill the earth and subdue it! Rule over the fish of the sea and the birds of the air and every creature that moves on the ground.”
 [29] Then God said, “I now give you every seed-bearing plant on the face of the entire earth and every tree that has fruit with seed in it. They will be yours for food.
 [30] And to all the animals of the earth, and to every bird of the air, and to all the creatures that move on the ground—everything that has living breath in it—I give every green plant for food.” It was so.
@@ -86,6 +87,7 @@ male and female he created them.<br>
 and flesh of my flesh;<br>
 this one will be called ‘woman,’<br>
 for she was taken out of man.”<br>
+
 [24] That is why a man leaves his father and mother and unites with his wife, and they become one family.
 [25] The man and his wife were both naked, but they were not ashamed.
 
@@ -122,12 +124,14 @@ and dust you will eat all the days of your life.<br>
 and between your offspring and her offspring;<br>
 he will strike your head,<br>
 and you will strike his heel.”<br>
+
 [16] To the woman he said,
 
 “I will greatly increase your labor pains;<br>
 with pain you will give birth to children.<br>
 You will want to control your husband,<br>
 but he will dominate you.”<br>
+
 [17] But to Adam he said,
 
 “Because you obeyed your wife<br>
@@ -141,6 +145,7 @@ but you will eat the grain of the field.<br>
 until you return to the ground,<br>
 for out of it you were taken;<br>
 for you are dust, and to dust you will return.”<br>
+
 [20] The man named his wife Eve, because she was the mother of all the living.
 [21] The **Lord** God made garments from skin for Adam and his wife, and clothed them.
 [22] And the **Lord** God said, “Now that the man has become like one of us, knowing good and evil, he must not be allowed to stretch out his hand and take also from the tree of life and eat, and live forever.”
@@ -191,6 +196,7 @@ I have killed a man for wounding me,<br>
 a young man for hurting me.<br>
 [24] If Cain is to be avenged seven times as much,<br>
 then Lamech seventy-seven times!”<br>
+
 [25] And Adam was intimate with his wife again, and she gave birth to a son. She named him Seth, saying, “God has given me another child in place of Abel because Cain killed him.”
 [26] And a son was also born to Seth, whom he named Enosh. At that time people began to worship the **Lord**.
 
@@ -363,6 +369,7 @@ by other humans<br>
 must his blood be shed;<br>
 for in God’s image<br>
 God has made humankind.<br>
+
 [7] “But as for you, be fruitful and multiply; increase abundantly on the earth and multiply on it.”
 
 [8] God said to Noah and his sons,
@@ -394,6 +401,7 @@ God has made humankind.<br>
 “Cursed be Canaan!<br>
 The lowest of slaves<br>
 he will be to his brothers.”<br>
+
 [26] He also said,
 
 “Worthy of praise is the **Lord**, the God of Shem!<br>
@@ -401,6 +409,7 @@ May Canaan be the slave of Shem!<br>
 [27] May God enlarge Japheth’s territory and numbers!<br>
 May he live in the tents of Shem<br>
 and may Canaan be the slave of Japheth!”<br>
+
 [28] After the flood Noah lived 350 years.
 [29] The entire lifetime of Noah was 950 years, and then he died.
 
@@ -521,6 +530,7 @@ so that you will exemplify divine blessing.<br>
 [3] I will bless those who bless you,<br>
 but the one who treats you lightly I must curse,<br>
 so that all the families of the earth may receive blessing through you.”<br>
+
 [4] So Abram left, just as the **Lord** had told him to do, and Lot went with him. (Now Abram was 75 years old when he departed from Haran.)
 [5] And Abram took his wife Sarai, his nephew Lot, and all the possessions they had accumulated and the people they had acquired in Haran, and they left for the land of Canaan. They entered the land of Canaan.
 
@@ -608,6 +618,7 @@ So the relatives separated from each other.
 Creator of heaven and earth.<br>
 [20] Worthy of praise is the Most High God,<br>
 who delivered your enemies into your hand.”<br>
+
 Abram gave Melchizedek a tenth of everything.
 
 [21] Then the king of Sodom said to Abram, “Give me the people and take the possessions for yourself.”
@@ -676,6 +687,7 @@ for the **Lord** has heard your painful groans.<br>
 He will be hostile to everyone,<br>
 and everyone will be hostile to him.<br>
 He will live away from his brothers.”<br>
+
 [13] So Hagar named the **Lord** who spoke to her, “You are the God who sees me,” for she said, “Here I have seen one who sees me!”
 [14] That is why the well was called Beer Lahai Roi. (It is located between Kadesh and Bered.)
 
@@ -1066,6 +1078,7 @@ When they got up in the morning, he said, “Let me leave now so I can return to
 
 “Our sister, may you become the mother of thousands of ten thousands!<br>
 May your descendants possess the strongholds of their enemies.”<br>
+
 [61] Then Rebekah and her female servants mounted the camels and rode away with the man. So Abraham’s servant took Rebekah and left.
 
 [62] Now Isaac came from Beer Lahai Roi, for he was living in the Negev.
@@ -1121,6 +1134,7 @@ Abraham became the father of Isaac.
 and two peoples will be separated from within you.<br>
 One people will be stronger than the other,<br>
 and the older will serve the younger.”<br>
+
 [24] When the time came for Rebekah to give birth, there were twins in her womb.
 [25] The first came out reddish all over, like a hairy garment, so they named him Esau.
 [26] When his brother came out with his hand clutching Esau’s heel, they named him Jacob. Isaac was sixty years old when they were born.
@@ -1237,6 +1251,7 @@ You will be lord over your brothers,<br>
 and the sons of your mother will bow down to you.<br>
 May those who curse you be cursed,<br>
 and those who bless you be blessed.”<br>
+
 [30] Isaac had just finished blessing Jacob, and Jacob had scarcely left his father’s presence, when his brother Esau returned from the hunt.
 [31] He also prepared some tasty food and brought it to his father. Esau said to him, “My father, get up and eat some of your son’s wild game. Then you can bless me.”
 [32] His father Isaac asked, “Who are you?” “I am your firstborn son,” he replied, “Esau!”
@@ -1258,6 +1273,7 @@ but you will serve your brother.<br>
 When you grow restless,<br>
 you will tear off his yoke<br>
 from your neck.”<br>
+
 [41] So Esau hated Jacob because of the blessing his father had given to his brother. Esau said privately, “The time of mourning for my father is near; then I will kill my brother Jacob!”
 
 [42] When Rebekah heard what her older son Esau had said, she quickly summoned her younger son Jacob and told him, “Look, your brother Esau is planning to get revenge by killing you.
@@ -1645,6 +1661,7 @@ Jacob had twelve sons:
 [24] The sons of Rachel were Joseph and Benjamin.<br>
 [25] The sons of Bilhah, Rachel’s servant, were Dan and Naphtali.<br>
 [26] The sons of Zilpah, Leah’s servant, were Gad and Asher.<br>
+
 These were the sons of Jacob who were born to him in Paddan Aram.
 
 [27] So Jacob came back to his father Isaac in Mamre, to Kiriath Arba (that is, Hebron), where Abraham and Isaac had stayed.
@@ -2203,6 +2220,7 @@ The sons of Beriah were Heber and Malkiel.<br>
 [23] The son of Dan: Hushim.<br>
 [24] The sons of Naphtali: Jahziel, Guni, Jezer, and Shillem.<br>
 [25] These were the sons of Bilhah, whom Laban gave to Rachel his daughter. She bore these to Jacob, seven in all.<br>
+
 [26] All the direct descendants of Jacob who went to Egypt with him were sixty-six in number. (This number does not include the wives of Jacob’s sons.)
 [27] Counting the two sons of Joseph who were born to him in Egypt, all the people of the household of Jacob who were in Egypt numbered seventy.
 
@@ -2297,6 +2315,7 @@ bless these boys.<br>
 May my name be named in them,<br>
 and the name of my fathers Abraham and Isaac.<br>
 May they grow into a multitude on the earth.”<br>
+
 [17] When Joseph saw that his father placed his right hand on Ephraim’s head, it displeased him. So he took his father’s hand to move it from Ephraim’s head to Manasseh’s head.
 [18] Joseph said to his father, “Not so, my father, for this is the firstborn. Put your right hand on his head.”
 
@@ -2306,6 +2325,7 @@ May they grow into a multitude on the earth.”<br>
 “By you will Israel bless, saying,<br>
 ‘May God make you like Ephraim and Manasseh.’”<br>
 Thus he put Ephraim before Manasseh.<br>
+
 [21] Then Israel said to Joseph, “I am about to die, but God will be with you and will bring you back to the land of your fathers.
 [22] As one who is above your brothers, I give to you the mountain slope, which I took from the Amorites with my sword and my bow.”
 
@@ -2396,6 +2416,7 @@ and on the brow of the prince of his brothers.<br>
 [27] Benjamin is a ravenous wolf;<br>
 in the morning devouring the prey,<br>
 and in the evening dividing the plunder.”<br>
+
 [28] These are the twelve tribes of Israel. This is what their father said to them when he blessed them. He gave each of them an appropriate blessing.
 
 [29] Then he instructed them, “I am about to go to my people. Bury me with my fathers in the cave in the field of Ephron the Hittite.

@@ -656,11 +656,13 @@ the sanctuary, O Lord, that your hands have established.<br>
 [19] For the horses of Pharaoh came with his chariots and his footmen into the sea,<br>
 and the **Lord** brought back the waters of the sea on them,<br>
 but the Israelites walked on dry land in the middle of the sea.”<br>
+
 [20] Miriam the prophetess, the sister of Aaron, took a hand drum in her hand, and all the women went out after her with hand drums and with dances.
 [21] Miriam sang in response to them,
 
 “Sing to the **Lord**, for he has triumphed gloriously;<br>
 the horse and its rider he has thrown into the sea.”<br>
+
 ### The Bitter Water
 
 [22] Then Moses led Israel to journey away from the Red Sea. They went out to the wilderness of Shur, walked for three days into the wilderness, and found no water.

@@ -30,6 +30,7 @@ they have the fangs of a lioness.<br>
 they have turned my fig trees into mere splinters.<br>
 They have completely stripped off the bark and thrown it aside;<br>
 the twigs are stripped bare.<br>
+
 ### A Call to Lament
 
 [8] Wail like a young virgin clothed in sackcloth,<br>
@@ -129,6 +130,7 @@ Indeed, his warriors are innumerable;<br>
 Surely his command is carried out!<br>
 Yes, the day of the **Lord** is awesome<br>
 and very terrifying—who can survive it?<br>
+
 ### An Appeal for Repentance
 
 [12] “Yet even now,” the **Lord** says,<br>
@@ -160,6 +162,7 @@ please do not turn over your inheritance to be mocked,<br>
 to become a proverb among the nations.<br>
 Why should it be said among the peoples,<br>
 ‘Where is their God?’<br>
+
 ### The Lord’s Response
 
 [18] Then the **Lord** became zealous for his land;<br>
@@ -202,6 +205,7 @@ My people will never again be put to shame.<br>
 [27] You will be convinced that I am in the midst of Israel.<br>
 I am the **Lord** your God; there is no other.<br>
 My people will never again be put to shame.<br>
+
 ### An Outpouring of the Spirit
 
 [28] (3:1) After all of this<br>
@@ -249,6 +253,7 @@ I will repay you for what you have done!<br>
 [8] I will sell your sons and daughters to the people of Judah.<br>
 They will sell them to the Sabeans, a nation far away.<br>
 Indeed, the **Lord** has spoken.<br>
+
 ### Judgment in the Valley of Jehoshaphat
 
 [9] Proclaim this among the nations:<br>
@@ -279,6 +284,7 @@ from Jerusalem his voice bellows out.<br>
 The heavens and the earth shake.<br>
 But the **Lord** is a refuge for his people;<br>
 he is a stronghold for the citizens of Israel.<br>
+
 ### The Lord’s Presence in Zion
 
 [17] “You will be convinced that I the **Lord** am your God,<br>

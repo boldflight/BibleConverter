@@ -118,6 +118,7 @@ _**the poison of asps is under their lips**_.”<br>
 [16] _**ruin and misery are in their paths**,_<br>
 [17] _**and the way of peace they have not known**_.”<br>
 [18] “_**There is no fear of God before their eyes**_.”<br>
+
 [19] Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world may be held accountable to God.
 [20] For _no one is declared righteous before him_ by the works of the law, for through the law comes the knowledge of sin.
 [21] But now apart from the law the righteousness of God (although it is attested by the law and the prophets) has been disclosed—
@@ -147,6 +148,7 @@ _**the poison of asps is under their lips**_.”<br>
 
 [7] “**_Blessed_** **_are those whose lawless deeds are forgiven, and whose sins are covered;_**<br>
 [8] **_blessed is the one_** **_against whom the Lord will never count_** _**sin**_.”<br>
+
 [9] Is this blessedness then for the circumcision or also for the uncircumcision? For we say, “_faith **was credited to** Abraham **as** **righteousness**_.”
 [10] How then was it credited to him? Was he circumcised at the time, or not? No, he was not circumcised but uncircumcised!
 [11] And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised, so that he would become the father of all those who believe but have never been circumcised, that they too could have righteousness credited to them.
@@ -351,6 +353,7 @@ _**the poison of asps is under their lips**_.”<br>
 “_**I will call those who were not my people**_, ‘_**My people**_,’ **_and I will call her who was unloved,_** ‘_**My beloved**_.’”<br>
 [26] “**_And in the very place_** _**where it was said to them**_, ‘_**You are not my people**_,’<br>
 **_there they will be called_** ‘_**sons of the living God**_.’”<br>
+
 [27] And Isaiah cries out on behalf of Israel, “_Though the number of the children_ _of Israel are as the sand of the sea_, _only the remnant will be saved_,
 [28] _for_ _the Lord will execute his sentence on the earth completely and quickly_.”
 [29] Just as Isaiah predicted,
@@ -358,6 +361,7 @@ _**the poison of asps is under their lips**_.”<br>
 “If the Lord of Heaven’s Armies had not left us descendants,<br>
 we would have become like Sodom,<br>
 and we would have resembled Gomorrah.”<br>
+
 ### Israel’s Rejection Culpable
 
 [30] What shall we say then?—that the Gentiles who did not pursue righteousness obtained it, that is, a righteousness that is by faith,
@@ -412,12 +416,14 @@ and we would have resembled Gomorrah.”<br>
 “_**God gave them a spirit of stupor**,_<br>
 _**eyes that would not see and ears that would not hear**_,<br>
 **_to this very day_.**”<br>
+
 [9] And David says,
 
 “_**Let their table become a snare and trap**,_<br>
 _**a stumbling block and a retribution for them**;_<br>
 [10] **_let their eyes be darkened so that they may not see,_**<br>
 **_and make their backs bend continually_.**”<br>
+
 [11] I ask then, they did not stumble into an irrevocable fall, did they? Absolutely not! But by their transgression salvation has come to the Gentiles, to make Israel jealous.
 [12] Now if their transgression means riches for the world and their defeat means riches for the Gentiles, how much more will their full restoration bring?
 
@@ -442,6 +448,7 @@ _**a stumbling block and a retribution for them**;_<br>
 _**he will remove ungodliness from Jacob**_.<br>
 [27] _**And this is my covenant with them**,_<br>
 **_when I take away their sins_.**”<br>
+
 [28] In regard to the gospel they are enemies for your sake, but in regard to election they are dearly loved for the sake of the fathers.
 [29] For the gifts and the call of God are irrevocable.
 [30] Just as you were formerly disobedient to God, but have now received mercy due to their disobedience,
@@ -454,6 +461,7 @@ _**he will remove ungodliness from Jacob**_.<br>
 **_or who has been his counselor?_**<br>
 [35] _**Or who has first given to God**,_<br>
 **_that God_** **_needs to repay him?_**<br>
+
 [36] For from him and through him and to him are all things. To him be glory forever! Amen.
 
 ## Chapter 12

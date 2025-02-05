@@ -20,6 +20,7 @@
 **_and a righteous scepter_** _**is the scepter of your kingdom**_.<br>
 [9] _**You have loved righteousness and hated lawlessness**_.<br>
 _**So God, your God, has anointed you over your companions**_ _**with the oil of rejoicing**_.”<br>
+
 [10] And,
 
 “_**You founded the earth in the beginning, Lord**,_<br>
@@ -29,6 +30,7 @@ _**And they will all grow old like a garment**_,<br>
 [12] **_and like a robe you will fold them up_**<br>
 **_and_** like a garment **_they will be changed,_**<br>
 _**but you are the same and your years will never run out**_.”<br>
+
 [13] But to which of the angels has he ever said, “**_Sit at my right hand until I make your enemies a footstool for your feet_**”?
 [14] Are they not all ministering spirits, sent out to serve those who will inherit salvation?
 
@@ -50,6 +52,7 @@ _**but you are the same and your years will never run out**_.”<br>
 [7] _**You made him lower than the angels for a little while**_.<br>
 _**You crowned him with glory and honor**_.<br>
 [8] _**You put all things under his control**_.”<br>
+
 For when he **_put_** **_all things under his control_**, he left nothing outside of his control. At present we do not yet see **_all things under his control_**,
 [9] but we see Jesus, who was made **_lower than the angels for a little while_**, now crowned with glory and honor because he suffered death, so that by God’s grace he would experience death on behalf of everyone.
 [10] For it was fitting for him, for whom and through whom all things exist, in bringing many sons to glory, to make the pioneer of their salvation perfect through sufferings.
@@ -82,6 +85,7 @@ For when he **_put_** **_all things under his control_**, he left nothing outsid
 [9] “_**There your fathers tested me and tried me**,_ _**and they saw my works for forty years**_.<br>
 [10] “_**Therefore, I became provoked at that generation and said**_, ‘**_Their hearts are always wandering_** _**and they have not known my ways**_.’<br>
 [11] “_**As I swore in my anger**_, ‘**_They will never enter my rest!_**’”<br>
+
 [12] See to it, brothers and sisters, that none of you has an evil, unbelieving heart that forsakes the living God.
 [13] But exhort one another each day, as long as it is called “Today,” that none of you may become hardened by sin’s deception.
 [14] For we have become partners with Christ, if in fact we hold our initial confidence firm until the end.
@@ -214,6 +218,7 @@ For when he **_put_** **_all things under his control_**, he left nothing outsid
 [10] “_**For this is the covenant that I will establish with the house of Israel after those days, says the Lord**. **I will put**_ **_my_ _laws in their minds_** _**and I will inscribe them on their hearts**. **And I will be their God and they will be my people**_.<br>
 [11] “**_And there will be no need at all_** _**for each one to teach his countryman or each one to teach his brother saying**_, ‘_**Know the Lord**,_’ _**since they will all know me, from the least to the greatest**_.<br>
 [12] “_**For I will be merciful toward their evil deeds, and their sins I will remember no longer**_.”<br>
+
 [13] When he speaks of a new covenant, he makes the first obsolete. Now what is growing obsolete and aging is about to disappear.
 
 ## Chapter 9
@@ -266,6 +271,7 @@ For when he **_put_** **_all things under his control_**, he left nothing outsid
 “_**Sacrifice and offering you did not desire, but a body you prepared for me**_.<br>
 [6] “_**Whole burnt offerings and sin-offerings you took no delight in**_.<br>
 [7] “_**Then I said**_, ‘**_Here I am:_** _**I have come—it is written of me in the scroll of the book—to do your will, O God**_.’”<br>
+
 [8] When he says above, “**_Sacrifices and offerings_** and **_whole burnt offerings and sin-offerings you did not desire nor did you take delight_** in them” (which are offered according to the law),
 [9] then he says, “**_Here I am: I have come to do your will_**.” He does away with the first to establish the second.
 [10] By his will we have been made holy through the offering of the body of Jesus Christ once for all.
@@ -365,6 +371,7 @@ For when he **_put_** **_all things under his control_**, he left nothing outsid
 “_**My son, do not scorn**_ **_the Lord’s discipline_**<br>
 **_or give up when he corrects_** _**you**_.<br>
 [6] “_**For the Lord disciplines the one he loves and chastises every son he accepts**_.”<br>
+
 [7] Endure your suffering as discipline; God is treating you as sons. For what son is there that a father does not discipline?
 [8] But if you do not experience discipline, something all sons have shared in, then you are illegitimate and are not sons.
 [9] Besides, we have experienced discipline from our earthly fathers and we respected them; shall we not submit ourselves all the more to the Father of spirits and receive life?

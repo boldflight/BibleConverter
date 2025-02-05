@@ -18,6 +18,7 @@ conflict is present and one must endure strife.<br>
 and justice is never carried out.<br>
 Indeed, the wicked intimidate the innocent.<br>
 For this reason justice is perverted.<br>
+
 ### The Lord’s Surprising Answer
 
 [5] “Look at the nations and pay attention!<br>
@@ -44,6 +45,7 @@ They laugh at every fortified city;<br>
 they build siege ramps and capture them.<br>
 [11] They sweep by like the wind and pass on.<br>
 But the one who considers himself a god will be held guilty.”<br>
+
 ### Habakkuk Voices Some Concerns
 
 [12] **Lord**, you have been active from ancient times;<br>
@@ -74,6 +76,7 @@ I will remain stationed on the city wall.<br>
 I will keep watching so I can see what he says to me<br>
 and can know how I should answer<br>
 when he counters my argument.<br>
+
 ### The Lord Assures Habakkuk
 
 [2] The **Lord** responded:
@@ -92,6 +95,7 @@ His appetite is as big as Sheol’s;<br>
 like death, he is never satisfied.<br>
 He gathers all the nations;<br>
 he seizes all peoples.<br>
+
 ### The Proud Babylonians Are as Good as Dead
 
 [6] “But all these nations will someday taunt him<br>
@@ -201,6 +205,7 @@ They storm forward to scatter us;<br>
 they shout with joy as if they were plundering the poor with no opposition.<br>
 [15] But you trample on the sea with your horses,<br>
 on the surging, raging waters.<br>
+
 ### Habakkuk Declares His Confidence
 
 [16] I listened and my stomach churned;<br>
@@ -220,5 +225,6 @@ I will be happy because of the God who delivers me!<br>
 [19] The Sovereign **Lord** is my source of strength.<br>
 He gives me the agility of a deer;<br>
 he enables me to negotiate the rugged terrain.<br>
+
 (This prayer is for the song leader. It is to be accompanied by stringed instruments.)
 

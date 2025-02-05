@@ -162,6 +162,7 @@
 “Awake, O sleeper!<br>
 Rise from the dead,<br>
 and Christ will shine on you!”<br>
+
 ### Live Wisely
 
 [15] Therefore consider carefully how you live—not as unwise but as wise,

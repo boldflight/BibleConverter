@@ -98,6 +98,7 @@
 _**he must seek peace and pursue it**_.<br>
 [12] **_For the eyes of the Lord are_** _**upon the righteous and his ears are open to their prayer**_.<br>
 _**But the Lord’s face is against those who do evil**_.<br>
+
 [13] For who is going to harm you if you are devoted to what is good?
 [14] But in fact, if you happen to suffer for doing what is right, you are blessed. **_But_** **_do not be terrified of them_** _**or**_ _**be shaken**_.
 [15] But set Christ apart as Lord in your hearts and always be ready to give an answer to anyone who asks about the hope you possess.
@@ -110,6 +111,7 @@ to bring you to God,<br>
 by being put to death in the flesh<br>
 but by being made alive in the spirit.<br>
 [19] In it he went and preached to the spirits in prison,<br>
+
 [20] after they were disobedient long ago when God patiently waited in the days of Noah as an ark was being constructed. In the ark a few, that is eight souls, were delivered through water.
 [21] And this prefigured baptism, which now saves you —not the washing off of physical dirt but the pledge of a good conscience to God—through the resurrection of Jesus Christ,
 [22] who went into heaven and is at the right hand of God with angels and authorities and powers subject to him.

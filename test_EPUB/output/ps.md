@@ -4809,6 +4809,7 @@ if I were focused on all your commands.<br>
 when I learn your just regulations.<br>
 [8] I will keep your statutes.<br>
 Do not completely abandon me.<br>
+
 #### ב (Bet)
 
 [9] How can a young person maintain a pure life?<br>
@@ -4827,6 +4828,7 @@ as if they were riches of all kinds.<br>
 and focus on your behavior.<br>
 [16] I find delight in your statutes;<br>
 I do not forget your instructions.<br>
+
 #### ג (Gimel)
 
 [17] Be kind to your servant.<br>
@@ -4845,6 +4847,7 @@ for I observe your rules.<br>
 your servant meditates on your statutes.<br>
 [24] Yes, I find delight in your rules;<br>
 they give me guidance.<br>
+
 #### ד (Dalet)
 
 [25] I collapse in the dirt.<br>
@@ -4863,6 +4866,7 @@ I am committed to your regulations.<br>
 O **Lord**, do not let me be ashamed.<br>
 [32] I run along the path of your commands,<br>
 for you enable me to do so.<br>
+
 #### ה (He)
 
 [33] Teach me, O **Lord**, the lifestyle prescribed by your statutes,<br>
@@ -4881,6 +4885,7 @@ which you made to the one who honors you.<br>
 Indeed, your regulations are good.<br>
 [40] Look, I long for your precepts.<br>
 Revive me with your deliverance.<br>
+
 #### ו (Vav)
 
 [41] May I experience your loyal love, O **Lord**,<br>
@@ -4900,6 +4905,7 @@ which I love.<br>
 [48] I will lift my hands to your commands,<br>
 which I love,<br>
 and I will meditate on your statutes.<br>
+
 #### ז (Zayin)
 
 [49] Remember your word to your servant,<br>
@@ -4918,6 +4924,7 @@ in the house where I live.<br>
 and I will keep your law.<br>
 [56] This has been my practice,<br>
 for I observe your precepts.<br>
+
 #### ח (Khet)
 
 [57] The **Lord** is my source of security.<br>
@@ -4936,6 +4943,7 @@ for your just regulations.<br>
 and to those who keep your precepts.<br>
 [64] O **Lord**, your loyal love fills the earth.<br>
 Teach me your statutes!<br>
+
 #### ט (Tet)
 
 [65] You are good to your servant,<br>
@@ -4954,6 +4962,7 @@ but I find delight in your law.<br>
 so that I might learn your statutes.<br>
 [72] The law you have revealed is more important to me<br>
 than thousands of pieces of gold and silver.<br>
+
 #### י (Yod)
 
 [73] Your hands made me and formed me.<br>
@@ -4972,6 +4981,7 @@ But I meditate on your precepts.<br>
 those who know your rules.<br>
 [80] May I be fully committed to your statutes,<br>
 so that I might not be ashamed.<br>
+
 #### כ (Kaf)
 
 [81] I desperately long for your deliverance.<br>
@@ -4990,6 +5000,7 @@ I am pursued without reason. Help me!<br>
 but I do not reject your precepts.<br>
 [88] Revive me with your loyal love,<br>
 that I might keep the rules you have revealed.<br>
+
 #### ל (Lamed)
 
 [89] O **Lord**, your instructions endure;<br>
@@ -5008,6 +5019,7 @@ For I seek your precepts.<br>
 yet I concentrate on your rules.<br>
 [96] I realize that everything has its limits,<br>
 but your commands are beyond full comprehension.<br>
+
 #### מ (Mem)
 
 [97] O how I love your law!<br>
@@ -5026,6 +5038,7 @@ for you teach me.<br>
 in my mouth than honey!<br>
 [104] Your precepts give me discernment.<br>
 Therefore I hate all deceitful actions.<br>
+
 #### נ (Nun)
 
 [105] Your word is a lamp to walk by,<br>
@@ -5044,6 +5057,7 @@ but I do not wander from your precepts.<br>
 for they give me joy.<br>
 [112] I am determined to obey your statutes<br>
 at all times, to the very end.<br>
+
 #### ס (Samek)
 
 [113] I hate people with divided loyalties,<br>
@@ -5062,6 +5076,7 @@ for such people are deceptive and unreliable.<br>
 Therefore I love your rules.<br>
 [120] My body trembles because I fear you;<br>
 I am afraid of your judgments.<br>
+
 #### ע (Ayin)
 
 [121] I do what is fair and right.<br>
@@ -5080,6 +5095,7 @@ they break your law.<br>
 more than gold, even purest gold.<br>
 [128] For this reason I carefully follow all your precepts.<br>
 I hate all deceitful actions.<br>
+
 #### פ (Pe)
 
 [129] Your rules are marvelous.<br>
@@ -5098,6 +5114,7 @@ so that I can keep your precepts.<br>
 Teach me your statutes!<br>
 [136] Tears stream down from my eyes,<br>
 because people do not keep your law.<br>
+
 #### צ (Tsade)
 
 [137] You are just, O **Lord**,<br>
@@ -5116,6 +5133,7 @@ and your law is reliable.<br>
 yet I find delight in your commands.<br>
 [144] Your rules remain just.<br>
 Give me insight so that I can live.<br>
+
 #### ק (Qof)
 
 [145] I cried out with all my heart, “Answer me, O **Lord**!<br>
@@ -5134,6 +5152,7 @@ they are far from your law.<br>
 and all your commands are reliable.<br>
 [152] I learned long ago that<br>
 you ordained your rules to last.<br>
+
 #### ר (Resh)
 
 [153] See my pain and rescue me.<br>
@@ -5152,6 +5171,7 @@ because they do not keep your instructions.<br>
 O **Lord**, revive me with your loyal love.<br>
 [160] Your instructions are totally reliable;<br>
 all your just regulations endure.<br>
+
 #### שׂ/שׁ (Sin/Shin)
 
 [161] Rulers pursue me for no reason,<br>
@@ -5170,6 +5190,7 @@ and I obey your commands.<br>
 I love them greatly.<br>
 [168] I keep your precepts and rules,<br>
 for you are aware of everything I do.<br>
+
 #### ת (Tav)
 
 [169] Listen to my cry for help, O **Lord**.<br>

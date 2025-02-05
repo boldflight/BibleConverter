@@ -79,6 +79,7 @@ For from now on all generations will call me blessed,<br>
 [53] he has filled the hungry with good things, and has sent the rich away empty.<br>
 [54] He has helped his servant Israel, remembering his mercy,<br>
 [55] as he promised to our ancestors, to Abraham and to his descendants forever.”<br>
+
 [56] So Mary stayed with Elizabeth about three months and then returned to her home.
 
 ### The Birth of John
@@ -119,6 +120,7 @@ For you will go before the Lord to prepare his ways,<br>
 the dawn will break upon us from on high<br>
 [79] to give light to those who sit in darkness and in the shadow of death,<br>
 to guide our feet into the way of peace.”<br>
+
 [80] And the child kept growing and becoming strong in spirit, and he was in the wilderness until the day he was revealed to Israel.
 
 ## Chapter 2
@@ -144,6 +146,7 @@ to guide our feet into the way of peace.”<br>
 
 [14] “Glory to God in the highest,<br>
 and on earth peace among people with whom he is pleased!”<br>
+
 [15] When the angels left them and went back to heaven, the shepherds said to one another, “Let us go over to Bethlehem and see this thing that has taken place, that the Lord has made known to us.”
 [16] So they hurried off and located Mary and Joseph, and found the baby lying in a manger.
 [17] When they saw him, they related what they had been told about this child,
@@ -172,6 +175,7 @@ and on earth peace among people with whom he is pleased!”<br>
 [32] a light,<br>
 for revelation to the Gentiles,<br>
 and for glory to your people Israel.”<br>
+
 [33] So the child’s father and mother were amazed at what was said about him.
 [34] Then Simeon blessed them and said to his mother Mary, “Listen carefully: This child is destined to be the cause of the falling and rising of many in Israel and to be a sign that will be rejected.
 [35] Indeed, as a result of him the thoughts of many hearts will be revealed —and a sword will pierce your own soul as well!”
@@ -219,6 +223,7 @@ and for glory to your people Israel.”<br>
 **_and the crooked will be made straight,_**<br>
 **_and the rough ways will be made smooth,_**<br>
 [6] _**and all humanity**_ **_will see the salvation of God.’”_**<br>
+
 [7] So John said to the crowds that came out to be baptized by him, “You offspring of vipers! Who warned you to flee from the coming wrath?
 [8] Therefore produce fruit that proves your repentance, and don’t begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you that God can raise up children for Abraham from these stones!
 [9] Even now the ax is laid at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.”
@@ -297,6 +302,7 @@ and for glory to your people Israel.”<br>
 **_and the regaining of sight_** **_to the blind,_**<br>
 **_to set free_** **_those who are oppressed,_**<br>
 [19] **_to proclaim the year_** **_of the Lord’s favor_**.”<br>
+
 [20] Then he rolled up the scroll, gave it back to the attendant, and sat down. The eyes of everyone in the synagogue were fixed on him.
 [21] Then he began to tell them, “Today this scripture has been fulfilled even as you heard it being read.”
 [22] All were speaking well of him, and were amazed at the gracious words coming out of his mouth. They said, “Isn’t this Joseph’s son?”
@@ -431,6 +437,7 @@ and for glory to your people Israel.”<br>
 [25] “Woe to you who are well satisfied with food now, for you will be hungry.<br>
 “Woe to you who laugh now, for you will mourn and weep.<br>
 [26] “Woe to you when all people speak well of you, for their ancestors did the same things to the false prophets.<br>
+
 [27] “But I say to you who are listening: Love your enemies, do good to those who hate you,
 [28] bless those who curse you, pray for those who mistreat you.
 [29] To the person who strikes you on the cheek, offer the other as well, and from the person who takes away your coat, do not withhold your tunic either.
@@ -510,6 +517,7 @@ and for glory to your people Israel.”<br>
 
 ‘We played the flute for you, yet you did not dance;<br>
 we wailed in mourning, yet you did not weep.’<br>
+
 ### Jesus’ Anointing
 
 [36] Now one of the Pharisees asked Jesus to have dinner with him, so he went into the Pharisee’s house and took his place at the table.
@@ -786,6 +794,7 @@ may your kingdom come.<br>
 [4] and forgive us our sins,<br>
 for we also forgive everyone who sins against us.<br>
 And do not lead us into temptation.”<br>
+
 [5] Then he said to them, “Suppose one of you has a friend, and you go to him at midnight and say to him, ‘Friend, lend me three loaves of bread,
 [6] because a friend of mine has stopped here while on a journey, and I have nothing to set before him.’
 [7] Then he will reply from inside, ‘Do not bother me. The door is already shut, and my children and I are in bed. I cannot get up and give you anything.’
@@ -1384,6 +1393,7 @@ And do not lead us into temptation.”<br>
 ‘**_The Lord said to my_** **_lord,_**<br>
 “**_Sit at my right hand,_**<br>
 [43] _**until I make your enemies a footstool for your feet**_.”’<br>
+
 ### Jesus Warns the Disciples against Pride
 
 [45] As all the people were listening, Jesus said to his disciples,

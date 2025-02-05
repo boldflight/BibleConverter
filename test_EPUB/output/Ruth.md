@@ -34,6 +34,7 @@ and your God will become my God.<br>
 [17] Wherever you die, I will die—and there I will be buried.<br>
 May the **Lord** punish me severely if I do not keep my promise!<br>
 Only death will be able to separate me from you!”<br>
+
 [18] When Naomi realized that Ruth was determined to go with her, she stopped trying to dissuade her.
 [19] So the two of them journeyed together until they arrived in Bethlehem.
 

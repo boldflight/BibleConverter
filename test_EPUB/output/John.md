@@ -825,6 +825,7 @@ Then they said to Jesus, “We were not born as a result of immorality! We have 
 **_so that they would not see with their eyes_**<br>
 **_and understand with their heart,_**<br>
 **_and turn to me,_** _**and I would heal them**_.”<br>
+
 [42] Nevertheless, even among the rulers many believed in him, but because of the Pharisees they would not confess Jesus to be the Christ, so that they would not be put out of the synagogue.
 [43] For they loved praise from men more than praise from God.
 

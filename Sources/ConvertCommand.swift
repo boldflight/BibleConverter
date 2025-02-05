@@ -238,7 +238,7 @@ struct ConvertCommand: ParsableCommand {
             
             let elements = try document.select("p.paragraphtitle, p.bodytext, p.poetrybreak, p.poetry, p.otpoetry, p.sosspeaker, p.lamhebrew")
             
-            for element in elements {
+            for (i, element) in elements.enumerated() {
                 let className = try element.className()
                 
                 switch className {
@@ -249,7 +249,8 @@ struct ConvertCommand: ParsableCommand {
                 case "lamhebrew":
                     markdown += "#### \(try element.text())\n\n"
                 case "poetry", "otpoetry", "poetrybreak":
-                    markdown += try processPoetryElement(element)
+                    let nextElement = (i + 1 < elements.count) ? elements[i + 1] : nil
+                    markdown += try processPoetryElement(element, nextElement: nextElement)
                 case "bodytext":
                     markdown += try processBodyTextElement(element)
                 default:
@@ -265,7 +266,7 @@ struct ConvertCommand: ParsableCommand {
         return (bookName, markdown)
     }
 
-    private func processPoetryElement(_ element: Element) throws -> String {
+    private func processPoetryElement(_ element: Element, nextElement: Element?) throws -> String {
         var poetryMarkdown = ""
         if try element.className() == "poetrybreak" {
             poetryMarkdown += "\n"
@@ -274,6 +275,14 @@ struct ConvertCommand: ParsableCommand {
         let processedText = try processElementRecursively(element)
         poetryMarkdown += processedText.split(separator: "\n").map { $0 + "<br>" }.joined(separator: "\n")
         poetryMarkdown += "\n"
+        
+        if let nextElement {
+            let nextClass = try nextElement.className()
+            if nextClass != "poetry" && nextClass != "otpoetry" && nextClass != "poetrybreak" {
+                // if next class is not poetry, the poetry block is over, and we need an extra new line break to have a proper paragraph break
+                poetryMarkdown += "\n"
+            }
+        }
         
         return poetryMarkdown
     }

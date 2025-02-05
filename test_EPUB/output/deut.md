@@ -1353,6 +1353,7 @@ along with the fat of lambs,<br>
 rams and goats of Bashan,<br>
 along with the best of the kernels of wheat;<br>
 and from the juice of grapes you drank wine.<br>
+
 ### Israel’s Rebellion
 
 [15] But Jeshurun became fat and kicked;<br>
@@ -1367,6 +1368,7 @@ to new gods who had recently come along,<br>
 gods your ancestors had not known about.<br>
 [18] You forgot the Rock who fathered you,<br>
 and put out of mind the God who gave you birth.<br>
+
 ### A Word of Judgment
 
 [19] But the **Lord** took note and despised them<br>
@@ -1393,6 +1395,7 @@ along with the poison of creatures that crawl in the dust.<br>
 and terror will do so inside;<br>
 they will destroy both the young man and the virgin,<br>
 the infant and the gray-haired man.<br>
+
 ### The Weakness of Other Gods
 
 [26] “I said, ‘I want to cut them in pieces.<br>
@@ -1433,6 +1436,7 @@ the rock in whom they sought security,<br>
 and drank the wine of their drink offerings?<br>
 Let them rise and help you;<br>
 let them be your refuge!<br>
+
 ### The Vindication of the Lord
 
 [39] “See now that I, indeed I, am he!” says the **Lord**,<br>
@@ -1454,6 +1458,7 @@ the chief of the enemy’s leaders.’”<br>
 for he will avenge his servants’ blood;<br>
 he will take vengeance against his enemies,<br>
 and make atonement for his land and people.<br>
+
 ### Narrative Interlude
 
 [44] Then Moses went with Joshua son of Nun and recited all the words of this song to the people.
@@ -1492,10 +1497,12 @@ an inheritance for the assembly of Jacob.<br>
 [5] The **Lord** was king over Jeshurun,<br>
 when the leaders of the people assembled,<br>
 the tribes of Israel together.<br>
+
 ### Blessing on Reuben
 
 [6] “May Reuben live and not die,<br>
 and may his people multiply.”<br>
+
 ### Blessing on Judah
 
 [7] And this is the blessing to Judah. He said,<br>
@@ -1503,6 +1510,7 @@ and may his people multiply.”<br>
 and bring him to his people.<br>
 May his power be great,<br>
 and may you help him against his foes.”<br>
+
 ### Blessing on Levi
 
 [8] Of Levi he said:<br>
@@ -1522,12 +1530,14 @@ and a whole offering on your altar.<br>
 and be pleased with his efforts;<br>
 undercut the legs of any who attack him,<br>
 and of those who hate him, so that they cannot stand.”<br>
+
 ### Blessing on Benjamin
 
 [12] Of Benjamin he said:<br>
 “The beloved of the **Lord** will live safely by him;<br>
 he protects him all the time,<br>
 and the **Lord** places him on his chest.”<br>
+
 ### Blessing on Joseph
 
 [13] Of Joseph he said:<br>
@@ -1548,6 +1558,7 @@ with them may he gore all peoples,<br>
 all the far reaches of the earth.<br>
 They are the ten thousands of Ephraim,<br>
 and they are the thousands of Manasseh.”<br>
+
 ### Blessing on Zebulun and Issachar
 
 [18] Of Zebulun he said:<br>
@@ -1557,6 +1568,7 @@ and Issachar, when you are in your tents.<br>
 there they will sacrifice proper sacrifices;<br>
 for they will enjoy the abundance of the seas,<br>
 and the hidden treasures of the shores.”<br>
+
 ### Blessing on Gad
 
 [20] Of Gad he said:<br>
@@ -1568,17 +1580,20 @@ for the portion of the ruler is set aside there;<br>
 he came with the leaders of the people,<br>
 he obeyed the righteous laws of the **Lord**<br>
 and his ordinances with Israel.”<br>
+
 ### Blessing on Dan
 
 [22] Of Dan he said:<br>
 “Dan is a lion’s cub;<br>
 he will leap forth from Bashan.”<br>
+
 ### Blessing on Naphtali
 
 [23] Of Naphtali he said:<br>
 “O Naphtali, overflowing with favor,<br>
 and full of the **Lord**’s blessing,<br>
 possess the west and south.”<br>
+
 ### Blessing on Asher
 
 [24] Of Asher he said:<br>
@@ -1587,6 +1602,7 @@ may he be favored by his brothers,<br>
 and may he dip his foot in olive oil.<br>
 [25] The bars of your gates will be made of iron and bronze,<br>
 and may you have lifelong strength.”<br>
+
 ### General Praise and Blessing
 
 [26] “There is no one like God, O Jeshurun,<br>

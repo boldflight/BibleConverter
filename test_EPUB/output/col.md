@@ -33,6 +33,7 @@
 [18] He is the head of the body, the church, as well as the beginning, the firstborn from the dead, so that he himself may become first in all things.<br>
 [19] For God was pleased to have all his fullness dwell in the Son<br>
 [20] and through him to reconcile all things to himself by making peace through the blood of his cross—through him, whether things on earth or things in heaven.<br>
+
 ### Paul’s Goal in Ministry
 
 [21] And you were at one time strangers and enemies in your minds as expressed through your evil deeds,

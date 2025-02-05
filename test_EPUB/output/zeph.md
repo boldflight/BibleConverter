@@ -77,6 +77,7 @@ before the day of the **Lord**’s angry judgment overtakes you!<br>
 [3] Seek the **Lord**’s favor, all you humble people of the land who have obeyed his commands!<br>
 Strive to do what is right! Strive to be humble!<br>
 Maybe you will be protected on the day of the **Lord**’s angry judgment.<br>
+
 ### Judgment on Surrounding Nations
 
 [4] Indeed, Gaza will be deserted<br>
@@ -147,6 +148,7 @@ he commits no unjust acts.<br>
 Every morning he reveals his justice.<br>
 At dawn he appears without fail.<br>
 Yet the unjust know no shame.<br>
+
 ### The Lord’s Judgment will Purify
 
 [6] “I destroyed nations;<br>

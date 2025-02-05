@@ -51,6 +51,7 @@ David was the father of Solomon (by the wife of Uriah),
 [6] ‘_**And you, Bethlehem,** in the land of Judah,_<br>
 **_are in no way least among the rulers of Judah,_**<br>
 _**for out of you will come a ruler who will shepherd my people Israel**_.’”<br>
+
 [7] Then Herod privately summoned the wise men and determined from them when the star had appeared.
 [8] He sent them to Bethlehem and said, “Go and look carefully for the child. When you find him, inform me so that I can go and worship him as well.”
 [9] After listening to the king they left, and once again the star they saw when it rose led them until it stopped above the place where the child was.
@@ -71,6 +72,7 @@ _**for out of you will come a ruler who will shepherd my people Israel**_.’”
 **_weeping and loud wailing,_**<br>
 **_Rachel weeping for her children,_**<br>
 **_and she did not want to be comforted, because they were_** _**gone**_.”<br>
+
 ### The Return to Nazareth
 
 [19] After Herod had died, an angel of the Lord appeared in a dream to Joseph in Egypt
@@ -89,6 +91,7 @@ _**for out of you will come a ruler who will shepherd my people Israel**_.’”
 
 “**_The voice_** **_of one shouting in the wilderness,_**<br>
 ‘**_Prepare the way for the Lord, make_** _**his paths straight**_.’”<br>
+
 [4] Now John wore clothing made from camel’s hair with a leather belt around his waist, and his diet consisted of locusts and wild honey.
 [5] Then people from Jerusalem, as well as all Judea and all the region around the Jordan, were going out to him,
 [6] and he was baptizing them in the Jordan River as they confessed their sins.
@@ -135,6 +138,7 @@ _**for out of you will come a ruler who will shepherd my people Israel**_.’”
 **_the way_** **_by the sea, beyond the Jordan, Galilee of the Gentiles—_**<br>
 [16] **_the people who sit in darkness have seen a great light,_**<br>
 _**and on those who sit in the region and shadow of death a light has dawned**_.”<br>
+
 [17] From that time Jesus began to preach this message: “Repent, for the kingdom of heaven is near!”
 
 ### The Call of the Disciples
@@ -168,6 +172,7 @@ _**and on those who sit in the region and shadow of death a light has dawned**_.
 [10] “Blessed are those who are persecuted for righteousness, for the kingdom of heaven belongs to them.<br>
 [11] “Blessed are you when people insult you and persecute you and say all kinds of evil things about you falsely on account of me.<br>
 [12] Rejoice and be glad, because your reward is great in heaven, for they persecuted the prophets before you in the same way.<br>
+
 ### Salt and Light
 
 [13] “You are the salt of the earth. But if salt loses its flavor, how can it be made salty again? It is no longer good for anything except to be thrown out and trampled on by people!
@@ -251,6 +256,7 @@ may your will be done on earth as it is in heaven.<br>
 [11] Give us today our daily bread,<br>
 [12] and forgive us our debts, as we ourselves have forgiven our debtors.<br>
 [13] And do not lead us into temptation, but deliver us from the evil one.<br>
+
 [14] “For if you forgive others their sins, your heavenly Father will also forgive you.
 [15] But if you do not forgive others, your Father will not forgive you your sins.
 
@@ -363,6 +369,7 @@ may your will be done on earth as it is in heaven.<br>
 [17] In this way what was spoken by the prophet Isaiah was fulfilled:
 
 “_**He took our weaknesses and carried our diseases**_.”<br>
+
 ### Challenging Professed Followers
 
 [18] Now when Jesus saw a large crowd around him, he gave orders to go to the other side of the lake.
@@ -531,6 +538,7 @@ may your will be done on earth as it is in heaven.<br>
 
 ‘**_Look, I am sending my messenger ahead of you,_**<br>
 _**who will prepare your way before you**_.’<br>
+
 [11] “I tell you the truth, among those born of women, no one has arisen greater than John the Baptist. Yet the one who is least in the kingdom of heaven is greater than he is!
 [12] From the days of John the Baptist until now the kingdom of heaven has suffered violence, and forceful people lay hold of it.
 [13] For all the prophets and the law prophesied until John appeared.
@@ -541,6 +549,7 @@ _**who will prepare your way before you**_.’<br>
 
 [17] ‘We played the flute for you, yet you did not dance;<br>
 we wailed in mourning, yet you did not weep.’<br>
+
 ### Woes on Unrepentant Cities
 
 [20] Then Jesus began to criticize openly the cities in which he had done many of his miracles, because they did not repent.
@@ -592,6 +601,7 @@ _**nor will anyone hear his voice in the streets**_.<br>
 [20] **_He will not break a bruised reed or extinguish a smoldering wick,_**<br>
 _**until he brings justice to victory**_.<br>
 [21] **_And in his name the Gentiles_** _**will hope**_.”<br>
+
 ### Jesus and Beelzebul
 
 [22] Then they brought to him a demon-possessed man who was blind and mute. Jesus healed him so that he could speak and see.
@@ -665,6 +675,7 @@ _**until he brings justice to victory**_.<br>
 **_and hear with their ears_**<br>
 **_and understand with their hearts_**<br>
 _**and turn, and I would heal them**_.’<br>
+
 [16] “But your eyes are blessed because they see, and your ears because they hear.
 [17] For I tell you the truth, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.
 
@@ -701,6 +712,7 @@ _**and turn, and I would heal them**_.’<br>
 
 “**_I will open my mouth in parables,_**<br>
 _**I will announce what has been hidden from the foundation of the world**_.”<br>
+
 ### Explanation for the Disciples
 
 [36] Then he left the crowds and went into the house. And his disciples came to him saying, “Explain to us the parable of the darnel in the field.”
@@ -800,6 +812,7 @@ _**I will announce what has been hidden from the foundation of the world**_.”<
 **_but their heart_** **_is far from me,_**<br>
 [9] **_and they worship me in vain,_**<br>
 _**teaching as doctrines the commandments of men**_.’”<br>
+
 ### True Defilement
 
 [10] Then he called the crowd to him and said, “Listen and understand.
@@ -1081,6 +1094,7 @@ _**teaching as doctrines the commandments of men**_.’”<br>
 ‘**_Look, your king is coming to you,_**<br>
 **_unassuming and seated on a donkey,_**<br>
 _**and on a colt, the foal of a donkey**_.’”<br>
+
 [6] So the disciples went and did as Jesus had instructed them.
 [7] They brought the donkey and the colt and placed their cloaks on them, and he sat on them.
 [8] A very large crowd spread their cloaks on the road. Others cut branches from the trees and spread them on the road.
@@ -1138,6 +1152,7 @@ _**and on a colt, the foal of a donkey**_.’”<br>
 
 ‘_**The stone the builders rejected has become the cornerstone**_.<br>
 **_This is from the Lord, and it is marvelous in our eyes_**’?<br>
+
 [43] For this reason I tell you that the kingdom of God will be taken from you and given to a people who will produce its fruit.
 [44] The one who falls on this stone will be broken to pieces, and the one on whom it falls will be crushed.”
 [45] When the chief priests and the Pharisees heard his parables, they realized that he was speaking about them.
@@ -1450,6 +1465,7 @@ _**and on a colt, the foal of a donkey**_.’”<br>
 
 ‘**_I will strike the shepherd,_**<br>
 **_and the sheep of the flock will be scattered_.**’<br>
+
 ### Gethsemane
 
 [36] Then Jesus went with them to a place called Gethsemane, and he said to the disciples, “Sit here while I go over there and pray.”

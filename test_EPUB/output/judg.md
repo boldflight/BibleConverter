@@ -296,6 +296,7 @@ for the neck of the plunderer!’<br>
 [31] May all your enemies perish like this, O **Lord**!<br>
 But may those who love you shine<br>
 like the rising sun at its brightest.”<br>
+
 And the land had rest for forty years.
 
 ## Chapter 6
@@ -699,6 +700,7 @@ And the land had rest for forty years.
 
 “Out of the one who eats came something to eat;<br>
 out of the strong one came something sweet.”<br>
+
 [15] On the fourth day they said to Samson’s bride, “Trick your husband into giving the solution to the riddle. If you refuse, we will burn up you and your father’s family. Did you invite us here to make us poor?”
 [16] So Samson’s bride cried on his shoulder and said, “You must hate me; you do not love me! You told the young men a riddle, but you have not told me the solution.” He said to her, “Look, I have not even told my father or mother. Do you really expect me to tell you?”
 [17] She cried on his shoulder until the party was almost over. Finally, on the seventh day, he told her because she had nagged him so much. Then she told the young men the solution to the riddle.
@@ -708,6 +710,7 @@ out of the strong one came something sweet.”<br>
 What is stronger than a lion?”<br>
 “If you had not plowed with my heifer,<br>
 you would not have solved my riddle!”<br>
+
 [19] The **Lord**’s Spirit empowered him. He went down to Ashkelon and killed thirty men. He took their clothes and gave them to the men who had solved the riddle. He was furious as he went back home.
 [20] Samson’s bride was then given to his best man.
 
@@ -737,6 +740,7 @@ you would not have solved my riddle!”<br>
 I have left them in heaps;<br>
 with the jawbone of a donkey<br>
 I have struck down a thousand men!”<br>
+
 [17] When he finished speaking, he threw the jawbone down and named that place Ramath Lehi.
 
 [18] He was very thirsty, so he cried out to the **Lord** and said, “You have given your servant this great victory. But now must I die of thirst and fall into the hands of these uncircumcised Philistines?”

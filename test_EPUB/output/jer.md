@@ -15,6 +15,7 @@
 [5] “Before I formed you in your mother’s womb I chose you.<br>
 Before you were born I set you apart.<br>
 I appointed you to be a prophet to the nations.”<br>
+
 [6] I answered, “Oh, Sovereign **Lord**, Really I do not know how to speak well enough for that, for I am too young.”
 [7] The **Lord** said to me, “Do not say, ‘I am too young.’ But go to whomever I send you and say whatever I tell you.
 [8] Do not be afraid of those to whom I send you, for I will be with you to protect you,” says the **Lord**.
@@ -67,6 +68,7 @@ Those responsible for teaching my law did not really know me.<br>
 Your rulers rebelled against me.<br>
 Your prophets prophesied in the name of the god Baal.<br>
 They all worshiped idols that could not help them.<br>
+
 ### The Lord Charges Contemporary Israel with Spiritual Adultery
 
 [9] “So, once more I will state my case against you,” says the **Lord**.<br>
@@ -86,6 +88,7 @@ They have rejected me,<br>
 the fountain of life-giving water,<br>
 and they have dug cisterns for themselves,<br>
 cracked cisterns that cannot even hold water.<br>
+
 ### Israel’s Reliance on Foreign Alliances (not on God)
 
 [14] “Israel is not a slave, is he?<br>
@@ -109,6 +112,7 @@ Know, then, and realize how utterly harmful<br>
 it was for you to reject me, the **Lord** your God,<br>
 to show no respect for me,”<br>
 says the Sovereign **Lord** of Heaven’s Armies.<br>
+
 ### The Lord Expresses His Exasperation at Judah’s Persistent Idolatry
 
 [20] “Indeed, long ago you threw off my authority<br>
@@ -213,6 +217,7 @@ You have been my faithful companion ever since I was young.<br>
 You will not be mad at me forever, will you?’<br>
 That is what you say,<br>
 but you continually do all the evil that you can.”<br>
+
 [6] When Josiah was king of Judah, the **Lord** said to me, “Jeremiah, you have no doubt seen what wayward Israel has done. You have seen how she went up to every high hill and under every green tree to give herself like a prostitute to other gods.
 [7] Yet even after she had done all that, I thought that she might come back to me. But she did not. Her sister, unfaithful Judah, saw what she did.
 [8] She also saw that, because of wayward Israel’s adulterous worship of other gods, I sent her away and gave her divorce papers. But still her unfaithful sister Judah was not afraid, and she too went and gave herself like a prostitute to other gods.
@@ -232,6 +237,7 @@ For I am merciful,’ says the **Lord**.<br>
 and that you have rebelled against the **Lord** your God.<br>
 You must confess that you have given yourself to foreign gods under every green tree<br>
 and have not obeyed my commands,’ says the **Lord**.<br>
+
 [14] “Come back to me, my wayward sons,” says the **Lord**, “for I am your true master. If you do, I will take one of you from each town and two of you from each family group, and I will bring you back to Zion.
 [15] I will give you leaders who will be faithful to me. They will lead you with knowledge and insight.
 [16] In those days, your population will greatly increase in the land. At that time,” says the **Lord**, “people will no longer talk about having the ark that contains the **Lord**’s covenant with us. They will not call it to mind, remember it, or miss it. No, that will not be done anymore!
@@ -289,6 +295,7 @@ people of Judah and inhabitants of Jerusalem.<br>
 Otherwise, my anger will blaze up like a flaming fire against you<br>
 that no one will be able to extinguish.<br>
 That will happen because of the evil you have done.”<br>
+
 ### Warning of Coming Judgment
 
 [5] The **Lord** said,
@@ -313,6 +320,7 @@ has not turned away from us!’<br>
 “the king and his officials will lose their courage.<br>
 The priests will be struck with horror,<br>
 and the prophets will be speechless in astonishment.”<br>
+
 [10] In response to all this I said, “Ah, Sovereign **Lord**, you have surely allowed the people of Judah and Jerusalem to be deceived by those who say, ‘You will be safe!’ But in fact a sword is already at our throats.”
 
 [11] At that time the people of Judah and Jerusalem will be told,<br>
@@ -346,6 +354,7 @@ says the **Lord**.<br>
 will bring this on you.<br>
 This is the punishment you deserve, and it will be painful indeed.<br>
 The pain will be so bad it will pierce your heart.”<br>
+
 [19] I said,
 
 “Oh, the feeling in the pit of my stomach!<br>
@@ -361,6 +370,7 @@ I see our tents suddenly destroyed,<br>
 their curtains torn down in a mere instant.<br>
 [21] How long must I see the enemy’s battle flags<br>
 and hear the military signals of their bugles?”<br>
+
 [22] The **Lord** answered,
 
 “This will happen because my people are foolish.<br>
@@ -439,6 +449,7 @@ Like a leopard they will lie in wait outside their cities<br>
 and totally destroy anyone who ventures out.<br>
 For they have rebelled so much<br>
 and done so many unfaithful things.<br>
+
 [7] The **Lord** asked,
 
 “How can I leave you unpunished, Jerusalem?<br>
@@ -465,6 +476,7 @@ We will not experience war and famine.<br>
 [13] The prophets will prove to be full of wind.<br>
 The **Lord** has not spoken through them.<br>
 So, let what they say happen to them.’”<br>
+
 [14] Because of that, the **Lord** God of Heaven’s Armies said to me:
 
 “Because these people have spoken like this,<br>
@@ -485,6 +497,7 @@ They will eat up your sheep and your cattle.<br>
 They will destroy your vines and your fig trees.<br>
 Their weapons will batter down<br>
 the fortified cities you trust in.<br>
+
 [18] “Yet even then I will not completely destroy you,” says the **Lord**.
 [19] “So then, Jeremiah, when your people ask, ‘Why has the **Lord** our God done all this to us?’ tell them, ‘It is because you rejected me and served foreign gods in your own land. So you must serve foreigners in a land that does not belong to you.’
 
@@ -561,12 +574,14 @@ All I see are sick and wounded people.’<br>
 or I will abandon you in disgust<br>
 and make you desolate,<br>
 a place where no one can live.”<br>
+
 [9] This is what the **Lord** of Heaven’s Armies said to me:
 
 “Those who remain in Israel will be<br>
 like the grapes thoroughly gleaned from a vine.<br>
 So go over them again, as though you were a grape harvester<br>
 passing your hand over the branches one last time.”<br>
+
 [10] I answered,
 
 “Who would listen<br>
@@ -577,6 +592,7 @@ Indeed, the **Lord**'s message is offensive to them.<br>
 They do not like it at all.<br>
 [11] I am as full of anger as you are, **Lord**,<br>
 I am tired of trying to hold it in.”<br>
+
 The **Lord** answered,
 
 “Vent it, then, on the children who play in the street<br>
@@ -602,6 +618,7 @@ They do not even know how to blush!<br>
 So they will die, just like others have died.<br>
 They will be brought to ruin when I punish them,”<br>
 says the **Lord**.<br>
+
 [16] The **Lord** said to his people:
 
 “You are standing at the crossroads. So consider your path.<br>
@@ -609,11 +626,13 @@ Ask where the old, reliable paths are.<br>
 Ask where the path is that leads to blessing and follow it.<br>
 If you do, you will find rest for your souls.”<br>
 But they said, “We will not follow it!”<br>
+
 [17] The **Lord** said,
 
 “I appointed prophets as watchmen to warn you, saying,<br>
 ‘Pay attention to the warning sound of the trumpet!’”<br>
 But they said, “We will not pay attention!”<br>
+
 [18] So the **Lord** said,
 
 “Hear, you nations!<br>
@@ -628,11 +647,13 @@ frankincense that comes from Sheba<br>
 or sweet-smelling cane imported from a faraway land.<br>
 I cannot accept the burnt offerings they bring me.<br>
 I get no pleasure from the sacrifices they offer to me.’”<br>
+
 [21] So, this is what the **Lord** says:
 
 “I will assuredly make these people stumble to their doom.<br>
 Parents and children will stumble and fall to their destruction.<br>
 Friends and neighbors will die.”<br>
+
 [22] This is what the **Lord** says:
 
 “Beware! An army is coming from a land in the north.<br>
@@ -657,12 +678,14 @@ Mourn with painful sobs<br>
 as though you had lost your only child.<br>
 For any moment now that destructive army<br>
 will come against us.”<br>
+
 [27] The **Lord** said to me,
 
 “I have made you like a metal assayer<br>
 to test my people like ore.<br>
 You are to observe them<br>
 and evaluate how they behave.”<br>
+
 [28] I reported,
 
 “All of them are the most stubborn of rebels!<br>
@@ -777,6 +800,7 @@ There will be no grapes on their vines.<br>
 There will be no figs on their fig trees.<br>
 Even the leaves on their trees will wither.<br>
 The crops that I gave them will be taken away.’”<br>
+
 ### Jeremiah Laments over the Coming Destruction
 
 [14] The people say,
@@ -795,11 +819,13 @@ The sound of the neighing of their stallions<br>
 causes the whole land to tremble with fear.<br>
 They are coming to destroy the land and everything in it.<br>
 They are coming to destroy the cities and everyone who lives in them.”<br>
+
 [17] The **Lord** says,
 
 “Yes indeed, I am sending an enemy against you<br>
 that will be like poisonous snakes that cannot be charmed away.<br>
 And they will inflict fatal wounds on you.”<br>
+
 [18] Then I said,
 
 “There is no cure for my grief!<br>
@@ -831,6 +857,7 @@ Then I would desert my people<br>
 and walk away from them<br>
 because they are all unfaithful to God,<br>
 a congregation of people that has been disloyal to him.”<br>
+
 ### The Lord Laments That He Has No Choice But to Judge Them
 
 [3] The **Lord** says,
@@ -853,6 +880,7 @@ They do wrong and are unable to repent.<br>
 and one deceitful thing after another.<br>
 They refuse to pay attention to me,”<br>
 says the **Lord**.<br>
+
 [7] Therefore the **Lord** of Heaven’s Armies says:
 
 “I will now purify them in the fires of affliction and test them.<br>
@@ -864,6 +892,7 @@ Friendly words for their neighbors come from their mouths,<br>
 but their minds are thinking up ways to trap them.<br>
 [9] I will certainly punish them for doing such things!” says the **Lord**.<br>
 “I will certainly bring retribution on such a nation as this!”<br>
+
 ### The Coming Destruction Calls For Mourning
 
 [10] I said,
@@ -874,18 +903,21 @@ because they are so scorched no one travels through them.<br>
 The sound of livestock is no longer heard there.<br>
 Even the birds in the sky and the wild animals in the fields<br>
 have fled and are gone.”<br>
+
 [11] The **Lord** said,
 
 “I will make Jerusalem a heap of ruins.<br>
 Jackals will make their home there.<br>
 I will destroy the towns of Judah<br>
 so that no one will be able to live in them.”<br>
+
 [12] I said,
 
 “Who is wise enough to understand why this has happened?<br>
 Who has a word from the **Lord** that can explain it?<br>
 Why does the land lie in ruins?<br>
 Why is it as scorched as a desert through which no one travels?”<br>
+
 [13] The **Lord** answered, “This has happened because these people have rejected my laws that I gave them. They have not obeyed me or followed those laws.
 [14] Instead they have followed the stubborn inclinations of their own hearts. They have paid allegiance to the gods called Baal, as their fathers taught them to do.
 [15] So then, listen to what I, the **Lord** of Heaven’s Armies, the God of Israel, say, ‘I will make these people eat the bitter food of suffering and drink the poison water of judgment.
@@ -903,6 +935,7 @@ and our eyelids overflow with water.<br>
 ‘We are utterly ruined! We are completely disgraced!<br>
 For we have left our land,<br>
 for our houses have been torn down!’”<br>
+
 [20] I said,
 
 “So now, you wailing women, listen to the **Lord**'s message.<br>
@@ -918,6 +951,7 @@ It has taken away our young men who gather in the city squares.’<br>
 like manure scattered on a field.<br>
 They will lie scattered on the ground<br>
 like grain that has been cut down but has not been gathered.”’”<br>
+
 [23] The **Lord** says,
 
 “Wise people should not boast that they are wise.<br>
@@ -929,6 +963,7 @@ They should boast that they know and understand<br>
 that I, the **Lord**, act out of faithfulness, fairness, and justice in the earth<br>
 and that I desire people to do these things,”<br>
 says the **Lord**.<br>
+
 [25] The **Lord** says, “Watch out! The time is soon coming when I will punish all those who are circumcised only in the flesh.
 [26] That is, I will punish the Egyptians, the Judeans, the Edomites, the Ammonites, the Moabites, and all the desert people who cut their hair short at the temples. I will do so because none of the people of those nations are really circumcised in the **Lord**’s sight. Moreover, none of the people of Israel are circumcised when it comes to their hearts.”
 
@@ -956,6 +991,7 @@ because they cannot walk.<br>
 Do not be afraid of them<br>
 because they cannot hurt you.<br>
 And they do not have any power to help you.”<br>
+
 [6] I said,
 
 “There is no one like you, **Lord**.<br>
@@ -996,6 +1032,7 @@ When the time comes to punish them, they will be destroyed.<br>
 He is the one who created everything.<br>
 And the people of Israel are those he claims as his own.<br>
 His name is the **Lord** of Heaven’s Armies.”<br>
+
 ### Jeremiah Laments for and Prays for the People Soon to be Judged
 
 [17] “Gather your belongings together and prepare to leave the land,<br>
@@ -1066,6 +1103,7 @@ Then all your branches will be good for nothing.<br>
 I now decree that disaster will come on you<br>
 because the nations of Israel and Judah have done evil<br>
 and have made me angry by offering sacrifices to the god Baal.”<br>
+
 ### A Plot Against Jeremiah is Revealed and He Complains of Injustice
 
 [18] The **Lord** gave me knowledge, that I might have understanding.<br>
@@ -1076,12 +1114,14 @@ I did not know they were saying,<br>
 “Let’s destroy the tree along with its fruit!<br>
 Let’s remove Jeremiah from the world of the living<br>
 so people will not even be reminded of him anymore.”<br>
+
 [20] So I said,
 
 “O **Lord** of Heaven’s Armies, you are a just judge!<br>
 You examine people’s hearts and minds.<br>
 I want to see you pay them back for what they have done<br>
 because I trust you to vindicate my cause.”<br>
+
 [21] Then the **Lord** told me about some men from Anathoth who were threatening to kill me. They had threatened, “Stop prophesying in the name of the **Lord** or we will kill you!”
 [22] So the **Lord** of Heaven’s Armies said, “I will surely punish them! Their young men will be killed in battle. Their sons and daughters will die of starvation.
 [23] Not one of them will survive. I will bring disaster on those men from Anathoth who threatened you. A day of reckoning is coming for them.”
@@ -1109,6 +1149,7 @@ How long must the animals and the birds die<br>
 because of the wickedness of the people who live in this land?<br>
 For these people boast,<br>
 “God will not see what happens to us.”<br>
+
 ### God Answers Jeremiah
 
 [5] The **Lord** answered,
@@ -1151,6 +1192,7 @@ No one will be safe.<br>
 They will work until they are exhausted, but will get nothing from it.<br>
 They will be disappointed in their harvests<br>
 because the **Lord** will take them away in his fierce anger.<br>
+
 [14] “I, the **Lord**, also have something to say concerning the wicked nations who surround my land and have attacked and plundered the land that I gave to my people as a permanent possession. I say: ‘I will uproot the people of those nations from their land and I will free the people of Judah who have been taken there.
 [15] But after I have uprooted the people of those nations, I will relent and have pity on them. I will restore the people of each of those nations to their own lands and to their own country.
 [16] But they must make sure to learn to follow the religious practices of my people. Once they taught my people to swear their oaths using the name of the god Baal. But then, they must swear oaths using my name, saying, “As surely as the **Lord** lives, I swear.” If they do these things, then they will be included among the people I call my own.
@@ -1191,6 +1233,7 @@ into the darkness and gloom of exile.<br>
 I will weep alone because of your arrogant pride.<br>
 I will weep bitterly, and my eyes will overflow with tears<br>
 because you, the **Lord**’s flock, will be carried into exile.”<br>
+
 [18] The **Lord** told me:
 
 “Tell the king and the queen mother,<br>
@@ -1201,6 +1244,7 @@ will be removed from your heads.<br>
 No one will be able to go in or out of them.<br>
 All Judah will be carried off into exile.<br>
 They will be completely carried off into exile.’”<br>
+
 [20] Then I said,
 
 “Look up, Jerusalem, and see<br>
@@ -1220,6 +1264,7 @@ It is because you have sinned so much.<br>
 you who are so accustomed to doing evil.<br>
 Can an Ethiopian change the color of his skin?<br>
 Can a leopard remove its spots?<br>
+
 [24] “The **Lord** says,
 
 ‘That is why I will scatter your people like chaff<br>
@@ -1260,6 +1305,7 @@ because there is no grass.<br>
 and pant for breath like jackals.<br>
 Their eyes are strained looking for food,<br>
 because there is none to be found.”<br>
+
 [7] Then I said,
 
 “O **Lord**, intervene for the honor of your name<br>
@@ -1275,6 +1321,7 @@ like a champion who cannot save anyone?<br>
 You are indeed with us,<br>
 and we belong to you.<br>
 Do not abandon us!”<br>
+
 [10] Then the **Lord** spoke about these people.
 
 “They truly love to go astray.<br>
@@ -1282,6 +1329,7 @@ They cannot keep from running away from me.<br>
 So I am not pleased with them.<br>
 I will now call to mind the wrongs they have done<br>
 and punish them for their sins.”<br>
+
 ### Judgment for Believing the Misleading Lies of the False Prophets
 
 [11] Then the **Lord** said to me, “Do not pray for good to come to these people!
@@ -1308,6 +1356,7 @@ I see those who are sick because of starvation.<br>
 For both prophet and priest—<br>
 they go peddling in the land<br>
 but they are not humbled.’”<br>
+
 [19] Then I said,
 
 “**Lord**, have you completely rejected the nation of Judah?<br>
@@ -1336,6 +1385,7 @@ because you alone do all this.”<br>
 Those who are destined to die in war will go to death in war.<br>
 Those who are destined to die of starvation will go to death by starvation.<br>
 Those who are destined to go into exile will go into exile.<br>
+
 [3] “I will punish them in four different ways: I will have war kill them; I will have dogs drag off their dead bodies; I will have birds and wild beasts devour and destroy their corpses.
 [4] I will make all the people in all the kingdoms of the world horrified at what has happened to them because of what Hezekiah’s son Manasseh, king of Judah, did in Jerusalem.”
 
@@ -1349,6 +1399,7 @@ to inquire about how you are doing?<br>
 you keep turning your back on me.’<br>
 So I have unleashed my power against you and have begun to destroy you.<br>
 I have grown tired of feeling sorry for you!”<br>
+
 [7] The **Lord** continued,
 
 “In every town in the land I will purge them<br>
@@ -1370,6 +1421,7 @@ She will suffer shame and humiliation.<br>
 I will cause any of them who are still left alive<br>
 to be killed in war by the onslaughts of their enemies,”<br>
 says the **Lord**.<br>
+
 ### Jeremiah Complains about His Lot and The Lord Responds
 
 [10] I said,
@@ -1378,6 +1430,7 @@ says the **Lord**.<br>
 I am always starting arguments and quarrels with the people of this land.<br>
 I have not lent money to anyone and I have not borrowed from anyone.<br>
 Yet all these people are treating me with contempt.”<br>
+
 [11] The **Lord** said,
 
 “Jerusalem, I will surely send you away for your own good.<br>
@@ -1388,6 +1441,7 @@ break that iron fist from the north?<br>
 I will give it away free of charge for the sins you have committed throughout your land.<br>
 [14] I will make you serve your enemies in a land that you know nothing about.<br>
 For my anger is like a fire that will burn against you.”<br>
+
 [15] I said,
 
 “**Lord**, you know how I suffer.<br>
@@ -1406,6 +1460,7 @@ and because I was filled with anger at what they had done.<br>
 Why must I endure the sting of their insults like an incurable wound?<br>
 Will you let me down when I need you,<br>
 like a brook one goes to for water, but that cannot be relied on?”<br>
+
 [19] Because of this, the **Lord** said,
 
 “You must repent of such words and thoughts!<br>
@@ -1462,6 +1517,7 @@ will come to you and say,<br>
 worthless idols that could not help them at all.’<br>
 [20] Can people make their own gods?<br>
 No, what they make are not gods at all.”<br>
+
 [21] The **Lord** said,
 
 “So I will now let this wicked people know—<br>
@@ -1483,6 +1539,7 @@ I will give it away as the price for the sins you have committed throughout your
 that I gave to you as a permanent possession.<br>
 I will make you serve your enemies in a land that you know nothing about.<br>
 For you have made my anger burn like a fire that will never be put out.”<br>
+
 ### Individuals Are Challenged to Put Their Trust in the Lord
 
 [5] The **Lord** says,
@@ -1513,6 +1570,7 @@ I give them what they deserve based on what they have done.<br>
 is like the partridge that broods over eggs but does not hatch them.<br>
 Before his life is half over he will lose his ill-gotten gains.<br>
 At the end of his life it will be clear he was a fool.”<br>
+
 ### Jeremiah Appeals to the Lord for Vindication
 
 [12] Then I said,
@@ -1544,6 +1602,7 @@ May they be dismayed.<br>
 Do not let me be dismayed.<br>
 Bring days of disaster on them.<br>
 Bring on them the destruction they deserve.”<br>
+
 ### Observance of the Sabbath Day Is a Key to the Future
 
 [19] The **Lord** told me, “Go and stand in the People’s Gate through which the kings of Judah enter and leave the city. Then go and stand in all the other gates of the city of Jerusalem.
@@ -1596,6 +1655,7 @@ and will shake their heads in derision.<br>
 like dust blowing in front of a burning east wind.<br>
 I will turn my back on them and not look favorably on them<br>
 when disaster strikes them.”<br>
+
 ### Jeremiah Petitions the Lord to Punish Those Who Attack Him
 
 [18] Then some people said, “Come on! Let us consider how to deal with Jeremiah! There will still be priests to instruct us, wise men to give us advice, and prophets to declare God’s word. Come on! Let’s bring charges against him and get rid of him! Then we will not need to pay attention to anything he says.”
@@ -1760,6 +1820,7 @@ whose towns have all been deserted.<br>
 with their axes and hatchets.<br>
 They will hack up its fine cedar panels and columns<br>
 and throw them into the fire.<br>
+
 [8] “‘People from other nations will pass by this city. They will ask one another, “Why has the **Lord** done such a thing to this great city?”
 [9] The answer will come back, “It is because they broke their covenant with the **Lord** their God and worshiped and served other gods.”
 
@@ -1769,6 +1830,7 @@ and throw them into the fire.<br>
 Do not grieve for him.<br>
 But weep mournfully for the king who has gone into exile.<br>
 For he will never return to see his native land again.<br>
+
 [11] “‘For the **Lord** has spoken about Shallum son of Josiah, who succeeded his father as king of Judah but was carried off into exile. He has said, “He will never return to this land.
 [12] For he will die in the country where they took him as a captive. He will never see this land again.”
 
@@ -1797,6 +1859,7 @@ for ways to increase your wealth by dishonest means.<br>
 Your eyes and your heart are set<br>
 on killing some innocent person<br>
 and committing fraud and oppression.’”<br>
+
 [18] So the **Lord** has this to say about Josiah’s son, King Jehoiakim of Judah:
 
 “People will not mourn for him, saying,<br>
@@ -1806,6 +1869,7 @@ They will not mourn for him, saying,<br>
 ‘Poor, poor lord! Poor, poor majesty!’<br>
 [19] He will be left unburied just like a dead donkey.<br>
 His body will be dragged off and thrown outside the gates of Jerusalem.<br>
+
 ### Warning to Jerusalem
 
 [20] “People of Jerusalem, go up to Lebanon and cry out in mourning.<br>
@@ -1824,6 +1888,7 @@ because of all the wickedness you have done.<br>
 nesting in the cedars of Lebanon.<br>
 But O how you will groan when the pains of judgment come on you.<br>
 They will be like those of a woman giving birth to a baby.”<br>
+
 ### Jeconiah Will Be Permanently Exiled
 
 [24] The **Lord** says, “As surely as I am the living God, you, Jeconiah, king of Judah, son of Jehoiakim, will not be the earthly representative of my authority. Indeed, I will take that right away from you.
@@ -1838,6 +1903,7 @@ Why will he and his children be forced into exile?<br>
 Why will they be thrown out into a country they know nothing about?<br>
 [29] O Land, land, land of Judah!<br>
 Listen to the **Lord**’s message.<br>
+
 [30] The **Lord** says,
 
 “Enroll this man in the register as though he were childless.<br>
@@ -1861,6 +1927,7 @@ and will do what is just and right in the land.<br>
 and Israel will live in security.<br>
 This is the name he will go by:<br>
 ‘The **Lord** has provided us with justice.’<br>
+
 [7] “So I, the **Lord**, say: ‘A new time will certainly come. People now affirm their oaths with, “I swear as surely as the **Lord** lives who delivered the people of Israel out of Egypt.”
 [8] But at that time they will affirm them with, “I swear as surely as the **Lord** lives who delivered the descendants of the former nation of Israel from the land of the north and from all the other lands where he had banished them.” At that time they will live in their own land.’”
 
@@ -1878,6 +1945,7 @@ and his holy word are being mistreated.<br>
 They live wicked lives and they misuse their power.<br>
 So the land is dried up because it is under his curse.<br>
 The pastures in the wilderness are withered.<br>
+
 [11] Moreover, the **Lord** says,
 
 “Both the prophets and priests are godless.<br>
@@ -1905,6 +1973,7 @@ have something to say concerning the prophets of Jerusalem:<br>
 and drink the poison water of judgment.<br>
 For the prophets of Jerusalem are the reason<br>
 that ungodliness has spread throughout the land.’”<br>
+
 [16] The **Lord** of Heaven’s Armies says to the people of Jerusalem:
 
 “Do not listen to what<br>
@@ -1941,6 +2010,7 @@ and not the transcendent God?” the **Lord** asks.<br>
 where I cannot see him?” the **Lord** asks.<br>
 “Do you not know that I am everywhere?”<br>
 the **Lord** asks.<br>
+
 [25] The **Lord** says, “I have heard what those prophets who are prophesying lies in my name are saying. They are saying, ‘I have had a dream! I have had a dream!’
 [26] Those prophets are just prophesying lies. They are prophesying the delusions of their own minds.
 [27] How long will they go on plotting to make my people forget who I am through the dreams they tell one another? That is just as bad as what their ancestors did when they forgot who I am by worshiping the god Baal.
@@ -2084,6 +2154,7 @@ and by the fierce anger of the **Lord**.”<br>
 “‘Zion will become a plowed field.<br>
 Jerusalem will become a pile of rubble.<br>
 The temple mount will become a mere wooded ridge.”’<br>
+
 [19] “King Hezekiah and all the people of Judah did not put him to death, did they? Did not Hezekiah show reverence for the **Lord** and seek the **Lord**’s favor? Did not the **Lord** forgo destroying them as he threatened he would? But we are on the verge of bringing great disaster on ourselves.”
 
 [20] Now there was another man who prophesied as the **Lord**’s representative against this city and this land just as Jeremiah did. His name was Uriah son of Shemaiah from Kiriath Jearim.
@@ -2240,6 +2311,7 @@ I will completely destroy all the nations where I scattered you.<br>
 But I will not completely destroy you.<br>
 I will indeed discipline you, but only in due measure.<br>
 I will not allow you to go entirely unpunished.”<br>
+
 ### The Lord Will Heal the Wounds of Judah
 
 [12] Moreover, the **Lord** says to the people of Zion:
@@ -2269,6 +2341,7 @@ I will heal your wounds.<br>
 I, the **Lord**, affirm it!<br>
 For you have been called an outcast,<br>
 Zion, whom no one cares for.”<br>
+
 ### The Lord Will Restore Israel and Judah
 
 [18] The **Lord** says:
@@ -2303,6 +2376,7 @@ In future days you will come to understand this.<br>
 [1] At that time I will be the God of all the clans of Israel<br>
 and they will be my people.<br>
 I, the **Lord**, affirm it!”<br>
+
 ### Israel Will Be Restored and Join Judah in Worship
 
 [2] The **Lord** says:
@@ -2326,6 +2400,7 @@ will once again enjoy their fruit.<br>
 when watchmen will call out on the mountains of Ephraim,<br>
 “Come! Let us go to Zion<br>
 to worship the **Lord** our God!”’”<br>
+
 [7] Moreover, the **Lord** says:
 
 “Sing for joy for the descendants of Jacob.<br>
@@ -2363,6 +2438,7 @@ I will turn their grief into gladness.<br>
 I will give them comfort and joy in place of their sorrow.<br>
 [14] I will provide the priests with abundant provisions.<br>
 My people will be filled to the full with the good things I provide.”<br>
+
 [15] The **Lord** says:
 
 “A sound is heard in Ramah,<br>
@@ -2403,6 +2479,7 @@ Return to these cities of yours.<br>
 you who were once like an unfaithful daughter?<br>
 For I, the **Lord**, promise to bring about something new on the earth,<br>
 something as unique as a woman protecting a man!’”<br>
+
 ### Judah Will Be Restored
 
 [23] The **Lord** of Heaven’s Armies, the God of Israel, says,
@@ -2417,6 +2494,7 @@ as well as by farmers and shepherds with their flocks.<br>
 and fully refresh the souls of those who are faint.<br>
 [26] Then they will say, ‘Under these conditions I can enjoy sweet sleep<br>
 when I wake up and look around.’<br>
+
 ### Israel and Judah Will Be Repopulated
 
 [27] “Indeed, a time is coming,” says the **Lord**, “when I will cause people and animals to sprout up in the lands of Israel and Judah.
@@ -2449,6 +2527,7 @@ because of all that they have done.<br>
 That could only happen if the heavens above could be measured<br>
 or the foundations of the earth below could all be explored,”<br>
 says the **Lord**.<br>
+
 ### Jerusalem Will Be Enlarged
 
 [38] “Indeed a time is coming,” says the **Lord**, “when the city of Jerusalem will be rebuilt as my special city. It will be built from the Tower of Hananel westward to the Corner Gate.
@@ -2726,6 +2805,7 @@ says the **Lord**.<br>
 they have gotten the best of you.<br>
 Now that your feet are stuck in the mud,<br>
 they have turned their backs on you.’<br>
+
 [23] “All your wives and your children will be turned over to the Babylonians. You yourself will not escape from them but will be captured by the king of Babylon. This city will be burned down.”
 
 [24] Then Zedekiah told Jeremiah, “Do not let anyone know about the conversation we have had. If you do, you will die.
@@ -2970,6 +3050,7 @@ there will be no healing for you.<br>
 Your cries of distress fill the earth.<br>
 One soldier has stumbled over another<br>
 and both of them have fallen down defeated.”<br>
+
 ### The Lord Predicts that Nebuchadnezzar Will Attack and Plunder Egypt
 
 [13] The **Lord** spoke to the prophet Jeremiah about Nebuchadnezzar coming to attack the land of Egypt:
@@ -3014,6 +3095,7 @@ For those who chop them down will be more numerous than locusts.<br>
 They will be too numerous to count.<br>
 [24] Poor dear Egypt will be put to shame.<br>
 She will be handed over to the people from the north.’”<br>
+
 [25] The **Lord** of Heaven’s Armies, the God of Israel, says, “I will punish Amon, the god of Thebes. I will punish Egypt, its gods, and its kings. I will punish Pharaoh and all who trust in him.
 [26] I will hand them over to Nebuchadnezzar and his troops, who want to kill them. But later on, people will live in Egypt again as they did in former times. I, the **Lord**, affirm it!”
 
@@ -3145,6 +3227,7 @@ Ask them, ‘What has happened?’<br>
 Wail and cry out in mourning!<br>
 Announce along the Arnon River<br>
 that Moab has been destroyed.’<br>
+
 [21] “Judgment will come on the cities on the high plain: on Holon, Jahzah, and Mephaath;
 [22] on Dibon, Nebo, and Beth Diblathaim;
 [23] on Kiriathaim, Beth Gamul, and Beth Meon;
@@ -3245,6 +3328,7 @@ Your daughters will be carried away into exile.<br>
 [47] Yet in future days<br>
 I will reverse Moab’s ill fortune,”<br>
 says the **Lord**.<br>
+
 The judgment against Moab ends here.
 
 ## Chapter 49
@@ -3283,6 +3367,7 @@ No one will gather the fugitives back together.<br>
 [6] Yet in days to come<br>
 I will reverse Ammon’s ill fortune.”<br>
 says the **Lord**.<br>
+
 ### Judgment Against Edom
 
 [7] The **Lord** of Heaven’s Armies spoke about Edom:
@@ -3304,6 +3389,7 @@ Their children, relatives, and neighbors will all be destroyed.<br>
 Not one of them will be left!<br>
 [11] Leave your orphans behind and I will keep them alive.<br>
 Your widows, too, can depend on me.”<br>
+
 [12] For the **Lord** says, “If even those who did not deserve to drink from the cup of my wrath must drink from it, do you think you will go unpunished? You will not go unpunished, but must certainly drink from the cup of my wrath.
 [13] For I solemnly swear,” says the **Lord**, “that Bozrah will become a pile of ruins. It will become an object of horror and ridicule, an example to be used in curses. All the towns around it will lie in ruins forever.”
 
@@ -3346,6 +3432,7 @@ Their cries of anguish will be heard all the way to the Gulf of Aqaba.<br>
 a nation will soar up and swoop down on Bozrah.<br>
 At that time the soldiers of Edom will be as fearful<br>
 as a woman in labor.”<br>
+
 ### Judgment Against Damascus
 
 [23] The **Lord** spoke about Damascus:
@@ -3365,6 +3452,7 @@ All her soldiers will be destroyed at that time,”<br>
 says the **Lord** of Heaven’s Armies.<br>
 [27] “I will set fire to the walls of Damascus;<br>
 it will burn up the palaces of Ben Hadad.”<br>
+
 ### Judgment Against Kedar and Hazor
 
 [28] The **Lord** spoke about Kedar and the kingdoms of Hazor that King Nebuchadnezzar of Babylon conquered:
@@ -3393,6 +3481,7 @@ from every direction,” says the **Lord**.<br>
 a place where only jackals live.<br>
 No one will live there.<br>
 No human being will settle in it.”<br>
+
 ### Judgment Against Elam
 
 [34] This was the **Lord**'s message to the prophet Jeremiah about Elam, which came early in the reign of King Zedekiah of Judah.
@@ -3868,12 +3957,14 @@ he pays back in full.<br>
 along with her governors, leaders, and warriors.<br>
 They will fall asleep forever and never wake up,”<br>
 says the King whose name is the **Lord** of Heaven’s Armies.<br>
+
 [58] This is what the **Lord** of Heaven’s Armies says,
 
 “Babylon’s thick wall will be completely demolished.<br>
 Her high gates will be set on fire.<br>
 The peoples strive for what does not satisfy.<br>
 The nations grow weary trying to get what will be destroyed.”<br>
+
 [59] This is the order Jeremiah the prophet gave to Seraiah son of Neriah, son of Mahseiah, when he went to King Zedekiah of Judah in Babylon during the fourth year of his reign. (Seraiah was a quartermaster.)
 [60] Jeremiah recorded on one scroll all the judgments that would come upon Babylon—all these prophecies written about Babylon.
 [61] Then Jeremiah said to Seraiah, “When you arrive in Babylon, make sure you read aloud all these prophecies.

@@ -844,6 +844,7 @@ I will put my hook in your nose,<br>
 and my bridle between your lips,<br>
 and I will lead you back the way<br>
 you came.”<br>
+
 [29] “‘This will be your confirmation that I have spoken the truth: This year you will eat what grows wild, and next year what grows on its own from that. But in the third year you will plant seed and harvest crops; you will plant vines and consume their produce.
 [30] Those who remain in Judah will take root in the ground and bear fruit.
 
@@ -857,6 +858,7 @@ He will not attack it with his shield-carrying warriors,<br>
 nor will he build siege works against it.<br>
 [33] He will go back the way he came.<br>
 He will not enter this city,” says the **Lord**.<br>
+
 [34] “‘I will shield this city and rescue it for the sake of my reputation and because of my promise to David my servant.’”
 
 [35] That very night the angel of the **Lord** went out and killed 185,000 in the Assyrian camp. When they got up early the next morning, there were all the corpses.

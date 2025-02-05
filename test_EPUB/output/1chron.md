@@ -861,7 +861,7 @@ Pithon, Melech, Tahrea, and Ahaz.
 
 [1] All Israel joined David at Hebron and said, “Look, we are your very flesh and blood!
 [2] In the past, even when Saul was king, you were Israel’s commanding general. The **Lord** your God said to you, ‘You will shepherd my people Israel; you will rule over my people Israel.’”
-[3] When all the leaders of Israel came to the king at Hebron, David made a covenant with them in Hebron before the **Lord**. They anointed David king over Israel, in keeping with the **Lord’**s message that came through Samuel.
+[3] When all the leaders of Israel came to the king at Hebron, David made a covenant with them in Hebron before the **Lord**. They anointed David king over Israel, in keeping with the **Lord**'s message that came through Samuel.
 
 ### David Conquers Jerusalem
 
@@ -1142,7 +1142,7 @@ So David accepted them and made them leaders of raiding bands.
 [12] He told them: “You are the leaders of the Levites’ families. You and your relatives must consecrate yourselves and bring the ark of the **Lord** God of Israel up to the place I have prepared for it.
 [13] The first time you did not carry it; that is why the **Lord** God attacked us, because we did not ask him about the proper way to carry it.”
 [14] The priests and Levites consecrated themselves so they could bring up the ark of the **Lord** God of Israel.
-[15] The descendants of Levi carried the ark of God on their shoulders with poles, just as Moses had commanded in keeping with the **Lord’**s instruction.
+[15] The descendants of Levi carried the ark of God on their shoulders with poles, just as Moses had commanded in keeping with the **Lord**'s instruction.
 
 [16] David told the leaders of the Levites to appoint some of their relatives as musicians; they were to play various instruments, including stringed instruments and cymbals, and to sing loudly and joyfully.
 [17] So the Levites appointed Heman son of Joel; one of his relatives, Asaph son of Berechiah; one of the descendants of Merari, Ethan son of Kushaiah;

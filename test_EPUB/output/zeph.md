@@ -4,7 +4,7 @@
 
 ### Introduction
 
-[1] This is the **Lord’**s message that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah during the time of Josiah son of Amon, king of Judah:
+[1] This is the **Lord**'s message that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah during the time of Josiah son of Amon, king of Judah:
 
 ### The Lord’s Day of Judgment is Approaching
 
@@ -23,7 +23,7 @@ those who swear allegiance to the **Lord** while taking oaths in the name of the
 [6] and those who turn their backs on the **Lord**<br>
 and do not want the **Lord**’s help or guidance.”<br>
 [7] Be silent before the Sovereign **Lord**,<br>
-for the **Lord’**s day of judgment is almost here.<br>
+for the **Lord**'s day of judgment is almost here.<br>
 The **Lord** has prepared a sacrificial meal;<br>
 he has ritually purified his guests.<br>
 [8] “On the day of the **Lord**’s sacrificial meal,<br>
@@ -84,7 +84,7 @@ and Ashkelon will become a heap of ruins.<br>
 Invaders will drive away the people of Ashdod by noon,<br>
 and Ekron will be overthrown.<br>
 [5] Beware, you who live by the sea, the people who came from Crete.<br>
-The **Lord’**s message is against you, Canaan, land of the Philistines:<br>
+The **Lord**'s message is against you, Canaan, land of the Philistines:<br>
 “I will destroy everyone who lives there!”<br>
 [6] The seacoast will be used as pasture lands by the shepherds<br>
 and as pens for their flocks.<br>

@@ -2538,7 +2538,7 @@ for the sake of my reputation and because of my promise to David my servant.”<
 [2] Hezekiah turned his face to the wall and prayed to the **Lord**,
 [3] “Please, **Lord**. Remember how I have served you faithfully and with wholehearted devotion, and how I have carried out your will.” Then Hezekiah wept bitterly.
 
-[4] The **Lord’**s message came to Isaiah,
+[4] The **Lord**'s message came to Isaiah,
 [5] “Go and tell Hezekiah: ‘This is what the **Lord** God of your ancestor David says: “I have heard your prayer; I have seen your tears. Look, I will add fifteen years to your life.
 [6] I will also rescue you and this city from the king of Assyria. I will shield this city.”’”
 [7] Isaiah replied, “This is your sign from the **Lord** confirming that the **Lord** will do what he has said:

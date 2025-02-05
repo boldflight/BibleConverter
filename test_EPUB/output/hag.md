@@ -4,12 +4,12 @@
 
 ### Introduction
 
-[1] On the first day of the sixth month of King Darius’ second year, the **Lord’**s message came through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to the high priest Joshua son of Jehozadak:
+[1] On the first day of the sixth month of King Darius’ second year, the **Lord**'s message came through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to the high priest Joshua son of Jehozadak:
 
 ### The Accusation of Indifference Against the People
 
 [2] This is what the **Lord** of Heaven’s Armies has said: “These people have said, ‘The time for rebuilding the **Lord**’s temple has not yet come.’”
-[3] The **Lord’**s message came through the prophet Haggai as follows:
+[3] The **Lord**'s message came through the prophet Haggai as follows:
 [4] “Is it right for you to live in richly paneled houses while my temple is in ruins?
 [5] Here then, this is what the **Lord** of Heaven’s Armies has said: ‘Think carefully about what you are doing.
 [6] You have planted much, but have harvested little. You eat, but are never filled. You drink, but are still thirsty. You put on clothes, but are not warm. Those who earn wages end up with holes in their money bags.’”
@@ -33,7 +33,7 @@
 
 ### The Glory to Come
 
-[1] On the twenty-first day of the seventh month, the **Lord’**s message came through the prophet Haggai again:
+[1] On the twenty-first day of the seventh month, the **Lord**'s message came through the prophet Haggai again:
 [2] “Ask the following questions to Zerubbabel son of Shealtiel, governor of Judah, the high priest Joshua son of Jehozadak, and the remnant of the people:
 [3] ‘Who among you survivors saw the former splendor of this temple? How does it look to you now? Isn’t it nothing by comparison?’
 [4] Even so, take heart, Zerubbabel,” decrees the **Lord**. “Take heart, Joshua son of Jehozadak, the high priest. And take heart all you citizens of the land,” decrees the **Lord**, “and begin to work. For I am with you,” decrees the **Lord** of Heaven’s Armies.
@@ -45,7 +45,7 @@
 
 ### The Promised Blessing
 
-[10] On the twenty-fourth day of the ninth month of Darius’ second year, the **Lord’**s message came to the prophet Haggai:
+[10] On the twenty-fourth day of the ninth month of Darius’ second year, the **Lord**'s message came to the prophet Haggai:
 [11] “This is what the **Lord** of Heaven’s Armies has said, ‘Ask the priests about the law.
 [12] If someone carries holy meat in a fold of his garment and that fold touches bread, a boiled dish, wine, olive oil, or any other food, will that item become holy?’” The priests answered, “It will not.”
 [13] Then Haggai asked, “If a person who is ritually unclean because of touching a dead body comes in contact with one of these items, will it become unclean?” The priests answered, “It will be unclean.”

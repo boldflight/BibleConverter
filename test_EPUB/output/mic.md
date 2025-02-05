@@ -4,7 +4,7 @@
 
 ### Introduction
 
-[1] This is the **Lord’**s message that came to Micah of Moresheth during the time of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
+[1] This is the **Lord**'s message that came to Micah of Moresheth during the time of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 
 ### The Judge is Coming
 

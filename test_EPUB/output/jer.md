@@ -5,12 +5,12 @@
 ### The Superscription
 
 [1] The following is a record of what Jeremiah son of Hilkiah prophesied. He was one of the priests who lived at Anathoth in the territory of the tribe of Benjamin.
-[2] The **Lord’**s message came to him in the thirteenth year that Josiah son of Amon ruled over Judah.
+[2] The **Lord**'s message came to him in the thirteenth year that Josiah son of Amon ruled over Judah.
 [3] It also came in the days of Jehoiakim, son of Josiah, king of Judah, and continued until the eleventh year of Zedekiah, son of Josiah, king of Judah, until the people of Jerusalem were taken into exile in the fifth month of that year.
 
 ### Jeremiah’s Call and Commission
 
-[4] The **Lord’**s message came to me,
+[4] The **Lord**'s message came to me,
 
 [5] “Before I formed you in your mother’s womb I chose you.<br>
 Before you were born I set you apart.<br>
@@ -23,10 +23,10 @@ I appointed you to be a prophet to the nations.”<br>
 
 ### Visions Confirming Jeremiah’s Call and Commission
 
-[11] Later the **Lord’**s message came to me, “What do you see, Jeremiah?” I answered, “I see a branch of an almond tree.”
+[11] Later the **Lord**'s message came to me, “What do you see, Jeremiah?” I answered, “I see a branch of an almond tree.”
 [12] Then the **Lord** said, “You have observed correctly. This means I am watching to make sure my threats are carried out.”
 
-[13] The **Lord’**s message came to me a second time, “What do you see?” I answered, “I see a pot of boiling water; it is tipped away from the north.”
+[13] The **Lord**'s message came to me a second time, “What do you see?” I answered, “I see a pot of boiling water; it is tipped away from the north.”
 [14] Then the **Lord** said, “From the north destruction will break out on all who live in the land.
 [15] For I will soon summon all the peoples of the kingdoms of the north,” says the **Lord**. “They will come and their kings will set up their thrones near the entrances of the gates of Jerusalem. They will attack all the walls surrounding it and all the towns in Judah.
 [16] In this way I will pass sentence on the people of Jerusalem and Judah because of all their wickedness. For they rejected me and offered sacrifices to other gods, worshiping what they made with their own hands.
@@ -573,7 +573,7 @@ passing your hand over the branches one last time.”<br>
 if I spoke to them and warned them?<br>
 Their ears are so closed<br>
 that they cannot hear!<br>
-Indeed, the **Lord’**s message is offensive to them.<br>
+Indeed, the **Lord**'s message is offensive to them.<br>
 They do not like it at all.<br>
 [11] I am as full of anger as you are, **Lord**,<br>
 I am tired of trying to hold it in.”<br>
@@ -905,7 +905,7 @@ For we have left our land,<br>
 for our houses have been torn down!’”<br>
 [20] I said,
 
-“So now, you wailing women, listen to the **Lord’**s message.<br>
+“So now, you wailing women, listen to the **Lord**'s message.<br>
 Open your ears to the message from his mouth.<br>
 Teach your daughters this mournful song,<br>
 and let every woman teach her neighbor this lament.<br>
@@ -1161,14 +1161,14 @@ because the **Lord** will take them away in his fierce anger.<br>
 ### An Object Lesson from Ruined Linen Shorts
 
 [1] The **Lord** said to me, “Go and buy some linen shorts and put them on. Do not put them in water.”
-[2] So I bought the shorts in keeping with the **Lord’**s instructions and put them on.
-[3] Then the **Lord’**s message came to me again,
+[2] So I bought the shorts in keeping with the **Lord**'s instructions and put them on.
+[3] Then the **Lord**'s message came to me again,
 [4] “Take the shorts that you bought and are wearing and go at once to Perath. Bury the shorts there in a crack in the rocks.”
 [5] So I went and buried them at Perath as the **Lord** had ordered me to do.
 [6] Many days later the **Lord** said to me, “Go at once to Perath and get the shorts I ordered you to bury there.”
 [7] So I went to Perath and dug up the shorts from the place where I had buried them. I found that they were ruined; they were good for nothing.
 
-[8] Then the **Lord’**s message came to me,
+[8] Then the **Lord**'s message came to me,
 [9] “I, the **Lord**, say: ‘This shows how I will ruin the highly exalted position in which Judah and Jerusalem take pride.
 [10] These wicked people refuse to obey what I have said. They follow the stubborn inclinations of their own hearts and pay allegiance to other gods by worshiping and serving them. So they will become just like these linen shorts that are good for nothing.
 [11] For,’ I say, ‘just as shorts cling tightly to a person’s body, so I bound the whole nation of Israel and the whole nation of Judah tightly to me.’ I intended for them to be my special people and to bring me fame, honor, and praise. But they would not obey me.
@@ -1426,7 +1426,7 @@ I will free you from the clutches of violent people.”<br>
 
 ### Jeremiah Forbidden to Marry, to Mourn, or to Feast
 
-[1] The **Lord’**s message came to me,
+[1] The **Lord**'s message came to me,
 [2] “Do not get married and do not have children here in this land.
 [3] For I, the **Lord**, tell you what will happen to the children who are born here in this land and to the men and women who are their mothers and fathers.
 [4] They will die of deadly diseases. No one will mourn for them. They will not be buried. Their dead bodies will lie like manure spread on the ground. They will be killed in war or die of starvation. Their corpses will be food for the birds and wild animals.
@@ -1565,7 +1565,7 @@ Bring on them the destruction they deserve.”<br>
 [3] So I went down to the potter’s house and found him working at his wheel.
 [4] Now and then there would be something wrong with the pot he was molding from the clay with his hands. So he would rework the clay into another kind of pot as he saw fit.
 
-[5] Then the **Lord’**s message came to me,
+[5] Then the **Lord**'s message came to me,
 [6] “I, the **Lord**, say: ‘O nation of Israel, can I not deal with you as this potter deals with the clay? In my hands, you, O nation of Israel, are just like the clay in this potter’s hand.’
 [7] There are times, Jeremiah, when I threaten to uproot, tear down, and destroy a nation or kingdom.
 [8] But if that nation I threatened stops doing wrong, I will cancel the destruction I intended to do to it.
@@ -1630,7 +1630,7 @@ Deal with them while you are still angry!<br>
 
 [1] The **Lord** told Jeremiah, “Go and buy a clay jar from a potter. Take with you some of the leaders of the people and some of the leaders of the priests.
 [2] Go out to the part of the Hinnom Valley that is near the entrance of the Potsherd Gate. Announce there what I tell you.
-[3] Say, ‘Listen to the **Lord’**s message, you kings of Judah and citizens of Jerusalem! This is what the **Lord** of Heaven’s Armies, the God of Israel, has said, “Look here! I am about to bring a disaster on this place that will make the ears of everyone who hears about it ring.
+[3] Say, ‘Listen to the **Lord**'s message, you kings of Judah and citizens of Jerusalem! This is what the **Lord** of Heaven’s Armies, the God of Israel, has said, “Look here! I am about to bring a disaster on this place that will make the ears of everyone who hears about it ring.
 [4] I will do so because these people have rejected me and have defiled this place. They have offered sacrifices in it to other gods that neither they nor their ancestors nor the kings of Judah knew anything about. They have filled it with the blood of innocent children.
 [5] They have built places here for worship of the god Baal so that they could sacrifice their children as burnt offerings to him in the fire. Such sacrifices are something I never commanded them to make. They are something I never told them to do! Indeed, such a thing never even entered my mind.
 [6] So I, the **Lord**, say: “The time will soon come that people will no longer call this place Topheth or the Hinnom Valley. But they will call this valley the Valley of Slaughter!
@@ -1726,7 +1726,7 @@ and I spend my days in shame.<br>
 
 [11] The **Lord** told me to say to the royal court of Judah:
 
-“Listen to the **Lord’**s message,<br>
+“Listen to the **Lord**'s message,<br>
 [12] O royal family descended from David.<br>
 The **Lord** says:<br>
 ‘See to it that people each day are judged fairly.<br>
@@ -1745,7 +1745,7 @@ it will burn up everything around it.’”<br>
 ## Chapter 22
 
 [1] The **Lord** told me, “Go down to the palace of the king of Judah. Give him a message from me there.
-[2] Say: ‘Listen, O king of Judah who follows in David’s succession. You, your officials, and your subjects who pass through the gates of this palace must listen to the **Lord’**s message.
+[2] Say: ‘Listen, O king of Judah who follows in David’s succession. You, your officials, and your subjects who pass through the gates of this palace must listen to the **Lord**'s message.
 [3] The **Lord** says, “Do what is just and right. Deliver those who have been robbed from those who oppress them. Do not exploit or mistreat resident foreigners who live in your land, children who have no fathers, or widows. Do not kill innocent people in this land.
 [4] If you are careful to obey these commands, then the kings who follow in David’s succession and ride in chariots or on horses will continue to come through the gates of this palace, as will their officials and their subjects.
 [5] But, if you do not obey these commands, I solemnly swear that this palace will become a pile of rubble. I, the **Lord**, affirm it!”’
@@ -1968,7 +1968,7 @@ the **Lord** asks.<br>
 [2] One basket had very good-looking figs in it. They looked like those that had ripened early. The other basket had very bad-looking figs in it, so bad they could not be eaten.
 [3] The **Lord** said to me, “What do you see, Jeremiah?” I answered, “I see figs. The good ones look very good. But the bad ones look very bad, so bad that they cannot be eaten.”
 
-[4] The **Lord’**s message came to me,
+[4] The **Lord**'s message came to me,
 [5] “I, the **Lord**, the God of Israel, say: ‘The exiles of Judah whom I sent away from here to the land of Babylon are like those good figs. I consider them to be good.
 [6] I will look after their welfare and will restore them to this land. There I will build them up and will not tear them down. I will plant them firmly in the land and will not uproot them.
 [7] I will give them the desire to acknowledge that I am the **Lord**. I will be their God and they will be my people. For they will wholeheartedly return to me.’
@@ -1983,7 +1983,7 @@ the **Lord** asks.<br>
 
 [1] In the fourth year that Jehoiakim son of Josiah was king of Judah, the **Lord** spoke to Jeremiah concerning all the people of Judah. (That was the same as the first year that Nebuchadnezzar was king of Babylon.)
 [2] So the prophet Jeremiah spoke to all the people of Judah and to all the people who were living in Jerusalem.
-[3] “For the last twenty-three years, from the thirteenth year that Josiah son of Amon was ruling in Judah until now, the **Lord’**s messages have come to me and I have told them to you over and over again. But you would not listen.
+[3] “For the last twenty-three years, from the thirteenth year that Josiah son of Amon was ruling in Judah until now, the **Lord**'s messages have come to me and I have told them to you over and over again. But you would not listen.
 [4] Over and over again the **Lord** has sent his servants the prophets to you. But you have not listened or paid attention.
 [5] He said through them, ‘Each of you must turn from your wicked ways and stop doing the evil things you are doing. If you do, I will allow you to continue to live here in the land that I gave to you and your ancestors as a lasting possession.
 [6] Do not pay allegiance to other gods and worship and serve them. Do not make me angry by the things that you do. Then I will not cause you any harm.’
@@ -2140,7 +2140,7 @@ The temple mount will become a mere wooded ridge.”’<br>
 [10] The prophet Hananiah then took the yoke off the prophet Jeremiah’s neck and broke it.
 [11] Then he spoke up in the presence of all the people. “The **Lord** says, ‘In the same way I will break the yoke of servitude of all the nations to King Nebuchadnezzar of Babylon before two years are over.’” After he heard this, the prophet Jeremiah departed and went on his way.
 
-[12] But shortly after the prophet Hananiah had broken the yoke off the prophet Jeremiah’s neck, the **Lord’**s message came to Jeremiah.
+[12] But shortly after the prophet Hananiah had broken the yoke off the prophet Jeremiah’s neck, the **Lord**'s message came to Jeremiah.
 [13] “Go and tell Hananiah that the **Lord** says, ‘You have indeed broken the wooden yoke. But you have only succeeded in replacing it with an iron one!
 [14] For the **Lord** of Heaven’s Armies, the God of Israel, says, “I have put an irresistible yoke of servitude on all these nations so they will serve King Nebuchadnezzar of Babylon. And they will indeed serve him. I have even given him control over the wild animals.”’”
 [15] Then the prophet Jeremiah told the prophet Hananiah, “Listen, Hananiah! The **Lord** did not send you! You are making these people trust in a lie.
@@ -2175,7 +2175,7 @@ The temple mount will become a mere wooded ridge.”’<br>
 [17] The **Lord** of Heaven’s Armies says, ‘I will bring war, starvation, and disease on them. I will treat them like figs that are so rotten they cannot be eaten.
 [18] I will chase after them with war, starvation, and disease. I will make all the kingdoms of the earth horrified at what happens to them. I will make them examples of those who are cursed, objects of horror, hissing scorn, and ridicule among all the nations where I exile them.
 [19] For they have not paid attention to what I said to them through my servants the prophets whom I sent to them over and over again,’ says the **Lord**. ‘And you exiles have not paid any attention to them either,’ says the **Lord**.
-[20] ‘So pay attention to the **Lord’**s message, all you exiles whom I have sent to Babylon from Jerusalem.’
+[20] ‘So pay attention to the **Lord**'s message, all you exiles whom I have sent to Babylon from Jerusalem.’
 
 [21] “The **Lord** of Heaven’s Armies, the God of Israel, also has something to say about Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying lies to you and claiming my authority to do so. ‘I will hand them over to King Nebuchadnezzar of Babylon and he will execute them before your very eyes.
 [22] And all the exiles of Judah who are in Babylon will use them as examples when they put a curse on anyone. They will say, “May the **Lord** treat you like Zedekiah and Ahab whom the king of Babylon roasted to death in the fire!”
@@ -2190,7 +2190,7 @@ The temple mount will become a mere wooded ridge.”’<br>
 [28] For he has even sent a message to us here in Babylon. He wrote and told us, ‘You will be there a long time. Build houses and settle down. Plant gardens and eat what they produce.’”’”
 
 [29] Zephaniah the priest read that letter to the prophet Jeremiah.
-[30] Then the **Lord’**s message came to Jeremiah:
+[30] Then the **Lord**'s message came to Jeremiah:
 [31] “Send a message to all the exiles in Babylon. Tell them, ‘The **Lord** has spoken about Shemaiah the Nehelamite: “Shemaiah has spoken to you as a prophet even though I did not send him. He is making you trust in a lie.
 [32] Because he has done this,” the **Lord** says, “I will punish Shemaiah the Nehelamite and his whole family. There will not be any of them left to experience the good things that I will do for my people. I, the **Lord**, affirm it! For he counseled rebellion against the **Lord**.”’”
 
@@ -2345,7 +2345,7 @@ along smooth paths where they will never stumble.<br>
 I will do this because I am Israel’s father;<br>
 Ephraim is my firstborn son.’”<br>
 
-[10] Listen to the **Lord’**s message, O nations.<br>
+[10] Listen to the **Lord**'s message, O nations.<br>
 Proclaim it in the faraway lands along the sea.<br>
 Say, “The one who scattered Israel will regather them.<br>
 He will watch over his people like a shepherd watches over his flock.”<br>
@@ -2466,9 +2466,9 @@ says the **Lord**.<br>
 [4] King Zedekiah of Judah will not escape from the Babylonians. He will certainly be handed over to the king of Babylon. He must answer personally to the king of Babylon and confront him face to face.
 [5] Zedekiah will be carried off to Babylon and will remain there until I have fully dealt with him. I, the **Lord**, affirm it! Even if you continue to fight against the Babylonians, you cannot win.’”
 
-[6] So now, Jeremiah said, “The **Lord’**s message came to me,
+[6] So now, Jeremiah said, “The **Lord**'s message came to me,
 [7] ‘Hanamel, the son of your uncle Shallum, will come to you soon. He will say to you, “Buy my field at Anathoth because you are entitled as my closest relative to buy it.”’
-[8] And then my cousin Hanamel did come to me in the courtyard of the guardhouse in keeping with the **Lord’**s message. He said to me, ‘Buy my field that is at Anathoth in the territory of the tribe of Benjamin. Buy it for yourself since you are entitled as my closest relative to take possession of it for yourself.’ When this happened, I recognized that the **Lord** had indeed spoken to me.
+[8] And then my cousin Hanamel did come to me in the courtyard of the guardhouse in keeping with the **Lord**'s message. He said to me, ‘Buy my field that is at Anathoth in the territory of the tribe of Benjamin. Buy it for yourself since you are entitled as my closest relative to take possession of it for yourself.’ When this happened, I recognized that the **Lord** had indeed spoken to me.
 [9] So I bought the field at Anathoth from my cousin Hanamel. I weighed out seven ounces of silver and gave it to him to pay for it.
 [10] I signed the deed of purchase, sealed it, and had some men serve as witnesses to the purchase. I weighed out the silver for him on a scale.
 [11] There were two copies of the deed of purchase. One was sealed and contained the order of transfer and the conditions of purchase. The other was left unsealed.
@@ -2518,7 +2518,7 @@ says the **Lord**.<br>
 
 ### The Lord Promises a Second Time to Restore Israel and Judah
 
-[1] The **Lord’**s message came to Jeremiah a second time while he was still confined in the courtyard of the guardhouse.
+[1] The **Lord**'s message came to Jeremiah a second time while he was still confined in the courtyard of the guardhouse.
 [2] “I, the **Lord**, do these things. I, the **Lord**, form the plan to bring them about. I am known as the **Lord**. I say to you,
 [3] ‘Call on me in prayer and I will answer you. I will show you great and mysterious things that you still do not know about.’
 [4] For I, the **Lord** God of Israel, have something more to say about the houses in this city and the royal buildings of Judah that have been torn down for defenses against the siege ramps and military incursions of the Babylonians:
@@ -2544,12 +2544,12 @@ says the **Lord**.<br>
 [17] For I, the **Lord**, promise: “David will never lack a successor to occupy the throne over the nation of Israel.
 [18] Nor will the Levitical priests ever lack someone to stand before me and continually offer up burnt offerings, sacrifice cereal offerings, and offer the other sacrifices.”’”
 
-[19] The **Lord’**s message came to Jeremiah another time:
+[19] The **Lord**'s message came to Jeremiah another time:
 [20] “I, the **Lord**, make the following promise: ‘I have made a covenant with the day and with the night that they will always come at their proper times. Only if you people could break that covenant
 [21] could my covenant with my servant David and my covenant with the Levites ever be broken. So David will by all means always have a descendant to occupy his throne as king and the Levites will by all means always have priests who will minister before me.
 [22] I will make the children who follow one another in the line of my servant David very numerous. I will also make the Levites who minister before me very numerous. I will make them all as numerous as the stars in the sky and as the sands that are on the seashore.’”
 
-[23] The **Lord’**s message came to Jeremiah another time:
+[23] The **Lord**'s message came to Jeremiah another time:
 [24] “You have surely noticed what these people are saying, haven’t you? They are saying, ‘The **Lord** has rejected the two families of Israel and Judah that he chose.’ So they have little regard that my people will ever again be a nation.
 [25] But I, the **Lord**, make the following promise: ‘I have made a covenant governing the coming of day and night. I have established the fixed laws governing heaven and earth.
 [26] Just as surely as I have done this, so surely will I never reject the descendants of Jacob. Nor will I ever refuse to choose one of my servant David’s descendants to rule over the descendants of Abraham, Isaac, and Jacob. Indeed, I will restore them and show mercy to them.’”
@@ -2558,7 +2558,7 @@ says the **Lord**.<br>
 
 ### The Lord Makes an Ominous Promise to Zedekiah
 
-[1] The **Lord’**s message came to Jeremiah while King Nebuchadnezzar of Babylon was attacking Jerusalem and the towns around it with a large army. This army consisted of troops from his own army and from the kingdoms and peoples of the lands under his dominion.
+[1] The **Lord**'s message came to Jeremiah while King Nebuchadnezzar of Babylon was attacking Jerusalem and the towns around it with a large army. This army consisted of troops from his own army and from the kingdoms and peoples of the lands under his dominion.
 [2] This is what the **Lord** God of Israel told Jeremiah, “Go, speak to King Zedekiah of Judah. Tell him, ‘This is what the **Lord** has said: “Take note! I am going to hand this city over to the king of Babylon, and he will burn it down.
 [3] You yourself will not escape his clutches but will certainly be captured and handed over to him. You must confront the king of Babylon face to face and answer to him personally. Then you must go to Babylon.”’
 [4] However, listen to the **Lord**’s message, King Zedekiah of Judah. This is what the **Lord** has said: ‘You will not die in battle or be executed.
@@ -2601,7 +2601,7 @@ says the **Lord**.<br>
 [10] We have lived in tents. We have obeyed our ancestor Jonadab and done exactly as he commanded us.
 [11] But when King Nebuchadnezzar of Babylon invaded the land we said, ‘Let’s get up and go to Jerusalem to get away from the Babylonian and Aramean armies.’ That is why we are staying here in Jerusalem.”
 
-[12] Then the **Lord’**s message came to Jeremiah.
+[12] Then the **Lord**'s message came to Jeremiah.
 [13] The **Lord** of Heaven’s Armies, the God of Israel, told him, “Go and speak to the people of Judah and the citizens of Jerusalem. Tell them, ‘I, the **Lord**, say: “You must learn a lesson from this about obeying what I say.
 [14] Jonadab son of Rechab ordered his descendants not to drink wine. His orders have been carried out. To this day his descendants have drunk no wine because they have obeyed what their ancestor commanded them. But I have spoken to you over and over again, but you have not obeyed me.
 [15] I sent all my servants the prophets to warn you over and over again. They said, ‘Every one of you, stop doing the evil things you have been doing and do what is right. Do not pay allegiance to other gods and worship them. Then you can continue to live in this land that I gave to you and your ancestors.’ But you did not pay any attention or listen to me.
@@ -2648,7 +2648,7 @@ says the **Lord**.<br>
 
 ### Baruch and Jeremiah Write Another Scroll
 
-[27] The **Lord’**s message came to Jeremiah after the king had burned the scroll with the words Baruch had written down at Jeremiah’s dictation.
+[27] The **Lord**'s message came to Jeremiah after the king had burned the scroll with the words Baruch had written down at Jeremiah’s dictation.
 [28] “Get another scroll and write on it everything that was written on the original scroll that King Jehoiakim of Judah burned.
 [29] Tell King Jehoiakim of Judah, ‘The **Lord** says, “You burned the scroll. You asked Jeremiah, ‘How dare you write in this scroll that the king of Babylon will certainly come and destroy this land and wipe out all the people and animals on it?’”
 [30] So the **Lord** says concerning King Jehoiakim of Judah, “None of his line will occupy the throne of David. His dead body will be thrown out to be exposed to scorching heat by day and frost by night.
@@ -2667,7 +2667,7 @@ says the **Lord**.<br>
 [3] King Zedekiah sent Jehucal son of Shelemiah and the priest Zephaniah son of Maaseiah to the prophet Jeremiah to say, “Please pray to the **Lord** our God on our behalf.”
 [4] (Now Jeremiah had not yet been put in prison. So he was still free to come and go among the people as he pleased.
 [5] At that time the Babylonian forces had temporarily given up their siege against Jerusalem. They had had it under siege, but withdrew when they heard that the army of Pharaoh had set out from Egypt.)
-[6] The **Lord’**s message came to the prophet Jeremiah,
+[6] The **Lord**'s message came to the prophet Jeremiah,
 [7] “This is what the **Lord** God of Israel has said, ‘This is what you must say to the king of Judah who sent you to seek my help. “Beware, Pharaoh’s army that was on its way to help you is about to go back home to Egypt.
 [8] Then the Babylonian forces will return. They will attack the city and will capture it and burn it down.
 [9] Moreover, I, the **Lord**, warn you not to deceive yourselves into thinking that the Babylonian forces will go away and leave you alone. For they will not go away.
@@ -2758,7 +2758,7 @@ The following events occurred when Jerusalem was captured.
 
 ### Ebed Melech Is Promised Deliverance because of His Faith
 
-[15] Now the **Lord’**s message had come to Jeremiah while he was still confined in the courtyard of the guardhouse,
+[15] Now the **Lord**'s message had come to Jeremiah while he was still confined in the courtyard of the guardhouse,
 [16] “Go and tell Ebed Melech the Nubian, ‘This is what the **Lord** of Heaven’s Armies, the God of Israel, has said, “I will carry out against this city what I promised. It will mean disaster and not good fortune for it. When that disaster happens, you will be there to see it.
 [17] But I will rescue you when it happens. I, the **Lord**, affirm it! You will not be handed over to those whom you fear.
 [18] I will certainly save you. You will not fall victim to violence. You will escape with your life because you trust in me. I, the **Lord**, affirm it!”’”
@@ -2827,7 +2827,7 @@ The following events occurred when Jerusalem was captured.
 [5] They answered Jeremiah, “May the **Lord** be a true and faithful witness against us if we do not do just as the **Lord** your God sends you to tell us to do.
 [6] We will obey what the **Lord** our God to whom we are sending you tells us to do. It does not matter whether we like what he tells us or not. We will obey what he tells us to do so that things will go well for us.”
 
-[7] Ten days later the **Lord’**s message came to Jeremiah.
+[7] Ten days later the **Lord**'s message came to Jeremiah.
 [8] So Jeremiah summoned Johanan son of Kareah and all the army officers who were with him and all the people of every class.
 [9] Then Jeremiah said to them, “You sent me to the **Lord** God of Israel to make your request known to him. Here is what he says to you:
 [10] ‘If you will only stay in this land, I will build you up. I will not tear you down. I will firmly plant you. I will not uproot you. For I am filled with sorrow because of the disaster that I have brought on you.
@@ -2836,7 +2836,7 @@ The following events occurred when Jerusalem was captured.
 
 [13] “You must not disobey the **Lord** your God by saying, ‘We will not stay in this land.’
 [14] You must not say, ‘No, we will not stay. Instead we will go and live in the land of Egypt where we will not face war, or hear the enemy’s trumpet calls, or starve for lack of food.’
-[15] If you people who remain in Judah do that, then listen to the **Lord’**s message. This is what the **Lord** of Heaven’s Armies, the God of Israel, has said, ‘If you are so determined to go to Egypt that you go and settle there,
+[15] If you people who remain in Judah do that, then listen to the **Lord**'s message. This is what the **Lord** of Heaven’s Armies, the God of Israel, has said, ‘If you are so determined to go to Egypt that you go and settle there,
 [16] the wars you fear will catch up with you there in the land of Egypt. The starvation you are worried about will follow you there to Egypt. You will die there.
 [17] All the people who are determined to go and settle in Egypt will die from war, starvation, or disease. No one will survive or escape the disaster I will bring on them.’
 [18] For the **Lord** of Heaven’s Armies, the God of Israel, says, ‘If you go to Egypt, I will pour out my wrath on you just as I poured out my anger and wrath on the citizens of Jerusalem. You will become an object of horror and ridicule, an example of those who have been cursed and that people use in pronouncing a curse. You will never see this place again.’
@@ -2858,7 +2858,7 @@ The following events occurred when Jerusalem was captured.
 
 ### Jeremiah Predicts that Nebuchadnezzar Will Plunder Egypt and Its Gods
 
-[8] At Tahpanhes the **Lord’**s message came to Jeremiah:
+[8] At Tahpanhes the **Lord**'s message came to Jeremiah:
 [9] “Take some large stones and bury them in the mortar of the clay pavement at the entrance of Pharaoh’s residence here in Tahpanhes. Do it while the people of Judah present there are watching.
 [10] Then tell them, ‘The **Lord** of Heaven’s Armies, the God of Israel, says, “I will bring my servant King Nebuchadnezzar of Babylon. I will set his throne over these stones that I have buried. He will pitch his royal tent over them.
 [11] He will come and attack Egypt. Those who are destined to die of disease will die of disease. Those who are destined to be carried off into exile will be carried off into exile. Those who are destined to die in war will die in war.
@@ -2897,7 +2897,7 @@ The following events occurred when Jerusalem was captured.
 [22] Finally the **Lord** could no longer endure your wicked deeds and the disgusting things you did. That is why your land has become the desolate, uninhabited ruin that it is today. That is why it has become a proverbial example used in curses.
 [23] You have sacrificed to other gods. You have sinned against the **Lord**! You have not obeyed the **Lord**! You have not followed his laws, his statutes, and his decrees. That is why this disaster that is evident to this day has happened to you.”
 
-[24] Then Jeremiah spoke to all the people, particularly to all the women, “Listen to the **Lord’**s message, all you people of Judah who are in Egypt.
+[24] Then Jeremiah spoke to all the people, particularly to all the women, “Listen to the **Lord**'s message, all you people of Judah who are in Egypt.
 [25] This is what the **Lord** of Heaven’s Armies, the God of Israel, has said, ‘You women have confirmed by your actions what you vowed with your lips! You said, “We will certainly carry out our vows to sacrifice and pour out drink offerings to the Queen of Heaven.” Well, then fulfill your vows! Carry them out!’
 [26] But listen to the **Lord**’s message, all you people of Judah who are living in the land of Egypt: The **Lord** says, ‘I hereby swear by my own great name that none of the people of Judah who are living anywhere in Egypt will ever again invoke my name in their oaths! Never again will any of them use it in an oath saying, “As surely as the Sovereign **Lord** lives.”
 [27] I will indeed see to it that disaster, not prosperity, happens to them. All the people of Judah who are in the land of Egypt will die in war or from starvation until not one of them is left.
@@ -2920,7 +2920,7 @@ The following events occurred when Jerusalem was captured.
 
 ### Prophecies Against Foreign Nations
 
-[1] This was the **Lord’**s message to the prophet Jeremiah about the nations.
+[1] This was the **Lord**'s message to the prophet Jeremiah about the nations.
 
 ### The Prophecy about Egypt’s Defeat at Carchemish
 
@@ -3036,7 +3036,7 @@ I will not allow you to go entirely unpunished.”<br>
 
 ### Judgment on the Philistine Cities
 
-[1] This was the **Lord’**s message to the prophet Jeremiah about the Philistines before Pharaoh attacked Gaza:
+[1] This was the **Lord**'s message to the prophet Jeremiah about the Philistines before Pharaoh attacked Gaza:
 
 [2] “Look! Enemies are gathering in the north like water rising in a river.<br>
 They will be like an overflowing stream.<br>
@@ -3395,7 +3395,7 @@ No one will live there.<br>
 No human being will settle in it.”<br>
 ### Judgment Against Elam
 
-[34] This was the **Lord’**s message to the prophet Jeremiah about Elam, which came early in the reign of King Zedekiah of Judah.
+[34] This was the **Lord**'s message to the prophet Jeremiah about Elam, which came early in the reign of King Zedekiah of Judah.
 
 [35] The **Lord** of Heaven’s Armies said:
 

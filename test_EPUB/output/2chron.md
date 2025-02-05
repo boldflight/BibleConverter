@@ -321,7 +321,7 @@
 ## Chapter 11
 
 [1] When Rehoboam arrived in Jerusalem, he summoned 180,000 skilled warriors from Judah and Benjamin to attack Israel and restore the kingdom to Rehoboam.
-[2] But the **Lord’**s message came to the prophet Shemaiah,
+[2] But the **Lord**'s message came to the prophet Shemaiah,
 [3] “Say this to King Rehoboam son of Solomon of Judah and to all the Israelites in Judah and Benjamin,
 [4] ‘The **Lord** says this: “Do not attack and make war with your brothers. Each of you go home, for I have caused this to happen.”’” They obeyed the **Lord** and called off the attack against Jeroboam.
 

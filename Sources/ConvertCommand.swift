@@ -328,7 +328,7 @@ struct ConvertCommand: ParsableCommand {
     }
 
     private func processSmcapsText(_ text: String) -> String {
-        let hasApostrophe = text.hasSuffix("'")
+        let hasApostrophe = text.hasSuffix("'") || text.hasSuffix("’")
 
         if hasApostrophe {
             let cleanText = text.dropLast()

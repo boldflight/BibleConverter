@@ -110,7 +110,7 @@
 [25] King Solomon then sent Benaiah son of Jehoiada, and he killed Adonijah.
 
 [26] The king then told Abiathar the priest, “Go back to your property in Anathoth. You deserve to die, but today I will not kill you because you did carry the ark of the Sovereign **Lord** before my father David and you suffered with my father through all his difficult times.”
-[27] Solomon removed Abiathar from being a priest for the **Lord**, fulfilling the **Lord’**s message that he had pronounced against the family of Eli in Shiloh.
+[27] Solomon removed Abiathar from being a priest for the **Lord**, fulfilling the **Lord**'s message that he had pronounced against the family of Eli in Shiloh.
 
 [28] When the news reached Joab (for Joab had supported Adonijah, although he had not supported Absalom), he ran to the tent of the **Lord** and grabbed hold of the horns of the altar.
 [29] When King Solomon heard that Joab had run to the tent of the **Lord** and was right there beside the altar, he ordered Benaiah son of Jehoiada, “Go, strike him down.”
@@ -286,7 +286,7 @@ Ben Hur was in charge of the hill country of Ephraim.
 [9] He finished building the temple and covered it with rafters and boards made of cedar.
 [10] He built an extension all around the temple; it was 7½ feet high and it was attached to the temple by cedar beams.
 
-[11] The **Lord’**s message came to Solomon:
+[11] The **Lord**'s message came to Solomon:
 [12] “As for this temple you are building, if you follow my rules, observe my regulations, and obey all my commandments, I will fulfill through you the promise I made to your father David.
 [13] I will live among the Israelites and will not abandon my people Israel.”
 
@@ -642,7 +642,7 @@ Ben Hur was in charge of the hill country of Ephraim.
 [21] When Rehoboam arrived in Jerusalem, he summoned 180,000 skilled warriors from all Judah and the tribe of Benjamin to attack Israel and restore the kingdom to Rehoboam son of Solomon.
 [22] But God told Shemaiah the prophet,
 [23] “Say this to King Rehoboam son of Solomon of Judah, and to all Judah and Benjamin, as well as the rest of the people,
-[24] ‘This is what the **Lord** has said: “Do not attack and make war with your brothers, the Israelites. Each of you go home. Indeed this thing has happened because of me.”’” So they obeyed the **Lord’**s message. They went home in keeping with the **Lord’**s message.
+[24] ‘This is what the **Lord** has said: “Do not attack and make war with your brothers, the Israelites. Each of you go home. Indeed this thing has happened because of me.”’” So they obeyed the **Lord**'s message. They went home in keeping with the **Lord**'s message.
 
 ### Jeroboam Makes Golden Calves
 
@@ -661,7 +661,7 @@ Ben Hur was in charge of the hill country of Ephraim.
 ### A Prophet from Judah Visits Bethel
 
 [33] On the fifteenth day of the eighth month (a date he had arbitrarily chosen) Jeroboam offered sacrifices on the altar he had made in Bethel. He inaugurated a festival for the Israelites and went up to the altar to offer sacrifices.
-[1] Just then a prophet arrived from Judah with the **Lord’**s message for Bethel, as Jeroboam was standing near the altar ready to offer a sacrifice.
+[1] Just then a prophet arrived from Judah with the **Lord**'s message for Bethel, as Jeroboam was standing near the altar ready to offer a sacrifice.
 [2] He cried out against the altar with the **Lord’s** message, “O altar, altar! This is what the **Lord** has said, ‘Look, a son named Josiah will be born to the Davidic dynasty. He will sacrifice on you the priests of the high places who offer sacrifices on you. Human bones will be burned on you.’”
 [3] That day he had also given a sign, saying, “This is the sign that the **Lord** has declared: The altar will split open and the ashes on it will pour out.”
 [4] When the king heard the prophet’s message that he had cried out against the altar in Bethel, Jeroboam took his hand from the altar and pointed it saying, “Seize him!” Then the hand that he had pointed at him stiffened up, and he could not pull it back.
@@ -669,7 +669,7 @@ Ben Hur was in charge of the hill country of Ephraim.
 [6] The king responded to the prophet, “Seek the favor of the **Lord** your God and pray for me, so that my hand may be restored.” So the prophet sought the **Lord**’s favor and the king’s hand was restored as it was at first.
 [7] The king then said to the prophet, “Come home with me and have something to eat, so that I may give you a gift.”
 [8] But the prophet said to the king, “Even if you were to give me half your possessions, I would not go with you. I am not allowed to eat food or drink water in this place.
-[9] For this is how I was commanded in the **Lord’**s message, ‘Eat no food. Drink no water. And do not return by the way you came.’”
+[9] For this is how I was commanded in the **Lord**'s message, ‘Eat no food. Drink no water. And do not return by the way you came.’”
 [10] So he started back on another road; he did not travel back on the same road he had taken to Bethel.
 
 [11] Now there was an old prophet living in Bethel. When his sons came home, they told him everything the prophet had done in Bethel that day. And they told their father all the words that he had spoken to the king.
@@ -678,11 +678,11 @@ Ben Hur was in charge of the hill country of Ephraim.
 [14] and took off after the prophet, whom he found sitting under an oak tree. He asked him, “Are you the prophet from Judah?” He answered, “Yes, I am.”
 [15] He then said to him, “Come home with me and eat something.”
 [16] But he replied, “I can’t go back with you. I am not allowed to eat food or to drink water with you in this place.
-[17] For an order came to me in the **Lord’**s message, ‘Eat no food. Drink no water there. And do not return by the way you came.’”
+[17] For an order came to me in the **Lord**'s message, ‘Eat no food. Drink no water there. And do not return by the way you came.’”
 [18] Then the old prophet said, “I too am a prophet like you. And an angel has told me in a message from the **Lord**, ‘Bring him back with you to your house so he can eat food and drink water.’” But he had lied to him.
 [19] So the prophet went back with him. He ate food in his house and he drank water.
 
-[20] While they were sitting at the table, the **Lord’**s message came to the old prophet who had brought him back.
+[20] While they were sitting at the table, the **Lord**'s message came to the old prophet who had brought him back.
 [21] So he cried out to the prophet who had come from Judah, “This is what the **Lord** has said, ‘You have rebelled against the **Lord**’s instruction and have not obeyed the command the **Lord** your God gave you.
 [22] You went back. You ate food. And you drank water in the place of which he had said to you, “Eat no food. Drink no water.” Therefore your corpse will not be buried in your ancestral tomb.’”
 
@@ -726,7 +726,7 @@ There was his body lying on the road, with the donkey standing next to it, and t
 [16] He will hand Israel over to their enemies because of the sins which Jeroboam committed and which he made Israel commit.”
 
 [17] So Jeroboam’s wife got up and went back to Tirzah. As she crossed the threshold of the house, the boy died.
-[18] All Israel buried him and mourned for him, in keeping with the **Lord’**s message that he had spoken through his servant, the prophet Ahijah.
+[18] All Israel buried him and mourned for him, in keeping with the **Lord**'s message that he had spoken through his servant, the prophet Ahijah.
 
 ### Jeroboam’s Reign Ends
 
@@ -791,7 +791,7 @@ There was his body lying on the road, with the donkey standing next to it, and t
 
 [27] Baasha son of Ahijah, from the tribe of Issachar, conspired against Nadab and assassinated him in Gibbethon, which was in Philistine territory. This happened while Nadab and all the Israelite army were besieging Gibbethon.
 [28] Baasha killed him in the third year of Asa’s reign over Judah and replaced him as king.
-[29] When he became king, he executed Jeroboam’s entire family. He wiped out everyone who breathed, in keeping with the **Lord’**s message that he had spoken through his servant Ahijah the Shilonite.
+[29] When he became king, he executed Jeroboam’s entire family. He wiped out everyone who breathed, in keeping with the **Lord**'s message that he had spoken through his servant Ahijah the Shilonite.
 [30] This happened because of the sins which Jeroboam committed and which he made Israel commit. These sins angered the **Lord** God of Israel.
 
 [31] The rest of the events of Nadab’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
@@ -819,7 +819,7 @@ There was his body lying on the road, with the donkey standing next to it, and t
 [9] His servant Zimri, a commander of half of his chariot force, conspired against him. While Elah was in Tirzah drinking heavily at the house of Arza, who supervised the palace in Tirzah,
 [10] Zimri came in and struck him dead. (This happened in the twenty-seventh year of Asa’s reign over Judah.) Zimri replaced Elah as king.
 [11] When he became king and occupied the throne, he killed Baasha’s entire family. He did not spare any male belonging to him; he killed his relatives and his friends.
-[12] Zimri destroyed Baasha’s entire family, in keeping with the **Lord’**s message which he had spoken against Baasha through Jehu the prophet.
+[12] Zimri destroyed Baasha’s entire family, in keeping with the **Lord**'s message which he had spoken against Baasha through Jehu the prophet.
 [13] This happened because of all the sins which Baasha and his son Elah committed and which they made Israel commit. They angered the **Lord** God of Israel with their worthless idols.
 
 [14] The rest of the events of Elah’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
@@ -855,21 +855,21 @@ There was his body lying on the road, with the donkey standing next to it, and t
 [32] He set up an altar for Baal in the temple of Baal he had built in Samaria.
 [33] Ahab also made an Asherah pole; he did more to anger the **Lord** God of Israel than all the kings of Israel who were before him.
 
-[34] During Ahab’s reign, Hiel the Bethelite rebuilt Jericho. Abiram, his firstborn son, died when he laid the foundation; Segub, his youngest son, died when he erected its gates, in keeping with the **Lord’**s message that he had spoken through Joshua son of Nun.
+[34] During Ahab’s reign, Hiel the Bethelite rebuilt Jericho. Abiram, his firstborn son, died when he laid the foundation; Segub, his youngest son, died when he erected its gates, in keeping with the **Lord**'s message that he had spoken through Joshua son of Nun.
 
 ## Chapter 17
 
 ### Elijah Visits a Widow in Sidonian Territory
 
 [1] Elijah the Tishbite, from Tishbe in Gilead, said to Ahab, “As certainly as the **Lord** God of Israel lives (whom I serve), there will be no dew or rain in the years ahead unless I give the command.”
-[2] The **Lord’**s message came to him:
+[2] The **Lord**'s message came to him:
 [3] “Leave here and travel eastward. Hide out in the Kerith Valley near the Jordan.
 [4] Drink from the stream; I have already told the ravens to bring you food there.”
 [5] So he carried out the **Lord**’s message; he went and lived in the Kerith Valley near the Jordan.
 [6] The ravens would bring him bread and meat each morning and evening, and he would drink from the stream.
 
 [7] After a while, the stream dried up because there had been no rain in the land.
-[8] The **Lord’**s message came to him,
+[8] The **Lord**'s message came to him,
 [9] “Get up, go to Zarephath in Sidonian territory, and live there. I have already told a widow who lives there to provide for you.”
 [10] So he got up and went to Zarephath. When he went through the city gate, there was a widow gathering wood. He called out to her, “Please give me a little water in a cup, so I can take a drink.”
 [11] As she went to get it, he called out to her, “Please bring me a piece of bread.”
@@ -877,7 +877,7 @@ There was his body lying on the road, with the donkey standing next to it, and t
 [13] Elijah said to her, “Don’t be afraid. Go and do as you planned. But first make me a small cake and bring it to me; then make something for yourself and your son.
 [14] For this is what the **Lord** God of Israel has said: ‘The jar of flour will not be empty and the jug of oil will not run out until the day the **Lord** makes it rain on the surface of the ground.’”
 [15] She went and did as Elijah told her; there was always enough food for Elijah and for her and her family.
-[16] The jar of flour was never empty and the jug of oil never ran out, in keeping with the **Lord’**s message that he had spoken through Elijah.
+[16] The jar of flour was never empty and the jug of oil never ran out, in keeping with the **Lord**'s message that he had spoken through Elijah.
 
 [17] After this the son of the woman who owned the house got sick. His illness was so severe he could no longer breathe.
 [18] She asked Elijah, “Why, prophet, have you come to me to confront me with my sin and kill my son?”
@@ -886,7 +886,7 @@ There was his body lying on the road, with the donkey standing next to it, and t
 [21] He stretched out over the boy three times and called out to the **Lord**, “O **Lord**, my God, please let this boy’s breath return to him.”
 [22] The **Lord** answered Elijah’s prayer; the boy’s breath returned to him and he lived.
 [23] Elijah took the boy, brought him down from the upper room to the house, and handed him to his mother. Elijah then said, “See, your son is alive!”
-[24] The woman said to Elijah, “Now I know that you are a prophet and that the **Lord’**s message really does come through you.”
+[24] The woman said to Elijah, “Now I know that you are a prophet and that the **Lord**'s message really does come through you.”
 
 ## Chapter 18
 
@@ -931,7 +931,7 @@ Now the famine was severe in Samaria.
 [29] Throughout the afternoon they were in an ecstatic frenzy, but there was no sound, no answer, and no response.
 
 [30] Elijah then told all the people, “Approach me.” So all the people approached him. He repaired the altar of the **Lord** that had been torn down.
-[31] Then Elijah took twelve stones, corresponding to the number of tribes that descended from Jacob, to whom the **Lord’**s message had come, “Israel will be your name.”
+[31] Then Elijah took twelve stones, corresponding to the number of tribes that descended from Jacob, to whom the **Lord**'s message had come, “Israel will be your name.”
 [32] With the stones he constructed an altar for the **Lord**. Around the altar he made a trench large enough to contain two seahs of seed.
 [33] He arranged the wood, cut up the bull, and placed it on the wood. Then he said, “Fill four water jars and pour the water on the offering and the wood.”
 [34] When they had done so, he said, “Do it again.” So they did it again. Then he said, “Do it a third time.” So they did it a third time.
@@ -963,7 +963,7 @@ Now the famine was severe in Samaria.
 [7] The angel of the **Lord** came back again, touched him, and said, “Get up and eat, for otherwise you won’t be able to make the journey.”
 [8] So he got up and ate and drank. That meal gave him the strength to travel forty days and forty nights until he reached Horeb, the mountain of God.
 
-[9] He went into a cave there and spent the night. Suddenly the **Lord’**s message came to him, “Why are you here, Elijah?”
+[9] He went into a cave there and spent the night. Suddenly the **Lord**'s message came to him, “Why are you here, Elijah?”
 [10] He answered, “I have been absolutely loyal to the **Lord** God of Heaven’s Armies, even though the Israelites have abandoned the covenant they made with you, torn down your altars, and killed your prophets with the sword. I alone am left and now they want to take my life.”
 [11] The **Lord** said, “Go out and stand on the mountain before the **Lord**. Look, the **Lord** is ready to pass by.”
 
@@ -1080,7 +1080,7 @@ A very powerful wind went before the **Lord**, digging into the mountain and cau
 [26] He was so wicked he worshiped the disgusting idols, just as the Amorites whom the **Lord** had driven out from before the Israelites.)
 
 [27] When Ahab heard these words, he tore his clothes, put on sackcloth, and fasted. He slept in sackcloth and walked around dejected.
-[28] The **Lord’**s message came to Elijah the Tishbite,
+[28] The **Lord**'s message came to Elijah the Tishbite,
 [29] “Have you noticed how Ahab shows remorse before me? Because he shows remorse before me, I will not bring disaster on his dynasty during his lifetime, but during the reign of his son.”
 
 ## Chapter 22

@@ -604,7 +604,7 @@ They replied, “The Philistine leaders number five. So send five gold sores and
 [11] “I regret that I have made Saul king, for he has turned away from me and has not done what I told him to do.” Samuel became angry and he cried out to the **Lord** all that night.
 
 [12] Then Samuel got up early to meet Saul the next morning. But Samuel was informed, “Saul has gone to Carmel where he is setting up a monument for himself.” Then Samuel left and went down to Gilgal.
-[13] When Samuel came to Saul, Saul said to him, “May the **Lord** bless you! I have fulfilled the **Lord’**s orders.”
+[13] When Samuel came to Saul, Saul said to him, “May the **Lord** bless you! I have fulfilled the **Lord**'s orders.”
 
 [14] Samuel replied, “If that is the case, then what is this sound of sheep in my ears and the sound of cattle that I hear?”
 [15] Saul said, “They were brought from the Amalekites; the army spared the best of the flocks and cattle to sacrifice to the **Lord** our God. But everything else we slaughtered.”
@@ -652,7 +652,7 @@ he has rejected you from being king.”<br>
 
 [1] The **Lord** said to Samuel, “How long do you intend to mourn for Saul? I have rejected him as king over Israel. Fill your horn with olive oil and go. I am sending you to Jesse in Bethlehem, for I have selected a king for myself from among his sons.”
 
-[2] Samuel replied, “How can I go? Saul will hear about it and kill me!” But the **Lord** said, “Take a heifer with you and say, ‘I have come to sacrifice to the **Lord.’**
+[2] Samuel replied, “How can I go? Saul will hear about it and kill me!” But the **Lord** said, “Take a heifer with you and say, ‘I have come to sacrifice to the **Lord.**'
 [3] Then invite Jesse to the sacrifice, and I will show you what you should do. You will anoint for me the one I point out to you.”
 
 [4] Samuel did what the **Lord** told him. When he arrived in Bethlehem, the elders of the city were afraid to meet him. They said, “Do you come in peace?”

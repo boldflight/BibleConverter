@@ -6,7 +6,7 @@
 
 [1] In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles at the Kebar River, the heavens opened and I saw a divine vision.
 [2] (On the fifth day of the month—it was the fifth year of King Jehoiachin’s exile—
-[3] the **Lord’**s message came to the priest Ezekiel the son of Buzi, at the Kebar River in the land of the Babylonians. The hand of the **Lord** came on him there.)
+[3] the **Lord**'s message came to the priest Ezekiel the son of Buzi, at the Kebar River in the land of the Babylonians. The hand of the **Lord** came on him there.)
 
 [4] As I watched, I noticed a windstorm coming from the north—an enormous cloud, with lightning flashing, such that bright light rimmed it and came from it like glowing amber from the middle of a fire.
 [5] In the fire were what looked like four living beings. In their appearance they had human form,
@@ -81,7 +81,7 @@
 [14] A wind lifted me up and carried me away. I went bitterly, my spirit full of fury, and the hand of the **Lord** rested powerfully on me.
 [15] I came to the exiles at Tel Abib, who lived by the Kebar River. I sat dumbfounded among them there, where they were living, for seven days.
 
-[16] At the end of seven days the **Lord’**s message came to me:
+[16] At the end of seven days the **Lord**'s message came to me:
 [17] “Son of man, I have appointed you a watchman for the house of Israel. Whenever you hear a word from my mouth, you must give them a warning from me.
 [18] When I say to the wicked, ‘You will certainly die,’ and you do not warn him—you do not speak out to warn the wicked to turn from his wicked lifestyle so that he may live—that wicked person will die for his iniquity, but I will hold you accountable for his death.
 [19] But as for you, if you warn the wicked and he does not turn from his wicked deed and from his wicked lifestyle, he will die for his iniquity but you will have saved your own life.
@@ -156,7 +156,7 @@
 
 ### Judgment on the Mountains of Israel
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, turn toward the mountains of Israel and prophesy against them.
 [3] Say, ‘Mountains of Israel, hear the word of the Sovereign **Lord**! This is what the Sovereign **Lord** says to the mountains and the hills, to the ravines and the valleys: I am bringing a sword against you, and I will destroy your high places.
 [4] Your altars will be ruined and your incense altars will be broken. I will throw down your slain in front of your idols.
@@ -177,7 +177,7 @@
 
 ### The End Arrives
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “You, son of man—this is what the Sovereign **Lord** says to the land of Israel: An end! The end is coming on the four corners of the land!
 [3] The end is now upon you, and I will release my anger against you. I will judge you according to your behavior; I will hold you accountable for all your abominable practices.
 [4] My eye will not pity you; I will not spare you. For I will hold you responsible for your behavior, and you will suffer the consequences of your abominable practices. Then you will know that I am the **Lord**!
@@ -198,7 +198,7 @@
 [16] Their survivors will escape to the mountains and become like doves of the valleys ; all of them will moan—each one for his iniquity.
 [17] All their hands will hang limp; their knees will be wet with urine.
 [18] They will wear sackcloth, terror will cover them; shame will be on all their faces, and all their heads will be shaved bald.
-[19] They will discard their silver in the streets, and their gold will be treated like filth. Their silver and gold will not be able to deliver them on the day of the **Lord’**s fury. They will not satisfy their hunger or fill their stomachs because their wealth was the obstacle leading to their iniquity.
+[19] They will discard their silver in the streets, and their gold will be treated like filth. Their silver and gold will not be able to deliver them on the day of the **Lord**'s fury. They will not satisfy their hunger or fill their stomachs because their wealth was the obstacle leading to their iniquity.
 [20] They rendered the beauty of his ornaments into pride, and with it they made their abominable images—their detestable idols. Therefore I will render it filthy to them.
 [21] I will give it to foreigners as loot, to the world’s wicked ones as plunder, and they will desecrate it.
 [22] I will turn my face away from them, and they will desecrate my treasured place. Vandals will enter it and desecrate it.
@@ -231,10 +231,10 @@
 [12] He said to me, “Do you see, son of man, what the elders of the house of Israel are doing in the dark, each in the chamber of his idolatrous images? For they think, ‘The **Lord** does not see us! The **Lord** has abandoned the land!’”
 [13] He said to me, “You will see them practicing even greater abominations!”
 
-[14] Then he brought me to the entrance of the north gate of the **Lord’**s house. I noticed women sitting there weeping for Tammuz.
+[14] Then he brought me to the entrance of the north gate of the **Lord**'s house. I noticed women sitting there weeping for Tammuz.
 [15] He said to me, “Do you see this, son of man? You will see even greater abominations than these!”
 
-[16] Then he brought me to the inner court of the **Lord’**s house. Right there at the entrance to the **Lord’**s temple, between the porch and the altar, were about twenty-five men with their backs to the **Lord’**s temple, facing east—they were worshiping the sun toward the east!
+[16] Then he brought me to the inner court of the **Lord**'s house. Right there at the entrance to the **Lord**'s temple, between the porch and the altar, were about twenty-five men with their backs to the **Lord**'s temple, facing east—they were worshiping the sun toward the east!
 
 [17] He said to me, “Do you see, son of man? Is it a trivial thing that the house of Judah commits these abominations they are practicing here? For they have filled the land with violence and provoked me to anger still further. Look, they are putting the branch to their nose!
 [18] Therefore I will act with fury! My eye will not pity them nor will I spare them. When they have shouted in my ears, I will not listen to them.”
@@ -268,7 +268,7 @@
 [2] The**Lord** said to the man dressed in linen, “Go between the wheelwork underneath the cherubim. Fill your hands with burning coals from among the cherubim and scatter them over the city.” He went as I watched.
 
 [3] (The cherubim were standing on the south side of the temple when the man went in, and a cloud filled the inner court.)
-[4] Then the glory of the **Lord** arose from the cherub and moved to the threshold of the temple. The temple was filled with the cloud while the court was filled with the brightness of the **Lord’**s glory.
+[4] Then the glory of the **Lord** arose from the cherub and moved to the threshold of the temple. The temple was filled with the cloud while the court was filled with the brightness of the **Lord**'s glory.
 [5] The sound of the wings of the cherubim could be heard from the outer court, like the sound of the Sovereign God when he speaks.
 
 [6] When the **Lord** commanded the man dressed in linen, “Take fire from within the wheelwork, from among the cherubim,” the man went in and stood by one of the wheels.
@@ -313,7 +313,7 @@
 
 [13] Now, while I was prophesying, Pelatiah son of Benaiah died. Then I threw myself face down and cried out with a loud voice, “Alas, Sovereign **Lord**! You are completely wiping out the remnant of Israel!”
 
-[14] Then the **Lord’**s message came to me:
+[14] Then the **Lord**'s message came to me:
 [15] “Son of man, your brothers, your relatives, and the whole house of Israel, all of them are those to whom the inhabitants of Jerusalem have said, ‘They have gone far away from the **Lord**; to us this land has been given as a possession.’
 
 [16] “Therefore say: ‘This is what the Sovereign **Lord** says: Although I have removed them far away among the nations and have dispersed them among the countries, I have been a little sanctuary for them among the lands where they have gone.’
@@ -336,7 +336,7 @@ Then the vision I had seen went up from me.
 
 ### Previewing the Exile
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, you are living in the midst of a rebellious house. They have eyes to see, but do not see, and ears to hear, but do not hear, because they are a rebellious house.
 
 [3] “Therefore, son of man, pack up your belongings as if for exile. During the day, while they are watching, pretend to go into exile. Go from where you live to another place. Perhaps they will understand, although they are a rebellious house.
@@ -363,13 +363,13 @@ Then the vision I had seen went up from me.
 [19] Then say to the people of the land, ‘This is what the Sovereign **Lord** says about the inhabitants of Jerusalem and of the land of Israel: They will eat their bread with anxiety and drink their water in fright, for their land will be stripped bare of all it contains because of the violence of all who live in it.
 [20] The inhabited towns will be left in ruins, and the land will be devastated. Then you will know that I am the **Lord**.’”
 
-[21] The **Lord’**s message came to me:
+[21] The **Lord**'s message came to me:
 [22] “Son of man, what is this proverb you have in the land of Israel, ‘The days pass slowly, and every vision fails’?
 [23] Therefore tell them, ‘This is what the Sovereign **Lord** says: I hereby end this proverb; they will not recite it in Israel any longer.’ But say to them, ‘The days are at hand when every vision will be fulfilled.
 [24] For there will no longer be any false visions or flattering omens amidst the house of Israel.
 [25] For I, the **Lord**, will speak. Whatever word I speak will be accomplished. It will not be delayed any longer. Indeed in your days, O rebellious house, I will speak the word and accomplish it, declares the Sovereign **Lord**.’”
 
-[26] The **Lord’**s message came to me:
+[26] The **Lord**'s message came to me:
 [27] “Take note, son of man, the house of Israel is saying, ‘The vision that he sees is for distant days; he is prophesying about the far future.’
 [28] Therefore say to them, ‘This is what the Sovereign **Lord** says: None of my words will be delayed any longer! The word I speak will come to pass, declares the Sovereign **Lord**.’”
 
@@ -377,8 +377,8 @@ Then the vision I had seen went up from me.
 
 ### False Prophets Denounced
 
-[1] Then the **Lord’**s message came to me:
-[2] “Son of man, prophesy against the prophets of Israel who are now prophesying. Say to the prophets who prophesy from their imagination: ‘Listen to the **Lord’**s message!
+[1] Then the **Lord**'s message came to me:
+[2] “Son of man, prophesy against the prophets of Israel who are now prophesying. Say to the prophets who prophesy from their imagination: ‘Listen to the **Lord**'s message!
 [3] This is what the Sovereign **Lord** says: Woe to the foolish prophets who follow their own spirit but have seen nothing!
 [4] Your prophets have become like jackals among the ruins, O Israel.
 [5] You have not gone up in the breaks in the wall, nor repaired a wall for the house of Israel that it would stand strong in the battle on the day of the **Lord**.
@@ -411,7 +411,7 @@ Then the vision I had seen went up from me.
 ### Well-Deserved Judgment
 
 [1] Then some men from Israel’s elders came to me and sat down in front of me.
-[2] The **Lord’**s message came to me:
+[2] The **Lord**'s message came to me:
 [3] “Son of man, these men have erected their idols in their hearts and placed the obstacle leading to their iniquity right before their faces. Should I really allow them to seek me?
 [4] Therefore speak to them and say to them, ‘This is what the Sovereign **Lord** says: When anyone from the house of Israel erects his idols in his heart and sets the obstacle leading to his iniquity before his face, and then consults a prophet, I the **Lord** am determined to answer him personally according to the enormity of his idolatry.
 [5] I will do this in order to capture the hearts of the house of Israel, who have alienated themselves from me on account of all their idols.’
@@ -424,7 +424,7 @@ Then the vision I had seen went up from me.
 [10] They will bear their punishment; the punishment of the one who sought an oracle will be the same as the punishment of the prophet who gave it
 [11] so that the house of Israel will no longer go astray from me, nor continue to defile themselves by all their sins. They will be my people, and I will be their God, declares the Sovereign **Lord**.’”
 
-[12] The **Lord’**s message came to me:
+[12] The **Lord**'s message came to me:
 [13] “Son of man, suppose a country sins against me by being unfaithful, and I stretch out my hand against it, cut off its bread supply, cause famine to come on it, and kill both people and animals.
 [14] Even if these three men, Noah, Daniel, and Job, were in it, they would save only their own lives by their righteousness, declares the Sovereign **Lord**.
 
@@ -445,7 +445,7 @@ Then the vision I had seen went up from me.
 
 ### Burning a Useless Vine
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, of all the woody branches among the trees of the forest, what happens to the wood of the vine?
 [3] Can wood be taken from it to make anything useful? Or can anyone make a peg from it to hang things on?
 [4] No! It is thrown in the fire for fuel; when the fire has burned up both ends of it and it is charred in the middle, will it be useful for anything?
@@ -459,7 +459,7 @@ Then the vision I had seen went up from me.
 
 ### God’s Unfaithful Bride
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, confront Jerusalem with her abominable practices
 [3] and say, ‘This is what the Sovereign **Lord** says to Jerusalem: Your origin and your birth were in the land of the Canaanites; your father was an Amorite and your mother a Hittite.
 [4] As for your birth, on the day you were born your umbilical cord was not cut, nor were you washed in water; you were certainly not rubbed down with salt, nor wrapped with blankets.
@@ -541,7 +541,7 @@ Then the vision I had seen went up from me.
 
 ### A Parable of Two Eagles and a Vine
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, offer a riddle, and tell a parable to the house of Israel.
 [3] Say to them: ‘This is what the Sovereign **Lord** says:
 
@@ -578,7 +578,7 @@ will be needed to pull it out by its roots.<br>
 [10] Consider! It is planted, but will it prosper?<br>
 Will it not wither completely when the east wind blows on it?<br>
 Will it not wither in the soil where it sprouted?’”<br>
-[11] Then the **Lord’**s message came to me:
+[11] Then the **Lord**'s message came to me:
 [12] “Say to the rebellious house of Israel: ‘Don’t you know what these things mean?’ Say: ‘See here, the king of Babylon came to Jerusalem and took her king and her officials prisoner and brought them to himself in Babylon.
 [13] He took one from the royal family, made a treaty with him, and put him under oath. He then took the leaders of the land
 [14] so it would be a lowly kingdom that could not rise on its own but had to keep its treaty with him in order to stand.
@@ -700,7 +700,7 @@ No strong branch was left in it, nor a scepter to rule.’<br>
 ### Israel’s Rebellion
 
 [1] In the seventh year, in the fifth month, on the tenth of the month, some of the elders of Israel came to seek the **Lord**, and they sat down in front of me.
-[2] The **Lord’**s message came to me:
+[2] The **Lord**'s message came to me:
 [3] “Son of man, speak to the elders of Israel, and tell them: ‘This is what the Sovereign **Lord** says: Are you coming to seek me? As surely as I live, I will not allow you to seek me, declares the Sovereign **Lord**.’
 [4] Are you willing to pronounce judgment on them? Are you willing to pronounce judgment, son of man? Then confront them with the abominable practices of their fathers,
 [5] and say to them:
@@ -754,7 +754,7 @@ No strong branch was left in it, nor a scepter to rule.’<br>
 
 ### Prophecy Against the South
 
-[45] (21:1) The **Lord’**s message came to me:
+[45] (21:1) The **Lord**'s message came to me:
 [46] “Son of man, turn toward the south, and speak out against the south. Prophesy against the open scrub land of the Negev,
 [47] and say to the scrub land of the Negev, ‘Listen to the **Lord**’s message! This is what the Sovereign **Lord** has said: Look here, I am about to start a fire in you, and it will devour every green tree and every dry tree in you. The flaming fire will not be extinguished, and the whole surface of the ground from the Negev to the north will be scorched by it.
 [48] And everyone will see that I, the **Lord**, have burned it; it will not be extinguished.’”
@@ -765,7 +765,7 @@ No strong branch was left in it, nor a scepter to rule.’<br>
 
 ### The Sword of Judgment
 
-[1] (21:6) The **Lord’**s message came to me:
+[1] (21:6) The **Lord**'s message came to me:
 [2] “Son of man, turn toward Jerusalem and speak out against the sanctuaries. Prophesy against the land of Israel
 [3] and say to them, ‘This is what the **Lord** says: Look, I am against you. I will draw my sword from its sheath and cut off from you both the righteous and the wicked.
 [4] Because I will cut off from you both the righteous and the wicked, my sword will go out from its sheath against everyone from the south to the north.
@@ -774,7 +774,7 @@ No strong branch was left in it, nor a scepter to rule.’<br>
 [6] “And you, son of man, groan with an aching heart and bitterness; groan before their eyes.
 [7] When they ask you, ‘Why are you groaning?’ you will reply, ‘Because of the report that has come. Every heart will melt with fear and every hand will be limp; everyone will faint, and every knee will be wet with urine.’ Pay attention—it is coming and it will happen, declares the Sovereign **Lord**.”
 
-[8] The **Lord’**s message came to me:
+[8] The **Lord**'s message came to me:
 [9] “Son of man, prophesy and say: ‘This is what the Lord says:
 
 “‘A sword, a sword is sharpened,<br>
@@ -808,7 +808,7 @@ wherever your edge is appointed to strike.<br>
 [17] I too will clap my hands together,<br>
 I will exhaust my rage;<br>
 I the **Lord** have spoken.”<br>
-[18] The **Lord’**s message came to me:
+[18] The **Lord**'s message came to me:
 [19] “You, son of man, mark out two routes for the king of Babylon’s sword to take; both of them will originate in a single land. Make a signpost and put it at the beginning of the road leading to the city.
 [20] Mark out the routes for the sword to take: ‘Rabbah of the Ammonites’ and ‘Judah with Jerusalem in it.’
 [21] For the king of Babylon stands at the fork in the road at the head of the two routes. He looks for omens: He shakes arrows, he consults idols, he examines animal livers.
@@ -871,14 +871,14 @@ for I, the **Lord**, have spoken.’”<br>
 [15] I will scatter you among the nations and disperse you among various countries; I will remove your impurity from you.
 [16] You will be profaned within yourself in the sight of the nations; then you will know that I am the **Lord**.’”
 
-[17] The **Lord’**s message came to me:
+[17] The **Lord**'s message came to me:
 [18] “Son of man, the house of Israel has become slag to me. All of them are like bronze, tin, iron, and lead in the furnace; they are the worthless slag of silver.
 [19] Therefore this is what the Sovereign **Lord** says: ‘Because all of you have become slag, look out! I am about to gather you in the middle of Jerusalem.
 [20] As silver, bronze, iron, lead, and tin are gathered in a furnace so that the fire can blow on them to melt them, so I will gather you in my anger and in my rage. I will deposit you there and melt you.
 [21] I will gather you and blow on you with the fire of my fury, and you will be melted in it.
 [22] As silver is melted in a furnace, so you will be melted in it, and you will know that I, the **Lord**, have poured out my anger on you.’”
 
-[23] The **Lord’**s message came to me:
+[23] The **Lord**'s message came to me:
 [24] “Son of man, say to her: ‘You are a land that receives no rain or showers in the day of my anger.’
 [25] Her princes within her are like a roaring lion tearing its prey; they have devoured lives. They take away riches and valuable things; they have made many women widows within it.
 [26] Her priests abuse my law and have desecrated my holy things. They do not distinguish between the holy and the profane, or recognize any distinction between the unclean and the clean. They ignore my Sabbaths, and I am profaned in their midst.
@@ -893,7 +893,7 @@ for I, the **Lord**, have spoken.’”<br>
 
 ### Two Sisters
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, there were two women who were daughters of the same mother.
 [3] They engaged in prostitution in Egypt; in their youth they engaged in prostitution. Their breasts were squeezed there; lovers fondled their virgin nipples there.
 [4] Oholah was the name of the older and Oholibah the name of her younger sister. They became mine and gave birth to sons and daughters. Oholah is Samaria, and Oholibah is Jerusalem.
@@ -955,7 +955,7 @@ for I, the **Lord**, have spoken.’”<br>
 
 ### The Boiling Pot
 
-[1] The **Lord’**s message came to me in the ninth year, in the tenth month, on the tenth day of the month:
+[1] The **Lord**'s message came to me in the ninth year, in the tenth month, on the tenth day of the month:
 [2] “Son of man, write down the name of this day, this very day. The king of Babylon has laid siege to Jerusalem this very day.
 [3] Recite a proverb to this rebellious house and say to them, ‘This is what the Sovereign **Lord** says:
 
@@ -1002,14 +1002,14 @@ until I have exhausted my anger on you.<br>
 
 ### Ezekiel’s Wife Dies
 
-[15] The **Lord’**s message came to me:
+[15] The **Lord**'s message came to me:
 [16] “Son of man, realize that I am about to take the delight of your eyes away from you with a jolt, but you must not mourn or weep or shed tears.
 [17] Groan to moan for the dead, but do not perform mourning rites. Bind on your turban and put your sandals on your feet. Do not cover your lip and do not eat food brought by others.”
 
 [18] So I spoke to the people in the morning, and my wife died in the evening. In the morning I acted just as I was commanded.
 [19] Then the people said to me, “Will you not tell us what these things you are doing mean for us?”
 
-[20] So I said to them: “The **Lord’**s message came to me:
+[20] So I said to them: “The **Lord**'s message came to me:
 [21] Say to the house of Israel, ‘This is what the Sovereign **Lord** says: Realize I am about to desecrate my sanctuary—the source of your confident pride, the object in which your eyes delight, and your life’s passion. Your very own sons and daughters whom you have left behind will die by the sword.
 [22] Then you will do as I have done: You will not cover your lip or eat food brought by others.
 [23] Your turbans will be on your heads and your sandals on your feet; you will not mourn or weep, but you will rot for your iniquities and groan among yourselves.
@@ -1023,7 +1023,7 @@ until I have exhausted my anger on you.<br>
 
 ### A Prophecy Against Ammon
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, turn toward the Ammonites and prophesy against them.
 [3] Say to the Ammonites, ‘Hear the word of the Sovereign **Lord**. This is what the Sovereign **Lord** says: You said “Aha!” about my sanctuary when it was desecrated, about the land of Israel when it was made desolate, and about the house of Judah when they went into exile.
 [4] So take note, I am about to make you slaves of the tribes of the east. They will make camps among you and pitch their tents among you. They will eat your fruit and drink your milk.
@@ -1054,7 +1054,7 @@ until I have exhausted my anger on you.<br>
 
 ### A Prophecy Against Tyre
 
-[1] In the eleventh year, on the first day of the month, the **Lord’**s message came to me:
+[1] In the eleventh year, on the first day of the month, the **Lord**'s message came to me:
 [2] “Son of man, because Tyre has said about Jerusalem, ‘Aha, the gateway of the peoples is broken; it has swung open to me. I will become rich, now that she has been destroyed,’
 [3] therefore this is what the Sovereign **Lord** says: Look, I am against you, O Tyre! I will bring up many nations against you, as the sea brings up its waves.
 [4] They will destroy the walls of Tyre and break down her towers. I will scrape her soil from her and make her a bare rock.
@@ -1087,7 +1087,7 @@ the coastlands by the sea will be terrified by your passing.’<br>
 
 ### A Lament for Tyre
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “You, son of man, sing a lament for Tyre.
 [3] Say to Tyre, who sits at the entrance of the sea, merchant to the peoples on many coasts, ‘This is what the Sovereign **Lord** says:
 
@@ -1157,7 +1157,7 @@ you have become a horror, and will be no more.’”<br>
 
 ### A Prophecy Against the King of Tyre
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, say to the prince of Tyre, ‘This is what the Sovereign **Lord** says:
 
 “‘Your heart is proud and you said, “I am a god;<br>
@@ -1182,7 +1182,7 @@ though you are a man and not a god—<br>
 when you are in the power of those who wound you?<br>
 [10] You will die the death of the uncircumcised by the hand of foreigners;<br>
 for I have spoken, declares the Sovereign **Lord**.’”<br>
-[11] The **Lord’**s message came to me:
+[11] The **Lord**'s message came to me:
 [12] “Son of man, sing a lament for the king of Tyre, and say to him, ‘This is what the Sovereign **Lord** says:
 
 “‘You were the sealer of perfection,<br>
@@ -1216,7 +1216,7 @@ before the eyes of all who saw you.<br>
 you have become terrified and will be no more.’”<br>
 ### A Prophecy Against Sidon
 
-[20] The **Lord’**s message came to me:
+[20] The **Lord**'s message came to me:
 [21] “Son of man, turn toward Sidon and prophesy against it.
 [22] Say, ‘This is what the Sovereign **Lord** says:
 
@@ -1237,7 +1237,7 @@ Then they will know that I am the **Lord**.<br>
 
 ### A Prophecy Against Egypt
 
-[1] In the tenth year, in the tenth month, on the twelfth day of the month, the **Lord’**s message came to me:
+[1] In the tenth year, in the tenth month, on the twelfth day of the month, the **Lord**'s message came to me:
 [2] “Son of man, turn toward Pharaoh king of Egypt and prophesy against him and against all Egypt.
 [3] Tell them, ‘This is what the Sovereign **Lord** says:
 
@@ -1269,7 +1269,7 @@ and when they leaned on you, you splintered and caused their legs to be unsteady
 [15] It will be the most insignificant of the kingdoms; it will never again exalt itself over the nations. I will make them so small that they will not rule over the nations.
 [16] It will never again be Israel’s source of confidence, but a reminder of how they sinned by turning to Egypt for help. Then they will know that I am the Sovereign **Lord**.’”
 
-[17] In the twenty-seventh year, in the first month, on the first day of the month, the **Lord’**s message came to me:
+[17] In the twenty-seventh year, in the first month, on the first day of the month, the **Lord**'s message came to me:
 [18] “Son of man, King Nebuchadrezzar of Babylon made his army labor hard against Tyre. Every head was rubbed bald and every shoulder rubbed bare; yet he and his army received no wages from Tyre for the work he carried out against it.
 [19] Therefore this is what the Sovereign **Lord** says: Look, I am about to give the land of Egypt to King Nebuchadrezzar of Babylon. He will carry off her wealth, capture her loot, and seize her plunder; it will be his army’s wages.
 [20] I have given him the land of Egypt as his compensation for attacking Tyre, because they did it for me, declares the Sovereign **Lord**.
@@ -1279,7 +1279,7 @@ and when they leaned on you, you splintered and caused their legs to be unsteady
 
 ### A Lament Over Egypt
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, prophesy and say, ‘This is what the Sovereign **Lord** says:
 
 “‘Wail, “Alas, the day is here!”<br>
@@ -1344,7 +1344,7 @@ Her confident pride will cease within her;<br>
 a cloud will cover her, and her daughters will go into captivity.<br>
 [19] I will execute judgments on Egypt.<br>
 Then they will know that I am the **Lord**.’”<br>
-[20] In the eleventh year, in the first month, on the seventh day of the month, the **Lord’**s message came to me:
+[20] In the eleventh year, in the first month, on the seventh day of the month, the **Lord**'s message came to me:
 [21] “Son of man, I have broken the arm of Pharaoh king of Egypt. Look, it has not been bandaged for healing or set with a dressing so that it might become strong enough to grasp a sword.
 [22] Therefore this is what the Sovereign **Lord** says: Look, I am against Pharaoh king of Egypt, and I will break his arms, the strong arm and the broken one, and I will make the sword drop from his hand.
 [23] I will scatter the Egyptians among the nations and disperse them among foreign countries.
@@ -1356,7 +1356,7 @@ Then they will know that I am the **Lord**.’”<br>
 
 ### A Cedar in Lebanon
 
-[1] In the eleventh year, in the third month, on the first day of the month, the **Lord’**s message came to me:
+[1] In the eleventh year, in the third month, on the first day of the month, the **Lord**'s message came to me:
 [2] “Son of man, say to Pharaoh king of Egypt and his hordes:
 
 “‘Who are you like in your greatness?<br>
@@ -1397,7 +1397,7 @@ all the trees of Eden, in the garden of God, envied it.<br>
 
 ### Lamentation over Pharaoh and Egypt
 
-[1] In the twelfth year, in the twelfth month, on the first of the month, the **Lord’**s message came to me:
+[1] In the twelfth year, in the twelfth month, on the first of the month, the **Lord**'s message came to me:
 [2] “Son of man, sing a lament for Pharaoh king of Egypt, and say to him:
 
 “‘You were like a lion among the nations,<br>
@@ -1452,7 +1452,7 @@ then they will know that I am the **Lord**.’<br>
 The daughters of the nations will chant it.<br>
 They will chant it over Egypt and over all her hordes,<br>
 declares the Sovereign **Lord**.”<br>
-[17] In the twelfth year, on the fifteenth day of the month, the **Lord’**s message came to me:
+[17] In the twelfth year, on the fifteenth day of the month, the **Lord**'s message came to me:
 [18] “Son of man, wail over the horde of Egypt. Bring it down; bring her and the daughters of powerful nations down to the lower parts of the earth, along with those who descend to the Pit.
 [19] Say to them, ‘Whom do you surpass in beauty? Go down and be laid to rest with the uncircumcised!’
 [20] They will fall among those killed by the sword. The sword is drawn; they carry her and all her hordes away.
@@ -1480,7 +1480,7 @@ declares the Sovereign **Lord**.”<br>
 
 ### Ezekiel Israel’s Watchman
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, speak to your people, and say to them, ‘Suppose I bring a sword against the land, and the people of the land take one man from their borders and make him their watchman.
 [3] He sees the sword coming against the land, blows the trumpet, and warns the people,
 [4] but there is one who hears the sound of the trumpet yet does not heed the warning. Then the sword comes and sweeps him away. He will be responsible for his own death.
@@ -1527,14 +1527,14 @@ declares the Sovereign **Lord**.”<br>
 
 ### A Prophecy Against False Shepherds
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, prophesy against the shepherds of Israel; prophesy, and say to them—to the shepherds: ‘This is what the Sovereign **Lord** says: Woe to the shepherds of Israel who have been feeding themselves! Should not shepherds feed the flock?
 [3] You eat the fat, you clothe yourselves with the wool, you slaughter the choice animals, but you do not feed the sheep!
 [4] You have not strengthened the weak, healed the sick, bandaged the injured, brought back the strays, or sought the lost, but with force and harshness you have ruled over them.
 [5] They were scattered because they had no shepherd, and they became food for every wild beast.
 [6] My sheep wandered over all the mountains and on every high hill. My sheep were scattered over the entire face of the earth with no one looking or searching for them.
 
-[7] “‘Therefore, you shepherds, listen to the **Lord’**s message:
+[7] “‘Therefore, you shepherds, listen to the **Lord**'s message:
 [8] As surely as I live, declares the Sovereign **Lord**, my sheep have become prey and have become food for all the wild beasts. There was no shepherd, and my shepherds did not search for my flock, but fed themselves and did not feed my sheep.
 [9] Therefore, you shepherds, listen to the **Lord**’s message.
 [10] This is what the Sovereign **Lord** says: Look, I am against the shepherds, and I will demand my sheep from their hand. I will no longer let them be shepherds; the shepherds will not feed themselves anymore. I will rescue my sheep from their mouths, so that they will no longer be food for them.
@@ -1569,7 +1569,7 @@ declares the Sovereign **Lord**.”<br>
 
 ### Prophecy Against Mount Seir
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, turn toward Mount Seir, and prophesy against it.
 [3] Say to it, ‘This is what the Sovereign **Lord** says:
 
@@ -1615,7 +1615,7 @@ Then you will know that I am the **Lord**!<br>
 [14] therefore you will no longer devour people and no longer bereave your nation of children, declares the Sovereign **Lord**.
 [15] I will no longer subject you to the nations’ insults; no longer will you bear the shame of the peoples, and no longer will you bereave your nation, declares the Sovereign **Lord**.’”
 
-[16] The **Lord’**s message came to me:
+[16] The **Lord**'s message came to me:
 [17] “Son of man, when the house of Israel was living on their own land, they defiled it by their behavior and their deeds. In my sight their behavior was like the uncleanness of a woman having her monthly period.
 [18] So I poured my anger on them because of the blood they shed on the land and because of the idols with which they defiled it.
 [19] I scattered them among the nations; they were dispersed throughout foreign countries. In accordance with their behavior and their deeds I judged them.
@@ -1650,7 +1650,7 @@ Then you will know that I am the **Lord**!<br>
 [1] The hand of the **Lord** was on me, and he brought me out by the Spirit of the **Lord** and placed me in the midst of the valley, and it was full of bones.
 [2] He made me walk all around among them. I realized there were a great many bones in the valley, and they were very dry.
 [3] He said to me, “Son of man, can these bones live?” I said to him, “Sovereign **Lord**, you know.”
-[4] Then he said to me, “Prophesy over these bones, and tell them: ‘Dry bones, listen to the **Lord’**s message.
+[4] Then he said to me, “Prophesy over these bones, and tell them: ‘Dry bones, listen to the **Lord**'s message.
 [5] This is what the Sovereign **Lord** says to these bones: Look, I am about to infuse breath into you and you will live.
 [6] I will put tendons on you and muscles over you and will cover you with skin; I will put breath in you, and you will live. Then you will know that I am the **Lord**.’”
 
@@ -1665,7 +1665,7 @@ Then you will know that I am the **Lord**!<br>
 [13] Then you will know that I am the **Lord**, when I open your graves and raise you from your graves, my people.
 [14] I will place my breath in you and you will live; I will give you rest in your own land. Then you will know that I am the **Lord**—I have spoken and I will act, declares the **Lord**.’”
 
-[15] The **Lord’**s message came to me:
+[15] The **Lord**'s message came to me:
 [16] “As for you, son of man, take one branch and write on it, ‘For Judah and for the Israelites associated with him.’ Then take another branch and write on it, ‘For Joseph, the branch of Ephraim, and all the house of Israel associated with him.’
 [17] Join them as one stick; they will be as one in your hand.
 [18] When your people say to you, ‘Will you not tell us what these things mean?’
@@ -1685,7 +1685,7 @@ Then you will know that I am the **Lord**!<br>
 
 ### A Prophecy Against Gog
 
-[1] The **Lord’**s message came to me:
+[1] The **Lord**'s message came to me:
 [2] “Son of man, turn toward Gog, of the land of Magog, the chief prince of Meshech and Tubal. Prophesy against him
 [3] and say: ‘This is what the Sovereign **Lord** says: Look, I am against you, Gog, chief prince of Meshech and Tubal.
 [4] I will turn you around, put hooks into your jaws, and bring you out with all your army, horses, and horsemen, all of them fully armed, a great company with shields of different types, all of them armed with swords.
@@ -1931,8 +1931,8 @@ The interior of the outer sanctuary and the porch of the court,
 [2] The **Lord** said to me: “This gate will be shut; it will not be opened, and no one will enter by it. For the **Lord**, the God of Israel, has entered by it; therefore it will remain shut.
 [3] Only the prince may sit in it to eat a sacrificial meal before the **Lord**; he will enter by way of the porch of the gate and will go out by the same way.”
 
-[4] Then he brought me by way of the north gate to the front of the temple. As I watched, I noticed the glory of the **Lord** filling the **Lord’**s temple, and I threw myself face down.
-[5] The **Lord** said to me: “Son of man, pay attention, watch closely, and listen carefully to everything I tell you concerning all the statutes of the **Lord’**s house and all its laws. Pay attention to the entrances to the temple with all the exits of the sanctuary.
+[4] Then he brought me by way of the north gate to the front of the temple. As I watched, I noticed the glory of the **Lord** filling the **Lord**'s temple, and I threw myself face down.
+[5] The **Lord** said to me: “Son of man, pay attention, watch closely, and listen carefully to everything I tell you concerning all the statutes of the **Lord**'s house and all its laws. Pay attention to the entrances to the temple with all the exits of the sanctuary.
 [6] Say to the rebellious, to the house of Israel, ‘This is what the Sovereign **Lord** says: Enough of all your abominable practices, O house of Israel!
 [7] When you bring foreigners, those uncircumcised in heart and in flesh, into my sanctuary, you desecrate it—even my house—when you offer my food, the fat and the blood. You have broken my covenant by all your abominable practices.
 [8] You have not kept charge of my holy things, but you have assigned foreigners to keep charge of my sanctuary for you.

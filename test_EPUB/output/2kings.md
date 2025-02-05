@@ -27,7 +27,7 @@
 
 [16] Elijah said to the king, “This is what the **Lord** has said, ‘You sent messengers to seek an oracle from Baal Zebub, the god of Ekron. Is it because there is no God in Israel from whom you can seek a message? Therefore you will not leave the bed you lie on, for you will certainly die.’”
 
-[17] And he did die in keeping with the **Lord’**s message that he had spoken through Elijah. In the second year of the reign of King Jehoram son of Jehoshaphat over Judah, Ahaziah’s brother Jehoram replaced him as king of Israel, because he had no son.
+[17] And he did die in keeping with the **Lord**'s message that he had spoken through Elijah. In the second year of the reign of King Jehoram son of Jehoshaphat over Judah, Ahaziah’s brother Jehoram replaced him as king of Israel, because he had no son.
 [18] The rest of the events of Ahaziah’s reign, including his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
 
 ## Chapter 2
@@ -85,7 +85,7 @@
 [9] So the kings of Israel, Judah, and Edom set out together. They wandered around on the road for seven days and finally ran out of water for the men and animals they had with them.
 [10] The king of Israel said, “Oh no! Certainly the **Lord** has summoned these three kings so that he can hand them over to the king of Moab!”
 [11] Jehoshaphat asked, “Is there no prophet of the **Lord** here that we might seek the **Lord**’s direction?” One of the servants of the king of Israel answered, “Elisha son of Shapat is here; he used to be Elijah’s servant.”
-[12] Jehoshaphat said, “Yes, he receives the **Lord’**s messages.” So the king of Israel and Jehoshaphat and the king of Edom went down to visit him.
+[12] Jehoshaphat said, “Yes, he receives the **Lord**'s messages.” So the king of Israel and Jehoshaphat and the king of Edom went down to visit him.
 
 [13] Elisha said to the king of Israel, “Why are you here? Go to your father’s prophets or your mother’s prophets!” The king of Israel replied to him, “No, for the **Lord** is the one who summoned these three kings so that he can hand them over to Moab.”
 [14] Elisha said, “As certainly as the **Lord** of Heaven’s Armies lives (whom I serve), if I did not respect King Jehoshaphat of Judah, I would not pay attention to you or acknowledge you.
@@ -272,7 +272,7 @@ When he had gone a short distance,
 [13] One of his advisers replied, “Pick some men and have them take five of the horses that are left in the city. (Even if they are killed, their fate will be no different than that of all the Israelite people—we’re all going to die!) Let’s send them out so we can know for sure what’s going on.”
 [14] So they picked two horsemen and the king sent them out to track the Syrian army. He ordered them, “Go and find out what’s going on.”
 [15] So they tracked them as far as the Jordan. The road was filled with clothes and equipment that the Syrians had discarded in their haste. The scouts went back and told the king.
-[16] Then the people went out and looted the Syrian camp. A seah of finely milled flour sold for a shekel, and two seahs of barley for a shekel, just as in the **Lord’**s message.
+[16] Then the people went out and looted the Syrian camp. A seah of finely milled flour sold for a shekel, and two seahs of barley for a shekel, just as in the **Lord**'s message.
 
 [17] Now the king had placed the officer who was his right-hand man at the city gate. When the people rushed out, they trampled him to death in the gate. This fulfilled the prophet’s word which he had spoken when the king tried to arrest him.
 [18] The prophet had told the king, “Two seahs of barley will sell for a shekel, and a seah of finely milled flour for a shekel; this will happen about this time tomorrow in the gate of Samaria.”
@@ -392,7 +392,7 @@ Now Joram had been in Ramoth Gilead with the whole Israelite army, guarding agai
 [7] When they received the letter, they seized the king’s sons and executed all seventy of them. They put their heads in baskets and sent them to him in Jezreel.
 [8] The messenger came and told Jehu, “They have brought the heads of the king’s sons.” Jehu said, “Stack them in two piles at the entrance of the city gate until morning.”
 [9] In the morning he went out and stood there. Then he said to all the people, “You are innocent. I conspired against my master and killed him. But who struck down all of these men?
-[10] Therefore take note that not one of the **Lord’**s words which he pronounced against Ahab’s dynasty will fail to materialize. The **Lord** has done what he announced through his servant Elijah.”
+[10] Therefore take note that not one of the **Lord**'s words which he pronounced against Ahab’s dynasty will fail to materialize. The **Lord** has done what he announced through his servant Elijah.”
 [11] Then Jehu killed all who were left of Ahab’s family in Jezreel, and all his nobles, close friends, and priests. He left no survivors.
 
 [12] Jehu then left there and set out for Samaria. While he was traveling through Beth Eked of the Shepherds,
@@ -401,7 +401,7 @@ Now Joram had been in Ramoth Gilead with the whole Israelite army, guarding agai
 
 [15] When he left there, he met Jehonadab son of Rekab who had been looking for him. Jehu greeted him and asked, “Are you as committed to me as I am to you?” Jehonadab answered, “I am!” Jehu replied, “If so, give me your hand.” So he offered his hand and Jehu pulled him up into the chariot.
 [16] Jehu said, “Come with me and see how zealous I am for the **Lord**’s cause.” So he took him along in his chariot.
-[17] He went to Samaria and killed each of Ahab’s remaining family members who were in Samaria until he destroyed them, in keeping with the **Lord’**s message which he had announced to Elijah.
+[17] He went to Samaria and killed each of Ahab’s remaining family members who were in Samaria until he destroyed them, in keeping with the **Lord**'s message which he had announced to Elijah.
 
 ### Jehu Executes the Prophets and Priests of Baal
 
@@ -871,7 +871,7 @@ He will not enter this city,” says the **Lord**.<br>
 [2] He turned his face to the wall and prayed to the **Lord**,
 [3] “Please, **Lord**. Remember how I have served you faithfully and with wholehearted devotion, and how I have carried out your will.” Then Hezekiah wept bitterly.
 
-[4] Isaiah had not yet left the middle courtyard when the **Lord’**s message came to him,
+[4] Isaiah had not yet left the middle courtyard when the **Lord**'s message came to him,
 [5] “Go back and tell Hezekiah, the leader of my people: ‘This is what the **Lord** God of your ancestor David has said: “I have heard your prayer; I have seen your tears. Look, I will heal you. The day after tomorrow you will go up to the **Lord**’s temple.
 [6] I will add fifteen years to your life and rescue you and this city from the king of Assyria. I will shield this city for the sake of my reputation and because of my promise to David my servant.”’”
 [7] Isaiah ordered, “Get a fig cake.” So they did as he ordered and placed it on the ulcerated sore, and he recovered.

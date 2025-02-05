@@ -273,7 +273,7 @@ All the people wept over him again.
 [1] The king settled into his palace, for the **Lord** gave him relief from all his enemies on all sides.
 [2] The king said to Nathan the prophet, “Look! I am living in a palace made from cedar, while the ark of God sits in the middle of a tent.”
 [3] Nathan replied to the king, “You should go and do whatever you have in mind, for the **Lord** is with you.”
-[4] That night the **Lord’**s message came to Nathan,
+[4] That night the **Lord**'s message came to Nathan,
 [5] “Go, tell my servant David, ‘This is what the **Lord** has said: Do you really intend to build a house for me to live in?
 [6] I have not lived in a house from the time I brought the Israelites up from Egypt to the present day. Instead, I was traveling with them and living in a tent.
 [7] Wherever I moved among all the Israelites, I did not say to any of their leaders whom I appointed to care for my people Israel, “Why have you not built me a house made from cedar?”’
@@ -1150,7 +1150,7 @@ Josheb Basshebeth, a Tahkemonite, was head of the officers. He killed 800 men wi
 
 [10] David felt guilty after he had numbered the army. David said to the **Lord**, “I have sinned greatly by doing this! Now, O **Lord**, please remove the guilt of your servant, for I have acted very foolishly.”
 
-[11] When David got up the next morning, the **Lord’**s message had already come to the prophet Gad, David’s seer:
+[11] When David got up the next morning, the **Lord**'s message had already come to the prophet Gad, David’s seer:
 [12] “Go, tell David, ‘This is what the **Lord** has said: I am offering you three forms of judgment. Pick one of them and I will carry it out against you.’”
 
 [13] Gad went to David and told him, “Shall seven years of famine come upon your land? Or shall you flee for three months from your enemies with them in hot pursuit? Or shall there be three days of plague in your land? Now decide what I should tell the one who sent me.”

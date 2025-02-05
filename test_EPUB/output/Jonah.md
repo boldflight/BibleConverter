@@ -4,7 +4,7 @@
 
 ### Jonah Tries to Run from the Lord
 
-[1] The **Lord’**s message came to Jonah son of Amittai,
+[1] The **Lord**'s message came to Jonah son of Amittai,
 [2] “Go immediately to Nineveh, that large capital city, and announce judgment against its people because their wickedness has come to my attention.”
 [3] Instead, Jonah immediately headed off to Tarshish to escape from the commission of the **Lord**. He traveled to Joppa and found a merchant ship heading to Tarshish. So he paid the fare and went aboard it to go with them to Tarshish, far away from the **Lord**.
 [4] But the **Lord** hurled a powerful wind on the sea. Such a violent tempest arose on the sea that the ship threatened to break up!
@@ -58,9 +58,9 @@ Salvation belongs to the **Lord**!”<br>
 
 ### The People of Nineveh Respond to Jonah’s Warning
 
-[1] The **Lord’**s message came to Jonah a second time,
+[1] The **Lord**'s message came to Jonah a second time,
 [2] “Go immediately to Nineveh, that large city, and proclaim to it the message that I tell you.”
-[3] So Jonah went immediately to Nineveh, in keeping with the **Lord’**s message. Now Nineveh was an enormous city —it required three days to walk through it!
+[3] So Jonah went immediately to Nineveh, in keeping with the **Lord**'s message. Now Nineveh was an enormous city —it required three days to walk through it!
 [4] Jonah began to enter the city by going one day’s walk, announcing, “At the end of forty days, Nineveh will be overthrown!”
 
 [5] The people of Nineveh believed in God, and they declared a fast and put on sackcloth, from the greatest to the least of them.

@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Peter, an apostle of Jesus Christ, to those temporarily residing abroad (in Pontus, Galatia, Cappadocia, the province of Asia, and Bithynia) who are chosen
@@ -17,41 +16,45 @@
 [7] Such trials show the proven character of your faith, which is much more valuable than gold—gold that is tested by fire, even though it is passing away —and will bring praise and glory and honor when Jesus Christ is revealed.
 [8] You have not seen him, but you love him. You do not see him now but you believe in him, and so you rejoice with an indescribable and glorious joy,
 [9] because you are attaining the goal of your faith—the salvation of your souls.
+
 [10] Concerning this salvation, the prophets who predicted the grace that would come to you searched and investigated carefully.
 [11] They probed into what person or time the Spirit of Christ within them was indicating when he testified beforehand about the sufferings appointed for Christ and his subsequent glory.
 [12] They were shown that they were serving not themselves but you, in regard to the things now announced to you through those who proclaimed the gospel to you by the Holy Spirit sent from heaven—things angels long to catch a glimpse of.
+
 [13] Therefore, get your minds ready for action by being fully sober, and set your hope completely on the grace that will be brought to you when Jesus Christ is revealed.
 [14] Like obedient children, do not comply with the evil urges you used to follow in your ignorance,
 [15] but, like the Holy One who called you, become holy yourselves in all of your conduct,
-[16] for it is written, “You shall be holy, because I am holy.”
+[16] for it is written, “_**You shall be holy, because I am holy**_.”
 [17] And if you address as Father the one who impartially judges according to each one’s work, live out the time of your temporary residence here in reverence.
 [18] You know that from your empty way of life inherited from your ancestors you were ransomed—not by perishable things like silver or gold,
 [19] but by precious blood like that of an unblemished and spotless lamb, namely Christ.
 [20] He was foreknown before the foundation of the world but was manifested in these last times for your sake.
 [21] Through him you now trust in God, who raised him from the dead and gave him glory, so that your faith and hope are in God.
+
 [22] You have purified your souls by obeying the truth in order to show sincere mutual love. So love one another earnestly from a pure heart.
 [23] You have been born anew, not from perishable but from imperishable seed, through the living and enduring word of God.
 [24] For
-all flesh is like grass
-and all its glory like the flower of the grass;
-the grass withers and the flower falls off,
-[25] but the word of the Lord endures forever.
 
+**_all flesh_** **_is like grass_**<br>
+**_and all its glory like the flower of the grass;_**<br>
+**_the grass withers and the flower falls off,_**<br>
+[25] **_but the word of the Lord_** _**endures forever**_.<br>
 ## Chapter 2
 
 [1] So get rid of all evil and all deceit and hypocrisy and envy and all slander.
 [2] And yearn like newborn infants for pure, spiritual milk, so that by it you may grow up to salvation,
-[3] if you have experienced the Lord’s kindness.
+[3] if **_you have experienced_** _**the Lord’s kindness**_.
 
 ### A Living Stone, a Chosen People
 
 [4] So as you come to him, a living stone rejected by men but chosen and precious in God’s sight,
 [5] you yourselves, as living stones, are built up as a spiritual house to be a holy priesthood and to offer spiritual sacrifices that are acceptable to God through Jesus Christ.
-[6] For it says in scripture, “Look, I lay in Zion a stone, a chosen and precious cornerstone, and whoever believes in him will never be put to shame.”
-[7] So you who believe see his value, but for those who do not believe, the stone that the builders rejected has become the cornerstone,
-[8] and a stumbling-stone and a rock to trip over. They stumble because they disobey the word, as they were destined to do.
-[9] But you are a chosen race, a royal priesthood, a holy nation, a people of his own, so that you may proclaim the virtues of the one who called you out of darkness into his marvelous light.
-[10] You once were not a people, but now you are God’s people. You were shown no mercy, but now you have received mercy.
+[6] For it says in scripture, “_**Look, I lay in Zion a stone, a chosen and precious cornerstone**,_ **_and_** **_whoever believes_** **_in_** **_him_** **_will_** **_never_** _**be put to shame**_.”
+[7] So you who believe see his value, but for those who do not believe, **_the stone that the builders rejected has become the_** _**cornerstone**,_
+[8] and **_a stumbling-stone_** _**and a rock to trip over**_. They stumble because they disobey the word, as they were destined to do.
+[9] But you are _a chosen race_, _a royal priesthood_, _a holy nation_, _a people of his own_, so that you may _proclaim_ _the virtues_ of the one who called you out of darkness into his marvelous light.
+[10] You once were **_not_** **_a people_**, but now you are God’s people. You were **_shown_** **_no mercy,_** but now you have received mercy.
+
 [11] Dear friends, I urge you as foreigners and exiles to keep away from fleshly desires that do battle against the soul,
 [12] and maintain good conduct among the non-Christians, so that though they now malign you as wrongdoers, they may see your good deeds and glorify God when he appears.
 
@@ -62,17 +65,17 @@ the grass withers and the flower falls off,
 [15] For God wants you to silence the ignorance of foolish people by doing good.
 [16] Live as free people, not using your freedom as a pretext for evil, but as God’s slaves.
 [17] Honor all people, love the family of believers, fear God, honor the king.
+
 [18] Slaves, be subject to your masters with all reverence, not only to those who are good and gentle, but also to those who are perverse.
 [19] For this finds God’s favor, if because of conscience toward God someone endures hardships in suffering unjustly.
 [20] For what credit is it if you sin and are mistreated and endure it? But if you do good and suffer and so endure, this finds favor with God.
 [21] For to this you were called, since Christ also suffered for you, leaving an example for you to follow in his steps.
-[22] He committed no sin nor was deceit found in his mouth.
+[22] He **_committed_** **_no_** sin **_nor_** **_was deceit found in his mouth_**.
 [23] When he was maligned, he did not answer back; when he suffered, he threatened no retaliation, but committed himself to God who judges justly.
-[24] He himself bore our sins in his body on the tree, that we may cease from sinning and live for righteousness. By his wounds you were healed.
-[25] For you were going astray like sheep but now you have turned back to the shepherd and guardian of your souls.
+[24] He **_himself_** **_bore our sins_** in his body on the tree, that we may cease from sinning and live for righteousness. **_By_** his **_wounds_** **_you were healed_**.
+[25] For you were **_going astray like sheep_** but now you have turned back to the shepherd and guardian of your souls.
 
 ## Chapter 3
-
 
 ### Wives and Husbands
 
@@ -89,22 +92,24 @@ the grass withers and the flower falls off,
 [8] Finally, all of you be harmonious, sympathetic, affectionate, compassionate, and humble.
 [9] Do not return evil for evil or insult for insult, but instead bless others because you were called to inherit a blessing.
 [10] For
-the one who wants to love life and see good days must keep his tongue from evil and his lips from uttering deceit.
-[11] And he must turn away from evil and do good;
-he must seek peace and pursue it.
-[12] For the eyes of the Lord are upon the righteous and his ears are open to their prayer.
-But the Lord’s face is against those who do evil.
+
+**_the one who wants to love life and see good days must keep_** _**his tongue from evil and his lips from uttering deceit**_.<br>
+[11] **_And he must turn away from evil and do good;_**<br>
+_**he must seek peace and pursue it**_.<br>
+[12] **_For the eyes of the Lord are_** _**upon the righteous and his ears are open to their prayer**_.<br>
+_**But the Lord’s face is against those who do evil**_.<br>
 [13] For who is going to harm you if you are devoted to what is good?
-[14] But in fact, if you happen to suffer for doing what is right, you are blessed. But do not be terrified of them or be shaken.
+[14] But in fact, if you happen to suffer for doing what is right, you are blessed. **_But_** **_do not be terrified of them_** _**or**_ _**be shaken**_.
 [15] But set Christ apart as Lord in your hearts and always be ready to give an answer to anyone who asks about the hope you possess.
 [16] Yet do it with courtesy and respect, keeping a good conscience, so that those who slander your good conduct in Christ may be put to shame when they accuse you.
 [17] For it is better to suffer for doing good, if God wills it, than for doing evil.
-[18] Because Christ also suffered once for sins,
-the just for the unjust,
-to bring you to God,
-by being put to death in the flesh
-but by being made alive in the spirit.
-[19] In it he went and preached to the spirits in prison,
+
+[18] Because Christ also suffered once for sins,<br>
+_the just for the unjust_,<br>
+to bring you to God,<br>
+by being put to death in the flesh<br>
+but by being made alive in the spirit.<br>
+[19] In it he went and preached to the spirits in prison,<br>
 [20] after they were disobedient long ago when God patiently waited in the days of Noah as an ark was being constructed. In the ark a few, that is eight souls, were delivered through water.
 [21] And this prefigured baptism, which now saves you —not the washing off of physical dirt but the pledge of a good conscience to God—through the resurrection of Jesus Christ,
 [22] who went into heaven and is at the right hand of God with angels and authorities and powers subject to him.
@@ -121,21 +126,21 @@ but by being made alive in the spirit.
 ### Service, Suffering, and Judgment
 
 [7] For the culmination of all things is near. So be self-controlled and sober-minded for the sake of prayer.
-[8] Above all keep your love for one another fervent, because love covers a multitude of sins.
+[8] Above all keep your love for one another fervent, because _**love covers a multitude of sins**_.
 [9] Show hospitality to one another without complaining.
 [10] Just as each one has received a gift, use it to serve one another as good stewards of the varied grace of God.
 [11] Whoever speaks, let it be with God’s words. Whoever serves, do so with the strength that God supplies, so that in everything God will be glorified through Jesus Christ. To him belong the glory and the power forever and ever. Amen.
+
 [12] Dear friends, do not be astonished that a trial by fire is occurring among you, as though something strange were happening to you.
 [13] But rejoice in the degree that you have shared in the sufferings of Christ, so that when his glory is revealed you may also rejoice and be glad.
-[14] If you are insulted for the name of Christ, you are blessed, because the Spirit of glory, who is the Spirit of God, rests on you.
+[14] If you are insulted for the name of Christ, you are blessed, because the Spirit of glory, who is **_the Spirit of God_**, **_rests_** on you.
 [15] But let none of you suffer as a murderer or thief or criminal or as a troublemaker.
 [16] But if you suffer as a Christian, do not be ashamed, but glorify God that you bear such a name.
 [17] For it is time for judgment to begin, starting with the house of God. And if it starts with us, what will be the fate of those who are disobedient to the gospel of God?
-[18] And if the righteous are barely saved, what will become of the ungodly and sinners?
+[18] And _**if**_ _**the righteous are barely saved, what will become of**_ **_the ungodly and sinners?_**
 [19] So then let those who suffer according to the will of God entrust their souls to a faithful Creator as they do good.
 
 ## Chapter 5
-
 
 ### Leading and Living in God’s Flock
 
@@ -143,10 +148,11 @@ but by being made alive in the spirit.
 [2] Give a shepherd’s care to God’s flock among you, exercising oversight not merely as a duty but willingly under God’s direction, not for shameful profit but eagerly.
 [3] And do not lord it over those entrusted to you, but be examples to the flock.
 [4] Then when the Chief Shepherd appears, you will receive the crown of glory that never fades away.
-[5] In the same way, you who are younger, be subject to the elders. And all of you, clothe yourselves with humility toward one another, because God opposes the proud but gives grace to the humble.
+
+[5] In the same way, you who are younger, be subject to the elders. And all of you, clothe yourselves with humility toward one another, because God _**opposes**_ _**the proud but gives grace to the humble**_.
 [6] And God will exalt you in due time, if you humble yourselves under his mighty hand
 [7] by casting all your cares on him because he cares for you.
-[8] Be sober and alert. Your enemy the devil, like a roaring lion, is on the prowl looking for someone to devour.
+[8] Be sober and alert. Your enemy the devil, _like_ _a roaring lion,_ is on the prowl looking for someone to devour.
 [9] Resist him, strong in your faith, because you know that your brothers and sisters throughout the world are enduring the same kinds of suffering.
 [10] And, after you have suffered for a little while, the God of all grace who called you to his eternal glory in Christ will himself restore, confirm, strengthen, and establish you.
 [11] To him belongs the power forever. Amen.
@@ -156,3 +162,4 @@ but by being made alive in the spirit.
 [12] Through Silvanus, whom I know to be a faithful brother, I have written to you briefly, in order to encourage you and testify that this is the true grace of God. Stand fast in it.
 [13] The church in Babylon, chosen together with you, greets you, and so does Mark, my son.
 [14] Greet one another with a loving kiss. Peace to all of you who are in Christ.
+

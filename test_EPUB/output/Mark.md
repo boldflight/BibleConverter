@@ -2,16 +2,16 @@
 
 ## Chapter 1
 
-
 ### The Ministry of John the Baptist
 
 [1] The beginning of the gospel of Jesus Christ, the Son of God.
 [2] As it is written in the prophet Isaiah,
-“Look, I am sending my messenger ahead of you,
-who will prepare your way,
-[3] the voice of one shouting in the wilderness,
-‘Prepare the way for the Lord,
-make his paths straight.’”
+
+“**_Look, I am sending my messenger ahead of you,_**<br>
+**_who will prepare your way,_**<br>
+[3] **_the voice of one shouting in the wilderness,_**<br>
+‘**_Prepare the way for the Lord,_**<br>
+**_make_** **_his_ _paths straight_.**’”<br>
 [4] In the wilderness John the baptizer began preaching a baptism of repentance for the forgiveness of sins.
 [5] People from the whole Judean countryside and all of Jerusalem were going out to him, and he was baptizing them in the Jordan River as they confessed their sins.
 [6] John wore a garment made of camel’s hair with a leather belt around his waist, and he ate locusts and wild honey.
@@ -75,7 +75,6 @@ make his paths straight.’”
 
 ## Chapter 2
 
-
 ### Healing and Forgiving a Paralytic
 
 [1] Now after some days, when he returned to Capernaum, the news spread that he was at home.
@@ -117,7 +116,6 @@ make his paths straight.’”
 [28] For this reason the Son of Man is lord even of the Sabbath.”
 
 ## Chapter 3
-
 
 ### Healing a Withered Hand
 
@@ -171,7 +169,6 @@ make his paths straight.’”
 
 ## Chapter 4
 
-
 ### The Parable of the Sower
 
 [1] Again he began to teach by the lake. Such a large crowd gathered around him that he got into a boat on the lake and sat there while the whole crowd was on the shore by the lake.
@@ -188,9 +185,10 @@ make his paths straight.’”
 
 [10] When he was alone, those around him with the twelve asked him about the parables.
 [11] He said to them, “The secret of the kingdom of God has been given to you. But to those outside, everything is in parables,
-[12] so that although they look they may look but not see,
-and although they hear they may hear but not understand,
-so they may not repent and be forgiven.”
+
+[12] so that **_although they look they may look but not see,_**<br>
+**_and although they hear they may hear but not understand,_**<br>
+_**so they may not repent and be forgiven**_.”<br>
 [13] He said to them, “Don’t you understand this parable? Then how will you understand any parable?
 [14] The sower sows the word.
 [15] These are the ones on the path where the word is sown: Whenever they hear, immediately Satan comes and snatches the word that was sown in them.
@@ -238,7 +236,6 @@ so they may not repent and be forgiven.”
 
 ## Chapter 5
 
-
 ### Healing of a Demoniac
 
 [1] So they came to the other side of the lake, to the region of the Gerasenes.
@@ -254,6 +251,7 @@ so they may not repent and be forgiven.”
 [11] There on the hillside, a great herd of pigs was feeding.
 [12] And the demonic spirits begged him, “Send us into the pigs. Let us enter them.”
 [13] Jesus gave them permission. So the unclean spirits came out and went into the pigs. Then the herd rushed down the steep slope into the lake, and about 2,000 were drowned in the lake.
+
 [14] Now the herdsmen ran off and spread the news in the town and countryside, and the people went out to see what had happened.
 [15] They came to Jesus and saw the demon-possessed man sitting there, clothed and in his right mind—the one who had the “Legion”—and they were afraid.
 [16] Those who had seen what had happened to the demon-possessed man reported it, and they also told about the pigs.
@@ -268,6 +266,7 @@ so they may not repent and be forgiven.”
 [22] Then one of the synagogue leaders, named Jairus, came up, and when he saw Jesus, he fell at his feet.
 [23] He asked him urgently, “My little daughter is near death. Come and lay your hands on her so that she may be healed and live.”
 [24] Jesus went with him, and a large crowd followed and pressed around him.
+
 [25] Now a woman was there who had been suffering from a hemorrhage for twelve years.
 [26] She had endured a great deal under the care of many doctors and had spent all that she had. Yet instead of getting better, she grew worse.
 [27] When she heard about Jesus, she came up behind him in the crowd and touched his cloak,
@@ -278,18 +277,18 @@ so they may not repent and be forgiven.”
 [32] But he looked around to see who had done it.
 [33] Then the woman, with fear and trembling, knowing what had happened to her, came and fell down before him and told him the whole truth.
 [34] He said to her, “Daughter, your faith has made you well. Go in peace, and be healed of your disease.”
+
 [35] While he was still speaking, people came from the synagogue leader’s house saying, “Your daughter has died. Why trouble the teacher any longer?”
 [36] But Jesus, paying no attention to what was said, told the synagogue leader, “Do not be afraid; just believe.”
 [37] He did not let anyone follow him except Peter, James, and John, the brother of James.
 [38] They came to the house of the synagogue leader where he saw noisy confusion and people weeping and wailing loudly.
 [39] When he entered he said to them, “Why are you distressed and weeping? The child is not dead but asleep!”
 [40] And they began making fun of him. But he forced them all outside, and he took the child’s father and mother and his own companions and went into the room where the child was.
-[41] Then, gently taking the child by the hand, he said to her, “Talitha koum,” which means, “Little girl, I say to you, get up.”
+[41] Then, gently taking the child by the hand, he said to her, “_Talitha koum_,” which means, “Little girl, I say to you, get up.”
 [42] The girl got up at once and began to walk around (she was twelve years old). They were completely astonished at this.
 [43] He strictly ordered that no one should know about this, and told them to give her something to eat.
 
 ## Chapter 6
-
 
 ### Rejection at Nazareth
 
@@ -319,6 +318,7 @@ so they may not repent and be forgiven.”
 [18] For John had repeatedly told Herod, “It is not lawful for you to have your brother’s wife.”
 [19] So Herodias nursed a grudge against him and wanted to kill him. But she could not
 [20] because Herod stood in awe of John and protected him, since he knew that John was a righteous and holy man. When Herod heard him, he was thoroughly baffled, and yet he liked to listen to John.
+
 [21] But a suitable day came, when Herod gave a banquet on his birthday for his court officials, military commanders, and leaders of Galilee.
 [22] When his daughter Herodias came in and danced, she pleased Herod and his dinner guests. The king said to the girl, “Ask me for whatever you want and I will give it to you.”
 [23] He swore to her, “Whatever you ask I will give you, up to half my kingdom.”
@@ -336,6 +336,7 @@ so they may not repent and be forgiven.”
 [32] So they went away by themselves in a boat to some remote place.
 [33] But many saw them leaving and recognized them, and they hurried on foot from all the towns and arrived there ahead of them.
 [34] As Jesus came ashore he saw the large crowd and he had compassion on them, because they were like sheep without a shepherd. So he taught them many things.
+
 [35] When it was already late, his disciples came to him and said, “This is an isolated place and it is already very late.
 [36] Send them away so that they can go into the surrounding countryside and villages and buy something for themselves to eat.”
 [37] But he answered them, “You give them something to eat.” And they said, “Should we go and buy bread for 200 silver coins and give it to them to eat?”
@@ -367,7 +368,6 @@ so they may not repent and be forgiven.”
 
 ## Chapter 7
 
-
 ### Breaking Human Traditions
 
 [1] Now the Pharisees and some of the experts in the law who came from Jerusalem gathered around him.
@@ -376,12 +376,14 @@ so they may not repent and be forgiven.”
 [4] And when they come from the marketplace, they do not eat unless they wash. They hold fast to many other traditions: the washing of cups, pots, kettles, and dining couches.)
 [5] The Pharisees and the experts in the law asked him, “Why do your disciples not live according to the tradition of the elders, but eat with unwashed hands?”
 [6] He said to them, “Isaiah prophesied correctly about you hypocrites, as it is written:
-‘This people honors me with their lips,
-but their heart is far from me.
-[7] They worship me in vain,
-teaching as doctrine the commandments of men.’
+
+‘**_This people honors me with their lips,_**<br>
+**_but their heart_** _**is far from me**_.<br>
+[7] **_They worship me in vain,_**<br>
+_**teaching as doctrine the commandments of men**_.’<br>
 [14] Then he called the crowd again and said to them, “Listen to me, everyone, and understand.
 [15] There is nothing outside of a person that can defile him by going into him. Rather, it is what comes out of a person that defiles him.”
+
 [17] Now when Jesus had left the crowd and entered the house, his disciples asked him about the parable.
 [18] He said to them, “Are you so foolish? Don’t you understand that whatever goes into a person from outside cannot defile him?
 [19] For it does not enter his heart but his stomach, and then goes out into the sewer.” (This means all foods are clean.)
@@ -405,13 +407,12 @@ teaching as doctrine the commandments of men.’
 [31] Then Jesus went out again from the region of Tyre and came through Sidon to the Sea of Galilee in the region of the Decapolis.
 [32] They brought to him a deaf man who had difficulty speaking, and they asked him to place his hands on him.
 [33] After Jesus took him aside privately, away from the crowd, he put his fingers in the man’s ears, and after spitting, he touched his tongue.
-[34] Then he looked up to heaven and said with a sigh, “Ephphatha” (that is, “Be opened”).
+[34] Then he looked up to heaven and said with a sigh, “_Ephphatha_” (that is, “Be opened”).
 [35] And immediately the man’s ears were opened, his tongue loosened, and he spoke plainly.
 [36] Jesus ordered them not to tell anyone. But as much as he ordered them not to do this, they proclaimed it all the more.
 [37] People were completely astounded and said, “He has done everything well. He even makes the deaf hear and the mute speak.”
 
 ## Chapter 8
-
 
 ### The Feeding of the Four Thousand
 
@@ -466,7 +467,6 @@ teaching as doctrine the commandments of men.’
 
 ## Chapter 9
 
-
 ### Following Jesus
 
 [34] Then Jesus called the crowd, along with his disciples, and said to them, “If anyone wants to become my follower, he must deny himself, take up his cross, and follow me.
@@ -485,8 +485,10 @@ teaching as doctrine the commandments of men.’
 [6] (For they were afraid, and he did not know what to say.)
 [7] Then a cloud overshadowed them, and a voice came from the cloud, “This is my one dear Son. Listen to him!”
 [8] Suddenly when they looked around, they saw no one with them any more except Jesus.
+
 [9] As they were coming down from the mountain, he gave them orders not to tell anyone what they had seen until after the Son of Man had risen from the dead.
 [10] They kept this statement to themselves, discussing what this rising from the dead meant.
+
 [11] Then they asked him, “Why do the experts in the law say that Elijah must come first?”
 [12] He said to them, “Elijah does indeed come first, and restores all things. And why is it written that the Son of Man must suffer many things and be despised?
 [13] But I tell you that Elijah has certainly come, and they did to him whatever they wanted, just as it is written about him.”
@@ -504,9 +506,11 @@ teaching as doctrine the commandments of men.’
 [22] It has often thrown him into fire or water to destroy him. But if you are able to do anything, have compassion on us and help us.”
 [23] Then Jesus said to him, “‘If you are able?’ All things are possible for the one who believes.”
 [24] Immediately the father of the boy cried out and said, “I believe; help my unbelief!”
+
 [25] Now when Jesus saw that a crowd was quickly gathering, he rebuked the unclean spirit, saying to it, “Mute and deaf spirit, I command you, come out of him and never enter him again.”
 [26] It shrieked, threw him into terrible convulsions, and came out. The boy looked so much like a corpse that many said, “He is dead!”
 [27] But Jesus gently took his hand and raised him to his feet, and he stood up.
+
 [28] Then, after he went into the house, his disciples asked him privately, “Why couldn’t we cast it out?”
 [29] He told them, “This kind can come out only by prayer.”
 
@@ -530,6 +534,7 @@ teaching as doctrine the commandments of men.’
 [39] But Jesus said, “Do not stop him, because no one who does a miracle in my name will be able soon afterward to say anything bad about me.
 [40] For whoever is not against us is for us.
 [41] For I tell you the truth, whoever gives you a cup of water because you bear Christ’s name will never lose his reward.
+
 [42] “If anyone causes one of these little ones who believe in me to sin, it would be better for him to have a huge millstone tied around his neck and to be thrown into the sea.
 [43] If your hand causes you to sin, cut it off! It is better for you to enter into life crippled than to have two hands and go into hell, to the unquenchable fire.
 [45] If your foot causes you to sin, cut it off! It is better to enter life lame than to have two feet and be thrown into hell.
@@ -540,18 +545,18 @@ teaching as doctrine the commandments of men.’
 
 ## Chapter 10
 
-
 ### Divorce
 
 [1] Then Jesus left that place and went to the region of Judea and beyond the Jordan River. Again crowds gathered to him, and again, as was his custom, he taught them.
 [2] Then some Pharisees came, and to test him they asked, “Is it lawful for a man to divorce his wife?”
 [3] He answered them, “What did Moses command you?”
-[4] They said, “Moses permitted a man to write a certificate of dismissal and to divorce her.”
+[4] They said, “Moses permitted a man _to write **a certificate of dismissal** and to divorce_ her.”
 [5] But Jesus said to them, “He wrote this commandment for you because of your hard hearts.
-[6] But from the beginning of creation he made them male and female.
-[7] For this reason a man will leave his father and mother,
-[8] and the two will become one flesh. So they are no longer two, but one flesh.
+[6] But from the beginning of creation **_he_** **_made_ _them male and female_**.
+[7] **_For_** **_this reason a man will leave his father and mother,_**
+[8] **_and_** **_the two will become one flesh_**. So they are no longer two, but one flesh.
 [9] Therefore what God has joined together, let no one separate.”
+
 [10] In the house once again, the disciples asked him about this.
 [11] So he told them, “Whoever divorces his wife and marries another commits adultery against her.
 [12] And if she divorces her husband and marries another, she commits adultery.”
@@ -567,15 +572,17 @@ teaching as doctrine the commandments of men.’
 
 [17] Now as Jesus was starting out on his way, someone ran up to him, fell on his knees, and said, “Good teacher, what must I do to inherit eternal life?”
 [18] Jesus said to him, “Why do you call me good? No one is good except God alone.
-[19] You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not give false testimony, do not defraud, honor your father and mother.’”
+[19] You know the commandments: ‘**_Do not murder, do not commit adultery, do not steal, do not give false testimony,_** _do not defraud,**honor your father and mother**_.’”
 [20] The man said to him, “Teacher, I have wholeheartedly obeyed all these laws since my youth.”
 [21] As Jesus looked at him, he felt love for him and said, “You lack one thing. Go, sell whatever you have and give the money to the poor, and you will have treasure in heaven. Then come, follow me.”
 [22] But at this statement, the man looked sad and went away sorrowful, for he was very rich.
+
 [23] Then Jesus looked around and said to his disciples, “How hard it is for the rich to enter the kingdom of God!”
 [24] The disciples were astonished at these words. But again Jesus said to them, “Children, how hard it is to enter the kingdom of God!
 [25] It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”
 [26] They were even more astonished and said to one another, “Then who can be saved?”
 [27] Jesus looked at them and replied, “This is impossible for mere humans, but not for God; all things are possible for God.”
+
 [28] Peter began to speak to him, “Look, we have left everything to follow you!”
 [29] Jesus said, “I tell you the truth, there is no one who has left home or brothers or sisters or mother or father or children or fields for my sake and for the sake of the gospel
 [30] who will not receive in this age a hundred times as much—homes, brothers, sisters, mothers, children, fields, all with persecutions —and in the age to come, eternal life.
@@ -595,6 +602,7 @@ teaching as doctrine the commandments of men.’
 [38] But Jesus said to them, “You don’t know what you are asking! Are you able to drink the cup I drink or be baptized with the baptism I experience?”
 [39] They said to him, “We are able.” Then Jesus said to them, “You will drink the cup I drink, and you will be baptized with the baptism I experience,
 [40] but to sit at my right or at my left is not mine to give. It is for those for whom it has been prepared.”
+
 [41] Now when the other ten heard this, they became angry with James and John.
 [42] Jesus called them and said to them, “You know that those who are recognized as rulers of the Gentiles lord it over them, and those in high positions use their authority over them.
 [43] But it is not this way among you. Instead whoever wants to be great among you must be your servant,
@@ -613,7 +621,6 @@ teaching as doctrine the commandments of men.’
 
 ## Chapter 11
 
-
 ### The Triumphal Entry
 
 [1] Now as they approached Jerusalem, near Bethphage and Bethany, at the Mount of Olives, Jesus sent two of his disciples
@@ -624,7 +631,7 @@ teaching as doctrine the commandments of men.’
 [6] They replied as Jesus had told them, and the bystanders let them go.
 [7] Then they brought the colt to Jesus, threw their cloaks on it, and he sat on it.
 [8] Many spread their cloaks on the road and others spread branches they had cut in the fields.
-[9] Both those who went ahead and those who followed kept shouting, “Hosanna! Blessed is the one who comes in the name of the Lord!
+[9] Both those who went ahead and those who followed kept shouting, “**_Hosanna!_** **_Blessed is the one who comes in the name of the Lord!_**
 [10] Blessed is the coming kingdom of our father David! Hosanna in the highest!”
 [11] Then Jesus entered Jerusalem and went to the temple. And after looking around at everything, he went out to Bethany with the twelve since it was already late.
 
@@ -638,7 +645,7 @@ teaching as doctrine the commandments of men.’
 
 [15] Then they came to Jerusalem. Jesus entered the temple area and began to drive out those who were selling and buying in the temple courts. He turned over the tables of the money changers and the chairs of those selling doves,
 [16] and he would not permit anyone to carry merchandise through the temple courts.
-[17] Then he began to teach them and said, “Is it not written: ‘My house will be called a house of prayer for all nations’? But you have turned it into a den of robbers!”
+[17] Then he began to teach them and said, “Is it not written: ‘**_My house will be called a house of prayer for all nations_**’? But you have turned it into **_a den_** **_of robbers_**!”
 [18] The chief priests and the experts in the law heard it and they considered how they could assassinate him, for they feared him, because the whole crowd was amazed by his teaching.
 [19] When evening came, Jesus and his disciples went out of the city.
 
@@ -663,7 +670,6 @@ teaching as doctrine the commandments of men.’
 
 ## Chapter 12
 
-
 ### The Parable of the Tenants
 
 [1] Then he began to speak to them in parables: “A man planted a vineyard. He put a fence around it, dug a pit for its winepress, and built a watchtower. Then he leased it to tenant farmers and went on a journey.
@@ -676,9 +682,9 @@ teaching as doctrine the commandments of men.’
 [8] So they seized him, killed him, and threw his body out of the vineyard.
 [9] What then will the owner of the vineyard do? He will come and destroy those tenants and give the vineyard to others.
 [10] Have you not read this scripture:
-‘The stone the builders rejected has become the cornerstone.
-[11] This is from the Lord, and it is marvelous in our eyes’?”
 
+‘**_The stone the builders rejected has become the cornerstone_.**<br>
+[11] **_This is from the Lord, and it is marvelous in our eyes_**’?”<br>
 ### Paying Taxes to Caesar
 
 [13] Then they sent some of the Pharisees and Herodians to trap him with his own words.
@@ -690,34 +696,34 @@ teaching as doctrine the commandments of men.’
 ### Marriage and the Resurrection
 
 [18] Sadducees (who say there is no resurrection) also came to him and asked him,
-[19] “Teacher, Moses wrote for us: ‘If a man’s brother dies and leaves a wife but no children, that man must marry the widow and father children for his brother.’
+[19] “Teacher, Moses wrote for us: ‘_**If a man**’**s brother dies and leaves a wife but no children, that man**_ **_must marry_** **_the widow and father children_** **_for his brother_**.’
 [20] There were seven brothers. The first one married, and when he died he had no children.
 [21] The second married her and died without any children, and likewise the third.
 [22] None of the seven had children. Finally, the woman died too.
 [23] In the resurrection, when they rise again, whose wife will she be? For all seven had married her.”
 [24] Jesus said to them, “Aren’t you deceived for this reason, because you don’t know the scriptures or the power of God?
 [25] For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven.
-[26] Now as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God said to him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?
+[26] Now as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God said to him, ‘**_I am the God of Abraham, the_** **_God_ _of Isaac, and the God of Jacob_**’?
 [27] He is not the God of the dead but of the living. You are badly mistaken!”
 
 ### The Greatest Commandment
 
 [28] Now one of the experts in the law came and heard them debating. When he saw that Jesus answered them well, he asked him, “Which commandment is the most important of all?”
-[29] Jesus answered, “The most important is: ‘Listen, Israel, the Lord our God, the Lord is one.
-[30] Love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’
-[31] The second is: ‘Love your neighbor as yourself.’ There is no other commandment greater than these.”
-[32] The expert in the law said to him, “That is true, Teacher; you are right to say that he is one, and there is no one else besides him.
-[33] And to love him with all your heart, with all your mind, and with all your strength and to love your neighbor as yourself is more important than all burnt offerings and sacrifices.”
+[29] Jesus answered, “The most important is: ‘_**Listen, Israel, the Lord our God, the Lord is one**_.
+[30] **_Love_** **_the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength_**.’
+[31] The second is: ‘**_Love your neighbor as yourself_**.’ There is no other commandment greater than these.”
+[32] The expert in the law said to him, “That is true, Teacher; you are right to say that **_he is one, and there is no one else besides him_**.
+[33] And **_to love him with all your heart, with all your mind, and with all your strength_** and **_to love your neighbor as yourself_** is more important than all burnt offerings and sacrifices.”
 [34] When Jesus saw that he had answered thoughtfully, he said to him, “You are not far from the kingdom of God.” Then no one dared any longer to question him.
 
 ### The Messiah: David’s Son and Lord
 
 [35] While Jesus was teaching in the temple courts, he said, “How is it that the experts in the law say that the Christ is David’s son?
 [36] David himself, by the Holy Spirit, said,
-‘The Lord said to my lord,
-“Sit at my right hand,
-until I put your enemies under your feet.”’
 
+‘**_The Lord said to my lord,_**<br>
+“**_Sit at my right hand,_**<br>
+_**until I put your enemies under your feet**_.”’<br>
 ### Warnings About Experts in the Law
 
 [38] In his teaching Jesus also said, “Watch out for the experts in the law. They like walking around in long robes and elaborate greetings in the marketplaces,
@@ -732,7 +738,6 @@ until I put your enemies under your feet.”’
 [44] For they all gave out of their wealth. But she, out of her poverty, put in what she had to live on, everything she had.”
 
 ## Chapter 13
-
 
 ### The Destruction of the Temple
 
@@ -758,7 +763,7 @@ until I put your enemies under your feet.”’
 
 ### The Abomination of Desolation
 
-[14] “But when you see the abomination of desolation standing where it should not be” (let the reader understand), “then those in Judea must flee to the mountains.
+[14] “But when you see _the abomination of desolation_ standing where it should not be” (let the reader understand), “then those in Judea must flee to the mountains.
 [15] The one on the roof must not come down or go inside to take anything out of his house.
 [16] The one in the field must not turn back to get his cloak.
 [17] Woe to those who are pregnant and to those who are nursing their babies in those days!
@@ -771,9 +776,9 @@ until I put your enemies under your feet.”’
 
 ### The Arrival of the Son of Man
 
-[24] “But in those days, after that suffering, the sun will be darkened and the moon will not give its light;
-[25] the stars will be falling from heaven, and the powers in the heavens will be shaken.
-[26] Then everyone will see the Son of Man arriving in the clouds with great power and glory.
+[24] “But in those days, after that suffering, _the sun will be darkened and the moon will not give its light;_
+[25] _the stars will be falling from heaven_, _and_ _the powers in the heavens will be shaken_.
+[26] Then everyone will see _the Son of Man arriving in the clouds_ with great power and glory.
 [27] Then he will send angels and they will gather his elect from the four winds, from the ends of the earth to the ends of heaven.
 
 ### The Parable of the Fig Tree
@@ -793,7 +798,6 @@ until I put your enemies under your feet.”’
 [37] What I say to you I say to everyone: Stay alert!”
 
 ## Chapter 14
-
 
 ### The Plot Against Jesus
 
@@ -822,6 +826,7 @@ until I put your enemies under your feet.”’
 [14] Wherever he enters, tell the owner of the house, ‘The Teacher says, “Where is my guest room where I may eat the Passover with my disciples?”’
 [15] He will show you a large room upstairs, furnished and ready. Make preparations for us there.”
 [16] So the disciples left, went into the city, and found things just as he had told them, and they prepared the Passover.
+
 [17] Then, when it was evening, he came to the house with the twelve.
 [18] While they were at the table eating, Jesus said, “I tell you the truth, one of you eating with me will betray me.”
 [19] They were distressed, and one by one said to him, “Surely not I?”
@@ -839,16 +844,16 @@ until I put your enemies under your feet.”’
 ### The Prediction of Peter’s Denial
 
 [27] Then Jesus said to them, “You will all fall away, for it is written,
-‘I will strike the shepherd,
-and the sheep will be scattered.’
 
+‘**_I will strike the shepherd,_**<br>
+_**and the sheep will be scattered**_.’<br>
 ### Gethsemane
 
 [32] Then they went to a place called Gethsemane, and Jesus said to his disciples, “Sit here while I pray.”
 [33] He took Peter, James, and John with him, and became very troubled and distressed.
 [34] He said to them, “My soul is deeply grieved, even to the point of death. Remain here and stay alert.”
 [35] Going a little farther, he threw himself to the ground and prayed that if it were possible the hour would pass from him.
-[36] He said, “Abba, Father, all things are possible for you. Take this cup away from me. Yet not what I will, but what you will.”
+[36] He said, “_Abba_, Father, all things are possible for you. Take this cup away from me. Yet not what I will, but what you will.”
 [37] Then he came and found them sleeping, and said to Peter, “Simon, are you sleeping? Couldn’t you stay awake for one hour?
 [38] Stay awake and pray that you will not fall into temptation. The spirit is willing, but the flesh is weak.”
 [39] He went away again and prayed the same thing.
@@ -880,7 +885,7 @@ and the sheep will be scattered.’
 [59] Yet even on this point their testimony did not agree.
 [60] Then the high priest stood up before them and asked Jesus, “Have you no answer? What is this that they are testifying against you?”
 [61] But he was silent and did not answer. Again the high priest questioned him, “Are you the Christ, the Son of the Blessed One?”
-[62] “I am,” said Jesus, “and you will see the Son of Man sitting at the right hand of the Power and coming with the clouds of heaven.”
+[62] “I am,” said Jesus, “and you will see _the Son of Man sitting at the right hand_ of the Power and _coming_ _with the clouds of heaven_.”
 [63] Then the high priest tore his clothes and said, “Why do we still need witnesses?
 [64] You have heard the blasphemy! What is your verdict?” They all condemned him as deserving death.
 [65] Then some began to spit on him, and to blindfold him, and to strike him with their fists, saying, “Prophesy!” The guards also took him and beat him.
@@ -896,7 +901,6 @@ and the sheep will be scattered.’
 [72] Immediately a rooster crowed a second time. Then Peter remembered what Jesus had said to him: “Before a rooster crows twice, you will deny me three times.” And he broke down and wept.
 
 ## Chapter 15
-
 
 ### Jesus Brought Before Pilate
 
@@ -932,7 +936,7 @@ and the sheep will be scattered.’
 [21] The soldiers forced a passerby to carry his cross, Simon of Cyrene, who was coming in from the country (he was the father of Alexander and Rufus).
 [22] They brought Jesus to a place called Golgotha (which is translated, “Place of the Skull”).
 [23] They offered him wine mixed with myrrh, but he did not take it.
-[24] Then they crucified him and divided his clothes, throwing dice for them, to decide what each would take.
+[24] Then they crucified him and _divided_ _his clothes, throwing dice_ for them, to decide what each would take.
 [25] It was nine o’clock in the morning when they crucified him.
 [26] The inscription of the charge against him read, “The king of the Jews.”
 [27] And they crucified two outlaws with him, one on his right and one on his left.
@@ -944,7 +948,7 @@ and the sheep will be scattered.’
 ### Jesus’ Death
 
 [33] Now when it was noon, darkness came over the whole land until three in the afternoon.
-[34] Around three o’clock Jesus cried out with a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, my God, why have you forsaken me?”
+[34] Around three o’clock Jesus cried out with a loud voice, “_Eloi__, Eloi, lema sabachthani?_” which means, “**_My God, my God, why have you forsaken me?_**”
 [35] When some of the bystanders heard it they said, “Listen, he is calling for Elijah!”
 [36] Then someone ran, filled a sponge with sour wine, put it on a stick, and gave it to him to drink, saying, “Leave him alone! Let’s see if Elijah will come to take him down!”
 [37] But Jesus cried out with a loud voice and breathed his last.
@@ -964,7 +968,6 @@ and the sheep will be scattered.’
 
 ## Chapter 16
 
-
 ### The Resurrection
 
 [1] When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought aromatic spices so that they might go and anoint him.
@@ -981,6 +984,7 @@ and the sheep will be scattered.’
 [9] [[Early on the first day of the week, after he arose, he appeared first to Mary Magdalene, from whom he had driven out seven demons.
 [10] She went out and told those who were with him, while they were mourning and weeping.
 [11] And when they heard that he was alive and had been seen by her, they did not believe.
+
 [12] After this he appeared in a different form to two of them while they were on their way to the country.
 [13] They went back and told the rest, but they did not believe them.
 [14] Then he appeared to the eleven themselves, while they were eating, and he rebuked them for their unbelief and hardness of heart, because they did not believe those who had seen him resurrected.
@@ -990,3 +994,4 @@ and the sheep will be scattered.’
 [18] they will pick up snakes with their hands, and whatever poison they drink will not harm them; they will place their hands on the sick and they will be well.”
 [19] After the Lord Jesus had spoken to them, he was taken up into heaven and sat down at the right hand of God.
 [20] They went out and proclaimed everywhere, while the Lord worked with them and confirmed the word through the accompanying signs.]]
+

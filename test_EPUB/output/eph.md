@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul, an apostle of Christ Jesus by the will of God, to the saints [in Ephesus], the faithful in Christ Jesus.
@@ -32,17 +31,17 @@
 [19] and what is the incomparable greatness of his power toward us who believe, as displayed in the exercise of his immense strength.
 [20] This power he exercised in Christ when he raised him from the dead and seated him at his right hand in the heavenly realms
 [21] far above every rule and authority and power and dominion and every name that is named, not only in this age but also in the one to come.
-[22] And God put all things under Christ’s feet, and gave him to the church as head over all things.
+[22] And God _put_ _all things under_ Christ’s _feet_, and gave him to the church as head over all things.
 [23] Now the church is his body, the fullness of him who fills all in all.
 
 ## Chapter 2
-
 
 ### New Life Individually
 
 [1] And although you were dead in your offenses and sins,
 [2] in which you formerly lived according to this world’s present path, according to the ruler of the domain of the air, the ruler of the spirit that is now energizing the sons of disobedience,
 [3] among whom all of us also formerly lived out our lives in the cravings of our flesh, indulging the desires of the flesh and the mind, and were by nature children of wrath even as the rest…
+
 [4] But God, being rich in mercy, because of his great love with which he loved us,
 [5] even though we were dead in offenses, made us alive together with Christ—by grace you are saved! —
 [6] and he raised us up together with him and seated us together with him in the heavenly realms in Christ Jesus,
@@ -68,7 +67,6 @@
 
 ## Chapter 3
 
-
 ### Paul’s Relationship to the Divine Mystery
 
 [1] For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles
@@ -93,11 +91,11 @@
 [17] that Christ will dwell in your hearts through faith, so that, because you have been rooted and grounded in love,
 [18] you will be able to comprehend with all the saints what is the breadth and length and height and depth,
 [19] and thus to know the love of Christ that surpasses knowledge, so that you will be filled up to all the fullness of God.
+
 [20] Now to him who by the power that is working within us is able to do far beyond all that we ask or think,
 [21] to him be the glory in the church and in Christ Jesus to all generations, forever and ever. Amen.
 
 ## Chapter 4
-
 
 ### Live in Unity
 
@@ -107,9 +105,10 @@
 [4] There is one body and one Spirit, just as you too were called to the one hope of your calling,
 [5] one Lord, one faith, one baptism,
 [6] one God and Father of all, who is over all and through all and in all.
+
 [7] But to each one of us grace was given according to the measure of Christ’s gift.
-[8] Therefore it says, “When he ascended on high he captured captives; he gave gifts to men.”
-[9] Now what is the meaning of “he ascended,” except that he also descended to the lower regions, namely, the earth?
+[8] Therefore it says, “**_When he ascended on high he captured_** _**captives**; **he gave gifts to men**_.”
+[9] Now what is the meaning of “**_he ascended_**,” except that he also descended to the lower regions, namely, the earth?
 [10] He, the very one who descended, is also the one who ascended above all the heavens, in order to fill all things.
 [11] And he himself gave some as apostles, some as prophets, some as evangelists, and some as pastors and teachers,
 [12] to equip the saints for the work of ministry, that is, to build up the body of Christ,
@@ -128,8 +127,9 @@
 [22] You were taught with reference to your former way of life to lay aside the old man who is being corrupted in accordance with deceitful desires,
 [23] to be renewed in the spirit of your mind,
 [24] and to put on the new man who has been created in God’s image —in righteousness and holiness that comes from truth.
-[25] Therefore, having laid aside falsehood, each one of you speak the truth with his neighbor, because we are members of one another.
-[26] Be angry and do not sin; do not let the sun go down on the cause of your anger.
+
+[25] Therefore, having laid aside falsehood_, **each one of you speak the truth with his neighbor**,_ because we are members of one another.
+[26] _**Be angry and do not sin**;_ do not let the sun go down on the cause of your anger.
 [27] Do not give the devil an opportunity.
 [28] The one who steals must steal no longer; instead he must labor, doing good with his own hands, so that he will have something to share with the one who has need.
 [29] You must let no unwholesome word come out of your mouth, but only what is beneficial for the building up of the one in need, that it would give grace to those who hear.
@@ -138,7 +138,6 @@
 [32] Instead, be kind to one another, compassionate, forgiving one another, just as God in Christ also forgave you.
 
 ## Chapter 5
-
 
 ### Live in Love
 
@@ -159,10 +158,10 @@
 [12] For the things they do in secret are shameful even to mention.
 [13] But all things being exposed by the light are made visible.
 [14] For everything made visible is light, and for this reason it says:
-“Awake, O sleeper!
-Rise from the dead,
-and Christ will shine on you!”
 
+“Awake, O sleeper!<br>
+Rise from the dead,<br>
+and Christ will shine on you!”<br>
 ### Live Wisely
 
 [15] Therefore consider carefully how you live—not as unwise but as wise,
@@ -184,20 +183,23 @@ and Christ will shine on you!”
 [28] In the same way husbands ought to love their wives as their own bodies. He who loves his wife loves himself.
 [29] For no one has ever hated his own body, but he feeds it and takes care of it, just as Christ also does the church,
 [30] because we are members of his body.
-[31] For this reason a man will leave his father and mother and will be joined to his wife, and the two will become one flesh.
+[31] **_For_** **_this reason a man will leave his father and mother and will be joined to his wife, and the two will become_** _**one flesh.**_
 [32] This mystery is great—but I am actually speaking with reference to Christ and the church.
 [33] Nevertheless, each one of you must also love his own wife as he loves himself, and the wife must respect her husband.
 
 ## Chapter 6
 
 [1] Children, obey your parents in the Lord, for this is right.
-[2] “Honor your father and mother,” which is the first commandment accompanied by a promise, namely,
-[3] “that it will go well with you and that you will live a long time on the earth.”
+[2] “**_Honor your father and mother_,**” which is the first commandment accompanied by a promise, namely,
+[3] “**_that it will go_** **_well with you and that you will live_** _**a long time on the earth**_.”
+
 [4] Fathers, do not provoke your children to anger, but raise them up in the discipline and instruction of the Lord.
+
 [5] Slaves, obey your human masters with fear and trembling, in the sincerity of your heart, as to Christ,
 [6] not like those who do their work only when someone is watching —as people-pleasers—but as slaves of Christ doing the will of God from the heart.
 [7] Obey with enthusiasm, as though serving the Lord and not people,
 [8] because you know that each person, whether slave or free, if he does something good, this will be rewarded by the Lord.
+
 [9] Masters, treat your slaves the same way, giving up the use of threats, because you know that both you and they have the same master in heaven, and there is no favoritism with him.
 
 ### Exhortations for Spiritual Warfare
@@ -209,7 +211,7 @@ and Christ will shine on you!”
 [14] Stand firm therefore, by fastening the belt of truth around your waist, by putting on the breastplate of righteousness,
 [15] by fitting your feet with the preparation that comes from the good news of peace,
 [16] and in all of this, by taking up the shield of faith with which you can extinguish all the flaming arrows of the evil one.
-[17] And take the helmet of salvation and the sword of the Spirit (which is the word of God).
+[17] And take _the helmet of salvation_ and the sword of the Spirit (which is the word of God).
 [18] With every prayer and petition, pray at all times in the Spirit, and to this end be alert, with all perseverance and petitions for all the saints.
 [19] Pray for me also, that I may be given the right words when I begin to speak —that I may confidently make known the mystery of the gospel,
 [20] for which I am an ambassador in chains. Pray that I may be able to speak boldly as I ought to speak.
@@ -218,5 +220,7 @@ and Christ will shine on you!”
 
 [21] Tychicus, my dear brother and faithful servant in the Lord, will make everything known to you, so that you too may know about my circumstances, how I am doing.
 [22] I have sent him to you for this very purpose, that you may know our circumstances and that he may encourage your hearts.
+
 [23] Peace to the brothers and sisters, and love with faith, from God the Father and the Lord Jesus Christ.
 [24] Grace be with all those who love our Lord Jesus Christ with an undying love.
+

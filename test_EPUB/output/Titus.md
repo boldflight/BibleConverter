@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul, a slave of God and apostle of Jesus Christ, to further the faith of God’s chosen ones and the knowledge of the truth that is in keeping with godliness,
@@ -17,6 +16,7 @@
 [7] For the overseer must be blameless as one entrusted with God’s work, not arrogant, not prone to anger, not a drunkard, not violent, not greedy for gain.
 [8] Instead he must be hospitable, devoted to what is good, sensible, upright, devout, and self-controlled.
 [9] He must hold firmly to the faithful message as it has been taught, so that he will be able to give exhortation in such healthy teaching and correct those who speak against it.
+
 [10] For there are many rebellious people, idle talkers, and deceivers, especially those with Jewish connections,
 [11] who must be silenced because they mislead whole families by teaching for dishonest gain what ought not to be taught.
 [12] A certain one of them, in fact, one of their own prophets, said, “Cretans are always liars, evil beasts, lazy gluttons.”
@@ -26,7 +26,6 @@
 [16] They profess to know God but with their deeds they deny him, since they are detestable, disobedient, and unfit for any good deed.
 
 ## Chapter 2
-
 
 ### Conduct Consistent with Sound Teaching
 
@@ -40,6 +39,7 @@
 [8] and a sound message that cannot be criticized, so that any opponent will be at a loss, because he has nothing evil to say about us.
 [9] Slaves are to be subject to their own masters in everything, to do what is wanted and not talk back,
 [10] not pilfering, but showing all good faith, in order to bring credit to the teaching of God our Savior in everything.
+
 [11] For the grace of God has appeared, bringing salvation to all people.
 [12] It trains us to reject godless ways and worldly desires and to live self-controlled, upright, and godly lives in the present age,
 [13] as we wait for the happy fulfillment of our hope in the glorious appearing of our great God and Savior, Jesus Christ.
@@ -47,7 +47,6 @@
 [15] So communicate these things with the sort of exhortation or rebuke that carries full authority. Don’t let anyone look down on you.
 
 ## Chapter 3
-
 
 ### Conduct Toward Those Outside the Church
 
@@ -72,3 +71,4 @@
 [13] Make every effort to help Zenas the lawyer and Apollos on their way; make sure they have what they need.
 [14] Here is another way that our people can learn to engage in good works to meet pressing needs and so not be unfruitful.
 [15] Everyone with me greets you. Greet those who love us in the faith. Grace be with you all.
+

@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
@@ -28,18 +27,18 @@
 
 ### The Supremacy of Christ
 
-[15] He is the image of the invisible God, the firstborn over all creation,
-[16] for all things in heaven and on earth were created in him—all things, whether visible or invisible, whether thrones or dominions, whether principalities or powers—all things were created through him and for him.
-[17] He himself is before all things and all things are held together in him.
-[18] He is the head of the body, the church, as well as the beginning, the firstborn from the dead, so that he himself may become first in all things.
-[19] For God was pleased to have all his fullness dwell in the Son
-[20] and through him to reconcile all things to himself by making peace through the blood of his cross—through him, whether things on earth or things in heaven.
-
+[15] He is the image of the invisible God, the firstborn over all creation,<br>
+[16] for all things in heaven and on earth were created in him—all things, whether visible or invisible, whether thrones or dominions, whether principalities or powers—all things were created through him and for him.<br>
+[17] He himself is before all things and all things are held together in him.<br>
+[18] He is the head of the body, the church, as well as the beginning, the firstborn from the dead, so that he himself may become first in all things.<br>
+[19] For God was pleased to have all his fullness dwell in the Son<br>
+[20] and through him to reconcile all things to himself by making peace through the blood of his cross—through him, whether things on earth or things in heaven.<br>
 ### Paul’s Goal in Ministry
 
 [21] And you were at one time strangers and enemies in your minds as expressed through your evil deeds,
 [22] but now he has reconciled you by his physical body through death to present you holy, without blemish, and blameless before him—
 [23] if indeed you remain in the faith, established and firm, without shifting from the hope of the gospel that you heard. This gospel has also been preached in all creation under heaven, and I, Paul, have become its servant.
+
 [24] Now I rejoice in my sufferings for you, and I fill up in my physical body—for the sake of his body, the church—what is lacking in the sufferings of Christ.
 [25] I became a servant of the church according to the stewardship from God—given to me for you—in order to complete the word of God,
 [26] that is, the mystery that has been kept hidden from ages and generations, but has now been revealed to his saints.
@@ -67,17 +66,18 @@
 [13] And even though you were dead in your transgressions and in the uncircumcision of your flesh, he nevertheless made you alive with him, having forgiven all your transgressions.
 [14] He has destroyed what was against us, a certificate of indebtedness expressed in decrees opposed to us. He has taken it away by nailing it to the cross.
 [15] Disarming the rulers and authorities, he has made a public disgrace of them, triumphing over them by the cross.
+
 [16] Therefore do not let anyone judge you with respect to food or drink, or in the matter of a feast, new moon, or Sabbath days—
 [17] these are only the shadow of the things to come, but the reality is Christ!
 [18] Let no one who delights in false humility and the worship of angels pass judgment on you. That person goes on at great lengths about what he has supposedly seen, but he is puffed up with empty notions by his fleshly mind.
 [19] He has not held fast to the head from whom the whole body, supported and knit together through its ligaments and sinews, grows with a growth that is from God.
+
 [20] If you have died with Christ to the elemental spirits of the world, why do you submit to them as though you lived in the world?
 [21] “Do not handle! Do not taste! Do not touch!”
 [22] These are all destined to perish with use, founded as they are on human commands and teachings.
 [23] Even though they have the appearance of wisdom with their self-imposed worship and humility achieved by an unsparing treatment of the body—a wisdom with no true value—they in reality result in fleshly indulgence.
 
 ## Chapter 3
-
 
 ### Exhortations to Seek the Things Above
 
@@ -104,7 +104,6 @@
 
 ## Chapter 4
 
-
 ### Exhortation to Households
 
 [18] Wives, submit to your husbands, as is fitting in the Lord.
@@ -116,6 +115,8 @@
 [24] because you know that you will receive your inheritance from the Lord as the reward. Serve the Lord Christ.
 [25] For the one who does wrong will be repaid for his wrong, and there are no exceptions.
 [1] Masters, treat your slaves with justice and fairness, because you know that you also have a master in heaven.
+
+
 
 ### Exhortation to Pray for the Success of Paul’s Mission
 
@@ -130,6 +131,7 @@
 [7] Tychicus, a dear brother, faithful minister, and fellow slave in the Lord, will tell you all the news about me.
 [8] I sent him to you for this very purpose, that you may know how we are doing and that he may encourage your hearts.
 [9] I sent him with Onesimus, the faithful and dear brother, who is one of you. They will tell you about everything here.
+
 [10] Aristarchus, my fellow prisoner, sends you greetings, as does Mark, the cousin of Barnabas (about whom you received instructions; if he comes to you, welcome him).
 [11] And Jesus who is called Justus also sends greetings. In terms of Jewish converts, these are the only fellow workers for the kingdom of God, and they have been a comfort to me.
 [12] Epaphras, who is one of you and a slave of Christ, greets you. He is always struggling in prayer on your behalf, so that you may stand mature and fully assured in all the will of God.
@@ -138,4 +140,6 @@
 [15] Give my greetings to the brothers and sisters who are in Laodicea and to Nympha and the church that meets in her house.
 [16] And after you have read this letter, have it read to the church of Laodicea. In turn, read the letter from Laodicea as well.
 [17] And tell Archippus, “See to it that you complete the ministry you received in the Lord.”
+
 [18] I, Paul, write this greeting by my own hand. Remember my chains. Grace be with you.
+

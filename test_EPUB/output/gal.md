@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul, an apostle (not from men, nor by human agency, but by Jesus Christ and God the Father who raised him from the dead)
@@ -23,11 +22,13 @@
 
 [11] Now I want you to know, brothers and sisters, that the gospel I preached is not of human origin.
 [12] For I did not receive it or learn it from any human source; instead I received it by a revelation of Jesus Christ.
+
 [13] For you have heard of my former way of life in Judaism, how I was savagely persecuting the church of God and trying to destroy it.
 [14] I was advancing in Judaism beyond many of my contemporaries in my nation, and was extremely zealous for the traditions of my ancestors.
 [15] But when the one who set me apart from birth and called me by his grace was pleased
 [16] to reveal his Son in me so that I could preach him among the Gentiles, I did not go to ask advice from any human being,
 [17] nor did I go up to Jerusalem to see those who were apostles before me, but right away I departed to Arabia, and then returned to Damascus.
+
 [18] Then after three years I went up to Jerusalem to visit Cephas and get information from him, and I stayed with him fifteen days.
 [19] But I saw none of the other apostles except James the Lord’s brother.
 [20] I assure you that, before God, I am not lying about what I am writing to you!
@@ -38,7 +39,6 @@
 
 ## Chapter 2
 
-
 ### Confirmation from the Jerusalem Apostles
 
 [1] Then after fourteen years I went up to Jerusalem again with Barnabas, taking Titus along too.
@@ -46,6 +46,7 @@
 [3] Yet not even Titus, who was with me, was compelled to be circumcised, although he was a Greek.
 [4] Now this matter arose because of the false brothers with false pretenses who slipped in unnoticed to spy on our freedom that we have in Christ Jesus, to make us slaves.
 [5] But we did not surrender to them even for a moment, in order that the truth of the gospel would remain with you.
+
 [6] But from those who were influential (whatever they were makes no difference to me; God shows no favoritism between people)—those influential leaders added nothing to my message.
 [7] On the contrary, when they saw that I was entrusted with the gospel to the uncircumcised just as Peter was entrusted with the gospel to the circumcised
 [8] (for he who empowered Peter for his apostleship to the circumcised also empowered me for my apostleship to the Gentiles)
@@ -71,7 +72,6 @@
 
 ## Chapter 3
 
-
 ### Justification by Law or by Faith?
 
 [1] You foolish Galatians! Who has cast a spell on you? Before your eyes Jesus Christ was vividly portrayed as crucified!
@@ -79,22 +79,24 @@
 [3] Are you so foolish? Although you began with the Spirit, are you now trying to finish by human effort?
 [4] Have you suffered so many things for nothing?—if indeed it was for nothing.
 [5] Does God then give you the Spirit and work miracles among you by your doing the works of the law or by your believing what you heard?
-[6] Just as Abraham believed God, and it was credited to him as righteousness,
+
+[6] Just as Abraham _**believed**_ _**God, and it was credited to him as righteousness**_,
 [7] so then, understand that those who believe are the sons of Abraham.
-[8] And the scripture, foreseeing that God would justify the Gentiles by faith, proclaimed the gospel to Abraham ahead of time, saying, “All the nations will be blessed in you.”
+[8] And the scripture, foreseeing that God would justify the Gentiles by faith, proclaimed the gospel to Abraham ahead of time, saying, “**_All the nations_** **_will be blessed in you_**.”
 [9] So then those who believe are blessed along with Abraham the believer.
-[10] For all who rely on doing the works of the law are under a curse, because it is written, “Cursed is everyone who does not keep on doing everything written in the book of the law.”
-[11] Now it is clear no one is justified before God by the law, because the righteous one will live by faith.
-[12] But the law is not based on faith, but the one who does the works of the law will live by them.
-[13] Christ redeemed us from the curse of the law by becoming a curse for us (because it is written, “Cursed is everyone who hangs on a tree”)
+[10] For all who rely on doing the works of the law are under a curse, because it is written, “_**Cursed is everyone who does not keep on doing everything written in the book of the law**_.”
+[11] Now it is clear no one is justified before God by the law, because _**the righteous one will live by faith**_.
+[12] But the law is not based on faith, but **_the one who does_** the works of the law **_will live by them_**.
+[13] Christ redeemed us from the curse of the law by becoming a curse for us (because it is written, “**_Cursed is everyone who hangs on a tree_**”)
 [14] in order that in Christ Jesus the blessing of Abraham would come to the Gentiles, so that we could receive the promise of the Spirit by faith.
 
 ### Inheritance Comes from Promises and not Law
 
 [15] Brothers and sisters, I offer an example from everyday life: When a covenant has been ratified, even though it is only a human contract, no one can set it aside or add anything to it.
-[16] Now the promises were spoken to Abraham and to his descendant. Scripture does not say, “and to the descendants**,”** referring to many, but “and to your descendant**,”** referring to one, who is Christ.
+[16] Now the promises were spoken to Abraham and to his descendant. Scripture does not say, “and to the descendants**,”** referring to many, but “**_and_** **_to your descendant_****,”** referring to one, who is Christ.
 [17] What I am saying is this: The law that came 430 years later does not cancel a covenant previously ratified by God, so as to invalidate the promise.
 [18] For if the inheritance is based on the law, it is no longer based on the promise, but God graciously gave it to Abraham through the promise.
+
 [19] Why then was the law given? It was added because of transgressions, until the arrival of the descendant to whom the promise had been made. It was administered through angels by an intermediary.
 [20] Now an intermediary is not for one party alone, but God is one.
 [21] Is the law therefore opposed to the promises of God? Absolutely not! For if a law had been given that was able to give life, then righteousness would certainly have come by the law.
@@ -117,7 +119,7 @@
 [3] So also we, when we were minors, were enslaved under the basic forces of the world.
 [4] But when the appropriate time had come, God sent out his Son, born of a woman, born under the law,
 [5] to redeem those who were under the law, so that we may be adopted as sons with full rights.
-[6] And because you are sons, God sent the Spirit of his Son into our hearts, who calls “Abba! Father!”
+[6] And because you are sons, God sent the Spirit of his Son into our hearts, who calls “_Abba!_ Father!”
 [7] So you are no longer a slave but a son, and if you are a son, then you are also an heir through God.
 
 ### Heirs of Promise Are Not to Return to Law
@@ -134,6 +136,7 @@
 [14] and though my physical condition put you to the test, you did not despise or reject me. Instead, you welcomed me as though I were an angel of God, as though I were Christ Jesus himself!
 [15] Where then is your sense of happiness now? For I testify about you that if it were possible, you would have pulled out your eyes and given them to me!
 [16] So then, have I become your enemy by telling you the truth?
+
 [17] They court you eagerly, but for no good purpose; they want to exclude you, so that you would seek them eagerly.
 [18] However, it is good to be sought eagerly for a good purpose at all times, and not only when I am present with you.
 [19] My children—I am again undergoing birth pains until Christ is formed in you!
@@ -148,17 +151,17 @@
 [25] Now Hagar represents Mount Sinai in Arabia and corresponds to the present Jerusalem, for she is in slavery with her children.
 [26] But the Jerusalem above is free, and she is our mother.
 [27] For it is written:
-“Rejoice, O barren woman who does not bear children;
-break forth and shout, you who have no birth pains,
-because the children of the desolate woman are more numerous
-than those of the woman who has a husband.”
+
+“**_Rejoice, O barren woman who does not bear children;_**<br>
+**_break forth and shout, you who have no birth pains,_**<br>
+**_because the children of the desolate woman are more numerous_**<br>
+**_than those of the woman who has a husband_**.”<br>
 [28] But you, brothers and sisters, are children of the promise like Isaac.
 [29] But just as at that time the one born by natural descent persecuted the one born according to the Spirit, so it is now.
-[30] But what does the scripture say? “Throw out the slave woman and her son, for the son of the slave woman will not share the inheritance with the son” of the free woman.
+[30] But what does the scripture say? “_**Throw out the slave woman and her son, for the son of the slave woman will not share the inheritance with the son**_” of the free woman.
 [31] Therefore, brothers and sisters, we are not children of the slave woman but of the free woman.
 
 ## Chapter 5
-
 
 ### Freedom of the Believer
 
@@ -168,6 +171,7 @@ than those of the woman who has a husband.”
 [4] You who are trying to be declared righteous by the law have been alienated from Christ; you have fallen away from grace!
 [5] For through the Spirit, by faith, we wait expectantly for the hope of righteousness.
 [6] For in Christ Jesus neither circumcision nor uncircumcision carries any weight—the only thing that matters is faith working through love.
+
 [7] You were running well; who prevented you from obeying the truth?
 [8] This persuasion does not come from the one who calls you!
 [9] A little yeast makes the whole batch of dough rise!
@@ -178,7 +182,7 @@ than those of the woman who has a husband.”
 ### Practice Love
 
 [13] For you were called to freedom, brothers and sisters; only do not use your freedom as an opportunity to indulge your flesh, but through love serve one another.
-[14] For the whole law can be summed up in a single commandment, namely, “You must love your neighbor as yourself.”
+[14] For the whole law can be summed up in a single commandment, namely, “**_You must love your neighbor as yourself_**.”
 [15] However, if you continually bite and devour one another, beware that you are not consumed by one another.
 [16] But I say, live by the Spirit and you will not carry out the desires of the flesh.
 [17] For the flesh has desires that are opposed to the Spirit, and the Spirit has desires that are opposed to the flesh, for these are in opposition to each other, so that you cannot do what you want.
@@ -186,6 +190,7 @@ than those of the woman who has a husband.”
 [19] Now the works of the flesh are obvious: sexual immorality, impurity, depravity,
 [20] idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish rivalries, dissensions, factions,
 [21] envying, murder, drunkenness, carousing, and similar things. I am warning you, as I had warned you before: Those who practice such things will not inherit the kingdom of God!
+
 [22] But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
 [23] gentleness, and self-control. Against such things there is no law.
 [24] Now those who belong to Christ have crucified the flesh with its passions and desires.
@@ -194,7 +199,6 @@ than those of the woman who has a husband.”
 
 ## Chapter 6
 
-
 ### Support One Another
 
 [1] Brothers and sisters, if a person is discovered in some sin, you who are spiritual restore such a person in a spirit of gentleness. Pay close attention to yourselves, so that you are not tempted too.
@@ -202,6 +206,7 @@ than those of the woman who has a husband.”
 [3] For if anyone thinks he is something when he is nothing, he deceives himself.
 [4] Let each one examine his own work. Then he can take pride in himself and not compare himself with someone else.
 [5] For each one will carry his own load.
+
 [6] Now the one who receives instruction in the word must share all good things with the one who teaches it.
 [7] Do not be deceived. God will not be made a fool. For a person will reap what he sows,
 [8] because the person who sows to his own flesh will reap corruption from the flesh, but the one who sows to the Spirit will reap eternal life from the Spirit.
@@ -211,10 +216,14 @@ than those of the woman who has a husband.”
 ### Final Instructions and Benediction
 
 [11] See what big letters I make as I write to you with my own hand!
+
 [12] Those who want to make a good showing in external matters are trying to force you to be circumcised. They do so only to avoid being persecuted for the cross of Christ.
 [13] For those who are circumcised do not obey the law themselves, but they want you to be circumcised so that they can boast about your flesh.
 [14] But may I never boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.
 [15] For neither circumcision nor uncircumcision counts for anything; the only thing that matters is a new creation!
 [16] And all who will behave in accordance with this rule, peace and mercy be on them, and on the Israel of God.
+
 [17] From now on let no one cause me trouble, for I bear the marks of Jesus on my body.
+
 [18] The grace of our Lord Jesus Christ be with your spirit, brothers and sisters. Amen.
+

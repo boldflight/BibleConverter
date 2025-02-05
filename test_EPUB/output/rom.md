@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul, a slave of Christ Jesus, called to be an apostle, set apart for the gospel of God.
@@ -27,7 +26,7 @@
 ### The Power of the Gospel
 
 [16] For I am not ashamed of the gospel, for it is God’s power for salvation to everyone who believes, to the Jew first and also to the Greek.
-[17] For the righteousness of God is revealed in the gospel from faith to faith, just as it is written, “The righteous by faith will live.”
+[17] For the righteousness of God is revealed in the gospel from faith to faith, just as it is written, “**_The righteous by faith will live_**.”
 
 ### The Condemnation of the Unrighteous
 
@@ -37,10 +36,13 @@
 [21] For although they knew God, they did not glorify him as God or give him thanks, but they became futile in their thoughts and their senseless hearts were darkened.
 [22] Although they claimed to be wise, they became fools
 [23] and exchanged the glory of the immortal God for an image resembling mortal human beings or birds or four-footed animals or reptiles.
+
 [24] Therefore God gave them over in the desires of their hearts to impurity, to dishonor their bodies among themselves.
 [25] They exchanged the truth of God for a lie and worshiped and served the creation rather than the Creator, who is blessed forever! Amen.
+
 [26] For this reason God gave them over to dishonorable passions. For their women exchanged the natural sexual relations for unnatural ones,
 [27] and likewise the men also abandoned natural relations with women and were inflamed in their passions for one another. Men committed shameless acts with men and received in themselves the due penalty for their error.
+
 [28] And just as they did not see fit to acknowledge God, God gave them over to a depraved mind, to do what should not be done.
 [29] They are filled with every kind of unrighteousness, wickedness, covetousness, malice. They are rife with envy, murder, strife, deceit, hostility. They are gossips,
 [30] slanderers, haters of God, insolent, arrogant, boastful, contrivers of all sorts of evil, disobedient to parents,
@@ -49,7 +51,6 @@
 
 ## Chapter 2
 
-
 ### The Condemnation of the Moralist
 
 [1] Therefore you are without excuse, whoever you are, when you judge someone else. For on whatever grounds you judge another, you condemn yourself, because you who judge practice the same things.
@@ -57,7 +58,7 @@
 [3] And do you think, whoever you are, when you judge those who practice such things and yet do them yourself, that you will escape God’s judgment?
 [4] Or do you have contempt for the wealth of his kindness, forbearance, and patience, and yet do not know that God’s kindness leads you to repentance?
 [5] But because of your stubbornness and your unrepentant heart, you are storing up wrath for yourselves in the day of wrath, when God’s righteous judgment is revealed!
-[6] He will reward each one according to his works:
+[6] He **_will reward_** **_each one according to his works_**:
 [7] eternal life to those who by perseverance in good works seek glory and honor and immortality,
 [8] but wrath and anger to those who live in selfish ambition and do not obey the truth but follow unrighteousness.
 [9] There will be affliction and distress on everyone who does evil, on the Jew first and also the Greek,
@@ -78,7 +79,8 @@
 [21] therefore you who teach someone else, do you not teach yourself? You who preach against stealing, do you steal?
 [22] You who tell others not to commit adultery, do you commit adultery? You who abhor idols, do you rob temples?
 [23] You who boast in the law dishonor God by transgressing the law!
-[24] For just as it is written, “the name of God is being blasphemed among the Gentiles because of you.”
+[24] For just as it is written, “**_the name of God is being blasphemed among the Gentiles because of you_**.”
+
 [25] For circumcision has its value if you practice the law, but if you break the law, your circumcision has become uncircumcision.
 [26] Therefore if the uncircumcised man obeys the righteous requirements of the law, will not his uncircumcision be regarded as circumcision?
 [27] And the physically uncircumcised man, by keeping the law, will judge you to be the transgressor of the law, even though you have the letter and circumcision!
@@ -90,7 +92,8 @@
 [1] Therefore what advantage does the Jew have, or what is the value of circumcision?
 [2] Actually, there are many advantages. First of all, the Jews were entrusted with the oracles of God.
 [3] What then? If some were unfaithful, their unfaithfulness will not nullify God’s faithfulness, will it?
-[4] Absolutely not! Let God be proven true, and every human being shown up as a liar, just as it is written: “so that you will be justified in your words and will prevail when you are judged.”
+[4] Absolutely not! Let God be proven true, and every human being shown up as a liar, just as it is written: “**_so that you will be justified_** **_in_ _your words and will prevail when you are judged_**.”
+
 [5] But if our unrighteousness demonstrates the righteousness of God, what shall we say? The God who inflicts wrath is not unrighteous, is he? (I am speaking in human terms.)
 [6] Absolutely not! For otherwise how could God judge the world?
 [7] For if by my lie the truth of God enhances his glory, why am I still actually being judged as a sinner?
@@ -100,28 +103,30 @@
 
 [9] What then? Are we better off? Certainly not, for we have already charged that Jews and Greeks alike are all under sin,
 [10] just as it is written:
-“There is no one righteous, not even one,
-[11] there is no one who understands,
-there is no one who seeks God.
-[12] All have turned away,
-together they have become worthless;
-there is no one who shows kindness, not even one.”
-[13] “Their throats are open graves,
-they deceive with their tongues,
-the poison of asps is under their lips.”
-[14] “Their mouths are full of cursing and bitterness.”
-[15] “Their feet are swift to shed blood,
-[16] ruin and misery are in their paths,
-[17] and the way of peace they have not known.”
-[18] “There is no fear of God before their eyes.”
+
+“_**There is no one righteous, not even one**_,<br>
+[11] _**there is no one who understands**_,<br>
+_**there is no one who seeks God**_.<br>
+[12] _**All have turned away**_,<br>
+**_together they have become worthless;_**<br>
+_**there is no one who shows kindness, not even one.**_”<br>
+[13] “_**Their throats are open graves**,_<br>
+_**they deceive with their tongues**,_<br>
+_**the poison of asps is under their lips**_.”<br>
+[14] “**_Their mouths are_** _**full of cursing and bitterness**_.”<br>
+[15] “_**Their feet are swift to shed blood**,_<br>
+[16] _**ruin and misery are in their paths**,_<br>
+[17] _**and the way of peace they have not known**_.”<br>
+[18] “_**There is no fear of God before their eyes**_.”<br>
 [19] Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world may be held accountable to God.
-[20] For no one is declared righteous before him by the works of the law, for through the law comes the knowledge of sin.
+[20] For _no one is declared righteous before him_ by the works of the law, for through the law comes the knowledge of sin.
 [21] But now apart from the law the righteousness of God (although it is attested by the law and the prophets) has been disclosed—
 [22] namely, the righteousness of God through the faithfulness of Jesus Christ for all who believe. For there is no distinction,
 [23] for all have sinned and fall short of the glory of God.
 [24] But they are justified freely by his grace through the redemption that is in Christ Jesus.
 [25] God publicly displayed him at his death as the mercy seat accessible through faith. This was to demonstrate his righteousness, because God in his forbearance had passed over the sins previously committed.
 [26] This was also to demonstrate his righteousness in the present time, so that he would be just and the justifier of the one who lives because of Jesus’ faithfulness.
+
 [27] Where, then, is boasting? It is excluded! By what principle? Of works? No, but by the principle of faith!
 [28] For we consider that a person is declared righteous by faith apart from the works of the law.
 [29] Or is God the God of the Jews only? Is he not the God of the Gentiles too? Yes, of the Gentiles too!
@@ -130,37 +135,39 @@ the poison of asps is under their lips.”
 
 ## Chapter 4
 
-
 ### The Illustration of Justification
 
 [1] What then shall we say that Abraham, our ancestor according to the flesh, has discovered regarding this matter?
 [2] For if Abraham was declared righteous by works, he has something to boast about—but not before God.
-[3] For what does the scripture say? “Abraham believed God, and it was credited to him as righteousness.”
+[3] For what does the scripture say? “_**Abraham believed God, and it was credited**_ **_to him as righteousness_**.”
 [4] Now to the one who works, his pay is not credited due to grace but due to obligation.
 [5] But to the one who does not work, but believes in the one who declares the ungodly righteous, his faith is credited as righteousness.
+
 [6] So even David himself speaks regarding the blessedness of the man to whom God credits righteousness apart from works:
-[7] “Blessed are those whose lawless deeds are forgiven, and whose sins are covered;
-[8] blessed is the one against whom the Lord will never count sin.”
-[9] Is this blessedness then for the circumcision or also for the uncircumcision? For we say, “faith was credited to Abraham as righteousness.”
+
+[7] “**_Blessed_** **_are those whose lawless deeds are forgiven, and whose sins are covered;_**<br>
+[8] **_blessed is the one_** **_against whom the Lord will never count_** _**sin**_.”<br>
+[9] Is this blessedness then for the circumcision or also for the uncircumcision? For we say, “_faith **was credited to** Abraham **as** **righteousness**_.”
 [10] How then was it credited to him? Was he circumcised at the time, or not? No, he was not circumcised but uncircumcised!
 [11] And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised, so that he would become the father of all those who believe but have never been circumcised, that they too could have righteousness credited to them.
 [12] And he is also the father of the circumcised, who are not only circumcised, but who also walk in the footsteps of the faith that our father Abraham possessed when he was still uncircumcised.
+
 [13] For the promise to Abraham or to his descendants that he would inherit the world was not fulfilled through the law, but through the righteousness that comes by faith.
 [14] For if they become heirs by the law, faith is empty and the promise is nullified.
 [15] For the law brings wrath, because where there is no law there is no transgression either.
 [16] For this reason it is by faith so that it may be by grace, with the result that the promise may be certain to all the descendants—not only to those who are under the law, but also to those who have the faith of Abraham, who is the father of us all
-[17] (as it is written, “I have made you the father of many nations”). He is our father in the presence of God whom he believed—the God who makes the dead alive and summons the things that do not yet exist as though they already do.
-[18] Against hope Abraham believed in hope with the result that he became the father of many nations according to the pronouncement, “so will your descendants be.”
+[17] (as it is written, “**_I have made you the father of many nations_**”). He is our father in the presence of God whom he believed—the God who makes the dead alive and summons the things that do not yet exist as though they already do.
+[18] Against hope Abraham believed in hope with the result that he became **_the father of many nations_** according to the pronouncement, “**_so will your descendants be_**.”
 [19] Without being weak in faith, he considered his own body as dead (because he was about 100 years old) and the deadness of Sarah’s womb.
 [20] He did not waver in unbelief about the promise of God but was strengthened in faith, giving glory to God.
 [21] He was fully convinced that what God promised he was also able to do.
 [22] So indeed it was credited to Abraham as righteousness.
-[23] But the statement it was credited to him was not written only for Abraham’s sake,
+
+[23] But the statement **_it was credited to him_** was not written only for Abraham’s sake,
 [24] but also for our sake, to whom it will be credited, those who believe in the one who raised Jesus our Lord from the dead.
 [25] He was given over because of our transgressions and was raised for the sake of our justification.
 
 ## Chapter 5
-
 
 ### The Expectation of Justification
 
@@ -169,6 +176,7 @@ the poison of asps is under their lips.”
 [3] Not only this, but we also rejoice in sufferings, knowing that suffering produces endurance,
 [4] and endurance, character, and character, hope.
 [5] And hope does not disappoint, because the love of God has been poured out in our hearts through the Holy Spirit who was given to us.
+
 [6] For while we were still helpless, at the right time Christ died for the ungodly.
 [7] (For rarely will anyone die for a righteous person, though for a good person perhaps someone might possibly dare to die.)
 [8] But God demonstrates his own love for us, in that while we were still sinners, Christ died for us.
@@ -184,6 +192,7 @@ the poison of asps is under their lips.”
 [15] But the gracious gift is not like the transgression. For if the many died through the transgression of the one man, how much more did the grace of God and the gift by the grace of the one man Jesus Christ multiply to the many!
 [16] And the gift is not like the one who sinned. For judgment, resulting from the one transgression, led to condemnation, but the gracious gift from the many failures led to justification.
 [17] For if, by the transgression of the one man, death reigned through the one, how much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ!
+
 [18] Consequently, just as condemnation for all people came through one transgression, so too through the one righteous act came righteousness leading to life for all people.
 [19] For just as through the disobedience of the one man many were constituted sinners, so also through the obedience of one man many will be constituted righteous.
 [20] Now the law came in so that the transgression may increase, but where sin increased, grace multiplied all the more,
@@ -191,20 +200,22 @@ the poison of asps is under their lips.”
 
 ## Chapter 6
 
-
 ### The Believer’s Freedom from Sin’s Domination
 
 [1] What shall we say then? Are we to remain in sin so that grace may increase?
 [2] Absolutely not! How can we who died to sin still live in it?
 [3] Or do you not know that as many as were baptized into Christ Jesus were baptized into his death?
 [4] Therefore we have been buried with him through baptism into death, in order that just as Christ was raised from the dead through the glory of the Father, so we too may live a new life.
+
 [5] For if we have become united with him in the likeness of his death, we will certainly also be united in the likeness of his resurrection.
 [6] We know that our old man was crucified with him so that the body of sin would no longer dominate us, so that we would no longer be enslaved to sin.
 [7] (For someone who has died has been freed from sin.)
+
 [8] Now if we died with Christ, we believe that we will also live with him.
 [9] We know that since Christ has been raised from the dead, he is never going to die again; death no longer has mastery over him.
 [10] For the death he died, he died to sin once for all, but the life he lives, he lives to God.
 [11] So you too consider yourselves dead to sin, but alive to God in Christ Jesus.
+
 [12] Therefore do not let sin reign in your mortal body so that you obey its desires,
 [13] and do not present your members to sin as instruments to be used for unrighteousness, but present yourselves to God as those who are alive from the dead and your members to God as instruments to be used for righteousness.
 [14] For sin will have no mastery over you, because you are not under law but under grace.
@@ -217,12 +228,12 @@ the poison of asps is under their lips.”
 [18] and having been freed from sin, you became enslaved to righteousness.
 [19] (I am speaking in human terms because of the weakness of your flesh.) For just as you once presented your members as slaves to impurity and lawlessness leading to more lawlessness, so now present your members as slaves to righteousness leading to sanctification.
 [20] For when you were slaves of sin, you were free with regard to righteousness.
+
 [21] So what benefit did you then reap from those things that you are now ashamed of? For the end of those things is death.
 [22] But now, freed from sin and enslaved to God, you have your benefit leading to sanctification, and the end is eternal life.
 [23] For the payoff of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 
 ## Chapter 7
-
 
 ### The Believer’s Relationship to the Law
 
@@ -232,12 +243,14 @@ the poison of asps is under their lips.”
 [4] So, my brothers and sisters, you also died to the law through the body of Christ, so that you could be joined to another, to the one who was raised from the dead, to bear fruit to God.
 [5] For when we were in the flesh, the sinful desires, aroused by the law, were active in the members of our body to bear fruit for death.
 [6] But now we have been released from the law, because we have died to what controlled us, so that we may serve in the new life of the Spirit and not under the old written code.
-[7] What shall we say then? Is the law sin? Absolutely not! Certainly, I would not have known sin except through the law. For indeed I would not have known what it means to desire something belonging to someone else if the law had not said, “Do not covet.”
+
+[7] What shall we say then? Is the law sin? Absolutely not! Certainly, I would not have known sin except through the law. For indeed I would not have known what it means to desire something belonging to someone else if the law had not said, “**_Do not covet_**.”
 [8] But sin, seizing the opportunity through the commandment, produced in me all kinds of wrong desires. For apart from the law, sin is dead.
 [9] And I was once alive apart from the law, but with the coming of the commandment sin became alive
 [10] and I died. So I found that the very commandment that was intended to bring life brought death!
 [11] For sin, seizing the opportunity through the commandment, deceived me and through it I died.
 [12] So then, the law is holy, and the commandment is holy, righteous, and good.
+
 [13] Did that which is good, then, become death to me? Absolutely not! But sin, so that it would be shown to be sin, produced death in me through what is good, so that through the commandment sin would become utterly sinful.
 [14] For we know that the law is spiritual—but I am unspiritual, sold into slavery to sin.
 [15] For I don’t understand what I am doing. For I do not do what I want—instead, I do what I hate.
@@ -246,6 +259,7 @@ the poison of asps is under their lips.”
 [18] For I know that nothing good lives in me, that is, in my flesh. For I want to do the good, but I cannot do it.
 [19] For I do not do the good I want, but I do the very evil I do not want!
 [20] Now if I do what I do not want, it is no longer me doing it but sin that lives in me.
+
 [21] So, I find the law that when I want to do good, evil is present with me.
 [22] For I delight in the law of God in my inner being.
 [23] But I see a different law in my members waging war against the law of my mind and making me captive to the law of sin that is in my members.
@@ -254,13 +268,13 @@ the poison of asps is under their lips.”
 
 ## Chapter 8
 
-
 ### The Believer’s Relationship to the Holy Spirit
 
 [1] There is therefore now no condemnation for those who are in Christ Jesus.
 [2] For the law of the life-giving Spirit in Christ Jesus has set you free from the law of sin and death.
 [3] For God achieved what the law could not do because it was weakened through the flesh. By sending his own Son in the likeness of sinful flesh and concerning sin, he condemned sin in the flesh,
 [4] so that the righteous requirement of the law may be fulfilled in us, who do not walk according to the flesh but according to the Spirit.
+
 [5] For those who live according to the flesh have their outlook shaped by the things of the flesh, but those who live according to the Spirit have their outlook shaped by the things of the Spirit.
 [6] For the outlook of the flesh is death, but the outlook of the Spirit is life and peace,
 [7] because the outlook of the flesh is hostile to God, for it does not submit to the law of God, nor is it able to do so.
@@ -268,12 +282,14 @@ the poison of asps is under their lips.”
 [9] You, however, are not in the flesh but in the Spirit, if indeed the Spirit of God lives in you. Now if anyone does not have the Spirit of Christ, this person does not belong to him.
 [10] But if Christ is in you, your body is dead because of sin, but the Spirit is your life because of righteousness.
 [11] Moreover if the Spirit of the one who raised Jesus from the dead lives in you, the one who raised Christ from the dead will also make your mortal bodies alive through his Spirit who lives in you.
+
 [12] So then, brothers and sisters, we are under obligation, not to the flesh, to live according to the flesh
 [13] (for if you live according to the flesh, you will die), but if by the Spirit you put to death the deeds of the body you will live.
 [14] For all who are led by the Spirit of God are the sons of God.
-[15] For you did not receive the spirit of slavery leading again to fear, but you received the Spirit of adoption, by whom we cry, “Abba, Father.”
+[15] For you did not receive the spirit of slavery leading again to fear, but you received the Spirit of adoption, by whom we cry, “_Abba_, Father.”
 [16] The Spirit himself bears witness to our spirit that we are God’s children.
 [17] And if children, then heirs (namely, heirs of God and also fellow heirs with Christ) —if indeed we suffer with him so we may also be glorified with him.
+
 [18] For I consider that our present sufferings cannot even be compared to the coming glory that will be revealed to us.
 [19] For the creation eagerly waits for the revelation of the sons of God.
 [20] For the creation was subjected to futility—not willingly but because of God who subjected it—in hope
@@ -282,23 +298,24 @@ the poison of asps is under their lips.”
 [23] Not only this, but we ourselves also, who have the firstfruits of the Spirit, groan inwardly as we eagerly await our adoption, the redemption of our bodies.
 [24] For in hope we were saved. Now hope that is seen is not hope, because who hopes for what he sees?
 [25] But if we hope for what we do not see, we eagerly wait for it with endurance.
+
 [26] In the same way, the Spirit helps us in our weakness, for we do not know how we should pray, but the Spirit himself intercedes for us with inexpressible groanings.
 [27] And he who searches our hearts knows the mind of the Spirit, because the Spirit intercedes on behalf of the saints according to God’s will.
 [28] And we know that all things work together for good for those who love God, who are called according to his purpose,
 [29] because those whom he foreknew he also predestined to be conformed to the image of his Son, that his Son would be the firstborn among many brothers and sisters.
 [30] And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
+
 [31] What then shall we say about these things? If God is for us, who can be against us?
 [32] Indeed, he who did not spare his own Son, but gave him up for us all—how will he not also, along with him, freely give us all things?
 [33] Who will bring any charge against God’s elect? It is God who justifies.
 [34] Who is the one who will condemn? Christ is the one who died (and more than that, he was raised), who is at the right hand of God, and who also is interceding for us.
 [35] Who will separate us from the love of Christ? Will trouble, or distress, or persecution, or famine, or nakedness, or danger, or sword?
-[36] As it is written, “For your sake we encounter death all day long; we were considered as sheep to be slaughtered.”
+[36] As it is written, “**_For your sake we encounter death all day long; we were considered as sheep to be slaughtered_**.”
 [37] No, in all these things we have complete victory through him who loved us!
 [38] For I am convinced that neither death, nor life, nor angels, nor heavenly rulers, nor things that are present, nor things to come, nor powers,
 [39] nor height, nor depth, nor anything else in creation will be able to separate us from the love of God in Christ Jesus our Lord.
 
 ## Chapter 9
-
 
 ### Israel’s Rejection Considered
 
@@ -307,97 +324,108 @@ the poison of asps is under their lips.”
 [3] For I could wish that I myself were accursed—cut off from Christ—for the sake of my people, my fellow countrymen,
 [4] who are Israelites. To them belong the adoption as sons, the glory, the covenants, the giving of the law, the temple worship, and the promises.
 [5] To them belong the patriarchs, and from them, by human descent, came the Christ, who is God over all, blessed forever! Amen.
+
 [6] It is not as though the word of God had failed. For not all those who are descended from Israel are truly Israel,
-[7] nor are all the children Abraham’s true descendants; rather “through Isaac will your descendants be counted.”
+[7] nor are all the children Abraham’s true descendants; rather “**_through Isaac will your descendants be counted_**.”
 [8] This means it is not the children of the flesh who are the children of God; rather, the children of promise are counted as descendants.
-[9] For this is what the promise declared: “About a year from now I will return and Sarah will have a son.”
+[9] For this is what the promise declared: “**_About a year from now_** **_I will return and Sarah will have a son_**.”
 [10] Not only that, but when Rebekah had conceived children by one man, our ancestor Isaac—
 [11] even before they were born or had done anything good or bad (so that God’s purpose in election would stand, not by works but by his calling) —
-[12] it was said to her, “The older will serve the younger,”
-[13] just as it is written: “Jacob I loved, but Esau I hated.”
+[12] it was said to her, “**_The older will serve the younger_**,”
+[13] just as it is written: “_**Jacob I loved, but Esau I hated**_.”
+
 [14] What shall we say then? Is there injustice with God? Absolutely not!
-[15] For he says to Moses: “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”
+[15] For he says to Moses: “_**I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion**_.”
 [16] So then, it does not depend on human desire or exertion, but on God who shows mercy.
-[17] For the scripture says to Pharaoh: “For this very purpose I have raised you up, that I may demonstrate my power in you, and that my name may be proclaimed in all the earth.”
+[17] For the scripture says to Pharaoh: “_**For this very purpose I have raised you up, that I may demonstrate my power in you, and that my name may be proclaimed in all the earth**_.”
 [18] So then, God has mercy on whom he chooses to have mercy, and he hardens whom he chooses to harden.
+
 [19] You will say to me then, “Why does he still find fault? For who has ever resisted his will?”
-[20] But who indeed are you—a mere human being —to talk back to God? Does what is molded say to the molder, “Why have you made me like this?”
+[20] But who indeed are you—a mere human being —to talk back to God? **_Does what is molded say to the molder_**, “**_Why have you made me like this?_**”
 [21] Has the potter no right to make from the same lump of clay one vessel for special use and another for ordinary use?
 [22] But what if God, willing to demonstrate his wrath and to make known his power, has endured with much patience the objects of wrath prepared for destruction?
 [23] And what if he is willing to make known the wealth of his glory on the objects of mercy that he has prepared beforehand for glory—
 [24] even us, whom he has called, not only from the Jews but also from the Gentiles?
 [25] As he also says in Hosea:
-“I will call those who were not my people, ‘My people,’ and I will call her who was unloved, ‘My beloved.’”
-[26] “And in the very place where it was said to them, ‘You are not my people,’
-there they will be called ‘sons of the living God.’”
-[27] And Isaiah cries out on behalf of Israel, “Though the number of the children of Israel are as the sand of the sea, only the remnant will be saved,
-[28] for the Lord will execute his sentence on the earth completely and quickly.”
-[29] Just as Isaiah predicted,
-“If the Lord of Heaven’s Armies had not left us descendants,
-we would have become like Sodom,
-and we would have resembled Gomorrah.”
 
+“_**I will call those who were not my people**_, ‘_**My people**_,’ **_and I will call her who was unloved,_** ‘_**My beloved**_.’”<br>
+[26] “**_And in the very place_** _**where it was said to them**_, ‘_**You are not my people**_,’<br>
+**_there they will be called_** ‘_**sons of the living God**_.’”<br>
+[27] And Isaiah cries out on behalf of Israel, “_Though the number of the children_ _of Israel are as the sand of the sea_, _only the remnant will be saved_,
+[28] _for_ _the Lord will execute his sentence on the earth completely and quickly_.”
+[29] Just as Isaiah predicted,
+
+“If the Lord of Heaven’s Armies had not left us descendants,<br>
+we would have become like Sodom,<br>
+and we would have resembled Gomorrah.”<br>
 ### Israel’s Rejection Culpable
 
 [30] What shall we say then?—that the Gentiles who did not pursue righteousness obtained it, that is, a righteousness that is by faith,
 [31] but Israel even though pursuing a law of righteousness did not attain it.
 [32] Why not? Because they pursued it not by faith but (as if it were possible) by works. They stumbled over the stumbling stone,
 [33] just as it is written,
-“Look, I am laying in Zion a stone that will cause people to stumble
-and a rock that will make them fall,
-yet the one who believes in him will not be put to shame.”
 
+“_**Look, I am laying in Zion a stone that will cause people to stumble**_<br>
+**_and a rock that will make them fall,_**<br>
+**_yet the one who believes in him will not be put to shame_.**”<br>
 ## Chapter 10
 
 [1] Brothers and sisters, my heart’s desire and prayer to God on behalf of my fellow Israelites is for their salvation.
 [2] For I can testify that they are zealous for God, but their zeal is not in line with the truth.
 [3] For ignoring the righteousness that comes from God, and seeking instead to establish their own righteousness, they did not submit to God’s righteousness.
 [4] For Christ is the end of the law, with the result that there is righteousness for everyone who believes.
-[5] For Moses writes about the righteousness that is by the law: “The one who does these things will live by them.”
-[6] But the righteousness that is by faith says: “Do not say in your heart, ‘Who will ascend into heaven?’” (that is, to bring Christ down)
-[7] or “Who will descend into the abyss?” (that is, to bring Christ up from the dead).
-[8] But what does it say? “The word is near you, in your mouth and in your heart” (that is, the word of faith that we preach),
+
+[5] For Moses writes about the righteousness that is by the law: “**_The one who does these things will live by them_**.”
+[6] But the righteousness that is by faith says: “**_Do not say in your heart_**, ‘_**Who will ascend into heaven**?_’” (that is, to bring Christ down)
+[7] or “**_Who will descend into the abyss?_**” (that is, to bring Christ up from the dead).
+[8] But what does it say? “_**The word is near you, in your mouth and in your heart**_” (that is, the word of faith that we preach),
 [9] because if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.
 [10] For with the heart one believes and thus has righteousness and with the mouth one confesses and thus has salvation.
-[11] For the scripture says, “Everyone who believes in him will not be put to shame.”
+[11] For the scripture says, “**_Everyone who believes in him will not be put to shame_**.”
 [12] For there is no distinction between the Jew and the Greek, for the same Lord is Lord of all, who richly blesses all who call on him.
-[13] For everyone who calls on the name of the Lord will be saved.
+[13] For **_everyone who calls on the name of the Lord will be saved_**.
+
 [14] How are they to call on one they have not believed in? And how are they to believe in one they have not heard of? And how are they to hear without someone preaching to them?
-[15] And how are they to preach unless they are sent? As it is written, “How timely is the arrival of those who proclaim the good news.”
-[16] But not all have obeyed the good news, for Isaiah says, “Lord, who has believed our report?”
+[15] And how are they to preach unless they are sent? As it is written, “**_How timely_** **_is the arrival_** **_of those who proclaim the good news_**.”
+[16] But not all have obeyed the good news, for Isaiah says, “_**Lord, who has believed our report**_?”
 [17] Consequently faith comes from what is heard, and what is heard comes through the preached word of Christ.
-[18] But I ask, have they not heard? Yes, they have: Their voice has gone out to all the earth, and their words to the ends of the world.
-[19] But again I ask, didn’t Israel understand? First Moses says, “I will make you jealous by those who are not a nation; with a senseless nation I will provoke you to anger.”
-[20] And Isaiah is even bold enough to say, “I was found by those who did not seek me; I became well known to those who did not ask for me.”
-[21] But about Israel he says, “All day long I held out my hands to this disobedient and stubborn people!”
+
+[18] But I ask, have they not heard? Yes, they have: _**Their voice has gone out to all the earth, and their words to the ends of the world**_.
+[19] But again I ask, didn’t Israel understand? First Moses says, “**_I will make you jealous by those who are not a nation; with a senseless nation I will provoke you to anger_**.”
+[20] And Isaiah is even bold enough to say, “**_I was found by those who did not seek me; I became well known to those who did not ask for me_**.”
+[21] But about Israel he says, “**_All day long I held out my hands to this disobedient and stubborn people!_**”
 
 ## Chapter 11
-
 
 ### Israel’s Rejection not Complete nor Final
 
 [1] So I ask, God has not rejected his people, has he? Absolutely not! For I too am an Israelite, a descendant of Abraham, from the tribe of Benjamin.
 [2] God has not rejected his people whom he foreknew! Do you not know what the scripture says about Elijah, how he pleads with God against Israel?
-[3] “Lord, they have killed your prophets, they have demolished your altars; I alone am left and they are seeking my life!”
-[4] But what was the divine response to him? “I have kept for myself 7,000 people who have not bent the knee to Baal.”
+[3] “Lord, _**they have killed your prophets, they have demolished your altars; I alone am left and they are seeking my life!**_”
+[4] But what was the divine response to him? “**_I have kept_** for myself **_7,000 people_** **_who have not bent the knee to Baal_**.”
+
 [5] So in the same way at the present time there is a remnant chosen by grace.
 [6] And if it is by grace, it is no longer by works, otherwise grace would no longer be grace.
 [7] What then? Israel failed to obtain what it was diligently seeking, but the elect obtained it. The rest were hardened,
 [8] as it is written,
-“God gave them a spirit of stupor,
-eyes that would not see and ears that would not hear,
-to this very day.”
+
+“_**God gave them a spirit of stupor**,_<br>
+_**eyes that would not see and ears that would not hear**_,<br>
+**_to this very day_.**”<br>
 [9] And David says,
-“Let their table become a snare and trap,
-a stumbling block and a retribution for them;
-[10] let their eyes be darkened so that they may not see,
-and make their backs bend continually.”
+
+“_**Let their table become a snare and trap**,_<br>
+_**a stumbling block and a retribution for them**;_<br>
+[10] **_let their eyes be darkened so that they may not see,_**<br>
+**_and make their backs bend continually_.**”<br>
 [11] I ask then, they did not stumble into an irrevocable fall, did they? Absolutely not! But by their transgression salvation has come to the Gentiles, to make Israel jealous.
 [12] Now if their transgression means riches for the world and their defeat means riches for the Gentiles, how much more will their full restoration bring?
+
 [13] Now I am speaking to you Gentiles. Seeing that I am an apostle to the Gentiles, I magnify my ministry,
 [14] if somehow I could provoke my people to jealousy and save some of them.
 [15] For if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead?
 [16] If the first portion of the dough offered is holy, then the whole batch is holy, and if the root is holy, so too are the branches.
+
 [17] Now if some of the branches were broken off, and you, a wild olive shoot, were grafted in among them and participated in the richness of the olive root,
 [18] do not boast over the branches. But if you boast, remember that you do not support the root, but the root supports you.
 [19] Then you will say, “The branches were broken off so that I could be grafted in.”
@@ -406,26 +434,29 @@ and make their backs bend continually.”
 [22] Notice therefore the kindness and harshness of God—harshness toward those who have fallen, but God’s kindness toward you, provided you continue in his kindness; otherwise you also will be cut off.
 [23] And even they—if they do not continue in their unbelief—will be grafted in, for God is able to graft them in again.
 [24] For if you were cut off from what is by nature a wild olive tree, and grafted, contrary to nature, into a cultivated olive tree, how much more will these natural branches be grafted back into their own olive tree?
+
 [25] For I do not want you to be ignorant of this mystery, brothers and sisters, so that you may not be conceited: A partial hardening has happened to Israel until the full number of the Gentiles has come in.
 [26] And so all Israel will be saved, as it is written:
-“The Deliverer will come out of Zion;
-he will remove ungodliness from Jacob.
-[27] And this is my covenant with them,
-when I take away their sins.”
+
+“**_The Deliverer will come out of Zion;_**<br>
+_**he will remove ungodliness from Jacob**_.<br>
+[27] _**And this is my covenant with them**,_<br>
+**_when I take away their sins_.**”<br>
 [28] In regard to the gospel they are enemies for your sake, but in regard to election they are dearly loved for the sake of the fathers.
 [29] For the gifts and the call of God are irrevocable.
 [30] Just as you were formerly disobedient to God, but have now received mercy due to their disobedience,
 [31] so they too have now been disobedient in order that, by the mercy shown to you, they too may now receive mercy.
 [32] For God has consigned all people to disobedience so that he may show mercy to them all.
+
 [33] Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how unfathomable his ways!
-[34] For who has known the mind of the Lord,
-or who has been his counselor?
-[35] Or who has first given to God,
-that God needs to repay him?
+
+[34] _**For who has known the mind of the Lord**,_<br>
+**_or who has been his counselor?_**<br>
+[35] _**Or who has first given to God**,_<br>
+**_that God_** **_needs to repay him?_**<br>
 [36] For from him and through him and to him are all things. To him be glory forever! Amen.
 
 ## Chapter 12
-
 
 ### Consecration of the Believer’s Life
 
@@ -453,12 +484,11 @@ that God needs to repay him?
 [16] Live in harmony with one another; do not be haughty but associate with the lowly. Do not be conceited.
 [17] Do not repay anyone evil for evil; consider what is good before all people.
 [18] If possible, so far as it depends on you, live peaceably with all people.
-[19] Do not avenge yourselves, dear friends, but give place to God’s wrath, for it is written, “Vengeance is mine, I will repay,” says the Lord.
-[20] Rather, if your enemy is hungry, feed him; if he is thirsty, give him a drink; for in doing this you will be heaping burning coals on his head.
+[19] Do not avenge yourselves, dear friends, but give place to God’s wrath, for it is written, “_**Vengeance is mine, I will repay**_,” says the Lord.
+[20] Rather, _**if your enemy is hungry, feed him; if he is thirsty, give him a drink; for in doing this you will be heaping burning coals on his head**_.
 [21] Do not be overcome by evil, but overcome evil with good.
 
 ## Chapter 13
-
 
 ### Submission to Civil Government
 
@@ -473,7 +503,7 @@ that God needs to repay him?
 ### Exhortation to Love Neighbors
 
 [8] Owe no one anything, except to love one another, for the one who loves his neighbor has fulfilled the law.
-[9] For the commandments, “Do not commit adultery, do not murder, do not steal, do not covet,” (and if there is any other commandment) are summed up in this, “Love your neighbor as yourself.”
+[9] For the commandments, “_**Do not commit adultery, do not murder, do not steal, do not covet**,_” (and if there is any other commandment) are summed up in this, “**_Love your neighbor as yourself_**.”
 [10] Love does no wrong to a neighbor. Therefore love is the fulfillment of the law.
 
 ### Motivation to Godly Conduct
@@ -485,20 +515,21 @@ that God needs to repay him?
 
 ## Chapter 14
 
-
 ### Exhortation to Mutual Forbearance
 
 [1] Now receive the one who is weak in the faith, and do not have disputes over differing opinions.
 [2] One person believes in eating everything, but the weak person eats only vegetables.
 [3] The one who eats everything must not despise the one who does not, and the one who abstains must not judge the one who eats everything, for God has accepted him.
 [4] Who are you to pass judgment on another’s servant? Before his own master he stands or falls. And he will stand, for the Lord is able to make him stand.
+
 [5] One person regards one day holier than other days, and another regards them all alike. Each must be fully convinced in his own mind.
 [6] The one who observes the day does it for the Lord. The one who eats, eats for the Lord because he gives thanks to God, and the one who abstains from eating abstains for the Lord, and he gives thanks to God.
 [7] For none of us lives for himself and none dies for himself.
 [8] If we live, we live for the Lord; if we die, we die for the Lord. Therefore, whether we live or die, we are the Lord’s.
 [9] For this reason Christ died and returned to life, so that he may be the Lord of both the dead and the living.
+
 [10] But you who eat vegetables only—why do you judge your brother or sister? And you who eat everything—why do you despise your brother or sister? For we will all stand before the judgment seat of God.
-[11] For it is written, “As I live, says the Lord, every knee will bow to me, and every tongue will give praise to God.”
+[11] For it is written, “_**As I live, says the Lord, every knee will bow to me, and every tongue will give praise to God**_.”
 [12] Therefore, each of us will give an account of himself to God.
 
 ### Exhortation for the Strong not to Destroy the Weak
@@ -509,6 +540,7 @@ that God needs to repay him?
 [16] Therefore do not let what you consider good be spoken of as evil.
 [17] For the kingdom of God does not consist of food and drink, but righteousness, peace, and joy in the Holy Spirit.
 [18] For the one who serves Christ in this way is pleasing to God and approved by people.
+
 [19] So then, let us pursue what makes for peace and for building up one another.
 [20] Do not destroy the work of God for the sake of food. For although all things are clean, it is wrong to cause anyone to stumble by what you eat.
 [21] It is good not to eat meat or drink wine or to do anything that causes your brother to stumble.
@@ -517,12 +549,11 @@ that God needs to repay him?
 
 ## Chapter 15
 
-
 ### Exhortation for the Strong to Help the Weak
 
 [1] But we who are strong ought to bear with the failings of the weak, and not just please ourselves.
 [2] Let each of us please his neighbor for his good to build him up.
-[3] For even Christ did not please himself, but just as it is written, “The insults of those who insult you have fallen on me.”
+[3] For even Christ did not please himself, but just as it is written, “**_The insults of those who insult you have fallen on me_**.”
 [4] For everything that was written in former times was written for our instruction, so that through endurance and through encouragement of the scriptures we may have hope.
 [5] Now may the God of endurance and comfort give you unity with one another in accordance with Christ Jesus,
 [6] so that together you may with one voice glorify the God and Father of our Lord Jesus Christ.
@@ -531,10 +562,10 @@ that God needs to repay him?
 
 [7] Receive one another, then, just as Christ also received you, to God’s glory.
 [8] For I tell you that Christ has become a servant of the circumcised on behalf of God’s truth to confirm the promises made to the fathers,
-[9] and thus the Gentiles glorify God for his mercy. As it is written, “Because of this I will confess you among the Gentiles, and I will sing praises to your name.”
-[10] And again it says: “Rejoice, O Gentiles, with his people.”
-[11] And again, “Praise the Lord all you Gentiles, and let all the peoples praise him.”
-[12] And again Isaiah says, “The root of Jesse will come, and the one who rises to rule over the Gentiles, in him will the Gentiles hope.”
+[9] and thus the Gentiles glorify God for his mercy. As it is written, “_**Because of this I will confess you among the Gentiles, and I will sing praises to your name**_.”
+[10] And again it says: “_**Rejoice, O Gentiles, with his people**_.”
+[11] And again, “_**Praise the Lord all you Gentiles, and let all the peoples praise him**_.”
+[12] And again Isaiah says, “_**The root of Jesse will come, and the one who rises to rule over the Gentiles, in him will the Gentiles hope**_.”
 [13] Now may the God of hope fill you with all joy and peace as you believe in him, so that you may abound in hope by the power of the Holy Spirit.
 
 ### Paul’s Motivation for Writing the Letter
@@ -542,22 +573,25 @@ that God needs to repay him?
 [14] But I myself am fully convinced about you, my brothers and sisters, that you yourselves are full of goodness, filled with all knowledge, and able to instruct one another.
 [15] But I have written more boldly to you on some points so as to remind you, because of the grace given to me by God
 [16] to be a minister of Christ Jesus to the Gentiles. I serve the gospel of God like a priest, so that the Gentiles may become an acceptable offering, sanctified by the Holy Spirit.
+
 [17] So I boast in Christ Jesus about the things that pertain to God.
 [18] For I will not dare to speak of anything except what Christ has accomplished through me in order to bring about the obedience of the Gentiles, by word and deed,
 [19] in the power of signs and wonders, in the power of the Spirit of God. So from Jerusalem even as far as Illyricum I have fully preached the gospel of Christ.
 [20] And in this way I desire to preach where Christ has not been named, so as not to build on another person’s foundation,
-[21] but as it is written: “Those who were not told about him will see, and those who have not heard will understand.”
+[21] but as it is written: “_**Those who were not told about him will see, and those who have not heard will understand**_.”
 
 ### Paul’s Intention of Visiting the Romans
 
 [22] This is the reason I was often hindered from coming to you.
 [23] But now there is nothing more to keep me in these regions, and I have for many years desired to come to you
 [24] when I go to Spain. For I hope to visit you when I pass through and that you will help me on my journey there, after I have enjoyed your company for a while.
+
 [25] But now I go to Jerusalem to minister to the saints.
 [26] For Macedonia and Achaia are pleased to make some contribution for the poor among the saints in Jerusalem.
 [27] For they were pleased to do this, and indeed they are indebted to the Jerusalem saints. For if the Gentiles have shared in their spiritual things, they are obligated also to minister to them in material things.
 [28] Therefore after I have completed this and have safely delivered this bounty to them, I will set out for Spain by way of you,
 [29] and I know that when I come to you I will come in the fullness of Christ’s blessing.
+
 [30] Now I urge you, brothers and sisters, through our Lord Jesus Christ and through the love of the Spirit, to join fervently with me in prayer to God on my behalf.
 [31] Pray that I may be rescued from those who are disobedient in Judea and that my ministry in Jerusalem may be acceptable to the saints,
 [32] so that by God’s will I may come to you with joy and be refreshed in your company.
@@ -565,11 +599,11 @@ that God needs to repay him?
 
 ## Chapter 16
 
-
 ### Personal Greetings
 
 [1] Now I commend to you our sister Phoebe, who is a servant of the church in Cenchrea,
 [2] so that you may welcome her in the Lord in a way worthy of the saints and provide her with whatever help she may need from you, for she has been a great help to many, including me.
+
 [3] Greet Prisca and Aquila, my fellow workers in Christ Jesus,
 [4] who risked their own necks for my life. Not only I, but all the churches of the Gentiles are grateful to them.
 [5] Also greet the church in their house. Greet my dear friend Epenetus, who was the first convert to Christ in the province of Asia.
@@ -584,13 +618,17 @@ that God needs to repay him?
 [14] Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers and sisters with them.
 [15] Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the believers who are with them.
 [16] Greet one another with a holy kiss. All the churches of Christ greet you.
+
 [17] Now I urge you, brothers and sisters, to watch out for those who create dissensions and obstacles contrary to the teaching that you learned. Avoid them!
 [18] For these are the kind who do not serve our Lord Christ, but their own appetites. By their smooth talk and flattery they deceive the minds of the naive.
 [19] Your obedience is known to all and thus I rejoice over you. But I want you to be wise in what is good and innocent in what is evil.
 [20] The God of peace will quickly crush Satan under your feet. The grace of our Lord Jesus be with you.
+
 [21] Timothy, my fellow worker, greets you; so do Lucius, Jason, and Sosipater, my compatriots.
 [22] I, Tertius, who am writing this letter, greet you in the Lord.
 [23] Gaius, who is host to me and to the whole church, greets you. Erastus the city treasurer and our brother Quartus greet you.
+
 [25] Now to him who is able to strengthen you according to my gospel and the proclamation of Jesus Christ, according to the revelation of the mystery that had been kept secret for long ages,
 [26] but now is disclosed, and through the prophetic scriptures has been made known to all the nations, according to the command of the eternal God, to bring about the obedience of faith—
 [27] to the only wise God, through Jesus Christ, be glory forever! Amen.
+

@@ -289,10 +289,11 @@ struct ConvertCommand: ParsableCommand {
         for node in element.getChildNodes() {
             if let textNode = node as? TextNode {
                 if let verseNumber = currentVerseNumber {
-                    result += "\n[\(verseNumber)] "
+                    result = result.trimmingCharacters(in: .whitespaces)
+                    result += "\n[\(verseNumber)]"
                     currentVerseNumber = nil
                 }
-                result += textNode.text().trimmingCharacters(in: .whitespaces)
+                result += textNode.text()
             } else if let elementNode = node as? Element {
                 if try elementNode.className() == "verse" {
                     if let verseText = try elementNode.text().split(separator: ":").last {
@@ -327,22 +328,15 @@ struct ConvertCommand: ParsableCommand {
     }
 
     private func processSmcapsText(_ text: String) -> String {
-        let pattern = "^(.+?)(['']*)$"
-        guard let regex = try? NSRegularExpression(pattern: pattern, options: []) else {
-            return "**\(text)**"  // Fallback to original behavior if regex fails
+        let hasApostrophe = text.hasSuffix("'")
+
+        if hasApostrophe {
+            let cleanText = text.dropLast()
+            return "**\(cleanText)**'"
+
+        } else {
+            return "**\(text)**"
         }
-        
-        let nsString = text as NSString
-        guard let match = regex.firstMatch(in: text, options: [], range: NSRange(location: 0, length: text.utf16.count)) else {
-            return "**\(text)**"  // No match found, return original text in bold
-        }
-        
-        let mainRange = match.range(at: 1)
-        let punctRange = match.range(at: 2)
-        let main = nsString.substring(with: mainRange)
-        let punct = nsString.substring(with: punctRange)
-        
-        return "**\(main)**\(punct)"
     }
 
     enum ConversionError: Error {

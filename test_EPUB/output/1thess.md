@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul and Silvanus and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ. Grace and peace to you!
@@ -13,6 +12,7 @@
 [3] because we recall in the presence of our God and Father your work of faith and labor of love and endurance of hope in our Lord Jesus Christ.
 [4] We know, brothers and sisters loved by God, that he has chosen you,
 [5] in that our gospel did not come to you merely in words, but in power and in the Holy Spirit and with deep conviction (surely you recall the character we displayed when we came among you to help you).
+
 [6] And you became imitators of us and of the Lord, when you received the message with joy that comes from the Holy Spirit, despite great affliction.
 [7] As a result you became an example to all the believers in Macedonia and in Achaia.
 [8] For from you the message of the Lord has echoed forth not just in Macedonia and Achaia, but in every place reports of your faith in God have spread, so that we do not need to say anything.
@@ -20,7 +20,6 @@
 [10] and to wait for his Son from heaven, whom he raised from the dead, Jesus our deliverer from the coming wrath.
 
 ## Chapter 2
-
 
 ### Paul’s Ministry in Thessalonica
 
@@ -55,17 +54,18 @@
 [3] so that no one would be shaken by these afflictions. For you yourselves know that we are destined for this.
 [4] For in fact when we were with you, we were telling you in advance that we would suffer affliction, and so it has happened, as you well know.
 [5] So when I could bear it no longer, I sent to find out about your faith, for fear that the tempter somehow tempted you and our toil had proven useless.
+
 [6] But now Timothy has come to us from you and given us the good news of your faith and love and that you always think of us with affection and long to see us just as we also long to see you!
 [7] So in all our distress and affliction, we were reassured about you, brothers and sisters, through your faith.
 [8] For now we are alive again, if you stand firm in the Lord.
 [9] For how can we thank God enough for you, for all the joy we feel because of you before our God?
 [10] We pray earnestly night and day to see you in person and make up what may be lacking in your faith.
+
 [11] Now may God our Father himself and our Lord Jesus direct our way to you.
 [12] And may the Lord cause you to increase and abound in love for one another and for all, just as we do for you,
 [13] so that your hearts are strengthened in holiness to be blameless before our God and Father at the coming of our Lord Jesus with all his saints.
 
 ## Chapter 4
-
 
 ### A Life Pleasing to God
 
@@ -77,6 +77,7 @@
 [6] In this matter no one should violate the rights of his brother or take advantage of him, because the Lord is the avenger in all these cases, as we also told you earlier and warned you solemnly.
 [7] For God did not call us to impurity but in holiness.
 [8] Consequently the one who rejects this is not rejecting human authority but God, who gives his Holy Spirit to you.
+
 [9] Now on the topic of brotherly love you have no need for anyone to write you, for you yourselves are taught by God to love one another.
 [10] And indeed you are practicing it toward all the brothers and sisters in all of Macedonia. But we urge you, brothers and sisters, to do so more and more,
 [11] to aspire to lead a quiet life, to attend to your own business, and to work with your own hands, as we commanded you.
@@ -93,7 +94,6 @@
 
 ## Chapter 5
 
-
 ### The Day of the Lord
 
 [1] Now on the topic of times and seasons, brothers and sisters, you have no need for anything to be written to you.
@@ -103,7 +103,7 @@
 [5] For you all are sons of the light and sons of the day. We are not of the night nor of the darkness.
 [6] So then we must not sleep as the rest, but must stay alert and sober.
 [7] For those who sleep, sleep at night and those who get drunk are drunk at night.
-[8] But since we are of the day, we must stay sober by putting on the breastplate of faith and love and as a helmet our hope for salvation.
+[8] But since we are of the day, we must stay sober _by putting on the breastplate_ of faith and love and as _a helmet_ our hope _for salvation_.
 [9] For God did not destine us for wrath but for gaining salvation through our Lord Jesus Christ.
 [10] He died for us so that whether we are alert or asleep we will come to life together with him.
 [11] Therefore encourage one another and build up each other, just as you are in fact doing.
@@ -130,3 +130,4 @@
 [26] Greet all the brothers and sisters with a holy kiss.
 [27] I call on you solemnly in the Lord to have this letter read to all the brothers and sisters.
 [28] The grace of our Lord Jesus Christ be with you.
+

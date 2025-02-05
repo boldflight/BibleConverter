@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul and Timothy, slaves of Christ Jesus, to all the saints in Christ Jesus who are in Philippi, with the overseers and deacons.
@@ -25,10 +24,13 @@
 [12] I want you to know, brothers and sisters, that my situation has actually turned out to advance the gospel:
 [13] The whole imperial guard and everyone else knows that I am in prison for the sake of Christ,
 [14] and most of the brothers and sisters, having confidence in the Lord because of my imprisonment, now more than ever dare to speak the word fearlessly.
+
 [15] Some, to be sure, are preaching Christ from envy and rivalry, but others from goodwill.
 [16] The latter do so from love because they know that I am placed here for the defense of the gospel.
 [17] The former proclaim Christ from selfish ambition, not sincerely, because they think they can cause trouble for me in my imprisonment.
 [18] What is the result? Only that in every way, whether in pretense or in truth, Christ is being proclaimed, and in this I rejoice.
+
+Yes, and I will continue to rejoice,
 [19] for I know that this will turn out for my deliverance through your prayers and the help of the Spirit of Jesus Christ.
 [20] My confident hope is that I will in no way be ashamed but that with complete boldness, even now as always, Christ will be exalted in my body, whether I live or die.
 [21] For to me, living is Christ and dying is gain.
@@ -37,13 +39,13 @@
 [24] but it is more vital for your sake that I remain in the body.
 [25] And since I am sure of this, I know that I will remain and continue with all of you for the sake of your progress and joy in the faith,
 [26] so that what you can be proud of may increase because of me in Christ Jesus, when I come back to you.
+
 [27] Only conduct yourselves in a manner worthy of the gospel of Christ so that—whether I come and see you or whether I remain absent—I should hear that you are standing firm in one spirit, with one mind, by contending side by side for the faith of the gospel,
 [28] and by not being intimidated in any way by your opponents. This is a sign of their destruction, but of your salvation—a sign which is from God.
 [29] For it has been granted to you not only to believe in Christ but also to suffer for him,
 [30] since you are encountering the same conflict that you saw me face and now hear that I am facing.
 
 ## Chapter 2
-
 
 ### Christian Unity and Christ’s Humility
 
@@ -52,26 +54,26 @@
 [3] Instead of being motivated by selfish ambition or vanity, each of you should, in humility, be moved to treat one another as more important than yourself.
 [4] Each of you should be concerned not only about your own interests, but about the interests of others as well.
 [5] You should have the same attitude toward one another that Christ Jesus had,
-[6] who though he existed in the form of God
-did not regard equality with God
-as something to be grasped,
-[7] but emptied himself
-by taking on the form of a slave,
-by looking like other men,
-and by sharing in human nature.
-[8] He humbled himself,
-by becoming obedient to the point of death
-—even death on a cross!
-[9] As a result God highly exalted him
-and gave him the name
-that is above every name,
-[10] so that at the name of Jesus
-every knee will bow
-—in heaven and on earth and under the earth—
-[11] and every tongue confess
-that Jesus Christ is Lord
-to the glory of God the Father.
 
+[6] who though he existed in the form of God<br>
+did not regard equality with God<br>
+as something to be grasped,<br>
+[7] but emptied himself<br>
+by taking on the form of a slave,<br>
+by looking like other men,<br>
+and by sharing in human nature.<br>
+[8] He humbled himself,<br>
+by becoming obedient to the point of death<br>
+—even death on a cross!<br>
+[9] As a result God highly exalted him<br>
+and gave him the name<br>
+that is above every name,<br>
+[10] so that at the name of Jesus<br>
+every knee will bow<br>
+—in heaven and on earth and under the earth—<br>
+[11] and every tongue confess<br>
+that Jesus Christ is Lord<br>
+to the glory of God the Father.<br>
 ### Lights in the World
 
 [12] So then, my dear friends, just as you have always obeyed, not only in my presence but even more in my absence, continue working out your salvation with awe and reverence,
@@ -90,6 +92,7 @@ to the glory of God the Father.
 [22] But you know his qualifications, that like a son working with his father, he served with me in advancing the gospel.
 [23] So I hope to send him as soon as I know more about my situation,
 [24] though I am confident in the Lord that I too will be coming to see you soon.
+
 [25] But for now I have considered it necessary to send Epaphroditus to you. For he is my brother, coworker and fellow soldier, and your messenger and minister to me in my need.
 [26] Indeed, he greatly missed all of you and was distressed because you heard that he had been ill.
 [27] In fact he became so ill that he nearly died. But God showed mercy to him—and not to him only, but also to me—so that I would not have grief on top of grief.
@@ -99,10 +102,10 @@ to the glory of God the Father.
 
 ## Chapter 3
 
-
 ### True and False Righteousness
 
 [1] Finally, my brothers and sisters, rejoice in the Lord! To write this again is no trouble to me, and it is a safeguard for you.
+
 [2] Beware of the dogs, beware of the evil workers, beware of those who mutilate the flesh!
 [3] For we are the circumcision, the ones who worship by the Spirit of God, exult in Christ Jesus, and do not rely on human credentials
 [4] —though mine too are significant. If someone thinks he has good reasons to put confidence in human credentials, I have more:
@@ -121,6 +124,7 @@ to the glory of God the Father.
 [14] with this goal in mind, I strive toward the prize of the upward call of God in Christ Jesus.
 [15] Therefore let those of us who are “perfect” embrace this point of view. If you think otherwise, God will reveal to you the error of your ways.
 [16] Nevertheless, let us live up to the standard that we have already attained.
+
 [17] Be imitators of me, brothers and sisters, and watch carefully those who are living this way, just as you have us as an example.
 [18] For many live, about whom I have often told you, and now, with tears, I tell you that they are the enemies of the cross of Christ.
 [19] Their end is destruction, their god is the belly, they exult in their shame, and they think about earthly things.
@@ -129,16 +133,17 @@ to the glory of God the Father.
 
 ## Chapter 4
 
-
 ### Christian Practices
 
 [1] So then, my brothers and sisters, dear friends whom I long to see, my joy and crown, stand in the Lord in this way, my dear friends!
+
 [2] I appeal to Euodia and to Syntyche to agree in the Lord.
 [3] Yes, I say also to you, true companion, help them. They have struggled together in the gospel ministry along with me and Clement and my other coworkers, whose names are in the book of life.
 [4] Rejoice in the Lord always. Again I say, rejoice!
 [5] Let everyone see your gentleness. The Lord is near!
 [6] Do not be anxious about anything. Instead, in every situation, through prayer and petition with thanksgiving, tell your requests to God.
 [7] And the peace of God that surpasses all understanding will guard your hearts and minds in Christ Jesus.
+
 [8] Finally, brothers and sisters, whatever is true, whatever is worthy of respect, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if something is excellent or praiseworthy, think about these things.
 [9] And what you learned and received and heard and saw in me, do these things. And the God of peace will be with you.
 
@@ -149,6 +154,7 @@ to the glory of God the Father.
 [12] I have experienced times of need and times of abundance. In any and every circumstance I have learned the secret of contentment, whether I go satisfied or hungry, have plenty or nothing.
 [13] I am able to do all things through the one who strengthens me.
 [14] Nevertheless, you did well to share with me in my trouble.
+
 [15] And as you Philippians know, at the beginning of my gospel ministry, when I left Macedonia, no church shared with me in this matter of giving and receiving except you alone.
 [16] For even in Thessalonica on more than one occasion you sent something for my need.
 [17] I do not say this because I am seeking a gift. Rather, I seek the credit that abounds to your account.
@@ -161,3 +167,4 @@ to the glory of God the Father.
 [21] Give greetings to all the saints in Christ Jesus. The brothers with me here send greetings.
 [22] All the saints greet you, especially those who belong to Caesar’s household.
 [23] The grace of the Lord Jesus Christ be with your spirit.
+

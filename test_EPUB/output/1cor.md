@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul, called to be an apostle of Christ Jesus by the will of God, and Sosthenes, our brother,
@@ -32,19 +31,20 @@
 ### The Message of the Cross
 
 [18] For the message about the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.
-[19] For it is written, “I will destroy the wisdom of the wise, and I will thwart the cleverness of the intelligent.”
+[19] For it is written, “_**I will destroy the wisdom of the wise, and I will thwart the cleverness of the intelligent**_.”
 [20] Where is the wise man? Where is the expert in the Mosaic law? Where is the debater of this age? Has God not made the wisdom of the world foolish?
 [21] For since in the wisdom of God the world by its wisdom did not know God, God was pleased to save those who believe by the foolishness of preaching.
 [22] For Jews demand miraculous signs and Greeks ask for wisdom,
 [23] but we preach about a crucified Christ, a stumbling block to Jews and foolishness to Gentiles.
 [24] But to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God.
 [25] For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength.
+
 [26] Think about the circumstances of your call, brothers and sisters. Not many were wise by human standards, not many were powerful, not many were born to a privileged position.
 [27] But God chose what the world thinks foolish to shame the wise, and God chose what the world thinks weak to shame the strong.
 [28] God chose what is low and despised in the world, what is regarded as nothing, to set aside what is regarded as something,
 [29] so that no one can boast in his presence.
 [30] He is the reason you have a relationship with Christ Jesus, who became for us wisdom from God, and righteousness and sanctification and redemption,
-[31] so that, as it is written, “Let the one who boasts, boast in the Lord.”
+[31] so that, as it is written, “_**Let the one who boasts, boast in the Lord**_.”
 
 ## Chapter 2
 
@@ -59,17 +59,16 @@
 [6] Now we do speak wisdom among the mature, but not a wisdom of this age or of the rulers of this age, who are perishing.
 [7] Instead we speak the wisdom of God, hidden in a mystery, that God determined before the ages for our glory.
 [8] None of the rulers of this age understood it. If they had known it, they would not have crucified the Lord of glory.
-[9] But just as it is written, “Things that no eye has seen, or ear heard, or mind imagined, are the things God has prepared for those who love him.”
+[9] But just as it is written, “_**Things that no eye has seen, or ear heard, or mind imagined**,_ _**are the things God has prepared for those who love him**_.”
 [10] God has revealed these to us by the Spirit. For the Spirit searches all things, even the deep things of God.
 [11] For who among men knows the things of a man except the man’s spirit within him? So too, no one knows the things of God except the Spirit of God.
 [12] Now we have not received the spirit of the world, but the Spirit who is from God, so that we may know the things that are freely given to us by God.
 [13] And we speak about these things, not with words taught us by human wisdom, but with those taught by the Spirit, explaining spiritual things to spiritual people.
 [14] The unbeliever does not receive the things of the Spirit of God, for they are foolishness to him. And he cannot understand them, because they are spiritually discerned.
 [15] The one who is spiritual discerns all things, yet he himself is understood by no one.
-[16] For who has known the mind of the Lord, so as to advise him? But we have the mind of Christ.
+[16] _**For who has known the mind of the Lord, so as to advise him?**_ But we have the mind of Christ.
 
 ## Chapter 3
-
 
 ### Immaturity and Self-deception
 
@@ -77,6 +76,7 @@
 [2] I fed you milk, not solid food, for you were not yet ready. In fact, you are still not ready,
 [3] for you are still influenced by the flesh. For since there is still jealousy and dissension among you, are you not influenced by the flesh and behaving like unregenerate people?
 [4] For whenever someone says, “I am with Paul,” or “I am with Apollos,” are you not merely human?
+
 [5] What is Apollos, really? Or what is Paul? Servants through whom you came to believe, and each of us in the ministry the Lord gave us.
 [6] I planted, Apollos watered, but God caused it to grow.
 [7] So neither the one who plants counts for anything, nor the one who waters, but God who causes the growth.
@@ -88,17 +88,18 @@
 [13] each builder’s work will be plainly seen, for the Day will make it clear, because it will be revealed by fire. And the fire will test what kind of work each has done.
 [14] If what someone has built survives, he will receive a reward.
 [15] If someone’s work is burned up, he will suffer loss. He himself will be saved, but only as through fire.
+
 [16] Do you not know that you are God’s temple and that God’s Spirit lives in you?
 [17] If someone destroys God’s temple, God will destroy him. For God’s temple is holy, which is what you are.
+
 [18] Guard against self-deception, each of you. If someone among you thinks he is wise in this age, let him become foolish so that he can become wise.
-[19] For the wisdom of this age is foolishness with God. As it is written, “He catches the wise in their craftiness.”
-[20] And again, “The Lord knows that the thoughts of the wise are futile.”
+[19] For the wisdom of this age is foolishness with God. As it is written, “**_He catches the wise in their craftiness_**.”
+[20] And again, “**_The Lord knows that the thoughts of the wise are futile_**.”
 [21] So then, no more boasting about mere mortals! For everything belongs to you,
 [22] whether Paul or Apollos or Cephas or the world or life or death or the present or the future. Everything belongs to you,
 [23] and you belong to Christ, and Christ belongs to God.
 
 ## Chapter 4
-
 
 ### The Apostles’ Ministry
 
@@ -107,6 +108,7 @@
 [3] So for me, it is a minor matter that I am judged by you or by any human court. In fact, I do not even judge myself.
 [4] For I am not aware of anything against myself, but I am not acquitted because of this. The one who judges me is the Lord.
 [5] So then, do not judge anything before the time. Wait until the Lord comes. He will bring to light the hidden things of darkness and reveal the motives of hearts. Then each will receive recognition from God.
+
 [6] I have applied these things to myself and Apollos because of you, brothers and sisters, so that through us you may learn “not to go beyond what is written,” so that none of you will be puffed up in favor of the one against the other.
 [7] For who concedes you any superiority? What do you have that you did not receive? And if you received it, why do you boast as though you did not?
 [8] Already you are satisfied! Already you are rich! You have become kings without us! I wish you had become kings so that we could reign with you!
@@ -129,7 +131,6 @@
 
 ## Chapter 5
 
-
 ### Church Discipline
 
 [1] It is actually reported that sexual immorality exists among you, the kind of immorality that is not permitted even among the Gentiles, so that someone is cohabiting with his father’s wife.
@@ -137,17 +138,18 @@
 [3] For even though I am absent physically, I am present in spirit. And I have already judged the one who did this, just as though I were present.
 [4] When you gather together in the name of our Lord Jesus, and I am with you in spirit, along with the power of our Lord Jesus,
 [5] hand this man over to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord.
+
 [6] Your boasting is not good. Don’t you know that a little yeast affects the whole batch of dough?
 [7] Clean out the old yeast so that you may be a new batch of dough—you are, in fact, without yeast. For Christ, our Passover lamb, has been sacrificed.
 [8] So then, let us celebrate the festival, not with the old yeast, the yeast of vice and evil, but with the bread without yeast, the bread of sincerity and truth.
+
 [9] I wrote you in my letter not to associate with sexually immoral people.
 [10] In no way did I mean the immoral people of this world, or the greedy and swindlers and idolaters, since you would then have to go out of the world.
 [11] But now I am writing to you not to associate with anyone who calls himself a Christian who is sexually immoral, or greedy, or an idolater, or verbally abusive, or a drunkard, or a swindler. Do not even eat with such a person.
 [12] For what do I have to do with judging those outside? Are you not to judge those inside?
-[13] But God will judge those outside. Remove the evil person from among you.
+[13] But God will judge those outside. _Remove_ _the evil person from among you_.
 
 ## Chapter 6
-
 
 ### Lawsuits
 
@@ -159,6 +161,7 @@
 [6] Instead, does a Christian sue a Christian, and do this before unbelievers?
 [7] The fact that you have lawsuits among yourselves demonstrates that you have already been defeated. Why not rather be wronged? Why not rather be cheated?
 [8] But you yourselves wrong and cheat, and you do this to your brothers and sisters!
+
 [9] Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals,
 [10] thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God.
 [11] Some of you once lived this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God.
@@ -169,14 +172,13 @@
 [13] “Food is for the stomach and the stomach is for food, but God will do away with both.” The body is not for sexual immorality, but for the Lord, and the Lord for the body.
 [14] Now God indeed raised the Lord and he will raise us by his power.
 [15] Do you not know that your bodies are members of Christ? Should I take the members of Christ and make them members of a prostitute? Never!
-[16] Or do you not know that anyone who is united with a prostitute is one body with her? For it is said, “The two will become one flesh.”
+[16] Or do you not know that anyone who is united with a prostitute is one body with her? For it is said, “**_The two will become one flesh_**.”
 [17] But the one united with the Lord is one spirit with him.
 [18] Flee sexual immorality! “Every sin a person commits is outside of the body” —but the immoral person sins against his own body.
 [19] Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own?
 [20] For you were bought at a price. Therefore glorify God with your body.
 
 ## Chapter 7
-
 
 ### Celibacy and Marriage
 
@@ -187,10 +189,13 @@
 [5] Do not deprive each other, except by mutual agreement for a specified time, so that you may devote yourselves to prayer. Then resume your relationship, so that Satan may not tempt you because of your lack of self-control.
 [6] I say this as a concession, not as a command.
 [7] I wish that everyone was as I am. But each has his own gift from God, one this way, another that.
+
 [8] To the unmarried and widows I say that it is best for them to remain as I am.
 [9] But if they do not have self-control, let them get married. For it is better to marry than to burn with sexual desire.
+
 [10] To the married I give this command—not I, but the Lord —a wife should not divorce a husband
 [11] (but if she does, let her remain unmarried, or be reconciled to her husband), and a husband should not divorce his wife.
+
 [12] To the rest I say—I, not the Lord —if a brother has a wife who is not a believer and she is happy to live with him, he should not divorce her.
 [13] And if a woman has a husband who is not a believer and he is happy to live with her, she should not divorce him.
 [14] For the unbelieving husband is sanctified because of the wife, and the unbelieving wife because of her husband. Otherwise your children are unclean, but now they are holy.
@@ -217,27 +222,31 @@
 [29] And I say this, brothers and sisters: The time is short. So then those who have wives should be as those who have none,
 [30] those with tears like those not weeping, those who rejoice like those not rejoicing, those who buy like those without possessions,
 [31] those who use the world as though they were not using it to the full. For the present shape of this world is passing away.
+
 [32] And I want you to be free from concern. An unmarried man is concerned about the things of the Lord, how to please the Lord.
 [33] But a married man is concerned about the things of the world, how to please his wife,
 [34] and he is divided. An unmarried woman or a virgin is concerned about the things of the Lord, to be holy both in body and spirit. But a married woman is concerned about the things of the world, how to please her husband.
 [35] I am saying this for your benefit, not to place a limitation on you, but so that without distraction you may give notable and constant service to the Lord.
+
 [36] If anyone thinks he is acting inappropriately toward his virgin, if she is past the bloom of youth and it seems necessary, he should do what he wishes; he does not sin. Let them marry.
 [37] But the man who is firm in his commitment, and is under no necessity but has control over his will, and has decided in his own mind to keep his own virgin, does well.
 [38] So then, the one who marries his own virgin does well, but the one who does not, does better.
+
 [39] A wife is bound as long as her husband is living. But if her husband dies, she is free to marry anyone she wishes (only someone in the Lord).
 [40] But in my opinion, she will be happier if she remains as she is—and I think that I too have the Spirit of God!
 
 ## Chapter 8
-
 
 ### Food Sacrificed to Idols
 
 [1] With regard to food sacrificed to idols, we know that “we all have knowledge.” Knowledge puffs up, but love builds up.
 [2] If someone thinks he knows something, he does not yet know to the degree that he needs to know.
 [3] But if someone loves God, he is known by God.
+
 [4] With regard then to eating food sacrificed to idols, we know that “an idol in this world is nothing,” and that “there is no God but one.”
 [5] If after all there are so-called gods, whether in heaven or on earth (as there are many gods and many lords),
 [6] yet for us there is one God, the Father, from whom are all things and for whom we live, and one Lord, Jesus Christ, through whom are all things and through whom we live.
+
 [7] But this knowledge is not shared by all. And some, by being accustomed to idols in former times, eat this food as an idol sacrifice, and their conscience, because it is weak, is defiled.
 [8] Now food will not bring us close to God. We are no worse if we do not eat and no better if we do.
 [9] But be careful that this liberty of yours does not become a hindrance to the weak.
@@ -247,7 +256,6 @@
 [13] For this reason, if food causes my brother or sister to sin, I will never eat meat again, so that I may not cause one of them to sin.
 
 ## Chapter 9
-
 
 ### The Rights of an Apostle
 
@@ -259,28 +267,33 @@
 [6] Or do only Barnabas and I lack the right not to work?
 [7] Who ever serves in the army at his own expense? Who plants a vineyard and does not eat its fruit? Who tends a flock and does not consume its milk?
 [8] Am I saying these things only on the basis of common sense, or does the law not say this as well?
-[9] For it is written in the law of Moses, “Do not muzzle an ox while it is treading out the grain.” God is not concerned here about oxen, is he?
+[9] For it is written in the law of Moses, “**_Do not muzzle an ox while it is treading out the grain_**.” God is not concerned here about oxen, is he?
 [10] Or is he not surely speaking for our benefit? It was written for us, because the one plowing and threshing ought to work in hope of enjoying the harvest.
 [11] If we sowed spiritual blessings among you, is it too much to reap material things from you?
 [12] If others receive this right from you, are we not more deserving?
+
+But we have not made use of this right. Instead we endure everything so that we may not be a hindrance to the gospel of Christ.
 [13] Don’t you know that those who serve in the temple eat food from the temple, and those who serve at the altar receive a part of the offerings?
 [14] In the same way the Lord commanded those who proclaim the gospel to receive their living by the gospel.
 [15] But I have not used any of these rights. And I am not writing these things so that something will be done for me. In fact, it would be better for me to die than—no one will deprive me of my reason for boasting!
 [16] For if I preach the gospel, I have no reason for boasting, because I am compelled to do this. Woe to me if I do not preach the gospel!
 [17] For if I do this voluntarily, I have a reward. But if I do it unwillingly, I am entrusted with a responsibility.
 [18] What then is my reward? That when I preach the gospel I may offer the gospel free of charge, and so not make full use of my rights in the gospel.
+
 [19] For since I am free from all I can make myself a slave to all, in order to gain even more people.
 [20] To the Jews I became like a Jew to gain the Jews. To those under the law I became like one under the law (though I myself am not under the law) to gain those under the law.
 [21] To those free from the law I became like one free from the law (though I am not free from God’s law but under the law of Christ) to gain those free from the law.
 [22] To the weak I became weak in order to gain the weak. I have become all things to all people, so that by all means I may save some.
+
 [23] I do all these things because of the gospel, so that I can be a participant in it.
+
 [24] Do you not know that all the runners in a stadium compete, but only one receives the prize? So run to win.
 [25] Each competitor must exercise self-control in everything. They do it to receive a perishable crown, but we an imperishable one.
+
 [26] So I do not run uncertainly or box like one who hits only air.
 [27] Instead I subdue my body and make it my slave, so that after preaching to others I myself will not be disqualified.
 
 ## Chapter 10
-
 
 ### Learning from Israel’s Failures
 
@@ -290,7 +303,7 @@
 [4] and all drank the same spiritual drink. For they were all drinking from the spiritual rock that followed them, and the rock was Christ.
 [5] But God was not pleased with most of them, for they were cut down in the wilderness.
 [6] These things happened as examples for us, so that we will not crave evil things as they did.
-[7] So do not be idolaters, as some of them were. As it is written, “The people sat down to eat and drink and rose up to play.”
+[7] So do not be idolaters, as some of them were. As it is written, “**_The people sat down to eat and drink and rose up to play_**.”
 [8] And let us not be immoral, as some of them were, and 23,000 died in a single day.
 [9] And let us not put Christ to the test, as some of them did, and were destroyed by snakes.
 [10] And do not complain, as some of them did, and were killed by the destroying angel.
@@ -312,13 +325,12 @@
 
 ## Chapter 11
 
-
 ### Live to Glorify God
 
 [23] “Everything is lawful,” but not everything is beneficial. “Everything is lawful,” but not everything builds others up.
 [24] Do not seek your own good, but the good of the other person.
 [25] Eat anything that is sold in the marketplace without questions of conscience,
-[26] for the earth and its abundance are the Lord’s.
+[26] for _the earth and its abundance are the Lord’s_.
 [27] If an unbeliever invites you to dinner and you want to go, eat whatever is served without asking questions of conscience.
 [28] But if someone says to you, “This is from a sacrifice,” do not eat, because of the one who told you and because of conscience —
 [29] I do not mean yours but the other person’s. For why is my freedom being judged by another’s conscience?
@@ -354,10 +366,12 @@
 [20] Now when you come together at the same place, you are not really eating the Lord’s Supper.
 [21] For when it is time to eat, everyone proceeds with his own supper. One is hungry and another becomes drunk.
 [22] Do you not have houses so that you can eat and drink? Or are you trying to show contempt for the church of God by shaming those who have nothing? What should I say to you? Should I praise you? I will not praise you for this!
+
 [23] For I received from the Lord what I also passed on to you, that the Lord Jesus on the night in which he was betrayed took bread,
 [24] and after he had given thanks he broke it and said, “This is my body, which is for you. Do this in remembrance of me.”
 [25] In the same way, he also took the cup after supper, saying, “This cup is the new covenant in my blood. Do this, every time you drink it, in remembrance of me.”
 [26] For every time you eat this bread and drink the cup, you proclaim the Lord’s death until he comes.
+
 [27] For this reason, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of the body and blood of the Lord.
 [28] A person should examine himself first, and in this way let him eat the bread and drink of the cup.
 [29] For the one who eats and drinks without careful regard for the body eats and drinks judgment against himself.
@@ -369,12 +383,12 @@
 
 ## Chapter 12
 
-
 ### Spiritual Gifts
 
 [1] With regard to spiritual gifts, brothers and sisters, I do not want you to be uninformed.
 [2] You know that when you were pagans you were often led astray by speechless idols, however you were led.
 [3] So I want you to understand that no one speaking by the Spirit of God says, “Jesus is cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit.
+
 [4] Now there are different gifts, but the same Spirit.
 [5] And there are different ministries, but the same Lord.
 [6] And there are different results, but the same God who produces all of them in everyone.
@@ -401,24 +415,28 @@
 [24] but our presentable members do not need this. Instead, God has blended together the body, giving greater honor to the lesser member,
 [25] so that there may be no division in the body, but the members may have mutual concern for one another.
 [26] If one member suffers, everyone suffers with it. If a member is honored, all rejoice with it.
+
 [27] Now you are Christ’s body, and each of you is a member of it.
 [28] And God has placed in the church first apostles, second prophets, third teachers, then miracles, gifts of healing, helps, gifts of leadership, different kinds of tongues.
 [29] Not all are apostles, are they? Not all are prophets, are they? Not all are teachers, are they? Not all perform miracles, do they?
 [30] Not all have gifts of healing, do they? Not all speak in tongues, do they? Not all interpret, do they?
 [31] But you should be eager for the greater gifts.
 
-## Chapter 13
+And now I will show you a way that is beyond comparison.
 
+## Chapter 13
 
 ### The Way of Love
 
 [1] If I speak in the tongues of men and of angels, but I do not have love, I am a noisy gong or a clanging cymbal.
 [2] And if I have prophecy, and know all mysteries and all knowledge, and if I have all faith so that I can remove mountains, but do not have love, I am nothing.
 [3] If I give away everything I own, and if I give over my body in order to boast, but do not have love, I receive no benefit.
+
 [4] Love is patient, love is kind, it is not envious. Love does not brag, it is not puffed up.
 [5] It is not rude, it is not self-serving, it is not easily angered or resentful.
 [6] It is not glad about injustice, but rejoices in the truth.
 [7] It bears all things, believes all things, hopes all things, endures all things.
+
 [8] Love never ends. But if there are prophecies, they will be set aside; if there are tongues, they will cease; if there is knowledge, it will be set aside.
 [9] For we know in part, and we prophesy in part,
 [10] but when what is perfect comes, the partial will be set aside.
@@ -428,7 +446,6 @@
 
 ## Chapter 14
 
-
 ### Prophecy and Tongues
 
 [1] Pursue love and be eager for the spiritual gifts, especially that you may prophesy.
@@ -436,6 +453,7 @@
 [3] But the one who prophesies speaks to people for their strengthening, encouragement, and consolation.
 [4] The one who speaks in a tongue builds himself up, but the one who prophesies builds up the church.
 [5] I wish you all spoke in tongues, but even more that you would prophesy. The one who prophesies is greater than the one who speaks in tongues, unless he interprets so that the church may be strengthened.
+
 [6] Now, brothers and sisters, if I come to you speaking in tongues, how will I help you unless I speak to you with a revelation or with knowledge or prophecy or teaching?
 [7] It is similar for lifeless things that make a sound, like a flute or harp. Unless they make a distinction in the notes, how can what is played on the flute or harp be understood?
 [8] If, for example, the trumpet makes an unclear sound, who will get ready for battle?
@@ -443,6 +461,7 @@
 [10] There are probably many kinds of languages in the world, and none is without meaning.
 [11] If then I do not know the meaning of a language, I will be a foreigner to the speaker and the speaker a foreigner to me.
 [12] It is the same with you. Since you are eager for manifestations of the Spirit, seek to abound in order to strengthen the church.
+
 [13] So then, one who speaks in a tongue should pray that he may interpret.
 [14] If I pray in a tongue, my spirit prays, but my mind is unproductive.
 [15] What should I do? I will pray with my spirit, but I will also pray with my mind. I will sing praises with my spirit, but I will also sing praises with my mind.
@@ -450,8 +469,9 @@
 [17] For you are certainly giving thanks well, but the other person is not strengthened.
 [18] I thank God that I speak in tongues more than all of you,
 [19] but in the church I want to speak five words with my mind to instruct others, rather than ten thousand words in a tongue.
+
 [20] Brothers and sisters, do not be children in your thinking. Instead, be infants in evil, but in your thinking be mature.
-[21] It is written in the law: “By people with strange tongues and by the lips of strangers I will speak to this people, yet not even in this way will they listen to me,” says the Lord.
+[21] It is written in the law: “_**By people with strange tongues and by the lips of strangers I will speak to this people, yet not even in this way will they listen to me**_,” says the Lord.
 [22] So then, tongues are a sign not for believers but for unbelievers. Prophecy, however, is not for unbelievers but for believers.
 [23] So if the whole church comes together and all speak in tongues, and unbelievers or uninformed people enter, will they not say that you have lost your minds?
 [24] But if all prophesy, and an unbeliever or uninformed person enters, he will be convicted by all, he will be called to account by all.
@@ -467,16 +487,18 @@
 [31] For you can all prophesy one after another, so all can learn and be encouraged.
 [32] Indeed, the spirits of the prophets are subject to the prophets,
 [33] for God is not characterized by disorder but by peace.
+
+As in all the churches of the saints,
 [34] the women should be silent in the churches, for they are not permitted to speak. Rather, let them be in submission, as in fact the law says.
 [35] If they want to find out about something, they should ask their husbands at home, because it is disgraceful for a woman to speak in church.
 [36] Did the word of God begin with you, or did it come to you alone?
+
 [37] If anyone considers himself a prophet or spiritual person, he should acknowledge that what I write to you is the Lord’s command.
 [38] If someone does not recognize this, he is not recognized.
 [39] So then, brothers and sisters, be eager to prophesy, and do not forbid anyone from speaking in tongues.
 [40] And do everything in a decent and orderly manner.
 
 ## Chapter 15
-
 
 ### Christ’s Resurrection
 
@@ -502,6 +524,7 @@
 [17] And if Christ has not been raised, your faith is useless; you are still in your sins.
 [18] Furthermore, those who have fallen asleep in Christ have also perished.
 [19] For if only in this life we have hope in Christ, we should be pitied more than anyone.
+
 [20] But now Christ has been raised from the dead, the firstfruits of those who have fallen asleep.
 [21] For since death came through a man, the resurrection of the dead also came through a man.
 [22] For just as in Adam all die, so also in Christ all will be made alive.
@@ -509,12 +532,13 @@
 [24] Then comes the end, when he hands over the kingdom to God the Father, when he has brought to an end all rule and all authority and power.
 [25] For he must reign until he has put all his enemies under his feet.
 [26] The last enemy to be eliminated is death.
-[27] For he has put everything in subjection under his feet. But when it says “everything” has been put in subjection, it is clear that this does not include the one who put everything in subjection to him.
+[27] For **_he has put everything in subjection under his feet_**. But when it says “everything” has been put in subjection, it is clear that this does not include the one who put everything in subjection to him.
 [28] And when all things are subjected to him, then the Son himself will be subjected to the one who subjected everything to him, so that God may be all in all.
+
 [29] Otherwise, what will those do who are baptized for the dead? If the dead are not raised at all, then why are they baptized for them?
 [30] Why too are we in danger every hour?
 [31] Every day I am in danger of death! This is as sure as my boasting in you, which I have in Christ Jesus our Lord.
-[32] If from a human point of view I fought with wild beasts at Ephesus, what did it benefit me? If the dead are not raised, let us eat and drink, for tomorrow we die.
+[32] If from a human point of view I fought with wild beasts at Ephesus, what did it benefit me? If the dead are not raised, _let us eat and drink, for tomorrow we die_.
 [33] Do not be deceived: “Bad company corrupts good morals.”
 [34] Sober up as you should, and stop sinning! For some have no knowledge of God—I say this to your shame!
 
@@ -527,25 +551,26 @@
 [39] All flesh is not the same: People have one flesh, animals have another, birds and fish another.
 [40] And there are heavenly bodies and earthly bodies. The glory of the heavenly body is one sort and the earthly another.
 [41] There is one glory of the sun, and another glory of the moon and another glory of the stars, for star differs from star in glory.
+
 [42] It is the same with the resurrection of the dead. What is sown is perishable, what is raised is imperishable.
 [43] It is sown in dishonor, it is raised in glory; it is sown in weakness, it is raised in power;
 [44] it is sown a natural body, it is raised a spiritual body. If there is a natural body, there is also a spiritual body.
-[45] So also it is written, “The first man, Adam, became a living person”; the last Adam became a life-giving spirit.
+[45] So also it is written, “_**The first man, Adam, became a living person**_”; the last Adam became a life-giving spirit.
 [46] However, the spiritual did not come first, but the natural, and then the spiritual.
 [47] The first man is from the earth, made of dust; the second man is from heaven.
 [48] Like the one made of dust, so too are those made of dust, and like the one from heaven, so too those who are heavenly.
 [49] And just as we have borne the image of the man of dust, let us also bear the image of the man of heaven.
+
 [50] Now this is what I am saying, brothers and sisters: Flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.
 [51] Listen, I will tell you a mystery: We will not all sleep, but we will all be changed—
 [52] in a moment, in the blinking of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we will be changed.
 [53] For this perishable body must put on the imperishable, and this mortal body must put on immortality.
 [54] Now when this perishable puts on the imperishable, and this mortal puts on immortality, then the saying that is written will happen,
-“Death has been swallowed up in victory.”
-[55] “Where, O death, is your victory?
-Where, O death, is your sting?”
 
+“_**Death has been swallowed up in victory**_.”<br>
+[55] “_**Where, O death, is your victory?**_<br>
+_**Where, O death, is your sting?**_”<br>
 ## Chapter 16
-
 
 ### A Collection to Aid Jewish Christians
 
@@ -561,21 +586,30 @@ Where, O death, is your sting?”
 [7] For I do not want to see you now in passing, since I hope to spend some time with you, if the Lord allows.
 [8] But I will stay in Ephesus until Pentecost,
 [9] because a door of great opportunity stands wide open for me, but there are many opponents.
+
 [10] Now if Timothy comes, see that he has nothing to fear among you, for he is doing the Lord’s work, as I am too.
 [11] So then, let no one treat him with contempt. But send him on his way in peace so that he may come to me. For I am expecting him with the brothers.
+
 [12] With regard to our brother Apollos: I strongly encouraged him to visit you with the other brothers, but it was simply not his intention to come now. He will come when he has the opportunity.
 
 ### Final Challenge and Blessing
 
 [13] Stay alert, stand firm in the faith, show courage, be strong.
 [14] Everything you do should be done in love.
+
 [15] Now, brothers and sisters, you know about the household of Stephanus, that as the first converts of Achaia, they devoted themselves to ministry for the saints. I urge you
 [16] also to submit to people like this, and to everyone who cooperates in the work and labors hard.
 [17] I was glad about the arrival of Stephanus, Fortunatus, and Achaicus because they have supplied the fellowship with you that I lacked.
 [18] For they refreshed my spirit and yours. So then, recognize people like this.
+
 [19] The churches in the province of Asia send greetings to you. Aquila and Prisca greet you warmly in the Lord, with the church that meets in their house.
 [20] All the brothers and sisters send greetings. Greet one another with a holy kiss.
+
 [21] I, Paul, send this greeting with my own hand.
+
 [22] Let anyone who has no love for the Lord be accursed. Our Lord, come!
+
 [23] The grace of the Lord Jesus be with you.
+
 [24] My love be with all of you in Christ Jesus.
+

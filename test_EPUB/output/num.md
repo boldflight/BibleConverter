@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Organizing the Census of the Israelites
 
 [1] Now the **Lord** spoke to Moses in the tent of meeting in the desert of Sinai on the first day of the second month of the second year after the Israelites departed from the land of Egypt. He said:
@@ -10,50 +9,67 @@
 [3] You and Aaron are to number all in Israel who can serve in the army, those who are twenty years old or older, by their divisions.
 [4] And to help you there is to be a man from each tribe, each man the head of his family.
 [5] Now these are the names of the men who are to help you:
-from Reuben, Elizur son of Shedeur;
-[6] from Simeon, Shelumiel son of Zurishaddai;
-[7] from Judah, Nahshon son of Amminadab;
-[8] from Issachar, Nethanel son of Zuar;
-[9] from Zebulun, Eliab son of Helon;
-[10] from the sons of Joseph:
-from Ephraim, Elishama son of Ammihud;
-from Manasseh, Gamaliel son of Pedahzur;
-[11] from Benjamin, Abidan son of Gideoni;
-[12] from Dan, Ahiezer son of Ammishaddai;
-[13] from Asher, Pagiel son of Ocran;
-[14] from Gad, Eliasaph son of Deuel;
-[15] from Naphtali, Ahira son of Enan.”
 
+from Reuben, Elizur son of Shedeur;<br>
+[6] from Simeon, Shelumiel son of Zurishaddai;<br>
+[7] from Judah, Nahshon son of Amminadab;<br>
+[8] from Issachar, Nethanel son of Zuar;<br>
+[9] from Zebulun, Eliab son of Helon;<br>
+[10] from the sons of Joseph:<br>
+from Ephraim, Elishama son of Ammihud;<br>
+from Manasseh, Gamaliel son of Pedahzur;<br>
+[11] from Benjamin, Abidan son of Gideoni;<br>
+[12] from Dan, Ahiezer son of Ammishaddai;<br>
+[13] from Asher, Pagiel son of Ocran;<br>
+[14] from Gad, Eliasaph son of Deuel;<br>
+[15] from Naphtali, Ahira son of Enan.”<br>
 ### The Census of the Tribes
 
 [16] These were the ones chosen from the community, leaders of their ancestral tribes. They were the heads of the thousands of Israel.
+
 [17] So Moses and Aaron took these men who had been mentioned specifically by name,
 [18] and they assembled the entire community together on the first day of the second month. Then the people recorded their ancestry by their clans and families, and the men who were twenty years old or older were listed by name individually,
 [19] just as the **Lord** had commanded Moses. And so he numbered them in the desert of Sinai.
+
 [20] And they were as follows:
+
+The descendants of Reuben, the firstborn son of Israel: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name individually.
 [21] Those of them who were numbered from the tribe of Reuben were 46,500.
+
 [22] From the descendants of Simeon: According to the records of their clans and families, all the males numbered of them twenty years old or older who could serve in the army were listed by name individually.
 [23] Those of them who were numbered from the tribe of Simeon were 59,300.
+
 [24] From the descendants of Gad: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name.
 [25] Those of them who were numbered from the tribe of Gad were 45,650.
+
 [26] From the descendants of Judah: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name.
 [27] Those of them who were numbered from the tribe of Judah were 74,600.
+
 [28] From the descendants of Issachar: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name.
 [29] Those of them who were numbered from the tribe of Issachar were 54,400.
+
 [30] From the descendants of Zebulun: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name.
 [31] Those of them who were numbered from the tribe of Zebulun were 57,400.
+
 [32] From the sons of Joseph:
+
+From the descendants of Ephraim: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name.
 [33] Those of them who were numbered from the tribe of Ephraim were 40,500.
 [34] From the descendants of Manasseh: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name.
 [35] Those of them who were numbered from the tribe of Manasseh were 32,200.
+
 [36] From the descendants of Benjamin: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name.
 [37] Those of them who were numbered from the tribe of Benjamin were 35,400.
+
 [38] From the descendants of Dan: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name.
 [39] Those of them who were numbered from the tribe of Dan were 62,700.
+
 [40] From the descendants of Asher: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name.
 [41] Those of them who were numbered from the tribe of Asher were 41,500.
+
 [42] From the descendants of Naphtali: According to the records of their clans and families, all the males twenty years old or older who could serve in the army were listed by name.
 [43] Those of them who were numbered from the tribe of Naphtali were 53,400.
+
 [44] These were the men whom Moses and Aaron numbered along with the twelve leaders of Israel, each of whom was from his own family.
 [45] All the Israelites who were twenty years old or older, who could serve in Israel’s army, were numbered according to their families.
 [46] And all those numbered totaled 603,550.
@@ -65,12 +81,13 @@ from Manasseh, Gamaliel son of Pedahzur;
 [49] “Only the tribe of Levi you must not number or count with the other Israelites.
 [50] But appoint the Levites over the tabernacle of the testimony, over all its furnishings and over everything in it. They must carry the tabernacle and all its furnishings; and they must attend to it and camp around it.
 [51] Whenever the tabernacle is to move, the Levites must take it down, and whenever the tabernacle is to be reassembled, the Levites must set it up. Any unauthorized person who approaches it must be killed.
+
 [52] “The Israelites will camp according to their divisions, each man in his camp, and each man by his standard.
 [53] But the Levites must camp around the tabernacle of the testimony, so that the **Lord**’s anger will not fall on the Israelite community. The Levites are responsible for the care of the tabernacle of the testimony.”
+
 [54] The Israelites did according to all that the **Lord** commanded Moses —that is what they did.
 
 ## Chapter 2
-
 
 ### The Arrangement of the Tribes
 
@@ -125,16 +142,17 @@ from Manasseh, Gamaliel son of Pedahzur;
 
 [32] These are the Israelites, numbered according to their families. All those numbered in the camps, by their divisions, are 603,550.
 [33] But the Levites were not numbered among the other Israelites, as the **Lord** commanded Moses.
+
 [34] So the Israelites did according to all that the **Lord** commanded Moses; that is the way they camped under their standards, and that is the way they traveled, each with his clan and family.
 
 ## Chapter 3
-
 
 ### The Sons of Aaron
 
 [1] Now these are the records of Aaron and Moses when the **Lord** spoke with Moses on Mount Sinai.
 [2] These are the names of the sons of Aaron: Nadab the firstborn, Abihu, Eleazar, and Ithamar.
 [3] These are the names of the sons of Aaron, the anointed priests, whom he consecrated to minister as priests.
+
 [4] Nadab and Abihu died before the **Lord** when they offered strange fire before the **Lord** in the desert of Sinai, and they had no children. So Eleazar and Ithamar ministered as priests in the presence of Aaron their father.
 
 ### The Assignment of the Levites
@@ -145,6 +163,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 [8] And they are responsible for all the furnishings of the tent of meeting, and for the needs of the Israelites, as they serve in the tabernacle.
 [9] You are to assign the Levites to Aaron and his sons; they will be assigned exclusively to him out of all the Israelites.
 [10] So you are to appoint Aaron and his sons, and they will be responsible for their priesthood, but the unauthorized person who comes near must be put to death.”
+
 [11] Then the **Lord** spoke to Moses:
 [12] “Look, I myself have taken the Levites from among the Israelites instead of every firstborn who opens the womb among the Israelites. So the Levites belong to me,
 [13] because all the firstborn are mine. When I destroyed all the firstborn in the land of Egypt, I set apart for myself all the firstborn in Israel, both man and beast. They belong to me. I am the **Lord**.”
@@ -158,6 +177,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 ### The Summary of Families
 
 [17] These were the sons of Levi by their names: Gershon, Kohath, and Merari.
+
 [18] These are the names of the sons of Gershon by their families: Libni and Shimei.
 [19] The sons of Kohath by their families were: Amram, Izhar, Hebron, and Uzziel.
 [20] The sons of Merari by their families were Mahli and Mushi. These are the families of the Levites by their clans.
@@ -168,6 +188,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 [22] Those of them who were numbered, counting every male from a month old and upward, were 7,500.
 [23] The families of the Gershonites were to camp behind the tabernacle toward the west.
 [24] Now the leader of the clan of the Gershonites was Eliasaph son of Lael.
+
 [25] And the responsibilities of the Gershonites in the tent of meeting included the tabernacle, the tent with its covering, the curtain at the entrance of the tent of meeting,
 [26] the hangings of the courtyard, the curtain at the entrance to the courtyard that surrounded the tabernacle and the altar, and their ropes, plus all the service connected with these things.
 
@@ -177,6 +198,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 [28] Counting every male from a month old and upward, there were 8,600. They were responsible for the care of the sanctuary.
 [29] The families of the Kohathites were to camp on the south side of the tabernacle.
 [30] Now the leader of the clan of the families of the Kohathites was Elizaphan son of Uzziel.
+
 [31] Their responsibilities included the ark, the table, the lampstand, the altars, and the utensils of the sanctuary with which they ministered, the curtain, and all their service.
 [32] Now the head of all the Levitical leaders was Eleazar son of Aaron the priest. He was appointed over those who were responsible for the sanctuary.
 
@@ -185,8 +207,10 @@ from Manasseh, Gamaliel son of Pedahzur;
 [33] From Merari came the family of the Mahlites and the family of the Mushites; these were the families of Merari.
 [34] Those of them who were numbered, counting every male from a month old and upward, were 6,200.
 [35] Now the leader of the clan of the families of Merari was Zuriel son of Abihail. These were to camp on the north side of the tabernacle.
+
 [36] The appointed responsibilities of the Merarites included the frames of the tabernacle, its crossbars, its posts, its sockets, its utensils, plus all the service connected with these things,
 [37] and the pillars of the courtyard all around, with their sockets, their pegs, and their ropes.
+
 [38] But those who were to camp in front of the tabernacle on the east, in front of the tent of meeting, were Moses, Aaron, and his sons. They were responsible for the needs of the sanctuary and for the needs of the Israelites, but the unauthorized person who approached was to be put to death.
 [39] All who were numbered of the Levites, whom Moses and Aaron numbered by the word of the **Lord**, according to their families, every male from a month old and upward, were 22,000.
 
@@ -196,17 +220,18 @@ from Manasseh, Gamaliel son of Pedahzur;
 [41] And take the Levites for me—I am the **Lord**—instead of all the firstborn males among the Israelites, and the livestock of the Levites instead of all the firstborn of the livestock of the Israelites.”
 [42] So Moses numbered all the firstborn males among the Israelites, as the **Lord** had commanded him.
 [43] And all the firstborn males, by the number of the names from a month old and upward, totaled 22,273.
+
 [44] Then the **Lord** spoke to Moses:
 [45] “Take the Levites instead of all the firstborn males among the Israelites, and the livestock of the Levites instead of their livestock. And the Levites will be mine. I am the **Lord**.
 [46] And for the redemption of the 273 firstborn males of the Israelites who exceed the number of the Levites,
 [47] collect five shekels for each one individually; you are to collect this amount in the currency of the sanctuary shekel (this shekel is twenty gerahs).
 [48] And give the money for the redemption of the excess number of them to Aaron and his sons.”
+
 [49] So Moses took the redemption money from those who were in excess of those redeemed by the Levites.
 [50] From the firstborn males of the Israelites he collected the money, 1,365 shekels, according to the sanctuary shekel.
 [51] Moses gave the redemption money to Aaron and his sons, according to the word of the **Lord**, as the **Lord** had commanded Moses.
 
 ## Chapter 4
-
 
 ### The Service of the Kohathites
 
@@ -216,16 +241,22 @@ from Manasseh, Gamaliel son of Pedahzur;
 [4] This is the service of the Kohathites in the tent of meeting, relating to the most holy things.
 [5] When it is time for the camp to journey, Aaron and his sons must come and take down the screening curtain and cover the ark of the testimony with it.
 [6] Then they must put over it a covering of fine leather and spread over that a cloth entirely of blue, and then they must insert its poles.
+
 [7] “On the table of the presence they must spread a blue cloth, and put on it the dishes, the pans, the bowls, and the pitchers for pouring, and the Bread of the Presence must be on it continually.
 [8] They must spread over them a scarlet cloth, and cover the same with a covering of fine leather; and they must insert its poles.
+
 [9] “They must take a blue cloth and cover the lampstand of the light, with its lamps, its wick-trimmers, its trays, and all its oil vessels, with which they service it.
 [10] Then they must put it with all its utensils in a covering of fine leather, and put it on a carrying beam.
+
 [11] “They must spread a blue cloth on the gold altar, and cover it with a covering of fine leather; and they must insert its poles.
 [12] Then they must take all the utensils of the service, with which they serve in the sanctuary, put them in a blue cloth, cover them with a covering of fine leather, and put them on a carrying beam.
 [13] Also, they must take away the ashes from the altar and spread a purple cloth over it.
 [14] Then they must place on it all its implements with which they serve there—the trays, the meat forks, the shovels, the basins, and all the utensils of the altar—and they must spread on it a covering of fine leather, and then insert its poles.
+
 [15] “When Aaron and his sons have finished covering the sanctuary and all the furnishings of the sanctuary, when the camp is ready to journey, then the Kohathites will come to carry them; but they must not touch any holy thing, or they will die. These are the responsibilities of the Kohathites with the tent of meeting.
+
 [16] “The appointed responsibility of Eleazar son of Aaron the priest is for the oil for the light, and the spiced incense, and the daily grain offering, and the anointing oil; he also has the appointed responsibility over all the tabernacle with all that is in it, over the sanctuary and over all its furnishings.”
+
 [17] Then the **Lord** spoke to Moses and Aaron:
 [18] “Do not allow the tribe of the families of the Kohathites to be cut off from among the Levites;
 [19] but in order that they will live and not die when they approach the most holy things, do this for them: Aaron and his sons will go in and appoint each man to his service and his responsibility.
@@ -239,6 +270,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 [24] This is the service of the families of Gershonites, as they serve and carry it.
 [25] They must carry the curtains for the tabernacle and the tent of meeting with its covering, the covering of fine leather that is over it, the curtains for the entrance of the tent of meeting,
 [26] the hangings for the courtyard, the curtain for the entrance of the gate of the court, which is around the tabernacle and the altar, and their ropes, along with all the furnishings for their service and everything that is made for them. So they are to serve.
+
 [27] “All the service of the Gershonites, whether carrying loads or for any of their work, will be at the direction of Aaron and his sons. You will assign them all their tasks as their responsibility.
 [28] This is the service of the families of the Gershonites concerning the tent of meeting. Their responsibilities will be under the authority of Ithamar son of Aaron the priest.
 
@@ -256,21 +288,23 @@ from Manasseh, Gamaliel son of Pedahzur;
 [35] from thirty years old and upward to fifty years old, everyone who entered the company for the work in the tent of meeting;
 [36] and those of them numbered by their families were 2,750.
 [37] These were those numbered from the families of the Kohathites, everyone who served in the tent of meeting, whom Moses and Aaron numbered according to the word of the **Lord** by the authority of Moses.
+
 [38] Those numbered from the Gershonites, by their families and by their clans,
 [39] from thirty years old and upward to fifty years old, everyone who entered the company for the work in the tent of meeting—
 [40] those of them numbered by their families, by their clans, were 2,630.
 [41] These were those numbered from the families of the Gershonites, everyone who served in the tent of meeting, whom Moses and Aaron numbered according to the word of the **Lord**.
+
 [42] Those numbered from the families of the Merarites, by their families, by their clans,
 [43] from thirty years old and upward to fifty years old, everyone who entered the company for the work in the tent of meeting—
 [44] those of them numbered by their families were 3,200.
 [45] These are those numbered from the families of the Merarites, whom Moses and Aaron numbered according to the word of the **Lord** by the authority of Moses.
+
 [46] All who were numbered of the Levites, whom Moses, Aaron, and the leaders of Israel numbered by their families and by their clans,
 [47] from thirty years old and upward to fifty years old, everyone who entered to do the work of service and the work of carrying relating to the tent of meeting—
 [48] those of them numbered were 8,580.
 [49] According to the word of the **Lord** they were numbered, by the authority of Moses, each according to his service and according to what he was to carry. Thus were they numbered by him, as the **Lord** had commanded Moses.
 
 ## Chapter 5
-
 
 ### Separation of the Unclean
 
@@ -295,6 +329,7 @@ from Manasseh, Gamaliel son of Pedahzur;
 [13] and a man goes to bed with her for sexual relations without her husband knowing it, and it is undetected that she has defiled herself since there was no witness against her, nor was she caught in the act—
 [14] and if jealous feelings come over him and he becomes suspicious of his wife when she is defiled, or if jealous feelings come over him and he becomes suspicious of his wife, when she is not defiled—
 [15] then the man must bring his wife to the priest, and he must bring the offering required for her, one-tenth of an ephah of barley meal; he must not pour olive oil on it or put frankincense on it because it is a grain offering of suspicion, a grain offering for remembering, for bringing iniquity to remembrance.
+
 [16] “‘Then the priest will bring her near and have her stand before the **Lord**.
 [17] The priest will then take holy water in a pottery jar, and take some of the dust that is on the floor of the tabernacle, and put it into the water.
 [18] Then the priest will have the woman stand before the **Lord**, and he will uncover the woman’s head and put the grain offering for remembering in her hands, which is the grain offering of suspicion. The priest will hold in his hand the bitter water that brings a curse.
@@ -302,18 +337,19 @@ from Manasseh, Gamaliel son of Pedahzur;
 [20] But if you have gone astray while under your husband’s authority, and if you have defiled yourself and some man other than your husband has had sexual relations with you—”
 [21] (then the priest will put the woman under the oath of the curse and will say to her) “the **Lord** make you an attested curse among your people if the **Lord** makes your thigh fall away and your abdomen swell,
 [22] and this water that causes the curse will go into your stomach and make your abdomen swell and your thigh rot.” Then the woman must say, “Amen, amen.”
+
 [23] “‘Then the priest will write these curses on a scroll and then scrape them off into the bitter water.
 [24] He will make the woman drink the bitter water that brings a curse, and the water that brings a curse will enter her to produce bitterness.
 [25] The priest will take the grain offering of suspicion from the woman’s hand, wave the grain offering before the **Lord**, and bring it to the altar.
 [26] Then the priest will take a handful of the grain offering as its memorial portion, burn it on the altar, and afterward make the woman drink the water.
 [27] When he has made her drink the water, then if she has defiled herself and behaved unfaithfully toward her husband, the water that brings a curse will enter her to produce bitterness—her abdomen will swell, her thigh will fall away, and the woman will become a curse among her people.
 [28] But if the woman has not defiled herself, and is clean, then she will be free of ill effects and will be able to bear children.
+
 [29] “‘This is the law for cases of jealousy, when a wife, while under her husband’s authority, goes astray and defiles herself,
 [30] or when jealous feelings come over a man and he becomes suspicious of his wife; then he must have the woman stand before the **Lord**, and the priest will carry out all this law upon her.
 [31] Then the man will be free from iniquity, but that woman will bear the consequences of her iniquity.’”
 
 ## Chapter 6
-
 
 ### The Nazirite Vow
 
@@ -321,7 +357,9 @@ from Manasseh, Gamaliel son of Pedahzur;
 [2] “Speak to the Israelites, and tell them, ‘When someone—either a man or a woman —takes a special vow, to take a vow as a Nazirite, to separate himself to the **Lord**,
 [3] he must separate himself from wine and strong drink; he must drink neither vinegar made from wine nor vinegar made from strong drink, nor may he drink any juice of grapes, nor eat fresh grapes or raisins.
 [4] All the days of his separation he must not eat anything that is produced by the grapevine, from seed to skin.
+
 [5] “‘All the days of the vow of his separation no razor may be used on his head until the time is fulfilled for which he separated himself to the **Lord**. He will be holy, and he must let the locks of hair on his head grow long.
+
 [6] “‘All the days that he separates himself to the **Lord** he must not contact a dead body.
 [7] He must not defile himself even for his father or his mother or his brother or his sister if they die, because the separation for his God is on his head.
 [8] All the days of his separation he must be holy to the **Lord**.
@@ -338,26 +376,29 @@ from Manasseh, Gamaliel son of Pedahzur;
 [13] “‘Now this is the law of the Nazirite: When the days of his separation are fulfilled, he must be brought to the entrance of the tent of meeting,
 [14] and he must present his offering to the **Lord**: one male lamb in its first year without blemish for a burnt offering, one ewe lamb in its first year without blemish for a purification offering, one ram without blemish for a peace offering,
 [15] and a basket of bread made without yeast, cakes of fine flour mixed with olive oil, wafers made without yeast and smeared with olive oil, and their grain offering and their drink offerings.
+
 [16] “‘Then the priest must present all these before the **Lord** and offer his purification offering and his burnt offering.
 [17] Then he must offer the ram as a peace offering to the **Lord** along with the basket of bread made without yeast; the priest must also offer his grain offering and his drink offering.
+
 [18] “‘Then the Nazirite must shave his consecrated head at the entrance to the tent of meeting and must take the hair from his consecrated head and put it on the fire where the peace offering is burning.
 [19] And the priest must take the boiled shoulder of the ram, one cake made without yeast from the basket, and one wafer made without yeast, and put them on the hands of the Nazirite after he has shaved his consecrated head;
 [20] then the priest must wave them as a wave offering before the **Lord**; it is a holy portion for the priest, together with the breast of the wave offering and the thigh of the raised offering. After this the Nazirite may drink wine.
+
 [21] “‘This is the law of the Nazirite who vows to the **Lord** his offering according to his separation, as well as whatever else he can provide. Thus he must fulfill his vow that he makes, according to the law of his separation.’”
 
 ### The Priestly Benediction
 
 [22] The **Lord** spoke to Moses:
 [23] “Tell Aaron and his sons, ‘This is the way you are to bless the Israelites. Say to them:
-[24] “The Lord bless you and protect you;
-[25] The Lord make his face to shine upon you,
-and be gracious to you;
-[26] The Lord lift up his countenance upon you
-and give you peace.”’
+
+[24] “The **Lord** bless you and protect you;<br>
+[25] The **Lord** make his face to shine upon you,<br>
+and be gracious to you;<br>
+[26] The **Lord** lift up his countenance upon you<br>
+and give you peace.”’<br>
 [27] “So they will put my name on the Israelites, and I will bless them.”
 
 ## Chapter 7
-
 
 ### The Leader’s Offerings
 
@@ -369,6 +410,7 @@ and give you peace.”’
 
 [4] Then the **Lord** spoke to Moses:
 [5] “Receive these gifts from them, that they may be used in doing the work of the tent of meeting; and you must give them to the Levites, to every man as his service requires.”
+
 [6] So Moses accepted the carts and the oxen and gave them to the Levites.
 [7] He gave two carts and four oxen to the Gershonites, as their service required;
 [8] and he gave four carts and eight oxen to the Merarites, as their service required, under the authority of Ithamar son of Aaron the priest.
@@ -387,66 +429,77 @@ and give you peace.”’
 [15] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [16] one male goat for a purification offering;
 [17] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five male lambs in their first year. This was the offering of Nahshon son of Amminadab.
+
 [18] On the second day Nethanel son of Zuar, leader of Issachar, presented an offering.
 [19] He offered for his offering one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [20] one gold pan weighing 10 shekels, full of incense;
 [21] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [22] one male goat for a purification offering;
 [23] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five male lambs in their first year. This was the offering of Nethanel son of Zuar.
+
 [24] On the third day Eliab son of Helon, leader of the Zebulunites, presented an offering.
 [25] His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [26] one gold pan weighing 10 shekels, full of incense;
 [27] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [28] one male goat for a purification offering;
 [29] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five male lambs in their first year. This was the offering of Eliab son of Helon.
+
 [30] On the fourth day Elizur son of Shedeur, leader of the Reubenites, presented an offering.
 [31] His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [32] one gold pan weighing 10 shekels, full of incense;
 [33] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [34] one male goat for a purification offering;
 [35] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Elizur son of Shedeur.
+
 [36] On the fifth day Shelumiel son of Zurishaddai, leader of the Simeonites, presented an offering.
 [37] His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [38] one gold pan weighing 10 shekels, full of incense;
 [39] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [40] one male goat for a purification offering;
 [41] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Shelumiel son of Zurishaddai.
+
 [42] On the sixth day Eliasaph son of Deuel, leader of the Gadites, presented an offering.
 [43] His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [44] one gold pan weighing 10 shekels, full of incense;
 [45] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [46] one male goat for a purification offering;
 [47] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Eliasaph son of Deuel.
+
 [48] On the seventh day Elishama son of Ammihud, leader of the Ephraimites, presented an offering.
 [49] His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [50] one gold pan weighing 10 shekels, full of incense;
 [51] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [52] one male goat for a purification offering;
 [53] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Elishama son of Ammihud.
+
 [54] On the eighth day Gamaliel son of Pedahzur, leader of the Manassehites, presented an offering.
 [55] His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [56] one gold pan weighing 10 shekels, full of incense;
 [57] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [58] one male goat for a purification offering;
 [59] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Gamaliel son of Pedahzur.
+
 [60] On the ninth day Abidan son of Gideoni, leader of the Benjaminites, presented an offering.
 [61] His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [62] one gold pan weighing 10 shekels, full of incense;
 [63] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [64] one male goat for a purification offering;
 [65] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Abidan son of Gideoni.
+
 [66] On the tenth day Ahiezer son of Ammishaddai, leader of the Danites, presented an offering.
 [67] His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [68] one gold pan weighing 10 shekels, full of incense;
 [69] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [70] one male goat for a purification offering;
 [71] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Ahiezer son of Ammishaddai.
+
 [72] On the eleventh day Pagiel son of Ocran, leader of the Asherites, presented an offering.
 [73] His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [74] one gold pan weighing 10 shekels, full of incense;
 [75] one young bull, one ram, and one male lamb in its first year, for a burnt offering;
 [76] one male goat for a purification offering;
 [77] and for the sacrifice of peace offerings: two bulls, five rams, five male goats, and five lambs in their first year. This was the offering of Pagiel son of Ocran.
+
 [78] On the twelfth day Ahira son of Enan, leader of the Naphtalites, presented an offering.
 [79] His offering was one silver platter weighing 130 shekels and one silver sprinkling bowl weighing 70 shekels, both according to the sanctuary shekel, each of them full of fine flour mixed with olive oil as a grain offering;
 [80] one gold pan weighing 10 shekels, full of incense;
@@ -461,15 +514,16 @@ and give you peace.”’
 [86] The twelve gold pans full of incense weighed 10 shekels each, according to the sanctuary shekel; all the gold of the pans weighed 120 shekels.
 [87] All the animals for the burnt offering were 12 young bulls, 12 rams, 12 male lambs in their first year, with their grain offering, and 12 male goats for a purification offering.
 [88] All the animals for the sacrifice for the peace offering were 24 young bulls, 60 rams, 60 male goats, and 60 lambs in their first year. These were the dedication offerings for the altar after it was anointed.
+
 [89] Now when Moses went into the tent of meeting to speak with the **Lord**, he heard the voice speaking to him from above the atonement lid that was on the ark of the testimony, from between the two cherubim. Thus he spoke to him.
 
 ## Chapter 8
-
 
 ### Lighting the Lamps
 
 [1] The **Lord** spoke to Moses:
 [2] “Speak to Aaron and tell him, ‘When you set up the lamps, the seven lamps are to give light in front of the lampstand.’”
+
 [3] And Aaron did so; he set up the lamps to face toward the front of the lampstand, as the **Lord** commanded Moses.
 [4] This is how the lampstand was made: It was beaten work in gold; from its shaft to its flowers it was beaten work. According to the pattern that the **Lord** had shown Moses, so he made the lampstand.
 
@@ -485,11 +539,13 @@ and give you peace.”’
 [12] When the Levites lay their hands on the heads of the bulls, offer the one for a purification offering and the other for a whole burnt offering to the **Lord**, to make atonement for the Levites.
 [13] You are to have the Levites stand before Aaron and his sons, and then offer them as a wave offering to the **Lord**.
 [14] And so you are to separate the Levites from among the Israelites, and the Levites will be mine.
+
 [15] “After this, the Levites will go in to do the work of the tent of meeting. So you must cleanse them and offer them like a wave offering.
 [16] For they are entirely given to me from among the Israelites. I have taken them for myself instead of all who open the womb, the firstborn sons of all the Israelites.
 [17] For all the firstborn males among the Israelites are mine, both humans and animals; when I destroyed all the firstborn in the land of Egypt I set them apart for myself.
 [18] So I have taken the Levites instead of all the firstborn sons among the Israelites.
 [19] I have given the Levites as a gift to Aaron and his sons from among the Israelites, to do the work for the Israelites in the tent of meeting, and to make atonement for the Israelites, so there will be no plague among the Israelites when the Israelites come near the sanctuary.”
+
 [20] So Moses and Aaron and the entire community of the Israelites did this with the Levites. According to all that the **Lord** commanded Moses concerning the Levites, this is what the Israelites did with them.
 [21] The Levites purified themselves and washed their clothing; then Aaron presented them like a wave offering before the **Lord**, and Aaron made atonement for them to purify them.
 [22] After this, the Levites went in to do their work in the tent of meeting before Aaron and before his sons. As the **Lord** had commanded Moses concerning the Levites, so they did.
@@ -503,21 +559,24 @@ and give you peace.”’
 
 ## Chapter 9
 
-
 ### Passover Regulations
 
 [1] The **Lord** spoke to Moses in the desert of Sinai, in the first month of the second year after they had come out of the land of Egypt:
+
 [2] “The Israelites are to observe the Passover at its appointed time.
 [3] In the fourteenth day of this month, at twilight, you are to observe it at its appointed time; you must keep it in accordance with all its statutes and all its customs.”
 [4] So Moses instructed the Israelites to observe the Passover.
 [5] And they observed the Passover on the fourteenth day of the first month at twilight in the desert of Sinai; in accordance with all that the **Lord** had commanded Moses, so the Israelites did.
+
 [6] It happened that some men who were ceremonially defiled by the dead body of a man could not keep the Passover on that day, so they came before Moses and before Aaron on that day.
 [7] And those men said to Moses, “We are ceremonially defiled by the dead body of a man; why are we kept back from offering the **Lord**’s offering at its appointed time among the Israelites?”
 [8] So Moses said to them, “Remain here and I will hear what the **Lord** will command concerning you.”
+
 [9] The **Lord** spoke to Moses:
 [10] “Tell the Israelites, ‘If any of you or of your posterity become ceremonially defiled by touching a dead body, or are on a journey far away, then he may observe the Passover to the **Lord**.
 [11] They may observe it on the fourteenth day of the second month at twilight; they are to eat it with bread made without yeast and with bitter herbs.
 [12] They must not leave any of it until morning, nor break any of its bones; they must observe it in accordance with every statute of the Passover.
+
 [13] “‘But the man who is ceremonially clean, and was not on a journey, and fails to keep the Passover, that person must be cut off from his people. Because he did not bring the **Lord**’s offering at its appointed time, that man must bear his sin.
 [14] If a resident foreigner lives among you and wants to keep the Passover to the **Lord**, he must do so according to the statute of the Passover, and according to its custom. You must have the same statute for the resident foreigner and for the one who was born in the land.’”
 
@@ -528,6 +587,7 @@ and give you peace.”’
 [17] Whenever the cloud was taken up from the tabernacle, then after that the Israelites would begin their journey; and in whatever place the cloud settled, there the Israelites would make camp.
 [18] At the commandment of the **Lord** the Israelites would begin their journey, and at the commandment of the **Lord** they would make camp; as long as the cloud remained settled over the tabernacle they would camp.
 [19] When the cloud remained over the tabernacle many days, then the Israelites obeyed the instructions of the **Lord** and did not journey.
+
 [20] When the cloud remained over the tabernacle a number of days, they remained camped according to the **Lord**’s commandment, and according to the **Lord**’s commandment they would journey.
 [21] And when the cloud remained only from evening until morning, when the cloud was taken up the following morning, then they traveled on. Whether by day or by night, when the cloud was taken up they traveled.
 [22] Whether it was for two days, or a month, or a year that the cloud prolonged its stay over the tabernacle, the Israelites remained camped without traveling; but when it was taken up, they traveled on.
@@ -535,18 +595,19 @@ and give you peace.”’
 
 ## Chapter 10
 
-
 ### The Blowing of Trumpets
 
 [1] The **Lord** spoke to Moses:
 [2] “Make two trumpets of silver; you are to make them from a single hammered piece. You will use them for assembling the community and for directing the traveling of the camps.
 [3] When they blow them both, all the community must come to you to the entrance of the tent of meeting.
+
 [4] “But if they blow with one trumpet, then the leaders, the heads of the thousands of Israel, must come to you.
 [5] When you blow an alarm, then the camps that are located on the east side must begin to travel.
 [6] And when you blow an alarm the second time, then the camps that are located on the south side must begin to travel. An alarm must be sounded for their journeys.
 [7] But when you assemble the community, you must blow the trumpets, but you must not sound an alarm.
 [8] The sons of Aaron, the priests, must blow the trumpets, and they will be to you for an eternal ordinance throughout your generations.
 [9] If you go to war in your land against an adversary who opposes you, then you must sound an alarm with the trumpets, and you will be remembered before the **Lord** your God, and you will be saved from your enemies.
+
 [10] “Also, in the time when you rejoice, such as on your appointed festivals or at the beginnings of your months, you must blow with your trumpets over your burnt offerings and over the sacrifices of your peace offerings, so that they may become a memorial for you before your God: I am the **Lord** your God.”
 
 ### The Journey From Sinai to Kadesh
@@ -557,7 +618,9 @@ and give you peace.”’
 ### Judah Begins the Journey
 
 [13] This was the first time they set out on their journey according to the commandment of the **Lord**, by the authority of Moses.
+
 [14] The standard of the camp of the Judahites set out first according to their companies, and over his company was Nahshon son of Amminadab.
+
 [15] Over the company of the tribe of Issacharites was Nathanel son of Zuar,
 [16] and over the company of the tribe of the Zebulunites was Eliab son of Helon.
 [17] Then the tabernacle was dismantled, and the sons of Gershon and the sons of Merari set out, carrying the tabernacle.
@@ -571,6 +634,7 @@ and give you peace.”’
 [22] And the standard of the camp of the Ephraimites set out according to their companies; over his company was Elishama son of Ammihud.
 [23] Over the company of the tribe of the Manassehites was Gamaliel son of Pedahzur,
 [24] and over the company of the tribe of Benjaminites was Abidan son of Gideoni.
+
 [25] The standard of the camp of the Danites set out, which was the rear guard of all the camps by their companies; over his company was Ahiezer son of Ammishaddai.
 [26] Over the company of the tribe of the Asherites was Pagiel son of Ocran,
 [27] and over the company of the tribe of the Naphtalites was Ahira son of Enan.
@@ -582,13 +646,13 @@ and give you peace.”’
 [30] But Hobab said to him, “I will not go, but I will go instead to my own land and to my kindred.”
 [31] Moses said, “Do not leave us, because you know places for us to camp in the wilderness, and you could be our guide.
 [32] And if you come with us, it is certain that whatever good things the **Lord** will favor us with, we will share with you as well.”
+
 [33] So they traveled from the mountain of the **Lord** three days’ journey; and the ark of the covenant of the **Lord** was traveling before them during the three days’ journey, to find a resting place for them.
 [34] And the cloud of the **Lord** was over them by day, when they traveled from the camp.
 [35] And when the ark traveled, Moses would say, “Rise up, O **Lord**! May your enemies be scattered, and may those who hate you flee before you!”
 [36] And when it came to rest he would say, “Return, O **Lord**, to the many thousands of Israel!”
 
 ## Chapter 11
-
 
 ### The Israelites Complain
 
@@ -618,12 +682,15 @@ and give you peace.”’
 
 [16] The **Lord** said to Moses, “Gather to me seventy men of the elders of Israel, whom you know are elders of the people and officials over them, and bring them to the tent of meeting; let them take their position there with you.
 [17] Then I will come down and speak with you there, and I will take part of the Spirit that is on you, and will put it on them, and they will bear some of the burden of the people with you, so that you do not bear it all by yourself.
+
 [18] “And say to the people, ‘Sanctify yourselves for tomorrow, and you will eat meat, for you have wept in the hearing of the **Lord**, saying, “Who will give us meat to eat, for life was good for us in Egypt?” Therefore the **Lord** will give you meat, and you will eat.
 [19] You will eat, not just one day, nor two days, nor five days, nor ten days, nor twenty days,
 [20] but a whole month, until it comes out your nostrils and makes you sick, because you have despised the **Lord** who is among you and have wept before him, saying, “Why did we ever come out of Egypt?”’”
+
 [21] Moses said, “The people around me are 600,000 on foot; but you say, ‘I will give them meat, that they may eat for a whole month.’
 [22] Would they have enough if the flocks and herds were slaughtered for them? If all the fish of the sea were caught for them, would they have enough?”
 [23] And the **Lord** said to Moses, “Is the **Lord**’s hand shortened? Now you will see whether my word to you will come true or not!”
+
 [24] So Moses went out and told the people the words of the **Lord**. He then gathered seventy men of the elders of the people and had them stand around the tabernacle.
 [25] And the **Lord** came down in the cloud and spoke to them, and he took some of the Spirit that was on Moses and put it on the seventy elders. When the Spirit rested on them, they prophesied, but did not do so again.
 
@@ -640,22 +707,24 @@ and give you peace.”’
 [31] Now a wind went out from the **Lord** and brought quail from the sea, and let them fall near the camp, about a day’s journey on this side, and about a day’s journey on the other side, all around the camp, and about three feet high on the surface of the ground.
 [32] And the people stayed up all that day, all that night, and all the next day, and gathered the quail. The one who gathered the least gathered ten homers, and they spread them out for themselves all around the camp.
 [33] But while the meat was still between their teeth, before they chewed it, the anger of the **Lord** burned against the people, and the **Lord** struck the people with a very great plague.
+
 [34] So the name of that place was called Kibroth Hattaavah, because there they buried the people that craved different food.
 [35] The people traveled from Kibroth Hattaavah to Hazeroth, and they stayed at Hazeroth.
 
 ## Chapter 12
 
-
 ### Miriam and Aaron Oppose Moses
 
 [1] Then Miriam and Aaron spoke against Moses because of the Cushite woman he had married (for he had married an Ethiopian woman).
 [2] They said, “Has the **Lord** spoken only through Moses? Has he not also spoken through us?” And the **Lord** heard it.
+
 [3] (Now the man Moses was very humble, more so than any man on the face of the earth.)
 
 ### The Response of the Lord
 
 [4] The **Lord** spoke immediately to Moses, Aaron, and Miriam: “The three of you come to the tent of meeting.” So the three of them went.
 [5] And the **Lord** came down in a pillar of cloud and stood at the entrance of the tent; he then called Aaron and Miriam, and they both came forward.
+
 [6] The **Lord** said, “Hear now my words: If there is a prophet among you, I the **Lord** will make myself known to him in a vision; I will speak with him in a dream.
 [7] My servant Moses is not like this; he is faithful in all my house.
 [8] With him I will speak face to face, openly and not in riddles, and he will see the form of the **Lord**. Why then were you not afraid to speak against my servant Moses?”
@@ -666,19 +735,21 @@ and give you peace.”’
 
 [11] So Aaron said to Moses, “O my lord, please do not hold this sin against us, in which we have acted foolishly and have sinned!
 [12] Do not let her be like a baby born dead, whose flesh is half consumed when it comes out of its mother’s womb!”
+
 [13] Then Moses cried to the **Lord**, “Heal her now, O God.”
 [14] The **Lord** said to Moses, “If her father had only spit in her face, would she not have been disgraced for seven days? Shut her out from the camp seven days, and afterward she can be brought back in again.”
+
 [15] So Miriam was shut outside of the camp for seven days, and the people did not journey on until Miriam was brought back in.
 [16] After that the people moved from Hazeroth and camped in the wilderness of Paran.
 
 ## Chapter 13
-
 
 ### Spies Sent Out
 
 [1] The **Lord** spoke to Moses:
 [2] “Send out men to investigate the land of Canaan, which I am giving to the Israelites. You are to send one man from each ancestral tribe, each one a leader among them.”
 [3] So Moses sent them from the wilderness of Paran at the command of the **Lord**. All of them were leaders of the Israelites.
+
 [4] Now these were their names: from the tribe of Reuben, Shammua son of Zaccur;
 [5] from the tribe of Simeon, Shaphat son of Hori;
 [6] from the tribe of Judah, Caleb son of Jephunneh;
@@ -714,6 +785,7 @@ and give you peace.”’
 [27] They told Moses, “We went to the land where you sent us. It is indeed flowing with milk and honey, and this is its fruit.
 [28] But the inhabitants are strong, and the cities are fortified and very large. Moreover we saw the descendants of Anak there.
 [29] The Amalekites live in the land of the Negev; the Hittites, Jebusites, and Amorites live in the hill country; and the Canaanites live by the sea and along the banks of the Jordan.”
+
 [30] Then Caleb silenced the people before Moses, saying, “Let us go up and occupy it, for we are well able to conquer it.”
 [31] But the men who had gone up with him said, “We are not able to go up against these people, because they are stronger than we are!”
 [32] Then they presented the Israelites with a discouraging report of the land they had investigated, saying, “The land that we passed through to investigate is a land that devours its inhabitants. All the people we saw there are of great stature.
@@ -721,24 +793,26 @@ and give you peace.”’
 
 ## Chapter 14
 
-
 ### The Israelites Respond in Unbelief
 
 [1] Then all the community raised a loud cry, and the people wept that night.
 [2] And all the Israelites murmured against Moses and Aaron, and the whole congregation said to them, “If only we had died in the land of Egypt, or if only we had perished in this wilderness!
 [3] Why has the **Lord** brought us into this land only to be killed by the sword, that our wives and our children should become plunder? Wouldn’t it be better for us to return to Egypt?”
 [4] So they said to one another, “Let’s appoint a leader and return to Egypt.”
+
 [5] Then Moses and Aaron fell down with their faces to the ground before the whole assembled community of the Israelites.
 [6] And Joshua son of Nun and Caleb son of Jephunneh, two of those who had investigated the land, tore their garments.
 [7] They said to the whole community of the Israelites, “The land we passed through to investigate is an exceedingly good land.
 [8] If the **Lord** delights in us, then he will bring us into this land and give it to us—a land that is flowing with milk and honey.
 [9] Only do not rebel against the **Lord**, and do not fear the people of the land, for they are bread for us. Their protection has turned aside from them, but the **Lord** is with us. Do not fear them!”
+
 [10] However, the whole community threatened to stone them. But the glory of the **Lord** appeared to all the Israelites at the tent of meeting.
 
 ### The Punishment from God
 
 [11] The **Lord** said to Moses, “How long will this people despise me, and how long will they not believe in me, in spite of the signs that I have done among them?
 [12] I will strike them with the pestilence, and I will disinherit them—I will make you into a nation that is greater and mightier than they!”
+
 [13] Moses said to the **Lord**, “When the Egyptians hear it—for you brought up this people by your power from among them—
 [14] then they will tell it to the inhabitants of this land. They have heard that you, **Lord**, are among this people, that you, **Lord**, are seen face to face, that your cloud stands over them, and that you go before them by day in a pillar of cloud and in a pillar of fire by night.
 [15] If you kill this entire people at once, then the nations that have heard of your fame will say,
@@ -746,12 +820,14 @@ and give you peace.”’
 [17] So now, let the power of my Lord be great, just as you have said,
 [18] ‘The **Lord** is slow to anger and abounding in loyal love, forgiving iniquity and transgression, but by no means clearing the guilty, visiting the iniquity of the fathers on the children until the third and fourth generations.’
 [19] Please forgive the iniquity of this people according to your great loyal love, just as you have forgiven this people from Egypt even until now.”
+
 [20] Then the **Lord** said, “I have forgiven them as you asked.
 [21] But truly, as I live, all the earth will be filled with the glory of the **Lord**.
 [22] For all the people have seen my glory and my signs that I did in Egypt and in the wilderness, and yet have tempted me now these ten times, and have not obeyed me —
 [23] they will by no means see the land that I promised on oath to their fathers, nor will any of them who despised me see it—
 [24] Only my servant Caleb, because he had a different spirit and has followed me fully—I will bring him into the land where he had gone, and his descendants will possess it.
 [25] (Now the Amalekites and the Canaanites were living in the valleys.) Tomorrow, turn and journey into the wilderness by the way of the Red Sea.”
+
 [26] The **Lord** spoke to Moses and Aaron:
 [27] “How long must I bear with this evil congregation that murmurs against me? I have heard the complaints of the Israelites that they murmured against me.
 [28] Say to them, ‘As I live, says the **Lord**, I will surely do to you just what you have spoken in my hearing.
@@ -762,19 +838,21 @@ and give you peace.”’
 [33] and your children will wander in the wilderness forty years and suffer for your unfaithfulness, until your dead bodies lie finished in the wilderness.
 [34] According to the number of the days you have investigated this land, forty days—one day for a year—you will suffer for your iniquities, forty years, and you will know what it means to thwart me.
 [35] I, the **Lord**, have said, “I will surely do so to all this evil congregation that has gathered together against me. In this wilderness they will be finished, and there they will die!”’”
+
 [36] The men whom Moses sent to investigate the land, who returned and made the whole community murmur against him by producing an evil report about the land,
 [37] those men who produced the evil report about the land, died by the plague before the **Lord**.
 [38] But Joshua son of Nun and Caleb son of Jephunneh, who were among the men who went to investigate the land, lived.
 [39] When Moses told these things to all the Israelites, the people mourned greatly.
+
 [40] And early in the morning they went up to the crest of the hill country, saying, “Here we are, and we will go up to the place that the **Lord** commanded, for we have sinned.”
 [41] But Moses said, “Why are you now transgressing the commandment of the **Lord**? It will not succeed!
 [42] Do not go up, for the **Lord** is not among you, and you will be defeated before your enemies.
 [43] For the Amalekites and the Canaanites are there before you, and you will fall by the sword. Because you have turned away from the **Lord**, the **Lord** will not be with you.”
+
 [44] But they dared to go up to the crest of the hill, although neither the ark of the covenant of the **Lord** nor Moses departed from the camp.
 [45] So the Amalekites and the Canaanites who lived in that hill country swooped down and attacked them as far as Hormah.
 
 ## Chapter 15
-
 
 ### Sacrificial Rulings
 
@@ -790,6 +868,7 @@ and give you peace.”’
 [10] and you must present as the drink offering half a hin of wine with the fire offering as a pleasing aroma to the **Lord**.
 [11] This is what is to be done for each ox, or each ram, or each of the male lambs or the goats.
 [12] You must do so for each one according to the number that you prepare.
+
 [13] “‘Every native-born person must do these things in this way to present an offering made by fire as a pleasing aroma to the **Lord**.
 [14] If a resident foreigner is living with you—or whoever is among you in future generations —and prepares an offering made by fire as a pleasing aroma to the **Lord**, he must do it the same way you are to do it.
 [15] One statute must apply to you who belong to the congregation and to the resident foreigner who is living among you, as a permanent statute for your future generations. You and the resident foreigner will be alike before the **Lord**.
@@ -810,6 +889,7 @@ and give you peace.”’
 [24] then if anything is done unintentionally without the knowledge of the community, the whole community must prepare one young bull for a burnt offering—for a pleasing aroma to the **Lord**—along with its grain offering and its customary drink offering, and one male goat for a purification offering.
 [25] And the priest is to make atonement for the whole community of the Israelites, and they will be forgiven, because it was unintentional and they have brought their offering, an offering made by fire to the **Lord**, and their purification offering before the **Lord**, for their unintentional offense.
 [26] And the whole community of the Israelites and the resident foreigner who lives among them will be forgiven, since all the people were involved in the unintentional offense.
+
 [27] “‘If any person sins unintentionally, then he must bring a yearling female goat for a purification offering.
 [28] And the priest must make atonement for the person who sins unintentionally—when he sins unintentionally before the **Lord**—to make atonement for him, and he will be forgiven.
 [29] You must have one law for the person who sins unintentionally, both for the native-born among the Israelites and for the resident foreigner who lives among them.
@@ -818,6 +898,7 @@ and give you peace.”’
 
 [30] “‘But the person who acts defiantly, whether native-born or a resident foreigner, insults the **Lord**. That person must be cut off from among his people.
 [31] Because he has despised the **Lord**’s message and has broken his commandment, that person must be completely cut off. His iniquity will be on him.’”
+
 [32] When the Israelites were in the wilderness they found a man gathering wood on the Sabbath day.
 [33] Those who found him gathering wood brought him to Moses and Aaron and to the whole community.
 [34] They put him in custody, because there was no clear instruction about what should be done to him.
@@ -834,12 +915,12 @@ and give you peace.”’
 
 ## Chapter 16
 
-
 ### The Rebellion of Korah
 
 [1] Now Korah son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On son of Peleth, who were Reubenites, took men
 [2] and rebelled against Moses, along with some of the Israelites, 250 leaders of the community, chosen from the assembly, famous men.
 [3] And they assembled against Moses and Aaron, saying to them, “You take too much upon yourselves, seeing that the whole community is holy, every one of them, and the **Lord** is among them. Why then do you exalt yourselves above the community of the **Lord**?”
+
 [4] When Moses heard it he fell down with his face to the ground.
 [5] Then he said to Korah and to all his company, “In the morning the **Lord** will make known who are his, and who is holy. He will cause that person to approach him; the person he has chosen he will cause to approach him.
 [6] Do this, Korah, you and all your company: Take censers,
@@ -851,7 +932,9 @@ and give you peace.”’
 [12] Then Moses summoned Dathan and Abiram, the sons of Eliab, but they said, “We will not come up.
 [13] Is it a small thing that you have brought us up out of the land that flows with milk and honey, to kill us in the wilderness? Now do you want to make yourself a prince over us?
 [14] Moreover, you have not brought us into a land that flows with milk and honey, nor given us an inheritance of fields and vineyards. Do you think you can blind these men? We will not come up.”
+
 [15] Moses was very angry, and he said to the **Lord**, “Have no respect for their offering! I have not taken so much as one donkey from them, nor have I harmed any one of them!”
+
 [16] Then Moses said to Korah, “You and all your company present yourselves before the **Lord**—you and they, and Aaron—tomorrow.
 [17] And each of you take his censer, put incense in it, and then each of you present his censer before the **Lord**: 250 censers, along with you, and Aaron—each of you with his censer.”
 [18] So everyone took his censer, put fire in it, and set incense on it, and stood at the entrance of the tent of meeting, with Moses and Aaron.
@@ -862,6 +945,7 @@ and give you peace.”’
 [20] The **Lord** spoke to Moses and Aaron:
 [21] “Separate yourselves from among this community, that I may consume them in an instant.”
 [22] Then they threw themselves down with their faces to the ground and said, “O God, the God of the spirits of all people, will you be angry with the whole community when only one man sins?”
+
 [23] So the **Lord** spoke to Moses:
 [24] “Tell the community: ‘Get away from around the homes of Korah, Dathan, and Abiram.’”
 [25] Then Moses got up and went to Dathan and Abiram; and the elders of Israel went after him.
@@ -870,6 +954,7 @@ and give you peace.”’
 [28] Then Moses said, “This is how you will know that the **Lord** has sent me to do all these works, for I have not done them of my own will.
 [29] If these men die a natural death, or if they share the fate of all men, then the **Lord** has not sent me.
 [30] But if the **Lord** does something entirely new, and the earth opens its mouth and swallows them up along with all that they have, and they go down alive to the grave, then you will know that these men have despised the **Lord**!”
+
 [31] When he had finished speaking all these words, the ground that was under them split open,
 [32] and the earth opened its mouth and swallowed them, along with their households, and all Korah’s men, and all their goods.
 [33] They and all that they had went down alive into the pit, and the earth closed over them. So they perished from among the community.
@@ -878,7 +963,7 @@ and give you peace.”’
 
 ### The Atonement for the Rebellion
 
-[36] (
+[36] (17:1) The **Lord** spoke to Moses:
 [37] “Tell Eleazar son of Aaron the priest to pick up the censers out of the flame, for they are holy, and then scatter the coals of fire at a distance.
 [38] As for the censers of these men who sinned at the cost of their lives, they must be made into hammered sheets for covering the altar, because they presented them before the **Lord** and sanctified them. They will become a sign to the Israelites.”
 [39] So Eleazar the priest took the bronze censers presented by those who had been burned up, and they were hammered out as a covering for the altar.
@@ -886,6 +971,7 @@ and give you peace.”’
 [41] But on the next day the whole community of Israelites murmured against Moses and Aaron, saying, “You have killed the **Lord**’s people!”
 [42] When the community assembled against Moses and Aaron, they turned toward the tent of meeting—and the cloud covered it, and the glory of the **Lord** appeared.
 [43] Then Moses and Aaron stood before the tent of meeting.
+
 [44] The **Lord** spoke to Moses:
 [45] “Get away from this community, so that I can consume them in an instant!” But they threw themselves down with their faces to the ground.
 [46] Then Moses said to Aaron, “Take the censer, put burning coals from the altar in it, place incense on it, and go quickly into the assembly and make atonement for them, for wrath has gone out from the **Lord**—the plague has begun!”
@@ -896,7 +982,6 @@ and give you peace.”’
 
 ## Chapter 17
 
-
 ### The Budding of Aaron’s Staff
 
 [1] The **Lord** spoke to Moses:
@@ -904,8 +989,10 @@ and give you peace.”’
 [3] You must write Aaron’s name on the staff of Levi; for one staff is for the head of every tribe.
 [4] You must place them in the tent of meeting before the ark of the covenant where I meet with you.
 [5] And the staff of the man whom I choose will blossom; so I will rid myself of the complaints of the Israelites, which they murmur against you.”
+
 [6] So Moses spoke to the Israelites, and each of their leaders gave him a staff, one for each leader, according to their tribes —twelve staffs; the staff of Aaron was among their staffs.
 [7] Then Moses placed the staffs before the **Lord** in the tent of the testimony.
+
 [8] On the next day Moses went into the tent of the testimony—and the staff of Aaron for the house of Levi had sprouted, and brought forth buds, and produced blossoms, and yielded almonds!
 [9] So Moses brought out all the staffs from before the **Lord** to all the Israelites. They looked at them, and each man took his staff.
 
@@ -913,15 +1000,16 @@ and give you peace.”’
 
 [10] The **Lord** said to Moses, “Bring Aaron’s staff back before the testimony to be preserved for a sign to the rebels, so that you may bring their murmurings to an end before me, that they will not die.”
 [11] So Moses did as the **Lord** commanded him—this is what he did.
+
 [12] The Israelites said to Moses, “We are bound to die! We perish, we all perish!
-[13] (
+[13] (17:28) Anyone who even comes close to the tabernacle of the **Lord** will die! Are we all to die?”
 
 ## Chapter 18
-
 
 ### Responsibilities of the Priests
 
 [1] The **Lord** said to Aaron, “You and your sons and your tribe with you must bear the iniquity of the sanctuary, and you and your sons with you must bear the iniquity of your priesthood.
+
 [2] “Bring with you your brothers, the tribe of Levi, the tribe of your father, so that they may join with you and minister to you while you and your sons with you are before the tent of the testimony.
 [3] They must be responsible to care for you and to care for the entire tabernacle. However, they must not come near the furnishings of the sanctuary and the altar, or both they and you will die.
 [4] They must join with you, and they will be responsible for the care of the tent of meeting, for all the service of the tent, but no unauthorized person may approach you.
@@ -934,9 +1022,12 @@ and give you peace.”’
 [8] The **Lord** spoke to Aaron, “See, I have given you the responsibility for my raised offerings; I have given all the holy things of the Israelites to you as your priestly portion and to your sons as a perpetual ordinance.
 [9] Of all the most holy offerings reserved from the fire this will be yours: Every offering of theirs, whether from every grain offering or from every purification offering or from every reparation offering which they bring to me, will be most holy for you and for your sons.
 [10] You are to eat it as a most holy offering; every male may eat it. It will be holy to you.
+
 [11] “And this is yours: the raised offering of their gift, along with all the wave offerings of the Israelites. I have given them to you and to your sons and daughters with you as a perpetual ordinance. Everyone who is ceremonially clean in your household may eat of it.
+
 [12] “All the best of the olive oil and all the best of the wine and of the wheat, the firstfruits of these things that they give to the **Lord**, I have given to you.
 [13] And whatever first ripe fruit in their land they bring to the **Lord** will be yours; everyone who is ceremonially clean in your household may eat of it.
+
 [14] “Everything devoted in Israel will be yours.
 [15] The firstborn of every womb which they present to the **Lord**, whether human or animal, will be yours. Nevertheless, the firstborn sons you must redeem, and the firstborn males of unclean animals you must redeem.
 [16] And those that must be redeemed you are to redeem when they are a month old, according to your estimation, for five shekels of silver according to the sanctuary shekel (which is twenty gerahs).
@@ -959,12 +1050,12 @@ and give you peace.”’
 [27] And your raised offering will be credited to you as though it were grain from the threshing floor or as new wine from the winepress.
 [28] Thus you are to offer up a raised offering to the **Lord** of all your tithes that you receive from the Israelites; and you must give the **Lord**’s raised offering from it to Aaron the priest.
 [29] From all your gifts you must offer up every raised offering due the **Lord**, from all the best of it, and the holiest part of it.’
+
 [30] “Therefore you will say to them, ‘When you offer up the best of it, then it will be credited to the Levites as the product of the threshing floor and as the product of the winepress.
 [31] And you may eat it in any place, you and your household, because it is your wages for your service in the tent of meeting.
 [32] And you will bear no sin concerning it when you offer up the best of it. And you must not profane the holy things of the Israelites, or else you will die.’”
 
 ## Chapter 19
-
 
 ### The Red Heifer Ritual
 
@@ -976,6 +1067,7 @@ and give you peace.”’
 [6] And the priest must take cedar wood, hyssop, and scarlet wool and throw them into the midst of the fire where the heifer is burning.
 [7] Then the priest must wash his clothes and bathe himself in water, and afterward he may come into the camp, but the priest will be ceremonially unclean until evening.
 [8] The one who burns it must wash his clothes in water and bathe himself in water. He will be ceremonially unclean until evening.
+
 [9] “‘Then a man who is ceremonially clean must gather up the ashes of the red heifer and put them in a ceremonially clean place outside the camp. They must be kept for the community of the Israelites for use in the water of purification —it is a purification for sin.
 [10] The one who gathers the ashes of the heifer must wash his clothes and be ceremonially unclean until evening. This will be a permanent ordinance both for the Israelites and the resident foreigner who lives among them.
 
@@ -984,22 +1076,25 @@ and give you peace.”’
 [11] “‘Whoever touches the corpse of any person will be ceremonially unclean seven days.
 [12] He must purify himself with water on the third day and on the seventh day, and so will be clean. But if he does not purify himself on the third day and the seventh day, then he will not be clean.
 [13] Anyone who touches the corpse of any dead person and does not purify himself defiles the tabernacle of the **Lord**. And that person must be cut off from Israel, because the water of purification was not sprinkled on him. He will be unclean; his uncleanness remains on him.
+
 [14] “‘This is the law: When a man dies in a tent, anyone who comes into the tent and all who are in the tent will be ceremonially unclean seven days.
 [15] And every open container that has no covering fastened on it is unclean.
 [16] And whoever touches the body of someone killed with a sword in the open fields, or the body of someone who died of natural causes, or a human bone, or a grave, will be unclean seven days.
+
 [17] “‘For a ceremonially unclean person you must take some of the ashes of the heifer burnt for purification from sin and pour fresh running water over them in a vessel.
 [18] Then a ceremonially clean person must take hyssop, dip it in the water, and sprinkle it on the tent, on all its furnishings, and on the people who were there, or on the one who touched a bone, or one who was killed, or one who died, or a grave.
 [19] And the clean person must sprinkle the unclean on the third day and on the seventh day; and on the seventh day he must purify him, and then he must wash his clothes, and bathe in water, and he will be clean in the evening.
 [20] But the man who is unclean and does not purify himself, that person must be cut off from among the community, because he has polluted the sanctuary of the **Lord**; the water of purification was not sprinkled on him, so he is unclean.
+
 [21] “‘So this will be a perpetual ordinance for them: The one who sprinkles the water of purification must wash his clothes, and the one who touches the water of purification will be unclean until evening.
 [22] And whatever the unclean person touches will be unclean, and the person who touches it will be unclean until evening.’”
 
 ## Chapter 20
 
-
 ### The Israelites Complain Again
 
 [1] Then the entire community of Israel entered the wilderness of Zin in the first month, and the people stayed in Kadesh. Miriam died and was buried there.
+
 [2] And there was no water for the community, and so they gathered themselves together against Moses and Aaron.
 [3] The people contended with Moses, saying, “If only we had died when our brothers died before the **Lord**!
 [4] Why have you brought up the **Lord**’s community into this wilderness? So that we and our cattle should die here?
@@ -1010,6 +1105,7 @@ and give you peace.”’
 [6] So Moses and Aaron went from the presence of the assembly to the entrance to the tent of meeting. They then threw themselves down with their faces to the ground, and the glory of the **Lord** appeared to them.
 [7] Then the **Lord** spoke to Moses:
 [8] “Take the staff and assemble the community, you and Aaron your brother, and then speak to the rock before their eyes. It will pour forth its water, and you will bring water out of the rock for them, and so you will give the community and their beasts water to drink.”
+
 [9] So Moses took the staff from before the **Lord**, just as he commanded him.
 [10] Then Moses and Aaron gathered the community together in front of the rock, and he said to them, “Listen, you rebels, must we bring water out of this rock for you?”
 [11] Then Moses raised his hand, and struck the rock twice with his staff. And water came out abundantly. So the community drank, and their beasts drank too.
@@ -1017,6 +1113,7 @@ and give you peace.”’
 ### The Lord’s Judgment
 
 [12] Then the **Lord** spoke to Moses and Aaron, “Because you did not trust me enough to show me as holy before the Israelites, therefore you will not bring this community into the land I have given them.”
+
 [13] These are the waters of Meribah, because the Israelites contended with the **Lord**, and his holiness was maintained among them.
 
 ### Rejection by the Edomites
@@ -1025,8 +1122,10 @@ and give you peace.”’
 [15] how our ancestors went down into Egypt, and we lived in Egypt a long time, and the Egyptians treated us and our ancestors badly.
 [16] So when we cried to the **Lord**, he heard our voice and sent a messenger, and has brought us up out of Egypt. Now we are here in Kadesh, a town on the edge of your country.
 [17] Please let us pass through your country. We will not pass through the fields or through the vineyards, nor will we drink water from any well. We will go by the King’s Highway; we will not turn to the right or the left until we have passed through your region.’”
+
 [18] But Edom said to him, “You will not pass through me, or I will come out against you with the sword.”
 [19] Then the Israelites said to him, “We will go along the highway, and if we or our cattle drink any of your water, we will pay for it. We will only pass through on our feet, without doing anything else.”
+
 [20] But he said, “You may not pass through.” Then Edom came out against them with a large and powerful force.
 [21] So Edom refused to give Israel passage through his border; therefore Israel turned away from him.
 
@@ -1037,16 +1136,17 @@ and give you peace.”’
 [24] “Aaron will be gathered to his ancestors, for he will not enter into the land I have given to the Israelites because both of you rebelled against my word at the waters of Meribah.
 [25] Take Aaron and Eleazar his son, and bring them up on Mount Hor.
 [26] Remove Aaron’s priestly garments and put them on Eleazar his son, and Aaron will be gathered to his ancestors and will die there.”
+
 [27] So Moses did as the **Lord** commanded; and they went up Mount Hor in the sight of the whole community.
 [28] And Moses removed Aaron’s garments and put them on his son Eleazar. So Aaron died there on the top of the mountain. And Moses and Eleazar came down from the mountain.
 [29] When all the community saw that Aaron was dead, the whole house of Israel mourned for Aaron thirty days.
 
 ## Chapter 21
 
-
 ### Victory at Hormah
 
 [1] When the Canaanite king of Arad who lived in the Negev heard that Israel was approaching along the road to Atharim, he fought against Israel and took some of them prisoner.
+
 [2] So Israel made a vow to the **Lord** and said, “If you will indeed deliver this people into our hand, then we will utterly destroy their cities.”
 [3] The **Lord** listened to the voice of Israel and delivered up the Canaanites, and they utterly destroyed them and their cities. So the name of the place was called Hormah.
 
@@ -1054,8 +1154,10 @@ and give you peace.”’
 
 [4] Then they traveled from Mount Hor by the road to the Red Sea, to go around the land of Edom, but the people became impatient along the way.
 [5] And the people spoke against God and against Moses, “Why have you brought us up from Egypt to die in the wilderness, for there is no bread or water, and we detest this worthless food.”
+
 [6] So the **Lord** sent venomous snakes among the people, and they bit the people; many people of Israel died.
 [7] Then the people came to Moses and said, “We have sinned, for we have spoken against the **Lord** and against you. Pray to the **Lord** that he would take away the snakes from us.” So Moses prayed for the people.
+
 [8] The **Lord** said to Moses, “Make a poisonous snake and set it on a pole. When anyone who is bitten looks at it, he will live.”
 [9] So Moses made a bronze snake and put it on a pole, so that if a snake had bitten someone, when he looked at the bronze snake he lived.
 
@@ -1066,65 +1168,74 @@ and give you peace.”’
 [12] From there they moved on and camped in the valley of Zered.
 [13] From there they moved on and camped on the other side of the Arnon, in the wilderness that extends from the regions of the Amorites, for Arnon is the border of Moab, between Moab and the Amorites.
 [14] This is why it is said in the Book of the Wars of the **Lord**,
-“Waheb in Suphah and the wadis,
-[15] the Arnon and the slope of the valleys
-that extends to the dwelling of Ar,
-and falls off at the border of Moab.”
+
+“Waheb in Suphah and the wadis,<br>
+the Arnon<br>
+[15] and the slope of the valleys<br>
+that extends to the dwelling of Ar,<br>
+and falls off at the border of Moab.”<br>
 [16] And from there they traveled to Beer; that is the well where the **Lord** spoke to Moses, “Gather the people and I will give them water.”
 [17] Then Israel sang this song:
-“Spring up, O well, sing to it!
-[18] The well which the princes dug,
-which the leaders of the people opened
-with their scepters and their staffs.”
+
+“Spring up, O well, sing to it!<br>
+[18] The well which the princes dug,<br>
+which the leaders of the people opened<br>
+with their scepters and their staffs.”<br>
+And from the wilderness they traveled to Mattanah;
 [19] and from Mattanah to Nahaliel; and from Nahaliel to Bamoth;
 [20] and from Bamoth to the valley that is in the country of Moab, near the top of Pisgah, which overlooks the wastelands.
 
 ### The Victory over Sihon and Og
 
 [21] Then Israel sent messengers to King Sihon of the Amorites, saying,
+
 [22] “Let us pass through your land; we will not turn aside into the fields or into the vineyards, nor will we drink water from any well, but we will go along the King’s Highway until we pass your borders.”
 [23] But Sihon did not permit Israel to pass through his border; he gathered all his forces together and went out against Israel into the wilderness. When he came to Jahaz, he fought against Israel.
 [24] But the Israelites defeated him in battle and took possession of his land from the Arnon to the Jabbok, as far as the Ammonites, for the border of the Ammonites was strongly defended.
 [25] So Israel took all these cities; and Israel settled in all the cities of the Amorites, in Heshbon, and in all its villages.
 [26] For Heshbon was the city of King Sihon of the Amorites. Now he had fought against the former king of Moab and had taken all his land from his control, as far as the Arnon.
 [27] That is why those who speak in proverbs say,
-“Come to Heshbon, let it be built.
-Let the city of Sihon be established!
-[28] For fire went out from Heshbon,
-a flame from the city of Sihon.
-It has consumed Ar of Moab
-and the lords of the high places of Arnon.
-[29] Woe to you, Moab.
-You are ruined, O people of Chemosh!
-He has made his sons fugitives,
-and his daughters the prisoners of King Sihon of the Amorites.
-[30] We have overpowered them;
-Heshbon has perished as far as Dibon.
-We have shattered them as far as Nophah,
-which reaches to Medeba.”
+
+“Come to Heshbon, let it be built.<br>
+Let the city of Sihon be established!<br>
+[28] For fire went out from Heshbon,<br>
+a flame from the city of Sihon.<br>
+It has consumed Ar of Moab<br>
+and the lords of the high places of Arnon.<br>
+[29] Woe to you, Moab.<br>
+You are ruined, O people of Chemosh!<br>
+He has made his sons fugitives,<br>
+and his daughters the prisoners of King Sihon of the Amorites.<br>
+[30] We have overpowered them;<br>
+Heshbon has perished as far as Dibon.<br>
+We have shattered them as far as Nophah,<br>
+which reaches to Medeba.”<br>
 [31] So the Israelites lived in the land of the Amorites.
 [32] Moses sent spies to reconnoiter Jazer, and they captured its villages and dispossessed the Amorites who were there.
+
 [33] Then they turned and went up by the road to Bashan. And King Og of Bashan and all his forces marched out against them to do battle at Edrei.
 [34] And the **Lord** said to Moses, “Do not fear him, for I have delivered him and all his people and his land into your hand. You will do to him what you did to King Sihon of the Amorites, who lived in Heshbon.”
 [35] So they defeated Og, his sons, and all his people, until there were no survivors, and they possessed his land.
 
 ## Chapter 22
 
-
 ### Balaam Refuses to Curse Israel
 
 [1] The Israelites traveled on and camped in the rift valley plains of Moab on the side of the Jordan River across from Jericho.
 [2] Balak son of Zippor saw all that the Israelites had done to the Amorites.
 [3] And the Moabites were greatly afraid of the people, because they were so numerous. The Moabites were sick with fear because of the Israelites.
+
 [4] So the Moabites said to the elders of Midian, “Now this mass of people will lick up everything around us, as the bull devours the grass of the field.” Now Balak son of Zippor was king of the Moabites at this time.
 [5] And he sent messengers to Balaam son of Beor at Pethor, which is by the Euphrates River in the land of Amaw, to summon him, saying, “Look, a nation has come out of Egypt. They cover the face of the earth, and they are settling next to me.
 [6] So now, please come and curse this nation for me, for they are too powerful for me. Perhaps I will prevail so that we may conquer them and drive them out of the land. For I know that whoever you bless is blessed, and whoever you curse is cursed.”
+
 [7] So the elders of Moab and the elders of Midian departed with the fee for divination in their hands. They came to Balaam and reported to him the words of Balak.
 [8] He replied to them, “Stay here tonight, and I will bring back to you whatever word the **Lord** may speak to me.” So the princes of Moab stayed with Balaam.
 [9] And God came to Balaam and said, “Who are these men with you?”
 [10] Balaam said to God, “Balak son of Zippor, king of Moab, has sent a message to me, saying,
 [11] ‘Look, a nation has come out of Egypt, and it covers the face of the earth. Come now and put a curse on them for me; perhaps I will be able to defeat them and drive them out.’”
 [12] But God said to Balaam, “You must not go with them; you must not curse the people, for they are blessed.”
+
 [13] So Balaam got up in the morning, and said to the princes of Balak, “Go to your land, for the **Lord** has refused to permit me to go with you.”
 [14] So the princes of Moab departed and went back to Balak and said, “Balaam refused to come with us.”
 
@@ -1133,6 +1244,7 @@ which reaches to Medeba.”
 [15] Balak again sent princes, more numerous and more distinguished than the first.
 [16] And they came to Balaam and said to him, “Thus says Balak son of Zippor: ‘Please do not let anything hinder you from coming to me.
 [17] For I will honor you greatly, and whatever you tell me I will do. So come, put a curse on this nation for me.’”
+
 [18] Balaam replied to the servants of Balak, “Even if Balak would give me his palace full of silver and gold, I could not transgress the commandment of the **Lord** my God to do less or more.
 [19] Now therefore, please stay the night here also, that I may know what more the **Lord** might say to me.”
 [20] God came to Balaam that night, and said to him, “If the men have come to call you, get up and go with them, but the word that I will say to you, that you must do.”
@@ -1142,10 +1254,13 @@ which reaches to Medeba.”
 
 [22] Then God’s anger was kindled because he went, and the angel of the **Lord** stood in the road to oppose him. Now he was riding on his donkey and his two servants were with him.
 [23] And the donkey saw the angel of the **Lord** standing in the road with his sword drawn in his hand, so the donkey turned aside from the road and went into the field. But Balaam beat the donkey, to make her turn back to the road.
+
 [24] Then the angel of the **Lord** stood in a path among the vineyards, where there was a wall on either side.
 [25] And when the donkey saw the angel of the **Lord**, she pressed herself into the wall, and crushed Balaam’s foot against the wall. So he beat her again.
+
 [26] Then the angel of the **Lord** went farther, and stood in a narrow place, where there was no way to turn either to the right or to the left.
 [27] When the donkey saw the angel of the **Lord**, she crouched down under Balaam. Then Balaam was angry, and he beat his donkey with a staff.
+
 [28] Then the **Lord** opened the mouth of the donkey, and she said to Balaam, “What have I done to you that you have beaten me these three times?”
 [29] And Balaam said to the donkey, “You have made me look stupid; I wish there were a sword in my hand, for I would kill you right now.”
 [30] The donkey said to Balaam, “Am I not your donkey that you have ridden ever since I was yours until this day? Have I ever attempted to treat you this way?” And he said, “No.”
@@ -1166,36 +1281,38 @@ which reaches to Medeba.”
 
 ## Chapter 23
 
-
 ### Balaam Blesses Israel
 
 [1] Balaam said to Balak, “Build me seven altars here, and prepare for me here seven bulls and seven rams.”
 [2] So Balak did just as Balaam had said. Balak and Balaam then offered on each altar a bull and a ram.
 [3] Balaam said to Balak, “Station yourself by your burnt offering, and I will go off; perhaps the **Lord** will come to meet me, and whatever he reveals to me I will tell you.” Then he went to a deserted height.
+
 [4] Then God met Balaam, who said to him, “I have prepared seven altars, and I have offered on each altar a bull and a ram.”
 [5] Then the **Lord** put a message in Balaam’s mouth and said, “Return to Balak, and speak what I tell you.”
+
 [6] So he returned to him, and he was still standing by his burnt offering, he and all the princes of Moab.
 [7] Then Balaam uttered his oracle, saying,
-“Balak, the king of Moab, brought me from Aram,
-out of the mountains of the east, saying,
-‘Come, pronounce a curse on Jacob for me;
-come, denounce Israel.’
-[8] How can I curse one whom God has not cursed,
-or how can I denounce one whom the Lord has not denounced?
-[9] For from the top of the rocks I see them;
-from the hills I watch them.
-Indeed, a nation that lives alone,
-and it will not be reckoned among the nations.
-[10] Who can count the dust of Jacob,
-or number the fourth part of Israel?
-Let me die the death of the upright,
-and let the end of my life be like theirs.”
 
+“Balak, the king of Moab, brought me from Aram,<br>
+out of the mountains of the east, saying,<br>
+‘Come, pronounce a curse on Jacob for me;<br>
+come, denounce Israel.’<br>
+[8] How can I curse one whom God has not cursed,<br>
+or how can I denounce one whom the **Lord** has not denounced?<br>
+[9] For from the top of the rocks I see them;<br>
+from the hills I watch them.<br>
+Indeed, a nation that lives alone,<br>
+and it will not be reckoned among the nations.<br>
+[10] Who can count the dust of Jacob,<br>
+or number the fourth part of Israel?<br>
+Let me die the death of the upright,<br>
+and let the end of my life be like theirs.”<br>
 ### Balaam Relocates
 
 [11] Then Balak said to Balaam, “What have you done to me? I brought you to curse my enemies, but on the contrary you have only blessed them!”
 [12] Balaam replied, “Must I not be careful to speak what the **Lord** has put in my mouth?”
 [13] Balak said to him, “Please come with me to another place from which you can observe them. You will see only a part of them, but you will not see all of them. Curse them for me from there.”
+
 [14] So Balak brought Balaam to the field of Zophim, to the top of Pisgah, where he built seven altars and offered a bull and a ram on each altar.
 [15] And Balaam said to Balak, “Station yourself here by your burnt offering, while I meet the **Lord** there.”
 [16] Then the **Lord** met Balaam and put a message in his mouth and said, “Return to Balak, and speak what I tell you.”
@@ -1204,33 +1321,34 @@ and let the end of my life be like theirs.”
 ### Balaam Prophesies Again
 
 [18] Balaam uttered his oracle, and said,
-“Rise up, Balak, and hear;
-Listen to me, son of Zippor:
-[19] God is not a man, that he should lie,
-nor a human being, that he should change his mind.
-Has he said, and will he not do it?
-Or has he spoken, and will he not make it happen?
-[20] Indeed, I have received a command to bless;
-he has blessed, and I cannot reverse it.
-[21] He has not looked on iniquity in Jacob,
-nor has he seen trouble in Israel.
-The Lord their God is with them;
-his acclamation as king is among them.
-[22] God brought them out of Egypt.
-They have, as it were, the strength of a wild bull.
-[23] For there is no spell against Jacob,
-nor is there any divination against Israel.
-At this time it must be said of Jacob
-and of Israel, ‘Look at what God has done!’
-[24] Indeed, the people will rise up like a lioness,
-and like a lion raises himself up;
-they will not lie down until they eat their prey,
-and drink the blood of the slain.”
 
+“Rise up, Balak, and hear;<br>
+Listen to me, son of Zippor:<br>
+[19] God is not a man, that he should lie,<br>
+nor a human being, that he should change his mind.<br>
+Has he said, and will he not do it?<br>
+Or has he spoken, and will he not make it happen?<br>
+[20] Indeed, I have received a command to bless;<br>
+he has blessed, and I cannot reverse it.<br>
+[21] He has not looked on iniquity in Jacob,<br>
+nor has he seen trouble in Israel.<br>
+The **Lord** their God is with them;<br>
+his acclamation as king is among them.<br>
+[22] God brought them out of Egypt.<br>
+They have, as it were, the strength of a wild bull.<br>
+[23] For there is no spell against Jacob,<br>
+nor is there any divination against Israel.<br>
+At this time it must be said of Jacob<br>
+and of Israel, ‘Look at what God has done!’<br>
+[24] Indeed, the people will rise up like a lioness,<br>
+and like a lion raises himself up;<br>
+they will not lie down until they eat their prey,<br>
+and drink the blood of the slain.”<br>
 ### Balaam Relocates Yet Again
 
 [25] Balak said to Balaam, “Neither curse them at all nor bless them at all!”
 [26] But Balaam replied to Balak, “Did I not tell you, ‘All that the **Lord** speaks, I must do’?”
+
 [27] Balak said to Balaam, “Come, please; I will take you to another place. Perhaps it will please God to let you curse them for me from there.”
 [28] So Balak took Balaam to the top of Peor, that looks toward the wastelands.
 [29] Then Balaam said to Balak, “Build seven altars here for me, and prepare seven bulls and seven rams.”
@@ -1238,38 +1356,39 @@ and drink the blood of the slain.”
 
 ## Chapter 24
 
-
 ### Balaam Prophesies Yet Again
 
 [1] When Balaam saw that it pleased the **Lord** to bless Israel, he did not go as at the other times to seek for omens, but he set his face toward the wilderness.
 [2] When Balaam lifted up his eyes, he saw Israel camped tribe by tribe; and the Spirit of God came upon him.
 [3] Then he uttered this oracle:
-“The oracle of Balaam son of Beor,
-the oracle of the man whose eyes are open,
-[4] the oracle of the one who hears the words of God,
-who sees a vision from the Almighty,
-although falling flat on the ground with eyes open:
-[5] ‘How beautiful are your tents, O Jacob,
-and your dwelling places, O Israel!
-[6] They are like valleys stretched forth,
-like gardens by the river’s side,
-like aloes that the Lord has planted,
-and like cedar trees beside the waters.
-[7] He will pour the water out of his buckets,
-and their descendants will be like abundant water;
-their king will be greater than Agag,
-and their kingdom will be exalted.
-[8] God brought them out of Egypt.
-They have, as it were, the strength of a young bull;
-they will devour hostile people,
-and will break their bones,
-and will pierce them through with arrows.
-[9] They crouch and lie down like a lion,
-and as a lioness, who can stir him?
-Blessed is the one who blesses you,
-and cursed is the one who curses you!’”
+
+“The oracle of Balaam son of Beor,<br>
+the oracle of the man whose eyes are open,<br>
+[4] the oracle of the one who hears the words of God,<br>
+who sees a vision from the Almighty,<br>
+although falling flat on the ground with eyes open:<br>
+[5] ‘How beautiful are your tents, O Jacob,<br>
+and your dwelling places, O Israel!<br>
+[6] They are like valleys stretched forth,<br>
+like gardens by the river’s side,<br>
+like aloes that the **Lord** has planted,<br>
+and like cedar trees beside the waters.<br>
+[7] He will pour the water out of his buckets,<br>
+and their descendants will be like abundant water;<br>
+their king will be greater than Agag,<br>
+and their kingdom will be exalted.<br>
+[8] God brought them out of Egypt.<br>
+They have, as it were, the strength of a young bull;<br>
+they will devour hostile people,<br>
+and will break their bones,<br>
+and will pierce them through with arrows.<br>
+[9] They crouch and lie down like a lion,<br>
+and as a lioness, who can stir him?<br>
+Blessed is the one who blesses you,<br>
+and cursed is the one who curses you!’”<br>
 [10] Then Balak became very angry at Balaam, and he struck his hands together. Balak said to Balaam, “I called you to curse my enemies, and look, you have done nothing but bless them these three times!
 [11] So now, go back where you came from! I said that I would greatly honor you, but now the **Lord** has stood in the way of your honor.”
+
 [12] Balaam said to Balak, “Did I not also tell your messengers whom you sent to me,
 [13] ‘If Balak would give me his palace full of silver and gold, I cannot go beyond the commandment of the **Lord** to do either good or evil of my own will, but whatever the **Lord** tells me I must speak’?
 [14] And now, I am about to go back to my own people. Come now, and I will advise you as to what this people will do to your people in future days.”
@@ -1277,43 +1396,45 @@ and cursed is the one who curses you!’”
 ### Balaam Prophesies a Fourth Time
 
 [15] Then he uttered this oracle:
-“The oracle of Balaam son of Beor,
-the oracle of the man whose eyes are open,
-[16] the oracle of the one who hears the words of God,
-and who knows the knowledge of the Most High,
-who sees a vision from the Almighty,
-although falling flat on the ground with eyes open:
-[17] ‘I see him, but not now;
-I behold him, but not close at hand.
-A star will march forth out of Jacob,
-and a scepter will rise out of Israel.
-He will crush the skulls of Moab,
-and the heads of all the sons of Sheth.
-[18] Edom will be a possession,
-Seir, his enemy, will also be a possession;
-but Israel will act valiantly.
-[19] A ruler will be established from Jacob;
-he will destroy the remains of the city.’”
 
+“The oracle of Balaam son of Beor,<br>
+the oracle of the man whose eyes are open,<br>
+[16] the oracle of the one who hears the words of God,<br>
+and who knows the knowledge of the Most High,<br>
+who sees a vision from the Almighty,<br>
+although falling flat on the ground with eyes open:<br>
+[17] ‘I see him, but not now;<br>
+I behold him, but not close at hand.<br>
+A star will march forth out of Jacob,<br>
+and a scepter will rise out of Israel.<br>
+He will crush the skulls of Moab,<br>
+and the heads of all the sons of Sheth.<br>
+[18] Edom will be a possession,<br>
+Seir, his enemy, will also be a possession;<br>
+but Israel will act valiantly.<br>
+[19] A ruler will be established from Jacob;<br>
+he will destroy the remains of the city.’”<br>
 ### Balaam’s Final Prophecies
 
 [20] Then Balaam looked on Amalek and delivered this oracle:
-“Amalek was the first of the nations,
-but his end will be that he will perish.”
+
+“Amalek was the first of the nations,<br>
+but his end will be that he will perish.”<br>
 [21] Then he looked on the Kenites and uttered this oracle:
-“Your dwelling place seems strong,
-and your nest is set on a rocky cliff.
-[22] Nevertheless the Kenite will be consumed.
-How long will Asshur take you away captive?”
+
+“Your dwelling place seems strong,<br>
+and your nest is set on a rocky cliff.<br>
+[22] Nevertheless the Kenite will be consumed.<br>
+How long will Asshur take you away captive?”<br>
 [23] Then he uttered this oracle:
-“O, who will survive when God does this!
-[24] Ships will come from the coast of Kittim,
-and will afflict Asshur, and will afflict Eber,
-and he will also perish forever.”
+
+“O, who will survive when God does this!<br>
+[24] Ships will come from the coast of Kittim,<br>
+and will afflict Asshur, and will afflict Eber,<br>
+and he will also perish forever.”<br>
 [25] Balaam got up and departed and returned to his home, and Balak also went his way.
 
 ## Chapter 25
-
 
 ### Israel’s Sin with the Moabite Women
 
@@ -1325,6 +1446,7 @@ and he will also perish forever.”
 
 [4] The **Lord** said to Moses, “Arrest all the leaders of the people, and hang them up before the **Lord** in broad daylight, so that the fierce anger of the **Lord** may be turned away from Israel.”
 [5] So Moses said to the judges of Israel, “Each of you must execute those of his men who were joined to Baal Peor.”
+
 [6] Just then one of the Israelites came and brought to his brothers a Midianite woman in the plain view of Moses and of the whole community of the Israelites, while they were weeping at the entrance of the tent of meeting.
 [7] When Phinehas son of Eleazar, the son of Aaron the priest, saw it, he got up from among the assembly, took a javelin in his hand,
 [8] and went after the Israelite man into the tent and thrust through the Israelite man and into the woman’s abdomen. So the plague was stopped from the Israelites.
@@ -1336,14 +1458,15 @@ and he will also perish forever.”
 [11] “Phinehas son of Eleazar, the son of Aaron the priest, has turned my anger away from the Israelites, when he manifested such zeal for my sake among them, so that I did not consume the Israelites in my zeal.
 [12] Therefore, announce: ‘I am going to give to him my covenant of peace.
 [13] So it will be to him and his descendants after him a covenant of a permanent priesthood, because he has been zealous for his God, and has made atonement for the Israelites.’”
+
 [14] Now the name of the Israelite who was stabbed—the one who was stabbed with the Midianite woman—was Zimri son of Salu, a leader of a clan of the Simeonites.
 [15] The name of the Midianite woman who was killed was Cozbi daughter of Zur. He was a leader over the people of a clan of Midian.
+
 [16] Then the **Lord** spoke to Moses:
 [17] “Bring trouble to the Midianites, and destroy them,
 [18] because they bring trouble to you by their treachery with which they have deceived you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, who was killed on the day of the plague that happened as a result of Peor.”
 
 ## Chapter 26
-
 
 ### A Second Census Required
 
@@ -1437,23 +1560,25 @@ and he will also perish forever.”
 ### Total Number and Division of the Land
 
 [51] These were those numbered of the Israelites, 601,730.
+
 [52] Then the **Lord** spoke to Moses:
 [53] “To these the land must be divided as an inheritance according to the number of the names.
 [54] To a larger group you will give a larger inheritance, and to a smaller group you will give a smaller inheritance. To each one its inheritance must be given according to the number of people in it.
 [55] The land must be divided by lot; and they will inherit in accordance with the names of their ancestral tribes.
 [56] Their inheritance must be apportioned by lot among the larger and smaller groups.”
+
 [57] And these are the Levites who were numbered according to their families: from Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; from Merari, the family of the Merarites.
 [58] These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korahites. Kohath became the father of Amram.
 [59] Now the name of Amram’s wife was Jochebed, daughter of Levi, who was born to Levi in Egypt. And to Amram she bore Aaron, Moses, and Miriam their sister.
 [60] And to Aaron were born Nadab and Abihu, Eleazar and Ithamar.
 [61] But Nadab and Abihu died when they offered strange fire before the **Lord**.
 [62] Those of the Levites who were numbered were 23,000, all males from a month old and upward, for they were not numbered among the Israelites; no inheritance was given to them among the Israelites.
+
 [63] These are those who were numbered by Moses and Eleazar the priest, who numbered the Israelites in the rift valley plains of Moab along the Jordan River opposite Jericho.
 [64] But there was not a man among these who had been among those numbered by Moses and Aaron the priest when they numbered the Israelites in the desert of Sinai.
 [65] For the **Lord** had said of them, “They will surely die in the wilderness.” And there was not left a single man of them, except Caleb son of Jephunneh and Joshua son of Nun.
 
 ## Chapter 27
-
 
 ### Special Inheritance Laws
 
@@ -1461,6 +1586,7 @@ and he will also perish forever.”
 [2] And they stood before Moses and Eleazar the priest and the leaders of the whole assembly at the entrance to the tent of meeting and said,
 [3] “Our father died in the wilderness, although he was not part of the company of those that gathered themselves together against the **Lord** in the company of Korah, but he died for his own sin, and he had no sons.
 [4] Why should the name of our father be lost from among his family because he had no son? Give us a possession among the relatives of our father.”
+
 [5] So Moses brought their case before the **Lord**.
 [6] The **Lord** said to Moses:
 [7] “The daughters of Zelophehad have a valid claim. You must indeed give them possession of an inheritance among their father’s relatives, and you must transfer the inheritance of their father to them.
@@ -1474,18 +1600,20 @@ and he will also perish forever.”
 [12] Then the **Lord** said to Moses, “Go up this mountain of the Abarim range, and see the land I have given to the Israelites.
 [13] When you have seen it, you will be gathered to your ancestors, as Aaron your brother was gathered to his ancestors.
 [14] For in the wilderness of Zin when the community rebelled against me, you rebelled against my command to show me as holy before their eyes over the water—the water of Meribah in Kadesh in the wilderness of Zin.”
+
 [15] Then Moses spoke to the **Lord**:
 [16] “Let the **Lord**, the God of the spirits of all humankind, appoint a man over the community,
 [17] who will go out before them, and who will come in before them, and who will lead them out, and who will bring them in, so that the community of the **Lord** may not be like sheep that have no shepherd.”
+
 [18] The **Lord** replied to Moses, “Take Joshua son of Nun, a man in whom is the Spirit, and lay your hand on him;
 [19] set him before Eleazar the priest and before the whole community, and commission him publicly.
 [20] Then you must delegate some of your authority to him, so that the whole community of the Israelites will be obedient.
 [21] And he will stand before Eleazar the priest, who will seek counsel for him before the **Lord** by the decision of the Urim. At his command they will go out, and at his command they will come in, he and all the Israelites with him, the whole community.”
+
 [22] So Moses did as the **Lord** commanded him; he took Joshua and set him before Eleazar the priest and before the whole community.
 [23] He laid his hands on him and commissioned him, just as the **Lord** commanded, by the authority of Moses.
 
 ## Chapter 28
-
 
 ### Daily Offerings
 
@@ -1495,6 +1623,7 @@ and he will also perish forever.”
 [4] The first lamb you must offer in the morning, and the second lamb you must offer in the late afternoon,
 [5] with one-tenth of an ephah of finely ground flour as a grain offering mixed with one-quarter of a hin of pressed olive oil.
 [6] It is a continual burnt offering that was instituted on Mount Sinai as a pleasing aroma, an offering made by fire to the **Lord**.
+
 [7] “‘And its drink offering must be one-quarter of a hin for each lamb. You must pour out the strong drink as a drink offering to the **Lord** in the Holy Place.
 [8] And the second lamb you must offer in the late afternoon; just as you offered the grain offering and drink offering in the morning, you must offer it as an offering made by fire, as a pleasing aroma to the **Lord**.
 
@@ -1516,6 +1645,7 @@ and he will also perish forever.”
 [16] “‘On the fourteenth day of the first month is the **Lord**’s Passover.
 [17] And on the fifteenth day of this month is the festival. For seven days bread made without yeast must be eaten.
 [18] And on the first day there is to be a holy assembly; you must do no ordinary work on it.
+
 [19] “‘But you must offer to the **Lord** an offering made by fire, a burnt offering of two young bulls, one ram, and seven lambs one year old; they must all be unblemished.
 [20] And their grain offering is to be of finely ground flour mixed with olive oil. For each bull you must offer three-tenths of an ephah, and two-tenths for the ram.
 [21] For each of the seven lambs you are to offer one-tenth of an ephah,
@@ -1535,11 +1665,11 @@ and he will also perish forever.”
 
 ## Chapter 29
 
-
 ### Blowing Trumpets
 
 [1] “‘On the first day of the seventh month, you are to hold a holy assembly. You must not do your ordinary work, for it is a day of blowing trumpets for you.
 [2] You must offer a burnt offering as a sweet aroma to the **Lord**: one young bull, one ram, and seven lambs one year old without blemish.
+
 [3] “‘Their grain offering is to be of finely ground flour mixed with olive oil, three-tenths of an ephah for the bull, two-tenths of an ephah for the ram,
 [4] and one-tenth for each of the seven lambs,
 [5] with one male goat for a purification offering to make an atonement for you;
@@ -1560,33 +1690,40 @@ and he will also perish forever.”
 [14] Their grain offerings must be of finely ground flour mixed with olive oil, three-tenths of an ephah for each of the thirteen bulls, two-tenths of an ephah for each of the two rams,
 [15] and one-tenth for each of the fourteen lambs,
 [16] along with one male goat for a purification offering, in addition to the continual burnt offering with its grain offering and its drink offering.
+
 [17] “‘On the second day you must offer twelve young bulls, two rams, fourteen lambs one year old, all without blemish,
 [18] and their grain offerings and their drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed,
 [19] along with one male goat for a purification offering, in addition to the continual burnt offering with its grain offering and their drink offerings.
+
 [20] “‘On the third day you must offer eleven bulls, two rams, fourteen lambs one year old, all without blemish,
 [21] and their grain offerings and their drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed,
 [22] along with one male goat for a purification offering, in addition to the continual burnt offering with its grain offering and its drink offering.
+
 [23] “‘On the fourth day you must offer ten bulls, two rams, and fourteen lambs one year old, all without blemish,
 [24] and their grain offerings and their drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed,
 [25] along with one male goat for a purification offering, in addition to the continual burnt offering with its grain offering and its drink offering.
+
 [26] “‘On the fifth day you must offer nine bulls, two rams, and fourteen lambs one year old, all without blemish,
 [27] and their grain offerings and their drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed,
 [28] along with one male goat for a purification offering, in addition to the continual burnt offering with its grain offering and its drink offering.
+
 [29] “‘On the sixth day you must offer eight bulls, two rams, and fourteen lambs one year old, all without blemish,
 [30] and their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed,
 [31] along with one male goat for a purification offering, in addition to the continual burnt offering with its grain offering and its drink offering.
+
 [32] “‘On the seventh day you must offer seven bulls, two rams, and fourteen lambs one year old, all without blemish,
 [33] and their grain offerings and their drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed,
 [34] along with one male goat for a purification offering, in addition to the continual burnt offering with its grain offering and its drink offering.
+
 [35] “‘On the eighth day you are to have a holy assembly; you must do no ordinary work on it.
 [36] But you must offer a burnt offering, an offering made by fire, as a pleasing aroma to the **Lord**, one bull, one ram, seven lambs one year old, all of them without blemish,
 [37] and with their grain offerings and their drink offerings for the bull, for the ram, and for the lambs, according to their number as prescribed,
 [38] along with one male goat for a purification offering, in addition to the continual burnt offering with its grain offering and its drink offering.
+
 [39] “‘These things you must present to the **Lord** at your appointed times, in addition to your vows and your freewill offerings, as your burnt offerings, your grain offerings, your drink offerings, and your peace offerings.’”
-[40] (
+[40] (30:1) So Moses told the Israelites everything, just as the **Lord** had commanded him.
 
 ## Chapter 30
-
 
 ### Vows Made by Men
 
@@ -1611,18 +1748,20 @@ and he will also perish forever.”
 [10] If she made the vow in her husband’s house or put herself under obligation with an oath,
 [11] and her husband heard about it, but remained silent about her, and did not overrule her, then all her vows will stand, and every obligation which she pledged for herself will stand.
 [12] But if her husband clearly nullifies them when he hears them, then whatever she says by way of vows or obligations will not stand. Her husband has made them void, and the **Lord** will release her from them.
+
 [13] “Any vow or sworn obligation that would bring affliction to her, her husband can confirm or nullify.
 [14] But if her husband remains completely silent about her from day to day, he thus confirms all her vows or all her obligations which she is under; he confirms them because he remained silent about her when he heard them.
 [15] But if he should nullify them after he has heard them, then he will bear her iniquity.”
+
 [16] These are the statutes that the **Lord** commanded Moses, relating to a man and his wife, and a father and his young daughter who is still living in her father’s house.
 
 ## Chapter 31
-
 
 ### The Midianite War
 
 [1] The **Lord** spoke to Moses:
 [2] “Exact vengeance for the Israelites from the Midianites —after that you will be gathered to your people.”
+
 [3] So Moses spoke to the people: “Arm men from among you for the war, to attack the Midianites and to execute the **Lord**’s vengeance on Midian.
 [4] You must send to the battle 1,000 men from every tribe throughout all the tribes of Israel.”
 [5] So 1,000 from every tribe, 12,000 armed for battle in all, were provided out of the thousands of Israel.
@@ -1632,6 +1771,7 @@ and he will also perish forever.”
 [6] So Moses sent them to the war, 1,000 from every tribe, with Phinehas son of Eleazar the priest, who was in charge of the holy articles and the signal trumpets.
 [7] They fought against the Midianites, as the **Lord** commanded Moses, and they killed every male.
 [8] They killed the kings of Midian in addition to those slain—Evi, Rekem, Zur, Hur, and Reba—five Midianite kings. They also killed Balaam son of Beor with the sword.
+
 [9] The Israelites took the women of Midian captive along with their little ones, and took all their herds, all their flocks, and all their goods as plunder.
 [10] They burned all their towns where they lived and all their encampments.
 [11] They took all the plunder and all the spoils, both people and animals.
@@ -1650,6 +1790,7 @@ and he will also perish forever.”
 
 [19] “Any of you who has killed anyone or touched any of the dead, remain outside the camp for seven days; purify yourselves and your captives on the third day, and on the seventh day.
 [20] You must purify each garment and everything that is made of skin, everything made of goats’ hair, and everything made of wood.”
+
 [21] Then Eleazar the priest said to the men of war who had gone into the battle, “This is the ordinance of the law that the **Lord** commanded Moses:
 [22] ‘Only the gold, the silver, the bronze, the iron, the tin, and the lead,
 [23] everything that may stand the fire, you are to pass through the fire, and it will be ceremonially clean, but it must still be purified with the water of purification. Anything that cannot withstand the fire you must pass through the water.
@@ -1660,26 +1801,33 @@ and he will also perish forever.”
 [25] Then the **Lord** spoke to Moses:
 [26] “You and Eleazar the priest, and all the family leaders of the community, take the sum of the plunder that was captured, both people and animals.
 [27] Divide the plunder into two parts, one for those who took part in the war—who went out to battle—and the other for all the community.
+
 [28] “You must exact a tribute for the **Lord** from the fighting men who went out to battle: one life out of 500, from the people, the cattle, and from the donkeys and the sheep.
 [29] You are to take it from their half share and give it to Eleazar the priest for a raised offering to the **Lord**.
 [30] From the Israelites’ half share you are to take one portion out of fifty of the people, the cattle, the donkeys, and the sheep—from every kind of animal—and you are to give them to the Levites, who are responsible for the care of the **Lord**’s tabernacle.”
+
 [31] So Moses and Eleazar the priest did as the **Lord** commanded Moses.
 [32] The spoil that remained of the plunder that the fighting men had gathered was 675,000 sheep,
 [33] 72,000 cattle,
 [34] 61,000 donkeys,
 [35] and 32,000 young women who had not experienced a man’s bed.
+
 [36] The half portion of those who went to war numbered 337,500 sheep;
 [37] the **Lord**’s tribute from the sheep was 675.
 [38] The cattle numbered 36,000; the **Lord**’s tribute was 72.
 [39] The donkeys were 30,500, of which the **Lord**’s tribute was 61.
 [40] The people were 16,000, of which the **Lord**’s tribute was 32 people.
+
 [41] So Moses gave the tribute, which was the **Lord**’s raised offering, to Eleazar the priest, as the **Lord** commanded Moses.
+
 [42] From the Israelites’ half share that Moses had separated from the fighting men,
 [43] there were 337,500 sheep from the portion belonging to the community,
 [44] 36,000 cattle,
 [45] 30,500 donkeys,
 [46] and 16,000 people.
+
 [47] From the Israelites’ share Moses took one of every fifty people and animals and gave them to the Levites who were responsible for the care of the **Lord**’s tabernacle, just as the **Lord** commanded Moses.
+
 [48] Then the officers who were over the thousands of the army, the commanders over thousands and the commanders over hundreds, approached Moses
 [49] and said to him, “Your servants have taken a count of the men who were in the battle, who were under our authority, and not one is missing.
 [50] So we have brought as an offering for the **Lord** what each man found: gold ornaments, armlets, bracelets, signet rings, earrings, and necklaces, to make atonement for ourselves before the **Lord**.”
@@ -1689,7 +1837,6 @@ and he will also perish forever.”
 [54] So Moses and Eleazar the priest received the gold from the commanders of thousands and commanders of hundreds and brought it into the tent of meeting as a memorial for the Israelites before the **Lord**.
 
 ## Chapter 32
-
 
 ### The Petition of the Reubenites and Gadites
 
@@ -1718,14 +1865,18 @@ and he will also perish forever.”
 [17] but we will maintain ourselves in armed readiness and go before the Israelites until whenever we have brought them to their place. Our descendants will be living in fortified towns as a protection against the inhabitants of the land.
 [18] We will not return to our homes until every Israelite has his inheritance.
 [19] For we will not accept any inheritance on the other side of the Jordan River and beyond, because our inheritance has come to us on this eastern side of the Jordan.”
+
 [20] Then Moses replied, “If you will do this thing, and if you will arm yourselves for battle before the **Lord**,
 [21] and if all your armed men cross the Jordan before the **Lord** until he drives out his enemies from his presence
 [22] and the land is subdued before the **Lord**, then afterward you may return and be free of your obligation to the **Lord** and to Israel. This land will then be your possession in the **Lord**’s sight.
+
 [23] “But if you do not do this, then look, you will have sinned against the **Lord**. And know that your sin will find you out.
 [24] So build cities for your descendants and pens for your sheep, but do what you have said you would do.”
+
 [25] So the Gadites and the Reubenites replied to Moses, “Your servants will do as my lord commands.
 [26] Our children, our wives, our flocks, and all our livestock will be there in the cities of Gilead,
 [27] but your servants will cross over, every man armed for war, to do battle in the **Lord**’s presence, just as my lord says.”
+
 [28] So Moses gave orders about them to Eleazar the priest, to Joshua son of Nun, and to the heads of the families of the Israelite tribes.
 [29] Moses said to them: “If the Gadites and the Reubenites cross the Jordan with you, each one equipped for battle in the **Lord**’s presence, and you conquer the land, then you must allot them the territory of Gilead as their possession.
 [30] But if they do not cross over with you armed, they must receive possessions among you in Canaan.”
@@ -1740,6 +1891,7 @@ and he will also perish forever.”
 [36] Beth Nimrah, and Beth Haran as fortified cities, and constructed pens for their flocks.
 [37] The Reubenites rebuilt Heshbon, Elealeh, Kiriathaim,
 [38] Nebo, Baal Meon (with a change of name), and Sibmah. They renamed the cities they built.
+
 [39] The descendants of Machir son of Manasseh went to Gilead, took it, and dispossessed the Amorites who were in it.
 [40] So Moses gave Gilead to Machir, son of Manasseh, and he lived there.
 [41] Now Jair son of Manasseh went and captured their small towns and named them Havvoth Jair.
@@ -1747,22 +1899,25 @@ and he will also perish forever.”
 
 ## Chapter 33
 
-
 ### Wanderings from Egypt to Sinai
 
 [1] These are the journeys of the Israelites, who went out of the land of Egypt by their divisions under the authority of Moses and Aaron.
 [2] Moses recorded their departures according to their journeys, by the commandment of the **Lord**; now these are their journeys according to their departures.
 [3] They departed from Rameses in the first month, on the fifteenth day of the first month; on the day after the Passover the Israelites went out defiantly in plain sight of all the Egyptians.
 [4] Now the Egyptians were burying all their firstborn, whom the **Lord** had killed among them; the **Lord** also executed judgments on their gods.
+
 [5] The Israelites traveled from Rameses and camped in Sukkoth.
+
 [6] They traveled from Sukkoth, and camped in Etham, which is on the edge of the desert.
 [7] They traveled from Etham, and turned again to Pi Hahiroth, which is before Baal Zephon; and they camped before Migdal.
 [8] They traveled from Pi Hahiroth, and passed through the middle of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and camped in Marah.
 [9] They traveled from Marah and came to Elim; in Elim there are twelve fountains of water and seventy palm trees, so they camped there.
+
 [10] They traveled from Elim, and camped by the Red Sea.
 [11] They traveled from the Red Sea and camped in the wilderness of Sin.
 [12] They traveled from the wilderness of Sin and camped in Dophkah.
 [13] And they traveled from Dophkah, and camped in Alush.
+
 [14] They traveled from Alush and camped at Rephidim, where there was no water for the people to drink.
 [15] They traveled from Rephidim and camped in the desert of Sinai.
 
@@ -1796,6 +1951,7 @@ and he will also perish forever.”
 [38] Aaron the priest ascended Mount Hor at the command of the **Lord**, and he died there in the fortieth year after the Israelites had come out of the land of Egypt on the first day of the fifth month.
 [39] Now Aaron was 123 years old when he died on Mount Hor.
 [40] The king of Arad, the Canaanite king who lived in the south of the land of Canaan, heard about the approach of the Israelites.
+
 [41] They traveled from Mount Hor and camped in Zalmonah.
 [42] They traveled from Zalmonah and camped in Punon.
 [43] They traveled from Punon and camped in Oboth.
@@ -1817,7 +1973,6 @@ and he will also perish forever.”
 [56] And what I intended to do to them I will do to you.’”
 
 ## Chapter 34
-
 
 ### The Southern Border of the Land
 
@@ -1842,6 +1997,7 @@ and he will also perish forever.”
 [10] “‘For your eastern border you will draw a line from Hazar Enan to Shepham.
 [11] The border will run down from Shepham to Riblah, on the east side of Ain, and the border will descend and reach the eastern side of the Sea of Kinnereth.
 [12] Then the border will continue down the Jordan River and its direction will be to the Salt Sea. This will be your land by its borders that surround it.’”
+
 [13] Then Moses commanded the Israelites: “This is the land that you will inherit by lot, which the **Lord** has commanded to be given to the nine-and-a-half tribes,
 [14] because the tribe of the Reubenites by their families, the tribe of the Gadites by their families, and the half-tribe of Manasseh have received their inheritance.
 [15] The two-and-a-half tribes have received their inheritance on this side of the Jordan, east of Jericho, toward the sunrise.”
@@ -1865,15 +2021,16 @@ and he will also perish forever.”
 
 ## Chapter 35
 
-
 ### The Levitical Cities
 
 [1] Then the **Lord** spoke to Moses in the rift valley plains of Moab along the Jordan near Jericho. He said:
 [2] “Instruct the Israelites to give the Levites towns to live in from the inheritance the Israelites will possess. You must also give the Levites grazing land around the towns.
 [3] Thus they will have towns in which to live, and their grazing lands will be for their cattle, for their possessions, and for all their animals.
 [4] The grazing lands around the towns that you will give to the Levites must extend to a distance of 500 yards from the town wall.
+
 [5] “You must measure from outside the wall of the town on the east 1,000 yards, and on the south side 1,000 yards, and on the west side 1,000 yards, and on the north side 1,000 yards, with the town in the middle. This territory must belong to them as grazing land for the towns.
 [6] Now from these towns that you will give to the Levites you must select six towns of refuge to which a person who has killed someone may flee. And you must give them forty-two other towns.
+
 [7] “So the total of the towns you will give the Levites is forty-eight. You must give these together with their grazing lands.
 [8] The towns you will give must be from the possession of the Israelites. From the larger tribes you must give more; and from the smaller tribes fewer. Each must contribute some of its own towns to the Levites in proportion to the inheritance allocated to each.
 
@@ -1884,14 +2041,18 @@ and he will also perish forever.”
 [11] you must then designate some towns as towns of refuge for you, to which a person who has killed someone unintentionally may flee.
 [12] And they must stand as your towns of refuge from the avenger in order that the killer may not die until he has stood trial before the community.
 [13] These towns that you must give shall be your six towns for refuge.
+
 [14] “‘You must give three towns on this side of the Jordan, and you must give three towns in the land of Canaan; they must be towns of refuge.
 [15] These six towns will be places of refuge for the Israelites, and for the resident foreigner, and for the settler among them, so that anyone who kills any person accidentally may flee there.
+
 [16] “‘But if he hits someone with an iron tool so that he dies, he is a murderer. The murderer must surely be put to death.
 [17] If he strikes him by throwing a stone large enough that he could die, and he dies, he is a murderer. The murderer must surely be put to death.
 [18] Or if he strikes him with a wooden hand weapon so that he could die, and he dies, he is a murderer. The murderer must surely be put to death.
 [19] The avenger of blood himself must kill the murderer; when he meets him, he must kill him.
+
 [20] “‘But if he strikes him out of hatred or throws something at him intentionally so that he dies,
 [21] or with enmity he strikes him with his hand and he dies, the one who struck him must surely be put to death, for he is a murderer. The avenger of blood must kill the murderer when he meets him.
+
 [22] “But if he strikes him suddenly, without enmity, or throws anything at him unintentionally,
 [23] or with any stone large enough that a man could die, without seeing him, and throws it at him, and he dies, even though he was not his enemy nor sought his harm,
 [24] then the community must judge between the slayer and the avenger of blood according to these decisions.
@@ -1900,18 +2061,19 @@ and he will also perish forever.”
 [27] and the avenger of blood finds him outside the borders of the town of refuge, and the avenger of blood kills the slayer, he will not be guilty of blood,
 [28] because the slayer should have stayed in his town of refuge until the death of the high priest. But after the death of the high priest, the slayer may return to the land of his possessions.
 [29] So these things must be a statutory ordinance for you throughout your generations, in all the places where you live.
+
 [30] “Whoever kills any person, the murderer must be put to death by the testimony of witnesses, but one witness cannot testify against any person to cause him to be put to death.
 [31] Moreover, you must not accept a ransom for the life of a murderer who is guilty of death; he must surely be put to death.
 [32] And you must not accept a ransom for anyone who has fled to a town of refuge, to allow him to return home and live on his own land before the death of the high priest.
+
 [33] “‘You must not pollute the land where you live, for blood defiles the land, and the land cannot be cleansed of the blood that is shed there, except by the blood of the person who shed it.
 [34] Therefore do not defile the land that you will inhabit, in which I live, for I the **Lord** live among the Israelites.’”
 
 ## Chapter 36
 
-
 ### Women and Land Inheritance
 
-[1] Then the heads of the family groups of the Gileadites, the descendant of Machir, the descendant of Manasseh, who were from the Josephite families, approached and spoke before Moses and the leaders who were the heads of the Israelite families.
+[1] Then the heads of the family groups of the Gileadites, the descendant of Machir**,** the descendant of Manasseh, who were from the Josephite families, approached and spoke before Moses and the leaders who were the heads of the Israelite families.
 [2] They said, “The **Lord** commanded my lord to give the land as an inheritance by lot to the Israelites; and my lord was commanded by the **Lord** to give the inheritance of our brother Zelophehad to his daughters.
 [3] Now if they should be married to one of the men from another Israelite tribe, their inheritance would be taken from the inheritance of our fathers and added to the inheritance of the tribe into which they marry. As a result, it will be taken from the lot of our inheritance.
 [4] And when the Jubilee of the Israelites is to take place, their inheritance will be added to the inheritance of the tribe into which they marry. So their inheritance will be taken away from the inheritance of our ancestral tribe.”
@@ -1923,7 +2085,10 @@ and he will also perish forever.”
 [7] In this way the inheritance of the Israelites will not be transferred from tribe to tribe. But every one of the Israelites must retain the ancestral heritage.
 [8] And every daughter who possesses an inheritance from any of the tribes of the Israelites must become the wife of a man from any family in her father’s tribe, so that every Israelite may retain the inheritance of his fathers.
 [9] No inheritance may pass from tribe to tribe. But every one of the tribes of the Israelites must retain its inheritance.’”
+
 [10] As the **Lord** had commanded Moses, so the daughters of Zelophehad did.
 [11] For the daughters of Zelophehad—Mahlah, Tirzah, Hoglah, Milcah, and Noah—were married to the sons of their uncles.
 [12] They were married into the families of the Manassehites, the descendants of Joseph, and their inheritance remained in the tribe of their father’s family.
+
 [13] These are the commandments and the decisions that the **Lord** commanded the Israelites through the authority of Moses, in the rift valley plains by Moab along the Jordan River opposite Jericho.
+

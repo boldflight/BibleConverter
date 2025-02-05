@@ -2,10 +2,10 @@
 
 ## Chapter 1
 
-
 ### Introduction
 
 [1] In the eighth month of Darius’ second year, the **Lord**’s message came to the prophet Zechariah, son of Berechiah son of Iddo:
+
 [2] “The **Lord** was very angry with your ancestors.
 [3] Therefore say to the people: The **Lord** of Heaven’s Armies says, ‘Turn to me,’ says the **Lord** of Heaven’s Armies, ‘and I will turn to you,’ says the **Lord** of Heaven’s Armies.
 [4] Do not be like your ancestors, to whom the former prophets called out, saying, ‘This is what the **Lord** of Heaven’s Armies has said, “Turn now from your evil wickedness.”’ But they would by no means obey me, says the **Lord**.
@@ -37,32 +37,32 @@
 
 ### Vision Two: The Four Horns
 
-[18] (
+[18] (2:1) Once again I looked and this time I saw four horns.
 [19] So I asked the angelic messenger who spoke with me, “What are these?” He replied, “These are the horns that have scattered Judah, Israel, and Jerusalem.”
 [20] Next the **Lord** showed me four blacksmiths.
 [21] I asked, “What are these going to do?” He answered, “These horns are the ones that have scattered Judah so that there is no one to be seen. But the blacksmiths have come to terrify Judah’s enemies and cut off the horns of the nations that have thrust themselves against the land of Judah in order to scatter its people.”
 
 ## Chapter 2
 
-
 ### Vision Three: The Surveyor
 
-[1] (
+[1] (2:5) I looked again, and there was a man with a measuring line in his hand.
 [2] I asked, “Where are you going?” He replied, “To measure Jerusalem in order to determine its width and its length.”
 [3] At this point the angelic messenger who spoke to me went out, and another messenger came to meet him
 [4] and said to him, “Hurry, speak to this young man as follows: ‘Jerusalem will no longer be enclosed by walls because of the multitude of people and animals there.
 [5] But I,’ the **Lord** says, ‘will be a wall of fire surrounding Jerusalem and the source of glory in her midst.’”
+
 [6] “You there! Flee from the northland!” says the **Lord**, “for like the four winds of heaven I have scattered you,” says the **Lord**.
 [7] “Escape, Zion, you who live among the Babylonians!”
 [8] For the **Lord** of Heaven’s Armies says: “For his own glory he has sent me to the nations that plundered you—for anyone who touches you touches the pupil of his eye.
 [9] Yes, look here, I am about to punish them so that they will be looted by their own slaves.” Then you will know that the **Lord** of Heaven’s Armies has sent me.
+
 [10] “Sing out and be happy, Zion my daughter! For look, I have come; I will settle in your midst,” says the **Lord**.
 [11] “Many nations will join themselves to the **Lord** on the day of salvation, and they will also be my people. Indeed, I will settle in the midst of you all. Then you will know that the **Lord** of Heaven’s Armies has sent me to you.
 [12] The **Lord** will take possession of Judah as his portion in the holy land and he will choose Jerusalem once again.
 [13] Be silent in the **Lord**’s presence, all people everywhere, for he is being moved to action in his holy dwelling place.”
 
 ## Chapter 3
-
 
 ### Vision Four: The Priest
 
@@ -79,7 +79,6 @@
 
 ## Chapter 4
 
-
 ### Vision Five: The Menorah
 
 [1] The angelic messenger who had been speaking with me then returned and woke me, as a person is wakened from sleep.
@@ -95,13 +94,13 @@
 [8] Moreover, the **Lord**’s message came to me as follows:
 [9] “The hands of Zerubbabel have laid the foundations of this temple, and his hands will complete it. Then you will know that the **Lord** of Heaven’s Armies has sent me to you.
 [10] For who dares make light of small beginnings? These seven eyes will joyfully look on the tin tablet in Zerubbabel’s hand. These are the eyes of the **Lord**, which constantly range across the whole earth.”
+
 [11] Next I asked the messenger, “What are these two olive trees on the right and the left of the menorah?”
 [12] Before he could reply I asked again, “What are these two extensions of the olive trees, which are emptying out the golden oil through the two golden pipes?”
 [13] He replied, “Don’t you know what these are?” And I said, “No, sir.”
 [14] So he said, “These are the two anointed ones who stand by the Lord of the whole earth.”
 
 ## Chapter 5
-
 
 ### Vision Six: The Flying Scroll
 
@@ -121,7 +120,6 @@
 [11] He replied, “To build a temple for her in the land of Babylonia. When it is finished, she will be placed there in her own residence.”
 
 ## Chapter 6
-
 
 ### Vision Eight: The Chariots
 
@@ -146,7 +144,6 @@
 
 ## Chapter 7
 
-
 ### The Hypocrisy of False Fasting
 
 [1] In King Darius’ fourth year, on the fourth day of Kislev, the ninth month, the **Lord**’s message came to Zechariah.
@@ -156,16 +153,18 @@
 [5] “Speak to all the people and priests of the land as follows: ‘When you fasted and lamented in the fifth and seventh months through all these seventy years, did you truly fast for me—for me, indeed?
 [6] And now when you eat and drink, are you not doing so for yourselves?
 [7] Should you not have obeyed the words that the **Lord** cried out through the former prophets when Jerusalem was peacefully inhabited and her surrounding cities, the Negev, and the foothills were also populated?’”
+
 [8] Again the **Lord**’s message came to Zechariah:
 [9] “The **Lord** of Heaven’s Armies said, ‘Exercise true judgment and show brotherhood and compassion to each other.
 [10] You must not oppress the widow, the orphan, the resident foreigner, or the poor, nor should anyone secretly plot evil against his fellow citizen.’
+
 [11] “But they refused to pay attention, turning away stubbornly and stopping their ears so they could not hear.
 [12] Indeed, they made their hearts as hard as diamond, so that they could not obey the law of Moses and the other words the **Lord** of Heaven’s Armies had sent by his Spirit through the former prophets. Therefore, the **Lord** of Heaven’s Armies poured out great wrath.
+
 [13] “‘Just as I called out, but they would not obey, so they will call out, but I will not listen,’ the **Lord** of Heaven’s Armies says.
 [14] ‘Rather, I will sweep them away in a storm into all the nations they are not familiar with.’ Thus the land became desolate because of them, with no one crossing through or returning, for they had made the fruitful land a waste.”
 
 ## Chapter 8
-
 
 ### The Blessing of True Fasting
 
@@ -175,17 +174,21 @@
 [4] Moreover, the **Lord** of Heaven’s Armies says, ‘Old men and women will once more live in the plazas of Jerusalem, each one leaning on a cane because of advanced age.
 [5] And the streets of the city will be full of boys and girls playing.
 [6] And,’ says the **Lord** of Heaven’s Armies, ‘though such a thing may seem to be difficult in the opinion of the small community of those days, will it also appear difficult to me?’ asks the **Lord** of Heaven’s Armies.
+
 [7] “The **Lord** of Heaven’s Armies asserts, ‘I am about to save my people from the lands of the east and the west.
 [8] And I will bring them to settle within Jerusalem. They will be my people, and I will be their God, in truth and righteousness.’
+
 [9] “The **Lord** of Heaven’s Armies also says, ‘Gather strength, you who are listening to these words today from the mouths of the prophets who were there at the founding of the house of the **Lord** of Heaven’s Armies, so that the temple might be built.
 [10] Before that time there was no compensation for man or animal, nor was there any relief from adversity for those who came and went, because I had pitted everybody—each one—against everyone else.
 [11] But I will be different now to this remnant of my people from the way I was in those days,’ says the **Lord** of Heaven’s Armies,
 [12] ‘for there will be a peaceful time of sowing, the vine will produce its fruit, and the ground its yield, and the skies will rain down dew. Then I will allow the remnant of my people to possess all these things.
 [13] And it will come about that just as you, both Judah and Israel, were a curse to the nations, so I will save you and you will be a blessing. Do not be afraid! Instead, be strong.’
+
 [14] “For the **Lord** of Heaven’s Armies says, ‘As I had planned to hurt you when your fathers made me angry,’ says the **Lord** of Heaven’s Armies, ‘and I was not sorry,
 [15] so, to the contrary, I have planned in these days to do good to Jerusalem and Judah—do not fear!
 [16] These are the things you must do: Speak the truth, each of you, to one another. Practice true and righteous judgment in your courts.
 [17] Do not plan evil in your hearts against one another. Do not favor a false oath—these are all things that I hate,’ says the **Lord**.”
+
 [18] The message of the **Lord** of Heaven’s Armies came to me as follows:
 [19] “The **Lord** of Heaven’s Armies says, ‘The fast of the fourth, fifth, seventh, and tenth months will become joyful and happy, pleasant feasts for the house of Judah; so love truth and peace.’
 [20] The **Lord** of Heaven’s Armies says, ‘It will someday come to pass that people—residents of many cities—will come.
@@ -195,10 +198,11 @@
 
 ## Chapter 9
 
-
 ### The Coming of the True King
 
 [1] This is an oracle, the **Lord**’s message concerning the land of Hadrach, with its focus on Damascus:
+
+The eyes of all humanity, especially of the tribes of Israel, are toward the **Lord**,
 [2] as are those of Hamath also, which adjoins Damascus, Tyre and Sidon, though they consider themselves to be very wise.
 [3] Tyre built herself a fortification and piled up silver like dust and gold like the mud of the streets.
 [4] Nevertheless the Lord will evict her and shove her fortifications into the sea—she will be consumed by fire.
@@ -206,21 +210,23 @@
 [6] A mongrel people will live in Ashdod, for I will greatly humiliate the Philistines.
 [7] I will take away their abominable religious practices; then those who survive will become a community of believers in our God, like a clan in Judah, and Ekron will be like the Jebusites.
 [8] Then I will surround my temple to protect it like a guard from anyone crossing back and forth; so no one will cross over against them anymore as an oppressor, for now I myself have seen it.
-[9] Rejoice greatly, daughter of Zion!
-Shout, daughter of Jerusalem!
-Look! Your king is coming to you:
-He is legitimate and victorious,
-humble and riding on a donkey —
-on a young donkey, the foal of a female donkey.
-[10] I will remove the chariot from Ephraim
-and the warhorse from Jerusalem,
-and the battle bow will be removed.
-Then he will announce peace to the nations.
-His dominion will be from sea to sea
-and from the Euphrates River to the ends of the earth.
+
+[9] Rejoice greatly, daughter of Zion!<br>
+Shout, daughter of Jerusalem!<br>
+Look! Your king is coming to you:<br>
+He is legitimate and victorious,<br>
+humble and riding on a donkey —<br>
+on a young donkey, the foal of a female donkey.<br>
+[10] I will remove the chariot from Ephraim<br>
+and the warhorse from Jerusalem,<br>
+and the battle bow will be removed.<br>
+Then he will announce peace to the nations.<br>
+His dominion will be from sea to sea<br>
+and from the Euphrates River to the ends of the earth.<br>
 [11] Moreover, as for you, because of our covenant relationship secured with blood, I will release your prisoners from the waterless pit.
 [12] Return to the stronghold, you prisoners, with hope; today I declare that I will return double what was taken from you.
 [13] I will bend Judah as my bow; I will load the bow with Ephraim, my arrow. I will stir up your sons, Zion, against your sons, Greece, and I will make you, Zion, like a warrior’s sword.
+
 [14] Then the **Lord** will appear above them, and his arrow will shoot forth like lightning; the Sovereign **Lord** will blow the trumpet and will proceed in the southern storm winds.
 [15] The **Lord** of Heaven’s Armies will guard them, and they will prevail and overcome with sling stones. Then they will drink and will become noisy like drunkards, full like the sacrificial basin or like the corners of the altar.
 [16] On that day the **Lord** their God will deliver them as the flock of his people, for they are the precious stones of a crown sparkling over his land.
@@ -228,14 +234,16 @@ and from the Euphrates River to the ends of the earth.
 
 ## Chapter 10
 
-
 ### The Restoration of the True People
 
 [1] Ask the **Lord** for rain in the season of the late spring rains —the **Lord** who causes thunderstorms—and he will give everyone showers of rain and green growth in the field.
 [2] For the household gods have spoken wickedness, the soothsayers have seen a lie, and the dreamers have disclosed emptiness and give comfort in vain. Therefore the people set out like sheep and become scattered because they have no shepherd.
 [3] “I am enraged at the shepherds and will punish the lead goats.
+
+“For the **Lord** of Heaven’s Armies has brought blessing to his flock, the house of Judah, and will transform them into his majestic warhorse.
 [4] From him will come the cornerstone, the wall peg, the battle bow, and every ruler.
 [5] And they will be like warriors trampling the mud of the streets in battle. They will fight, for the **Lord** will be with them, and will defeat the enemy cavalry.
+
 [6] “I (says the **Lord**) will strengthen the kingdom of Judah and deliver the people of Joseph and will bring them back because of my compassion for them. They will be as though I had never rejected them, for I am the **Lord** their God, and therefore I will hear them.
 [7] The Ephraimites will be like warriors and will rejoice as if they had drunk wine. Their children will see it and rejoice; they will celebrate in the things of the **Lord**.
 [8] I will signal for them and gather them, for I have already redeemed them; then they will become as numerous as they were before.
@@ -246,41 +254,43 @@ and from the Euphrates River to the ends of the earth.
 
 ## Chapter 11
 
-
 ### The History and Future of Judah’s Wicked Kings
 
-[1] Open your gates, Lebanon,
-so that the fire may consume your cedars.
-[2] Howl, fir tree,
-because the cedar has fallen;
-the majestic trees have been destroyed.
-Howl, oaks of Bashan,
-because the impenetrable forest has fallen.
-[3] Listen to the howling of shepherds,
-because their magnificence has been destroyed.
-Listen to the roaring of young lions,
-because the thickets of the Jordan have been devastated.
+[1] Open your gates, Lebanon,<br>
+so that the fire may consume your cedars.<br>
+[2] Howl, fir tree,<br>
+because the cedar has fallen;<br>
+the majestic trees have been destroyed.<br>
+Howl, oaks of Bashan,<br>
+because the impenetrable forest has fallen.<br>
+[3] Listen to the howling of shepherds,<br>
+because their magnificence has been destroyed.<br>
+Listen to the roaring of young lions,<br>
+because the thickets of the Jordan have been devastated.<br>
 [4] The **Lord** my God says this: “Shepherd the flock set aside for slaughter.
 [5] Those who buy them slaughter them and are not held guilty; those who sell them say, ‘Blessed be the **Lord**, for I am rich.’ Their own shepherds have no compassion for them.
 [6] Indeed, I will no longer have compassion on the people of the land,” says the **Lord**, “but instead I will turn every last person over to his neighbor and his king. They will devastate the land, and I will not deliver it from them.”
+
 [7] So I began to shepherd the flock destined for slaughter, the most afflicted of all the flock. Then I took two staffs, calling one “Pleasantness” and the other “Union,” and I tended the flock.
 [8] Next I eradicated the three shepherds in one month, for I ran out of patience with them and, indeed, they detested me as well.
 [9] I then said, “I will not shepherd you. What is to die, let it die, and what is to be eradicated, let it be eradicated. As for those who survive, let them eat each other’s flesh!”
+
 [10] Then I took my staff “Pleasantness” and cut it in two to annul my covenant that I had made with all the people.
 [11] So it was annulled that very day, and then the most afflicted of the flock who kept faith with me knew that it was the **Lord**’s message.
+
 [12] Then I said to them, “If it seems good to you, pay me my wages, but if not, forget it.” So they weighed out my payment—thirty pieces of silver.
 [13] The **Lord** then said to me, “Throw to the potter that exorbitant sum at which they valued me!” So I took the thirty pieces of silver and threw them to the potter at the temple of the **Lord**.
 [14] Then I cut the second staff “Union” in two in order to annul the covenant of brotherhood between Judah and Israel.
+
 [15] Again the **Lord** said to me, “Take up once more the equipment of a foolish shepherd.
 [16] Indeed, I am about to raise up a shepherd in the land who will not take heed of the sheep headed to slaughter, will not seek the scattered, and will not heal the injured. Moreover, he will not nourish the one that is healthy, but instead will eat the meat of the fat sheep and tear off their hooves.
-[17] “Woe to the worthless shepherd
-who abandons the flock!
-May a sword fall on his arm and his right eye!
-May his arm wither completely away,
-and his right eye become completely blind!”
 
+[17] “Woe to the worthless shepherd<br>
+who abandons the flock!<br>
+May a sword fall on his arm and his right eye!<br>
+May his arm wither completely away,<br>
+and his right eye become completely blind!”<br>
 ## Chapter 12
-
 
 ### The Repentance of Judah
 
@@ -293,6 +303,7 @@ and his right eye become completely blind!”
 [7] The **Lord** also will deliver the homes of Judah first, so that the splendor of the kingship of David and of the people of Jerusalem may not exceed that of Judah.
 [8] On that day the **Lord** himself will defend the inhabitants of Jerusalem, so that the weakest among them will be like mighty David, and the dynasty of David will be like God, like the angel of the **Lord** before them.
 [9] So on that day I will set out to destroy all the nations that come against Jerusalem.
+
 [10] “I will pour out on the kingship of David and the population of Jerusalem a spirit of grace and supplication so that they will look to me, the one they have pierced. They will lament for him as one laments for an only son, and there will be a bitter cry for him like the bitter cry for a firstborn.
 [11] On that day the lamentation in Jerusalem will be as great as the lamentation at Hadad Rimmon in the plain of Megiddo.
 [12] The land will mourn, each clan by itself—the clan of the royal household of David by itself and their wives by themselves; the clan of the family of Nathan by itself and their wives by themselves;
@@ -301,53 +312,58 @@ and his right eye become completely blind!”
 
 ## Chapter 13
 
-
 ### The Refinement of Judah
 
 [1] “In that day there will be a fountain opened up for the dynasty of David and the people of Jerusalem to cleanse them from sin and impurity.
 [2] And also on that day,” says the **Lord** of Heaven’s Armies, “I will remove the names of the idols from the land and they will never again be remembered. Moreover, I will remove the prophets and the unclean spirit from the land.
 [3] Then, if anyone prophesies in spite of this, his father and mother to whom he was born will say to him, ‘You cannot live, for you lie in the name of the **Lord**.’ Then his father and mother to whom he was born will run him through with a sword when he prophesies.
+
 [4] “Therefore, on that day each prophet will be ashamed of his vision when he prophesies and will no longer wear the hairy garment of a prophet to deceive the people.
 [5] Instead he will say, ‘I am no prophet; indeed, I am a farmer, for a man has made me his indentured servant since my youth.’
 [6] Then someone will ask him, ‘What are these wounds on your chest?’ and he will answer, ‘Some that I received in the house of my friends.’
-[7] “Awake, sword, against my shepherd,
-against the man who is my associate,”
-says the Lord of Heaven’s Armies.
-“Strike the shepherd that the flock may be scattered;
-I will turn my hand against the insignificant ones.
-[8] It will happen in all the land,” says the Lord,
-“that two-thirds of the people in it will be cut off and die,
-but one-third will be left in it.
-[9] Then I will bring the remaining third into the fire;
-I will refine them like silver is refined
-and will test them like gold is tested.
-They will call on my name and I will answer;
-I will say, ‘These are my people,’
-and they will say, ‘The Lord is our God.’”
 
+[7] “Awake, sword, against my shepherd,<br>
+against the man who is my associate,”<br>
+says the **Lord** of Heaven’s Armies.<br>
+“Strike the shepherd that the flock may be scattered;<br>
+I will turn my hand against the insignificant ones.<br>
+[8] It will happen in all the land,” says the **Lord**,<br>
+“that two-thirds of the people in it will be cut off and die,<br>
+but one-third will be left in it.<br>
+[9] Then I will bring the remaining third into the fire;<br>
+I will refine them like silver is refined<br>
+and will test them like gold is tested.<br>
+They will call on my name and I will answer;<br>
+I will say, ‘These are my people,’<br>
+and they will say, ‘The **Lord** is our God.’”<br>
 ## Chapter 14
-
 
 ### The Sovereignty of the Lord
 
 [1] A day of the **Lord** is about to come when your possessions will be divided as plunder in your midst.
 [2] For I will gather all the nations against Jerusalem to wage war; the city will be taken, its houses plundered, and the women raped. Then half of the city will go into exile, but the remainder of the people will not be taken away.
+
 [3] Then the **Lord** will go to battle and fight against those nations, just as he fought battles in ancient days.
 [4] On that day his feet will stand on the Mount of Olives that lies to the east of Jerusalem, and the Mount of Olives will be split in half from east to west, leaving a great valley. Half the mountain will move northward and the other half southward.
 [5] Then you will escape through my mountain valley, for the valley of the mountains will extend to Azal. Indeed, you will flee as you fled from the earthquake in the days of King Uzziah of Judah. Then the **Lord** my God will come with all his holy ones with him.
 [6] On that day there will be no light—the sources of light in the heavens will congeal.
 [7] It will happen in one day—a day known to the **Lord**—not in the day or the night, but in the evening there will be light.
 [8] Moreover, on that day living waters will flow out from Jerusalem, half of them to the eastern sea and half of them to the western sea; it will happen both in summer and in winter.
+
 [9] The **Lord** will then be king over all the earth. In that day the **Lord** will be seen as one with a single name.
 [10] All the land will change and become like the rift valley from Geba to Rimmon, south of Jerusalem. Jerusalem will be raised up and will stay in its own place from the Benjamin Gate to the site of the First Gate and on to the Corner Gate, and from the Tower of Hananel to the royal winepresses.
 [11] And people will settle there, and there will no longer be the threat of divine extermination—Jerusalem will dwell in security.
+
 [12] But this will be the nature of the plague with which the **Lord** will strike all the nations that have fought against Jerusalem: Their flesh will decay while they stand on their feet, their eyes will rot away in their sockets, and their tongues will dissolve in their mouths.
 [13] On that day there will be great confusion from the **Lord** among them; they will seize each other and attack one another violently.
 [14] Moreover, Judah will fight at Jerusalem, and the wealth of all the surrounding nations will be gathered up —gold, silver, and clothing in great abundance.
 [15] This is the kind of plague that will devastate horses, mules, camels, donkeys, and all the other animals in those camps.
+
 [16] Then all who survive from all the nations that came to attack Jerusalem will go up annually to worship the King, the **Lord** of Heaven’s Armies, and to observe the Feast of Shelters.
 [17] But if any of the nations anywhere on earth refuse to go up to Jerusalem to worship the King, the **Lord** of Heaven’s Armies, they will get no rain.
 [18] If the Egyptians will not do so, they will get no rain—instead there will be the kind of plague that the **Lord** inflicts on any nations that do not go up to celebrate the Feast of Shelters.
 [19] This will be the punishment of Egypt and of all nations that do not go up to celebrate the Feast of Shelters.
+
 [20] On that day the bells of the horses will bear the inscription “Holy to the **Lord**.” The cooking pots in the **Lord**’s temple will be as holy as the bowls in front of the altar.
 [21] Every cooking pot in Jerusalem and Judah will become holy in the sight of the **Lord** of Heaven’s Armies, so that all who offer sacrifices may come and use some of them to boil their sacrifices in them. On that day there will no longer be a Canaanite in the house of the **Lord** of Heaven’s Armies.
+

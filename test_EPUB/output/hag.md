@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Introduction
 
 [1] On the first day of the sixth month of King Darius’ second year, the **Lord’**s message came through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to the high priest Joshua son of Jehozadak:
@@ -32,7 +31,6 @@
 
 ## Chapter 2
 
-
 ### The Glory to Come
 
 [1] On the twenty-first day of the seventh month, the **Lord’**s message came through the prophet Haggai again:
@@ -51,6 +49,7 @@
 [11] “This is what the **Lord** of Heaven’s Armies has said, ‘Ask the priests about the law.
 [12] If someone carries holy meat in a fold of his garment and that fold touches bread, a boiled dish, wine, olive oil, or any other food, will that item become holy?’” The priests answered, “It will not.”
 [13] Then Haggai asked, “If a person who is ritually unclean because of touching a dead body comes in contact with one of these items, will it become unclean?” The priests answered, “It will be unclean.”
+
 [14] Then Haggai responded, “‘The people of this nation are unclean in my sight,’ decrees the **Lord**. ‘And so is all their effort; everything they offer is also unclean.
 [15] Now therefore reflect carefully on the recent past, before one stone was laid on another in the **Lord**’s temple.
 [16] From that time when one came expecting a heap of twenty measures, there were only ten; when one came to the wine vat to draw out fifty measures from it, there were only twenty.
@@ -64,3 +63,4 @@
 [21] “Tell Zerubbabel governor of Judah: ‘I am ready to shake the sky and the earth.
 [22] I will overthrow royal thrones and shatter the might of earthly kingdoms. I will overthrow chariots and those who ride them, and horses and their riders will fall as people kill one another.
 [23] On that day,’ says the **Lord** of Heaven’s Armies, ‘I will take you, Zerubbabel son of Shealtiel, my servant,’ says the **Lord**, ‘and I will make you like a signet ring, for I have chosen you,’ says the **Lord** of Heaven’s Armies.”
+

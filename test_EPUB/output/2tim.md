@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul, an apostle of Christ Jesus by the will of God, to further the promise of life in Christ Jesus,
@@ -13,6 +12,7 @@
 [3] I am thankful to God, whom I have served with a clear conscience as my ancestors did, when I remember you in my prayers as I do constantly night and day.
 [4] As I remember your tears, I long to see you, so that I may be filled with joy.
 [5] I recall your sincere faith that was alive first in your grandmother Lois and in your mother Eunice, and I am sure is in you.
+
 [6] Because of this I remind you to rekindle God’s gift that you possess through the laying on of my hands.
 [7] For God did not give us a Spirit of fear but of power and love and self-control.
 [8] So do not be ashamed of the testimony about our Lord or of me, a prisoner for his sake, but by God’s power accept your share of suffering for the gospel.
@@ -22,13 +22,13 @@
 [12] Because of this, in fact, I suffer as I do. But I am not ashamed, because I know the one in whom my faith is set and I am convinced that he is able to protect what has been entrusted to me until that day.
 [13] Hold to the standard of sound words that you heard from me and do so with the faith and love that are in Christ Jesus.
 [14] Protect that good thing entrusted to you, through the Holy Spirit who lives within us.
+
 [15] You know that everyone in the province of Asia deserted me, including Phygelus and Hermogenes.
 [16] May the Lord grant mercy to the family of Onesiphorus, because he often refreshed me and was not ashamed of my imprisonment.
 [17] But when he arrived in Rome, he eagerly searched for me and found me.
 [18] May the Lord grant him to find mercy from the Lord on that day! And you know very well all the ways he served me in Ephesus.
 
 ## Chapter 2
-
 
 ### Serving Faithfully Despite Hardship
 
@@ -39,15 +39,16 @@
 [5] Also, if anyone competes as an athlete, he will not be crowned as the winner unless he competes according to the rules.
 [6] The farmer who works hard ought to have the first share of the crops.
 [7] Think about what I am saying and the Lord will give you understanding of all this.
+
 [8] Remember Jesus Christ, raised from the dead, a descendant of David; such is my gospel,
 [9] for which I suffer hardship to the point of imprisonment as a criminal, but God’s message is not imprisoned!
 [10] So I endure all things for the sake of those chosen by God, that they too may obtain salvation in Christ Jesus and its eternal glory.
 [11] This saying is trustworthy:
-If we died with him, we will also live with him.
-[12] If we endure, we will also reign with him.
-If we deny him, he will also deny us.
-[13] If we are unfaithful, he remains faithful, since he cannot deny himself.
 
+If we died with him, we will also live with him.<br>
+[12] If we endure, we will also reign with him.<br>
+If we deny him, he will also deny us.<br>
+[13] If we are unfaithful, he remains faithful, since he cannot deny himself.<br>
 ### Dealing with False Teachers
 
 [14] Remind people of these things and solemnly charge them before the Lord not to wrangle over words. This is of no benefit; it just brings ruin on those who listen.
@@ -55,7 +56,8 @@ If we deny him, he will also deny us.
 [16] But avoid profane chatter, because those occupied with it will stray further and further into ungodliness,
 [17] and their message will spread its infection like gangrene. Hymenaeus and Philetus are in this group.
 [18] They have strayed from the truth by saying that the resurrection has already occurred, and they are undermining some people’s faith.
-[19] However, God’s solid foundation remains standing, bearing this seal: “The Lord knows those who are his,” and “Everyone who confesses the name of the Lord must turn away from evil.”
+[19] However, God’s solid foundation remains standing, bearing this seal: “**_The Lord knows those who are his_**,” and “Everyone who confesses the name of the Lord must turn away from evil.”
+
 [20] Now in a wealthy home there are not only gold and silver vessels, but also ones made of wood and of clay, and some are for honorable use, but others for ignoble use.
 [21] So if someone cleanses himself of such behavior, he will be a vessel for honorable use, set apart, useful for the Master, prepared for every good work.
 [22] But keep away from youthful passions, and pursue righteousness, faithfulness, love, and peace, in company with others who call on the Lord from a pure heart.
@@ -65,7 +67,6 @@ If we deny him, he will also deny us.
 [26] and they will come to their senses and escape the devil’s trap where they are held captive to do his will.
 
 ## Chapter 3
-
 
 ### Ministry in the Last Days
 
@@ -92,7 +93,6 @@ If we deny him, he will also deny us.
 
 ## Chapter 4
 
-
 ### Charge to Timothy Repeated
 
 [1] I solemnly charge you before God and Christ Jesus, who is going to judge the living and the dead, and by his appearing and his kingdom:
@@ -111,12 +111,14 @@ If we deny him, he will also deny us.
 [11] Only Luke is with me. Get Mark and bring him with you, because he is a great help to me in ministry.
 [12] Now I have sent Tychicus to Ephesus.
 [13] When you come, bring with you the cloak I left in Troas with Carpas and the scrolls, especially the parchments.
-[14] Alexander the coppersmith did me a great deal of harm. The Lord will repay him in keeping with his deeds.
+[14] Alexander the coppersmith did me a great deal of harm. _The Lord will repay him in keeping with his deeds_.
 [15] You be on guard against him too, because he vehemently opposed our words.
 [16] At my first defense no one appeared in my support; instead they all deserted me—may they not be held accountable for it.
 [17] But the Lord stood by me and strengthened me, so that through me the message would be fully proclaimed for all the Gentiles to hear. And so I was delivered from the lion’s mouth!
 [18] The Lord will deliver me from every evil deed and will bring me safely into his heavenly kingdom. To him be glory for ever and ever! Amen.
+
 [19] Greetings to Prisca and Aquila and the family of Onesiphorus.
 [20] Erastus stayed in Corinth. Trophimus I left ill in Miletus.
 [21] Make every effort to come before winter. Greetings to you from Eubulus, Pudens, Linus, Claudia, and all the brothers and sisters.
 [22] The Lord be with your spirit. Grace be with you.
+

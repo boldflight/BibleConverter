@@ -2,37 +2,37 @@
 
 ## Chapter 1
 
-
 ### Introduction: God Has Spoken Fully and Finally in His Son
 
 [1] After God spoke long ago in various portions and in various ways to our ancestors through the prophets,
 [2] in these last days he has spoken to us in a son, whom he appointed heir of all things, and through whom he created the world.
-[3] The Son is the radiance of his glory and the representation of his essence, and he sustains all things by his powerful word, and so when he had accomplished cleansing for sins, he sat down at the right hand of the Majesty on high.
+[3] The Son is the radiance of his glory and the representation of his essence, and he sustains all things by his powerful word, and so when he had accomplished cleansing for sins, _he sat down at the right hand of the Majesty on high_.
 [4] Thus he became so far better than the angels as he has inherited a name superior to theirs.
 
 ### The Son Is Superior to Angels
 
-[5] For to which of the angels did God ever say, “You are my son! Today I have fathered you”? And in another place he says, “I will be his father and he will be my son.”
-[6] But when he again brings his firstborn into the world, he says, “Let all the angels of God worship him!”
-[7] And he says of the angels, “He makes his angels winds and his ministers a flame of fire,”
+[5] For to which of the angels did God ever say, “**_You are my son! Today I have fathered you_**”? And in another place he says, “**_I_** **_will be his father and he will be my son_**.”
+[6] But when he again brings his firstborn into the world, he says, “**_Let all the angels of God worship him!_**”
+[7] And he says of the angels, “**_He makes_** **_his angels winds_** **_and his ministers a flame of fire_**,”
 [8] but of the Son he says,
-“Your throne, O God, is forever and ever,
-and a righteous scepter is the scepter of your kingdom.
-[9] You have loved righteousness and hated lawlessness.
-So God, your God, has anointed you over your companions with the oil of rejoicing.”
+
+“_**Your throne, O God, is forever and ever**,_<br>
+**_and a righteous scepter_** _**is the scepter of your kingdom**_.<br>
+[9] _**You have loved righteousness and hated lawlessness**_.<br>
+_**So God, your God, has anointed you over your companions**_ _**with the oil of rejoicing**_.”<br>
 [10] And,
-“You founded the earth in the beginning, Lord,
-and the heavens are the works of your hands.
-[11] They will perish, but you continue.
-And they will all grow old like a garment,
-[12] and like a robe you will fold them up
-and like a garment they will be changed,
-but you are the same and your years will never run out.”
-[13] But to which of the angels has he ever said, “Sit at my right hand until I make your enemies a footstool for your feet”?
+
+“_**You founded the earth in the beginning, Lord**,_<br>
+_**and the heavens are the works of your hands**_.<br>
+[11] _**They will perish, but you continue**_.<br>
+_**And they will all grow old like a garment**_,<br>
+[12] **_and like a robe you will fold them up_**<br>
+**_and_** like a garment **_they will be changed,_**<br>
+_**but you are the same and your years will never run out**_.”<br>
+[13] But to which of the angels has he ever said, “**_Sit at my right hand until I make your enemies a footstool for your feet_**”?
 [14] Are they not all ministering spirits, sent out to serve those who will inherit salvation?
 
 ## Chapter 2
-
 
 ### Warning Against Drifting Away
 
@@ -45,15 +45,17 @@ but you are the same and your years will never run out.”
 
 [5] For he did not put the world to come, about which we are speaking, under the control of angels.
 [6] Instead someone testified somewhere:
-“What is man that you think of him or the son of man that you care for him?
-[7] You made him lower than the angels for a little while.
-You crowned him with glory and honor.
-[8] You put all things under his control.”
-[9] but we see Jesus, who was made lower than the angels for a little while, now crowned with glory and honor because he suffered death, so that by God’s grace he would experience death on behalf of everyone.
+
+“**_What is man that you think of him_** **_or_ _the son of man that you care for him?_**<br>
+[7] _**You made him lower than the angels for a little while**_.<br>
+_**You crowned him with glory and honor**_.<br>
+[8] _**You put all things under his control**_.”<br>
+For when he **_put_** **_all things under his control_**, he left nothing outside of his control. At present we do not yet see **_all things under his control_**,
+[9] but we see Jesus, who was made **_lower than the angels for a little while_**, now crowned with glory and honor because he suffered death, so that by God’s grace he would experience death on behalf of everyone.
 [10] For it was fitting for him, for whom and through whom all things exist, in bringing many sons to glory, to make the pioneer of their salvation perfect through sufferings.
 [11] For indeed he who makes holy and those being made holy all have the same origin, and so he is not ashamed to call them brothers and sisters,
-[12] saying, “I will proclaim your name to my brothers; in the midst of the assembly I will praise you.”
-[13] Again he says, “I will be confident in him,” and again, “Here I am, with the children God has given me.”
+[12] saying, “**_I will proclaim your name to my brothers;_** **_in_ _the midst of the assembly I will praise you_**.”
+[13] Again he says, “I will be confident in him,” and again, “_**Here I am**,_ **_with_** **_the children God has given me_**.”
 [14] Therefore, since the children share in flesh and blood, he likewise shared in their humanity, so that through death he could destroy the one who holds the power of death (that is, the devil),
 [15] and set free those who were held in slavery all their lives by their fear of death.
 [16] For surely his concern is not for angels, but he is concerned for Abraham’s descendants.
@@ -62,45 +64,44 @@ You crowned him with glory and honor.
 
 ## Chapter 3
 
-
 ### Jesus and Moses
 
 [1] Therefore, holy brothers and sisters, partners in a heavenly calling, take note of Jesus, the apostle and high priest whom we confess,
 [2] who is faithful to the one who appointed him, as Moses was also in God’s house.
 [3] For he has come to deserve greater glory than Moses, just as the builder of a house deserves greater honor than the house itself!
 [4] For every house is built by someone, but the builder of all things is God.
-[5] Now Moses was faithful in all God’s house as a servant, to testify to the things that would be spoken.
+[5] Now Moses was **_faithful_** **_in all God’s_** **_house_** as a servant, to testify to the things that would be spoken.
 [6] But Christ is faithful as a son over God’s house. We are of his house, if in fact we hold firmly to our confidence and the hope we take pride in.
 
 ### Exposition of Psalm 95: Hearing God’s Word in Faith
 
 [7] Therefore, as the Holy Spirit says,
-“Oh, that today you would listen as he speaks!
-[8] “Do not harden your hearts as in the rebellion, in the day of testing in the wilderness.
-[9] “There your fathers tested me and tried me, and they saw my works for forty years.
-[10] “Therefore, I became provoked at that generation and said, ‘Their hearts are always wandering and they have not known my ways.’
-[11] “As I swore in my anger, ‘They will never enter my rest!’”
+
+“_**Oh, that today you would listen as he speaks!**_<br>
+[8] “_**Do not harden your hearts as in the rebellion, in the day of testing in the wilderness**_.<br>
+[9] “_**There your fathers tested me and tried me**,_ _**and they saw my works for forty years**_.<br>
+[10] “_**Therefore, I became provoked at that generation and said**_, ‘**_Their hearts are always wandering_** _**and they have not known my ways**_.’<br>
+[11] “_**As I swore in my anger**_, ‘**_They will never enter my rest!_**’”<br>
 [12] See to it, brothers and sisters, that none of you has an evil, unbelieving heart that forsakes the living God.
 [13] But exhort one another each day, as long as it is called “Today,” that none of you may become hardened by sin’s deception.
 [14] For we have become partners with Christ, if in fact we hold our initial confidence firm until the end.
-[15] As it says, “Oh, that today you would listen as he speaks! Do not harden your hearts as in the rebellion.”
+[15] As it says, “_**Oh, that today you would listen as he speaks!**_ **_Do not harden your hearts as in the rebellion_**.”
 [16] For which ones heard and rebelled? Was it not all who came out of Egypt under Moses’ leadership?
-[17] And against whom was God provoked for forty years? Was it not those who sinned, whose dead bodies fell in the wilderness?
+[17] And against whom was God provoked for forty years? Was it not those who sinned, _whose_ _dead bodies fell in the wilderness_?
 [18] And to whom did he swear they would never enter into his rest, except those who were disobedient?
 [19] So we see that they could not enter because of unbelief.
 
 ## Chapter 4
 
-
 ### God’s Promised Rest
 
 [1] Therefore we must be wary that, while the promise of entering his rest remains open, none of you may seem to have come short of it.
 [2] For we had good news proclaimed to us just as they did. But the message they heard did them no good, since they did not join in with those who heard it in faith.
-[3] For we who have believed enter that rest, as he has said, “As I swore in my anger, ‘They will never enter my rest!’” And yet God’s works were accomplished from the foundation of the world.
-[4] For he has spoken somewhere about the seventh day in this way: “And God rested on the seventh day from all his works,”
-[5] but to repeat the text cited earlier: “They will never enter my rest!”
+[3] For we who have believed enter that rest, as he has said, “_**As I swore in my anger**_, ‘**_They will never enter my rest!_**’” And yet God’s works were accomplished from the foundation of the world.
+[4] For he has spoken somewhere about the seventh day in this way: “**_And God rested on the seventh day from all his works_**,”
+[5] but to repeat the text cited earlier: “**_They will never enter my rest!_**”
 [6] Therefore it remains for some to enter it, yet those to whom it was previously proclaimed did not enter because of disobedience.
-[7] So God again ordains a certain day, “Today,” speaking through David after so long a time, as in the words quoted before, “Oh, that today you would listen as he speaks! Do not harden your hearts.”
+[7] So God again ordains a certain day, “Today,” speaking through David after so long a time, as in the words quoted before, “_**Oh, that today you would listen as he speaks!**_ **_Do not harden your hearts_**.”
 [8] For if Joshua had given them rest, God would not have spoken afterward about another day.
 [9] Consequently a Sabbath rest remains for the people of God.
 [10] For the one who enters God’s rest has also rested from his works, just as God did from his own works.
@@ -120,12 +121,12 @@ You crowned him with glory and honor.
 [2] He is able to deal compassionately with those who are ignorant and erring, since he also is subject to weakness,
 [3] and for this reason he is obligated to make sin offerings for himself as well as for the people.
 [4] And no one assumes this honor on his own initiative, but only when called to it by God, as in fact Aaron was.
-[5] So also Christ did not glorify himself in becoming high priest, but the one who glorified him was God, who said to him, “You are my Son! Today I have fathered you,”
-[6] as also in another place God says, “You are a priest forever in the order of Melchizedek.”
+[5] So also Christ did not glorify himself in becoming high priest, but the one who glorified him was God, who said to him, “**_You are my Son! Today I have fathered you_**,”
+[6] as also in another place God says, “**_You are a priest forever in the order of Melchizedek_**.”
 [7] During his earthly life Christ offered both requests and supplications, with loud cries and tears, to the one who was able to save him from death and he was heard because of his devotion.
 [8] Although he was a son, he learned obedience through the things he suffered.
 [9] And by being perfected in this way, he became the source of eternal salvation to all who obey him,
-[10] and he was designated by God as high priest in the order of Melchizedek.
+[10] and he was designated by God as high priest **_in_** **_the order of Melchizedek_**.
 
 ### The Need to Move on to Maturity
 
@@ -148,22 +149,22 @@ You crowned him with glory and honor.
 [10] For God is not unjust so as to forget your work and the love you have demonstrated for his name, in having served and continuing to serve the saints.
 [11] But we passionately want each of you to demonstrate the same eagerness for the fulfillment of your hope until the end,
 [12] so that you may not be sluggish, but imitators of those who through faith and perseverance inherit the promises.
+
 [13] Now when God made his promise to Abraham, since he could swear by no one greater, he swore by himself,
-[14] saying, “Surely I will bless you greatly and multiply your descendants abundantly.”
+[14] saying, “**_Surely I will bless you greatly and multiply your descendants abundantly_**.”
 [15] And so by persevering, Abraham inherited the promise.
 [16] For people swear by something greater than themselves, and the oath serves as a confirmation to end all dispute.
 [17] In the same way God wanted to demonstrate more clearly to the heirs of the promise that his purpose was unchangeable, and so he intervened with an oath,
 [18] so that we who have found refuge in him may find strong encouragement to hold fast to the hope set before us through two unchangeable things, since it is impossible for God to lie.
 [19] We have this hope as an anchor for the soul, sure and steadfast, which reaches inside behind the curtain,
-[20] where Jesus our forerunner entered on our behalf, since he became a priest forever in the order of Melchizedek.
+[20] where Jesus our forerunner entered on our behalf, since he became **_a priest forever in the order of Melchizedek_**.
 
 ## Chapter 7
 
-
 ### The Nature of Melchizedek’s Priesthood
 
-[1] Now this Melchizedek, king of Salem, priest of the most high God, met Abraham as he was returning from defeating the kings and blessed him.
-[2] To him also Abraham apportioned a tithe of everything. His name first means king of righteousness, then king of Salem, that is, king of peace.
+[1] Now this **_Melchizedek, king of Salem, priest of the most high God, met Abraham as he was returning from defeating the kings_** and **_blessed him_**.
+[2] To him also **_Abraham apportioned a tithe_** **_of everything_**. His name first means king of righteousness, then **_king of Salem_**, that is, king of peace.
 [3] Without father, without mother, without genealogy, he has neither beginning of days nor end of life but is like the son of God, and he remains a priest for all time.
 [4] But see how great he must be, if Abraham the patriarch gave him a tithe of his plunder.
 [5] And those of the sons of Levi who receive the priestly office have authorization according to the law to collect a tithe from the people, that is, from their fellow countrymen, although they too are descendants of Abraham.
@@ -181,11 +182,11 @@ You crowned him with glory and honor.
 [14] For it is clear that our Lord is descended from Judah, yet Moses said nothing about priests in connection with that tribe.
 [15] And this is even clearer if another priest arises in the likeness of Melchizedek,
 [16] who has become a priest not by a legal regulation about physical descent but by the power of an indestructible life.
-[17] For here is the testimony about him: “You are a priest forever in the order of Melchizedek.”
+[17] For here is the testimony about him: “**_You are a priest forever in the order of Melchizedek_**.”
 [18] On the one hand a former command is set aside because it is weak and useless,
 [19] for the law made nothing perfect. On the other hand a better hope is introduced, through which we draw near to God.
 [20] And since this was not done without a sworn affirmation—for the others have become priests without a sworn affirmation,
-[21] but Jesus did so with a sworn affirmation by the one who said to him, “The Lord has sworn and will not change his mind, ‘You are a priest forever’” —
+[21] but Jesus did so with a sworn affirmation by the one who said to him, “_**The Lord has sworn and will not change his mind**,_ ‘**_You are a priest forever_**’” —
 [22] accordingly Jesus has become the guarantee of a better covenant.
 [23] And the others who became priests were numerous, because death prevented them from continuing in office,
 [24] but he holds his priesthood permanently since he lives forever.
@@ -196,26 +197,26 @@ You crowned him with glory and honor.
 
 ## Chapter 8
 
-
 ### The High Priest of a Better Covenant
 
-[1] Now the main point of what we are saying is this: We have such a high priest, one who sat down at the right hand of the throne of the Majesty in heaven,
+[1] Now the main point of what we are saying is this: We have such a high priest, one who _sat down at the right hand of the throne of the Majesty in heaven_,
 [2] a minister in the sanctuary and the true tabernacle that the Lord, not man, set up.
 [3] For every high priest is appointed to offer both gifts and sacrifices. So this one too had to have something to offer.
 [4] Now if he were on earth, he would not be a priest, since there are already priests who offer the gifts prescribed by the law.
-[5] The place where they serve is a sketch and shadow of the heavenly sanctuary, just as Moses was warned by God as he was about to complete the tabernacle. For he says, “See that you make everything according to the design shown to you on the mountain.”
+[5] The place where they serve is a sketch and shadow of the heavenly sanctuary, just as Moses was warned by God as he was about to complete the tabernacle. For he says, “**_See that you make everything according to the design_** **_shown_ _to you on the mountain_**.”
 [6] But now Jesus has obtained a superior ministry, since the covenant that he mediates is also better and is enacted on better promises.
+
 [7] For if that first covenant had been faultless, no one would have looked for a second one.
 [8] But showing its fault, God says to them,
-“Look, the days are coming, says the Lord, when I will complete a new covenant with the house of Israel and with the house of Judah.
-[9] “It will not be like the covenant that I made with their fathers, on the day when I took them by the hand to lead them out of Egypt, because they did not continue in my covenant and I had no regard for them, says the Lord.
-[10] “For this is the covenant that I will establish with the house of Israel after those days, says the Lord. I will put my laws in their minds and I will inscribe them on their hearts. And I will be their God and they will be my people.
-[11] “And there will be no need at all for each one to teach his countryman or each one to teach his brother saying, ‘Know the Lord,’ since they will all know me, from the least to the greatest.
-[12] “For I will be merciful toward their evil deeds, and their sins I will remember no longer.”
+
+“_**Look, the days are coming, says the Lord, when I will complete a new covenant with the house of Israel and with the house of Judah**_.<br>
+[9] “**_It will not be like the covenant_** _**that I made with their fathers, on the day when I took them by the hand to lead them out of Egypt, because they did not continue in my covenant and I had no regard for them, says the Lord**_.<br>
+[10] “_**For this is the covenant that I will establish with the house of Israel after those days, says the Lord**. **I will put**_ **_my_ _laws in their minds_** _**and I will inscribe them on their hearts**. **And I will be their God and they will be my people**_.<br>
+[11] “**_And there will be no need at all_** _**for each one to teach his countryman or each one to teach his brother saying**_, ‘_**Know the Lord**,_’ _**since they will all know me, from the least to the greatest**_.<br>
+[12] “_**For I will be merciful toward their evil deeds, and their sins I will remember no longer**_.”<br>
 [13] When he speaks of a new covenant, he makes the first obsolete. Now what is growing obsolete and aging is about to disappear.
 
 ## Chapter 9
-
 
 ### The Arrangement and Ritual of the Earthly Sanctuary
 
@@ -236,12 +237,13 @@ You crowned him with glory and honor.
 [12] and he entered once for all into the Most Holy Place not by the blood of goats and calves but by his own blood, and so he himself secured eternal redemption.
 [13] For if the blood of goats and bulls and the ashes of a young cow sprinkled on those who are defiled consecrated them and provided ritual purity,
 [14] how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our consciences from dead works to worship the living God.
+
 [15] And so he is the mediator of a new covenant, so that those who are called may receive the eternal inheritance he has promised, since he died to set them free from the violations committed under the first covenant.
 [16] For where there is a will, the death of the one who made it must be proven.
 [17] For a will takes effect only at death, since it carries no force while the one who made it is alive.
 [18] So even the first covenant was inaugurated with blood.
 [19] For when Moses had spoken every command to all the people according to the law, he took the blood of calves and goats with water and scarlet wool and hyssop and sprinkled both the book itself and all the people,
-[20] and said, “This is the blood of the covenant that God has commanded you to keep.”
+[20] and said, “**_This is the blood of the covenant that God has commanded you to keep_**.”
 [21] And both the tabernacle and all the utensils of worship he likewise sprinkled with blood.
 [22] Indeed according to the law almost everything was purified with blood, and without the shedding of blood there is no forgiveness.
 [23] So it was necessary for the sketches of the things in heaven to be purified with these sacrifices, but the heavenly things themselves required better sacrifices than these.
@@ -249,10 +251,9 @@ You crowned him with glory and honor.
 [25] And he did not enter to offer himself again and again, the way the high priest enters the sanctuary year after year with blood that is not his own,
 [26] for then he would have had to suffer again and again since the foundation of the world. But now he has appeared once for all at the consummation of the ages to put away sin by his sacrifice.
 [27] And just as people are appointed to die once, and then to face judgment,
-[28] so also, after Christ was offered once to bear the sins of many, to those who eagerly await him he will appear a second time, not to bear sin but to bring salvation.
+[28] so also, after Christ was offered once to _bear_ _the sins of many_, to those who eagerly await him he will appear a second time, not to bear sin but to bring salvation.
 
 ## Chapter 10
-
 
 ### Concluding Exposition: Old and New Sacrifices Contrasted
 
@@ -261,19 +262,20 @@ You crowned him with glory and honor.
 [3] But in those sacrifices there is a reminder of sins year after year.
 [4] For it is impossible for the blood of bulls and goats to take away sins.
 [5] So when he came into the world, he said,
-“Sacrifice and offering you did not desire, but a body you prepared for me.
-[6] “Whole burnt offerings and sin-offerings you took no delight in.
-[7] “Then I said, ‘Here I am: I have come—it is written of me in the scroll of the book—to do your will, O God.’”
-[8] When he says above, “Sacrifices and offerings and whole burnt offerings and sin-offerings you did not desire nor did you take delight in them” (which are offered according to the law),
-[9] then he says, “Here I am: I have come to do your will.” He does away with the first to establish the second.
+
+“_**Sacrifice and offering you did not desire, but a body you prepared for me**_.<br>
+[6] “_**Whole burnt offerings and sin-offerings you took no delight in**_.<br>
+[7] “_**Then I said**_, ‘**_Here I am:_** _**I have come—it is written of me in the scroll of the book—to do your will, O God**_.’”<br>
+[8] When he says above, “**_Sacrifices and offerings_** and **_whole burnt offerings and sin-offerings you did not desire nor did you take delight_** in them” (which are offered according to the law),
+[9] then he says, “**_Here I am: I have come to do your will_**.” He does away with the first to establish the second.
 [10] By his will we have been made holy through the offering of the body of Jesus Christ once for all.
 [11] And every priest stands day after day serving and offering the same sacrifices again and again—sacrifices that can never take away sins.
-[12] But when this priest had offered one sacrifice for sins for all time, he sat down at the right hand of God,
-[13] where he is now waiting until his enemies are made a footstool for his feet.
+[12] But when this priest had offered one sacrifice for sins for all time, _he sat down at the right hand_ of God,
+[13] where he is now waiting _until_ _his enemies are made a footstool for his feet_.
 [14] For by one offering he has perfected for all time those who are made holy.
 [15] And the Holy Spirit also witnesses to us, for after saying,
-[16] “This is the covenant that I will establish with them after those days, says the Lord. I will put my laws on their hearts and I will inscribe them on their minds,”
-[17] then he says, “Their sins and their lawless deeds I will remember no longer.”
+[16] “_**This is the covenant that I will establish with them after those days, says the Lord**. **I will put**_ **_my_** **_laws on their hearts and I will inscribe them on their minds_**,”
+[17] then he says, “**_Their sins and their lawless deeds I will remember no longer_**.”
 [18] Now where there is forgiveness of these, there is no longer any offering for sin.
 
 ### Drawing Near to God in Enduring Faith
@@ -285,23 +287,24 @@ You crowned him with glory and honor.
 [23] And let us hold unwaveringly to the hope that we confess, for the one who made the promise is trustworthy.
 [24] And let us take thought of how to spur one another on to love and good works,
 [25] not abandoning our own meetings, as some are in the habit of doing, but encouraging each other, and even more so because you see the day drawing near.
+
 [26] For if we deliberately keep on sinning after receiving the knowledge of the truth, no further sacrifice for sins is left for us,
-[27] but only a certain fearful expectation of judgment and a fury of fire that will consume God’s enemies.
-[28] Someone who rejected the law of Moses was put to death without mercy on the testimony of two or three witnesses.
+[27] but only a certain fearful expectation of judgment and _a fury_ _of fire that will consume God’s enemies_.
+[28] Someone who rejected the law of Moses was put to death without mercy _on the testimony of two or three witnesses_.
 [29] How much greater punishment do you think that person deserves who has contempt for the Son of God, and profanes the blood of the covenant that made him holy, and insults the Spirit of grace?
-[30] For we know the one who said, “Vengeance is mine, I will repay,” and again, “The Lord will judge his people.”
+[30] For we know the one who said, “_**Vengeance is mine, I will repay**_,” and again, “**_The Lord will judge his people_**.”
 [31] It is a terrifying thing to fall into the hands of the living God.
+
 [32] But remember the former days when you endured a harsh conflict of suffering after you were enlightened.
 [33] At times you were publicly exposed to abuse and afflictions, and at other times you came to share with others who were treated in that way.
 [34] For in fact you shared the sufferings of those in prison, and you accepted the confiscation of your belongings with joy, because you knew that you certainly had a better and lasting possession.
 [35] So do not throw away your confidence, because it has great reward.
 [36] For you need endurance in order to do God’s will and so receive what is promised.
-[37] For just a little longer and he who is coming will arrive and not delay.
-[38] But my righteous one will live by faith, and if he shrinks back, I take no pleasure in him.
+[37] For **_just a little longer_** and **_he who is coming will arrive and not delay_**.
+[38] _**But**_ _**my righteous one will live by faith, and if he shrinks back, I**_ **_take_** **_no pleasure in him_**.
 [39] But we are not among those who shrink back and thus perish, but are among those who have faith and preserve their souls.
 
 ## Chapter 11
-
 
 ### People Commended for Their Faith
 
@@ -312,21 +315,23 @@ You crowned him with glory and honor.
 [5] By faith Enoch was taken up so that he did not see death, and he was not to be found because God took him up. For before his removal he had been commended as having pleased God.
 [6] Now without faith it is impossible to please him, for the one who approaches God must believe that he exists and that he rewards those who seek him.
 [7] By faith Noah, when he was warned about things not yet seen, with reverent regard constructed an ark for the deliverance of his family. Through faith he condemned the world and became an heir of the righteousness that comes by faith.
+
 [8] By faith Abraham obeyed when he was called to go out to a place he would later receive as an inheritance, and he went out without understanding where he was going.
 [9] By faith he lived as a foreigner in the promised land as though it were a foreign country, living in tents with Isaac and Jacob, who were fellow heirs of the same promise.
 [10] For he was looking forward to the city with firm foundations, whose architect and builder is God.
 [11] By faith, even though Sarah herself was barren and he was too old, he received the ability to procreate, because he regarded the one who had given the promise to be trustworthy.
-[12] So in fact children were fathered by one man—and this one as good as dead—like the number of stars in the sky and like the innumerable grains of sand on the seashore.
+[12] So in fact children were fathered by one man—and this one as good as dead—_like the number of stars in the sky and like the innumerable grains of sand_ _on_ _the seashore_.
 [13] These all died in faith without receiving the things promised, but they saw them in the distance and welcomed them and acknowledged that they were strangers and foreigners on the earth.
 [14] For those who speak in such a way make it clear that they are seeking a homeland.
 [15] In fact, if they had been thinking of the land that they had left, they would have had opportunity to return.
 [16] But as it is, they aspire to a better land, that is, a heavenly one. Therefore, God is not ashamed to be called their God, for he has prepared a city for them.
 [17] By faith Abraham, when he was tested, offered up Isaac. He had received the promises, yet he was ready to offer up his only son.
-[18] God had told him, “Through Isaac descendants will carry on your name,”
+[18] God had told him, “**_Through Isaac descendants will carry on your name_**,”
 [19] and he reasoned that God could even raise him from the dead, and in a sense he received him back from there.
 [20] By faith also Isaac blessed Jacob and Esau concerning the future.
-[21] By faith Jacob, as he was dying, blessed each of the sons of Joseph and worshiped as he leaned on his staff.
+[21] By faith Jacob, as he was dying, blessed each of the sons of Joseph and **_worshiped_** **_as he leaned on his staff_**.
 [22] By faith Joseph, at the end of his life, mentioned the exodus of the sons of Israel and gave instructions about his burial.
+
 [23] By faith, when Moses was born, his parents hid him for three months, because they saw the child was beautiful and they were not afraid of the king’s edict.
 [24] By faith, when he grew up, Moses refused to be called the son of Pharaoh’s daughter,
 [25] choosing rather to be ill-treated with the people of God than to enjoy sin’s fleeting pleasure.
@@ -336,6 +341,7 @@ You crowned him with glory and honor.
 [29] By faith they crossed the Red Sea as if on dry ground, but when the Egyptians tried it, they were swallowed up.
 [30] By faith the walls of Jericho fell after the people marched around them for seven days.
 [31] By faith Rahab the prostitute escaped the destruction of the disobedient, because she welcomed the spies in peace.
+
 [32] And what more shall I say? For time will fail me if I tell of Gideon, Barak, Samson, Jephthah, of David and Samuel and the prophets.
 [33] Through faith they conquered kingdoms, administered justice, gained what was promised, shut the mouths of lions,
 [34] quenched raging fire, escaped the edge of the sword, gained strength in weakness, became mighty in battle, put foreign armies to flight,
@@ -348,46 +354,46 @@ You crowned him with glory and honor.
 
 ## Chapter 12
 
-
 ### The Lord’s Discipline
 
 [1] Therefore, since we are surrounded by such a great cloud of witnesses, we must get rid of every weight and the sin that clings so closely, and run with endurance the race set out for us,
-[2] keeping our eyes fixed on Jesus, the pioneer and perfecter of our faith. For the joy set out for him he endured the cross, disregarding its shame, and has taken his seat at the right hand of the throne of God.
+[2] keeping our eyes fixed on Jesus, the pioneer and perfecter of our faith. For the joy set out for him he endured the cross, disregarding its shame, and _has taken his seat at the right hand of the throne_ of God.
 [3] Think of him who endured such opposition against himself by sinners, so that you may not grow weary in your souls and give up.
 [4] You have not yet resisted to the point of bloodshed in your struggle against sin.
 [5] And have you forgotten the exhortation addressed to you as sons?
-“My son, do not scorn the Lord’s discipline
-or give up when he corrects you.
-[6] “For the Lord disciplines the one he loves and chastises every son he accepts.”
+
+“_**My son, do not scorn**_ **_the Lord’s discipline_**<br>
+**_or give up when he corrects_** _**you**_.<br>
+[6] “_**For the Lord disciplines the one he loves and chastises every son he accepts**_.”<br>
 [7] Endure your suffering as discipline; God is treating you as sons. For what son is there that a father does not discipline?
 [8] But if you do not experience discipline, something all sons have shared in, then you are illegitimate and are not sons.
 [9] Besides, we have experienced discipline from our earthly fathers and we respected them; shall we not submit ourselves all the more to the Father of spirits and receive life?
 [10] For they disciplined us for a little while as seemed good to them, but he does so for our benefit, that we may share his holiness.
 [11] Now all discipline seems painful at the time, not joyful. But later it produces the fruit of peace and righteousness for those trained by it.
-[12] Therefore, strengthen your listless hands and your weak knees,
-[13] and make straight paths for your feet, so that what is lame may not be put out of joint but be healed.
+[12] Therefore, **_strengthen_** **_your listless hands and your weak knees_**,
+[13] and **_make_** **_straight paths for your feet_**, so that what is lame may not be put out of joint but be healed.
 
 ### Do Not Reject God’s Warning
 
 [14] Pursue peace with everyone, and holiness, for without it no one will see the Lord.
-[15] See to it that no one comes short of the grace of God, that no one be like a bitter root springing up and causing trouble, and through it many become defiled.
-[16] And see to it that no one becomes an immoral or godless person like Esau, who sold his own birthright for a single meal.
+[15] See to it that no one comes short of the grace of God, that no one be like _a bitter root springing up_ and causing trouble, and through it many become defiled.
+[16] And see to it that no one becomes an immoral or godless person like Esau, who _sold_ _his own birthright for a single meal_.
 [17] For you know that later when he wanted to inherit the blessing, he was rejected, for he found no opportunity for repentance, although he sought the blessing with tears.
 [18] For you have not come to something that can be touched, to a burning fire and darkness and gloom and a whirlwind
 [19] and the blast of a trumpet and a voice uttering words such that those who heard begged to hear no more.
-[20] For they could not bear what was commanded: “If even an animal touches the mountain, it must be stoned.”
-[21] In fact, the scene was so terrifying that Moses said, “I shudder with fear.”
+[20] For they could not bear what was commanded: “_**If even an animal touches the mountain, it must be stoned**_.”
+[21] In fact, the scene was so terrifying that Moses said, “**_I shudder with fear_**.”
 [22] But you have come to Mount Zion, the city of the living God, the heavenly Jerusalem, and to myriads of angels, to the assembly
 [23] and congregation of the firstborn, who are enrolled in heaven, and to God, the judge of all, and to the spirits of the righteous, who have been made perfect,
 [24] and to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks of something better than Abel’s does.
+
 [25] Take care not to refuse the one who is speaking! For if they did not escape when they refused the one who warned them on earth, how much less shall we, if we reject the one who warns from heaven?
-[26] Then his voice shook the earth, but now he has promised, “I will once more shake not only the earth but heaven too.”
-[27] Now this phrase “once more” indicates the removal of what is shaken, that is, of created things, so that what is unshaken may remain.
+[26] Then his voice shook the earth, but now he has promised, “**_I will once more shake not only the earth but heaven too_**.”
+[27] Now this phrase “**_once more_**” indicates the removal of what is shaken, that is, of created things, so that what is unshaken may remain.
 [28] So since we are receiving an unshakable kingdom, let us give thanks, and through this let us offer worship pleasing to God in devotion and awe.
-[29] For our God is indeed a devouring fire.
+[29] For our **_God_** **_is indeed a devouring fire_**.
 
 ## Chapter 13
-
 
 ### Final Exhortations
 
@@ -395,8 +401,8 @@ or give up when he corrects you.
 [2] Do not neglect hospitality, because through it some have entertained angels without knowing it.
 [3] Remember those in prison as though you were in prison with them, and those ill-treated as though you too felt their torment.
 [4] Marriage must be honored among all and the marriage bed kept undefiled, for God will judge sexually immoral people and adulterers.
-[5] Your conduct must be free from the love of money and you must be content with what you have, for he has said, “I will never leave you and I will never abandon you.”
-[6] So we can say with confidence, “The Lord is my helper, and I will not be afraid. What can people do to me?”
+[5] Your conduct must be free from the love of money and you must be content with what you have, for he has said, “**_I will never leave you and I will never abandon you_**.”
+[6] So we can say with confidence, “_**The Lord is my helper, and**_ _**I will not be afraid**. **What can people do to me?**_”
 [7] Remember your leaders, who spoke God’s message to you; reflect on the outcome of their lives and imitate their faith.
 [8] Jesus Christ is the same yesterday and today and forever!
 [9] Do not be carried away by all sorts of strange teachings. For it is good for the heart to be strengthened by grace, not ritual meals, which have never benefited those who participated in them.
@@ -407,6 +413,7 @@ or give up when he corrects you.
 [14] For here we have no lasting city, but we seek the city that is to come.
 [15] Through him then let us continually offer up a sacrifice of praise to God, that is, the fruit of our lips, acknowledging his name.
 [16] And do not neglect to do good and to share what you have, for God is pleased with such sacrifices.
+
 [17] Obey your leaders and submit to them, for they keep watch over your souls and will give an account for their work. Let them do this with joy and not with complaints, for this would be no advantage for you.
 [18] Pray for us, for we are sure that we have a clear conscience and desire to conduct ourselves rightly in every respect.
 [19] I especially ask you to pray that I may be restored to you very soon.
@@ -415,7 +422,9 @@ or give up when he corrects you.
 
 [20] Now may the God of peace who by the blood of the eternal covenant brought back from the dead the great shepherd of the sheep, our Lord Jesus,
 [21] equip you with every good thing to do his will, working in us what is pleasing before him through Jesus Christ, to whom be glory forever. Amen.
+
 [22] Now I urge you, brothers and sisters, bear with my message of exhortation, for in fact I have written to you briefly.
 [23] You should know that our brother Timothy has been released. If he comes soon, he will be with me when I see you.
 [24] Greetings to all your leaders and all the saints. Those from Italy send you greetings.
 [25] Grace be with you all.
+

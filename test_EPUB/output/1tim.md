@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,
@@ -15,22 +14,24 @@
 [5] But the aim of our instruction is love that comes from a pure heart, a good conscience, and a sincere faith.
 [6] Some have strayed from these and turned away to empty discussion.
 [7] They want to be teachers of the law, but they do not understand what they are saying or the things they insist on so confidently.
+
 [8] But we know that the law is good if someone uses it legitimately,
 [9] realizing that law is not intended for a righteous person, but for lawless and rebellious people, for the ungodly and sinners, for the unholy and profane, for those who kill their fathers or mothers, for murderers,
 [10] sexually immoral people, practicing homosexuals, kidnappers, liars, perjurers—in fact, for any who live contrary to sound teaching.
 [11] This accords with the glorious gospel of the blessed God that was entrusted to me.
+
 [12] I am grateful to the one who has strengthened me, Christ Jesus our Lord, because he considered me faithful in putting me into ministry,
 [13] even though I was formerly a blasphemer and a persecutor, and an arrogant man. But I was treated with mercy because I acted ignorantly in unbelief,
 [14] and our Lord’s grace was abundant, bringing faith and love in Christ Jesus.
 [15] This saying is trustworthy and deserves full acceptance: “Christ Jesus came into the world to save sinners”—and I am the worst of them!
 [16] But here is why I was treated with mercy: so that in me as the worst, Christ Jesus could demonstrate his utmost patience, as an example for those who are going to believe in him for eternal life.
 [17] Now to the eternal king, immortal, invisible, the only God, be honor and glory forever and ever! Amen.
+
 [18] I put this charge before you, Timothy my child, in keeping with the prophecies once spoken about you, in order that with such encouragement you may fight the good fight.
 [19] To do this you must hold firmly to faith and a good conscience, which some have rejected and so have suffered shipwreck in regard to the faith.
 [20] Among these are Hymenaeus and Alexander, whom I handed over to Satan to be taught not to blaspheme.
 
 ## Chapter 2
-
 
 ### Prayer for All People
 
@@ -55,7 +56,6 @@
 
 ## Chapter 3
 
-
 ### Qualifications for Overseers and Deacons
 
 [1] This saying is trustworthy: “If someone aspires to the office of overseer, he desires a good work.”
@@ -65,6 +65,7 @@
 [5] But if someone does not know how to manage his own household, how will he care for the church of God?
 [6] He must not be a recent convert or he may become arrogant and fall into the punishment that the devil will exact.
 [7] And he must be well thought of by those outside the faith, so that he may not fall into disgrace and be caught by the devil’s trap.
+
 [8] Deacons likewise must be dignified, not two-faced, not given to excessive drinking, not greedy for gain,
 [9] holding to the mystery of the faith with a clear conscience.
 [10] And these also must be tested first and then let them serve as deacons if they are found blameless.
@@ -77,15 +78,14 @@
 [14] I hope to come to you soon, but I am writing these instructions to you
 [15] in case I am delayed, to let you know how people ought to conduct themselves in the household of God, because it is the church of the living God, the support and bulwark of the truth.
 [16] And we all agree, our religion contains amazing revelation:
-He was revealed in the flesh,
-vindicated by the Spirit,
-seen by angels,
-proclaimed among Gentiles,
-believed on in the world,
-taken up in glory.
 
+He was revealed in the flesh,<br>
+vindicated by the Spirit,<br>
+seen by angels,<br>
+proclaimed among Gentiles,<br>
+believed on in the world,<br>
+taken up in glory.<br>
 ## Chapter 4
-
 
 ### Timothy’s Ministry in the Later Times
 
@@ -94,11 +94,13 @@ taken up in glory.
 [3] They will prohibit marriage and require abstinence from foods that God created to be received with thanksgiving by those who believe and know the truth.
 [4] For every creation of God is good and no food is to be rejected if it is received with thanksgiving.
 [5] For it is sanctified by God’s word and by prayer.
+
 [6] By pointing out such things to the brothers and sisters, you will be a good servant of Christ Jesus, having nourished yourself on the words of the faith and of the good teaching that you have followed.
 [7] But reject those myths fit only for the godless and gullible, and train yourself for godliness.
 [8] For “physical exercise has some value, but godliness is valuable in every way. It holds promise for the present life and for the life to come.”
 [9] This saying is trustworthy and deserves full acceptance.
 [10] In fact this is why we work hard and struggle, because we have set our hope on the living God, who is the Savior of all people, especially of believers.
+
 [11] Command and teach these things.
 [12] Let no one look down on you because you are young, but set an example for the believers in your speech, conduct, love, faithfulness, and purity.
 [13] Until I come, give attention to the public reading of scripture, to exhortation, to teaching.
@@ -108,17 +110,18 @@ taken up in glory.
 
 ## Chapter 5
 
-
 ### Instructions about Specific Groups
 
 [1] Do not address an older man harshly but appeal to him as a father. Speak to younger men as brothers,
 [2] older women as mothers, and younger women as sisters—with complete purity.
+
 [3] Honor widows who are truly in need.
 [4] But if a widow has children or grandchildren, they should first learn to fulfill their duty toward their own household and so repay their parents what is owed them. For this is what pleases God.
 [5] But the widow who is truly in need, and completely on her own, has set her hope on God and continues in her pleas and prayers night and day.
 [6] But the one who lives for pleasure is dead even while she lives.
 [7] Reinforce these commands, so that they will be beyond reproach.
 [8] But if someone does not provide for his own, especially his own family, he has denied the faith and is worse than an unbeliever.
+
 [9] No widow should be put on the list unless she is at least sixty years old, was the wife of one husband,
 [10] and has a reputation for good works: as one who has raised children, practiced hospitality, washed the feet of the saints, helped those in distress—as one who has exhibited all kinds of good works.
 [11] But do not accept younger widows on the list, because their passions may lead them away from Christ and they will desire to marry,
@@ -127,9 +130,10 @@ taken up in glory.
 [14] So I want younger women to marry, raise children, and manage a household, in order to give the adversary no opportunity to vilify us.
 [15] For some have already wandered away to follow Satan.
 [16] If a believing woman has widows in her family, let her help them. The church should not be burdened, so that it may help the widows who are truly in need.
+
 [17] Elders who provide effective leadership must be counted worthy of double honor, especially those who work hard in speaking and teaching.
-[18] For the scripture says, “Do not muzzle an ox while it is treading out the grain,” and, “The worker deserves his pay.”
-[19] Do not accept an accusation against an elder unless it can be confirmed by two or three witnesses.
+[18] For the scripture says, “**_Do not muzzle an ox while it is treading out the grain_**,” and, “The worker deserves his pay.”
+[19] Do not accept an accusation against an elder unless it can be confirmed _by two or three witnesses_.
 [20] Those guilty of sin must be rebuked before all, as a warning to the rest.
 [21] Before God and Christ Jesus and the elect angels, I solemnly charge you to carry out these commands without prejudice or favoritism of any kind.
 [22] Do not lay hands on anyone hastily and so identify with the sins of others. Keep yourself pure.
@@ -144,6 +148,7 @@ taken up in glory.
 
 ### Summary of Timothy’s Duties
 
+Teach them and exhort them about these things.
 [3] If someone spreads false teachings and does not agree with sound words (that is, those of our Lord Jesus Christ) and with the teaching that accords with godliness,
 [4] he is conceited and understands nothing, but has an unhealthy interest in controversies and verbal disputes. This gives rise to envy, dissension, slanders, evil suspicions,
 [5] and constant bickering by people corrupted in their minds and deprived of the truth, who suppose that godliness is a way of making a profit.
@@ -152,12 +157,14 @@ taken up in glory.
 [8] But if we have food and shelter, we will be satisfied with that.
 [9] Those who long to be rich, however, stumble into temptation and a trap and many senseless and harmful desires that plunge people into ruin and destruction.
 [10] For the love of money is the root of all evils. Some people in reaching for it have strayed from the faith and stabbed themselves with many pains.
+
 [11] But you, as a person dedicated to God, keep away from all that. Instead pursue righteousness, godliness, faithfulness, love, endurance, and gentleness.
 [12] Compete well for the faith and lay hold of that eternal life you were called for and made your good confession for in the presence of many witnesses.
 [13] I charge you before God who gives life to all things and Christ Jesus who made his good confession before Pontius Pilate,
 [14] to obey this command without fault or failure until the appearing of our Lord Jesus Christ
 [15] —whose appearing the blessed and only Sovereign, the King of kings and Lord of lords, will reveal at the right time.
 [16] He alone possesses immortality and lives in unapproachable light, whom no human has ever seen or is able to see. To him be honor and eternal power! Amen.
+
 [17] Command those who are rich in this world’s goods not to be haughty or to set their hope on riches, which are uncertain, but on God who richly provides us with all things for our enjoyment.
 [18] Tell them to do good, to be rich in good deeds, to be generous givers, sharing with others.
 [19] In this way they will save up a treasure for themselves as a firm foundation for the future and so lay hold of what is truly life.
@@ -166,3 +173,4 @@ taken up in glory.
 
 [20] O Timothy, protect what has been entrusted to you. Avoid the profane chatter and absurdities of so-called “knowledge.”
 [21] By professing it, some have strayed from the faith. Grace be with you all.
+

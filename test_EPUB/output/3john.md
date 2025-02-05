@@ -2,12 +2,12 @@
 
 ## Chapter 1
 
-
 ### Introduction and Thanksgiving
 
 [1] From the elder, to Gaius my dear brother, whom I love in truth.
 [2] Dear friend, I pray that all may go well with you and that you may be in good health, just as it is well with your soul.
 [3] For I rejoiced greatly when the brothers came and testified to your truth, just as you are living according to the truth.
+
 [4] I have no greater joy than this: to hear that my children are living according to the truth.
 
 ### The Charge to Gaius
@@ -32,3 +32,4 @@
 [13] I have many things to write to you, but I do not wish to write to you with pen and ink.
 [14] But I hope to see you right away, and we will speak face to face.
 [15] Peace be with you. The friends here greet you. Greet the friends there by name.
+

@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### The Prologue to the Letter
 
 [1] This is what we proclaim to you: what was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and our hands have touched (concerning the word of life—
@@ -11,7 +10,6 @@
 [4] Thus we are writing these things so that our joy may be complete.
 
 ## Chapter 2
-
 
 ### God Is Light, So We Must Walk in the Light
 
@@ -30,6 +28,7 @@
 [4] The one who says “I have come to know God” and yet does not keep his commandments is a liar, and the truth is not in such a person.
 [5] But whoever obeys his word, truly in this person the love of God has been perfected. By this we know that we are in him.
 [6] The one who says he resides in God ought himself to walk just as Jesus walked.
+
 [7] Dear friends, I am not writing a new commandment to you, but an old commandment which you have had from the beginning. The old commandment is the word that you have already heard.
 [8] On the other hand, I am writing a new commandment to you which is true in him and in you, because the darkness is passing away and the true light is already shining.
 [9] The one who says he is in the light but still hates his fellow Christian is still in the darkness.
@@ -41,6 +40,7 @@
 [12] I am writing to you, little children, that your sins have been forgiven because of his name.
 [13] I am writing to you, fathers, that you have known him who has been from the beginning. I am writing to you, young people, that you have conquered the evil one.
 [14] I have written to you, children, that you have known the Father. I have written to you, fathers, that you have known him who has been from the beginning. I have written to you, young people, that you are strong, and the word of God resides in you, and you have conquered the evil one.
+
 [15] Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him,
 [16] because all that is in the world (the desire of the flesh and the desire of the eyes and the arrogance produced by material possessions) is not from the Father, but is from the world.
 [17] And the world is passing away with all its desires, but the person who does the will of God remains forever.
@@ -49,13 +49,16 @@
 
 [18] Children, it is the last hour, and just as you heard that the antichrist is coming, so now many antichrists have appeared. We know from this that it is the last hour.
 [19] They went out from us, but they did not really belong to us, because if they had belonged to us, they would have remained with us. But they went out from us to demonstrate that all of them do not belong to us.
+
 [20] Nevertheless you have an anointing from the Holy One, and you all know.
 [21] I have not written to you that you do not know the truth, but that you do know it, and that no lie is of the truth.
 [22] Who is the liar but the person who denies that Jesus is the Christ ? This one is the antichrist: the person who denies the Father and the Son.
 [23] Everyone who denies the Son does not have the Father either. The person who confesses the Son has the Father also.
+
 [24] As for you, what you have heard from the beginning must remain in you. If what you heard from the beginning remains in you, you also will remain in the Son and in the Father.
 [25] Now this is the promise that he himself made to us: eternal life.
 [26] These things I have written to you about those who are trying to deceive you.
+
 [27] Now as for you, the anointing that you received from him resides in you, and you have no need for anyone to teach you. But as his anointing teaches you about all things, it is true and is not a lie. Just as it has taught you, you reside in him.
 
 ### Children of God
@@ -68,6 +71,7 @@
 [1] (See what sort of love the Father has given to us: that we should be called God’s children—and indeed we are! For this reason the world does not know us: because it did not know him.
 [2] Dear friends, we are God’s children now, and what we will be has not yet been revealed. We know that whenever it is revealed we will be like him, because we will see him just as he is.
 [3] And everyone who has this hope focused on him purifies himself, just as Jesus is pure).
+
 [4] Everyone who practices sin also practices lawlessness; indeed, sin is lawlessness.
 [5] And you know that Jesus was revealed to take away sins, and in him there is no sin.
 [6] Everyone who resides in him does not sin; everyone who sins has neither seen him nor known him.
@@ -80,11 +84,13 @@
 
 [11] For this is the gospel message that you have heard from the beginning: that we should love one another,
 [12] not like Cain who was of the evil one and brutally murdered his brother. And why did he murder him? Because his deeds were evil, but his brother’s were righteous.
+
 [13] Therefore do not be surprised, brothers and sisters, if the world hates you.
 [14] We know that we have crossed over from death to life because we love our fellow Christians. The one who does not love remains in death.
 [15] Everyone who hates his fellow Christian is a murderer, and you know that no murderer has eternal life residing in him.
 [16] We have come to know love by this: that Jesus laid down his life for us; thus we ought to lay down our lives for our fellow Christians.
 [17] But whoever has the world’s possessions and sees his fellow Christian in need and shuts off his compassion against him, how can the love of God reside in such a person?
+
 [18] Little children, let us not love with word or with tongue but in deed and truth.
 [19] And by this we will know that we are of the truth and will convince our conscience in his presence,
 [20] that if our conscience condemns us, that God is greater than our conscience and knows all things.
@@ -95,12 +101,12 @@
 
 ## Chapter 4
 
-
 ### Testing the Spirits
 
 [1] Dear friends, do not believe every spirit, but test the spirits to determine if they are from God, because many false prophets have gone out into the world.
 [2] By this you know the Spirit of God: Every spirit that confesses Jesus as the Christ who has come in the flesh is from God,
 [3] but every spirit that refuses to confess Jesus, that spirit is not from God, and this is the spirit of the antichrist, which you have heard is coming, and now is already in the world.
+
 [4] You are from God, little children, and have conquered them, because the one who is in you is greater than the one who is in the world.
 [5] They are from the world; therefore they speak from the world’s perspective and the world listens to them.
 [6] We are from God; the person who knows God listens to us, but whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of deceit.
@@ -111,10 +117,12 @@
 [8] The person who does not love does not know God, because God is love.
 [9] By this the love of God is revealed in us: that God has sent his one and only Son into the world so that we may live through him.
 [10] In this is love: not that we have loved God, but that he loved us and sent his Son to be the atoning sacrifice for our sins.
+
 [11] Dear friends, if God so loved us, then we also ought to love one another.
 [12] No one has seen God at any time. If we love one another, God resides in us, and his love is perfected in us.
 [13] By this we know that we reside in God and he in us: in that he has given us of his Spirit.
 [14] And we have seen and testify that the Father has sent the Son to be the Savior of the world.
+
 [15] If anyone confesses that Jesus is the Son of God, God resides in him and he in God.
 [16] And we have come to know and to believe the love that God has in us. God is love, and the one who resides in love resides in God, and God resides in him.
 [17] By this love is perfected with us, so that we may have confidence in the day of judgment, because just as Jesus is, so also are we in this world.
@@ -132,10 +140,12 @@
 
 ### Testimony About the Son
 
+This is the conquering power that has conquered the world: our faith.
 [5] Now who is the person who has conquered the world except the one who believes that Jesus is the Son of God?
 [6] Jesus Christ is the one who came by water and blood—not by the water only, but by the water and the blood. And the Spirit is the one who testifies, because the Spirit is the truth.
 [7] For there are three that testify,
 [8] the Spirit and the water and the blood, and these three are in agreement.
+
 [9] If we accept the testimony of men, the testimony of God is greater, because this is the testimony of God that he has testified concerning his Son.
 [10] (The one who believes in the Son of God has the testimony in himself; the one who does not believe God has made him a liar, because he has not believed in the testimony that God has testified concerning his Son.)
 [11] And this is the testimony: God has given us eternal life, and this life is in his Son.
@@ -144,11 +154,14 @@
 ### Assurance of Eternal Life
 
 [13] I have written these things to you who believe in the name of the Son of God so that you may know that you have eternal life.
+
 [14] And this is the confidence that we have before him: that whenever we ask anything according to his will, he hears us.
 [15] And if we know that he hears us in regard to whatever we ask, then we know that we have the requests that we have asked from him.
 [16] If anyone sees his fellow Christian committing a sin not resulting in death, he should ask, and God will grant life to the person who commits a sin not resulting in death. There is a sin resulting in death. I do not say that he should ask about that.
 [17] All unrighteousness is sin, but there is sin not resulting in death.
+
 [18] We know that everyone fathered by God does not sin, but God protects the one he has fathered, and the evil one cannot touch him.
 [19] We know that we are from God, and the whole world lies in the power of the evil one.
 [20] And we know that the Son of God has come and has given us insight to know him who is true, and we are in him who is true, in his Son Jesus Christ. This one is the true God and eternal life.
 [21] Little children, guard yourselves from idols.
+

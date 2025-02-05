@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, to the church of God that is in Corinth, with all the saints who are in all Achaia.
@@ -36,7 +35,6 @@
 
 ## Chapter 2
 
-
 ### Why Paul Postponed His Visit
 
 [23] Now I appeal to God as my witness, that to spare you I did not come again to Corinth.
@@ -64,19 +62,19 @@
 
 ## Chapter 3
 
-
 ### A Living Letter
 
 [1] Are we beginning to commend ourselves again? We don’t need letters of recommendation to you or from you as some other people do, do we?
 [2] You yourselves are our letter, written on our hearts, known and read by everyone,
-[3] revealing that you are a letter of Christ, delivered by us, written not with ink but by the Spirit of the living God, not on stone tablets but on tablets of human hearts.
+[3] revealing that you are a letter of Christ, delivered by us, written not with ink but by the Spirit of the living God, not _on_ _stone tablets_ but on tablets of human hearts.
+
 [4] Now we have such confidence in God through Christ.
 [5] Not that we are adequate in ourselves to consider anything as if it were coming from ourselves, but our adequacy is from God,
 [6] who made us adequate to be servants of a new covenant not based on the letter but on the Spirit, for the letter kills, but the Spirit gives life.
 
 ### The Greater Glory of the Spirit’s Ministry
 
-[7] But if the ministry that produced death—carved in letters on stone tablets —came with glory, so that the Israelites could not keep their eyes fixed on the face of Moses because of the glory of his face (a glory which was made ineffective),
+[7] But if the ministry that produced death—carved in letters _on_ _stone tablets_ —came with glory, so that the Israelites could not keep their eyes fixed on the face of Moses because of the glory of his face (a glory which was made ineffective),
 [8] how much more glorious will the ministry of the Spirit be?
 [9] For if there was glory in the ministry that produced condemnation, how much more does the ministry that produces righteousness excel in glory!
 [10] For indeed, what had been glorious now has no glory because of the tremendously greater glory of what replaced it.
@@ -85,12 +83,11 @@
 [13] and not like Moses who used to put a veil over his face to keep the Israelites from staring at the result of the glory that was made ineffective.
 [14] But their minds were closed. For to this very day, the same veil remains when they hear the old covenant read. It has not been removed because only in Christ is it taken away.
 [15] But until this very day whenever Moses is read, a veil lies over their minds,
-[16] but when one turns to the Lord, the veil is removed.
+[16] but when one turns to the Lord, _the veil is removed_.
 [17] Now the Lord is the Spirit, and where the Spirit of the Lord is present, there is freedom.
 [18] And we all, with unveiled faces reflecting the glory of the Lord, are being transformed into the same image from one degree of glory to another, which is from the Lord, who is the Spirit.
 
 ## Chapter 4
-
 
 ### Paul’s Perseverance in Ministry
 
@@ -99,7 +96,7 @@
 [3] But even if our gospel is veiled, it is veiled only to those who are perishing,
 [4] among whom the god of this age has blinded the minds of those who do not believe so they would not see the light of the glorious gospel of Christ, who is the image of God.
 [5] For we do not proclaim ourselves, but Jesus Christ as Lord, and ourselves as your slaves for Jesus’ sake.
-[6] For God, who said “Let light shine out of darkness,” is the one who shined in our hearts to give us the light of the glorious knowledge of God in the face of Christ.
+[6] For God, who said “_Let light shine out of darkness_,” is the one who shined in our hearts to give us the light of the glorious knowledge of God in the face of Christ.
 
 ### An Eternal Weight of Glory
 
@@ -109,7 +106,7 @@
 [10] always carrying around in our body the death of Jesus, so that the life of Jesus may also be made visible in our body.
 [11] For we who are alive are constantly being handed over to death for Jesus’ sake, so that the life of Jesus may also be made visible in our mortal body.
 [12] As a result, death is at work in us, but life is at work in you.
-[13] But since we have the same spirit of faith as that shown in what has been written, “I believed; therefore I spoke,” we also believe, therefore we also speak.
+[13] But since we have the same spirit of faith as that shown in what has been written, “**_I believed; therefore I spoke_**,” we also believe, therefore we also speak.
 [14] We do so because we know that the one who raised up Jesus will also raise us up with Jesus and will bring us with you into his presence.
 [15] For all these things are for your sake, so that the grace that is including more and more people may cause thanksgiving to increase to the glory of God.
 [16] Therefore we do not despair, but even if our physical body is wearing away, our inner person is being renewed day by day.
@@ -117,7 +114,6 @@
 [18] because we are not looking at what can be seen but at what cannot be seen. For what can be seen is temporary, but what cannot be seen is eternal.
 
 ## Chapter 5
-
 
 ### Living by Faith, Not by Sight
 
@@ -148,11 +144,10 @@
 
 ## Chapter 6
 
-
 ### God’s Suffering Servants
 
 [1] Now because we are fellow workers, we also urge you not to receive the grace of God in vain.
-[2] For he says, “I heard you at the acceptable time, and in the day of salvation I helped you.” Look, now is the acceptable time; look, now is the day of salvation!
+[2] For he says, “_**I heard you at the acceptable time, and in the day of salvation I helped you**_.” Look, now is **_the acceptable time_**; look, now is **_the day of salvation_**!
 [3] We do not give anyone an occasion for taking an offense in anything, so that no fault may be found with our ministry.
 [4] But as God’s servants, we have commended ourselves in every way, with great endurance, in persecutions, in difficulties, in distresses,
 [5] in beatings, in imprisonments, in riots, in troubles, in sleepless nights, in hunger,
@@ -161,6 +156,7 @@
 [8] through glory and dishonor, through slander and praise; regarded as impostors, and yet true;
 [9] as unknown, and yet well-known; as dying and yet—see!—we continue to live; as those who are scourged and yet not executed;
 [10] as sorrowful, but always rejoicing, as poor, but making many rich, as having nothing, and yet possessing everything.
+
 [11] We have spoken freely to you, Corinthians; our heart has been opened wide to you.
 [12] Our affection for you is not restricted, but you are restricted in your affections for us.
 [13] Now as a fair exchange—I speak as to my children—open wide your hearts to us also.
@@ -169,12 +165,11 @@
 
 [14] Do not become partners with those who do not believe, for what partnership is there between righteousness and lawlessness, or what fellowship does light have with darkness?
 [15] And what agreement does Christ have with Beliar? Or what does a believer share in common with an unbeliever?
-[16] And what mutual agreement does the temple of God have with idols? For we are the temple of the living God, just as God said, “I will live in them and will walk among them, and I will be their God, and they will be my people.”
-[17] Therefore “come out from their midst, and be separate,” says the Lord, “and touch no unclean thing, and I will welcome you,
-[18] and I will be a father to you, and you will be my sons and daughters,” says the All-Powerful Lord.
+[16] And what mutual agreement does the temple of God have with idols? For we are the temple of the living God, just as God said, “**_I will live in them_** _**and**_ _**will walk among them, and I will be their God, and they will be my people**_.”
+[17] Therefore “_**come out from their midst, and be separate**_,” says the Lord, “_**and**_ _**touch no unclean thing**,_ _and_ _I will welcome_ _you_,
+[18] _and_ _I will be a father to you, and you will be my sons and daughters_,” says the All-Powerful Lord.
 
 ## Chapter 7
-
 
 ### Self-Purification
 
@@ -200,7 +195,6 @@
 
 ## Chapter 8
 
-
 ### Completing the Collection for the Saints
 
 [1] Now we make known to you, brothers and sisters, the grace of God given to the churches of Macedonia,
@@ -217,7 +211,7 @@
 [12] For if the eagerness is present, the gift itself is acceptable according to whatever one has, not according to what he does not have.
 [13] For I do not say this so there would be relief for others and suffering for you, but as a matter of equality.
 [14] At the present time, your abundance will meet their need, so that one day their abundance may also meet your need, and thus there may be equality,
-[15] as it is written: “The one who gathered much did not have too much, and the one who gathered little did not have too little.”
+[15] as it is written: “**_The one who gathered_** **_much did not have too much, and the one who gathered little did not have too little_**.”
 
 ### The Mission of Titus
 
@@ -226,13 +220,12 @@
 [18] And we are sending along with him the brother who is praised by all the churches for his work in spreading the gospel.
 [19] In addition, this brother has also been chosen by the churches as our traveling companion as we administer this generous gift to the glory of the Lord himself and to show our readiness to help.
 [20] We did this as a precaution so that no one should blame us in regard to this generous gift we are administering.
-[21] For we are concerned about what is right not only before the Lord but also before men.
+[21] For we are _concerned_ _about what is right not only before the Lord but also before men_.
 [22] And we are sending with them our brother whom we have tested many times and found eager in many matters, but who now is much more eager than ever because of the great confidence he has in you.
 [23] If there is any question about Titus, he is my partner and fellow worker among you; if there is any question about our brothers, they are messengers of the churches, a glory to Christ.
 [24] Therefore show them openly before the churches the proof of your love and of our pride in you.
 
 ## Chapter 9
-
 
 ### Preparing the Gift
 
@@ -244,7 +237,7 @@
 [6] My point is this: The person who sows sparingly will also reap sparingly, and the person who sows generously will also reap generously.
 [7] Each one of you should give just as he has decided in his heart, not reluctantly or under compulsion, because God loves a cheerful giver.
 [8] And God is able to make all grace overflow to you so that because you have enough of everything in every way at all times, you will overflow in every good work.
-[9] Just as it is written, “He has scattered widely, he has given to the poor; his righteousness remains forever.”
+[9] Just as it is written, “**_He_** _**has scattered widely, he has given to the poor; his righteousness remains forever**_.”
 [10] Now God who provides seed for the sower and bread for food will provide and multiply your supply of seed and will cause the harvest of your righteousness to grow.
 [11] You will be enriched in every way so that you may be generous on every occasion, which is producing through us thanksgiving to God,
 [12] because the service of this ministry is not only providing for the needs of the saints but is also overflowing with many thanks to God.
@@ -253,7 +246,6 @@
 [15] Thanks be to God for his indescribable gift!
 
 ## Chapter 10
-
 
 ### Paul’s Authority from the Lord
 
@@ -276,11 +268,10 @@
 [14] For we were not overextending ourselves, as though we did not reach as far as you, because we were the first to reach as far as you with the gospel about Christ.
 [15] Nor do we boast beyond certain limits in the work done by others, but we hope that as your faith continues to grow, our work may be greatly expanded among you according to our limits,
 [16] so that we may preach the gospel in the regions that lie beyond you, and not boast of work already done in another person’s area.
-[17] But the one who boasts must boast in the Lord.
+[17] But **_the one who boasts must boast in the Lord_**.
 [18] For it is not the person who commends himself who is approved, but the person the Lord commends.
 
 ## Chapter 11
-
 
 ### Paul and His Opponents
 
@@ -323,7 +314,6 @@
 
 ## Chapter 12
 
-
 ### Paul’s Thorn in the Flesh
 
 [1] It is necessary to go on boasting. Though it is not profitable, I will go on to visions and revelations from the Lord.
@@ -353,10 +343,9 @@
 
 ## Chapter 13
 
-
 ### Paul’s Third Visit to Corinth
 
-[1] This is the third time I am coming to visit you. By the testimony of two or three witnesses every matter will be established.
+[1] This is the third time I am coming to visit you. **_By_** **_the testimony_** **_of two or three witnesses every matter will be established_**.
 [2] I said before when I was present the second time and now, though absent, I say again to those who sinned previously and to all the rest, that if I come again, I will not spare anyone,
 [3] since you are demanding proof that Christ is speaking through me. He is not weak toward you but is powerful among you.
 [4] For indeed he was crucified by reason of weakness, but he lives because of God’s power. For we also are weak in him, but we will live together with him, because of God’s power toward you.
@@ -372,3 +361,4 @@
 [11] Finally, brothers and sisters, rejoice, set things right, be encouraged, agree with one another, live in peace, and the God of love and peace will be with you.
 [12] Greet one another with a holy kiss. All the saints greet you.
 [13] The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.
+

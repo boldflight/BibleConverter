@@ -2,23 +2,25 @@
 
 ## Chapter 1
 
-
 ### Adonijah Tries to Seize the Throne
 
 [1] King David was very old; even when they covered him with blankets, he could not get warm.
 [2] His servants advised him, “A young virgin must be found for our master, the king, to take care of the king’s needs and serve as his nurse. She can also sleep with you and keep our master, the king, warm.”
 [3] So they looked through all Israel for a beautiful young woman and found Abishag, a Shunammite, and brought her to the king.
 [4] The young woman was very beautiful; she became the king’s nurse and served him, but the king was not intimate with her.
+
 [5] Now Adonijah, son of David and Haggith, was promoting himself, boasting, “I will be king!” He managed to acquire chariots and horsemen, as well as fifty men to serve as his royal guard.
 [6] (Now his father had never corrected him by saying, “Why do you do such things?” He was also very handsome and had been born right after Absalom.)
 [7] He collaborated with Joab son of Zeruiah and with Abiathar the priest, and they supported him.
 [8] But Zadok the priest, Benaiah son of Jehoiada, Nathan the prophet, Shimei, Rei, and David’s elite warriors did not ally themselves with Adonijah.
 [9] Adonijah sacrificed sheep, cattle, and fattened steers at the Stone of Zoheleth near En Rogel. He invited all his brothers, the king’s sons, as well as all the men of Judah, the king’s servants.
 [10] But he did not invite Nathan the prophet, Benaiah, the elite warriors, or his brother Solomon.
+
 [11] Nathan said to Bathsheba, Solomon’s mother, “Has it been reported to you that Haggith’s son Adonijah has become king behind our master David’s back?
 [12] Now let me give you some advice as to how you can save your life and your son Solomon’s life.
 [13] Visit King David and say to him, ‘My master, O king, did you not solemnly promise your servant, “Surely your son Solomon will be king after me; he will sit on my throne”? So why has Adonijah become king?’
 [14] While you are still there speaking to the king, I will arrive and verify your report.”
+
 [15] So Bathsheba visited the king in his private quarters. (The king was very old, and Abishag the Shunammite was serving the king.)
 [16] Bathsheba bowed down on the floor before the king. The king said, “What do you want?”
 [17] She replied to him, “My master, you swore an oath to your servant by the **Lord** your God, ‘Solomon your son will be king after me and he will sit on my throne.’
@@ -26,6 +28,7 @@
 [19] He has sacrificed many cattle, steers, and sheep and has invited all the king’s sons, Abiathar the priest, and Joab, the commander of the army, but he has not invited your servant Solomon.
 [20] Now, my master, O king, all Israel is watching anxiously to see who is named to succeed my master the king on the throne.
 [21] If a decision is not made, when my master the king is buried with his ancestors, my son Solomon and I will be considered state criminals.”
+
 [22] Just then, while she was still speaking to the king, Nathan the prophet arrived.
 [23] The king was told, “Nathan the prophet is here.” Nathan entered and bowed before the king with his face to the floor.
 [24] Nathan said, “My master, O king, did you announce, ‘Adonijah will be king after me; he will sit on my throne’?
@@ -39,15 +42,18 @@
 [29] The king swore an oath: “As certainly as the **Lord** lives (he who has rescued me from every danger),
 [30] I will keep today the oath I swore to you by the **Lord** God of Israel: ‘Surely Solomon your son will be king after me; he will sit in my place on my throne.’”
 [31] Bathsheba bowed down to the king with her face to the floor and said, “May my master, King David, live forever!”
+
 [32] King David said, “Summon Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada.” They came before the king,
 [33] and he told them, “Take your master’s servants with you, put my son Solomon on my mule, and lead him down to Gihon.
 [34] There Zadok the priest and Nathan the prophet will anoint him king over Israel; then blow the trumpet and declare, ‘Long live King Solomon!’
 [35] Then follow him up as he comes and sits on my throne. He will be king in my place; I have decreed that he will be ruler over Israel and Judah.”
 [36] Benaiah son of Jehoiada responded to the king: “So be it! May the **Lord** God of my master the king confirm it!
 [37] As the **Lord** is with my master the king, so may he be with Solomon, and may he make him an even greater king than my master King David!”
+
 [38] So Zadok the priest, Nathan the prophet, Benaiah son of Jehoiada, the Kerethites, and the Pelethites went down, put Solomon on King David’s mule, and led him to Gihon.
 [39] Zadok the priest took a horn filled with olive oil from the tent and poured it on Solomon; the trumpet was blown and all the people declared, “Long live King Solomon!”
 [40] All the people followed him up, playing flutes and celebrating so loudly they made the ground shake.
+
 [41] Now Adonijah and all his guests heard the commotion just as they had finished eating. When Joab heard the sound of the trumpet, he asked, “Why is there such a noisy commotion in the city?”
 [42] As he was still speaking, Jonathan son of Abiathar the priest arrived. Adonijah said, “Come in, for an important man like you must be bringing good news.”
 [43] Jonathan replied to Adonijah: “No! Our master King David has made Solomon king.
@@ -56,6 +62,7 @@
 [46] Furthermore, Solomon has assumed the royal throne.
 [47] The king’s servants have even come to congratulate our master King David, saying, ‘May your God make Solomon more famous than you and make him an even greater king than you!’ Then the king leaned on the bed
 [48] and said this: ‘The **Lord** God of Israel is worthy of praise because today he has placed a successor on my throne and allowed me to see it.’”
+
 [49] All of Adonijah’s guests panicked; they jumped up and rushed off their separate ways.
 [50] Adonijah feared Solomon, so he got up and went and grabbed hold of the horns of the altar.
 [51] Solomon was told, “Look, Adonijah fears you; see, he has taken hold of the horns of the altar, saying, ‘May King Solomon solemnly promise me today that he will not kill his servant with the sword.’”
@@ -64,39 +71,47 @@
 
 ## Chapter 2
 
-
 ### David’s Final Words to Solomon
 
 [1] When David was close to death, he told Solomon his son:
 [2] “I am about to die. Be strong and become a man!
 [3] Do the job the **Lord** your God has assigned you by following his instructions and obeying his rules, commandments, regulations, and laws as written in the law of Moses. Then you will succeed in all you do and seek to accomplish,
 [4] and the **Lord** will fulfill his promise to me, ‘If your descendants watch their step and live faithfully in my presence with all their heart and being, then,’ he promised, ‘you will not fail to have a successor on the throne of Israel.’
+
 [5] “You know what Joab son of Zeruiah did to me—how he murdered two commanders of the Israelite armies, Abner son of Ner and Amasa son of Jether. During peacetime he struck them down as if in battle; when he shed their blood, he stained the belt on his waist and the sandals on his feet.
 [6] Do to him what you think is appropriate, but don’t let him live long and die a peaceful death.
+
 [7] “Treat fairly the sons of Barzillai of Gilead and provide for their needs, because they helped me when I had to flee from your brother Absalom.
+
 [8] “Note well, you still have to contend with Shimei son of Gera, the Benjaminite from Bahurim, who tried to call down upon me a horrible judgment when I went to Mahanaim. He came down and met me at the Jordan, and I solemnly promised him by the **Lord**, ‘I will not strike you down with the sword.’
 [9] But now don’t treat him as if he were innocent. You are a wise man and you know how to handle him; make sure he has a bloody death.”
+
 [10] Then David passed away and was buried in the City of David.
 [11] David reigned over Israel forty years; he reigned in Hebron seven years, and in Jerusalem thirty-three years.
 
 ### Solomon Secures the Throne
 
 [12] Solomon sat on his father David’s throne, and his royal authority was firmly solidified.
+
 [13] Haggith’s son Adonijah visited Bathsheba, Solomon’s mother. She asked, “Do you come in peace?” He answered, “Yes.”
 [14] He added, “I have something to say to you.” She replied, “Speak.”
 [15] He said, “You know that the kingdom was mine and all Israel considered me king. But then the kingdom was given to my brother, for the **Lord** decided it should be his.
 [16] Now I’d like to ask you for just one thing. Please don’t refuse me.” She said, “Go ahead and ask.”
 [17] He said, “Please ask King Solomon if he would give me Abishag the Shunammite as a wife, for he won’t refuse you.”
 [18] Bathsheba replied, “That’s fine; I’ll speak to the king on your behalf.”
+
 [19] So Bathsheba visited King Solomon to speak to him on Adonijah’s behalf. The king got up to greet her, bowed to her, and then sat on his throne. He ordered a throne to be brought for the king’s mother, and she sat at his right hand.
 [20] She said, “I would like to ask you for just one small favor. Please don’t refuse me.” He said, “Go ahead and ask, my mother, for I would not refuse you.”
 [21] She said, “Allow Abishag the Shunammite to be given to your brother Adonijah as a wife.”
 [22] King Solomon answered his mother, “Why just request Abishag the Shunammite for him? Since he is my older brother, you should also request the kingdom for him, for Abiathar the priest, and for Joab son of Zeruiah!”
+
 [23] King Solomon then swore an oath by the **Lord**, “May God judge me severely, if Adonijah does not pay for this request with his life!
 [24] Now, as certainly as the **Lord** lives (he who made me secure, allowed me to sit on my father David’s throne, and established a dynasty for me as he promised), Adonijah will be executed today!”
 [25] King Solomon then sent Benaiah son of Jehoiada, and he killed Adonijah.
+
 [26] The king then told Abiathar the priest, “Go back to your property in Anathoth. You deserve to die, but today I will not kill you because you did carry the ark of the Sovereign **Lord** before my father David and you suffered with my father through all his difficult times.”
 [27] Solomon removed Abiathar from being a priest for the **Lord**, fulfilling the **Lord’**s message that he had pronounced against the family of Eli in Shiloh.
+
 [28] When the news reached Joab (for Joab had supported Adonijah, although he had not supported Absalom), he ran to the tent of the **Lord** and grabbed hold of the horns of the altar.
 [29] When King Solomon heard that Joab had run to the tent of the **Lord** and was right there beside the altar, he ordered Benaiah son of Jehoiada, “Go, strike him down.”
 [30] When Benaiah arrived at the tent of the **Lord**, he said to him, “The king says, ‘Come out!’” But he replied, “No, I will die here!” So Benaiah sent word to the king and reported Joab’s reply.
@@ -105,9 +120,11 @@
 [33] May Joab and his descendants be perpetually guilty of their shed blood, but may the **Lord** give perpetual peace to David, his descendants, his family, and his dynasty.”
 [34] So Benaiah son of Jehoiada went up and executed Joab; he was buried at his home in the wilderness.
 [35] The king appointed Benaiah son of Jehoiada to take his place at the head of the army, and the king appointed Zadok the priest to take Abiathar’s place.
+
 [36] Next the king summoned Shimei and told him, “Build yourself a house in Jerusalem and live there, but you may not leave there to go anywhere.
 [37] If you ever do leave and cross the Kidron Valley, know for sure that you will certainly die. You will be responsible for your own death.”
 [38] Shimei said to the king, “My master the king’s proposal is acceptable. Your servant will do as you say.” So Shimei lived in Jerusalem for a long time.
+
 [39] Three years later two of Shimei’s servants ran away to King Achish son of Maacah of Gath. Shimei was told, “Look, your servants are in Gath.”
 [40] So Shimei got up, saddled his donkey, and went to Achish at Gath to find his servants; Shimei went and brought back his servants from Gath.
 [41] When Solomon was told that Shimei had gone from Jerusalem to Gath and had then returned,
@@ -117,14 +134,16 @@
 [45] But King Solomon will be empowered, and David’s dynasty will endure permanently before the **Lord**.”
 [46] The king then gave the order to Benaiah son of Jehoiada who went and executed Shimei.
 
-## Chapter 3
+So Solomon took firm control of the kingdom.
 
+## Chapter 3
 
 ### The Lord Gives Solomon Wisdom
 
 [1] Solomon made an alliance by marriage with Pharaoh, king of Egypt; he married Pharaoh’s daughter. He brought her to the City of David until he could finish building his residence and the temple of the **Lord** and the wall around Jerusalem.
 [2] Now the people were offering sacrifices at the high places, because in those days a temple had not yet been built to honor the **Lord**.
 [3] Solomon demonstrated his loyalty to the **Lord** by following the practices of his father David, except that he offered sacrifices and burned incense on the high places.
+
 [4] The king went to Gibeon to offer sacrifices, for it had the most prominent of the high places. Solomon would offer up 1,000 burnt sacrifices on the altar there.
 [5] One night in Gibeon the **Lord** appeared to Solomon in a dream. God said, “Tell me what I should give you.”
 [6] Solomon replied, “You demonstrated great loyalty to your servant, my father David, as he served you faithfully, properly, and sincerely. You have maintained this great loyalty to this day by allowing his son to sit on his throne.
@@ -147,6 +166,7 @@
 [20] She got up in the middle of the night and took my son from my side, while your servant was sleeping. She put him in her arms, and put her dead son in my arms.
 [21] I got up in the morning to nurse my son, and there he was, dead! But when I examined him carefully in the morning, I realized it was not my baby.”
 [22] The other woman said, “No! My son is alive; your son is dead!” But the first woman replied, “No, your son is dead; my son is alive.” Each presented her case before the king.
+
 [23] The king said, “One says, ‘My son is alive; your son is dead,’ while the other says, ‘No, your son is dead; my son is alive.’”
 [24] The king ordered, “Get me a sword.” So they placed a sword before the king.
 [25] The king then said, “Cut the living child in two, and give half to one and half to the other!”
@@ -156,33 +176,60 @@
 
 ## Chapter 4
 
-
 ### Solomon’s Royal Court and Administrators
 
 [1] King Solomon ruled over all Israel.
 [2] These were his officials:
+
+Azariah son of Zadok was the priest.
+
 [3] Elihoreph and Ahijah, the sons of Shisha, wrote down what happened.
+
+Jehoshaphat son of Ahilud was in charge of the records.
+
 [4] Benaiah son of Jehoiada was commander of the army.
+
+Zadok and Abiathar were priests.
+
 [5] Azariah son of Nathan was supervisor of the district governors.
+
+Zabud son of Nathan was a priest and adviser to the king.
+
 [6] Ahishar was supervisor of the palace.
+
+Adoniram son of Abda was supervisor of the work crews.
+
 [7] Solomon had twelve district governors appointed throughout Israel who acquired supplies for the king and his palace. Each was responsible for one month in the year.
 [8] These were their names:
+
+Ben Hur was in charge of the hill country of Ephraim.
+
 [9] Ben Deker was in charge of Makaz, Shaalbim, Beth Shemesh, and Elon Beth Hanan.
+
 [10] Ben Hesed was in charge of Arubboth; he controlled Socoh and all the territory of Hepher.
+
 [11] Ben Abinadab was in charge of Naphath Dor. (He was married to Solomon’s daughter Taphath.)
+
 [12] Baana son of Ahilud was in charge of Taanach and Megiddo, as well as all of Beth Shean next to Zarethan below Jezreel, from Beth Shean to Abel Meholah and on past Jokmeam.
+
 [13] Ben Geber was in charge of Ramoth Gilead; he controlled the villages of Jair son of Manasseh in Gilead, as well as the region of Argob in Bashan, including sixty large walled cities with bronze bars locking their gates.
+
 [14] Ahinadab son of Iddo was in charge of Mahanaim.
+
 [15] Ahimaaz was in charge of Naphtali. (He married Solomon’s daughter Basemath.)
+
 [16] Baana son of Hushai was in charge of Asher and Aloth.
+
 [17] Jehoshaphat son of Paruah was in charge of Issachar.
+
 [18] Shimei son of Ela was in charge of Benjamin.
+
 [19] Geber son of Uri was in charge of the land of Gilead (the territory which had once belonged to King Sihon of the Amorites and to King Og of Bashan). He was sole governor of the area.
 
 ### Solomon’s Wealth and Fame
 
 [20] The people of Judah and Israel were as innumerable as the sand on the seashore; they had plenty to eat and drink and were happy.
-[21] (
+[21] (5:1) Solomon ruled all the kingdoms from the Euphrates River to the land of the Philistines, as far as the border of Egypt. These kingdoms paid tribute as Solomon’s subjects throughout his lifetime.
 [22] Each day Solomon’s royal court consumed thirty cors of finely milled flour, sixty cors of cereal,
 [23] ten calves fattened in the stall, 20 calves from the pasture, and 100 sheep, not to mention rams, gazelles, deer, and well-fed birds.
 [24] His royal court was so large because he ruled over all the kingdoms west of the Euphrates River from Tiphsah to Gaza; he was at peace with all his neighbors.
@@ -190,6 +237,7 @@
 [26] Solomon had 4,000 stalls for his chariot horses and 12,000 horses.
 [27] The district governors acquired supplies for King Solomon and all who ate in his royal palace. Each was responsible for one month in the year; they made sure nothing was lacking.
 [28] Each one also brought to the assigned location his quota of barley and straw for the various horses.
+
 [29] God gave Solomon wisdom and very great discernment; the breadth of his understanding was as infinite as the sand on the seashore.
 [30] Solomon was wiser than all the men of the east and all the sages of Egypt.
 [31] He was wiser than any man, including Ethan the Ezrahite or Heman, Calcol, and Darda, the sons of Mahol. He was famous in all the neighboring nations.
@@ -199,21 +247,23 @@
 
 ## Chapter 5
 
-
 ### Solomon Gathers Building Materials for the Temple
 
-[1] (
+[1] (5:15) King Hiram of Tyre sent messengers to Solomon when he heard that he had been anointed king in his father’s place. (Hiram had always been an ally of David.)
 [2] Solomon then sent this message to Hiram:
 [3] “You know that my father David was unable to build a temple to honor the **Lord** his God, for he was busy fighting battles on all fronts while the **Lord** subdued his enemies.
 [4] But now the **Lord** my God has made me secure on all fronts; there is no adversary or dangerous threat.
 [5] So I have decided to build a temple to honor the **Lord** my God, as the **Lord** instructed my father David, ‘Your son, whom I will put on your throne in your place, is the one who will build a temple to honor me.’
 [6] So now order some cedars of Lebanon to be cut for me. My servants will work with your servants. I will pay your servants whatever you say is appropriate, for you know that we have no one among us who knows how to cut down trees like the Sidonians.”
+
 [7] When Hiram heard Solomon’s message, he was very happy. He said, “The **Lord** is worthy of praise today because he has given David a wise son to rule over this great nation.”
 [8] Hiram then sent this message to Solomon: “I received the message you sent to me. I will give you all the cedars and evergreens you need.
 [9] My servants will bring the timber down from Lebanon to the sea. I will send it by sea in raft-like bundles to the place you designate. There I will separate the logs and you can carry them away. In exchange you will supply the food I need for my royal court.”
+
 [10] So Hiram supplied the cedars and evergreens Solomon needed,
 [11] and Solomon supplied Hiram annually with 20,000 cors of wheat as provision for his royal court, as well as 120,000 gallons of pure olive oil.
 [12] So the **Lord** gave Solomon wisdom, as he had promised him. And Hiram and Solomon were at peace and made a treaty.
+
 [13] King Solomon conscripted work crews from throughout Israel, 30,000 men in all.
 [14] He sent them to Lebanon in shifts of 10,000 men per month. They worked in Lebanon for one month, and then spent two months at home. Adoniram was supervisor of the work crews.
 [15] Solomon also had 70,000 common laborers and 80,000 stonecutters in the hills,
@@ -222,7 +272,6 @@
 [18] Solomon’s and Hiram’s construction workers, along with men from Byblos, did the chiseling and prepared the wood and stones for the building of the temple.
 
 ## Chapter 6
-
 
 ### The Building of the Temple
 
@@ -236,24 +285,29 @@
 [8] The entrance to the bottom level of side rooms was on the south side of the temple; stairs went up to the middle floor and then on up to the third floor.
 [9] He finished building the temple and covered it with rafters and boards made of cedar.
 [10] He built an extension all around the temple; it was 7½ feet high and it was attached to the temple by cedar beams.
+
 [11] The **Lord’**s message came to Solomon:
 [12] “As for this temple you are building, if you follow my rules, observe my regulations, and obey all my commandments, I will fulfill through you the promise I made to your father David.
 [13] I will live among the Israelites and will not abandon my people Israel.”
+
 [14] So Solomon finished building the temple.
 [15] He constructed the walls inside the temple with cedar planks; he paneled the inside with wood from the floor of the temple to the rafters of the ceiling. He covered the temple floor with boards made from the wood of evergreens.
 [16] He built a wall 30 feet in from the rear of the temple as a partition for an inner sanctuary that would be the Most Holy Place. He paneled the wall with cedar planks from the floor to the rafters.
 [17] The main hall in front of the inner sanctuary was 60 feet long.
 [18] The inside of the temple was all cedar and was adorned with carvings of round ornaments and of flowers in bloom. Everything was cedar; no stones were visible.
+
 [19] He prepared the inner sanctuary inside the temple so that the ark of the covenant of the **Lord** could be placed there.
 [20] The inner sanctuary was 30 feet long, 30 feet wide, and 30 feet high. He plated it with gold, as well as the cedar altar.
 [21] Solomon plated the inside of the temple with gold. He hung golden chains in front of the inner sanctuary and plated the inner sanctuary with gold.
 [22] He plated the entire inside of the temple with gold, as well as the altar inside the inner sanctuary.
+
 [23] In the inner sanctuary he made two cherubim of olive wood; each stood 15 feet high.
 [24] Each of the first cherub’s wings was 7½ feet long; its entire wingspan was 15 feet.
 [25] The second cherub also had a wingspan of 15 feet; it was identical to the first in measurements and shape.
 [26] Each cherub stood 15 feet high.
 [27] He put the cherubim in the inner sanctuary of the temple. Their wings were spread out. One of the first cherub’s wings touched one wall and one of the other cherub’s wings touched the opposite wall. The first cherub’s other wing touched the second cherub’s other wing in the middle of the room.
 [28] He plated the cherubim with gold.
+
 [29] On all the walls around the temple, inside and out, he carved cherubim, palm trees, and flowers in bloom.
 [30] He plated the floor of the temple with gold, inside and out.
 [31] He made doors of olive wood at the entrance to the inner sanctuary; the pillar on each doorpost was five-sided.
@@ -262,11 +316,11 @@
 [34] He also made two doors out of wood from evergreens; each door had two folding leaves.
 [35] He carved cherubim, palm trees, and flowers in bloom and plated them with gold, leveled out over the carvings.
 [36] He built the inner courtyard with three rows of chiseled stones and a row of cedar beams.
+
 [37] In the month of Ziv in the fourth year of Solomon’s reign the foundation was laid for the **Lord**’s temple.
 [38] In the eleventh year, in the month of Bul (the eighth month) the temple was completed in accordance with all its specifications and blueprints. It took seven years to build.
 
 ## Chapter 7
-
 
 ### The Building of the Royal Palace
 
@@ -287,6 +341,7 @@
 
 [13] King Solomon sent for Hiram of Tyre.
 [14] He was the son of a widow from the tribe of Naphtali, and his father was a craftsman in bronze from Tyre. He had the skill and knowledge to make all kinds of works of bronze. He reported to King Solomon and did all the work he was assigned.
+
 [15] He fashioned two bronze pillars; each pillar was 27 feet high and 18 feet in circumference.
 [16] He made two bronze tops for the pillars; each was 7½ feet high.
 [17] The latticework on the tops of the pillars was adorned with ornamental wreaths and chains; the top of each pillar had seven groupings of ornaments.
@@ -295,10 +350,12 @@
 [20] On the top of each pillar, right above the bulge beside the latticework, there were 200 pomegranate-shaped ornaments arranged in rows all the way around.
 [21] He set up the pillars on the porch in front of the main hall. He erected one pillar on the right side and called it Yakin; he erected the other pillar on the left side and called it Boaz.
 [22] The tops of the pillars were shaped like lilies. So the construction of the pillars was completed.
+
 [23] He also made the large bronze basin called “The Sea.” It measured 15 feet from rim to rim, was circular in shape, and stood 7½ feet high. Its circumference was 45 feet.
 [24] Under the rim all the way around it were round ornaments arranged in settings 15 feet long. The ornaments were in two rows and had been cast with “The Sea.”
 [25] “The Sea” stood on top of twelve bulls. Three faced northward, three westward, three southward, and three eastward. “The Sea” was placed on top of them, and they all faced outward.
 [26] It was four fingers thick and its rim was like that of a cup shaped like a lily blossom. It could hold about 12,000 gallons.
+
 [27] He also made ten bronze movable stands. Each stand was 6 feet long, 6 feet wide, and 4½ feet high.
 [28] The stands were constructed with frames between the joints.
 [29] On these frames and joints were ornamental lions, bulls, and cherubim. Under the lions and bulls were decorative wreaths.
@@ -310,8 +367,10 @@
 [35] On top of each stand was a round opening three-quarters of a foot deep; there were also supports and frames on top of the stands.
 [36] He engraved ornamental cherubim, lions, and palm trees on the plates of the supports and frames wherever there was room, with wreaths all around.
 [37] He made the ten stands in this way. All of them were cast in one mold and were identical in measurements and shape.
+
 [38] He also made ten bronze basins, each of which could hold about 240 gallons. Each basin was 6 feet in diameter; there was one basin for each stand.
 [39] He put five basins on the south side of the temple and five on the north side. He put “The Sea” on the south side, in the southeast corner.
+
 [40] Hiram also made basins, shovels, and bowls. He finished all the work on the **Lord**’s temple he had been assigned by King Solomon.
 [41] He made the two pillars, the two bowl-shaped tops of the pillars, the latticework for the bowl-shaped tops of the two pillars,
 [42] the 400 pomegranate-shaped ornaments for the latticework of the two pillars (each latticework had two rows of these ornaments at the bowl-shaped top of the pillar),
@@ -320,13 +379,13 @@
 [45] and the pots, shovels, and bowls. All these items King Solomon assigned Hiram to make for the **Lord**’s temple were made from polished bronze.
 [46] The king had them cast in earth foundries in the region of the Jordan between Sukkoth and Zarethan.
 [47] Solomon left all these items unweighed; there were so many of them they did not weigh the bronze.
+
 [48] Solomon also made all these items for the **Lord**’s temple: the gold altar, the gold table on which was kept the Bread of the Presence,
 [49] the pure gold lampstands at the entrance to the inner sanctuary (five on the right and five on the left), the gold flower-shaped ornaments, lamps, and tongs,
 [50] the pure gold bowls, trimming shears, basins, pans, and censers, and the gold door sockets for the inner sanctuary (the Most Holy Place) and for the doors of the main hall of the temple.
 [51] When King Solomon finished constructing the **Lord**’s temple, he put the holy items that belonged to his father David (the silver, gold, and other articles) in the treasuries of the **Lord**’s temple.
 
 ## Chapter 8
-
 
 ### Solomon Moves the Ark into the Temple
 
@@ -335,12 +394,14 @@
 [3] When all Israel’s elders had arrived, the priests lifted the ark.
 [4] The priests and Levites carried the ark of the **Lord**, the tent of meeting, and all the holy items in the tent.
 [5] Now King Solomon and all the Israelites who had assembled with him went on ahead of the ark and sacrificed more sheep and cattle than could be counted or numbered.
+
 [6] The priests brought the ark of the **Lord**’s covenant to its assigned place in the inner sanctuary of the temple, in the Most Holy Place, under the wings of the cherubim.
 [7] The cherubim’s wings extended over the place where the ark sat; the cherubim overshadowed the ark and its poles.
 [8] The poles were so long their ends were visible from the Holy Place in front of the inner sanctuary, but they could not be seen from beyond that point. They have remained there to this very day.
 [9] There was nothing in the ark except the two stone tablets Moses had placed there in Horeb. It was there that the **Lord** made a covenant with the Israelites after he brought them out of the land of Egypt.
 [10] Once the priests left the Holy Place, a cloud filled the **Lord**’s temple.
 [11] The priests could not carry out their duties because of the cloud; the **Lord**’s glory filled his temple.
+
 [12] Then Solomon said, “The **Lord** has said that he lives in thick darkness.
 [13] O **Lord**, truly I have built a lofty temple for you, a place where you can live permanently.”
 [14] Then the king turned around and pronounced a blessing over the whole Israelite assembly as they stood there.
@@ -359,33 +420,43 @@
 [24] You have kept your word to your servant, my father David; this very day you have fulfilled what you promised.
 [25] Now, O **Lord**, God of Israel, keep the promise you made to your servant, my father David, when you said, ‘You will never fail to have a successor ruling before me on the throne of Israel, provided that your descendants watch their step and serve me as you have done.’
 [26] Now, O God of Israel, may the promise you made to your servant, my father David, be realized.
+
 [27] “God does not really live on the earth! Look, if the sky and the highest heaven cannot contain you, how much less this temple I have built!
 [28] But respond favorably to your servant’s prayer and his request for help, O **Lord** my God. Answer the desperate prayer your servant is presenting to you today.
 [29] Night and day may you watch over this temple, the place where you promised you would live. May you answer your servant’s prayer for this place.
 [30] Respond to the request of your servant and your people Israel for this place. Hear from inside your heavenly dwelling place and respond favorably.
+
 [31] “When someone is accused of sinning against his neighbor and the latter pronounces a curse on the alleged offender before your altar in this temple, be willing to forgive the accused if the accusation is false.
 [32] Listen from heaven and make a just decision about your servants’ claims. Condemn the guilty party, declare the other innocent, and give both of them what they deserve.
+
 [33] “The time will come when your people Israel are defeated by an enemy because they sinned against you. If they come back to you, renew their allegiance to you, and pray for your help in this temple,
 [34] then listen from heaven, forgive the sin of your people Israel, and bring them back to the land you gave to their ancestors.
+
 [35] “The time will come when the skies are shut up tightly and no rain falls because your people sinned against you. When they direct their prayers toward this place, renew their allegiance to you, and turn away from their sin because you punish them,
 [36] then listen from heaven and forgive the sin of your servants, your people Israel. Certainly you will then teach them the right way to live and send rain on your land that you have given your people to possess.
+
 [37] “The time will come when the land suffers from a famine, a plague, blight and disease, or a locust invasion, or when their enemy lays siege to the cities of the land, or when some other type of plague or epidemic occurs.
 [38] When all your people Israel pray and ask for help, as they acknowledge their pain and spread out their hands toward this temple,
 [39] then listen from your heavenly dwelling place, forgive their sin, and act favorably toward each one based on your evaluation of his motives. (Indeed you are the only one who can correctly evaluate the motives of all people.)
 [40] Then they will obey you throughout their lifetimes as they live on the land you gave to our ancestors.
+
 [41] “Foreigners, who do not belong to your people Israel, will come from a distant land because of your reputation.
 [42] When they hear about your great reputation and your ability to accomplish mighty deeds, they will come and direct their prayers toward this temple.
 [43] Then listen from your heavenly dwelling place and answer all the prayers of the foreigners. Then all the nations of the earth will acknowledge your reputation, obey you as your people Israel do, and recognize that this temple I built belongs to you.
+
 [44] “When you direct your people to march out and fight their enemies, and they direct their prayers to the **Lord** toward his chosen city and this temple I built for your honor,
 [45] then listen from heaven to their prayers for help and vindicate them.
+
 [46] “The time will come when your people will sin against you (for there is no one who is sinless!) and you will be angry with them and deliver them over to their enemies, who will take them as prisoners to their own land, whether far away or close by.
 [47] When your people come to their senses in the land where they are held prisoner, they will repent and beg for your mercy in the land of their imprisonment, admitting, ‘We have sinned and gone astray; we have done evil.’
 [48] When they return to you with all their heart and being in the land where they are held prisoner, and direct their prayers to you toward the land you gave to their ancestors, your chosen city, and the temple I built for your honor,
 [49] then listen from your heavenly dwelling place to their prayers for help and vindicate them.
 [50] Forgive all the rebellious acts of your sinful people and cause their captors to have mercy on them.
 [51] After all, they are your people and your special possession whom you brought out of Egypt, from the middle of the iron-smelting furnace.
+
 [52] “May you be attentive to your servant’s and your people Israel’s requests for help and may you respond to all their prayers to you.
 [53] After all, you picked them out of all the nations of the earth to be your special possession, just as you, O Sovereign **Lord**, announced through your servant Moses when you brought our ancestors out of Egypt.”
+
 [54] When Solomon finished presenting all these prayers and requests to the **Lord**, he got up from before the altar of the **Lord** where he had kneeled and spread out his hands toward the sky.
 [55] When he stood up, he pronounced a blessing over the entire assembly of Israel, saying in a loud voice:
 [56] “The **Lord** is worthy of praise because he has made Israel his people secure just as he promised! Not one of all the faithful promises he made through his servant Moses is left unfulfilled!
@@ -405,7 +476,6 @@
 
 ## Chapter 9
 
-
 ### The Lord Gives Solomon a Promise and a Warning
 
 [1] After Solomon finished building the **Lord**’s temple, the royal palace, and all the other construction projects he had planned,
@@ -413,6 +483,7 @@
 [3] The **Lord** said to him, “I have answered your prayer and your request for help that you made to me. I have consecrated this temple you built by making it my permanent home; I will be constantly present there.
 [4] You must serve me with integrity and sincerity, just as your father David did. Do everything I commanded and obey my rules and regulations.
 [5] Then I will allow your dynasty to rule over Israel permanently, just as I promised your father David, ‘You will not fail to have a successor on the throne of Israel.’
+
 [6] “But if you or your sons ever turn away from me, fail to obey the regulations and rules I instructed you to keep, and decide to serve and worship other gods,
 [7] then I will remove Israel from the land I have given them, I will abandon this temple I have consecrated with my presence, and Israel will be mocked and ridiculed among all the nations.
 [8] This temple will become a heap of ruins; everyone who passes by it will be shocked and will hiss out their scorn, saying, ‘Why did the **Lord** do this to this land and this temple?’
@@ -425,6 +496,7 @@
 [12] When Hiram went out from Tyre to inspect the towns Solomon had given him, he was not pleased with them.
 [13] Hiram asked, “Why did you give me these towns, my friend?” He called that area the region of Cabul, a name which it has retained to this day.
 [14] Hiram had sent to the king 120 talents of gold.
+
 [15] Here are the details concerning the work crews King Solomon conscripted to build the **Lord**’s temple, his palace, the terrace, the wall of Jerusalem, and the cities of Hazor, Megiddo, and Gezer.
 [16] (Pharaoh, king of Egypt, had attacked and captured Gezer. He burned it and killed the Canaanites who lived in the city. He gave it as a wedding present to his daughter, who had married Solomon.)
 [17] Solomon built up Gezer, lower Beth Horon,
@@ -435,13 +507,14 @@
 [22] Solomon did not assign Israelites to these work crews; the Israelites served as his soldiers, attendants, officers, charioteers, and commanders of his chariot forces.
 [23] These men were also in charge of Solomon’s work projects; there were a total of 550 men who supervised the workers.
 [24] Solomon built the terrace as soon as Pharaoh’s daughter moved up from the City of David to the palace Solomon built for her.
+
 [25] Three times a year Solomon offered burnt offerings and peace offerings on the altar he had built for the **Lord**, burning incense along with them before the **Lord**. He made the temple his official worship place.
+
 [26] King Solomon also built ships in Ezion Geber, which is located near Elat in the land of Edom, on the shore of the Red Sea.
 [27] Hiram sent his fleet and some of his sailors, who were well acquainted with the sea, to serve with Solomon’s men.
 [28] They sailed to Ophir, took from there 420 talents of gold, and then brought them to King Solomon.
 
 ## Chapter 10
-
 
 ### Solomon Entertains a Queen
 
@@ -465,14 +538,18 @@
 [15] besides what he collected from the merchants, traders, Arabian kings, and governors of the land.
 [16] King Solomon made 200 large shields of hammered gold; 600 measures of gold were used for each shield.
 [17] He also made 300 small shields of hammered gold; three minas of gold were used for each of these shields. The king placed them in the Palace of the Lebanon Forest.
+
 [18] The king made a large throne decorated with ivory and overlaid it with pure gold.
 [19] There were six steps leading up to the throne, and the back of it was rounded on top. The throne had two armrests with a statue of a lion standing on each side.
 [20] There were twelve statues of lions on the six steps, one lion at each end of each step. There was nothing like it in any other kingdom.
+
 [21] All of King Solomon’s cups were made of gold, and all the household items in the Palace of the Lebanon Forest were made of pure gold. There were no silver items, for silver was not considered very valuable in Solomon’s time.
 [22] Along with Hiram’s fleet, the king had a fleet of large merchant ships that sailed the sea. Once every three years the fleet came into port with cargoes of gold, silver, ivory, apes, and peacocks.
+
 [23] King Solomon was wealthier and wiser than any of the kings of the earth.
 [24] Everyone in the world wanted to visit Solomon to see him display his God-given wisdom.
 [25] Year after year visitors brought their gifts, which included items of silver, items of gold, clothes, perfume, spices, horses, and mules.
+
 [26] Solomon accumulated chariots and horses. He had 1,400 chariots and 12,000 horses. He kept them in assigned cities and in Jerusalem.
 [27] The king made silver as plentiful in Jerusalem as stones; cedar was as plentiful as sycamore fig trees are in the foothills.
 [28] Solomon acquired his horses from Egypt and from Que; the king’s traders purchased them from Que.
@@ -480,22 +557,24 @@
 
 ## Chapter 11
 
-
 ### The Lord Punishes Solomon for Idolatry
 
 [1] King Solomon fell in love with many foreign women (besides Pharaoh’s daughter), including Moabites, Ammonites, Edomites, Sidonians, and Hittites.
 [2] They came from nations about which the **Lord** had warned the Israelites, “You must not establish friendly relations with them! If you do, they will surely shift your allegiance to their gods.” But Solomon was irresistibly attracted to them.
+
 [3] He had 700 royal wives and 300 concubines; his wives had a powerful influence over him.
 [4] When Solomon became old, his wives shifted his allegiance to other gods; he was not wholeheartedly devoted to the **Lord** his God, as his father David had been.
 [5] Solomon worshiped the Sidonian goddess Astarte and the detestable Ammonite god Milcom.
 [6] Solomon did evil in the**Lord**’s sight; he did not remain loyal to the **Lord**, as his father David had.
 [7] Furthermore, on the hill east of Jerusalem Solomon built a high place for the detestable Moabite god Chemosh and for the detestable Ammonite god Milcom.
 [8] He built high places for all his foreign wives so they could burn incense and make sacrifices to their gods.
+
 [9] The **Lord** was angry with Solomon because he had shifted his allegiance away from the **Lord**, the God of Israel, who had appeared to him on two occasions
 [10] and had warned him about this very thing, so that he would not follow other gods. But he did not obey the **Lord**’s command.
 [11] So the **Lord** said to Solomon, “Because you insist on doing these things and have not kept the covenantal rules I gave you, I will surely tear the kingdom away from you and give it to your servant.
 [12] However, for your father David’s sake I will not do this while you are alive. I will tear it away from your son’s hand instead.
 [13] But I will not tear away the entire kingdom; I will leave your son one tribe for my servant David’s sake and for the sake of my chosen city Jerusalem.”
+
 [14] The **Lord** brought against Solomon an enemy, Hadad the Edomite, a descendant of the Edomite king.
 [15] During David’s campaign against Edom, Joab, the commander of the army, while on a mission to bury the dead, killed every male in Edom.
 [16] For Joab and the entire Israelite army stayed there six months until they had exterminated every male in Edom.
@@ -505,9 +584,11 @@
 [20] Tahpenes’ sister gave birth to his son, named Genubath. Tahpenes raised him in Pharaoh’s palace; Genubath grew up in Pharaoh’s palace among Pharaoh’s sons.
 [21] While in Egypt Hadad heard that David had passed away and that Joab, the commander of the army, was dead. So Hadad asked Pharaoh, “Give me permission to leave so I can return to my homeland.”
 [22] Pharaoh said to him, “What do you lack here that makes you want to go to your homeland?” Hadad replied, “Nothing, but please give me permission to leave.”
+
 [23] God also brought against Solomon another enemy, Rezon son of Eliada who had run away from his master, King Hadadezer of Zobah.
 [24] He gathered some men and organized a raiding band. When David tried to kill them, they went to Damascus, where they settled down and gained control of the city.
 [25] He was Israel’s enemy throughout Solomon’s reign and, like Hadad, caused trouble. He loathed Israel and ruled over Syria.
+
 [26] Jeroboam son of Nebat, one of Solomon’s servants, rebelled against the king. He was an Ephraimite from Zeredah whose mother was a widow named Zeruah.
 [27] This is what prompted him to rebel against the king: Solomon built a terrace, and he closed up a gap in the wall of the city of his father David.
 [28] Jeroboam was a talented man; when Solomon saw that the young man was an accomplished worker, he made him the leader of the work crew from the tribe of Joseph.
@@ -532,7 +613,6 @@
 
 ## Chapter 12
 
-
 ### Rehoboam Loses His Kingdom
 
 [1] Rehoboam traveled to Shechem, for all Israel had gathered in Shechem to make Rehoboam king.
@@ -540,21 +620,25 @@
 [3] They sent for him, and Jeroboam and the whole Israelite assembly came and spoke to Rehoboam, saying,
 [4] “Your father made us work too hard. Now if you lighten the demands he made and don’t make us work as hard, we will serve you.”
 [5] He said to them, “Go away for three days, then return to me.” So the people went away.
+
 [6] King Rehoboam consulted with the older advisers who had served his father Solomon when he had been alive. He asked them, “How do you advise me to answer these people?”
 [7] They said to him, “Today if you will be a servant to these people and grant their request, speaking kind words to them, they will be your servants from this time forward.”
 [8] But Rehoboam rejected their advice and consulted the young advisers who served him, with whom he had grown up.
 [9] He asked them, “How do you advise me to respond to these people who said to me, ‘Lessen the demands your father placed on us’?”
 [10] The young advisers with whom Rehoboam had grown up said to him, “Say this to these people who have said to you, ‘Your father made us work hard, but now lighten our burden.’ Say this to them: ‘I am a lot harsher than my father!
 [11] My father imposed heavy demands on you; I will make them even heavier. My father punished you with ordinary whips; I will punish you with whips that really sting your flesh.’”
+
 [12] Jeroboam and all the people reported to Rehoboam on the third day, just as the king had ordered when he said, “Return to me on the third day.”
 [13] The king responded to the people harshly. He rejected the advice of the older men
 [14] and followed the advice of the younger ones. He said, “My father imposed heavy demands on you; I will make them even heavier. My father punished you with ordinary whips; I will punish you with whips that really sting your flesh.”
 [15] The king refused to listen to the people, because the **Lord** was instigating this turn of events so that he might bring to pass the prophetic announcement he had made through Ahijah the Shilonite to Jeroboam son of Nebat.
+
 [16] When all Israel saw that the king refused to listen to them, the people answered the king, “We have no portion in David, no share in the son of Jesse! Return to your homes, O Israel! Now, look after your own dynasty, O David!” So Israel returned to their homes.
 [17] (Rehoboam continued to rule over the Israelites who lived in the cities of Judah.)
 [18] King Rehoboam sent Adoniram, the supervisor of the work crews, out after them, but all Israel stoned him to death. King Rehoboam managed to jump into his chariot and escape to Jerusalem.
 [19] So Israel has been in rebellion against the Davidic dynasty to this very day.
 [20] When all Israel heard that Jeroboam had returned, they summoned him to the assembly and made him king over all Israel. No one except the tribe of Judah remained loyal to the Davidic dynasty.
+
 [21] When Rehoboam arrived in Jerusalem, he summoned 180,000 skilled warriors from all Judah and the tribe of Benjamin to attack Israel and restore the kingdom to Rehoboam son of Solomon.
 [22] But God told Shemaiah the prophet,
 [23] “Say this to King Rehoboam son of Solomon of Judah, and to all Judah and Benjamin, as well as the rest of the people,
@@ -568,11 +652,11 @@
 [28] After the king had consulted with his advisers, he made two golden calves. Then he said to the people, “It is too much trouble for you to go up to Jerusalem. Look, Israel, here are your gods who brought you up from the land of Egypt.”
 [29] He put one in Bethel and the other in Dan.
 [30] This caused Israel to sin; the people went to Bethel and Dan to worship the calves.
+
 [31] He built temples on the high places and appointed as priests common people who were not Levites.
 [32] Jeroboam inaugurated a festival on the fifteenth day of the eighth month, like the festival celebrated in Judah. On the altar in Bethel he offered sacrifices to the calves he had made. In Bethel he also appointed priests for the high places he had made.
 
 ## Chapter 13
-
 
 ### A Prophet from Judah Visits Bethel
 
@@ -587,6 +671,7 @@
 [8] But the prophet said to the king, “Even if you were to give me half your possessions, I would not go with you. I am not allowed to eat food or drink water in this place.
 [9] For this is how I was commanded in the **Lord’**s message, ‘Eat no food. Drink no water. And do not return by the way you came.’”
 [10] So he started back on another road; he did not travel back on the same road he had taken to Bethel.
+
 [11] Now there was an old prophet living in Bethel. When his sons came home, they told him everything the prophet had done in Bethel that day. And they told their father all the words that he had spoken to the king.
 [12] Their father asked them, “Which road did he take?” His sons showed him the road the prophet from Judah had taken.
 [13] He then told his sons, “Saddle the donkey for me.” When they had saddled the donkey for him, he mounted it
@@ -596,11 +681,15 @@
 [17] For an order came to me in the **Lord’**s message, ‘Eat no food. Drink no water there. And do not return by the way you came.’”
 [18] Then the old prophet said, “I too am a prophet like you. And an angel has told me in a message from the **Lord**, ‘Bring him back with you to your house so he can eat food and drink water.’” But he had lied to him.
 [19] So the prophet went back with him. He ate food in his house and he drank water.
+
 [20] While they were sitting at the table, the **Lord’**s message came to the old prophet who had brought him back.
 [21] So he cried out to the prophet who had come from Judah, “This is what the **Lord** has said, ‘You have rebelled against the **Lord**’s instruction and have not obeyed the command the **Lord** your God gave you.
 [22] You went back. You ate food. And you drank water in the place of which he had said to you, “Eat no food. Drink no water.” Therefore your corpse will not be buried in your ancestral tomb.’”
+
 [23] So this is what happened after he had eaten food and drunk water. The old prophet saddled the donkey for the prophet whom he had brought back.
 [24] So the prophet from Judah travelled on. Then a lion attacked him on the road and killed him.
+
+There was his body lying on the road, with the donkey standing next to it, and the lion just standing there by the body.
 [25] Then some men came passing by and saw the body lying in the road with the lion standing next to the body. They went and reported what they had seen in the city where the old prophet lived.
 [26] When the old prophet who had invited him to his house heard the news, he said, “It is the prophet who rebelled against the **Lord**. The **Lord** delivered him over to the lion and it tore him up and killed him, in keeping with the **Lord’s** message that he had spoken to him.”
 [27] He told his sons, “Saddle my donkey.” So they saddled it.
@@ -620,6 +709,7 @@
 [1] At that time Jeroboam’s son Abijah became sick.
 [2] Jeroboam told his wife, “Disguise yourself so that people cannot recognize you are Jeroboam’s wife. Then go to Shiloh; Ahijah the prophet, who told me I would rule over this nation, lives there.
 [3] Take ten loaves of bread, some small cakes, and a container of honey and visit him. He will tell you what will happen to the boy.”
+
 [4] Jeroboam’s wife did as she was told. She went to Shiloh and visited Ahijah. Now Ahijah could not see; he had lost his eyesight in his old age.
 [5] But the **Lord** had told Ahijah, “Look, Jeroboam’s wife is coming to find out from you what will happen to her son, for he is sick. Tell her such and such. When she comes, she will be in a disguise.”
 [6] When Ahijah heard the sound of her footsteps as she came through the door, he said, “Come on in, wife of Jeroboam! Why are you pretending to be someone else? I have been commissioned to give you bad news.
@@ -628,11 +718,13 @@
 [9] You have sinned more than all who came before you. You went and angered me by making other gods, formed out of metal; you have completely disregarded me.
 [10] So I am ready to bring disaster on the dynasty of Jeroboam. I will cut off every last male belonging to Jeroboam in Israel, including even the weak and incapacitated. I will burn up the dynasty of Jeroboam, just as one burns manure until it is completely consumed.
 [11] Dogs will eat the members of your family who die in the city, and the birds of the sky will eat the ones who die in the country.”’ Indeed, the **Lord** has announced it!
+
 [12] “As for you, get up and go home. When you set foot in the city, the boy will die.
 [13] All Israel will mourn him and bury him. He is the only one in Jeroboam’s family who will receive a decent burial, for he is the only one in whom the **Lord** God of Israel found anything good.
 [14] The **Lord** will raise up a king over Israel who will cut off Jeroboam’s dynasty. It is ready to happen!
 [15] The **Lord** will attack Israel, making it like a reed that sways in the water. He will remove Israel from this good land he gave to their ancestors and scatter them beyond the Euphrates River, because they angered the **Lord** by making Asherah poles.
 [16] He will hand Israel over to their enemies because of the sins which Jeroboam committed and which he made Israel commit.”
+
 [17] So Jeroboam’s wife got up and went back to Tirzah. As she crossed the threshold of the house, the boy died.
 [18] All Israel buried him and mourned for him, in keeping with the **Lord’**s message that he had spoken through his servant, the prophet Ahijah.
 
@@ -644,19 +736,21 @@
 ### Rehoboam’s Reign over Judah
 
 [21] Now Rehoboam son of Solomon ruled in Judah. He was forty-one years old when he became king and he ruled for seventeen years in Jerusalem, the city the **Lord** chose from all the tribes of Israel to be his home. His mother was an Ammonite woman named Naamah.
+
 [22] Judah did evil in the sight of the **Lord**. They made him more jealous by their sins than their ancestors had done.
 [23] They even built for themselves high places, sacred pillars, and Asherah poles on every high hill and under every green tree.
 [24] There were also male cultic prostitutes in the land. They committed the same horrible sins as the nations that the **Lord** had driven out from before the Israelites.
+
 [25] In King Rehoboam’s fifth year, King Shishak of Egypt attacked Jerusalem.
 [26] He took away the treasures of the **Lord**’s temple and of the royal palace; he took everything, including all the golden shields that Solomon had made.
 [27] King Rehoboam made bronze shields to replace them and assigned them to the officers of the royal guard who protected the entrance to the royal palace.
 [28] Whenever the king visited the **Lord**’s temple, the royal guard carried them and then brought them back to the guardroom.
+
 [29] The rest of the events of Rehoboam’s reign, including his accomplishments, are recorded in the scroll called the Annals of the Kings of Judah.
 [30] Rehoboam and Jeroboam were continually at war with each other.
 [31] Rehoboam passed away and was buried with his ancestors in the City of David. His mother was an Ammonite named Naamah. His son Abijah replaced him as king.
 
 ## Chapter 15
-
 
 ### Abijah’s Reign over Judah
 
@@ -678,6 +772,7 @@
 [13] He also removed Maacah his grandmother from her position as queen mother because she had made a loathsome Asherah pole. Asa cut down her loathsome pole and burned it in the Kidron Valley.
 [14] The high places were not eliminated, yet Asa was wholeheartedly devoted to the **Lord** throughout his lifetime.
 [15] He brought the holy items that he and his father had made into the **Lord**’s temple, including the silver, gold, and other articles.
+
 [16] Now Asa and King Baasha of Israel were continually at war with each other.
 [17] King Baasha of Israel attacked Judah and established Ramah as a military outpost to prevent anyone from leaving or entering the land of King Asa of Judah.
 [18] Asa took all the silver and gold that was left in the treasuries of the **Lord**’s temple and of the royal palace and handed it to his servants. He then told them to deliver it to Ben Hadad son of Tabrimmon, the son of Hezion, king of Syria, ruler in Damascus, along with this message:
@@ -685,6 +780,7 @@
 [20] Ben Hadad accepted King Asa’s offer and ordered his army commanders to attack the cities of Israel. They conquered Ijon, Dan, Abel Beth Maacah, and all the territory of Naphtali, including the region of Kinnereth.
 [21] When Baasha heard the news, he stopped fortifying Ramah and settled down in Tirzah.
 [22] King Asa ordered all the men of Judah (no exemptions were granted) to carry away the stones and wood that Baasha had used to build Ramah. King Asa used the materials to build up Geba (in Benjamin) and Mizpah.
+
 [23] The rest of the events of Asa’s reign, including all his successes and accomplishments, as well as a record of the cities he built, are recorded in the scroll called the Annals of the Kings of Judah. Yet when he was very old he developed a foot disease.
 [24] Asa passed away and was buried with his ancestors in the city of his ancestor David. His son Jehoshaphat replaced him as king.
 
@@ -692,10 +788,12 @@
 
 [25] In the second year of Asa’s reign over Judah, Jeroboam’s son Nadab became the king of Israel; he ruled Israel for two years.
 [26] He did evil in the sight of the **Lord**. He followed in his father’s footsteps and encouraged Israel to sin.
+
 [27] Baasha son of Ahijah, from the tribe of Issachar, conspired against Nadab and assassinated him in Gibbethon, which was in Philistine territory. This happened while Nadab and all the Israelite army were besieging Gibbethon.
 [28] Baasha killed him in the third year of Asa’s reign over Judah and replaced him as king.
 [29] When he became king, he executed Jeroboam’s entire family. He wiped out everyone who breathed, in keeping with the **Lord’**s message that he had spoken through his servant Ahijah the Shilonite.
 [30] This happened because of the sins which Jeroboam committed and which he made Israel commit. These sins angered the **Lord** God of Israel.
+
 [31] The rest of the events of Nadab’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
 [32] Asa and King Baasha of Israel were continually at war with each other.
 
@@ -710,6 +808,7 @@
 [2] “I raised you up from the dust and made you ruler over my people Israel. Yet you followed in Jeroboam’s footsteps and encouraged my people Israel to sin; their sins have made me angry.
 [3] So I am ready to burn up Baasha and his family, and make your family like the family of Jeroboam son of Nebat.
 [4] Dogs will eat the members of Baasha’s family who die in the city, and the birds of the sky will eat the ones who die in the country.”
+
 [5] The rest of the events of Baasha’s reign, including his accomplishments and successes, are recorded in the scroll called the Annals of the Kings of Israel.
 [6] Baasha passed away and was buried in Tirzah. His son Elah replaced him as king.
 [7] And so it was the **Lord**’s message came through the prophet Jehu son of Hanani against Baasha and his family. This was because of all the evil he had done in the **Lord’s** view, by angering him with his deeds and becoming like Jeroboam’s dynasty, and because of how he had destroyed Jeroboam’s dynasty.
@@ -722,6 +821,7 @@
 [11] When he became king and occupied the throne, he killed Baasha’s entire family. He did not spare any male belonging to him; he killed his relatives and his friends.
 [12] Zimri destroyed Baasha’s entire family, in keeping with the **Lord’**s message which he had spoken against Baasha through Jehu the prophet.
 [13] This happened because of all the sins which Baasha and his son Elah committed and which they made Israel commit. They angered the **Lord** God of Israel with their worthless idols.
+
 [14] The rest of the events of Elah’s reign, including all his accomplishments, are recorded in the scroll called the Annals of the Kings of Israel.
 
 ### Zimri’s Reign over Israel
@@ -731,16 +831,19 @@
 [17] Omri and all Israel went up from Gibbethon and besieged Tirzah.
 [18] When Zimri saw that the city was captured, he went into the fortified area of the royal palace. He set the palace on fire and died in the flames.
 [19] This happened because of the sins he committed. He did evil in the sight of the **Lord** and followed in Jeroboam’s footsteps and encouraged Israel to continue sinning.
+
 [20] The rest of the events of Zimri’s reign, including the details of his revolt, are recorded in the scroll called the Annals of the Kings of Israel.
 
 ### Omri’s Reign over Israel
 
 [21] At that time the people of Israel were divided in their loyalties. Half the people supported Tibni son of Ginath and wanted to make him king; the other half supported Omri.
 [22] Omri’s supporters were stronger than those who supported Tibni son of Ginath. Tibni died; Omri became king.
+
 [23] In the thirty-first year of Asa’s reign over Judah, Omri became king over Israel. He ruled for twelve years, six of them in Tirzah.
 [24] He purchased the hill of Samaria from Shemer for two talents of silver. He launched a construction project there and named the city he built after Shemer, the former owner of the hill of Samaria.
 [25] Omri did more evil in the sight of the **Lord** than all who were before him.
 [26] He followed in the footsteps of Jeroboam son of Nebat and encouraged Israel to sin; they angered the **Lord** God of Israel with their worthless idols.
+
 [27] The rest of the events of Omri’s reign, including his accomplishments and successes, are recorded in the scroll called the Annals of the Kings of Israel.
 [28] Omri passed away and was buried in Samaria. His son Ahab replaced him as king.
 
@@ -751,10 +854,10 @@
 [31] As if following in the sinful footsteps of Jeroboam son of Nebat were not bad enough, he married Jezebel the daughter of King Ethbaal of the Sidonians. Then he worshiped and bowed to Baal.
 [32] He set up an altar for Baal in the temple of Baal he had built in Samaria.
 [33] Ahab also made an Asherah pole; he did more to anger the **Lord** God of Israel than all the kings of Israel who were before him.
+
 [34] During Ahab’s reign, Hiel the Bethelite rebuilt Jericho. Abiram, his firstborn son, died when he laid the foundation; Segub, his youngest son, died when he erected its gates, in keeping with the **Lord’**s message that he had spoken through Joshua son of Nun.
 
 ## Chapter 17
-
 
 ### Elijah Visits a Widow in Sidonian Territory
 
@@ -764,6 +867,7 @@
 [4] Drink from the stream; I have already told the ravens to bring you food there.”
 [5] So he carried out the **Lord**’s message; he went and lived in the Kerith Valley near the Jordan.
 [6] The ravens would bring him bread and meat each morning and evening, and he would drink from the stream.
+
 [7] After a while, the stream dried up because there had been no rain in the land.
 [8] The **Lord’**s message came to him,
 [9] “Get up, go to Zarephath in Sidonian territory, and live there. I have already told a widow who lives there to provide for you.”
@@ -774,6 +878,7 @@
 [14] For this is what the **Lord** God of Israel has said: ‘The jar of flour will not be empty and the jug of oil will not run out until the day the **Lord** makes it rain on the surface of the ground.’”
 [15] She went and did as Elijah told her; there was always enough food for Elijah and for her and her family.
 [16] The jar of flour was never empty and the jug of oil never ran out, in keeping with the **Lord’**s message that he had spoken through Elijah.
+
 [17] After this the son of the woman who owned the house got sick. His illness was so severe he could no longer breathe.
 [18] She asked Elijah, “Why, prophet, have you come to me to confront me with my sin and kill my son?”
 [19] He said to her, “Hand me your son.” He took him from her arms, carried him to the upper room where he was staying, and laid him down on his bed.
@@ -785,15 +890,17 @@
 
 ## Chapter 18
 
-
 ### Elijah Meets the King’s Servant
 
 [1] Some time later, in the third year of the famine, the **Lord’s**message came to Elijah, “Go, make an appearance before Ahab, so I may send rain on the surface of the ground.”
 [2] So Elijah went to make an appearance before Ahab.
+
+Now the famine was severe in Samaria.
 [3] So Ahab summoned Obadiah, who supervised the palace. (Now Obadiah was a very loyal follower of the **Lord**.
 [4] When Jezebel was killing the **Lord**’s prophets, Obadiah took 100 prophets and hid them in two caves in two groups of fifty. He also brought them food and water.)
 [5] Ahab told Obadiah, “Go through the land to all the springs and valleys. Maybe we can find some grazing areas so we can keep the horses and mules alive and not have to kill some of the animals.”
 [6] They divided up the land between them to search it; Ahab went one way by himself and Obadiah went the other way by himself.
+
 [7] As Obadiah was traveling along, Elijah met him. When he recognized him, he fell facedown to the ground and said, “Is it really you, my master, Elijah?”
 [8] He replied, “Yes, go and say to your master, ‘Elijah is back.’”
 [9] Obadiah said, “What sin have I committed that you are ready to hand your servant over to Ahab for execution?
@@ -810,16 +917,19 @@
 [17] When Ahab saw Elijah, he said to him, “Is it really you, the one who brings disaster on Israel?”
 [18] Elijah replied, “I have not brought disaster on Israel. But you and your father’s dynasty have, by abandoning the **Lord**’s commandments and following the Baals.
 [19] Now send out messengers and assemble all Israel before me at Mount Carmel, as well as the 450 prophets of Baal and 400 prophets of Asherah whom Jezebel supports.”
+
 [20] Ahab sent messengers to all the Israelites and had the prophets assemble at Mount Carmel.
 [21] Elijah approached all the people and said, “How long are you going to be paralyzed by indecision? If the **Lord** is the true God, then follow him, but if Baal is, follow him!” But the people did not say a word.
 [22] Elijah said to them: “I am the only prophet of the **Lord** who is left, but there are 450 prophets of Baal.
 [23] Let them bring us two bulls. Let them choose one of the bulls for themselves, cut it up into pieces, and place it on the wood. But they must not set it on fire. I will do the same to the other bull and place it on the wood. But I will not set it on fire.
 [24] Then you will invoke the name of your god, and I will invoke the name of the **Lord**. The god who responds with fire will demonstrate that he is the true God.” All the people responded, “This will be a fair test.”
+
 [25] Elijah told the prophets of Baal, “Choose one of the bulls for yourselves and go first, for you are the majority. Invoke the name of your god, but do not light a fire.”
 [26] So they took a bull, as he had suggested, and prepared it. They invoked the name of Baal from morning until noon, saying, “Baal, answer us.” But there was no sound and no answer. They jumped around on the altar they had made.
 [27] At noon Elijah mocked them, “Yell louder! After all, he is a god; he may be deep in thought, or perhaps he stepped out for a moment or has taken a trip. Perhaps he is sleeping and needs to be awakened.”
 [28] So they yelled louder and, in accordance with their prescribed ritual, mutilated themselves with swords and spears until their bodies were covered with blood.
 [29] Throughout the afternoon they were in an ecstatic frenzy, but there was no sound, no answer, and no response.
+
 [30] Elijah then told all the people, “Approach me.” So all the people approached him. He repaired the altar of the **Lord** that had been torn down.
 [31] Then Elijah took twelve stones, corresponding to the number of tribes that descended from Jacob, to whom the **Lord’**s message had come, “Israel will be your name.”
 [32] With the stones he constructed an altar for the **Lord**. Around the altar he made a trench large enough to contain two seahs of seed.
@@ -831,6 +941,7 @@
 [38] Then fire from the **Lord** fell from the sky. It consumed the offering, the wood, the stones, and the dirt, and licked up the water in the trench.
 [39] When all the people saw this, they threw themselves down with their faces to the ground and said, “The **Lord** is the true God! The **Lord** is the true God!”
 [40] Elijah told them, “Seize the prophets of Baal! Don’t let even one of them escape!” So they seized them, and Elijah led them down to the Kishon Valley and executed them there.
+
 [41] Then Elijah told Ahab, “Go on up and eat and drink, for the sound of a heavy rainstorm can be heard.”
 [42] So Ahab went on up to eat and drink, while Elijah climbed to the top of Carmel. He bent down toward the ground and put his face between his knees.
 [43] He told his servant, “Go on up and look in the direction of the sea.” So he went on up, looked, and reported, “There is nothing.” Seven times Elijah sent him to look.
@@ -840,20 +951,23 @@
 
 ## Chapter 19
 
-
 ### Elijah Runs for His Life
 
 [1] Ahab told Jezebel all that Elijah had done, including a detailed account of how he killed all the prophets with the sword.
 [2] Jezebel sent a messenger to Elijah with this warning, “May the gods judge me severely if by this time tomorrow I do not take your life as you did theirs!”
+
 [3] Elijah was afraid, so he got up and fled for his life to Beer Sheba in Judah. He left his servant there,
 [4] while he went a day’s journey into the wilderness. He went and sat down under a shrub and asked the **Lord** to take his life: “I’ve had enough! Now, O **Lord**, take my life. After all, I’m no better than my ancestors.”
 [5] He stretched out and fell asleep under the shrub. Suddenly an angelic messenger touched him and said, “Get up and eat.”
 [6] He looked and right there by his head was a cake baking on hot coals and a jug of water. He ate and drank and then slept some more.
 [7] The angel of the **Lord** came back again, touched him, and said, “Get up and eat, for otherwise you won’t be able to make the journey.”
 [8] So he got up and ate and drank. That meal gave him the strength to travel forty days and forty nights until he reached Horeb, the mountain of God.
+
 [9] He went into a cave there and spent the night. Suddenly the **Lord’**s message came to him, “Why are you here, Elijah?”
 [10] He answered, “I have been absolutely loyal to the **Lord** God of Heaven’s Armies, even though the Israelites have abandoned the covenant they made with you, torn down your altars, and killed your prophets with the sword. I alone am left and now they want to take my life.”
 [11] The **Lord** said, “Go out and stand on the mountain before the **Lord**. Look, the **Lord** is ready to pass by.”
+
+A very powerful wind went before the **Lord**, digging into the mountain and causing landslides, but the **Lord** was not in the wind. After the windstorm there was an earthquake, but the **Lord** was not in the earthquake.
 [12] After the earthquake, there was a fire, but the **Lord** was not in the fire. After the fire, there was a soft whisper.
 [13] When Elijah heard it, he covered his face with his robe and went out and stood at the entrance to the cave. Suddenly a voice asked him, “Why are you here, Elijah?”
 [14] He answered, “I have been absolutely loyal to the **Lord** God of Heaven’s Armies, even though the Israelites have abandoned the covenant they made with you, torn down your altars, and killed your prophets with the sword. I alone am left and now they want to take my life.”
@@ -861,12 +975,12 @@
 [16] You must anoint Jehu son of Nimshi king over Israel, and Elisha son of Shaphat from Abel Meholah to take your place as prophet.
 [17] Jehu will kill anyone who escapes Hazael’s sword, and Elisha will kill anyone who escapes Jehu’s sword.
 [18] I still have left in Israel 7,000 followers who have not bowed their knees to Baal or kissed the images of him.”
+
 [19] Elijah went from there and found Elisha son of Shaphat. He was plowing with twelve pairs of oxen; he was near the twelfth pair. Elijah passed by him and threw his robe over him.
 [20] He left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, then I will follow you.” Elijah said to him, “Go back! Indeed, what have I done to you?”
 [21] Elisha went back and took his pair of oxen and slaughtered them. He cooked the meat over a fire that he made by burning the harness and yoke. He gave the people meat and they ate. Then he got up and followed Elijah and became his assistant.
 
 ## Chapter 20
-
 
 ### Ben Hadad Invades Israel
 
@@ -874,11 +988,13 @@
 [2] He sent messengers to King Ahab of Israel, who was in the city. He said to him, “This is what Ben Hadad says:
 [3] ‘Your silver and your gold are mine, as well as the best of your wives and sons.’”
 [4] The king of Israel replied, “It is just as you say, my master, O king. I and all I own belong to you.”
+
 [5] The messengers came again and said, “This is what Ben Hadad says: ‘I sent this message to you, “You must give me your silver, gold, wives, and sons.”
 [6] But now at this time tomorrow I will send my servants to you and they will search through your palace and your servants’ houses. They will carry away all your valuables.’”
 [7] The king of Israel summoned all the leaders of the land and said, “Notice how this man is looking for trouble. Indeed, he demanded my wives, sons, silver, and gold, and I did not resist him.”
 [8] All the leaders and people said to him, “Do not give in or agree to his demands.”
 [9] So he said to the messengers of Ben Hadad, “Say this to my master, the king: ‘I will give you everything you demanded at first from your servant, but I am unable to agree to this latest demand.’” So the messengers went back and gave their report.
+
 [10] Ben Hadad sent another message to him, “May the gods judge me severely if there is enough dirt left in Samaria for all my soldiers to scoop up in their hands.”
 [11] The king of Israel replied, “Tell him the one who puts on his battle gear should not boast like one who is taking it off.”
 [12] When Ben Hadad received this reply, he and the other kings were drinking in their quarters. He ordered his servants, “Get ready to attack!” So they got ready to attack the city.
@@ -887,6 +1003,7 @@
 
 [13] Now a prophet visited King Ahab of Israel and said, “This is what the **Lord** has said: ‘Do you see this huge army? Look, I am going to hand it over to you this very day. Then you will know that I am the **Lord.’”**
 [14] Ahab asked, “By whom will this be accomplished?” He answered, “This is what the **Lord** has said, ‘By the servants of the district governors.’” Ahab asked, “Who will launch the attack?” He answered, “You will.”
+
 [15] So Ahab assembled the 232 servants of the district governors. After that he assembled all the Israelite army, numbering 7,000.
 [16] They marched out at noon, while Ben Hadad and the 32 kings allied with him were drinking heavily in their quarters.
 [17] The servants of the district governors led the march. When Ben Hadad sent messengers, they reported back to him, “Men are marching out of Samaria.”
@@ -901,9 +1018,11 @@
 [23] Now the advisers of the king of Syria said to him: “Their God is a god of the mountains. That’s why they overpowered us. But if we fight them in the plains, we will certainly overpower them.
 [24] So do this: Dismiss the kings from their command, and replace them with military commanders.
 [25] Muster an army like the one you lost, with the same number of horses and chariots. Then we will fight them in the plains; we will certainly overpower them.” He approved their plan and did as they advised.
+
 [26] In the spring Ben Hadad mustered the Syrian army and marched to Aphek to fight Israel.
 [27] When the Israelites had mustered and received their supplies, they marched out to face them in battle. When the Israelites deployed opposite them, they were like two small flocks of goats, but the Syrians filled the land.
 [28] The prophet visited the king of Israel and said, “This is what the **Lord** has said: ‘Because the Syrians said, “The **Lord** is a god of the mountains and not a god of the valleys,” I will deliver this entire huge army into to your control. Then you will know that I am the **Lord**.’
+
 [29] The armies were deployed opposite each other for seven days. On the seventh day the battle began, and the Israelites killed 100,000 Syrian foot soldiers in one day.
 [30] The remaining 27,000 ran to Aphek and went into the city, but the wall fell on them. Now Ben Hadad ran into the city and hid in an inner room.
 [31] His advisers said to him, “Look, we have heard that the kings of the Israelite dynasty are kind. Allow us to put sackcloth around our waists and ropes on our heads and surrender to the king of Israel. Maybe he will spare our lives.”
@@ -925,28 +1044,33 @@
 
 ## Chapter 21
 
-
 ### Ahab Murders Naboth
 
 [1] After this the following episode took place. Naboth the Jezreelite owned a vineyard in Jezreel adjacent to the palace of King Ahab of Samaria.
 [2] Ahab said to Naboth, “Give me your vineyard so I can make a vegetable garden out of it, for it is adjacent to my palace. I will give you an even better vineyard in its place, or if you prefer, I will pay you silver for it.”
 [3] But Naboth replied to Ahab, “The **Lord** forbid that I should sell you my ancestral inheritance.”
+
 [4] So Ahab went into his palace, bitter and angry that Naboth the Jezreelite had said, “I will not sell to you my ancestral inheritance.” He lay down on his bed, pouted, and would not eat.
 [5] Then his wife Jezebel came in and said to him, “Why do you have a bitter attitude and refuse to eat?”
 [6] He answered her, “While I was talking to Naboth the Jezreelite, I said to him, ‘Sell me your vineyard for silver, or if you prefer, I will give you another vineyard in its place.’ But he said, ‘I will not sell you my vineyard.’”
 [7] His wife Jezebel said to him, “You are the king of Israel! Get up, eat some food, and have a good time. I will get the vineyard of Naboth the Jezreelite for you.”
+
 [8] She wrote out orders, signed Ahab’s name to them, and sealed them with his seal. She then sent the orders to the leaders and to the nobles who lived in Naboth’s city.
 [9] This is what she wrote: “Observe a time of fasting and seat Naboth in front of the people.
 [10] Also seat two villains opposite him and have them testify, ‘You cursed God and the king.’ Then take him out and stone him to death.”
+
 [11] The men of the city, the leaders, and the nobles who lived there followed the written orders Jezebel had sent them.
 [12] They observed a time of fasting and put Naboth in front of the people.
 [13] The two villains arrived and sat opposite him. Then the villains testified against Naboth right before the people, saying, “Naboth cursed God and the king.” So they dragged him outside the city and stoned him to death.
 [14] Then they reported to Jezebel, “Naboth has been stoned to death.”
+
 [15] When Jezebel heard that Naboth had been stoned to death, she said to Ahab, “Get up, take possession of the vineyard Naboth the Jezreelite refused to sell you for silver, for Naboth is no longer alive; he’s dead.”
 [16] When Ahab heard that Naboth was dead, he got up and went down to take possession of the vineyard of Naboth the Jezreelite.
+
 [17] The **Lord’s** message came to Elijah the Tishbite:
 [18] “Get up, go down and meet King Ahab of Israel who lives in Samaria. He is at the vineyard of Naboth; he has gone down there to take possession of it.
 [19] Say to him, ‘This is what the **Lord** has said: “Haven’t you committed murder and taken possession of the property of the deceased?”’ Then say to him, ‘This is what the **Lord** has said: “In the spot where dogs licked up Naboth’s blood they will also lick up your blood—yes, yours!”’”
+
 [20] When Elijah arrived, Ahab said to him, “So, you have found me, my enemy!” Elijah replied, “I have found you, because you are committed to doing evil in the sight of the **Lord**.
 [21] The **Lord** says, ‘Look, I am ready to bring disaster on you. I will destroy you and cut off every last male belonging to Ahab in Israel, including even the weak and incapacitated.
 [22] I will make your dynasty like those of Jeroboam son of Nebat and Baasha son of Ahijah because you angered me and made Israel sin.’
@@ -954,12 +1078,12 @@
 [24] As for Ahab’s family, dogs will eat the ones who die in the city, and the birds of the sky will eat the ones who die in the country.”
 [25] (There had never been anyone like Ahab, who was firmly committed to doing evil in the sight of the **Lord**, urged on by his wife Jezebel.
 [26] He was so wicked he worshiped the disgusting idols, just as the Amorites whom the **Lord** had driven out from before the Israelites.)
+
 [27] When Ahab heard these words, he tore his clothes, put on sackcloth, and fasted. He slept in sackcloth and walked around dejected.
 [28] The **Lord’**s message came to Elijah the Tishbite,
 [29] “Have you noticed how Ahab shows remorse before me? Because he shows remorse before me, I will not bring disaster on his dynasty during his lifetime, but during the reign of his son.”
 
 ## Chapter 22
-
 
 ### Ahab Dies in Battle
 
@@ -972,11 +1096,13 @@
 [7] But Jehoshaphat asked, “Is there not a prophet of the **Lord** still here, that we may ask him?”
 [8] The king of Israel answered Jehoshaphat, “There is still one man through whom we can seek the **Lord**’s will. But I despise him because he does not prophesy prosperity for me, but disaster. His name is Micaiah son of Imlah.” Jehoshaphat said, “The king should not say such things.”
 [9] The king of Israel summoned an official and said, “Quickly bring Micaiah son of Imlah.”
+
 [10] Now the king of Israel and King Jehoshaphat of Judah were sitting on their respective thrones, dressed in their robes, at the threshing floor at the entrance of the gate of Samaria. All the prophets were prophesying before them.
 [11] Zedekiah son of Kenaanah made iron horns and said, “This is what the **Lord** has said, ‘With these you will gore Syria until they are destroyed.’”
 [12] All the prophets were prophesying the same, saying, “Attack Ramoth Gilead! You will succeed; the **Lord** will hand it over to the king.”
 [13] Now the messenger who went to summon Micaiah said to him, “Look, the prophets are in complete agreement that the king will succeed. Your words must agree with theirs; you must predict success.”
 [14] But Micaiah said, “As certainly as the **Lord** lives, I will say what the **Lord** tells me to say.”
+
 [15] When he came before the king, the king asked him, “Micaiah, should we attack Ramoth Gilead or not?” He answered him, “Attack! You will succeed; the **Lord** will hand it over to the king.”
 [16] The king said to him, “How many times must I make you solemnly promise in the name of the **Lord** to tell me only the truth?”
 [17] Micaiah said, “I saw all Israel scattered on the mountains like sheep that have no shepherd. Then the **Lord** said, ‘They have no master. They should go home in peace.’”
@@ -991,6 +1117,7 @@
 [26] Then the king of Israel said, “Take Micaiah and return him to Amon the city official and Joash the king’s son.
 [27] Say, ‘This is what the king says, “Put this man in prison. Give him only a little bread and water until I safely return.”’”
 [28] Micaiah said, “If you really do safely return, then the **Lord** has not spoken through me.” Then he added, “Take note, all you people.”
+
 [29] The king of Israel and King Jehoshaphat of Judah attacked Ramoth Gilead.
 [30] The king of Israel said to Jehoshaphat, “I will disguise myself and then enter into the battle, but you wear your royal robes.” So the king of Israel disguised himself and then entered into the battle.
 [31] Now the king of Syria had ordered his thirty-two chariot commanders, “Do not fight common soldiers or high-ranking officers; fight only the king of Israel.”
@@ -1001,6 +1128,7 @@
 [36] As the sun was setting, a cry went through the camp, “Each one should return to his city and to his homeland.”
 [37] So the king died and was taken to Samaria, where they buried him.
 [38] They washed off the chariot at the pool of Samaria. Then the dogs licked his blood, while the prostitutes bathed, in keeping with the **Lord’s** message that he had spoken.
+
 [39] The rest of the events of Ahab’s reign, including a record of his accomplishments and how he built a luxurious palace and various cities, are recorded in the scroll called the Annals of the Kings of Israel.
 [40] Ahab passed away. His son Ahaziah replaced him as king.
 
@@ -1008,13 +1136,15 @@
 
 [41] In the fourth year of Ahab’s reign over Israel, Asa’s son Jehoshaphat became king over Judah.
 [42] Jehoshaphat was thirty-five years old when he became king and he reigned for twenty-five years in Jerusalem. His mother was Azubah, the daughter of Shilhi.
-[43] He followed in his father Asa’s footsteps and was careful to do what the **Lord** approved. (
-[44] (
+[43] He followed in his father Asa’s footsteps and was careful to do what the **Lord** approved. (22:44) However, the high places were not eliminated; the people continued to offer sacrifices and burn incense on the high places.
+[44] (22:45) Jehoshaphat was also at peace with the king of Israel.
+
 [45] The rest of the events of Jehoshaphat’s reign, including his successes and military exploits, are recorded in the scroll called the Annals of the Kings of Judah.
 [46] He removed from the land any male cultic prostitutes who had managed to survive the reign of his father Asa.
 [47] There was no king in Edom at this time; a governor ruled.
 [48] Jehoshaphat built a fleet of large merchant ships to travel to Ophir for gold, but they never made the voyage because they were shipwrecked in Ezion Geber.
 [49] Then Ahaziah son of Ahab said to Jehoshaphat, “Let my sailors join yours in the fleet,” but Jehoshaphat refused.
+
 [50] Jehoshaphat passed away and was buried with his ancestors in the city of his ancestor David. His son Jehoram replaced him as king.
 
 ### Ahaziah’s Reign over Israel
@@ -1022,3 +1152,4 @@
 [51] In the seventeenth year of Jehoshaphat’s reign over Judah, Ahab’s son Ahaziah became king over Israel in Samaria. He ruled for two years over Israel.
 [52] He did evil in the sight of the **Lord** and followed in the footsteps of his father and mother; like Jeroboam son of Nebat, he encouraged Israel to sin.
 [53] He worshiped and bowed down to Baal, angering the **Lord** God of Israel just as his father had done.
+

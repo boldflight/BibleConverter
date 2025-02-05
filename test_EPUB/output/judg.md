@@ -2,27 +2,32 @@
 
 ## Chapter 1
 
-
 ### Judah Takes the Lead
 
 [1] After Joshua died, the Israelites asked the **Lord**, “Who should lead the invasion against the Canaanites and launch the attack?”
 [2] The **Lord** said, “The men of Judah should take the lead. Be sure of this! I am handing the land over to them.”
 [3] The men of Judah said to their relatives, the men of Simeon, “Invade our allotted land with us and help us attack the Canaanites. Then we will go with you into your allotted land.” So the men of Simeon went with them.
+
 [4] The men of Judah attacked, and the **Lord** handed the Canaanites and Perizzites over to them. They killed 10,000 men at Bezek.
 [5] They met Adoni-Bezek at Bezek and fought him. They defeated the Canaanites and Perizzites.
 [6] When Adoni-Bezek ran away, they chased him and captured him. Then they cut off his thumbs and big toes.
 [7] Adoni-Bezek said, “Seventy kings, with thumbs and big toes cut off, used to lick up food scraps under my table. God has repaid me for what I did to them.” They brought him to Jerusalem, where he died.
 [8] The men of Judah attacked Jerusalem and captured it. They put the sword to it and set the city on fire.
+
 [9] Later the men of Judah went down to attack the Canaanites living in the hill country, the Negev, and the foothills.
 [10] The men of Judah attacked the Canaanites living in Hebron. (Hebron used to be called Kiriath Arba.) They killed Sheshai, Ahiman, and Talmai.
 [11] From there they attacked the people of Debir. (Debir used to be called Kiriath Sepher.)
 [12] Caleb said, “To the man who attacks and captures Kiriath Sepher I will give my daughter Achsah as a wife.”
 [13] When Othniel son of Kenaz, Caleb’s younger brother, captured it, Caleb gave him his daughter Achsah as a wife.
+
 [14] One time Achsah came and charmed her father so she could ask him for some land. When she got down from her donkey, Caleb said to her, “What would you like?”
 [15] She answered, “Please give me a special present. Since you have given me land in the Negev, now give me springs of water.” So Caleb gave her both the upper and lower springs.
+
 [16] Now the descendants of the Kenite, Moses’ father-in-law, went up with the people of Judah from the city of date palm trees to Arad in the wilderness of Judah, located in the Negev. They went and lived with the people of Judah.
+
 [17] The men of Judah went with their brothers the men of Simeon and defeated the Canaanites living in Zephath. They wiped out Zephath. So people now call the city Hormah.
 [18] The men of Judah captured Gaza, Ashkelon, Ekron, and the territory surrounding each of these cities.
+
 [19] The **Lord** was with the men of Judah. They conquered the hill country, but they could not conquer the people living in the coastal plain, because they had chariots with iron-rimmed wheels.
 [20] Caleb received Hebron, just as Moses had promised. He drove out the three Anakites.
 [21] The men of Benjamin, however, did not conquer the Jebusites living in Jerusalem. The Jebusites live with the people of Benjamin in Jerusalem to this very day.
@@ -34,25 +39,31 @@
 [24] the spies spotted a man leaving the city. They said to him, “If you show us a secret entrance into the city, we will reward you.”
 [25] He showed them a secret entrance into the city, and they put the city to the sword. But they let the man and his extended family leave safely.
 [26] He moved to Hittite country and built a city. He named it Luz, and it has kept that name to this very day.
+
 [27] The men of Manasseh did not conquer Beth Shean, Taanach, or their surrounding towns. Nor did they conquer the people living in Dor, Ibleam, Megiddo or their surrounding towns. The Canaanites managed to remain in those areas.
 [28] Whenever Israel was strong militarily, they forced the Canaanites to do hard labor, but they never totally conquered them.
+
 [29] The men of Ephraim did not conquer the Canaanites living in Gezer. The Canaanites lived among them in Gezer.
+
 [30] The men of Zebulun did not conquer the people living in Kitron and Nahalol. The Canaanites lived among them and were forced to do hard labor.
+
 [31] The men of Asher did not conquer the people living in Acco or Sidon, nor did they conquer Ahlab, Achzib, Helbah, Aphek, or Rehob.
 [32] The people of Asher live among the Canaanites residing in the land because they did not conquer them.
+
 [33] The men of Naphtali did not conquer the people living in Beth Shemesh or Beth Anath. They live among the Canaanites residing in the land. The Canaanites living in Beth Shemesh and Beth Anath were forced to do hard labor for them.
+
 [34] The Amorites forced the people of Dan to live in the hill country. They did not allow them to live in the coastal plain.
 [35] The Amorites managed to remain in Har Heres, Aijalon, and Shaalbim. Whenever the tribe of Joseph was strong militarily, the Amorites were forced to do hard labor.
 [36] The border of Amorite territory ran from the Scorpion Ascent to Sela and on up.
 
 ## Chapter 2
 
-
 ### Confrontation and Repentance at Bokim
 
 [1] The angel of the **Lord** went up from Gilgal to Bokim. He said, “I brought you up from Egypt and led you into the land I had solemnly promised to give to your ancestors. I said, ‘I will never break my covenant with you,
 [2] but you must not make an agreement with the people who live in this land. You should tear down the altars where they worship.’ But you have disobeyed me. Why would you do such a thing?
 [3] At that time I also warned you, ‘If you disobey, I will not drive out the Canaanites before you. They will ensnare you and their gods will lure you away.’”
+
 [4] When the angel of the **Lord** finished speaking these words to all the Israelites, the people wept loudly.
 [5] They named that place Bokim and offered sacrifices to the **Lord** there.
 
@@ -69,8 +80,10 @@
 [11] The Israelites did evil before the **Lord** by worshiping the Baals.
 [12] They abandoned the **Lord** God of their ancestors who brought them out of the land of Egypt. They followed other gods—the gods of the nations who lived around them. They worshiped them and made the **Lord** angry.
 [13] They abandoned the **Lord** and worshiped Baal and the Ashtoreths.
+
 [14] The **Lord** was furious with Israel and handed them over to robbers who plundered them. He turned them over to their enemies who lived around them. They could no longer withstand their enemies’ attacks.
 [15] Whenever they went out to fight, the **Lord** did them harm, just as he had warned and solemnly vowed he would do. They suffered greatly.
+
 [16] The **Lord** raised up leaders who delivered them from these robbers.
 [17] But they did not obey their leaders. Instead they prostituted themselves to other gods and worshiped them. They quickly turned aside from the path their ancestors had walked. Their ancestors had obeyed the **Lord**’s commands, but they did not.
 [18] When the **Lord** raised up leaders for them, the **Lord** was with each leader and delivered the people from their enemies while the leader remained alive. The **Lord** felt sorry for them when they cried out in agony because of what their harsh oppressors did to them.
@@ -89,6 +102,7 @@
 [2] He left those nations simply because he wanted to teach the subsequent generations of Israelites, who had not experienced the earlier battles, how to conduct holy war.
 [3] These were the nations: the five lords of the Philistines, all the Canaanites, the Sidonians, and the Hivites living in Mount Lebanon, from Mount Baal Hermon to Lebo Hamath.
 [4] They were left to test Israel, so the **Lord** would know if his people would obey the commands he gave their ancestors through Moses.
+
 [5] The Israelites lived among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.
 [6] They took the Canaanites’ daughters as wives and gave their daughters to the Canaanites; they worshiped their gods as well.
 
@@ -105,177 +119,186 @@
 [12] The Israelites again did evil in the **Lord**’s sight. The **Lord** gave King Eglon of Moab control over Israel because they had done evil in the **Lord**’s sight.
 [13] Eglon formed alliances with the Ammonites and Amalekites. He came and defeated Israel, and they seized the city of date palm trees.
 [14] The Israelites were subject to King Eglon of Moab for eighteen years.
+
 [15] When the Israelites cried out for help to the **Lord**, he raised up a deliverer for them. His name was Ehud son of Gera the Benjaminite, a left-handed man. The Israelites sent him to King Eglon of Moab with their tribute payment.
 [16] Ehud made himself a sword—it had two edges and was 18 inches long. He strapped it under his coat on his right thigh.
 [17] He brought the tribute payment to King Eglon of Moab. (Now Eglon was a very fat man.)
+
 [18] After Ehud brought the tribute payment, he dismissed the people who had carried it.
 [19] But he went back once he reached the carved images at Gilgal. He said to Eglon, “I have a secret message for you, O king.” Eglon said, “Be quiet!” All his attendants left.
 [20] When Ehud approached him, he was sitting in his well-ventilated upper room all by himself. Ehud said, “I have a message from God for you.” When Eglon rose up from his seat,
 [21] Ehud reached with his left hand, pulled the sword from his right thigh, and drove it into Eglon’s belly.
 [22] The handle went in after the blade, and the fat closed around the blade, for Ehud did not pull the sword out of his belly.
 [23] As Ehud went out into the vestibule, he closed the doors of the upper room behind him and locked them.
+
 [24] When Ehud had left, Eglon’s servants came and saw the locked doors of the upper room. They said, “He must be relieving himself in the well-ventilated inner room.”
 [25] They waited so long they were embarrassed, but he still did not open the doors of the upper room. Finally they took the key and opened the doors. Right before their eyes was their master, sprawled out dead on the floor!
 [26] Now Ehud had escaped while they were delaying. When he passed the carved images, he escaped to Seirah.
+
 [27] When he reached Seirah, he blew a trumpet in the Ephraimite hill country. The Israelites went down with him from the hill country, with Ehud in the lead.
 [28] He said to them, “Follow me, for the **Lord** is about to defeat your enemies, the Moabites!” They followed him, captured the fords of the Jordan River opposite Moab, and did not let anyone cross.
 [29] That day they killed about 10,000 Moabites —all strong, capable warriors; not one escaped.
 [30] Israel humiliated Moab that day, and the land had rest for eighty years.
+
 [31] After Ehud came Shamgar son of Anath. He killed 600 Philistines with an oxgoad. So he also delivered Israel.
 
 ## Chapter 4
-
 
 ### Deborah Summons Barak
 
 [1] The Israelites again did evil in the **Lord**’s sight after Ehud’s death.
 [2] The **Lord** turned them over to King Jabin of Canaan, who ruled in Hazor. The general of his army was Sisera, who lived in Harosheth Haggoyim.
 [3] The Israelites cried out for help to the **Lord**, because Sisera had 900 chariots with iron-rimmed wheels, and he cruelly oppressed the Israelites for twenty years.
+
 [4] Now Deborah, a prophetess, wife of Lappidoth, was leading Israel at that time.
 [5] She would sit under the Date Palm Tree of Deborah between Ramah and Bethel in the Ephraimite hill country. The Israelites would come up to her to have their disputes settled.
+
 [6] She summoned Barak son of Abinoam from Kedesh in Naphtali. She said to him, “Is it not true that the **Lord** God of Israel is commanding you? Go, march to Mount Tabor! Take with you 10,000 men from Naphtali and Zebulun.
 [7] I will bring Sisera, the general of Jabin’s army, to you at the Kishon River, along with his chariots and huge army. I will hand him over to you.”
 [8] Barak said to her, “If you go with me, I will go. But if you do not go with me, I will not go.”
 [9] She said, “I will indeed go with you. But you will not gain fame on the expedition you are undertaking, for the **Lord** will turn Sisera over to a woman.” Deborah got up and went with Barak to Kedesh.
 [10] Barak summoned men from Zebulun and Naphtali to Kedesh, and 10,000 men followed him; Deborah went up with him as well.
 [11] Now Heber the Kenite had moved away from the Kenites, the descendants of Hobab, Moses’ father-in-law. He lived near the great tree in Zaanannim near Kedesh.
+
 [12] When Sisera heard that Barak son of Abinoam had gone up to Mount Tabor,
 [13] he ordered all his chariotry—900 chariots with iron-rimmed wheels—and all the troops he had with him to go from Harosheth Haggoyim to the Kishon River.
 [14] Deborah said to Barak, “Spring into action, for this is the day the **Lord** is handing Sisera over to you! Has the **Lord** not taken the lead?” So Barak went down from Mount Tabor with 10,000 men following him.
 [15] The **Lord** routed Sisera, all his chariotry, and all his army with the edge of the sword. Sisera jumped out of his chariot and ran away on foot.
 [16] Now Barak chased the chariots and the army all the way to Harosheth Haggoyim. Sisera’s whole army died by the edge of the sword; not even one survived!
+
 [17] Now Sisera ran away on foot to the tent of Jael, wife of Heber the Kenite, for King Jabin of Hazor and the family of Heber the Kenite had made a peace treaty.
 [18] Jael came out to welcome Sisera. She said to him, “Stop and rest, my lord. Stop and rest with me. Don’t be afraid.” So Sisera stopped to rest in her tent, and she put a blanket over him.
 [19] He said to her, “Give me a little water to drink, because I’m thirsty.” She opened a goatskin container of milk and gave him some milk to drink. Then she covered him up again.
 [20] He said to her, “Stand watch at the entrance to the tent. If anyone comes along and asks you, ‘Is there a man here?’ say, ‘No.’”
 [21] Then Jael wife of Heber took a tent peg in one hand and a hammer in the other. She crept up on him, drove the tent peg through his temple into the ground while he was asleep from exhaustion, and he died.
 [22] Now Barak was chasing Sisera. Jael went out to welcome him. She said to him, “Come here and I will show you the man you are searching for.” He went with her into the tent, and there he saw Sisera sprawled out dead with the tent peg through his temple.
+
 [23] That day God humiliated King Jabin of Canaan before the Israelites.
 [24] Israel’s power continued to overwhelm King Jabin of Canaan until they did away with him.
 
 ## Chapter 5
 
-
 ### Celebrating the Victory in Song
 
 [1] On that day Deborah and Barak son of Abinoam sang this victory song:
-[2] “When the leaders took the lead in Israel,
-When the people answered the call to war—
-Praise the Lord!
-[3] Hear, O kings!
-Pay attention, O rulers!
-I will sing to the Lord!
-I will sing to the Lord God of Israel!
 
-[4] O Lord, when you departed from Seir,
-when you marched from Edom’s plains,
-the earth shook, the heavens poured down,
-the clouds poured down rain.
-[5] The mountains trembled before the Lord, the God of Sinai;
-before the Lord God of Israel.
+[2] “When the leaders took the lead in Israel,<br>
+When the people answered the call to war—<br>
+Praise the **Lord**!<br>
+[3] Hear, O kings!<br>
+Pay attention, O rulers!<br>
+I will sing to the **Lord**!<br>
+I will sing to the **Lord** God of Israel!<br>
 
-[6] In the days of Shamgar son of Anath,
-in the days of Jael caravans disappeared;
-travelers had to go on winding side roads.
-[7] Warriors were scarce;
-they were scarce in Israel,
-until you arose, Deborah,
-until you arose as a motherly protector in Israel.
-[8] God chose new leaders,
-then fighters appeared in the city gates;
-but, I swear, not a shield or spear could be found
-among forty military units in Israel.
-[9] My heart went out to Israel’s leaders,
-to the people who answered the call to war.
-Praise the Lord!
+[4] O **Lord**, when you departed from Seir,<br>
+when you marched from Edom’s plains,<br>
+the earth shook, the heavens poured down,<br>
+the clouds poured down rain.<br>
+[5] The mountains trembled before the **Lord**, the God of Sinai;<br>
+before the **Lord** God of Israel.<br>
 
-[10] You who ride on light-colored female donkeys,
-who sit on saddle blankets,
-you who walk on the road, pay attention!
-[11] Hear the sound of those who divide the sheep among the watering places;
-there they tell of the Lord’s victorious deeds,
-the victorious deeds of his warriors in Israel.
-Then the Lord’s people went down to the city gates—
+[6] In the days of Shamgar son of Anath,<br>
+in the days of Jael caravans disappeared;<br>
+travelers had to go on winding side roads.<br>
+[7] Warriors were scarce;<br>
+they were scarce in Israel,<br>
+until you arose, Deborah,<br>
+until you arose as a motherly protector in Israel.<br>
+[8] God chose new leaders,<br>
+then fighters appeared in the city gates;<br>
+but, I swear, not a shield or spear could be found<br>
+among forty military units in Israel.<br>
+[9] My heart went out to Israel’s leaders,<br>
+to the people who answered the call to war.<br>
+Praise the **Lord**!<br>
 
-[12] Wake up, wake up, Deborah!
-Wake up, wake up, sing a song!
-Get up, Barak!
-Capture your prisoners of war, son of Abinoam!
-[13] Then the survivors came down to the mighty ones;
-the Lord’s people came down to me as warriors.
-[14] They came from Ephraim, who uprooted Amalek;
-they follow after you, Benjamin, with your soldiers.
-From Makir leaders came down,
-from Zebulun came the ones who march carrying an officer’s staff.
-[15] Issachar’s leaders were with Deborah;
-the men of Issachar supported Barak;
-into the valley they were sent under Barak’s command.
-Among the clans of Reuben there was intense heart searching.
-[16] Why do you remain among the sheepfolds,
-listening to the shepherds playing their pipes for their flocks?
-As for the clans of Reuben—there was intense searching of heart.
-[17] Gilead stayed put beyond the Jordan River.
-As for Dan—why did he seek temporary employment in the shipyards?
-Asher remained on the seacoast;
-he stayed by his harbors.
-[18] The men of Zebulun were not concerned about their lives;
-Naphtali charged onto the battlefields.
+[10] You who ride on light-colored female donkeys,<br>
+who sit on saddle blankets,<br>
+you who walk on the road, pay attention!<br>
+[11] Hear the sound of those who divide the sheep among the watering places;<br>
+there they tell of the **Lord**’s victorious deeds,<br>
+the victorious deeds of his warriors in Israel.<br>
+Then the **Lord**’s people went down to the city gates—<br>
 
-[19] Kings came, they fought;
-the kings of Canaan fought
-at Taanach by the waters of Megiddo,
-but they took no silver as plunder.
-[20] From the sky the stars fought,
-from their paths in the heavens they fought against Sisera.
-[21] The Kishon River carried them off;
-the river confronted them —the Kishon River.
-Step on the necks of the strong!
+[12] Wake up, wake up, Deborah!<br>
+Wake up, wake up, sing a song!<br>
+Get up, Barak!<br>
+Capture your prisoners of war, son of Abinoam!<br>
+[13] Then the survivors came down to the mighty ones;<br>
+the **Lord**’s people came down to me as warriors.<br>
+[14] They came from Ephraim, who uprooted Amalek;<br>
+they follow after you, Benjamin, with your soldiers.<br>
+From Makir leaders came down,<br>
+from Zebulun came the ones who march carrying an officer’s staff.<br>
+[15] Issachar’s leaders were with Deborah;<br>
+the men of Issachar supported Barak;<br>
+into the valley they were sent under Barak’s command.<br>
+Among the clans of Reuben there was intense heart searching.<br>
+[16] Why do you remain among the sheepfolds,<br>
+listening to the shepherds playing their pipes for their flocks?<br>
+As for the clans of Reuben—there was intense searching of heart.<br>
+[17] Gilead stayed put beyond the Jordan River.<br>
+As for Dan—why did he seek temporary employment in the shipyards?<br>
+Asher remained on the seacoast;<br>
+he stayed by his harbors.<br>
+[18] The men of Zebulun were not concerned about their lives;<br>
+Naphtali charged onto the battlefields.<br>
 
-[22] The horses’ hooves pounded the ground;
-the stallions galloped madly.
-[23] ‘Call judgment down on Meroz,’ says the angel of the Lord;
-‘Be sure to call judgment down on those who live there,
-because they did not come to help in the Lord’s battle,
-to help in the Lord’s battle against the warriors.’
+[19] Kings came, they fought;<br>
+the kings of Canaan fought<br>
+at Taanach by the waters of Megiddo,<br>
+but they took no silver as plunder.<br>
+[20] From the sky the stars fought,<br>
+from their paths in the heavens they fought against Sisera.<br>
+[21] The Kishon River carried them off;<br>
+the river confronted them —the Kishon River.<br>
+Step on the necks of the strong!<br>
 
-[24] The most rewarded of women should be Jael,
-the wife of Heber the Kenite!
-She should be the most rewarded of women who live in tents.
-[25] He asked for water,
-and she gave him milk;
-in a bowl fit for a king,
-she served him curds.
-[26] Her left hand reached for the tent peg,
-her right hand for the workmen’s hammer.
-She “hammered” Sisera,
-she shattered his skull,
-she smashed his head,
-she drove the tent peg through his temple.
-[27] Between her feet he collapsed,
-he fell limp and was lifeless;
-between her feet he collapsed and fell,
-in the spot where he collapsed,
-there he fell—violently killed!
+[22] The horses’ hooves pounded the ground;<br>
+the stallions galloped madly.<br>
+[23] ‘Call judgment down on Meroz,’ says the angel of the **Lord**;<br>
+‘Be sure to call judgment down on those who live there,<br>
+because they did not come to help in the **Lord**’s battle,<br>
+to help in the **Lord**’s battle against the warriors.’<br>
 
-[28] Through the window she looked;
-Sisera’s mother cried out through the lattice:
-‘Why is his chariot so slow to return?
-Why are the hoofbeats of his chariot horses delayed?’
-[29] The wisest of her ladies answer;
-indeed she even thinks to herself,
-[30] ‘No doubt they are gathering and dividing the plunder —
-a girl or two for each man to rape!
-Sisera is grabbing up colorful cloth,
-he is grabbing up colorful embroidered cloth,
-two pieces of colorful embroidered cloth,
-for the neck of the plunderer!’
+[24] The most rewarded of women should be Jael,<br>
+the wife of Heber the Kenite!<br>
+She should be the most rewarded of women who live in tents.<br>
+[25] He asked for water,<br>
+and she gave him milk;<br>
+in a bowl fit for a king,<br>
+she served him curds.<br>
+[26] Her left hand reached for the tent peg,<br>
+her right hand for the workmen’s hammer.<br>
+She “hammered” Sisera,<br>
+she shattered his skull,<br>
+she smashed his head,<br>
+she drove the tent peg through his temple.<br>
+[27] Between her feet he collapsed,<br>
+he fell limp and was lifeless;<br>
+between her feet he collapsed and fell,<br>
+in the spot where he collapsed,<br>
+there he fell—violently killed!<br>
 
-[31] May all your enemies perish like this, O Lord!
-But may those who love you shine
-like the rising sun at its brightest.”
+[28] Through the window she looked;<br>
+Sisera’s mother cried out through the lattice:<br>
+‘Why is his chariot so slow to return?<br>
+Why are the hoofbeats of his chariot horses delayed?’<br>
+[29] The wisest of her ladies answer;<br>
+indeed she even thinks to herself,<br>
+[30] ‘No doubt they are gathering and dividing the plunder —<br>
+a girl or two for each man to rape!<br>
+Sisera is grabbing up colorful cloth,<br>
+he is grabbing up colorful embroidered cloth,<br>
+two pieces of colorful embroidered cloth,<br>
+for the neck of the plunderer!’<br>
+
+[31] May all your enemies perish like this, O **Lord**!<br>
+But may those who love you shine<br>
+like the rising sun at its brightest.”<br>
+And the land had rest for forty years.
 
 ## Chapter 6
-
 
 ### Oppression and Confrontation
 
@@ -285,6 +308,7 @@ like the rising sun at its brightest.”
 [4] They invaded the land and devoured its crops all the way to Gaza. They left nothing for the Israelites to eat, and they took away the sheep, oxen, and donkeys.
 [5] When they invaded with their cattle and tents, they were as thick as locusts. Neither they nor their camels could be counted. They came to devour the land.
 [6] Israel was so severely weakened by Midian that the Israelites cried out to the **Lord** for help.
+
 [7] When the Israelites cried out to the **Lord** for help because of Midian,
 [8] the **Lord** sent a prophet to the Israelites. He said to them, “This is what the **Lord** God of Israel has said: ‘I brought you up from Egypt and took you out of that place of slavery.
 [9] I rescued you from Egypt’s power and from the power of all who oppressed you. I drove them out before you and gave their land to you.
@@ -300,9 +324,11 @@ like the rising sun at its brightest.”
 [16] The **Lord** said to him, “Ah, but I will be with you! You will strike down the whole Midianite army.”
 [17] Gideon said to him, “If you really are pleased with me, then give me a sign as proof that it is really you speaking with me.
 [18] Do not leave this place until I come back with a gift and present it to you.” The **Lord** said, “I will stay here until you come back.”
+
 [19] Gideon went and prepared a young goat, along with unleavened bread made from an ephah of flour. He put the meat in a basket and the broth in a pot. He brought the food to him under the oak tree and presented it to him.
 [20] God’s angel said to him, “Put the meat and unleavened bread on this rock, and pour out the broth.” Gideon did as instructed.
 [21] The angel of the **Lord** touched the meat and the unleavened bread with the tip of his staff. Fire flared up from the rock and consumed the meat and unleavened bread. The angel of the **Lord** then disappeared.
+
 [22] When Gideon realized that it was the angel of the **Lord**, he said, “Oh no! Sovereign **Lord**! I have seen the angel of the **Lord** face-to-face!”
 [23] The **Lord** said to him, “You are safe! Do not be afraid. You are not going to die!”
 [24] Gideon built an altar for the **Lord** there, and named it “The **Lord** is on friendly terms with me.” To this day it is still there in Ophrah of the Abiezrites.
@@ -312,6 +338,7 @@ like the rising sun at its brightest.”
 [25] That night the **Lord** said to him, “Take the bull from your father’s herd, as well as a second bull, one that is seven years old. Pull down your father’s Baal altar and cut down the nearby Asherah pole.
 [26] Then build an altar for the **Lord** your God on the top of this stronghold according to the proper pattern. Take the second bull and offer it as a burnt sacrifice on the wood from the Asherah pole that you cut down.”
 [27] So Gideon took ten of his servants and did just as the **Lord** had told him. He was too afraid of his father’s family and the men of the city to do it in broad daylight, so he waited until nighttime.
+
 [28] When the men of the city got up the next morning, they saw the Baal altar pulled down, the nearby Asherah pole cut down, and the second bull sacrificed on the newly built altar.
 [29] They said to one another, “Who did this?” They investigated the matter thoroughly and concluded that Gideon son of Joash had done it.
 [30] The men of the city said to Joash, “Bring out your son, so we can execute him! He pulled down the Baal altar and cut down the nearby Asherah pole.”
@@ -323,6 +350,7 @@ like the rising sun at its brightest.”
 [33] All the Midianites, Amalekites, and the people from the east assembled. They crossed the Jordan River and camped in the Jezreel Valley.
 [34] The **Lord**’s Spirit took control of Gideon. He blew a trumpet, summoning the Abiezrites to follow him.
 [35] He sent messengers throughout Manasseh and summoned them to follow him as well. He also sent messengers throughout Asher, Zebulun, and Naphtali, and they came up to meet him.
+
 [36] Gideon said to God, “If you really intend to use me to deliver Israel, as you promised, then give me a sign as proof.
 [37] Look, I am putting a wool fleece on the threshing floor. If there is dew only on the fleece, and the ground around it is dry, then I will be sure that you will use me to deliver Israel, as you promised.”
 [38] The **Lord** did as he asked. When he got up the next morning, he squeezed the fleece, and enough dew dripped from it to fill a bowl.
@@ -330,7 +358,6 @@ like the rising sun at its brightest.”
 [40] That night God did as he asked. Only the fleece was dry and the ground around it was covered with dew.
 
 ## Chapter 7
-
 
 ### Gideon Reduces the Ranks
 
@@ -358,6 +385,7 @@ like the rising sun at its brightest.”
 [16] He divided the 300 men into three units. He gave them all trumpets and empty jars with torches inside them.
 [17] He said to them, “Watch me and do as I do. Watch closely! I am going to the edge of the camp. Do as I do!
 [18] When I and all who are with me blow our trumpets, you also blow your trumpets all around the camp. Then say, ‘For the **Lord** and for Gideon!’”
+
 [19] Gideon took 100 men to the edge of the camp at the beginning of the middle watch, just after they had changed the guards. They blew their trumpets and broke the jars they were carrying.
 [20] All three units blew their trumpets and broke their jars. They held the torches in their left hand and the trumpets in their right. Then they yelled, “A sword for the **Lord** and for Gideon!”
 [21] They stood in order all around the camp. The whole Midianite army ran away; they shouted as they scrambled away.
@@ -383,14 +411,17 @@ like the rising sun at its brightest.”
 [7] Gideon said, “Since you will not help, after the **Lord** hands Zebah and Zalmunna over to me, I will thresh your skin with desert thorns and briers.”
 [8] He went up from there to Penuel and made the same request. The men of Penuel responded the same way the men of Sukkoth had.
 [9] He also threatened the men of Penuel, warning, “When I return victoriously, I will tear down this tower.”
+
 [10] Now Zebah and Zalmunna were in Karkor with their armies. There were about 15,000 survivors from the army of the eastern peoples; 120,000 sword-wielding soldiers had been killed.
 [11] Gideon went up the road of the nomads east of Nobah and Jogbehah and ambushed the surprised army.
 [12] When Zebah and Zalmunna ran away, Gideon chased them and captured the two Midianite kings, Zebah and Zalmunna. He had surprised their entire army.
+
 [13] Gideon son of Joash returned from the battle by the pass of Heres.
 [14] He captured a young man from Sukkoth and interrogated him. The young man wrote down for him the names of Sukkoth’s officials and city leaders—seventy-seven men in all.
 [15] He approached the men of Sukkoth and said, “Look what I have! Zebah and Zalmunna! You insulted me, saying, ‘You have not yet overpowered Zebah and Zalmunna. So why should we give bread to your exhausted men?’”
 [16] He seized the leaders of the city, along with some desert thorns and briers; he then “threshed” the men of Sukkoth with them.
 [17] He also tore down the tower of Penuel and executed the city’s men.
+
 [18] He said to Zebah and Zalmunna, “Describe for me the men you killed at Tabor.” They said, “They were like you. Each one looked like a king’s son.”
 [19] He said, “They were my brothers, the sons of my mother. I swear, as surely as the **Lord** is alive, if you had let them live, I would not kill you.”
 [20] He ordered Jether his firstborn son, “Come on! Kill them!” But Jether was too afraid to draw his sword, because he was still young.
@@ -421,7 +452,6 @@ like the rising sun at its brightest.”
 
 ## Chapter 9
 
-
 ### Abimelech Murders His Brothers
 
 [1] Now Abimelech son of Jerub Baal went to Shechem to see his mother’s relatives. He said to them and to his mother’s entire extended family,
@@ -434,14 +464,19 @@ like the rising sun at its brightest.”
 ### Jotham’s Parable
 
 [7] When Jotham heard the news, he went and stood on the top of Mount Gerizim. He spoke loudly to the people below, “Listen to me, leaders of Shechem, so that God may listen to you!
+
 [8] “The trees were determined to go out and choose a king for themselves. They said to the olive tree, ‘Be our king!’
 [9] But the olive tree said to them, ‘I am not going to stop producing my oil, which is used to honor gods and men, just to sway above the other trees!’
+
 [10] “So the trees said to the fig tree, ‘You come and be our king!’
 [11] But the fig tree said to them, ‘I am not going to stop producing my sweet figs, my excellent fruit, just to sway above the other trees!’
+
 [12] “So the trees said to the grapevine, ‘You come and be our king!’
 [13] But the grapevine said to them, ‘I am not going to stop producing my wine, which makes gods and men so happy, just to sway above the other trees!’
+
 [14] “So all the trees said to the thornbush, ‘You come and be our king!’
 [15] The thornbush said to the trees, ‘If you really want to choose me as your king, then come along, find safety under my branches. Otherwise may fire blaze from the thornbush and consume the cedars of Lebanon!’
+
 [16] “Now, if you have shown loyalty and integrity when you made Abimelech king, if you have done right to Jerub Baal and his family, if you have properly repaid him —
 [17] my father fought for you; he risked his life and delivered you from Midian’s power.
 [18] But you have attacked my father’s family today. You murdered his seventy legitimate sons on one stone and made Abimelech, the son of his female slave, king over the leaders of Shechem, just because he is your close relative.
@@ -455,14 +490,17 @@ like the rising sun at its brightest.”
 [23] God sent a spirit to stir up hostility between Abimelech and the leaders of Shechem. He made the leaders of Shechem disloyal to Abimelech.
 [24] He did this so the violent deaths of Jerub Baal’s seventy sons might be avenged and Abimelech, their half-brother who murdered them, might have to pay for their spilled blood, along with the leaders of Shechem who helped him murder them.
 [25] The leaders of Shechem rebelled against Abimelech by putting bandits in the hills, who robbed everyone who traveled by on the road. But Abimelech found out about it.
+
 [26] Gaal son of Ebed came through Shechem with his brothers. The leaders of Shechem transferred their loyalty to him.
 [27] They went out to the field, harvested their grapes, squeezed out the juice, and celebrated. They came to the temple of their god and ate, drank, and cursed Abimelech.
 [28] Gaal son of Ebed said, “Who is Abimelech and who is Shechem, that we should serve him? Is he not the son of Jerub Baal, and is not Zebul the deputy he appointed? Serve the sons of Hamor, the father of Shechem! But why should we serve Abimelech?
 [29] If only these men were under my command, I would get rid of Abimelech!” He challenged Abimelech, “Muster your army and come out for battle!”
+
 [30] When Zebul, the city commissioner, heard the words of Gaal son of Ebed, he was furious.
 [31] He sent messengers to Abimelech, who was in Arumah, reporting, “Beware! Gaal son of Ebed and his brothers are coming to Shechem and inciting the city to rebel against you.
 [32] Now, come up at night with your men and set an ambush in the field outside the city.
 [33] In the morning at sunrise quickly attack the city. When he and his men come out to fight you, do what you can to him.”
+
 [34] So Abimelech and all his men came up at night and set an ambush outside Shechem; they divided into four units.
 [35] When Gaal son of Ebed came out and stood at the entrance to the city’s gate, Abimelech and his men got up from their hiding places.
 [36] Gaal saw the men and said to Zebul, “Look, men are coming down from the tops of the hills.” But Zebul said to him, “You are seeing the shadows on the hills—it just looks like men.”
@@ -471,30 +509,34 @@ like the rising sun at its brightest.”
 [39] So Gaal led the leaders of Shechem out and fought Abimelech.
 [40] Abimelech chased him, and Gaal ran from him. Many Shechemites fell wounded at the entrance of the gate.
 [41] Abimelech went back to Arumah; Zebul drove Gaal and his brothers out of Shechem.
+
 [42] The next day the Shechemites came out to the field. When Abimelech heard about it,
 [43] he took his men and divided them into three units and set an ambush in the field. When he saw the people coming out of the city, he attacked and struck them down.
 [44] Abimelech and his units attacked and blocked the entrance to the city’s gate. Two units then attacked all the people in the field and struck them down.
 [45] Abimelech fought against the city all that day. He captured the city and killed all the people in it. Then he leveled the city and spread salt over it.
+
 [46] When all the leaders of the Tower of Shechem heard the news, they went to the stronghold of the temple of El Berith.
 [47] Abimelech heard that all the leaders of the Tower of Shechem were in one place.
 [48] He and all his men went up on Mount Zalmon. He took an ax in his hand and cut off a tree branch. He put it on his shoulder and said to his men, “Quickly, do what you have just seen me do!”
 [49] So each of his men also cut off a branch and followed Abimelech. They put the branches against the stronghold and set fire to it. All the people of the Tower of Shechem died—about 1,000 men and women.
+
 [50] Abimelech moved on to Thebez; he besieged and captured it.
 [51] There was a fortified tower in the center of the city, so all the men and women, as well as the city’s leaders, ran into it and locked the entrance. Then they went up to the roof of the tower.
 [52] Abimelech came and attacked the tower. When he approached the entrance of the tower to set it on fire,
 [53] a woman threw an upper millstone down on his head and shattered his skull.
 [54] He quickly called to the young man who carried his weapons, “Draw your sword and kill me, so they will not say, ‘A woman killed him.’” So the young man stabbed him and he died.
 [55] When the Israelites saw that Abimelech was dead, they went home.
+
 [56] God repaid Abimelech for the evil he did to his father by murdering his seventy half brothers.
 [57] God also repaid the men of Shechem for their evil deeds. The curse spoken by Jotham son of Jerub Baal fell on them.
 
 ## Chapter 10
 
-
 ### Stability Restored
 
 [1] After Abimelech’s death, Tola son of Puah, grandson of Dodo, from the tribe of Issachar, rose up to deliver Israel. He lived in Shamir in the Ephraimite hill country.
 [2] He led Israel for twenty-three years, then died and was buried in Shamir.
+
 [3] Jair the Gileadite rose up after him; he led Israel for twenty-two years.
 [4] He had thirty sons who rode on thirty donkeys and possessed thirty cities. To this day these towns are called Havvoth Jair —they are in the land of Gilead.
 [5] Jair died and was buried in Kamon.
@@ -505,6 +547,7 @@ like the rising sun at its brightest.”
 [7] The **Lord** was furious with Israel and turned them over to the Philistines and Ammonites.
 [8] They ruthlessly oppressed the Israelites that eighteenth year —that is, all the Israelites living east of the Jordan in Amorite country in Gilead.
 [9] The Ammonites crossed the Jordan to fight with Judah, Benjamin, and Ephraim. Israel suffered greatly.
+
 [10] The Israelites cried out for help to the **Lord**: “We have sinned against you. We abandoned our God and worshiped the Baals.”
 [11] The **Lord** said to the Israelites, “Did I not deliver you from Egypt, the Amorites, the Ammonites, the Philistines,
 [12] the Sidonians, Amalek, and Midian when they oppressed you? You cried out for help to me, and I delivered you from their power.
@@ -523,6 +566,7 @@ like the rising sun at its brightest.”
 [1] Now Jephthah the Gileadite was a brave warrior. His mother was a prostitute, but Gilead was his father.
 [2] Gilead’s wife also gave him sons. When his wife’s sons grew up, they made Jephthah leave and said to him, “You are not going to inherit any of our father’s wealth, because you are another woman’s son.”
 [3] So Jephthah left his half brothers and lived in the land of Tob. Lawless men joined Jephthah’s gang and traveled with him.
+
 [4] It was some time after this when the Ammonites fought with Israel.
 [5] When the Ammonites attacked, the leaders of Gilead asked Jephthah to come back from the land of Tob.
 [6] They said, “Come, be our commander, so we can fight with the Ammonites.”
@@ -536,6 +580,7 @@ like the rising sun at its brightest.”
 
 [12] Jephthah sent messengers to the Ammonite king, saying, “Why have you come against me to attack my land?”
 [13] The Ammonite king said to Jephthah’s messengers, “Because Israel stole my land when they came up from Egypt—from the Arnon River in the south to the Jabbok River in the north, and as far west as the Jordan. Now return it peaceably!”
+
 [14] Jephthah sent messengers back to the Ammonite king
 [15] and said to him, “This is what Jephthah says, ‘Israel did not steal the land of Moab and the land of the Ammonites.
 [16] When they left Egypt, Israel traveled through the desert as far as the Red Sea and then came to Kadesh.
@@ -559,6 +604,7 @@ like the rising sun at its brightest.”
 [31] then whoever is the first to come through the doors of my house to meet me when I return safely from fighting the Ammonites—he will belong to the **Lord** and I will offer him up as a burnt sacrifice.”
 [32] Jephthah approached the Ammonites to fight with them, and the **Lord** handed them over to him.
 [33] He defeated them from Aroer all the way to Minnith—twenty cities in all, even as far as Abel Keramim. He wiped them out! The Israelites humiliated the Ammonites.
+
 [34] When Jephthah came home to Mizpah, there was his daughter hurrying out to meet him, dancing to the rhythm of tambourines. She was his only child; except for her he had no son or daughter.
 [35] When he saw her, he ripped his clothes and said, “Oh no! My daughter! You have completely ruined me! You have brought me disaster! I made an oath to the **Lord**, and I cannot break it.”
 [36] She said to him, “My father, since you made an oath to the **Lord**, do to me as you promised. After all, the **Lord** vindicated you before your enemies, the Ammonites.”
@@ -569,15 +615,16 @@ like the rising sun at its brightest.”
 
 ## Chapter 12
 
-
 ### Civil Strife Mars the Victory
 
 [1] The Ephraimites assembled and crossed over to Zaphon. They said to Jephthah, “Why did you go and fight with the Ammonites without asking us to go with you? We will burn your house down right over you!”
+
 [2] Jephthah said to them, “My people and I were in a struggle and the Ammonites were oppressing me greatly. I asked for your help, but you did not deliver me from their power.
 [3] When I saw that you were not going to help, I risked my life and advanced against the Ammonites, and the **Lord** handed them over to me. Why have you come up to fight with me today?”
 [4] Jephthah assembled all the men of Gilead and they fought with Ephraim. The men of Gilead defeated Ephraim, because the Ephraimites insulted them, saying, “You Gileadites are refugees in Ephraim, living within Ephraim’s and Manasseh’s territory.”
 [5] The Gileadites captured the fords of the Jordan River opposite Ephraim. Whenever an Ephraimite fugitive said, “Let me cross over,” the men of Gilead asked him, “Are you an Ephraimite?” If he said, “No,”
 [6] then they said to him, “Say ‘Shibboleth!’” If he said, “Sibboleth” (and could not pronounce the word correctly), they grabbed him and executed him right there at the fords of the Jordan. On that day 42,000 Ephraimites fell dead.
+
 [7] Jephthah led Israel for six years; then he died and was buried in his town in Gilead.
 
 ### Order Restored
@@ -585,24 +632,28 @@ like the rising sun at its brightest.”
 [8] After him Ibzan of Bethlehem led Israel.
 [9] He had thirty sons. He arranged for thirty of his daughters to be married outside his extended family, and he arranged for thirty young women to be brought from outside as wives for his sons. Ibzan led Israel for seven years;
 [10] then he died and was buried in Bethlehem.
+
 [11] After him Elon the Zebulunite led Israel for ten years.
 [12] Then Elon the Zebulunite died and was buried in Aijalon in the land of Zebulun.
+
 [13] After him Abdon son of Hillel the Pirathonite led Israel.
 [14] He had forty sons and thirty grandsons who rode on seventy donkeys. He led Israel for eight years.
 [15] Then Abdon son of Hillel the Pirathonite died and was buried in Pirathon in the land of Ephraim, in the hill country of the Amalekites.
 
 ## Chapter 13
 
-
 ### Samson’s Birth
 
 [1] The Israelites again did evil in the **Lord**’s sight, so the **Lord** handed them over to the Philistines for forty years.
+
 [2] There was a man named Manoah from Zorah, from the Danite tribe. His wife was infertile and childless.
 [3] The angel of the **Lord** appeared to the woman and said to her, “You are infertile and childless, but you will conceive and have a son.
 [4] Now be careful! Do not drink wine or beer, and do not eat any food that will make you ritually unclean.
 [5] Look, you will conceive and have a son. You must never cut his hair, for the child will be dedicated to God from birth. He will begin to deliver Israel from the power of the Philistines.”
+
 [6] The woman went and said to her husband, “A man sent from God came to me! He looked like God’s angel—he was very awesome. I did not ask him where he came from, and he did not tell me his name.
 [7] He said to me, ‘Look, you will conceive and have a son. So now, do not drink wine or beer and do not eat any food that will make you ritually unclean. For the child will be dedicated to God from birth till the day he dies.’”
+
 [8] Manoah prayed to the **Lord**, “Please, Lord, allow the man sent from God to visit us again, so he can teach us how we should raise the child who will be born.”
 [9] God answered Manoah’s prayer. God’s angel visited the woman again while she was sitting in the field. But her husband Manoah was not with her.
 [10] The woman ran at once and told her husband, “Come quickly, the man who visited me the other day has appeared to me!”
@@ -616,14 +667,15 @@ like the rising sun at its brightest.”
 [18] The angel of the **Lord** said to him, “You should not ask me my name, because you cannot comprehend it.”
 [19] Manoah took a young goat and a grain offering and offered them on a rock to the **Lord**. The **Lord**’s messenger did an amazing thing as Manoah and his wife watched.
 [20] As the flame went up from the altar toward the sky, the angel of the **Lord** went up in it while Manoah and his wife watched. They fell facedown to the ground.
+
 [21] The angel of the **Lord** did not appear again to Manoah and his wife. After all this happened Manoah realized that the visitor had been the angel of the **Lord**.
 [22] Manoah said to his wife, “We will certainly die, because we have seen a supernatural being!”
 [23] But his wife said to him, “If the **Lord** wanted to kill us, he would not have accepted the burnt offering and the grain offering from us. He would not have shown us all these things, or have spoken to us like this just now.”
+
 [24] Manoah’s wife gave birth to a son and named him Samson. The child grew and the **Lord** empowered him.
 [25] The **Lord**’s Spirit began to control him in Mahaneh Dan between Zorah and Eshtaol.
 
 ## Chapter 14
-
 
 ### Samson’s Unconsummated Marriage
 
@@ -631,31 +683,35 @@ like the rising sun at its brightest.”
 [2] When he got home, he told his father and mother, “A Philistine girl in Timnah has caught my eye. Now get her for my wife.”
 [3] But his father and mother said to him, “Certainly you can find a wife among your relatives or among all our people! You should not have to go and get a wife from the uncircumcised Philistines.” But Samson said to his father, “Get her for me, because she is the right one for me.”
 [4] Now his father and mother did not realize this was the **Lord**’s doing, because he was looking for an opportunity to stir up trouble with the Philistines (for at that time the Philistines were ruling Israel).
+
 [5] Samson went down to Timnah. When he approached the vineyards of Timnah, he saw a roaring young lion attacking him.
 [6] The **Lord**’s Spirit empowered him, and he tore the lion in two with his bare hands as easily as one would tear a young goat. But he did not tell his father or mother what he had done.
+
 [7] Samson continued on down to Timnah and spoke to the girl. In his opinion, she was just the right one.
 [8] Some time later, when he went back to marry her, he turned aside to see the lion’s remains. He saw a swarm of bees in the lion’s carcass, as well as some honey.
 [9] He scooped it up with his hands and ate it as he walked along. When he returned to his father and mother, he offered them some and they ate it. But he did not tell them he had scooped the honey out of the lion’s carcass.
+
 [10] Then Samson’s father accompanied him to Timnah for the marriage. Samson hosted a party there, for this was customary for bridegrooms to do.
 [11] When the Philistines saw he had no attendants, they gave him thirty groomsmen who kept him company.
 [12] Samson said to them, “I will give you a riddle. If you really can solve it during the seven days the party lasts, I will give you thirty linen robes and thirty sets of clothes.
 [13] But if you cannot solve it, you will give me thirty linen robes and thirty sets of clothes.” They said to him, “Let us hear your riddle.”
 [14] He said to them,
-“Out of the one who eats came something to eat;
-out of the strong one came something sweet.”
+
+“Out of the one who eats came something to eat;<br>
+out of the strong one came something sweet.”<br>
 [15] On the fourth day they said to Samson’s bride, “Trick your husband into giving the solution to the riddle. If you refuse, we will burn up you and your father’s family. Did you invite us here to make us poor?”
 [16] So Samson’s bride cried on his shoulder and said, “You must hate me; you do not love me! You told the young men a riddle, but you have not told me the solution.” He said to her, “Look, I have not even told my father or mother. Do you really expect me to tell you?”
 [17] She cried on his shoulder until the party was almost over. Finally, on the seventh day, he told her because she had nagged him so much. Then she told the young men the solution to the riddle.
 [18] On the seventh day, before the sun set, the men of the city said to him,
-“What is sweeter than honey?
-What is stronger than a lion?”
-“If you had not plowed with my heifer,
-you would not have solved my riddle!”
+
+“What is sweeter than honey?<br>
+What is stronger than a lion?”<br>
+“If you had not plowed with my heifer,<br>
+you would not have solved my riddle!”<br>
 [19] The **Lord**’s Spirit empowered him. He went down to Ashkelon and killed thirty men. He took their clothes and gave them to the men who had solved the riddle. He was furious as he went back home.
 [20] Samson’s bride was then given to his best man.
 
 ## Chapter 15
-
 
 ### Samson Versus the Philistines
 
@@ -667,6 +723,7 @@ you would not have solved my riddle!”
 [6] The Philistines asked, “Who did this?” They were told, “Samson, the Timnite’s son-in-law, because the Timnite took Samson’s bride and gave her to his best man.” So the Philistines went up and burned her and her father.
 [7] Samson said to them, “Because you did this, I will get revenge against you before I quit fighting.”
 [8] He struck them down and defeated them. Then he went down and lived for a time in the cave in the cliff of Etam.
+
 [9] The Philistines went up and invaded Judah. They arrayed themselves for battle in Lehi.
 [10] The men of Judah said, “Why are you attacking us?” The Philistines said, “We have come up to take Samson prisoner so we can do to him what he has done to us.”
 [11] So 3,000 men of Judah went down to the cave in the cliff of Etam and said to Samson, “Do you not know that the Philistines rule over us? Why have you done this to us?” He said to them, “I have only done to them what they have done to me.”
@@ -675,34 +732,40 @@ you would not have solved my riddle!”
 [14] When he arrived in Lehi, the Philistines shouted as they approached him. But the **Lord**’s Spirit empowered him. The ropes around his arms were like flax dissolving in fire, and they melted away from his hands.
 [15] He happened to see a solid jawbone of a donkey. He grabbed it and struck down 1,000 men.
 [16] Samson then said,
-“With the jawbone of a donkey
-I have left them in heaps;
-with the jawbone of a donkey
-I have struck down a thousand men!”
+
+“With the jawbone of a donkey<br>
+I have left them in heaps;<br>
+with the jawbone of a donkey<br>
+I have struck down a thousand men!”<br>
 [17] When he finished speaking, he threw the jawbone down and named that place Ramath Lehi.
+
 [18] He was very thirsty, so he cried out to the **Lord** and said, “You have given your servant this great victory. But now must I die of thirst and fall into the hands of these uncircumcised Philistines?”
 [19] So God split open the basin at Lehi and water flowed out from it. When he took a drink, his strength was restored and he revived. For this reason he named the spring En Hakkore. It remains in Lehi to this very day.
 [20] Samson led Israel for twenty years during the days of Philistine prominence.
 
 ## Chapter 16
 
-
 ### Samson’s Downfall
 
 [1] Samson went to Gaza. There he saw a prostitute and slept with her.
 [2] The Gazites were told, “Samson has come here!” So they surrounded the town and hid all night at the city gate, waiting for him to leave. They relaxed all night, thinking, “He will not leave until morning comes; then we will kill him!”
 [3] Samson spent half the night with the prostitute; then he got up in the middle of the night and left. He grabbed the doors of the city gate, as well as the two posts, and pulled them right off, bar and all. He put them on his shoulders and carried them up to the top of a hill east of Hebron.
+
 [4] After this Samson fell in love with a woman named Delilah, who lived in the Sorek Valley.
 [5] The rulers of the Philistines went up to visit her and said to her, “Trick him! Find out what makes him so strong and how we can subdue him and humiliate him. Each one of us will give you 1,100 silver pieces.”
+
 [6] So Delilah said to Samson, “Tell me what makes you so strong and how you can be subdued and humiliated.”
 [7] Samson said to her, “If they tie me up with seven fresh bowstrings that have not been dried, I will become weak and be just like any other man.”
 [8] So the rulers of the Philistines brought her seven fresh bowstrings that had not been dried, and she tied him up with them.
 [9] They hid in the bedroom and then she said to him, “The Philistines are here, Samson!” He snapped the bowstrings as easily as a thread of yarn snaps when it is put close to fire. The secret of his strength was not discovered.
+
 [10] Delilah said to Samson, “Look, you deceived me and told me lies! Now tell me how you can be subdued.”
 [11] He said to her, “If they tie me tightly with brand new ropes that have never been used, I will become weak and be just like any other man.”
 [12] So Delilah took new ropes and tied him with them and said to him, “The Philistines are here, Samson!” (The Philistines were hiding in the bedroom.) But he tore the ropes from his arms as if they were a piece of thread.
+
 [13] Delilah said to Samson, “Up to now you have deceived me and told me lies. Tell me how you can be subdued.” He said to her, “If you weave the seven braids of my hair into the fabric on the loom and secure it with the pin, I will become weak and be like any other man.”
 [14] So she made him go to sleep, wove the seven braids of his hair into the fabric on the loom, fastened it with the pin, and said to him, “The Philistines are here, Samson!” He woke up and tore away the pin of the loom and the fabric.
+
 [15] She said to him, “How can you say, ‘I love you,’ when you will not share your secret with me? Three times you have deceived me and have not told me what makes you so strong.”
 [16] She nagged him every day and pressured him until he was sick to death of it.
 [17] Finally he told her his secret. He said to her, “My hair has never been cut, for I have been dedicated to God from the time I was conceived. If my head were shaved, my strength would leave me; I would become weak and be just like all other men.”
@@ -716,6 +779,7 @@ I have struck down a thousand men!”
 
 [23] The rulers of the Philistines gathered to offer a great sacrifice to Dagon their god and to celebrate. They said, “Our god has handed Samson, our enemy, over to us.”
 [24] When the people saw him, they praised their god, saying, “Our god has handed our enemy over to us, the one who ruined our land and killed so many of us!”
+
 [25] When they really started celebrating, they said, “Call for Samson so he can entertain us!” So they summoned Samson from the prison and he entertained them. They made him stand between two pillars.
 [26] Samson said to the young man who held his hand, “Position me so I can touch the pillars that support the temple. Then I can lean on them.”
 [27] Now the temple was filled with men and women, and all the rulers of the Philistines were there. There were 3,000 men and women on the roof watching Samson entertain.
@@ -725,7 +789,6 @@ I have struck down a thousand men!”
 [31] His brothers and all his family went down and brought him back. They buried him between Zorah and Eshtaol in the tomb of Manoah his father. He had led Israel for twenty years.
 
 ## Chapter 17
-
 
 ### Micah Makes His Own Religion
 
@@ -748,7 +811,6 @@ I have struck down a thousand men!”
 
 ## Chapter 18
 
-
 ### The Tribe of Dan Finds an Inheritance
 
 [1] In those days Israel had no king. And in those days the Danite tribe was looking for a place to settle, because at that time they did not yet have a place to call their own among the tribes of Israel.
@@ -757,10 +819,12 @@ I have struck down a thousand men!”
 [4] He told them what Micah had done for him, saying, “He hired me, and I became his priest.”
 [5] They said to him, “Seek a divine oracle for us, so we can know if we will be successful on our mission.”
 [6] The priest said to them, “Go with confidence. The **Lord** will be with you on your mission.”
+
 [7] So the five men journeyed on and arrived in Laish. They noticed that the people there were living securely, like the Sidonians do, undisturbed and unsuspecting. No conqueror was troubling them in any way. They lived far from the Sidonians and had no dealings with anyone.
 [8] When the Danites returned to their tribe in Zorah and Eshtaol, their kinsmen asked them, “How did it go?”
 [9] They said, “Come on, let’s attack them, for we saw their land and it is very good. You seem lethargic, but don’t hesitate to invade and conquer the land.
 [10] When you invade, you will encounter unsuspecting people. The land is wide! God is handing it over to you—a place that lacks nothing on earth!”
+
 [11] So 600 Danites, fully armed, set out from Zorah and Eshtaol.
 [12] They went up and camped in Kiriath Jearim in Judah. (To this day that place is called Camp of Dan. It is west of Kiriath Jearim.)
 [13] From there they traveled through the Ephraimite hill country and arrived at Micah’s house.
@@ -771,12 +835,14 @@ I have struck down a thousand men!”
 [18] When these men broke into Micah’s house and stole the carved image, the ephod, the personal idols, and the metal image, the priest said to them, “What are you doing?”
 [19] They said to him, “Shut up! Put your hand over your mouth and come with us! You can be our adviser and priest. Wouldn’t it be better to be a priest for a whole Israelite tribe than for just one man’s family?”
 [20] The priest was happy. He took the ephod, the personal idols, and the carved image and joined the group.
+
 [21] They turned and went on their way, but they walked behind the children, the cattle, and their possessions.
 [22] After they had gone a good distance from Micah’s house, Micah’s neighbors gathered together and caught up with the Danites.
 [23] When they called out to the Danites, the Danites turned around and said to Micah, “Why have you gathered together?”
 [24] He said, “You stole my gods that I made, as well as this priest, and then went away. What do I have left? How can you have the audacity to say to me, ‘What do you want?’”
 [25] The Danites said to him, “Don’t say another word to us, or some very angry men will attack you, and you and your family will die.”
 [26] The Danites went on their way; when Micah realized they were too strong to resist, he turned around and went home.
+
 [27] Now the Danites took what Micah had made, as well as his priest, and came to Laish, where the people were undisturbed and unsuspecting. They struck them down with the sword and burned the city.
 [28] No one came to the rescue because the city was far from Sidon and they had no dealings with anyone. The city was in a valley near Beth Rehob. The Danites rebuilt the city and occupied it.
 [29] They named it Dan after their ancestor, who was one of Israel’s sons. But the city’s name used to be Laish.
@@ -784,7 +850,6 @@ I have struck down a thousand men!”
 [31] They worshiped Micah’s carved image the whole time God’s authorized shrine was in Shiloh.
 
 ## Chapter 19
-
 
 ### Sodom and Gomorrah Revisited
 
@@ -798,17 +863,20 @@ I have struck down a thousand men!”
 [8] He woke up early in the morning on the fifth day so he could leave, but the girl’s father said, “Get some energy! Wait until later in the day to leave.” So they ate a meal together.
 [9] When the man got ready to leave with his concubine and his servant, his father-in-law, the girl’s father, said to him, “Look! The day is almost over. Stay another night! Since the day is over, stay another night here and have a good time. You can get up early tomorrow and start your trip home.”
 [10] But the man did not want to stay another night. He left and traveled as far as Jebus (that is, Jerusalem). He had with him a pair of saddled donkeys and his concubine.
+
 [11] When they got near Jebus, it was getting quite late and the servant said to his master, “Come on, let’s stop at this Jebusite city and spend the night in it.”
 [12] But his master said to him, “We should not stop at a foreign city where non-Israelites live. We will travel on to Gibeah.”
 [13] He said to his servant, “Come on, we will go into one of the other towns and spend the night in Gibeah or Ramah.”
 [14] So they traveled on, and the sun went down when they were near Gibeah in the territory of Benjamin.
 [15] They stopped there and decided to spend the night in Gibeah. They came into the city and sat down in the town square, but no one invited them to spend the night.
+
 [16] But then an old man passed by, returning at the end of the day from his work in the field. The man was from the Ephraimite hill country; he was living temporarily in Gibeah. (The residents of the town were Benjaminites.)
 [17] When he looked up and saw the traveler in the town square, the old man said, “Where are you heading? Where do you come from?”
 [18] The Levite said to him, “We are traveling from Bethlehem in Judah to the remote region of the Ephraimite hill country. That’s where I’m from. I had business in Bethlehem in Judah, but now I’m heading home. But no one has invited me into their home.
 [19] We have enough straw and grain for our donkeys, and there is enough food and wine for me, your female servant, and the young man who is with your servants. We lack nothing.”
 [20] The old man said, “Everything is just fine. I will take care of all your needs. But don’t spend the night in the town square.”
 [21] So he brought him to his house and fed the donkeys. They washed their feet and had a meal.
+
 [22] They were having a good time, when suddenly some men of the city, some good-for-nothings, surrounded the house and kept beating on the door. They said to the old man who owned the house, “Send out the man who came to visit you so we can take carnal knowledge of him.”
 [23] The man who owned the house went outside and said to them, “No, my brothers! Don’t do this wicked thing! After all, this man is a guest in my house. Don’t do such a disgraceful thing!
 [24] Here are my virgin daughter and my guest’s concubine. I will send them out and you can abuse them and do to them whatever you like. But don’t do such a disgraceful thing to this man!”
@@ -821,7 +889,6 @@ I have struck down a thousand men!”
 
 ## Chapter 20
 
-
 ### Civil War Breaks Out
 
 [1] All the Israelites from Dan to Beer Sheba and from the land of Gilead left their homes and assembled together before the **Lord** at Mizpah.
@@ -831,27 +898,33 @@ I have struck down a thousand men!”
 [5] The leaders of Gibeah attacked me and at night surrounded the house where I was staying. They wanted to kill me; instead they abused my concubine so badly that she died.
 [6] I took hold of my concubine and carved her up and sent the pieces throughout the territory occupied by Israel, because they committed such an unthinkable atrocity in Israel.
 [7] All you Israelites, make a decision here!”
+
 [8] All Israel rose up in unison and said, “Not one of us will go home! Not one of us will return to his house!
 [9] Now this is what we will do to Gibeah: We will attack the city as the lot dictates.
 [10] We will take ten of every group of a hundred men from all the tribes of Israel (and a hundred of every group of a thousand, and a thousand of every group of ten thousand) to get supplies for the army. When they arrive in Gibeah of Benjamin, they will punish them for the atrocity that they committed in Israel.”
 [11] So all the men of Israel gathered together at the city as allies.
+
 [12] The tribes of Israel sent men throughout the tribe of Benjamin, saying, “How could such a wicked thing take place?
 [13] Now, hand over the good-for-nothings in Gibeah so we can execute them and purge Israel of wickedness.” But the Benjaminites refused to listen to their Israelite brothers.
 [14] The Benjaminites came from their cities and assembled at Gibeah to make war against the Israelites.
 [15] That day the Benjaminites mustered from their cities 26,000 sword-wielding soldiers, besides 700 well-trained soldiers from Gibeah.
 [16] Among this army were 700 specially trained left-handed soldiers. Each one could sling a stone and hit even the smallest target.
 [17] The men of Israel (not counting Benjamin) had mustered 400,000 sword-wielding soldiers, every one an experienced warrior.
+
 [18] The Israelites went up to Bethel and asked God, “Who should lead the charge against the Benjaminites?” The **Lord** said, “Judah should lead.”
 [19] The Israelites got up the next morning and moved against Gibeah.
 [20] The men of Israel marched out to fight Benjamin; they arranged their battle lines against Gibeah.
 [21] The Benjaminites attacked from Gibeah and struck down 22,000 Israelites that day.
+
 [22] The Israelite army took heart and once more arranged their battle lines, in the same place where they had taken their positions the day before.
 [23] The Israelites went up and wept before the **Lord** until evening. They asked the **Lord**, “Should we again march out to fight the Benjaminites, our brothers?” The **Lord** said, “Attack them.”
 [24] So the Israelites marched toward the Benjaminites the next day.
 [25] The Benjaminites again attacked them from Gibeah and struck down 18,000 sword-wielding Israelite soldiers.
+
 [26] So all the Israelites, the whole army, went up to Bethel. They wept and sat there before the **Lord**; they did not eat anything that day until evening. They offered up burnt sacrifices and tokens of peace to the **Lord**.
 [27] The Israelites asked the **Lord** (for the ark of God’s covenant was there in those days;
 [28] Phinehas son of Eleazar, son of Aaron, was serving the **Lord** in those days), “Should we once more march out to fight the Benjaminites our brothers, or should we quit?” The **Lord** said, “Attack, for tomorrow I will hand them over to you.”
+
 [29] So Israel hid men in ambush outside Gibeah.
 [30] The Israelites attacked the Benjaminites the next day; they took their positions against Gibeah just as they had done before.
 [31] The Benjaminites attacked the army, leaving the city unguarded. They began to strike down their enemy just as they had done before. On the main roads (one leads to Bethel, the other to Gibeah) and in the field, they struck down about thirty Israelites.
@@ -860,6 +933,8 @@ I have struck down a thousand men!”
 [34] Then 10,000 men, well-trained soldiers from all Israel, made a frontal assault against Gibeah; the battle was fierce. But the Benjaminites did not realize that disaster was at their doorstep.
 [35] The **Lord** annihilated Benjamin before Israel; the Israelites struck down that day 25,100 sword-wielding Benjaminites.
 [36] Then the Benjaminites saw they were defeated.
+
+The Israelites retreated before Benjamin, because they had confidence in the men they had hidden in ambush outside Gibeah.
 [37] The men hiding in ambush made a mad dash to Gibeah. They attacked and put the sword to the entire city.
 [38] The Israelites and the men hiding in ambush had arranged a signal. When the men hiding in ambush sent up a smoke signal from the city,
 [39] the Israelites counterattacked. Benjamin had begun to strike down the Israelites; they struck down about thirty men. They said, “There’s no doubt about it! They are totally defeated as in the earlier battle.”
@@ -875,12 +950,12 @@ I have struck down a thousand men!”
 
 ## Chapter 21
 
-
 ### Six Hundred Brides for Six Hundred Brothers
 
 [1] The Israelites had taken an oath in Mizpah, saying, “Not one of us will allow his daughter to marry a Benjaminite.”
 [2] So the people came to Bethel and sat there before God until evening, weeping loudly and uncontrollably.
 [3] They said, “Why, O **Lord** God of Israel, has this happened in Israel? An entire tribe has disappeared from Israel today!”
+
 [4] The next morning the people got up early and built an altar there. They offered up burnt sacrifices and tokens of peace.
 [5] The Israelites asked, “Who from all the Israelite tribes has not assembled before the **Lord**?”They had made a solemn oath that whoever did not assemble before the **Lord** at Mizpah must certainly be executed.
 [6] The Israelites regretted what had happened to their brother Benjamin. They said, “Today we cut off an entire tribe from Israel!
@@ -890,8 +965,10 @@ I have struck down a thousand men!”
 [10] So the assembly sent 12,000 capable warriors against Jabesh Gilead. They commanded them, “Go and kill with your swords the inhabitants of Jabesh Gilead, including the women and little children.
 [11] Do this: Exterminate every male, as well as every woman who has experienced a man’s bed. But spare the lives of any virgins.” So they did as instructed.
 [12] They found among the inhabitants of Jabesh Gilead 400 young girls who were virgins who had never been intimate with a man in bed. They brought them back to the camp at Shiloh in the land of Canaan.
+
 [13] The entire assembly sent messengers to the Benjaminites at the cliff of Rimmon and assured them they would not be harmed.
 [14] The Benjaminites returned at that time, and the Israelites gave to them the women they had spared from Jabesh Gilead. But there were not enough to go around.
+
 [15] The people regretted what had happened to Benjamin because the **Lord** had weakened the Israelite tribes.
 [16] The leaders of the assembly said, “How can we find wives for those who are left? After all, the Benjaminite women have been wiped out.
 [17] The remnant of Benjamin must be preserved. An entire Israelite tribe should not be wiped out.
@@ -900,6 +977,8 @@ I have struck down a thousand men!”
 [20] So they commanded the Benjaminites, “Go hide in the vineyards,
 [21] and keep your eyes open. When you see the daughters of Shiloh coming out to dance in the celebration, jump out from the vineyards. Each one of you, catch yourself a wife from among the daughters of Shiloh and then go home to the land of Benjamin.
 [22] When their fathers or brothers come and protest to us, we’ll say to them, ‘Do us a favor and let them be, for we could not get each one a wife through battle. Don’t worry about breaking your oath! You would only be guilty if you had voluntarily given them wives.’”
+
 [23] The Benjaminites did as instructed. They abducted 200 of the dancing girls to be their wives. They went home to their own territory, rebuilt their cities, and settled down.
 [24] Then the Israelites dispersed from there to their respective tribal and clan territories. Each went from there to his own property.
 [25] In those days Israel had no king. Each man did what he considered to be right.
+

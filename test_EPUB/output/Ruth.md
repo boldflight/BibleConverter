@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### A Family Tragedy: Famine and Death
 
 [1] During the time of the judges, there was a famine in the land of Judah. So a man from Bethlehem in Judah went to live as a resident foreigner in the region of Moab, along with his wife and two sons.
@@ -18,31 +17,34 @@
 [8] Naomi said to her two daughters-in-law, “Listen to me! Each of you should return to your mother’s home. May the **Lord** show you the same kind of devotion that you have shown to your deceased husbands and to me.
 [9] May the **Lord** enable each of you to find security in the home of a new husband.” Then she kissed them goodbye, and they wept loudly.
 [10] But they said to her, “No! We will return with you to your people.”
+
 [11] But Naomi replied, “Go back home, my daughters! There is no reason for you to return to Judah with me. I am no longer capable of giving birth to sons who might become your husbands!
 [12] Go back home, my daughters! For I am too old to get married again. Even if I thought that there was hope that I could get married tonight and conceive sons,
 [13] surely you would not want to wait until they were old enough to marry. Surely you would not remain unmarried all that time! No, my daughters, you must not return with me. For my intense suffering is too much for you to bear. For the **Lord** is afflicting me!”
+
 [14] Again they wept loudly. Then Orpah kissed her mother-in-law goodbye, but Ruth clung tightly to her.
 [15] So Naomi said, “Look, your sister-in-law is returning to her people and to her god. Follow your sister-in-law back home!”
 [16] But Ruth replied,
-“Stop urging me to abandon you!
-For wherever you go, I will go.
-Wherever you live, I will live.
-Your people will become my people,
-and your God will become my God.
-[17] Wherever you die, I will die—and there I will be buried.
-May the Lord punish me severely if I do not keep my promise!
-Only death will be able to separate me from you!”
+
+“Stop urging me to abandon you!<br>
+For wherever you go, I will go.<br>
+Wherever you live, I will live.<br>
+Your people will become my people,<br>
+and your God will become my God.<br>
+[17] Wherever you die, I will die—and there I will be buried.<br>
+May the **Lord** punish me severely if I do not keep my promise!<br>
+Only death will be able to separate me from you!”<br>
 [18] When Naomi realized that Ruth was determined to go with her, she stopped trying to dissuade her.
 [19] So the two of them journeyed together until they arrived in Bethlehem.
 
 ### Naomi and Ruth Arrive in Bethlehem
 
+When they entered Bethlehem, the whole village was excited about their arrival. The women of the village said, “Can this be Naomi?”
 [20] But she replied to them, “Don’t call me ‘Naomi’! Call me ‘Mara’ because the Sovereign One has treated me very harshly.
 [21] I left here full, but the **Lord** has caused me to return empty-handed. Why do you call me ‘Naomi,’ seeing that the **Lord** has opposed me, and the Sovereign One has caused me to suffer?”
 [22] So Naomi returned, accompanied by her Moabite daughter-in-law Ruth, who came back with her from the region of Moab. (Now they arrived in Bethlehem at the beginning of the barley harvest.)
 
 ## Chapter 2
-
 
 ### Ruth Works in the Field of Boaz
 
@@ -56,12 +58,15 @@ Only death will be able to separate me from you!”
 [5] Boaz asked his servant in charge of the harvesters, “To whom does this young woman belong?”
 [6] The servant in charge of the harvesters replied, “She’s the young Moabite woman who came back with Naomi from the region of Moab.
 [7] She asked, ‘May I follow the harvesters and gather grain among the bundles?’ Since she arrived she has been working hard from this morning until now —except for sitting in the resting hut a short time.”
+
 [8] So Boaz said to Ruth, “Listen carefully, my dear! Do not leave to gather grain in another field. You need not go beyond the limits of this field. You may go along beside my female workers.
 [9] Take note of the field where the men are harvesting and follow behind with the female workers. I will tell the men to leave you alone. When you are thirsty, you may go to the water jars and drink some of the water the servants draw.”
+
 [10] Ruth knelt before him with her forehead to the ground and said to him, “Why are you so kind and so attentive to me, even though I am a foreigner?”
 [11] Boaz replied to her, “I have been given a full report of all that you have done for your mother-in-law following the death of your husband—how you left your father and your mother, as well as your homeland, and came to live among people you did not know previously.
 [12] May the **Lord** reward your efforts! May your acts of kindness be repaid fully by the **Lord** God of Israel, from whom you have sought protection.”
 [13] She said, “You really are being kind to me, sir, for you have reassured and encouraged me, your servant, even though I will never be like one of your servants.”
+
 [14] Later during the mealtime Boaz said to her, “Come here and have some food! Dip your bread in the vinegar.” So she sat down beside the harvesters. Then he handed her some roasted grain. She ate until she was full and saved the rest.
 [15] When she got up to gather grain, Boaz told his male servants, “Let her gather grain even among the bundles. Don’t chase her off!
 [16] Make sure you pull out ears of grain for her and drop them so she can gather them up. Don’t tell her not to!”
@@ -77,7 +82,6 @@ Only death will be able to separate me from you!”
 [23] So Ruth worked beside Boaz’s female servants, gathering grain until the end of the barley harvest as well as the wheat harvest. After that she stayed home with her mother-in-law.
 
 ## Chapter 3
-
 
 ### Naomi Instructs Ruth
 
@@ -103,11 +107,11 @@ Only death will be able to separate me from you!”
 
 ### Ruth Returns to Naomi
 
+When Ruth returned to her mother-in-law, Naomi asked, “How did things turn out for you, my daughter?” Ruth told her about all the man had done for her.
 [17] She said, “He gave me these sixty pounds of barley, for he said to me, ‘Do not go to your mother-in-law empty-handed.’”
 [18] Then Naomi said, “Stay put, my daughter, until you know how the matter turns out. For the man will not rest until he has taken care of the matter today.”
 
 ## Chapter 4
-
 
 ### Boaz Settles the Matter
 
@@ -139,3 +143,4 @@ Only death will be able to separate me from you!”
 [20] Amminadab was the father of Nachshon, Nachshon was the father of Salmah,
 [21] Salmon was the father of Boaz, Boaz was the father of Obed,
 [22] Obed was the father of Jesse, and Jesse was the father of David.
+

@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Jonah Tries to Run from the Lord
 
 [1] The **Lord’**s message came to Jonah son of Amittai,
@@ -24,38 +23,38 @@
 
 ### Jonah Prays
 
-[17] (
+[17] (2:1) The **Lord** sent a huge fish to swallow Jonah, and Jonah was in the stomach of the fish three days and three nights.
 
 ## Chapter 2
 
 [1] Jonah prayed to the **Lord** his God from the stomach of the fish
 [2] and said,
-“I called out to the Lord from my distress,
-and he answered me;
-from the belly of Sheol I cried out for help,
-and you heard my prayer.
-[3] You threw me into the deep waters,
-into the middle of the sea;
-the ocean current engulfed me;
-all the mighty waves you sent swept over me.
-[4] I thought I had been banished from your sight
-and that I would never again see your holy temple.
-[5] Water engulfed me up to my neck;
-the deep ocean surrounded me;
-seaweed was wrapped around my head.
-[6] I went down to the very bottoms of the mountains;
-the gates of the netherworld barred me in forever,
-but you brought me up from the Pit, O Lord, my God.
-[7] When my life was ebbing away, I called out to the Lord.
-And my prayer came to you, to your holy temple.
-[8] Those who worship worthless idols forfeit the mercy that could be theirs.
-[9] But as for me, I promise to offer a sacrifice to you with a public declaration of praise;
-I will surely do what I have promised.
-Salvation belongs to the Lord!”
+
+“I called out to the **Lord** from my distress,<br>
+and he answered me;<br>
+from the belly of Sheol I cried out for help,<br>
+and you heard my prayer.<br>
+[3] You threw me into the deep waters,<br>
+into the middle of the sea;<br>
+the ocean current engulfed me;<br>
+all the mighty waves you sent swept over me.<br>
+[4] I thought I had been banished from your sight<br>
+and that I would never again see your holy temple.<br>
+[5] Water engulfed me up to my neck;<br>
+the deep ocean surrounded me;<br>
+seaweed was wrapped around my head.<br>
+[6] I went down to the very bottoms of the mountains;<br>
+the gates of the netherworld barred me in forever,<br>
+but you brought me up from the Pit, O **Lord**, my God.<br>
+[7] When my life was ebbing away, I called out to the **Lord**.<br>
+And my prayer came to you, to your holy temple.<br>
+[8] Those who worship worthless idols forfeit the mercy that could be theirs.<br>
+[9] But as for me, I promise to offer a sacrifice to you with a public declaration of praise;<br>
+I will surely do what I have promised.<br>
+Salvation belongs to the **Lord**!”<br>
 [10] Then the **Lord** commanded the fish and it vomited Jonah out onto dry land.
 
 ## Chapter 3
-
 
 ### The People of Nineveh Respond to Jonah’s Warning
 
@@ -63,6 +62,7 @@ Salvation belongs to the Lord!”
 [2] “Go immediately to Nineveh, that large city, and proclaim to it the message that I tell you.”
 [3] So Jonah went immediately to Nineveh, in keeping with the **Lord’**s message. Now Nineveh was an enormous city —it required three days to walk through it!
 [4] Jonah began to enter the city by going one day’s walk, announcing, “At the end of forty days, Nineveh will be overthrown!”
+
 [5] The people of Nineveh believed in God, and they declared a fast and put on sackcloth, from the greatest to the least of them.
 [6] When the news reached the king of Nineveh, he got up from his throne, took off his royal robe, put on sackcloth, and sat on ashes.
 [7] He issued a proclamation and said, “In Nineveh, by the decree of the king and his nobles: No human or animal, cattle or sheep, is to taste anything; they must not eat and they must not drink water.
@@ -72,17 +72,20 @@ Salvation belongs to the Lord!”
 
 ## Chapter 4
 
-
 ### Jonah Responds to God’s Kindness
 
 [1] This displeased Jonah terribly and he became very angry.
 [2] He prayed to the **Lord** and said, “Oh, **Lord**, this is just what I thought would happen when I was in my own country. This is what I tried to prevent by attempting to escape to Tarshish, because I knew that you are a gracious and compassionate God, slow to anger and abounding in mercy, and one who relents concerning threatened judgment.
 [3] So now, **Lord**, kill me instead, because I would rather die than live!”
 [4] The **Lord** said, “Are you really so very angry?”
+
 [5] Jonah left the city and sat down east of it. He made a shelter for himself there and sat down under it in the shade to see what would happen to the city.
 [6] The **Lord** God appointed a little plant and caused it to grow up over Jonah to be a shade over his head to rescue him from his misery. Now Jonah was very delighted about the little plant.
+
 [7] So God sent a worm at dawn the next day, and it attacked the little plant so that it dried up.
 [8] When the sun began to shine, God sent a hot east wind. So the sun beat down on Jonah’s head, and he grew faint. So he despaired of life and said, “I would rather die than live!”
+
 [9] God said to Jonah, “Are you really so very angry about the little plant?” And he said, “I am as angry as I could possibly be!”
 [10] The **Lord** said, “You were upset about this little plant, something for which you did not work, nor did you do anything to make it grow. It grew up overnight and died the next day.
 [11] Should I not be more concerned about Nineveh, this enormous city? There are more than 120,000 people in it who do not know right from wrong, as well as many animals.”
+

@@ -2,26 +2,29 @@
 
 ## Chapter 1
 
-
 ### The Prologue
 
 [1] The revelation of Jesus Christ, which God gave him to show his servants what must happen very soon. He made it clear by sending his angel to his servant John,
 [2] who then testified to everything that he saw concerning the word of God and the testimony about Jesus Christ.
 [3] Blessed is the one who reads the words of this prophecy aloud, and blessed are those who hear and obey the things written in it, because the time is near!
+
 [4] From John, to the seven churches that are in the province of Asia: Grace and peace to you from “he who is,” and who was, and who is still to come, and from the seven spirits who are before his throne,
 [5] and from Jesus Christ—the faithful witness, the firstborn from among the dead, the ruler over the kings of the earth. To the one who loves us and has set us free from our sins at the cost of his own blood
 [6] and has appointed us as a kingdom, as priests serving his God and Father—to him be the glory and the power for ever and ever! Amen.
-[7] (Look! He is returning with the clouds,
-and every eye will see him,
-even those who pierced him,
-and all the tribes on the earth will mourn because of him.
-This will certainly come to pass! Amen.)
+
+[7] (Look! _He is returning with the clouds_,<br>
+and _every_ _eye will see him,_<br>
+_even_ _those who pierced him_,<br>
+and all the tribes on the earth will mourn because of him.<br>
+This will certainly come to pass! Amen.)<br>
 [8] “I am the Alpha and the Omega,” says the Lord God—the one who is, and who was, and who is still to come—the All-Powerful!
+
 [9] I, John, your brother and the one who shares with you in the persecution, kingdom, and endurance that are in Jesus, was on the island called Patmos because of the word of God and the testimony about Jesus.
 [10] I was in the Spirit on the Lord’s Day when I heard behind me a loud voice like a trumpet,
 [11] saying: “Write in a book what you see and send it to the seven churches—to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.”
+
 [12] I turned to see whose voice was speaking to me, and when I did so, I saw seven golden lampstands,
-[13] and in the midst of the lampstands was one like a son of man. He was dressed in a robe extending down to his feet and he wore a wide golden belt around his chest.
+[13] and in the midst of the lampstands was one _like_ _a son of man_. He was dressed in a robe extending down to his feet and he wore a wide golden belt around his chest.
 [14] His head and hair were as white as wool, even as white as snow, and his eyes were like a fiery flame.
 [15] His feet were like polished bronze refined in a furnace, and his voice was like the roar of many waters.
 [16] He held seven stars in his right hand, and a sharp double-edged sword extended out of his mouth. His face shone like the sun shining at full strength.
@@ -32,10 +35,11 @@ This will certainly come to pass! Amen.)
 
 ## Chapter 2
 
-
 ### To the Church in Ephesus
 
 [1] “To the angel of the church in Ephesus, write the following:
+
+“This is the solemn pronouncement of the one who has a firm grasp on the seven stars in his right hand —the one who walks among the seven golden lampstands:
 [2] ‘I know your works as well as your labor and steadfast endurance, and that you cannot tolerate evil. You have even put to the test those who refer to themselves as apostles (but are not), and have discovered that they are false.
 [3] I am also aware that you have persisted steadfastly, endured much for the sake of my name, and have not grown weary.
 [4] But I have this against you: You have departed from your first love!
@@ -46,6 +50,8 @@ This will certainly come to pass! Amen.)
 ### To the Church in Smyrna
 
 [8] “To the angel of the church in Smyrna write the following:
+
+“This is the solemn pronouncement of the one who is the first and the last, the one who was dead, but came to life:
 [9] ‘I know the distress you are suffering and your poverty (but you are rich). I also know the slander against you by those who call themselves Jews and really are not, but are a synagogue of Satan.
 [10] Do not be afraid of the things you are about to suffer. The devil is about to have some of you thrown into prison so you may be tested, and you will experience suffering for ten days. Remain faithful even to the point of death, and I will give you the crown that is life itself.
 [11] The one who has an ear had better hear what the Spirit says to the churches. The one who conquers will in no way be harmed by the second death.’
@@ -53,6 +59,8 @@ This will certainly come to pass! Amen.)
 ### To the Church in Pergamum
 
 [12] “To the angel of the church in Pergamum write the following:
+
+“This is the solemn pronouncement of the one who has the sharp double-edged sword:
 [13] ‘I know where you live—where Satan’s throne is. Yet you continue to cling to my name and you have not denied your faith in me, even in the days of Antipas, my faithful witness, who was killed in your city where Satan lives.
 [14] But I have a few things against you: You have some people there who follow the teaching of Balaam, who instructed Balak to put a stumbling block before the people of Israel so they would eat food sacrificed to idols and commit sexual immorality.
 [15] In the same way, there are also some among you who follow the teaching of the Nicolaitans.
@@ -62,6 +70,8 @@ This will certainly come to pass! Amen.)
 ### To the Church in Thyatira
 
 [18] “To the angel of the church in Thyatira write the following:
+
+“This is the solemn pronouncement of the Son of God, the one who has eyes like a fiery flame and whose feet are like polished bronze:
 [19] ‘I know your deeds: your love, faith, service, and steadfast endurance. In fact, your more recent deeds are greater than your earlier ones.
 [20] But I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess, and by her teaching deceives my servants to commit sexual immorality and to eat food sacrificed to idols.
 [21] I have given her time to repent, but she is not willing to repent of her sexual immorality.
@@ -70,17 +80,19 @@ This will certainly come to pass! Amen.)
 [24] But to the rest of you in Thyatira, all who do not hold to this teaching (who have not learned the so-called “deep secrets of Satan”), to you I say: I do not put any additional burden on you.
 [25] However, hold on to what you have until I come.
 [26] And to the one who conquers and who continues in my deeds until the end, I will give him authority over the nations —
-[27] he will rule them with an iron rod
-and like clay jars he will break them to pieces,
+
+[27] **_he_** **_will rule_** **_them_ _with an iron rod_**<br>
+**_and like clay jars he will break them to pieces_**,<br>
 [28] just as I have received the right to rule from my Father—and I will give him the morning star.
 [29] The one who has an ear had better hear what the Spirit says to the churches.’
 
 ## Chapter 3
 
-
 ### To the Church in Sardis
 
 [1] “To the angel of the church in Sardis write the following:
+
+“This is the solemn pronouncement of the one who holds the seven spirits of God and the seven stars: ‘I know your deeds, that you have a reputation that you are alive, but in reality you are dead.
 [2] Wake up then, and strengthen what remains that was about to die, because I have not found your deeds complete in the sight of my God.
 [3] Therefore, remember what you received and heard, and obey it, and repent. If you do not wake up, I will come like a thief, and you will never know at what hour I will come against you.
 [4] But you have a few individuals in Sardis who have not stained their clothes, and they will walk with me dressed in white, because they are worthy.
@@ -90,6 +102,8 @@ and like clay jars he will break them to pieces,
 ### To the Church in Philadelphia
 
 [7] “To the angel of the church in Philadelphia write the following:
+
+“This is the solemn pronouncement of the Holy One, the True One, who holds the key of David, who opens doors no one can shut, and shuts doors no one can open:
 [8] ‘I know your deeds. (Look! I have put in front of you an open door that no one can shut.) I know that you have little strength, but you have obeyed my word and have not denied my name.
 [9] Listen! I am going to make those people from the synagogue of Satan—who say they are Jews yet are not, but are lying—Look, I will make them come and bow down at your feet and acknowledge that I have loved you.
 [10] Because you have kept my admonition to endure steadfastly, I will also keep you from the hour of testing that is about to come on the whole world to test those who live on the earth.
@@ -100,6 +114,8 @@ and like clay jars he will break them to pieces,
 ### To the Church in Laodicea
 
 [14] “To the angel of the church in Laodicea write the following:
+
+“This is the solemn pronouncement of the Amen, the faithful and true witness, the originator of God’s creation:
 [15] ‘I know your deeds, that you are neither cold nor hot. I wish you were either cold or hot!
 [16] So because you are lukewarm, and neither hot nor cold, I am going to vomit you out of my mouth!
 [17] Because you say, “I am rich and have acquired great wealth, and need nothing,” but do not realize that you are wretched, pitiful, poor, blind, and naked,
@@ -111,7 +127,6 @@ and like clay jars he will break them to pieces,
 
 ## Chapter 4
 
-
 ### The Amazing Scene in Heaven
 
 [1] After these things I looked, and there was a door standing open in heaven! And the first voice I had heard speaking to me like a trumpet said: “Come up here so that I can show you what must happen after these things.”
@@ -120,19 +135,21 @@ and like clay jars he will break them to pieces,
 [4] In a circle around the throne were twenty-four other thrones, and seated on those thrones were twenty-four elders. They were dressed in white clothing and had golden crowns on their heads.
 [5] From the throne came out flashes of lightning and roaring and crashes of thunder. Seven flaming torches, which are the seven spirits of God, were burning in front of the throne
 [6] and in front of the throne was something like a sea of glass, like crystal.
+
+In the middle of the throne and around the throne were four living creatures full of eyes in front and in back.
 [7] The first living creature was like a lion, the second creature like an ox, the third creature had a face like a man’s, and the fourth creature looked like an eagle flying.
 [8] Each one of the four living creatures had six wings and was full of eyes all around and inside. They never rest day or night, saying:
-“Holy Holy Holy is the Lord God, the All-Powerful,
-Who was and who is, and who is still to come!”
+
+“_**Holy Holy Holy is the Lord God, the All-Powerful**,_<br>
+Who was and who is, and who is still to come!”<br>
 [9] And whenever the living creatures give glory, honor, and thanks to the one who sits on the throne, who lives forever and ever,
 [10] the twenty-four elders throw themselves to the ground before the one who sits on the throne and worship the one who lives forever and ever, and they offer their crowns before his throne, saying:
-[11] “You are worthy, our Lord and God,
-to receive glory and honor and power,
-since you created all things,
-and because of your will they existed and were created!”
 
+[11] “You are worthy, our Lord and God,<br>
+to receive glory and honor and power,<br>
+since you created all things,<br>
+and because of your will they existed and were created!”<br>
 ## Chapter 5
-
 
 ### The Opening of the Scroll
 
@@ -141,43 +158,51 @@ and because of your will they existed and were created!”
 [3] But no one in heaven or on earth or under the earth was able to open the scroll or look into it.
 [4] So I began weeping bitterly because no one was found who was worthy to open the scroll or to look into it.
 [5] Then one of the elders said to me, “Stop weeping! Look, the Lion of the tribe of Judah, the root of David, has conquered; thus he can open the scroll and its seven seals.”
+
 [6] Then I saw standing in the middle of the throne and of the four living creatures, and in the middle of the elders, a Lamb that appeared to have been killed. He had seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.
 [7] Then he came and took the scroll from the right hand of the one who was seated on the throne,
 [8] and when he had taken the scroll, the four living creatures and the twenty-four elders threw themselves to the ground before the Lamb. Each of them had a harp and golden bowls full of incense (which are the prayers of the saints).
 [9] They were singing a new song:
-“You are worthy to take the scroll
-and to open its seals
-because you were killed,
-and at the cost of your own blood you have purchased for God
-persons from every tribe, language, people, and nation.
-[10] You have appointed them as a kingdom and priests to serve our God, and they will reign on the earth.”
+
+“You are worthy to take the scroll<br>
+and to open its seals<br>
+because you were killed,<br>
+and at the cost of your own blood you have purchased for God<br>
+persons from every tribe, language, people, and nation.<br>
+[10] You have appointed them as a kingdom and priests to serve our God, and they will reign on the earth.”<br>
 [11] Then I looked and heard the voice of many angels in a circle around the throne, as well as the living creatures and the elders. Their number was ten thousand times ten thousand —thousands times thousands—
 [12] all of whom were singing in a loud voice:
-“Worthy is the lamb who was killed
-to receive power and wealth
-and wisdom and might
-and honor and glory and praise!”
+
+“Worthy is the lamb who was killed<br>
+to receive power and wealth<br>
+and wisdom and might<br>
+and honor and glory and praise!”<br>
 [13] Then I heard every creature—in heaven, on earth, under the earth, in the sea, and all that is in them—singing:
-“To the one seated on the throne and to the Lamb
-be praise, honor, glory, and ruling power forever and ever!”
+
+“To the one seated on the throne and to the Lamb<br>
+be praise, honor, glory, and ruling power forever and ever!”<br>
 [14] And the four living creatures were saying “Amen,” and the elders threw themselves to the ground and worshiped.
 
 ## Chapter 6
-
 
 ### The Seven Seals
 
 [1] I looked on when the Lamb opened one of the seven seals, and I heard one of the four living creatures saying with a thunderous voice, “Come!”
 [2] So I looked, and here came a white horse! The one who rode it had a bow, and he was given a crown, and as a conqueror he rode out to conquer.
+
 [3] Then when the Lamb opened the second seal, I heard the second living creature saying, “Come!”
 [4] And another horse, fiery red, came out, and the one who rode it was granted permission to take peace from the earth, so that people would butcher one another, and he was given a huge sword.
+
 [5] Then when the Lamb opened the third seal I heard the third living creature saying, “Come!” So I looked, and here came a black horse! The one who rode it had a balance scale in his hand.
 [6] Then I heard something like a voice from among the four living creatures saying, “A quart of wheat will cost a day’s pay and three quarts of barley will cost a day’s pay. But do not damage the olive oil and the wine!”
+
 [7] Then when the Lamb opened the fourth seal I heard the voice of the fourth living creature saying, “Come!”
 [8] So I looked and here came a pale green horse! The name of the one who rode it was Death, and Hades followed right behind. They were given authority over a fourth of the earth, to kill its population with the sword, famine, and disease, and by the wild animals of the earth.
+
 [9] Now when the Lamb opened the fifth seal, I saw under the altar the souls of those who had been violently killed because of the word of God and because of the testimony they had given.
 [10] They cried out with a loud voice, “How long, Sovereign Master, holy and true, before you judge those who live on the earth and avenge our blood?”
 [11] Each of them was given a long white robe and they were told to rest for a little longer, until the full number was reached of both their fellow servants and their brothers who were going to be killed just as they had been.
+
 [12] Then I looked when the Lamb opened the sixth seal, and a huge earthquake took place; the sun became as black as sackcloth made of hair, and the full moon became blood red;
 [13] and the stars in the sky fell to the earth like a fig tree dropping its unripe figs when shaken by a fierce wind.
 [14] The sky was split apart like a scroll being rolled up, and every mountain and island was moved from its place.
@@ -187,42 +212,43 @@ be praise, honor, glory, and ruling power forever and ever!”
 
 ## Chapter 7
 
-
 ### The Sealing of the 144,000
 
 [1] After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth so no wind could blow on the earth, on the sea, or on any tree.
 [2] Then I saw another angel ascending from the east, who had the seal of the living God. He shouted out with a loud voice to the four angels who had been given permission to damage the earth and the sea:
 [3] “Do not damage the earth or the sea or the trees until we have put a seal on the foreheads of the servants of our God.”
 [4] Now I heard the number of those who were marked with the seal, 144,000, sealed from all the tribes of the people of Israel:
-[5] From the tribe of Judah, twelve thousand were sealed,
-from the tribe of Reuben, twelve thousand,
-from the tribe of Gad, twelve thousand,
-[6] from the tribe of Asher, twelve thousand,
-from the tribe of Naphtali, twelve thousand,
-from the tribe of Manasseh, twelve thousand,
-[7] from the tribe of Simeon, twelve thousand,
-from the tribe of Levi, twelve thousand,
-from the tribe of Issachar, twelve thousand,
-[8] from the tribe of Zebulun, twelve thousand,
-from the tribe of Joseph, twelve thousand,
-from the tribe of Benjamin, twelve thousand were sealed.
+
+[5] From the tribe of Judah, twelve thousand were sealed,<br>
+from the tribe of Reuben, twelve thousand,<br>
+from the tribe of Gad, twelve thousand,<br>
+[6] from the tribe of Asher, twelve thousand,<br>
+from the tribe of Naphtali, twelve thousand,<br>
+from the tribe of Manasseh, twelve thousand,<br>
+[7] from the tribe of Simeon, twelve thousand,<br>
+from the tribe of Levi, twelve thousand,<br>
+from the tribe of Issachar, twelve thousand,<br>
+[8] from the tribe of Zebulun, twelve thousand,<br>
+from the tribe of Joseph, twelve thousand,<br>
+from the tribe of Benjamin, twelve thousand were sealed.<br>
 [9] After these things I looked, and here was an enormous crowd that no one could count, made up of persons from every nation, tribe, people, and language, standing before the throne and before the Lamb dressed in long white robes, and with palm branches in their hands.
 [10] They were shouting out in a loud voice,
-“Salvation belongs to our God, who is seated on the throne, and to the Lamb!”
+
+“Salvation belongs to our God, who is seated on the throne, and to the Lamb!”<br>
 [11] And all the angels stood there in a circle around the throne and around the elders and the four living creatures, and they threw themselves down with their faces to the ground before the throne and worshiped God,
 [12] saying,
-“Amen! Praise and glory,
-and wisdom and thanksgiving,
-and honor and power and strength
-be to our God for ever and ever. Amen!”
+
+“Amen! Praise and glory,<br>
+and wisdom and thanksgiving,<br>
+and honor and power and strength<br>
+be to our God for ever and ever. Amen!”<br>
 [13] Then one of the elders asked me, “These dressed in long white robes—who are they and where have they come from?”
 [14] So I said to him, “My lord, you know the answer.” Then he said to me, “These are the ones who have come out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb!
 [15] For this reason they are before the throne of God, and they serve him day and night in his temple, and the one seated on the throne will shelter them.
-[16] They will never go hungry or be thirsty again, and the sun will not beat down on them, nor any burning heat,
-[17] because the Lamb in the middle of the throne will shepherd them and lead them to springs of living water, and God will wipe away every tear from their eyes.”
+[16] _They will never go hungry or be thirsty again, and the sun will not beat down on them, nor any burning heat_,
+[17] because the Lamb in the middle of the throne will shepherd them and lead them to springs of living water, _and_ _God will wipe away every tear from their eyes_.”
 
 ## Chapter 8
-
 
 ### The Seventh Seal
 
@@ -231,12 +257,17 @@ be to our God for ever and ever. Amen!”
 [3] Another angel holding a golden censer came and was stationed at the altar. A large amount of incense was given to him to offer up, with the prayers of all the saints, on the golden altar that is before the throne.
 [4] The smoke coming from the incense, along with the prayers of the saints, ascended before God from the angel’s hand.
 [5] Then the angel took the censer, filled it with fire from the altar, and threw it on the earth, and there were crashes of thunder, roaring, flashes of lightning, and an earthquake.
+
 [6] Now the seven angels holding the seven trumpets prepared to blow them.
+
 [7] The first angel blew his trumpet, and there was hail and fire mixed with blood, and it was thrown at the earth so that a third of the earth was burned up, a third of the trees were burned up, and all the green grass was burned up.
+
 [8] Then the second angel blew his trumpet, and something like a great mountain of burning fire was thrown into the sea. A third of the sea became blood,
 [9] and a third of the creatures living in the sea died, and a third of the ships were completely destroyed.
+
 [10] Then the third angel blew his trumpet, and a huge star burning like a torch fell from the sky; it landed on a third of the rivers and on the springs of water.
 [11] (Now the name of the star is Wormwood.) So a third of the waters became wormwood, and many people died from these waters because they were poisoned.
+
 [12] Then the fourth angel blew his trumpet, and a third of the sun was struck, and a third of the moon, and a third of the stars, so that a third of them were darkened. And there was no light for a third of the day and for a third of the night likewise.
 [13] Then I looked, and I heard an eagle flying directly overhead, proclaiming with a loud voice, “Woe! Woe! Woe to those who live on the earth because of the remaining sounds of the trumpets of the three angels who are about to blow them!”
 
@@ -248,12 +279,15 @@ be to our God for ever and ever. Amen!”
 [4] They were told not to damage the grass of the earth, or any green plant or tree, but only those people who did not have the seal of God on their forehead.
 [5] The locusts were not given permission to kill them, but only to torture them for five months, and their torture was like that of a scorpion when it stings a person.
 [6] In those days people will seek death, but will not be able to find it; they will long to die, but death will flee from them.
+
 [7] Now the locusts looked like horses equipped for battle. On their heads were something like crowns similar to gold, and their faces looked like men’s faces.
 [8] They had hair like women’s hair, and their teeth were like lions’ teeth.
 [9] They had breastplates like iron breastplates, and the sound of their wings was like the noise of many horse-drawn chariots charging into battle.
 [10] They have tails and stingers like scorpions, and their ability to injure people for five months is in their tails.
-[11] They have as king over them the angel of the abyss, whose name in Hebrew is Abaddon, and in Greek, Apollyon.
+[11] They have as king over them the angel of the abyss, whose name in Hebrew is _Abaddon_, and in Greek, _Apollyon_.
+
 [12] The first woe has passed, but two woes are still coming after these things!
+
 [13] Then the sixth angel blew his trumpet, and I heard a single voice coming from the horns on the golden altar that is before God,
 [14] saying to the sixth angel, the one holding the trumpet, “Set free the four angels who are bound at the great river Euphrates!”
 [15] Then the four angels who had been prepared for this hour, day, month, and year were set free to kill a third of humanity.
@@ -265,7 +299,6 @@ be to our God for ever and ever. Amen!”
 [21] Furthermore, they did not repent of their murders, of their magic spells, of their sexual immorality, or of their stealing.
 
 ## Chapter 10
-
 
 ### The Angel with the Little Scroll
 
@@ -283,7 +316,6 @@ be to our God for ever and ever. Amen!”
 
 ## Chapter 11
 
-
 ### The Fate of the Two Witnesses
 
 [1] Then a measuring rod like a staff was given to me, and I was told, “Get up and measure the temple of God, and the altar, and the ones who worship there.
@@ -299,33 +331,35 @@ be to our God for ever and ever. Amen!”
 [11] But after three and a half days a breath of life from God entered them, and they stood on their feet, and tremendous fear seized those who were watching them.
 [12] Then they heard a loud voice from heaven saying to them: “Come up here!” So the two prophets went up to heaven in a cloud while their enemies stared at them.
 [13] Just then a major earthquake took place and a tenth of the city collapsed; seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven.
+
 [14] The second woe has come and gone; the third is coming quickly.
 
 ### The Seventh Trumpet
 
 [15] Then the seventh angel blew his trumpet, and there were loud voices in heaven saying:
-“The kingdom of the world
-has become the kingdom of our Lord
-and of his Christ,
-and he will reign for ever and ever.”
+
+“The kingdom of the world<br>
+has become the kingdom of our Lord<br>
+and of his Christ,<br>
+and he will reign for ever and ever.”<br>
 [16] Then the twenty-four elders who are seated on their thrones before God threw themselves down with their faces to the ground and worshiped God
 [17] with these words:
-“We give you thanks, Lord God, the All-Powerful,
-the one who is and who was,
-because you have taken your great power
-and begun to reign.
-[18] The nations were enraged,
-but your wrath has come,
-and the time has come for the dead to be judged,
-and the time has come to give to your servants,
-the prophets, their reward,
-as well as to the saints
-and to those who revere your name, both small and great,
-and the time has come to destroy those who destroy the earth.”
+
+“We give you thanks, Lord God, the All-Powerful,<br>
+the one who is and who was,<br>
+because you have taken your great power<br>
+and begun to reign.<br>
+[18] The nations were enraged,<br>
+but your wrath has come,<br>
+and the time has come for the dead to be judged,<br>
+and the time has come to give to your servants,<br>
+the prophets, their reward,<br>
+as well as to the saints<br>
+and to those who revere your name, both small and great,<br>
+and the time has come to destroy those who destroy the earth.”<br>
 [19] Then the temple of God in heaven was opened and the ark of his covenant was visible within his temple. And there were flashes of lightning, roaring, crashes of thunder, an earthquake, and a great hailstorm.
 
 ## Chapter 12
-
 
 ### The Woman, the Child, and the Dragon
 
@@ -333,7 +367,7 @@ and the time has come to destroy those who destroy the earth.”
 [2] She was pregnant and was screaming in labor pains, struggling to give birth.
 [3] Then another sign appeared in heaven: a huge red dragon that had seven heads and ten horns, and on its heads were seven diadem crowns.
 [4] Now the dragon’s tail swept away a third of the stars in heaven and hurled them to the earth. Then the dragon stood before the woman who was about to give birth, so that he might devour her child as soon as it was born.
-[5] So the woman gave birth to a son, a male child, who is going to rule over all the nations with an iron rod. Her child was suddenly caught up to God and to his throne,
+[5] So the woman gave birth to a son, a male child, who is going _to rule_ _over all the nations_ _with_ _an iron rod_. Her child was suddenly caught up to God and to his throne,
 [6] and she fled into the wilderness where a place had been prepared for her by God, so she could be taken care of for 1,260 days.
 
 ### War in Heaven
@@ -342,21 +376,22 @@ and the time has come to destroy those who destroy the earth.”
 [8] But the dragon was not strong enough to prevail, so there was no longer any place left in heaven for him and his angels.
 [9] So that huge dragon—the ancient serpent, the one called the devil and Satan, who deceives the whole world—was thrown down to the earth, and his angels along with him.
 [10] Then I heard a loud voice in heaven saying,
-“The salvation and the power
-and the kingdom of our God,
-and the ruling authority of his Christ, have now come,
-because the accuser of our brothers and sisters,
-the one who accuses them day and night before our God,
-has been thrown down.
-[11] But they overcame him
-by the blood of the Lamb
-and by the word of their testimony,
-and they did not love their lives so much that they were afraid to die.
-[12] Therefore you heavens rejoice, and all who reside in them!
-But woe to the earth and the sea
-because the devil has come down to you!
-He is filled with terrible anger,
-for he knows that he only has a little time!”
+
+“The salvation and the power<br>
+and the kingdom of our God,<br>
+and the ruling authority of his Christ, have now come,<br>
+because the accuser of our brothers and sisters,<br>
+the one who accuses them day and night before our God,<br>
+has been thrown down.<br>
+[11] But they overcame him<br>
+by the blood of the Lamb<br>
+and by the word of their testimony,<br>
+and they did not love their lives so much that they were afraid to die.<br>
+[12] Therefore you heavens rejoice, and all who reside in them!<br>
+But woe to the earth and the sea<br>
+because the devil has come down to you!<br>
+He is filled with terrible anger,<br>
+for he knows that he only has a little time!”<br>
 [13] Now when the dragon realized that he had been thrown down to the earth, he pursued the woman who had given birth to the male child.
 [14] But the woman was given the two wings of a giant eagle so that she could fly out into the wilderness, to the place God prepared for her, where she is taken care of—away from the presence of the serpent—for a time, times, and half a time.
 [15] Then the serpent spouted water like a river out of his mouth after the woman in an attempt to sweep her away by a flood,
@@ -365,7 +400,6 @@ for he knows that he only has a little time!”
 [18] And the dragon stood on the sand of the seashore.
 
 ## Chapter 13
-
 
 ### The Two Beasts
 
@@ -378,10 +412,13 @@ for he knows that he only has a little time!”
 [7] The beast was permitted to go to war against the saints and conquer them. He was given ruling authority over every tribe, people, language, and nation,
 [8] and all those who live on the earth will worship the beast, everyone whose name has not been written since the foundation of the world in the book of life belonging to the Lamb who was killed.
 [9] If anyone has an ear, he had better listen!
-[10] If anyone is meant for captivity,
-into captivity he will go.
-If anyone is to be killed by the sword,
-then by the sword he must be killed.
+
+[10] If anyone is meant for captivity,<br>
+into captivity he will go.<br>
+If anyone is to be killed by the sword,<br>
+then by the sword he must be killed.<br>
+This requires steadfast endurance and faith from the saints.
+
 [11] Then I saw another beast coming up from the earth. He had two horns like a lamb, but was speaking like a dragon.
 [12] He exercised all the ruling authority of the first beast on his behalf, and made the earth and those who inhabit it worship the first beast, the one whose lethal wound had been healed.
 [13] He performed momentous signs, even making fire come down from heaven to earth in front of people
@@ -393,12 +430,12 @@ then by the sword he must be killed.
 
 ## Chapter 14
 
-
 ### An Interlude: The Song of the 144,000
 
 [1] Then I looked, and here was the Lamb standing on Mount Zion, and with him were 144,000, who had his name and his Father’s name written on their foreheads.
 [2] I also heard a sound coming out of heaven like the sound of many waters and like the sound of loud thunder. Now the sound I heard was like that made by harpists playing their harps,
 [3] and they were singing a new song before the throne and before the four living creatures and the elders. No one was able to learn the song except the 144,000 who had been redeemed from the earth.
+
 [4] These are the ones who have not defiled themselves with women, for they are virgins. These are the ones who follow the Lamb wherever he goes. These were redeemed from humanity as firstfruits to God and to the Lamb,
 [5] and no lie was found on their lips; they are blameless.
 
@@ -406,17 +443,24 @@ then by the sword he must be killed.
 
 [6] Then I saw another angel flying directly overhead, and he had an eternal gospel to proclaim to those who live on the earth—to every nation, tribe, language, and people.
 [7] He declared in a loud voice: “Fear God and give him glory, because the hour of his judgment has arrived, and worship the one who made heaven and earth, the sea and the springs of water!”
+
 [8] A second angel followed the first, declaring: “Fallen, fallen is Babylon the great city! She made all the nations drink of the wine of her immoral passion.”
+
 [9] A third angel followed the first two, declaring in a loud voice: “If anyone worships the beast and his image, and takes the mark on his forehead or his hand,
 [10] that person will also drink of the wine of God’s anger that has been mixed undiluted in the cup of his wrath, and he will be tortured with fire and sulfur in front of the holy angels and in front of the Lamb.
 [11] And the smoke from their torture will go up forever and ever, and those who worship the beast and his image will have no rest day or night, along with anyone who receives the mark of his name.”
 [12] This requires the steadfast endurance of the saints—those who obey God’s commandments and hold to their faith in Jesus.
+
 [13] Then I heard a voice from heaven say, “Write this:
-‘Blessed are the dead,
-those who die in the Lord from this moment on!’”
-[14] Then I looked, and a white cloud appeared, and seated on the cloud was one like a son of man! He had a golden crown on his head and a sharp sickle in his hand.
+
+‘Blessed are the dead,<br>
+those who die in the Lord from this moment on!’”<br>
+“Yes,” says the Spirit, “so they can rest from their hard work, because their deeds will follow them.”
+
+[14] Then I looked, and a white cloud appeared, and seated _on_ _the cloud was one like a son of man!_ He had a golden crown on his head and a sharp sickle in his hand.
 [15] Then another angel came out of the temple, shouting in a loud voice to the one seated on the cloud, “Use your sickle and start to reap, because the time to reap has come, since the earth’s harvest is ripe!”
 [16] So the one seated on the cloud swung his sickle over the earth, and the earth was reaped.
+
 [17] Then another angel came out of the temple in heaven, and he too had a sharp sickle.
 [18] Another angel, who was in charge of the fire, came from the altar and called in a loud voice to the angel who had the sharp sickle, “Use your sharp sickle and gather the clusters of grapes off the vine of the earth, because its grapes are now ripe.”
 [19] So the angel swung his sickle over the earth and gathered the grapes from the vineyard of the earth and tossed them into the great winepress of the wrath of God.
@@ -424,20 +468,21 @@ those who die in the Lord from this moment on!’”
 
 ## Chapter 15
 
-
 ### The Final Plagues
 
 [1] Then I saw another great and astounding sign in heaven: seven angels who have seven final plagues (they are final because in them God’s anger is completed).
+
 [2] Then I saw something like a sea of glass mixed with fire, and those who had conquered the beast and his image and the number of his name. They were standing by the sea of glass, holding harps given to them by God.
 [3] They sang the song of Moses the servant of God and the song of the Lamb:
-“Great and astounding are your deeds,
-Lord God, the All-Powerful!
-Just and true are your ways,
-King over the nations!
-[4] Who will not fear you, O Lord,
-and glorify your name, because you alone are holy?
-All nations will come and worship before you
-for your righteous acts have been revealed.”
+
+“Great and astounding are your deeds,<br>
+Lord God, the All-Powerful!<br>
+Just and true are your ways,<br>
+King over the nations!<br>
+[4] Who will not fear you, O Lord,<br>
+and glorify your name, because you alone are holy?<br>
+All nations will come and worship before you<br>
+for your righteous acts have been revealed.”<br>
 [5] After these things I looked, and the temple (the tent of the testimony) was opened in heaven,
 [6] and the seven angels who had the seven plagues came out of the temple, dressed in clean bright linen, wearing wide golden belts around their chests.
 [7] Then one of the four living creatures gave the seven angels seven golden bowls filled with the wrath of God who lives forever and ever,
@@ -445,29 +490,36 @@ for your righteous acts have been revealed.”
 
 ## Chapter 16
 
-
 ### The Bowls of God’s Wrath
 
 [1] Then I heard a loud voice from the temple declaring to the seven angels: “Go and pour out on the earth the seven bowls containing God’s wrath.”
 [2] So the first angel went and poured out his bowl on the earth. Then ugly and painful sores appeared on the people who had the mark of the beast and who worshiped his image.
+
 [3] Next, the second angel poured out his bowl on the sea and it turned into blood, like that of a corpse, and every living creature that was in the sea died.
+
 [4] Then the third angel poured out his bowl on the rivers and the springs of water, and they turned into blood.
 [5] Now I heard the angel of the waters saying:
-“You are just —the one who is and who was,
-the Holy One—because you have passed these judgments,
-[6] because they poured out the blood of your saints and prophets,
-so you have given them blood to drink. They got what they deserved!”
+
+“You are just —the one who is and who was,<br>
+the Holy One—because you have passed these judgments,<br>
+[6] because they poured out the blood of your saints and prophets,<br>
+so you have given them blood to drink. They got what they deserved!”<br>
 [7] Then I heard the altar reply, “Yes, Lord God, the All-Powerful, your judgments are true and just!”
+
 [8] Then the fourth angel poured out his bowl on the sun, and it was permitted to scorch people with fire.
 [9] Thus people were scorched by the terrible heat, yet they blasphemed the name of God, who has ruling authority over these plagues, and they would not repent and give him glory.
+
 [10] Then the fifth angel poured out his bowl on the throne of the beast so that darkness covered his kingdom, and people began to bite their tongues because of their pain.
 [11] They blasphemed the God of heaven because of their sufferings and because of their sores, but nevertheless they still refused to repent of their deeds.
+
 [12] Then the sixth angel poured out his bowl on the great river Euphrates and dried up its water to prepare the way for the kings from the east.
 [13] Then I saw three unclean spirits that looked like frogs coming out of the mouth of the dragon, out of the mouth of the beast, and out of the mouth of the false prophet.
 [14] For they are the spirits of the demons performing signs who go out to the kings of the earth to bring them together for the battle that will take place on the great day of God, the All-Powerful.
-[15] (Look ! I will come like a thief!
-Blessed is the one who stays alert and does not lose his clothes so that he will not have to walk around naked and his shameful condition be seen.)
+
+[15] (Look ! I will come like a thief!<br>
+Blessed is the one who stays alert and does not lose his clothes so that he will not have to walk around naked and his shameful condition be seen.)<br>
 [16] Now the spirits gathered the kings and their armies to the place that is called Armageddon in Hebrew.
+
 [17] Finally the seventh angel poured out his bowl into the air and a loud voice came out of the temple from the throne, saying: “It is done!”
 [18] Then there were flashes of lightning, roaring, and crashes of thunder, and there was a tremendous earthquake—an earthquake unequaled since humanity has been on the earth, so tremendous was that earthquake.
 [19] The great city was split into three parts and the cities of the nations collapsed. So Babylon the great was remembered before God, and was given the cup filled with the wine made of God’s furious wrath.
@@ -475,7 +527,6 @@ Blessed is the one who stays alert and does not lose his clothes so that he will
 [21] And gigantic hailstones, weighing about a 100 pounds each, fell from heaven on people, but they blasphemed God because of the plague of hail, since it was so horrendous.
 
 ## Chapter 17
-
 
 ### The Great Prostitute and the Beast
 
@@ -493,6 +544,7 @@ Blessed is the one who stays alert and does not lose his clothes so that he will
 [12] The ten horns that you saw are ten kings who have not yet received a kingdom, but will receive ruling authority as kings with the beast for one hour.
 [13] These kings have a single intent, and they will give their power and authority to the beast.
 [14] They will make war with the Lamb, but the Lamb will conquer them, because he is Lord of lords and King of kings, and those accompanying the Lamb are the called, chosen, and faithful.”
+
 [15] Then the angel said to me, “The waters you saw (where the prostitute is seated) are peoples, multitudes, nations, and languages.
 [16] The ten horns that you saw, and the beast—these will hate the prostitute and make her desolate and naked. They will consume her flesh and burn her up with fire.
 [17] For God has put into their minds to carry out his purpose by making a decision to give their royal power to the beast until the words of God are fulfilled.
@@ -500,97 +552,106 @@ Blessed is the one who stays alert and does not lose his clothes so that he will
 
 ## Chapter 18
 
-
 ### Babylon is Destroyed
 
 [1] After these things I saw another angel, who possessed great authority, coming down out of heaven, and the earth was lit up by his radiance.
 [2] He shouted with a powerful voice:
-“Fallen, fallen, is Babylon the great!
-She has become a lair for demons,
-a haunt for every unclean spirit,
-a haunt for every unclean bird,
-a haunt for every unclean and detested beast.
-[3] For all the nations have fallen from
-the wine of her immoral passion,
-and the kings of the earth have committed sexual immorality with her,
-and the merchants of the earth have gotten rich from the power of her sensual behavior.”
+
+“Fallen, fallen, is Babylon the great!<br>
+She has become a lair for demons,<br>
+a haunt for every unclean spirit,<br>
+a haunt for every unclean bird,<br>
+a haunt for every unclean and detested beast.<br>
+[3] For all the nations have fallen from<br>
+the wine of her immoral passion,<br>
+and the kings of the earth have committed sexual immorality with her,<br>
+and the merchants of the earth have gotten rich from the power of her sensual behavior.”<br>
 [4] Then I heard another voice from heaven saying, “Come out of her, my people, so you will not take part in her sins and so you will not receive her plagues,
 [5] because her sins have piled up all the way to heaven and God has remembered her crimes.
 [6] Repay her the same way she repaid others; pay her back double corresponding to her deeds. In the cup she mixed, mix double the amount for her.
 [7] As much as she exalted herself and lived in sensual luxury, to this extent give her torment and grief because she said to herself, ‘I rule as queen and am no widow; I will never experience grief!’
 [8] For this reason, she will experience her plagues in a single day: disease, mourning, and famine, and she will be burned down with fire, because the Lord God who judges her is powerful!”
+
 [9] Then the kings of the earth who committed immoral acts with her and lived in sensual luxury with her will weep and wail for her when they see the smoke from the fire that burns her up.
 [10] They will stand a long way off because they are afraid of her torment, and will say,
-“Woe, woe, O great city,
-Babylon the powerful city!
-For in a single hour your doom has come!”
+
+“Woe, woe, O great city,<br>
+Babylon the powerful city!<br>
+For in a single hour your doom has come!”<br>
 [11] Then the merchants of the earth will weep and mourn for her because no one buys their cargo any longer—
 [12] cargo such as gold, silver, precious stones, pearls, fine linen, purple cloth, silk, scarlet cloth, all sorts of things made of citron wood, all sorts of objects made of ivory, all sorts of things made of expensive wood, bronze, iron and marble,
 [13] cinnamon, spice, incense, perfumed ointment, frankincense, wine, olive oil and costly flour, wheat, cattle and sheep, horses and four-wheeled carriages, slaves and human lives.
-[14] (The ripe fruit you greatly desired
-has gone from you,
-and all your luxury and splendor
-have gone from you—
-they will never ever be found again!)
+
+[14] (The ripe fruit you greatly desired<br>
+has gone from you,<br>
+and all your luxury and splendor<br>
+have gone from you—<br>
+they will never ever be found again!)<br>
 [15] The merchants who sold these things, who got rich from her, will stand a long way off because they are afraid of her torment. They will weep and mourn,
 [16] saying,
-“Woe, woe, O great city—
-dressed in fine linen, purple and scarlet clothing,
-and adorned with gold, precious stones, and pearls—
-[17] because in a single hour such great wealth has been destroyed!”
+
+“Woe, woe, O great city—<br>
+dressed in fine linen, purple and scarlet clothing,<br>
+and adorned with gold, precious stones, and pearls—<br>
+[17] because in a single hour such great wealth has been destroyed!”<br>
+And every ship’s captain, and all who sail along the coast —seamen, and all who make their living from the sea, stood a long way off
 [18] and began to shout when they saw the smoke from the fire that burned her up, “Who is like the great city?”
 [19] And they threw dust on their heads and were shouting with weeping and mourning,
-“Woe, Woe, O great city—
-in which all those who had ships on the sea got rich from her wealth—
-because in a single hour she has been destroyed!”
-[20] (Rejoice over her, O heaven,
-and you saints and apostles and prophets,
-for God has pronounced judgment against her on your behalf!)
-[21] Then one powerful angel picked up a stone like a huge millstone, threw it into the sea, and said,
-“With this kind of sudden violent force
-Babylon the great city will be thrown down
-and it will never be found again!
-[22] And the sound of the harpists, musicians,
-flute players, and trumpeters
-will never be heard in you again.
-No craftsman who practices any trade
-will ever be found in you again;
-the noise of a mill will never be heard in you again.
-[23] Even the light from a lamp
-will never shine in you again!
-The voices of the bridegroom and his bride
-will never be heard in you again.
-For your merchants were the tycoons of the world,
-because all the nations were deceived by your magic spells!
-[24] The blood of the saints and prophets was found in her,
-along with the blood of all those who had been killed on the earth.”
 
+“Woe, Woe, O great city—<br>
+in which all those who had ships on the sea got rich from her wealth—<br>
+because in a single hour she has been destroyed!”<br>
+[20] (Rejoice over her, O heaven,<br>
+and you saints and apostles and prophets,<br>
+for God has pronounced judgment against her on your behalf!)<br>
+[21] Then one powerful angel picked up a stone like a huge millstone, threw it into the sea, and said,
+
+“With this kind of sudden violent force<br>
+Babylon the great city will be thrown down<br>
+and it will never be found again!<br>
+[22] And the sound of the harpists, musicians,<br>
+flute players, and trumpeters<br>
+will never be heard in you again.<br>
+No craftsman who practices any trade<br>
+will ever be found in you again;<br>
+the noise of a mill will never be heard in you again.<br>
+[23] Even the light from a lamp<br>
+will never shine in you again!<br>
+The voices of the bridegroom and his bride<br>
+will never be heard in you again.<br>
+For your merchants were the tycoons of the world,<br>
+because all the nations were deceived by your magic spells!<br>
+[24] The blood of the saints and prophets was found in her,<br>
+along with the blood of all those who had been killed on the earth.”<br>
 ## Chapter 19
 
 [1] After these things I heard what sounded like the loud voice of a vast throng in heaven, saying,
-“Hallelujah! Salvation and glory and power belong to our God,
-[2] because his judgments are true and just.
-For he has judged the great prostitute
-who corrupted the earth with her sexual immorality,
-and has avenged the blood of his servants poured out by her own hands!”
+
+“Hallelujah! Salvation and glory and power belong to our God,<br>
+[2] because his judgments are true and just.<br>
+For he has judged the great prostitute<br>
+who corrupted the earth with her sexual immorality,<br>
+and has avenged the blood of his servants poured out by her own hands!”<br>
 [3] Then a second time the crowd shouted, “Hallelujah!” The smoke rises from her forever and ever.
 [4] The twenty-four elders and the four living creatures threw themselves to the ground and worshiped God, who was seated on the throne, saying: “Amen! Hallelujah!”
-[5] Then a voice came from the throne, saying:
-“Praise our God
-all you his servants,
-and all you who fear him,
-both the small and the great!”
 
+[5] Then a voice came from the throne, saying:
+
+“Praise our God<br>
+all you his servants,<br>
+and all you who fear him,<br>
+both the small and the great!”<br>
 ### The Wedding Celebration of the Lamb
 
 [6] Then I heard what sounded like the voice of a vast throng, like the roar of many waters and like loud crashes of thunder. They were shouting:
-“Hallelujah!
-For the Lord our God, the All-Powerful, reigns!
-[7] Let us rejoice and exult
-and give him glory,
-because the wedding celebration of the Lamb has come,
-and his bride has made herself ready.
-[8] She was permitted to be dressed in bright, clean, fine linen” (for the fine linen is the righteous deeds of the saints).
+
+“Hallelujah!<br>
+For the Lord our God, the All-Powerful, reigns!<br>
+[7] Let us rejoice and exult<br>
+and give him glory,<br>
+because the wedding celebration of the Lamb has come,<br>
+and his bride has made herself ready.<br>
+[8] She was permitted to be dressed in bright, clean, fine linen” (for the fine linen is the righteous deeds of the saints).<br>
 [9] Then the angel said to me, “Write the following: Blessed are those who are invited to the banquet at the wedding celebration of the Lamb!” He also said to me, “These are the true words of God.”
 [10] So I threw myself down at his feet to worship him, but he said, “Do not do this! I am only a fellow servant with you and your brothers and sisters who hold to the testimony about Jesus. Worship God, for the testimony about Jesus is the spirit of prophecy.”
 
@@ -600,28 +661,30 @@ and his bride has made herself ready.
 [12] His eyes are like a fiery flame and there are many diadem crowns on his head. He has a name written that no one knows except himself.
 [13] He is dressed in clothing dipped in blood, and he is called the Word of God.
 [14] The armies that are in heaven, dressed in white, clean, fine linen, were following him on white horses.
-[15] From his mouth extends a sharp sword, so that with it he can strike the nations. He will rule them with an iron rod, and he stomps the winepress of the furious wrath of God, the All-Powerful.
+[15] From his mouth extends a sharp sword, so that with it he can strike the nations. **_He_** **_will rule_** _**them with an iron rod**,_ and he stomps the winepress of the furious wrath of God, the All-Powerful.
 [16] He has a name written on his clothing and on his thigh: “King of kings and Lord of lords.”
+
 [17] Then I saw one angel standing in the sun, and he shouted in a loud voice to all the birds flying high in the sky:
-“Come, gather around for the great banquet of God,
-[18] to eat your fill of the flesh of kings,
-the flesh of generals,
-the flesh of powerful people,
-the flesh of horses and those who ride them,
-and the flesh of all people, both free and slave,
-and small and great!”
+
+“Come, gather around for the great banquet of God,<br>
+[18] to eat your fill of the flesh of kings,<br>
+the flesh of generals,<br>
+the flesh of powerful people,<br>
+the flesh of horses and those who ride them,<br>
+and the flesh of all people, both free and slave,<br>
+and small and great!”<br>
 [19] Then I saw the beast and the kings of the earth and their armies assembled to do battle with the one who rode the horse and with his army.
 [20] Now the beast was seized, and along with him the false prophet who had performed the signs on his behalf —signs by which he deceived those who had received the mark of the beast and those who worshiped his image. Both of them were thrown alive into the lake of fire burning with sulfur.
 [21] The others were killed by the sword that extended from the mouth of the one who rode the horse, and all the birds gorged themselves with their flesh.
 
 ## Chapter 20
 
-
 ### The Thousand Year Reign
 
 [1] Then I saw an angel descending from heaven, holding in his hand the key to the abyss and a huge chain.
 [2] He seized the dragon—the ancient serpent, who is the devil and Satan—and tied him up for a thousand years.
 [3] The angel then threw him into the abyss and locked and sealed it so that he could not deceive the nations until the one thousand years were finished. (After these things he must be released for a brief period of time.)
+
 [4] Then I saw thrones and seated on them were those who had been given authority to judge. I also saw the souls of those who had been beheaded because of the testimony about Jesus and because of the word of God. These had not worshiped the beast or his image and had refused to receive his mark on their forehead or hand. They came to life and reigned with Christ for a thousand years.
 [5] (The rest of the dead did not come to life until the thousand years were finished.) This is the first resurrection.
 [6] Blessed and holy is the one who takes part in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ, and they will reign with him for a thousand years.
@@ -643,13 +706,13 @@ and small and great!”
 
 ## Chapter 21
 
-
 ### A New Heaven and a New Earth
 
 [1] Then I saw a new heaven and a new earth, for the first heaven and earth had ceased to exist, and the sea existed no more.
 [2] And I saw the holy city—the new Jerusalem—descending out of heaven from God, made ready like a bride adorned for her husband.
 [3] And I heard a loud voice from the throne saying: “Look! The residence of God is among human beings. He will live among them, and they will be his people, and God himself will be with them.
 [4] He will wipe away every tear from their eyes, and death will not exist any more—or mourning, or crying, or pain, for the former things have ceased to exist.”
+
 [5] And the one seated on the throne said: “Look! I am making all things new!” Then he said to me, “Write it down, because these words are reliable and true.”
 [6] He also said to me, “It is done! I am the Alpha and the Omega, the beginning and the end. To the one who is thirsty I will give water free of charge from the spring of the water of life.
 [7] The one who conquers will inherit these things, and I will be his God and he will be my son.
@@ -663,6 +726,7 @@ and small and great!”
 [12] It has a massive, high wall with twelve gates, with twelve angels at the gates, and the names of the twelve tribes of the nation of Israel are written on the gates.
 [13] There are three gates on the east side, three gates on the north side, three gates on the south side and three gates on the west side.
 [14] The wall of the city has twelve foundations, and on them are the twelve names of the twelve apostles of the Lamb.
+
 [15] The angel who spoke to me had a golden measuring rod with which to measure the city and its foundation stones and wall.
 [16] Now the city is laid out as a square, its length and width the same. He measured the city with the measuring rod at 1,400 miles (its length and width and height are equal).
 [17] He also measured its wall, 144 cubits according to human measurement, which is also the angel’s.
@@ -670,6 +734,7 @@ and small and great!”
 [19] The foundations of the city’s wall are decorated with every kind of precious stone. The first foundation is jasper, the second sapphire, the third agate, the fourth emerald,
 [20] the fifth onyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, and the twelfth amethyst.
 [21] And the twelve gates are twelve pearls—each one of the gates is made from just one pearl! The main street of the city is pure gold, like transparent glass.
+
 [22] Now I saw no temple in the city, because the Lord God—the All-Powerful —and the Lamb are its temple.
 [23] The city does not need the sun or the moon to shine on it, because the glory of God lights it up, and its lamp is the Lamb.
 [24] The nations will walk by its light and the kings of the earth will bring their grandeur into it.
@@ -688,22 +753,28 @@ and small and great!”
 ### A Final Reminder
 
 [6] Then the angel said to me, “These words are reliable and true. The Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must happen soon.”
-[7] (Look ! I am coming soon!
-Blessed is the one who keeps the words of the prophecy expressed in this book.)
+
+[7] (Look ! I am coming soon!<br>
+Blessed is the one who keeps the words of the prophecy expressed in this book.)<br>
 [8] I, John, am the one who heard and saw these things, and when I heard and saw them, I threw myself down to worship at the feet of the angel who was showing them to me.
 [9] But he said to me, “Do not do this! I am a fellow servant with you and with your brothers the prophets, and with those who obey the words of this book. Worship God!”
 [10] Then he said to me, “Do not seal up the words of the prophecy contained in this book, because the time is near.
 [11] The evildoer must continue to do evil, and the one who is morally filthy must continue to be filthy. The one who is righteous must continue to act righteously, and the one who is holy must continue to be holy.”
-[12] (Look ! I am coming soon,
-and my reward is with me to pay each one according to what he has done!
-[13] I am the Alpha and the Omega,
-the first and the last,
-the beginning and the end!)
+
+[12] (Look ! I am coming soon,<br>
+and my reward is with me to pay each one according to what he has done!<br>
+[13] I am the Alpha and the Omega,<br>
+the first and the last,<br>
+the beginning and the end!)<br>
 [14] Blessed are those who wash their robes so they can have access to the tree of life and can enter into the city by the gates.
 [15] Outside are the dogs and the sorcerers and the sexually immoral, and the murderers, and the idolaters and everyone who loves and practices falsehood!
+
 [16] “I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and the descendant of David, the bright morning star!”
 [17] And the Spirit and the bride say, “Come!” And let the one who hears say: “Come!” And let the one who is thirsty come; let the one who wants it take the water of life free of charge.
+
 [18] I testify to everyone who hears the words of the prophecy contained in this book: If anyone adds to them, God will add to him the plagues described in this book.
 [19] And if anyone takes away from the words of this book of prophecy, God will take away his share in the tree of life and in the holy city that are described in this book.
+
 [20] The one who testifies to these things says, “Yes, I am coming soon!” Amen! Come, Lord Jesus!
 [21] The grace of the Lord Jesus be with all.
+

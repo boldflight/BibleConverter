@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Introduction to the Sacrificial Regulations
 
 [1] Then the **Lord** called to Moses and spoke to him from the Meeting Tent:
@@ -34,7 +33,6 @@
 
 ## Chapter 2
 
-
 ### Grain-Offering Regulations: Offering of Raw Flour
 
 [1] “‘When a person presents a grain offering to the **Lord**, his offering must consist of choice wheat flour, and he must pour olive oil on it and put frankincense on it.
@@ -47,6 +45,7 @@
 [5] If your offering is a grain offering made on the griddle, it must be choice wheat flour mixed with olive oil, unleavened.
 [6] Crumble it in pieces and pour olive oil on it—it is a grain offering.
 [7] If your offering is a grain offering made in a pan, it must be made of choice wheat flour deep fried in olive oil.
+
 [8] “‘You must bring the grain offering that must be made from these to the **Lord**. Present it to the priest, and he will bring it to the altar.
 [9] Then the priest must take up from the grain offering its memorial portion and offer it up in smoke on the altar—it is a gift of a soothing aroma to the **Lord**.
 [10] The remainder of the grain offering belongs to Aaron and to his sons—it is most holy from the gifts of the **Lord**.
@@ -56,12 +55,12 @@
 [11] “‘No grain offering which you present to the **Lord** can be made with yeast, for you must not offer up in smoke any yeast or honey as a gift to the **Lord**.
 [12] You can present them to the **Lord** as an offering of firstfruit, but they must not go up to the altar for a soothing aroma.
 [13] Moreover, you must season every one of your grain offerings with salt; you must not allow the salt of the covenant of your God to be missing from your grain offering —on every one of your grain offerings you must present salt.
+
 [14] “‘If you present a grain offering of first ripe grain to the **Lord**, you must present your grain offering of first ripe grain as soft kernels roasted in fire—crushed bits of fresh grain.
 [15] And you must put olive oil on it and set frankincense on it—it is a grain offering.
 [16] Then the priest must offer its memorial portion up in smoke—some of its crushed bits, some of its olive oil, in addition to all of its frankincense—it is a gift to the **Lord**.
 
 ## Chapter 3
-
 
 ### Peace-Offering Regulations: Animal from the Herd
 
@@ -79,6 +78,7 @@
 [9] Then he must present a gift to the **Lord** from the peace-offering sacrifice: He must remove all the fatty tail up to the end of the spine, the fat covering the entrails, and all the fat on the entrails,
 [10] the two kidneys with the fat on their sinews, and the protruding lobe on the liver (which he is to remove along with the kidneys).
 [11] Then the priest must offer it up in smoke on the altar as a food gift to the **Lord**.
+
 [12] “‘If his offering is a goat he must present it before the **Lord**,
 [13] lay his hand on its head, and slaughter it before the Meeting Tent, and the sons of Aaron must splash its blood against the altar’s sides.
 [14] Then he must present from it his offering as a gift to the **Lord**: the fat which covers the entrails and all the fat on the entrails,
@@ -87,7 +87,6 @@
 [17] This is a perpetual statute throughout your generations in all the places where you live: You must never eat any fat or any blood.’”
 
 ## Chapter 4
-
 
 ### Sin-Offering Regulations
 
@@ -101,6 +100,7 @@
 [5] Then that high priest must take some of the blood of the bull and bring it to the Meeting Tent.
 [6] The priest must dip his finger in the blood and sprinkle some of it seven times before the **Lord** toward the front of the special curtain of the sanctuary.
 [7] The priest must put some of the blood on the horns of the altar of fragrant incense that is before the **Lord** in the Meeting Tent, and all the rest of the bull’s blood he must pour out at the base of the altar of burnt offering that is at the entrance of the Meeting Tent.
+
 [8] “‘Then he must take up all the fat from the sin offering bull: the fat covering the entrails and all the fat surrounding the entrails,
 [9] the two kidneys with the fat on their sinews, and the protruding lobe on the liver (which he is to remove along with the kidneys)
 [10] —just as it is taken from the ox of the peace-offering sacrifice —and the priest must offer them up in smoke on the altar of burnt offering.
@@ -115,6 +115,7 @@
 [16] Then the high priest must bring some of the blood of the bull to the Meeting Tent,
 [17] and that priest must dip his finger in the blood and sprinkle some of the blood seven times before the **Lord** toward the front of the curtain.
 [18] He must put some of the blood on the horns of the altar which is before the **Lord** in the Meeting Tent, and all the rest of the blood he must pour out at the base of the altar of burnt offering that is at the entrance of the Meeting Tent.
+
 [19] “‘Then the priest must take all its fat and offer the fat up in smoke on the altar.
 [20] He must do with the rest of the bull just as he did with the bull of the sin offering; this is what he must do with it. So the priest will make atonement on their behalf and they will be forgiven.
 [21] He must bring the rest of the bull outside the camp and burn it just as he burned the first bull—it is the sin offering of the assembly.
@@ -134,13 +135,13 @@
 [29] He must lay his hand on the head of the sin offering and slaughter the sin offering in the place where the burnt offering is slaughtered.
 [30] Then the priest must take some of its blood with his finger and put it on the horns of the altar of burnt offering, and he must pour out all the rest of its blood at the base of the altar.
 [31] Then he must remove all of its fat (just as fat was removed from the peace-offering sacrifice) and the priest must offer it up in smoke on the altar for a soothing aroma to the **Lord**. So the priest will make atonement on his behalf and he will be forgiven.
+
 [32] “‘But if he brings a sheep as his offering, for a sin offering, he must bring a flawless female.
 [33] He must lay his hand on the head of the sin offering and slaughter it for a sin offering in the place where the burnt offering is slaughtered.
 [34] Then the priest must take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and he must pour out all the rest of its blood at the base of the altar.
 [35] Then the one who brought the offering must remove all its fat (just as the fat of the sheep is removed from the peace-offering sacrifice) and the priest must offer them up in smoke on the altar on top of the other gifts for the **Lord**. So the priest will make atonement on his behalf for his sin which he has committed and he will be forgiven.
 
 ## Chapter 5
-
 
 ### Additional Sin-Offering Regulations
 
@@ -150,10 +151,12 @@
 [4] or when a person swears an oath, speaking thoughtlessly with his lips, whether to do evil or to do good, with regard to anything which the individual might speak thoughtlessly in an oath, even if he did not realize it, but he has later come to know it and is guilty with regard to one of these oaths —
 [5] when an individual becomes guilty with regard to one of these things he must confess how he has sinned,
 [6] and he must bring his penalty for guilt to the **Lord** for his sin that he has committed—a female from the flock, whether a female sheep or a female goat, for a sin offering. So the priest will make atonement on his behalf for his sin.
+
 [7] “‘If he cannot afford an animal from the flock, he must bring his penalty for guilt for his sin that he has committed, two turtledoves or two young pigeons, to the **Lord**, one for a sin offering and one for a burnt offering.
 [8] He must bring them to the priest and present first the one that is for a sin offering. The priest must pinch its head at the nape of its neck, but must not sever the head from the body.
 [9] Then he must sprinkle some of the blood of the sin offering on the wall of the altar, and the remainder of the blood must be squeezed out at the base of the altar—it is a sin offering.
 [10] The second bird he must make a burnt offering according to the standard regulation. So the priest will make atonement on behalf of this person for his sin which he has committed, and he will be forgiven.
+
 [11] “‘If he cannot afford two turtledoves or two young pigeons, he must bring as his offering for his sin which he has committed a tenth of an ephah of choice wheat flour for a sin offering. He must not place olive oil on it, and he must not put frankincense on it, because it is a sin offering.
 [12] He must bring it to the priest, and the priest must scoop out from it a handful as its memorial portion and offer it up in smoke on the altar on top of the other gifts of the **Lord**—it is a sin offering.
 [13] So the priest will make atonement on his behalf for his sin which he has committed by doing one of these things, and he will be forgiven. The remainder of the offering will belong to the priest like the grain offering.’”
@@ -172,10 +175,9 @@
 
 ## Chapter 6
 
-
 ### Trespass by Deception and False Oath
 
-[1] (
+[1] (5:20) Then the **Lord** spoke to Moses:
 [2] “When a person sins and commits a trespass against the **Lord** by deceiving his fellow citizen in regard to something held in trust, or a pledge, or something stolen, or by extorting something from his fellow citizen,
 [3] or has found something lost and denies it and swears falsely concerning any one of the things that someone might do to sin —
 [4] when it happens that he sins and he is found guilty then he must return whatever he had stolen, or whatever he had extorted, or the thing that he had held in trust, or the lost thing that he had found,
@@ -185,7 +187,7 @@
 
 ### Sacrificial Instructions for the Priests: The Burnt Offering
 
-[8] (
+[8] (6:1) Then the **Lord** spoke to Moses:
 [9] “Command Aaron and his sons, ‘This is the law of the burnt offering. The burnt offering is to remain on the hearth on the altar all night until morning, and the fire of the altar must be kept burning on it.
 [10] Then the priest must put on his linen robe and must put linen leggings over his bare flesh, and he must take up the fatty ashes of the burnt offering that the fire consumed on the altar, and he must place them beside the altar.
 [11] Then he must take off his clothes and put on other clothes, and he must bring the fatty ashes outside the camp to a ceremonially clean place,
@@ -220,7 +222,6 @@
 
 ## Chapter 7
 
-
 ### The Guilt Offering
 
 [1] “‘This is the law of the guilt offering. It is most holy.
@@ -244,6 +245,7 @@
 [13] He must present this grain offering in addition to ring-shaped loaves of leavened bread which regularly accompany the sacrifice of his thanksgiving peace offering.
 [14] He must present one of each kind of grain offering as a contribution offering to the **Lord**; it belongs to the priest who splashes the blood of the peace offering.
 [15] The meat of his thanksgiving peace offering must be eaten on the day of his offering; he must not set any of it aside until morning.
+
 [16] “‘If his offering is a votive or freewill sacrifice, it may be eaten on the day he presents his sacrifice, and also the leftovers from it may be eaten on the next day,
 [17] but the leftovers from the meat of the sacrifice must be burned up in the fire on the third day.
 [18] If some of the meat of his peace-offering sacrifice is ever eaten on the third day it will not be accepted; it will not be accounted to the one who presented it since it is spoiled, and the person who eats from it will bear his punishment for iniquity.
@@ -269,6 +271,7 @@
 [32] The right thigh you must give as a contribution offering to the priest from your peace-offering sacrifice.
 [33] The one from Aaron’s sons who presents the blood of the peace offering and fat will have the right thigh as his share,
 [34] for the breast of the wave offering and the thigh of the contribution offering I have taken from the Israelites out of their peace-offering sacrifices and have given them to Aaron the priest and to his sons from the people of Israel as a perpetual allotted portion.’”
+
 [35] This is the allotment of Aaron and the allotment of his sons from the **Lord**’s gifts on the day Moses presented them to serve as priests to the **Lord**.
 [36] This is what the **Lord** commanded to give to them from the Israelites on the day Moses anointed them —a perpetual allotted portion throughout their generations.
 
@@ -278,7 +281,6 @@
 [38] which the **Lord** commanded Moses on Mount Sinai on the day he commanded the Israelites to present their offerings to the **Lord** in the desert of Sinai.
 
 ## Chapter 8
-
 
 ### Ordination of the Priests
 
@@ -308,13 +310,16 @@
 [15] and he slaughtered it. Moses then took the blood and put it all around on the horns of the altar with his finger and purified the altar, and he poured out the rest of the blood at the base of the altar and so consecrated it to make atonement on it.
 [16] Then he took all the fat on the entrails, the protruding lobe of the liver, and the two kidneys and their fat, and Moses offered it all up in smoke on the altar,
 [17] but the rest of the bull—its hide, its flesh, and its dung—he completely burned up outside the camp just as the **Lord** had commanded Moses.
+
 [18] Then he presented the burnt offering ram and Aaron and his sons laid their hands on the head of the ram,
 [19] and he slaughtered it. Moses then splashed the blood against the altar’s sides.
 [20] Then he cut the ram into parts, and Moses offered the head, the parts, and the suet up in smoke,
 [21] but the entrails and the legs he washed with water, and Moses offered the whole ram up in smoke on the altar—it was a burnt offering for a soothing aroma, a gift to the **Lord**, just as the **Lord** had commanded Moses.
+
 [22] Then he presented the second ram, the ram of ordination, and Aaron and his sons laid their hands on the head of the ram
 [23] and he slaughtered it. Moses then took some of its blood and put it on Aaron’s right earlobe, on the thumb of his right hand, and on the big toe of his right foot.
 [24] Next he brought Aaron’s sons forward, and Moses put some of the blood on their right earlobes, on their right thumbs, and on the big toes of their right feet, and Moses splashed the rest of the blood against the altar’s sides.
+
 [25] Then he took the fat (the fatty tail, all the fat on the entrails, the protruding lobe of the liver, and the two kidneys and their fat) and the right thigh,
 [26] and from the basket of unleavened bread that was before the **Lord** he took one unleavened loaf, one loaf of bread mixed with olive oil, and one wafer, and placed them on the fat parts and on the right thigh.
 [27] He then put all of them on the palms of Aaron and his sons, who waved them as a wave offering before the **Lord**.
@@ -332,7 +337,6 @@
 [36] So Aaron and his sons did all the things the **Lord** had commanded through Moses.
 
 ## Chapter 9
-
 
 ### Inauguration of Tabernacle Worship
 
@@ -366,12 +370,12 @@
 [19] As for the fat parts from the ox and from the ram (the fatty tail, the fat covering the entrails, the kidneys, and the protruding lobe of the liver),
 [20] they set those on the breasts and he offered the fat parts up in smoke on the altar.
 [21] Finally Aaron waved the breasts and the right thigh as a wave offering before the **Lord** just as Moses had commanded.
+
 [22] Then Aaron lifted up his hands toward the people and blessed them and descended from making the sin offering, the burnt offering, and the peace offering.
 [23] Moses and Aaron then entered into the Meeting Tent. When they came out, they blessed the people, and the glory of the **Lord** appeared to all the people.
 [24] Then fire went out from the presence of the **Lord** and consumed the burnt offering and the fat parts on the altar, and all the people saw it, so they shouted loudly and fell down with their faces to the ground.
 
 ## Chapter 10
-
 
 ### Nadab and Abihu
 
@@ -406,7 +410,6 @@
 [20] When Moses heard this explanation, he was satisfied.
 
 ## Chapter 11
-
 
 ### Clean and Unclean Land Creatures
 
@@ -481,7 +484,6 @@
 
 ## Chapter 12
 
-
 ### Purification of a Woman after Childbirth
 
 [1] The **Lord** spoke to Moses:
@@ -489,12 +491,12 @@
 [3] On the eighth day the flesh of his foreskin must be circumcised.
 [4] Then she will remain thirty-three days in blood purity. She must not touch anything holy and she must not enter the sanctuary until the days of her purification are fulfilled.
 [5] If she bears a female child, she will be impure fourteen days as during her menstrual flow, and she will remain sixty-six days in blood purity.
+
 [6] “‘When the days of her purification are completed for a son or for a daughter, she must bring a one-year-old lamb for a burnt offering and a young pigeon or turtledove for a sin offering to the entrance of the Meeting Tent, to the priest.
 [7] The priest is to present it before the **Lord** and make atonement on her behalf, and she will be clean from her flow of blood. This is the law of the one who bears a child, for the male or the female child.
 [8] If she cannot afford a sheep, then she must take two turtledoves or two young pigeons, one for a burnt offering and one for a sin offering, and the priest is to make atonement on her behalf, and she will be clean.’”
 
 ## Chapter 13
-
 
 ### Infections on the Skin
 
@@ -590,7 +592,6 @@
 
 ## Chapter 14
 
-
 ### Purification of Diseased Skin Infections
 
 [1] The **Lord** spoke to Moses:
@@ -610,6 +611,7 @@
 
 [10] “On the eighth day he must take two flawless male lambs, one flawless yearling female lamb, three-tenths of an ephah of choice wheat flour as a grain offering mixed with olive oil, and one log of olive oil,
 [11] and the priest who pronounces him clean will have the man who is being cleansed stand along with these offerings before the **Lord** at the entrance of the Meeting Tent.
+
 [12] “The priest is to take one male lamb and present it for a guilt offering along with the log of olive oil and present them as a wave offering before the **Lord**.
 [13] He must then slaughter the male lamb in the place where the sin offering and the burnt offering are slaughtered, in the sanctuary, because, like the sin offering, the guilt offering belongs to the priest; it is most holy.
 [14] Then the priest is to take some of the blood of the guilt offering and put it on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot.
@@ -617,6 +619,7 @@
 [16] Then the priest is to dip his right forefinger into the olive oil that is in his left hand, and sprinkle some of the olive oil with his finger seven times before the **Lord**.
 [17] The priest will then put some of the rest of the olive oil that is in his hand on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot, on the blood of the guilt offering,
 [18] and the remainder of the olive oil that is in his hand the priest is to put on the head of the one being cleansed. So the priest is to make atonement for him before the **Lord**.
+
 [19] “The priest must then perform the sin offering and make atonement for the one being cleansed from his impurity. After that he is to slaughter the burnt offering,
 [20] and the priest is to offer the burnt offering and the grain offering on the altar. So the priest is to make atonement for him and he will be clean.
 
@@ -624,6 +627,7 @@
 
 [21] “If the person is poor and does not have sufficient means, he must take one male lamb as a guilt offering for a wave offering to make atonement for himself, one-tenth of an ephah of choice wheat flour mixed with olive oil for a grain offering, a log of olive oil,
 [22] and two turtledoves or two young pigeons, which are within his means. One will be a sin offering and the other a burnt offering.
+
 [23] “On the eighth day he must bring them for his purification to the priest at the entrance of the Meeting Tent before the **Lord**,
 [24] and the priest is to take the male lamb of the guilt offering and the log of olive oil and wave them as a wave offering before the **Lord**.
 [25] Then he is to slaughter the male lamb of the guilt offering, and the priest is to take some of the blood of the guilt offering and put it on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot.
@@ -631,6 +635,7 @@
 [27] and sprinkle some of the olive oil that is in his left hand with his right forefinger seven times before the **Lord**.
 [28] Then the priest is to put some of the olive oil that is in his hand on the right earlobe of the one being cleansed, on the thumb of his right hand, and on the big toe of his right foot, on the place of the blood of the guilt offering,
 [29] and the remainder of the olive oil that is in the hand of the priest he is to put on the head of the one being cleansed to make atonement for him before the **Lord**.
+
 [30] “He will then make one of the turtledoves or young pigeons, which are within his means,
 [31] a sin offering and the other a burnt offering along with the grain offering. So the priest is to make atonement for the one being cleansed before the **Lord**.
 [32] This is the law of the one in whom there is a diseased infection, who does not have sufficient means for his purification.”
@@ -647,11 +652,13 @@
 [40] then the priest is to command that the stones that had the infection in them be pulled and thrown outside the city into an unclean place.
 [41] Then they shall scrape the house all around on the inside, and the plaster which they have scraped off must be dumped outside the city into an unclean place.
 [42] They are then to take other stones and replace those stones, and he is to take other plaster and replaster the house.
+
 [43] “If the infection returns and breaks out in the house after he has pulled out the stones, scraped the house, and it is replastered,
 [44] the priest is to come and examine it, and if the infection has spread in the house, it is a malignant disease in the house. It is unclean.
 [45] He must tear down the house, its stones, its wood, and all the plaster of the house, and bring all of it outside the city to an unclean place.
 [46] Anyone who enters the house all the days the priest has quarantined it will be unclean until evening.
 [47] Anyone who lies down in the house must wash his clothes. Anyone who eats in the house must wash his clothes.
+
 [48] “If, however, the priest enters and examines it, and the infection has not spread in the house after the house has been replastered, then the priest is to pronounce the house clean because the infection has been healed.
 [49] Then he is to take two birds, a piece of cedar wood, a scrap of crimson fabric, and some twigs of hyssop to purify the house,
 [50] and he is to slaughter one bird into a clay vessel over fresh water.
@@ -668,12 +675,12 @@
 
 ## Chapter 15
 
-
 ### Male Bodily Discharges
 
 [1] The **Lord** spoke to Moses and Aaron:
 [2] “Speak to the Israelites and tell them, ‘When any man has a discharge from his body, his discharge is unclean.
 [3] Now this is his uncleanness in regard to his discharge —whether his body secretes his discharge or blocks his discharge, he is unclean. All the days that his body has a discharge or his body blocks his discharge, this is his uncleanness.
+
 [4] “‘Any bed the man with a discharge lies on will be unclean, and any furniture he sits on will be unclean.
 [5] Anyone who touches his bed must wash his clothes, bathe in water, and be unclean until evening.
 [6] The one who sits on the furniture the man with a discharge sits on must wash his clothes, bathe in water, and be unclean until evening.
@@ -689,6 +696,7 @@
 [13] “‘When the man with the discharge becomes clean from his discharge he is to count off for himself seven days for his purification, and he must wash his clothes, bathe in fresh water, and be clean.
 [14] Then on the eighth day he is to take for himself two turtledoves or two young pigeons, and he is to present himself before the **Lord** at the entrance of the Meeting Tent and give them to the priest,
 [15] and the priest is to make one of them a sin offering and the other a burnt offering. So the priest is to make atonement for him before the **Lord** for his discharge.
+
 [16] “‘When a man has a seminal emission, he must bathe his whole body in water and be unclean until evening,
 [17] and he must wash in water any clothing or leather that has semen on it, and it will be unclean until evening.
 [18] As for a woman whom a man goes to bed with, then has a seminal emission, they must bathe in water and be unclean until evening.
@@ -701,6 +709,7 @@
 [22] Anyone who touches any furniture she sits on must wash his clothes, bathe in water, and be unclean until evening.
 [23] If there is something on the bed or on the furniture she sits on, when he touches it he will be unclean until evening,
 [24] and if a man actually goes to bed with her so that her menstrual impurity touches him, then he will be unclean seven days and any bed he lies on will be unclean.
+
 [25] “‘When a woman’s discharge of blood flows many days not at the time of her menstruation, or if it flows beyond the time of her menstruation, all the days of her discharge of impurity will be like the days of her menstruation—she is unclean.
 [26] Any bed she lies on all the days of her discharge will be to her like the bed of her menstruation, any furniture she sits on will be unclean like the impurity of her menstruation,
 [27] and anyone who touches them will be unclean, and he must wash his clothes, bathe in water, and be unclean until evening.
@@ -718,7 +727,6 @@
 [33] for the one who is sick in her menstruation, for the one with a discharge, whether male or female, and for a man who goes to bed with an unclean woman.’”
 
 ## Chapter 16
-
 
 ### The Day of Atonement
 
@@ -742,9 +750,11 @@
 [12] and take a censer full of coals of fire from the altar before the **Lord** and a full double handful of finely ground fragrant incense, and bring them inside the curtain.
 [13] He must then put the incense on the fire before the **Lord**, and the cloud of incense will cover the atonement lid which is above the ark of the testimony, so that he will not die.
 [14] Then he is to take some of the blood of the bull and sprinkle it with his finger on the eastern face of the atonement lid, and in front of the atonement lid he is to sprinkle some of the blood seven times with his finger.
+
 [15] “Aaron must then slaughter the sin-offering goat which is for the people. He is to bring its blood inside the curtain, and he is to do with its blood just as he did to the blood of the bull: He is to sprinkle it on the atonement lid and in front of the atonement lid.
 [16] So he is to make atonement for the Holy Place from the impurities of the Israelites and from their transgressions with regard to all their sins, and thus he is to do for the Meeting Tent which resides with them in the midst of their impurities.
 [17] Nobody is to be in the Meeting Tent when he enters to make atonement in the Holy Place until he goes out, and he has made atonement on his behalf, on behalf of his household, and on behalf of the whole assembly of Israel.
+
 [18] “Then Aaron is to go out to the altar which is before the **Lord** and make atonement for it. He is to take some of the blood of the bull and some of the blood of the goat, and put it all around on the horns of the altar.
 [19] Then he is to sprinkle on it some of the blood with his finger seven times, and cleanse and consecrate it from the impurities of the Israelites.
 
@@ -758,6 +768,7 @@
 
 [23] “Aaron must then enter the Meeting Tent and take off the linen garments which he had put on when he entered the sanctuary, and leave them there.
 [24] Then he must bathe his body in water in the Holy Place, put on his clothes, and go out and make his burnt offering and the people’s burnt offering. So he is to make atonement on behalf of himself and the people.
+
 [25] “Then he is to offer up the fat of the sin offering in smoke on the altar,
 [26] and the one who sent the goat away to Azazel must wash his clothes, bathe his body in water, and afterward he may reenter the camp.
 [27] The bull of the sin offering and the goat of the sin offering, whose blood was brought to make atonement in the Holy Place, must be brought outside the camp and their hide, their flesh, and their dung must be burned up,
@@ -768,12 +779,12 @@
 [29] “This is to be a perpetual statute for you. In the seventh month, on the tenth day of the month, you must humble yourselves and do no work of any kind, both the native citizen and the resident foreigner who lives in your midst,
 [30] for on this day atonement is to be made for you to cleanse you from all your sins; you must be clean before the **Lord**.
 [31] It is to be a Sabbath of complete rest for you, and you must humble yourselves. It is a perpetual statute.
+
 [32] “The priest who is anointed and ordained to act as high priest in place of his father is to make atonement. He is to put on the linen garments, the holy garments,
 [33] and he is to purify the Most Holy Place, he is to purify the Meeting Tent and the altar, and he is to make atonement for the priests and for all the people of the assembly.
 [34] This is to be a perpetual statute for you to make atonement for the Israelites for all their sins once a year.” So he did just as the **Lord** had commanded Moses.
 
 ## Chapter 17
-
 
 ### The Slaughter of Animals
 
@@ -784,6 +795,7 @@
 [5] This is so that the Israelites will bring their sacrifices that they are sacrificing in the open field to the **Lord** at the entrance of the Meeting Tent—to the priest—and sacrifice them there as peace-offering sacrifices to the **Lord**.
 [6] The priest is to splash the blood on the altar of the **Lord** at the entrance of the Meeting Tent, and offer the fat up in smoke for a soothing aroma to the **Lord**.
 [7] So the people must no longer offer their sacrifices to the goat demons, acting like prostitutes by going after them. This is to be a perpetual statute for them throughout their generations.”’
+
 [8] “You are to say to them: ‘Any man from the house of Israel or from the resident foreigners who live in their midst, who offers a burnt offering or a sacrifice
 [9] but does not bring it to the entrance of the Meeting Tent to offer it to the **Lord**—that person will be cut off from his people.
 
@@ -792,6 +804,7 @@
 [10] “‘Any man from the house of Israel or from the resident foreigners who live in their midst who eats any blood, I will set my face against that person who eats the blood, and I will cut him off from the midst of his people,
 [11] for the life of every living thing is in the blood. So I myself have assigned it to you on the altar to make atonement for your lives, for the blood makes atonement by means of the life.
 [12] Therefore, I have said to the Israelites: No person among you is to eat blood, and no resident foreigner who lives among you is to eat blood.
+
 [13] “‘Any man from the Israelites or from the resident foreigners who live in their midst who hunts a wild animal or a bird that may be eaten must pour out its blood and cover it with soil,
 [14] for the life of all flesh is its blood. So I have said to the Israelites: You must not eat the blood of any living thing because the life of every living thing is its blood—all who eat it will be cut off.
 
@@ -801,7 +814,6 @@
 [16] But if he does not wash his clothes and does not bathe his body, he will bear his punishment for his iniquity.’”
 
 ## Chapter 18
-
 
 ### Exhortation to Obedience and Life
 
@@ -826,6 +838,7 @@
 [16] You must not have sexual relations with your brother’s wife; she is your brother’s nakedness.
 [17] You must not have sexual relations with both a woman and her daughter; you must not take as wife either her son’s daughter or her daughter’s daughter to have sexual relations with them. They are closely related to her —it is lewdness.
 [18] You must not take a woman in marriage and then marry her sister as a rival wife while she is still alive, to have sexual relations with her.
+
 [19] “‘You must not approach a woman in her menstrual impurity to have sexual relations with her.
 [20] You must not have sexual relations with the wife of your fellow citizen to become unclean with her.
 [21] You must not give any of your children as an offering to Molech, so that you do not profane the name of your God. I am the **Lord**!
@@ -843,7 +856,6 @@
 [30] You must obey my charge not to practice any of the abominable statutes that have been done before you, so that you do not defile yourselves by them. I am the **Lord** your God.’”
 
 ## Chapter 19
-
 
 ### Religious and Social Regulations
 
@@ -911,7 +923,6 @@
 
 ## Chapter 20
 
-
 ### Prohibitions against Illegitimate Family Worship
 
 [1] The **Lord** spoke to Moses:
@@ -939,6 +950,7 @@
 [14] If a man has marital relations with both a woman and her mother, it is lewdness. Both he and they must be burned to death, so there is no lewdness in your midst.
 [15] If a man has sexual relations with any animal, he must be put to death, and you must kill the animal.
 [16] If a woman approaches any animal to copulate with it, you must kill the woman, and the animal must be put to death; their blood guilt is on themselves.
+
 [17] “‘If a man has marital relations with his sister, whether the daughter of his father or of his mother, so that he sees her nakedness and she sees his nakedness, it is a disgrace. They must be cut off in the sight of the children of their people. He has exposed his sister’s nakedness; he will bear his punishment for iniquity.
 [18] If a man goes to bed with a menstruating woman and uncovers her nakedness, he has laid bare her fountain of blood and she has exposed the fountain of her blood, so both of them must be cut off from the midst of their people.
 [19] You must not expose the nakedness of your mother’s sister or your father’s sister, for such a person has exposed his own close relative. They must bear their punishment for iniquity.
@@ -959,7 +971,6 @@
 
 ## Chapter 21
 
-
 ### Rules for the Priests
 
 [1] The **Lord** said to Moses, “Say to the priests, the sons of Aaron—say to them: ‘For a dead person no priest is to defile himself among his people,
@@ -967,6 +978,7 @@
 [3] and his virgin sister who is near to him, who has no husband—he may defile himself for her.
 [4] He must not defile himself as a husband among his people so as to profane himself.
 [5] Priests must not have a bald spot shaved on their head, they must not shave the corner of their beard, and they must not cut slashes in their body.
+
 [6] “‘They must be holy to their God, and they must not profane the name of their God, because they are the ones who present the **Lord**’s gifts, the food of their God. Therefore they must be holy.
 [7] They must not take a wife defiled by prostitution, nor are they to take a wife divorced from her husband, for the priest is holy to his God.
 [8] You must sanctify him because he presents the food of your God. He must be holy to you because I, the **Lord** who sanctifies you all, am holy.
@@ -991,10 +1003,10 @@
 [21] No man from the descendants of Aaron the priest who has a physical flaw may step forward to present the **Lord**’s gifts; he has a physical flaw, so he must not step forward to present the food of his God.
 [22] He may eat both the most holy and the holy food of his God,
 [23] but he must not go near the special curtain or step forward to the altar because he has a physical flaw. Thus he must not profane my holy places, for I am the **Lord** who sanctifies them.’”
+
 [24] So Moses spoke these things to Aaron, his sons, and all the Israelites.
 
 ## Chapter 22
-
 
 ### Regulations for the Eating of Priestly Stipends
 
@@ -1007,10 +1019,12 @@
 [7] When the sun goes down he will be clean, and afterward he may eat from the holy offerings, because they are his food.
 [8] He must not eat an animal that has died of natural causes or an animal torn by beasts and thus become unclean by it. I am the **Lord**.
 [9] They must keep my charge so that they do not incur sin on account of it and therefore die because they profane it. I am the **Lord** who sanctifies them.
+
 [10] “‘No lay person may eat anything holy. Neither a priest’s lodger nor a hired laborer may eat anything holy,
 [11] but if a priest buys a person with his own money, that person may eat the holy offerings, and those born in the priest’s own house may eat his food.
 [12] If a priest’s daughter marries a lay person, she may not eat the holy contribution offerings,
 [13] but if a priest’s daughter is a widow or divorced, and she has no children so that she returns to live in her father’s house as in her youth, she may eat from her father’s food, but no lay person may eat it.
+
 [14] “‘If a man eats a holy offering by mistake, he must add one-fifth to it and give the holy offering to the priest.
 [15] They must not profane the holy offerings which the Israelites contribute to the **Lord**,
 [16] and so cause them to incur a penalty for guilt when they eat their holy offerings, for I am the **Lord** who sanctifies them.’”
@@ -1022,21 +1036,23 @@
 [19] if it is to be acceptable for your benefit it must be a flawless male from the cattle, sheep, or goats.
 [20] You must not present anything that has a flaw, because it will not be acceptable for your benefit.
 [21] If a man presents a peace-offering sacrifice to the **Lord** for a special votive offering or for a freewill offering from the herd or the flock, it must be flawless to be acceptable; it must have no flaw.
+
 [22] “‘You must not present to the **Lord** something blind, or with a broken bone, or mutilated, or with a running sore, or with a festering eruption, or with a feverish rash. You must not give any of these as a gift on the altar to the **Lord**.
 [23] As for an ox or a sheep with a limb too long or stunted, you may present it as a freewill offering, but it will not be acceptable for a votive offering.
 [24] You must not present to the **Lord** something with testicles that are bruised, crushed, torn, or cut off; you must not do this in your land.
 [25] Even from a foreigner you must not present the food of your God from such animals as these, for they are ruined and flawed; they will not be acceptable for your benefit.’”
+
 [26] The **Lord** spoke to Moses:
 [27] “When an ox, lamb, or goat is born, it must be under the care of its mother seven days, but from the eighth day onward it will be acceptable as an offering gift to the **Lord**.
 [28] You must not slaughter an ox or a sheep and its young on the same day.
 [29] When you sacrifice a thanksgiving offering to the **Lord**, you must sacrifice it so that it is acceptable for your benefit.
 [30] On that very day it must be eaten; you must not leave any part of it over until morning. I am the **Lord**.
+
 [31] “You must be sure to do my commandments. I am the **Lord**.
 [32] You must not profane my holy name, and I will be sanctified in the midst of the Israelites. I am the **Lord** who sanctifies you,
 [33] the one who brought you out from the land of Egypt to be your God. I am the **Lord**.”
 
 ## Chapter 23
-
 
 ### Regulations for Israel’s Appointed Times
 
@@ -1072,6 +1088,7 @@
 [18] Along with the loaves of bread, you must also present seven flawless yearling lambs, one young bull, and two rams. They are to be a burnt offering to the **Lord** along with their grain offering and drink offerings, a gift of a soothing aroma to the **Lord**.
 [19] You must also offer one male goat for a sin offering and two yearling lambs for a peace-offering sacrifice,
 [20] and the priest is to wave them—the two lambs —along with the bread of the firstfruits, as a wave offering before the **Lord**; they will be holy to the **Lord** for the priest.
+
 [21] “‘On this very day you must proclaim an assembly; it is to be a holy assembly for you. You must not do any regular work. This is a perpetual statute in all the places where you live throughout your generations.
 [22] When you gather in the harvest of your land, you must not completely harvest the corner of your field, and you must not gather up the gleanings of your harvest. You must leave them for the poor and the resident foreigner. I am the **Lord** your God.’”
 
@@ -1097,17 +1114,19 @@
 [34] “Tell the Israelites, ‘On the fifteenth day of this seventh month is the Feast of Shelters for seven days to the **Lord**.
 [35] On the first day is a holy assembly; you must do no regular work.
 [36] For seven days you must present a gift to the **Lord**. On the eighth day there is to be a holy assembly for you, and you must present a gift to the **Lord**. It is a solemn assembly day; you must not do any regular work.
+
 [37] “‘These are the appointed times of the **Lord** that you must proclaim as holy assemblies to present a gift to the **Lord**—burnt offering, grain offering, sacrifice, and drink offerings, each day according to its regulation,
 [38] besides the Sabbaths of the **Lord** and all your gifts, votive offerings, and freewill offerings which you must give to the **Lord**.
+
 [39] “‘On the fifteenth day of the seventh month, when you gather in the produce of the land, you must celebrate a pilgrim festival of the **Lord** for seven days. On the first day is a complete rest and on the eighth day is complete rest.
 [40] On the first day you must take for yourselves branches from majestic trees —palm branches, branches of leafy trees, and willows of the brook—and you must rejoice before the **Lord** your God for seven days.
 [41] You must celebrate it as a pilgrim festival to the **Lord** for seven days in the year. This is a perpetual statute throughout your generations; you must celebrate it in the seventh month.
 [42] You must live in temporary shelters for seven days; every native citizen in Israel must live in shelters,
 [43] so that your future generations may know that I made the Israelites live in shelters when I brought them out from the land of Egypt. I am the **Lord** your God.’”
+
 [44] So Moses spoke to the Israelites about the appointed times of the **Lord**.
 
 ## Chapter 24
-
 
 ### Regulations for the Lampstand and the Table of Bread
 
@@ -1115,6 +1134,7 @@
 [2] “Command the Israelites to bring to you pure oil of beaten olives for the light, to make a lamp burn continually.
 [3] Outside the special curtain of the congregation in the Meeting Tent, Aaron must arrange it from evening until morning before the **Lord** continually. This is a perpetual statute throughout your generations.
 [4] On the ceremonially pure lampstand he must arrange the lamps before the **Lord** continually.
+
 [5] “You must take choice wheat flour and bake twelve loaves; there must be two-tenths of an ephah of flour in each loaf,
 [6] and you must set them in two rows, six in a row, on the ceremonially pure table before the **Lord**.
 [7] You must put pure frankincense on each row, and it will become a memorial portion for the bread, a gift to the **Lord**.
@@ -1126,20 +1146,22 @@
 [10] Now an Israelite woman’s son whose father was an Egyptian went out among the Israelites, and the Israelite woman’s son and an Israelite man had a fight in the camp.
 [11] The Israelite woman’s son misused the Name and cursed, so they brought him to Moses. (Now his mother’s name was Shelomith, daughter of Dibri, of the tribe of Dan.)
 [12] So they placed him in custody until they were able to make a clear legal decision for themselves based on words from the mouth of the **Lord**.
+
 [13] Then the **Lord** spoke to Moses:
 [14] “Bring the one who cursed outside the camp, and all who heard him are to lay their hands on his head, and the whole congregation is to stone him to death.
 [15] Moreover, you are to tell the Israelites, ‘If any man curses his God he will bear responsibility for his sin,
 [16] and one who misuses the name of the **Lord** must surely be put to death. The whole congregation must surely stone him, whether he is a resident foreigner or a native citizen; when he misuses the Name he must be put to death.
+
 [17] “‘If a man beats any person to death, he must be put to death.
 [18] One who beats an animal to death must make restitution for it, life for life.
 [19] If a man inflicts an injury on his fellow citizen, just as he has done it must be done to him—
 [20] fracture for fracture, eye for eye, tooth for tooth—just as he inflicts an injury on another person that same injury must be inflicted on him.
 [21] One who beats an animal to death must make restitution for it, but one who beats a person to death must be put to death.
 [22] There will be one regulation for you, whether a resident foreigner or a native citizen, for I am the **Lord** your God.’”
+
 [23] Then Moses spoke to the Israelites and they brought the one who cursed outside the camp and stoned him with stones. So the Israelites did just as the **Lord** had commanded Moses.
 
 ## Chapter 25
-
 
 ### Regulations for the Sabbatical Year
 
@@ -1167,12 +1189,14 @@
 [16] The more years there are, the more you may make its purchase price, and the fewer years there are, the less you must make its purchase price, because he is only selling to you a number of years of produce.
 [17] No one is to oppress his fellow citizen, but you must fear your God, because I am the **Lord** your God.
 [18] You must obey my statutes and my regulations; you must be sure to keep them so that you may live securely in the land.
+
 [19] “‘The land will give its fruit and you may eat until you are satisfied, and you may live securely in the land.
 [20] If you say, “What will we eat in the seventh year if we do not sow and gather our produce?”
 [21] I will command my blessing for you in the sixth year so that it may yield the produce for three years,
 [22] and you may sow the eighth year and eat from that sixth year’s produce —old produce. Until you bring in the ninth year’s produce, you may eat old produce.
 [23] The land must not be sold without reclaim because the land belongs to me, for you are foreign residents, temporary settlers, with me.
 [24] In all your landed property you must provide for the right of redemption of the land.
+
 [25] “‘If your brother becomes impoverished and sells some of his property, his near redeemer is to come to you and redeem what his brother sold.
 [26] If a man has no redeemer, but he prospers and gains enough for its redemption,
 [27] he is to calculate the value of the years it was sold, refund the balance to the man to whom he had sold it, and return to his property.
@@ -1193,14 +1217,17 @@
 [36] Do not take interest or profit from him, but you must fear your God and your brother must live with you.
 [37] You must not lend him your money at interest and you must not sell him food for profit.
 [38] I am the **Lord** your God who brought you out from the land of Egypt to give you the land of Canaan—to be your God.
+
 [39] “‘If your brother becomes impoverished with regard to you so that he sells himself to you, you must not subject him to slave service.
 [40] He must be with you as a hired worker, as a resident foreigner; he must serve with you until the Year of Jubilee,
 [41] but then he may go free, he and his children with him, and may return to his family and to the property of his ancestors.
 [42] Since the Israelites are my servants whom I brought out from the land of Egypt, they must not be sold in a slave sale.
 [43] You must not rule over them harshly, but you must fear your God.
+
 [44] “‘As for your male and female slaves who may belong to you—you may buy male and female slaves from the nations all around you.
 [45] Also, you may buy slaves from the children of the foreigners who reside with you, and from their families that are with you, whom they have fathered in your land; they may become your property.
 [46] You may give them as an inheritance to your children after you to possess as property. You may enslave them perpetually. However, as for your brothers the Israelites, no man may rule over his brother harshly.
+
 [47] “‘If a resident foreigner who is with you prospers and your brother becomes impoverished with regard to him so that he sells himself to a resident foreigner who is with you or to a member of a foreigner’s family,
 [48] after he has sold himself he retains a right of redemption. One of his brothers may redeem him,
 [49] or his uncle or his cousin may redeem him, or any one of the rest of his blood relatives—his family —may redeem him, or if he prospers he may redeem himself.
@@ -1212,7 +1239,6 @@
 [55] because the Israelites are my own servants; they are my servants whom I brought out from the land of Egypt. I am the **Lord** your God.
 
 ## Chapter 26
-
 
 ### Exhortation to Obedience
 
@@ -1229,6 +1255,7 @@
 [8] Five of you will pursue a hundred, and a hundred of you will pursue ten thousand, and your enemies will fall before you by the sword.
 [9] I will turn to you, make you fruitful, multiply you, and maintain my covenant with you.
 [10] You will still be eating stored produce from the previous year and will have to clean out what is stored from the previous year to make room for new.
+
 [11] “‘I will put my tabernacle in your midst and I will not abhor you.
 [12] I will walk among you, and I will be your God and you will be my people.
 [13] I am the **Lord** your God who brought you out from the land of Egypt, from being their slaves, and I broke the bars of your yoke and caused you to walk upright.
@@ -1239,15 +1266,19 @@
 [15] if you reject my statutes and abhor my regulations so that you do not keep all my commandments and you break my covenant—
 [16] I for my part will do this to you: I will inflict horror on you, consumption and fever, which diminish eyesight and drain away the vitality of life. You will sow your seed in vain because your enemies will eat it.
 [17] I will set my face against you. You will be struck down before your enemies, those who hate you will rule over you, and you will flee when there is no one pursuing you.
+
 [18] “‘If, in spite of all these things, you do not obey me, I will discipline you seven times more on account of your sins.
 [19] I will break your strong pride and make your sky like iron and your land like bronze.
 [20] Your strength will be used up in vain, your land will not give its yield, and the trees of the land will not produce their fruit.
+
 [21] “‘If you walk in hostility against me and are not willing to obey me, I will increase your affliction seven times according to your sins.
 [22] I will send the wild animals against you and they will bereave you of your children, annihilate your cattle, and diminish your population so that your roads will become deserted.
+
 [23] “‘If in spite of these things you do not allow yourselves to be disciplined and you walk in hostility against me,
 [24] then I myself will also walk in hostility against you and strike you seven times on account of your sins.
 [25] I will bring on you an avenging sword, a covenant vengeance. Although you will gather together into your cities, I will send pestilence among you and you will be given into enemy hands.
 [26] When I break off your supply of bread, ten women will bake your bread in one oven; they will ration your bread by weight, and you will eat and not be satisfied.
+
 [27] “‘If in spite of this you do not obey me but walk in hostility against me,
 [28] I will walk in hostile rage against you and I myself will also discipline you seven times on account of your sins.
 [29] You will eat the flesh of your sons and the flesh of your daughters.
@@ -1255,8 +1286,10 @@
 [31] I will lay your cities waste and make your sanctuaries desolate, and I will refuse to smell your soothing aromas.
 [32] I myself will make the land desolate and your enemies who live in it will be appalled.
 [33] I will scatter you among the nations and unsheathe the sword after you, so your land will become desolate and your cities will become a waste.
+
 [34] “‘Then the land will make up for its Sabbaths all the days it lies desolate while you are in the land of your enemies; then the land will rest and make up its Sabbaths.
 [35] All the days of the desolation it will have the rest it did not have on your Sabbaths when you lived on it.
+
 [36] “‘As for the ones who remain among you, I will bring despair into their hearts in the lands of their enemies. The sound of a blowing leaf will pursue them, and they will flee as one who flees the sword and will fall down even though there is no pursuer.
 [37] They will stumble over each other as those who flee before a sword, though there is no pursuer, and there will be no one to take a stand for you before your enemies.
 [38] You will perish among the nations; the land of your enemies will consume you.
@@ -1276,7 +1309,6 @@
 [46] These are the statutes, regulations, and instructions which the **Lord** established between himself and the Israelites at Mount Sinai through Moses.
 
 ## Chapter 27
-
 
 ### Redemption of Persons Given as Votive Offerings
 
@@ -1310,6 +1342,7 @@
 [19] If, however, the one who consecrated the field redeems it, he must add to it one-fifth of the conversion price and it will belong to him.
 [20] If he does not redeem the field, but sells the field to someone else, he may never redeem it.
 [21] When it reverts in the Jubilee, the field will be holy to the **Lord** like a permanently dedicated field; it will become the priest’s property.
+
 [22] “‘If he consecrates to the **Lord** a field he has purchased, which is not part of his own landed property,
 [23] the priest will calculate for him the amount of its conversion value until the Jubilee year, and he must pay the conversion value on that Jubilee day as something that is holy to the **Lord**.
 [24] In the Jubilee year the field will return to the one from whom he bought it, the one to whom it belongs as landed property.
@@ -1335,3 +1368,4 @@
 ### Final Colophon
 
 [34] These are the commandments which the **Lord** commanded Moses to tell the Israelites at Mount Sinai.
+

@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### The Covenant Setting
 
 [1] This is what Moses said to all of Israel in the Transjordanian wilderness, the arid rift valley opposite Suph, between Paran and Tophel, Laban, Hazeroth, and Di Zahab.
@@ -69,7 +68,6 @@
 
 ## Chapter 2
 
-
 ### The Journey from Kadesh Barnea to Moab
 
 [1] Then we turned and set out toward the wilderness on the way to the Red Sea just as the **Lord** told me to do, detouring around Mount Seir for a long time.
@@ -79,6 +77,7 @@
 [5] Do not be hostile toward them, because I am not giving you any of their land, not even a footprint, for I have given Mount Seir as an inheritance for Esau.
 [6] You may purchase food to eat and water to drink from them.
 [7] All along the way I, the **Lord** your God, have blessed your every effort. I have been attentive to your travels through this great wilderness. These forty years I have been with you; you have lacked nothing.’”
+
 [8] So we turned away from our relatives the descendants of Esau, the inhabitants of Seir, turning from the route of the rift valley which comes up from Elat and Ezion Geber, and traveling the way of the wilderness of Moab.
 [9] Then the **Lord** said to me, “Do not harass Moab and provoke them to war, for I will not give you any of their land as your territory. This is because I have given Ar to the descendants of Lot as their possession.
 [10] (The Emites used to live there, a people as powerful, numerous, and tall as the Anakites.
@@ -94,10 +93,12 @@
 [17] the **Lord** said to me,
 [18] “Today you are going to cross the border of Moab, that is, of Ar.
 [19] But when you come close to the Ammonites, do not harass or provoke them because I am not giving you any of the Ammonites’ land as your possession; I have already given it to Lot’s descendants as their possession.”
+
 [20] (That also is considered to be a land of the Rephaites. The Rephaites lived there originally; the Ammonites call them Zamzummites.
 [21] They are a people as powerful, numerous, and tall as the Anakites. But the **Lord** destroyed the Rephaites in advance of the Ammonites, so they dispossessed them and settled down in their place.
 [22] This is exactly what he did for the descendants of Esau who lived in Seir when he destroyed the Horites before them so that they could dispossess them and settle in their area to this very day.
 [23] As for the Avvites who lived in settlements as far west as Gaza, Caphtorites who came from Crete destroyed them and settled down in their place.)
+
 [24] “Get up, make your way across Wadi Arnon. Look, I have already delivered over to you Sihon the Amorite, king of Heshbon, and his land. Go ahead—take it! Engage him in war!
 [25] This very day I will begin to fill all the people of the earth with dread and to terrify them when they hear about you. They will shiver and shake in anticipation of your approach.”
 
@@ -117,7 +118,6 @@
 [37] However, you did not approach the land of the Ammonites, the Wadi Jabbok, the cities of the hill country, or any place else forbidden by the **Lord** our God.
 
 ## Chapter 3
-
 
 ### Defeat of King Og of Bashan
 
@@ -161,7 +161,6 @@
 [29] So we settled down in the valley opposite Beth Peor.
 
 ## Chapter 4
-
 
 ### The Privileges of the Covenant
 
@@ -235,7 +234,6 @@
 
 ## Chapter 5
 
-
 ### The Opening Exhortation
 
 [1] Then Moses called all the people of Israel together and said to them: “Listen, Israel, to the statutes and ordinances that I am about to deliver to you today; learn them and be careful to keep them!
@@ -247,19 +245,28 @@
 ### The Ten Commandments
 
 [6] “I am the **Lord** your God—he who brought you from the land of Egypt, from the place of slavery.
+
 [7] “You must not have any other gods besides me.
+
 [8] “You must not make for yourself an image of anything in heaven above, on earth below, or in the waters beneath.
 [9] You must not worship or serve them, for I, the **Lord** your God, am a jealous God. I punish the sons, grandsons, and great-grandsons for the sin of the fathers who reject me,
 [10] but I show covenant faithfulness to the thousands who choose me and keep my commandments.
+
 [11] “You must not make use of the name of the **Lord** your God for worthless purposes, for the **Lord** will not exonerate anyone who abuses his name that way.
+
 [12] “Be careful to observe the Sabbath day just as the **Lord** your God has commanded you.
 [13] You are to work and do all your tasks in six days,
 [14] but the seventh day is the Sabbath of the **Lord** your God. On that day you must not do any work, you, your son, your daughter, your male slave, your female slave, your ox, your donkey, any other animal, or the resident foreigner who lives with you, so that your male and female slaves, like yourself, may have rest.
 [15] Recall that you were slaves in the land of Egypt and that the **Lord** your God brought you out of there by strength and power. That is why the **Lord** your God has commanded you to observe the Sabbath day.
+
 [16] “Honor your father and your mother just as the **Lord** your God has commanded you to do, so that your days may be extended and that it may go well with you in the land that he is about to give you.
+
 [17] “You must not murder.
+
 [18] “You must not commit adultery.
+
 [19] “You must not steal.
+
 [20] “You must not offer false testimony against another.
 [21] You must not desire another man’s wife, nor should you crave his house, his field, his male and female servants, his ox, his donkey, or anything else he owns.”
 
@@ -279,7 +286,6 @@
 [33] Walk just as he has commanded you so that you may live, that it may go well with you, and that you may live long in the land you are going to possess.
 
 ## Chapter 6
-
 
 ### Exhortation to Keep the Covenant Principles
 
@@ -326,7 +332,6 @@
 
 ## Chapter 7
 
-
 ### The Dispossession of Nonvassals
 
 [1] When the **Lord** your God brings you to the land that you are going to occupy and forces out many nations before you—Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations more numerous and powerful than you—
@@ -367,7 +372,6 @@
 
 ## Chapter 8
 
-
 ### The Lord’s Provision in the Desert
 
 [1] You must keep carefully all these commandments I am giving you today so that you may live, increase in number, and go in and occupy the land that the **Lord** promised to your ancestors.
@@ -396,7 +400,6 @@
 
 ## Chapter 9
 
-
 ### Theological Justification of the Conquest
 
 [1] Listen, Israel: Today you are about to cross the Jordan so you can dispossess the nations there, people greater and stronger than you who live in large cities with extremely high fortifications.
@@ -416,6 +419,7 @@
 [12] And he said to me, “Get up, go down at once from here because your people whom you brought out of Egypt have sinned! They have quickly turned from the way I commanded them and have made for themselves a cast metal image.”
 [13] Moreover, he said to me, “I have taken note of these people; they are a stubborn lot!
 [14] Stand aside and I will destroy them, obliterating their very name from memory, and I will make you into a stronger and more numerous nation than they are.”
+
 [15] So I turned and went down the mountain while it was blazing with fire; the two tablets of the covenant were in my hands.
 [16] When I looked, you had indeed sinned against the **Lord** your God and had cast for yourselves a metal calf; you had quickly turned aside from the way he had commanded you!
 [17] I grabbed the two tablets, threw them down, and shattered them before your very eyes.
@@ -436,7 +440,6 @@
 [29] They are your people, your valued property, whom you brought out with great strength and power.
 
 ## Chapter 10
-
 
 ### The Opportunity to Begin Again
 
@@ -470,7 +473,6 @@
 [22] When your ancestors went down to Egypt, they numbered only seventy, but now the **Lord** your God has made you as numerous as the stars of the sky.
 
 ## Chapter 11
-
 
 ### Reiteration of the Call to Obedience
 
@@ -518,7 +520,6 @@
 
 ## Chapter 12
 
-
 ### The Central Sanctuary
 
 [1] These are the statutes and ordinances you must be careful to obey as long as you live in the land the **Lord**, the God of your ancestors, has given you to possess.
@@ -564,10 +565,9 @@
 
 ## Chapter 13
 
-
 ### Idolatry and False Prophets
 
-[32] (
+[32] (13:1) You must be careful to do everything I am commanding you. Do not add to it or subtract from it!
 [1] Suppose a prophet or one who foretells by dreams should appear among you and show you a sign or wonder,
 [2] and the sign or wonder should come to pass concerning what he said to you, namely, “Let us follow other gods”—gods whom you have not previously known—“and let us serve them.”
 [3] You must not listen to the words of that prophet or dreamer, for the **Lord** your God will be testing you to see if you love him with all your mind and being.
@@ -595,19 +595,21 @@
 
 ## Chapter 14
 
-
 ### The Holy and the Profane
 
 [1] You are children of the **Lord** your God. Do not cut yourselves or shave your forehead bald for the sake of the dead.
 [2] For you are a people holy to the **Lord** your God. He has chosen you to be his people, prized above all others on the face of the earth.
+
 [3] You must not eat any forbidden thing.
 [4] These are the animals you may eat: the ox, the sheep, the goat,
 [5] the ibex, the gazelle, the deer, the wild goat, the antelope, the wild oryx, and the mountain sheep.
 [6] You may eat any animal that has hooves divided into two parts and that chews the cud.
 [7] However, you may not eat the following animals among those that chew the cud or those that have divided hooves: the camel, the hare, and the rock badger. (Although they chew the cud, they do not have divided hooves and are therefore ritually impure to you.)
 [8] Also, the pig is ritually impure to you; though it has divided hooves, it does not chew the cud. You may not eat their meat or even touch their remains.
+
 [9] These you may eat from among water creatures: anything with fins and scales you may eat,
 [10] but whatever does not have fins and scales you may not eat; it is ritually impure to you.
+
 [11] All ritually clean birds you may eat.
 [12] These are the ones you may not eat: the eagle, the vulture, the black vulture,
 [13] the kite, the black kite, the dayyah after its species,
@@ -616,6 +618,7 @@
 [16] the little owl, the long-eared owl, the white owl,
 [17] the jackdaw, the carrion vulture, the cormorant,
 [18] the stork, the heron after its species, the hoopoe, and the bat.
+
 [19] And any swarming winged thing is impure to you—they may not be eaten.
 [20] You may eat any winged creature that is clean.
 [21] You may not eat any corpse, though you may give it to the resident foreigner who is living in your villages and he may eat it, or you may sell it to a foreigner. You are a people holy to the **Lord** your God. Do not boil a young goat in its mother’s milk.
@@ -632,7 +635,6 @@
 [29] Then the Levites (because they have no allotment or inheritance with you), the resident foreigners, the orphans, and the widows of your villages may come and eat their fill so that the **Lord** your God may bless you in all the work you do.
 
 ## Chapter 15
-
 
 ### The Year of Debt Release
 
@@ -670,7 +672,6 @@
 [23] However, you must not eat its blood; you must pour it out on the ground like water.
 
 ## Chapter 16
-
 
 ### The Passover
 
@@ -740,7 +741,6 @@
 
 ## Chapter 18
 
-
 ### Provision for Priests and Levites
 
 [1] The Levitical priests —indeed, the entire tribe of Levi—will have no allotment or inheritance with Israel; they may eat the burnt offerings of the **Lord** and of his inheritance.
@@ -760,17 +760,18 @@
 [12] Whoever does these things is abhorrent to the **Lord**, and because of these detestable things the **Lord** your God is about to drive them out from before you.
 [13] You must be blameless before the **Lord** your God.
 [14] Those nations that you are about to dispossess listen to omen readers and diviners, but the **Lord** your God has not given you permission to do such things.
+
 [15] The **Lord** your God will raise up for you a prophet like me from among you—from your fellow Israelites; you must listen to him.
 [16] This accords with what happened at Horeb in the day of the assembly. You asked the **Lord** your God: “Please do not make us hear the voice of the **Lord** our God anymore or see this great fire anymore lest we die.”
 [17] The **Lord** then said to me, “What they have said is good.
 [18] I will raise up a prophet like you for them from among their fellow Israelites. I will put my words in his mouth and he will speak to them whatever I command.
 [19] I will personally hold responsible anyone who then pays no attention to the words that prophet speaks in my name.
+
 [20] “But if any prophet presumes to speak anything in my name that I have not authorized him to speak, or speaks in the name of other gods, that prophet must die.
 [21] Now if you say to yourselves, ‘How can we tell that a message is not from the **Lord**?’ —
 [22] whenever a prophet speaks in my name and the prediction is not fulfilled, then I have not spoken it; the prophet has presumed to speak it, so you need not fear him.”
 
 ## Chapter 19
-
 
 ### Laws Concerning Manslaughter
 
@@ -791,6 +792,7 @@
 ### Laws Concerning Witnesses
 
 [14] You must not encroach on your neighbor’s property, which will have been defined in the inheritance you will obtain in the land the **Lord** your God is giving you.
+
 [15] A single witness may not testify against another person for any trespass or sin that he commits. A matter may be legally established only on the testimony of two or three witnesses.
 [16] If a false witness testifies against another person and accuses him of a crime,
 [17] then both parties to the controversy must stand before the **Lord**, that is, before the priests and judges who will be in office in those days.
@@ -800,7 +802,6 @@
 [21] You must not show pity; the principle will be a life for a life, an eye for an eye, a tooth for a tooth, a hand for a hand, and a foot for a foot.
 
 ## Chapter 20
-
 
 ### Laws Concerning War with Distant Enemies
 
@@ -813,6 +814,7 @@
 [7] Or who among you has become engaged to a woman but has not married her? He may go home, lest he die in battle and someone else marry her.”
 [8] In addition, the officers are to say to the troops, “Who among you is afraid and fainthearted? He may go home so that he will not make his fellow soldier’s heart as fearful as his own.”
 [9] Then, when the officers have finished speaking, they must appoint unit commanders to lead the troops.
+
 [10] When you approach a city to wage war against it, offer it terms of peace.
 [11] If it accepts your terms and submits to you, all the people found in it will become your slaves.
 [12] If it does not accept terms of peace but makes war with you, then you are to lay siege to it.
@@ -829,7 +831,6 @@
 [20] However, you may chop down any tree you know is not suitable for food, and you may use it to build siege works against the city that is making war with you until that city falls.
 
 ## Chapter 21
-
 
 ### Laws Concerning Unsolved Murder
 
@@ -856,6 +857,7 @@
 [15] Suppose a man has two wives, one whom he loves more than the other, and they both bear him sons, with the firstborn being the child of the less-loved wife.
 [16] In the day he divides his inheritance he must not appoint as firstborn the son of the favorite wife in place of the other wife’s son who is actually the firstborn.
 [17] Rather, he must acknowledge the son of the less-loved wife as firstborn and give him the double portion of all he has, for that son is the beginning of his father’s procreative power —to him should go the right of the firstborn.
+
 [18] If a person has a stubborn, rebellious son who pays no attention to his father or mother, and they discipline him to no avail,
 [19] his father and mother must seize him and bring him to the elders at the gate of his city.
 [20] They must declare to the elders of his city, “Our son is stubborn and rebellious and pays no attention to what we say—he is a glutton and drunkard.”
@@ -868,16 +870,18 @@
 
 ## Chapter 22
 
-
 ### Laws Concerning Preservation of Life
 
 [1] When you see your neighbor’s ox or sheep going astray, do not ignore it; you must return it without fail to your neighbor.
 [2] If the owner does not live near you or you do not know who the owner is, then you must corral the animal at your house and let it stay with you until the owner looks for it; then you must return it to him.
 [3] You shall do the same to his donkey, his clothes, or anything else your neighbor has lost and you have found; you must not refuse to get involved.
 [4] When you see your neighbor’s donkey or ox fallen along the road, do not ignore it; instead, you must be sure to help him get the animal on its feet again.
+
 [5] A woman must not wear men’s clothing, nor should a man dress up in women’s clothing, for anyone who does this is offensive to the **Lord** your God.
+
 [6] If you happen to notice a bird’s nest along the road, whether in a tree or on the ground, and there are chicks or eggs with the mother bird sitting on them, you must not take the mother from the young.
 [7] You must be sure to let the mother go, but you may take the young for yourself. Do this so that it may go well with you and you may have a long life.
+
 [8] If you build a new house, you must construct a guardrail around your roof to avoid being culpable in the event someone should fall from it.
 
 ### Illustrations of the Principle of Purity
@@ -896,25 +900,30 @@
 [17] Moreover, he has raised accusations of impropriety by saying, ‘I discovered your daughter was not a virgin,’ but this is the evidence of my daughter’s virginity!” The cloth must then be spread out before the city’s elders.
 [18] The elders of that city must then seize the man and punish him.
 [19] They will fine him 100 shekels of silver and give them to the young woman’s father, for the man who made the accusation ruined the reputation of an Israelite virgin. She will then become his wife, and he may never divorce her as long as he lives.
+
 [20] But if the accusation is true and the young woman was not a virgin,
 [21] the men of her city must bring the young woman to the door of her father’s house and stone her to death, for she has done a disgraceful thing in Israel by behaving like a prostitute while living in her father’s house. In this way you will purge the evil from among you.
+
 [22] If a man is discovered in bed with a married woman, both the man lying in bed with the woman and the woman herself must die; in this way you will purge the evil from Israel.
+
 [23] If a virgin is engaged to a man and another man meets her in the city and goes to bed with her,
 [24] you must bring the two of them to the gate of that city and stone them to death, the young woman because she did not cry out though in the city and the man because he violated his neighbor’s fiancée; in this way you will purge evil from among you.
 [25] But if the man came across the engaged woman in the field and overpowered her and raped her, then only the rapist must die.
 [26] You must not do anything to the young woman—she has done nothing deserving of death. This case is the same as when someone attacks another person and murders him,
 [27] for the man met her in the field and the engaged woman cried out, but there was no one to rescue her.
+
 [28] Suppose a man comes across a virgin who is not engaged and takes hold of her and sleeps with her and they are discovered.
 [29] The man who has slept with her must pay her father fifty shekels of silver and she must become his wife. Because he has humiliated her, he may never divorce her as long as he lives.
-[30] (
+
+[30] (23:1) A man may not marry his father’s former wife and in this way dishonor his father.
 
 ## Chapter 23
-
 
 ### Purity in Public Worship
 
 [1] A man with crushed or severed genitals may not enter the assembly of the **Lord**.
 [2] A person of illegitimate birth may not enter the assembly of the **Lord**; to the tenth generation no one related to him may do so.
+
 [3] No Ammonite or Moabite may enter the assembly of the **Lord**; to the tenth generation none of their descendants shall ever do so,
 [4] for they did not meet you with food and water on the way as you came from Egypt, and furthermore, they hired Balaam son of Beor of Pethor in Aram Naharaim to curse you.
 [5] But the **Lord** your God refused to listen to Balaam and changed the curse to a blessing, for the **Lord** your God loves you.
@@ -927,6 +936,7 @@
 [9] When you go out as an army against your enemies, guard yourselves against anything impure.
 [10] If there is someone among you who is impure because of some nocturnal emission, he must leave the camp; he may not reenter it immediately.
 [11] When evening arrives he must wash himself with water, and then at sunset he may reenter the camp.
+
 [12] You are to have a place outside the camp to serve as a latrine.
 [13] You must have a spade among your other equipment, and when you relieve yourself outside you must dig a hole with the spade and then turn and cover your excrement.
 [14] For the **Lord** your God walks about in the middle of your camp to deliver you and defeat your enemies for you. Therefore your camp should be holy, so that he does not see anything indecent among you and turn away from you.
@@ -957,21 +967,28 @@
 [2] When she has left him she may go and become someone else’s wife.
 [3] If the second husband rejects her and then divorces her, gives her the papers, and evicts her from his house, or if the second husband who married her dies,
 [4] her first husband who divorced her is not permitted to remarry her after she has become ritually impure, for that is offensive to the **Lord**. You must not bring guilt on the land that the **Lord** your God is giving you as an inheritance.
+
 [5] When a man is newly married, he need not go into the army nor be obligated in any way; he must be free to stay at home for a full year and bring joy to the wife he has married.
+
 [6] One must not take either lower or upper millstones as security on a loan, for that is like taking a life itself as security.
+
 [7] If a man is found kidnapping a person from among his fellow Israelites, and regards him as mere property and sells him, that kidnapper must die. In this way you will purge the evil from among you.
 
 ### Respect for Human Dignity
 
 [8] Be careful during an outbreak of leprosy to follow precisely all that the Levitical priests instruct you; as I have commanded them, so you should do.
 [9] Remember what the **Lord** your God did to Miriam along the way after you left Egypt.
+
 [10] When you make any kind of loan to your neighbor, you may not go into his house to claim what he is offering as security.
 [11] You must stand outside and the person to whom you are making the loan will bring out to you what he is offering as security.
 [12] If the person is poor you may not use what he gives you as security for a covering.
 [13] You must by all means return to him at sunset the item he gave you as security so that he may sleep in his outer garment and bless you for it; it will be considered a just deed by the **Lord** your God.
+
 [14] You must not oppress a lowly and poor servant, whether one from among your fellow Israelites or from the resident foreigners who are living in your land and villages.
 [15] You must pay his wage that very day before the sun sets, for he is poor and his life depends on it. Otherwise he will cry out to the **Lord** against you, and you will be guilty of sin.
+
 [16] Fathers must not be put to death for what their children do, nor children for what their fathers do; each must be put to death for his own sin.
+
 [17] You must not pervert justice due a resident foreigner or an orphan, or take a widow’s garment as security for a loan.
 [18] Remember that you were slaves in Egypt and that the **Lord** your God redeemed you from there; therefore I am commanding you to do all this.
 [19] Whenever you reap your harvest in your field and leave some unraked grain there, you must not return to get it; it should go to the resident foreigner, orphan, and widow so that the **Lord** your God may bless all the work you do.
@@ -984,6 +1001,7 @@
 [1] If controversy arises between people, they should go to court for judgment. When the judges hear the case, they shall exonerate the innocent but condemn the guilty.
 [2] Then, if the guilty person is sentenced to a beating, the judge shall force him to lie down and be beaten in his presence with the number of blows his wicked behavior deserves.
 [3] The judge may sentence him to forty blows, but no more. If he is struck with more than these, you might view your fellow Israelite with contempt.
+
 [4] You must not muzzle your ox when it is treading grain.
 
 ### Respect for the Sanctity of Others
@@ -994,8 +1012,10 @@
 [8] Then the elders of his city must summon him and speak to him. If he persists, saying, “I don’t want to marry her,”
 [9] then his sister-in-law must approach him in view of the elders, remove his sandal from his foot, and spit in his face. She will then respond, “Thus may it be done to any man who does not maintain his brother’s family line!”
 [10] His family name will be referred to in Israel as “the family of the one whose sandal was removed.”
+
 [11] If two men get into a hand-to-hand fight, and the wife of one of them gets involved to help her husband against his attacker, and she reaches out her hand and grabs his private parts,
 [12] then you must cut off her hand—do not pity her.
+
 [13] You must not have in your bag different stone weights, a heavy and a light one.
 [14] You must not have in your house different measuring containers, a large and a small one.
 [15] You must have an accurate and correct stone weight and an accurate and correct measuring container, so that your life may be extended in the land the **Lord** your God is about to give you.
@@ -1008,7 +1028,6 @@
 [19] So when the **Lord** your God gives you relief from all the enemies who surround you in the land he is giving you as an inheritance, you must wipe out the memory of the Amalekites from under heaven —do not forget!
 
 ## Chapter 26
-
 
 ### Presentation of the Firstfruits
 
@@ -1040,7 +1059,6 @@
 
 ## Chapter 27
 
-
 ### The Assembly at Shechem
 
 [1] Then Moses and the elders of Israel commanded the people: “Pay attention to all the commandments I am giving you today.
@@ -1051,6 +1069,7 @@
 [6] You must build the altar of the **Lord** your God with whole stones and offer burnt offerings on it to the **Lord** your God.
 [7] Also you must offer fellowship offerings and eat them there, rejoicing before the **Lord** your God.
 [8] You must inscribe on the stones all the words of this law, making them clear.”
+
 [9] Then Moses and the Levitical priests spoke to all Israel: “Be quiet and pay attention, Israel. Today you have become the people of the **Lord** your God.
 [10] You must obey him and keep his commandments and statutes that I am giving you today.”
 [11] Moreover, Moses commanded the people that day:
@@ -1074,7 +1093,6 @@
 [26] ‘Cursed is the one who refuses to keep the words of this law.’ Then all the people will say, ‘Amen!’
 
 ## Chapter 28
-
 
 ### The Covenant Blessings
 
@@ -1134,6 +1152,7 @@
 [42] Whirring locusts will take over every tree and all the produce of your soil.
 [43] The resident foreigners who reside among you will become higher and higher over you, and you will become lower and lower.
 [44] They will lend to you, but you will not lend to them; they will become the head, and you will become the tail!
+
 [45] “All these curses will fall on you, pursuing and overtaking you until you are destroyed, because you would not obey the **Lord** your God by keeping his commandments and statutes that he has given you.
 [46] These curses will be a perpetual sign and wonder with reference to you and your descendants.
 
@@ -1167,10 +1186,9 @@
 
 ## Chapter 29
 
-
 ### Narrative Interlude
 
-[1] (
+[1] (28:69) These are the words of the covenant that the **Lord** commanded Moses to make with the people of Israel in the land of Moab, in addition to the covenant he had made with them at Horeb.
 
 ### The Exodus, Wandering, and Conquest Reviewed
 
@@ -1211,7 +1229,6 @@
 
 ## Chapter 30
 
-
 ### The Results of Covenant Reaffirmation
 
 [1] “When you have experienced all these things, both the blessings and the curses I have set before you, you will reflect upon them in all the nations where the **Lord** your God has banished you.
@@ -1231,6 +1248,7 @@
 [12] It is not in heaven, as though one must say, ‘Who will go up to heaven to get it for us and proclaim it to us so we may obey it?’
 [13] And it is not across the sea, as though one must say, ‘Who will cross over to the other side of the sea and get it for us and proclaim it to us so we may obey it?’
 [14] For the thing is very near you—it is in your mouth and in your mind so that you can do it.
+
 [15] “Look! I have set before you today life and prosperity on the one hand, and death and disaster on the other.
 [16] What I am commanding you today is to love the **Lord** your God, to walk in his ways, and to obey his commandments, his statutes, and his ordinances. Then you will live and become numerous and the **Lord** your God will bless you in the land that you are about to possess.
 [17] However, if you turn aside and do not obey, but are lured away to worship and serve other gods,
@@ -1239,7 +1257,6 @@
 [20] I also call on you to love the **Lord** your God, to obey him and be loyal to him, for he gives you life and enables you to live continually in the land the **Lord** promised to give to your ancestors Abraham, Isaac, and Jacob.”
 
 ## Chapter 31
-
 
 ### Succession of Moses by Joshua
 
@@ -1285,164 +1302,158 @@
 
 ## Chapter 32
 
-
 ### Invocation of Witnesses
 
-[1] Listen, O heavens, and I will speak;
-hear, O earth, the words of my mouth.
-[2] My teaching will drop like the rain,
-my sayings will drip like the dew,
-as rain drops upon the grass,
-and showers upon new growth.
-[3] For I will proclaim the name of the Lord;
-you must acknowledge the greatness of our God.
-[4] As for the Rock, his work is perfect,
-for all his ways are just.
-He is a reliable God who is never unjust,
-he is fair and upright.
-[5] His people have been unfaithful to him;
-they have not acted like his children —this is their sin.
-They are a perverse and deceitful generation.
-[6] Is this how you repay the Lord,
-you foolish, unwise people?
-Is he not your father, your Creator?
-He has made you and established you.
-[7] Remember the ancient days;
-bear in mind the years of past generations.
-Ask your father and he will inform you,
-your elders, and they will tell you.
-[8] When the Most High gave the nations their inheritance,
-when he divided up humankind,
-he set the boundaries of the peoples,
-according to the number of the heavenly assembly.
-[9] For the Lord’s allotment is his people,
-Jacob is his special possession.
-[10] The Lord found him in a desolate land,
-in an empty wasteland where animals howl.
-He continually guarded him and taught him;
-he continually protected him like the pupil of his eye.
-[11] Like an eagle that stirs up its nest,
-that hovers over its young,
-so the Lord spread out his wings and took him,
-he lifted him up on his pinions.
-[12] The Lord alone was guiding him,
-no foreign god was with him.
-[13] He enabled him to travel over the high terrain of the land,
-and he ate of the produce of the fields.
-He provided honey for him from the cliffs,
-and olive oil from the hardest of rocks,
-[14] butter from the herd
-and milk from the flock,
-along with the fat of lambs,
-rams and goats of Bashan,
-along with the best of the kernels of wheat;
-and from the juice of grapes you drank wine.
-
+[1] Listen, O heavens, and I will speak;<br>
+hear, O earth, the words of my mouth.<br>
+[2] My teaching will drop like the rain,<br>
+my sayings will drip like the dew,<br>
+as rain drops upon the grass,<br>
+and showers upon new growth.<br>
+[3] For I will proclaim the name of the **Lord**;<br>
+you must acknowledge the greatness of our God.<br>
+[4] As for the Rock, his work is perfect,<br>
+for all his ways are just.<br>
+He is a reliable God who is never unjust,<br>
+he is fair and upright.<br>
+[5] His people have been unfaithful to him;<br>
+they have not acted like his children —this is their sin.<br>
+They are a perverse and deceitful generation.<br>
+[6] Is this how you repay the **Lord**,<br>
+you foolish, unwise people?<br>
+Is he not your father, your Creator?<br>
+He has made you and established you.<br>
+[7] Remember the ancient days;<br>
+bear in mind the years of past generations.<br>
+Ask your father and he will inform you,<br>
+your elders, and they will tell you.<br>
+[8] When the Most High gave the nations their inheritance,<br>
+when he divided up humankind,<br>
+he set the boundaries of the peoples,<br>
+according to the number of the heavenly assembly.<br>
+[9] For the **Lord**’s allotment is his people,<br>
+Jacob is his special possession.<br>
+[10] The **Lord** found him in a desolate land,<br>
+in an empty wasteland where animals howl.<br>
+He continually guarded him and taught him;<br>
+he continually protected him like the pupil of his eye.<br>
+[11] Like an eagle that stirs up its nest,<br>
+that hovers over its young,<br>
+so the **Lord** spread out his wings and took him,<br>
+he lifted him up on his pinions.<br>
+[12] The **Lord** alone was guiding him,<br>
+no foreign god was with him.<br>
+[13] He enabled him to travel over the high terrain of the land,<br>
+and he ate of the produce of the fields.<br>
+He provided honey for him from the cliffs,<br>
+and olive oil from the hardest of rocks,<br>
+[14] butter from the herd<br>
+and milk from the flock,<br>
+along with the fat of lambs,<br>
+rams and goats of Bashan,<br>
+along with the best of the kernels of wheat;<br>
+and from the juice of grapes you drank wine.<br>
 ### Israel’s Rebellion
 
-[15] But Jeshurun became fat and kicked;
-you got fat, thick, and stuffed!
-Then he deserted the God who made him,
-and treated the Rock who saved him with contempt.
-[16] They made him jealous with other gods,
-they enraged him with abhorrent idols.
-[17] They sacrificed to demons, not God,
-to gods they had not known;
-to new gods who had recently come along,
-gods your ancestors had not known about.
-[18] You forgot the Rock who fathered you,
-and put out of mind the God who gave you birth.
-
+[15] But Jeshurun became fat and kicked;<br>
+you got fat, thick, and stuffed!<br>
+Then he deserted the God who made him,<br>
+and treated the Rock who saved him with contempt.<br>
+[16] They made him jealous with other gods,<br>
+they enraged him with abhorrent idols.<br>
+[17] They sacrificed to demons, not God,<br>
+to gods they had not known;<br>
+to new gods who had recently come along,<br>
+gods your ancestors had not known about.<br>
+[18] You forgot the Rock who fathered you,<br>
+and put out of mind the God who gave you birth.<br>
 ### A Word of Judgment
 
-[19] But the Lord took note and despised them
-because his sons and daughters enraged him.
-[20] He said, “I will reject them.
-I will see what will happen to them;
-for they are a perverse generation,
-children who show no loyalty.
-[21] They have made me jealous with false gods,
-enraging me with their worthless gods;
-so I will make them jealous with a people they do not recognize,
-with a nation slow to learn I will enrage them.
-[22] For a fire has been kindled by my anger,
-and it burns to lowest Sheol;
-it consumes the earth and its produce,
-and ignites the foundations of the mountains.
-[23] I will increase their disasters;
-I will use up my arrows on them.
-[24] They will be starved by famine,
-eaten by plague, and bitterly stung;
-I will send the teeth of wild animals against them,
-along with the poison of creatures that crawl in the dust.
-[25] The sword will make people childless outside,
-and terror will do so inside;
-they will destroy both the young man and the virgin,
-the infant and the gray-haired man.
-
+[19] But the **Lord** took note and despised them<br>
+because his sons and daughters enraged him.<br>
+[20] He said, “I will reject them.<br>
+I will see what will happen to them;<br>
+for they are a perverse generation,<br>
+children who show no loyalty.<br>
+[21] They have made me jealous with false gods,<br>
+enraging me with their worthless gods;<br>
+so I will make them jealous with a people they do not recognize,<br>
+with a nation slow to learn I will enrage them.<br>
+[22] For a fire has been kindled by my anger,<br>
+and it burns to lowest Sheol;<br>
+it consumes the earth and its produce,<br>
+and ignites the foundations of the mountains.<br>
+[23] I will increase their disasters;<br>
+I will use up my arrows on them.<br>
+[24] They will be starved by famine,<br>
+eaten by plague, and bitterly stung;<br>
+I will send the teeth of wild animals against them,<br>
+along with the poison of creatures that crawl in the dust.<br>
+[25] The sword will make people childless outside,<br>
+and terror will do so inside;<br>
+they will destroy both the young man and the virgin,<br>
+the infant and the gray-haired man.<br>
 ### The Weakness of Other Gods
 
-[26] “I said, ‘I want to cut them in pieces.
-I want to make people forget they ever existed.
-[27] But I fear the reaction of their enemies,
-for their adversaries would misunderstand
-and say, “Our power is great,
-and the Lord has not done all this!”’
-[28] They are a nation devoid of wisdom,
-and there is no understanding among them.
-[29] I wish that they were wise and could understand this,
-and that they could comprehend what will happen to them.”
-[30] How can one man chase a thousand of them,
-and two pursue ten thousand,
-unless their Rock had delivered them up —
-and the Lord had handed them over?
-[31] For our enemies’ rock is not like our Rock,
-as even our enemies concede.
-[32] For their vine is from the stock of Sodom,
-and from the fields of Gomorrah.
-Their grapes contain venom;
-their clusters of grapes are bitter.
-[33] Their wine is snakes’ poison,
-the deadly venom of cobras.
-[34] “Is this not stored up with me?” says the Lord,
-“Is it not sealed up in my storehouses?
-[35] I will get revenge and pay them back
-at the time their foot slips;
-for the day of their disaster is near,
-and the impending judgment is rushing upon them!”
-[36] The Lord will judge his people,
-and will change his plans concerning his servants;
-when he sees that their power has disappeared,
-and that no one is left, whether confined or set free.
-[37] He will say, “Where are their gods,
-the rock in whom they sought security,
-[38] who ate the best of their sacrifices,
-and drank the wine of their drink offerings?
-Let them rise and help you;
-let them be your refuge!
-
+[26] “I said, ‘I want to cut them in pieces.<br>
+I want to make people forget they ever existed.<br>
+[27] But I fear the reaction of their enemies,<br>
+for their adversaries would misunderstand<br>
+and say, “Our power is great,<br>
+and the **Lord** has not done all this!”’<br>
+[28] They are a nation devoid of wisdom,<br>
+and there is no understanding among them.<br>
+[29] I wish that they were wise and could understand this,<br>
+and that they could comprehend what will happen to them.”<br>
+[30] How can one man chase a thousand of them,<br>
+and two pursue ten thousand,<br>
+unless their Rock had delivered them up —<br>
+and the **Lord** had handed them over?<br>
+[31] For our enemies’ rock is not like our Rock,<br>
+as even our enemies concede.<br>
+[32] For their vine is from the stock of Sodom,<br>
+and from the fields of Gomorrah.<br>
+Their grapes contain venom;<br>
+their clusters of grapes are bitter.<br>
+[33] Their wine is snakes’ poison,<br>
+the deadly venom of cobras.<br>
+[34] “Is this not stored up with me?” says the **Lord**,<br>
+“Is it not sealed up in my storehouses?<br>
+[35] I will get revenge and pay them back<br>
+at the time their foot slips;<br>
+for the day of their disaster is near,<br>
+and the impending judgment is rushing upon them!”<br>
+[36] The **Lord** will judge his people,<br>
+and will change his plans concerning his servants;<br>
+when he sees that their power has disappeared,<br>
+and that no one is left, whether confined or set free.<br>
+[37] He will say, “Where are their gods,<br>
+the rock in whom they sought security,<br>
+[38] who ate the best of their sacrifices,<br>
+and drank the wine of their drink offerings?<br>
+Let them rise and help you;<br>
+let them be your refuge!<br>
 ### The Vindication of the Lord
 
-[39] “See now that I, indeed I, am he!” says the Lord,
-“and there is no other god besides me.
-I kill and give life,
-I smash and I heal,
-and none can resist my power.
-[40] For I raise up my hand to heaven,
-and say, ‘As surely as I live forever,
-[41] I will sharpen my lightning-like sword,
-and my hand will grasp hold of the weapon of judgment;
-I will execute vengeance on my foes,
-and repay those who hate me!
-[42] I will make my arrows drunk with blood,
-and my sword will devour flesh—
-the blood of the slaughtered and captured,
-the chief of the enemy’s leaders.’”
-[43] Cry out, O nations, with his people,
-for he will avenge his servants’ blood;
-he will take vengeance against his enemies,
-and make atonement for his land and people.
-
+[39] “See now that I, indeed I, am he!” says the **Lord**,<br>
+“and there is no other god besides me.<br>
+I kill and give life,<br>
+I smash and I heal,<br>
+and none can resist my power.<br>
+[40] For I raise up my hand to heaven,<br>
+and say, ‘As surely as I live forever,<br>
+[41] I will sharpen my lightning-like sword,<br>
+and my hand will grasp hold of the weapon of judgment;<br>
+I will execute vengeance on my foes,<br>
+and repay those who hate me!<br>
+[42] I will make my arrows drunk with blood,<br>
+and my sword will devour flesh—<br>
+the blood of the slaughtered and captured,<br>
+the chief of the enemy’s leaders.’”<br>
+[43] Cry out, O nations, with his people,<br>
+for he will avenge his servants’ blood;<br>
+he will take vengeance against his enemies,<br>
+and make atonement for his land and people.<br>
 ### Narrative Interlude
 
 [44] Then Moses went with Joshua son of Nun and recited all the words of this song to the people.
@@ -1460,7 +1471,6 @@ and make atonement for his land and people.
 
 ## Chapter 33
 
-
 ### Introduction to the Blessing of Moses
 
 [1] This is the blessing Moses the man of God pronounced upon the Israelites before his death.
@@ -1468,148 +1478,135 @@ and make atonement for his land and people.
 
 ### A Historical Review
 
-“The Lord came from Sinai
-and revealed himself to Israel from Seir.
-He appeared in splendor from Mount Paran,
-and came forth with ten thousand holy ones.
-With his right hand he gave a fiery law to them.
-[3] Surely he loves the people;
-all your holy ones are in your power.
-And they sit at your feet,
-each receiving your words.
-[4] Moses delivered to us a law,
-an inheritance for the assembly of Jacob.
-[5] The Lord was king over Jeshurun,
-when the leaders of the people assembled,
-the tribes of Israel together.
-
+“The **Lord** came from Sinai<br>
+and revealed himself to Israel from Seir.<br>
+He appeared in splendor from Mount Paran,<br>
+and came forth with ten thousand holy ones.<br>
+With his right hand he gave a fiery law to them.<br>
+[3] Surely he loves the people;<br>
+all your holy ones are in your power.<br>
+And they sit at your feet,<br>
+each receiving your words.<br>
+[4] Moses delivered to us a law,<br>
+an inheritance for the assembly of Jacob.<br>
+[5] The **Lord** was king over Jeshurun,<br>
+when the leaders of the people assembled,<br>
+the tribes of Israel together.<br>
 ### Blessing on Reuben
 
-[6] “May Reuben live and not die,
-and may his people multiply.”
-
+[6] “May Reuben live and not die,<br>
+and may his people multiply.”<br>
 ### Blessing on Judah
 
-[7] And this is the blessing to Judah. He said,
-“Listen, O Lord, to Judah’s voice,
-and bring him to his people.
-May his power be great,
-and may you help him against his foes.”
-
+[7] And this is the blessing to Judah. He said,<br>
+“Listen, O **Lord**, to Judah’s voice,<br>
+and bring him to his people.<br>
+May his power be great,<br>
+and may you help him against his foes.”<br>
 ### Blessing on Levi
 
-[8] Of Levi he said:
-“Your Thummim and Urim belong to your godly one,
-whose authority you challenged at Massah,
-and with whom you argued at the waters of Meribah.
-[9] He said to his father and mother, ‘I have not seen him,’
-and he did not acknowledge his own brothers
-or know his own children,
-for they kept your word,
-and guarded your covenant.
-[10] They will teach Jacob your ordinances
-and Israel your law;
-they will offer incense as a pleasant odor,
-and a whole offering on your altar.
-[11] Bless, O Lord, his goods,
-and be pleased with his efforts;
-undercut the legs of any who attack him,
-and of those who hate him, so that they cannot stand.”
-
+[8] Of Levi he said:<br>
+“Your Thummim and Urim belong to your godly one,<br>
+whose authority you challenged at Massah,<br>
+and with whom you argued at the waters of Meribah.<br>
+[9] He said to his father and mother, ‘I have not seen him,’<br>
+and he did not acknowledge his own brothers<br>
+or know his own children,<br>
+for they kept your word,<br>
+and guarded your covenant.<br>
+[10] They will teach Jacob your ordinances<br>
+and Israel your law;<br>
+they will offer incense as a pleasant odor,<br>
+and a whole offering on your altar.<br>
+[11] Bless, O **Lord**, his goods,<br>
+and be pleased with his efforts;<br>
+undercut the legs of any who attack him,<br>
+and of those who hate him, so that they cannot stand.”<br>
 ### Blessing on Benjamin
 
-[12] Of Benjamin he said:
-“The beloved of the Lord will live safely by him;
-he protects him all the time,
-and the Lord places him on his chest.”
-
+[12] Of Benjamin he said:<br>
+“The beloved of the **Lord** will live safely by him;<br>
+he protects him all the time,<br>
+and the **Lord** places him on his chest.”<br>
 ### Blessing on Joseph
 
-[13] Of Joseph he said:
-“May the Lord bless his land
-with the harvest produced by the sky, by the dew,
-and by the depths crouching beneath;
-[14] with the harvest produced by the daylight
-and by the moonlight;
-[15] with the best of the ancient mountains
-and the harvest produced by the age-old hills;
-[16] with the harvest of the earth and its fullness
-and the pleasure of him who resided in the burning bush.
-May blessing rest on Joseph’s head,
-and on the top of the head of the one set apart from his brothers.
-[17] May the firstborn of his bull bring him honor,
-and may his horns be those of a wild ox;
-with them may he gore all peoples,
-all the far reaches of the earth.
-They are the ten thousands of Ephraim,
-and they are the thousands of Manasseh.”
-
+[13] Of Joseph he said:<br>
+“May the **Lord** bless his land<br>
+with the harvest produced by the sky, by the dew,<br>
+and by the depths crouching beneath;<br>
+[14] with the harvest produced by the daylight<br>
+and by the moonlight;<br>
+[15] with the best of the ancient mountains<br>
+and the harvest produced by the age-old hills;<br>
+[16] with the harvest of the earth and its fullness<br>
+and the pleasure of him who resided in the burning bush.<br>
+May blessing rest on Joseph’s head,<br>
+and on the top of the head of the one set apart from his brothers.<br>
+[17] May the firstborn of his bull bring him honor,<br>
+and may his horns be those of a wild ox;<br>
+with them may he gore all peoples,<br>
+all the far reaches of the earth.<br>
+They are the ten thousands of Ephraim,<br>
+and they are the thousands of Manasseh.”<br>
 ### Blessing on Zebulun and Issachar
 
-[18] Of Zebulun he said:
-“Rejoice, Zebulun, when you go outside,
-and Issachar, when you are in your tents.
-[19] They will summon peoples to the mountain,
-there they will sacrifice proper sacrifices;
-for they will enjoy the abundance of the seas,
-and the hidden treasures of the shores.”
-
+[18] Of Zebulun he said:<br>
+“Rejoice, Zebulun, when you go outside,<br>
+and Issachar, when you are in your tents.<br>
+[19] They will summon peoples to the mountain,<br>
+there they will sacrifice proper sacrifices;<br>
+for they will enjoy the abundance of the seas,<br>
+and the hidden treasures of the shores.”<br>
 ### Blessing on Gad
 
-[20] Of Gad he said:
-“Blessed be the one who enlarges Gad.
-Like a lioness he will dwell;
-he will tear at an arm—indeed, a scalp.
-[21] He has selected the best part for himself,
-for the portion of the ruler is set aside there;
-he came with the leaders of the people,
-he obeyed the righteous laws of the Lord
-and his ordinances with Israel.”
-
+[20] Of Gad he said:<br>
+“Blessed be the one who enlarges Gad.<br>
+Like a lioness he will dwell;<br>
+he will tear at an arm—indeed, a scalp.<br>
+[21] He has selected the best part for himself,<br>
+for the portion of the ruler is set aside there;<br>
+he came with the leaders of the people,<br>
+he obeyed the righteous laws of the **Lord**<br>
+and his ordinances with Israel.”<br>
 ### Blessing on Dan
 
-[22] Of Dan he said:
-“Dan is a lion’s cub;
-he will leap forth from Bashan.”
-
+[22] Of Dan he said:<br>
+“Dan is a lion’s cub;<br>
+he will leap forth from Bashan.”<br>
 ### Blessing on Naphtali
 
-[23] Of Naphtali he said:
-“O Naphtali, overflowing with favor,
-and full of the Lord’s blessing,
-possess the west and south.”
-
+[23] Of Naphtali he said:<br>
+“O Naphtali, overflowing with favor,<br>
+and full of the **Lord**’s blessing,<br>
+possess the west and south.”<br>
 ### Blessing on Asher
 
-[24] Of Asher he said:
-“Asher is blessed with children;
-may he be favored by his brothers,
-and may he dip his foot in olive oil.
-[25] The bars of your gates will be made of iron and bronze,
-and may you have lifelong strength.”
-
+[24] Of Asher he said:<br>
+“Asher is blessed with children;<br>
+may he be favored by his brothers,<br>
+and may he dip his foot in olive oil.<br>
+[25] The bars of your gates will be made of iron and bronze,<br>
+and may you have lifelong strength.”<br>
 ### General Praise and Blessing
 
-[26] “There is no one like God, O Jeshurun,
-who rides through the sky to help you,
-on the clouds in majesty.
-[27] The everlasting God is a refuge,
-and underneath you are his eternal arms;
-he has driven out enemies before you,
-and has said, “Destroy!”
-[28] Israel lives in safety,
-the fountain of Jacob is quite secure,
-in a land of grain and new wine;
-indeed, its heavens rain down dew.
-[29] You have joy, Israel! Who is like you?
-You are a people delivered by the Lord,
-your protective shield
-and your exalted sword.
-May your enemies cringe before you;
-may you trample on their backs.”
-
+[26] “There is no one like God, O Jeshurun,<br>
+who rides through the sky to help you,<br>
+on the clouds in majesty.<br>
+[27] The everlasting God is a refuge,<br>
+and underneath you are his eternal arms;<br>
+he has driven out enemies before you,<br>
+and has said, “Destroy!”<br>
+[28] Israel lives in safety,<br>
+the fountain of Jacob is quite secure,<br>
+in a land of grain and new wine;<br>
+indeed, its heavens rain down dew.<br>
+[29] You have joy, Israel! Who is like you?<br>
+You are a people delivered by the **Lord**,<br>
+your protective shield<br>
+and your exalted sword.<br>
+May your enemies cringe before you;<br>
+may you trample on their backs.”<br>
 ## Chapter 34
-
 
 ### The Death of Moses
 
@@ -1617,6 +1614,7 @@ may you trample on their backs.”
 [2] and all of Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the distant sea,
 [3] the Negev, and the plain of the Valley of Jericho, the city of date palm trees, as far as Zoar.
 [4] Then the **Lord** said to him, “This is the land I promised to Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it, but you will not cross over there.”
+
 [5] So Moses, the servant of the **Lord**, died there in the land of Moab as the **Lord** had said.
 [6] He buried him in the valley in the land of Moab near Beth Peor, but no one knows his exact burial place to this very day.
 [7] Moses was 120 years old when he died, but his eye was not dull nor had his vitality departed.
@@ -1628,3 +1626,4 @@ may you trample on their backs.”
 [10] No prophet ever again arose in Israel like Moses, who knew the **Lord** face to face.
 [11] He did all the signs and wonders the **Lord** had sent him to do in the land of Egypt, to Pharaoh, all his servants, and the whole land,
 [12] and he displayed great power and awesome might in view of all Israel.
+

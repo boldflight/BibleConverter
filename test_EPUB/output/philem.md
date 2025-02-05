@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our dear friend and colaborer,
@@ -39,3 +38,4 @@
 [23] Epaphras, my fellow prisoner in Christ Jesus, greets you.
 [24] Mark, Aristarchus, Demas, and Luke, my colaborers, greet you too.
 [25] May the grace of the Lord Jesus Christ be with your spirit.
+

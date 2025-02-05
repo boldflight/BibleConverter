@@ -2,7 +2,6 @@
 
 ## Chapter 1
 
-
 ### Salutation
 
 [1] From James, a slave of God and the Lord Jesus Christ, to the twelve tribes dispersed abroad. Greetings!
@@ -16,6 +15,7 @@
 [6] But he must ask in faith without doubting, for the one who doubts is like a wave of the sea, blown and tossed around by the wind.
 [7] For that person must not suppose that he will receive anything from the Lord,
 [8] since he is a double-minded individual, unstable in all his ways.
+
 [9] Now the believer of humble means should take pride in his high position.
 [10] But the rich person’s pride should be in his humiliation, because he will pass away like a wildflower in the meadow.
 [11] For the sun rises with its heat and dries up the meadow; the petal of the flower falls off and its beauty is lost forever. So also the rich person in the midst of his pursuits will wither away.
@@ -41,7 +41,6 @@
 
 ## Chapter 2
 
-
 ### Prejudice and the Law of Love
 
 [1] My brothers and sisters, do not show prejudice if you possess faith in our glorious Lord Jesus Christ.
@@ -51,10 +50,10 @@
 [5] Listen, my dear brothers and sisters! Did not God choose the poor in the world to be rich in faith and heirs of the kingdom that he promised to those who love him?
 [6] But you have dishonored the poor! Are not the rich oppressing you and dragging you into the courts?
 [7] Do they not blaspheme the good name of the one you belong to?
-[8] But if you fulfill the royal law as expressed in this scripture, “You shall love your neighbor as yourself,” you are doing well.
+[8] But if you fulfill the royal law as expressed in this scripture, “**_You shall love your neighbor as yourself_**,” you are doing well.
 [9] But if you show prejudice, you are committing sin and are convicted by the law as violators.
 [10] For the one who obeys the whole law but fails in one point has become guilty of all of it.
-[11] For he who said, “Do not commit adultery,” also said, “Do not murder.” Now if you do not commit adultery but do commit murder, you have become a violator of the law.
+[11] For he who said, “**_Do not commit adultery_**,” also said, “**_Do not murder_**.” Now if you do not commit adultery but do commit murder, you have become a violator of the law.
 [12] Speak and act as those who will be judged by a law that gives freedom.
 [13] For judgment is merciless for the one who has shown no mercy. But mercy triumphs over judgment.
 
@@ -66,16 +65,16 @@
 [17] So also faith, if it does not have works, is dead being by itself.
 [18] But someone will say, “You have faith and I have works.” Show me your faith without works and I will show you faith by my works.
 [19] You believe that God is one; well and good. Even the demons believe that—and tremble with fear.
+
 [20] But would you like evidence, you empty fellow, that faith without works is useless?
 [21] Was not Abraham our father justified by works when he offered Isaac his son on the altar?
 [22] You see that his faith was working together with his works and his faith was perfected by works.
-[23] And the scripture was fulfilled that says, “Now Abraham believed God and it was counted to him for righteousness,” and he was called God’s friend.
+[23] And the scripture was fulfilled that says, “**_Now Abraham believed God and it was counted to him for righteousness_**,” and _he was called God’s friend_.
 [24] You see that a person is justified by works and not by faith alone.
 [25] And similarly, was not Rahab the prostitute also justified by works when she welcomed the messengers and sent them out by another way?
 [26] For just as the body without the spirit is dead, so also faith without works is dead.
 
 ## Chapter 3
-
 
 ### The Power of the Tongue
 
@@ -85,6 +84,7 @@
 [4] Look at ships too: Though they are so large and driven by harsh winds, they are steered by a tiny rudder wherever the pilot’s inclination directs.
 [5] So too the tongue is a small part of the body, yet it has great pretensions. Think how small a flame sets a huge forest ablaze.
 [6] And the tongue is a fire! The tongue represents the world of wrongdoing among the parts of our bodies. It pollutes the entire body and sets fire to the course of human existence—and is set on fire by hell.
+
 [7] For every kind of animal, bird, reptile, and sea creature is subdued and has been subdued by humankind.
 [8] But no human being can subdue the tongue; it is a restless evil, full of deadly poison.
 [9] With it we bless the Lord and Father, and with it we curse people made in God’s image.
@@ -103,21 +103,23 @@
 
 ## Chapter 4
 
-
 ### Passions and Pride
 
 [1] Where do the conflicts and where do the quarrels among you come from? Is it not from this, from your passions that battle inside you?
 [2] You desire and you do not have; you murder and envy and you cannot obtain; you quarrel and fight. You do not have because you do not ask;
 [3] you ask and do not receive because you ask wrongly, so you can spend it on your passions.
+
 [4] Adulterers, do you not know that friendship with the world means hostility toward God? So whoever decides to be the world’s friend makes himself God’s enemy.
 [5] Or do you think the scripture means nothing when it says, “The spirit that God caused to live within us has an envious yearning”?
-[6] But he gives greater grace. Therefore it says, “God opposes the proud, but he gives grace to the humble.”
+[6] But he gives greater grace. Therefore it says, “_**God opposes the proud, but he gives grace to the humble**_.”
 [7] So submit to God. But resist the devil and he will flee from you.
 [8] Draw near to God and he will draw near to you. Cleanse your hands, you sinners, and make your hearts pure, you double-minded.
 [9] Grieve, mourn, and weep. Turn your laughter into mourning and your joy into despair.
 [10] Humble yourselves before the Lord and he will exalt you.
+
 [11] Do not speak against one another, brothers and sisters. He who speaks against a fellow believer or judges a fellow believer speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but its judge.
 [12] But there is only one who is lawgiver and judge—the one who is able to save and destroy. On the other hand, who are you to judge your neighbor?
+
 [13] Come now, you who say, “Today or tomorrow we will go into this or that town and spend a year there and do business and make a profit.”
 [14] You do not know about tomorrow. What is your life like? For you are a puff of smoke that appears for a short time and then vanishes.
 [15] You ought to say instead, “If the Lord is willing, then we will live and do this or that.”
@@ -125,7 +127,6 @@
 [17] So whoever knows what is good to do and does not do it is guilty of sin.
 
 ## Chapter 5
-
 
 ### Warning to the Rich
 
@@ -142,7 +143,7 @@
 [8] You also be patient and strengthen your hearts, for the Lord’s return is near.
 [9] Do not grumble against one another, brothers and sisters, so that you may not be judged. See, the judge stands before the gates!
 [10] As an example of suffering and patience, brothers and sisters, take the prophets who spoke in the Lord’s name.
-[11] Think of how we regard as blessed those who have endured. You have heard of Job’s endurance and you have seen the Lord’s purpose, that the Lord is full of compassion and mercy.
+[11] Think of how we regard as blessed those who have endured. You have heard of Job’s endurance and you have seen the Lord’s purpose, that _the Lord is full of compassion and mercy_.
 [12] And above all, my brothers and sisters, do not swear, either by heaven or by earth or by any other oath. But let your “Yes” be yes and your “No” be no, so that you may not fall into judgment.
 
 ### Prayer for the Sick
@@ -153,5 +154,7 @@
 [16] So confess your sins to one another and pray for one another so that you may be healed. The prayer of a righteous person has great effectiveness.
 [17] Elijah was a human being like us, and he prayed earnestly that it would not rain and there was no rain on the land for three years and six months!
 [18] Then he prayed again, and the sky gave rain and the land sprouted with a harvest.
+
 [19] My brothers and sisters, if anyone among you wanders from the truth and someone turns him back,
 [20] he should know that the one who turns a sinner back from his wandering path will save that person’s soul from death and will cover a multitude of sins.
+

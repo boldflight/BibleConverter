@@ -7,7 +7,7 @@ struct BibleConverter: ParsableCommand {
             commandName: "bibleconverter",
             abstract: "Convert Bible EPUB to Markdown files",
             discussion: """
-            This tool has three modes:
+            This tool has four modes:
 
             1. Convert EPUB to Markdown:
                bibleconverter convert <epub-path> <output-path>
@@ -17,12 +17,19 @@ struct BibleConverter: ParsableCommand {
                
             3. Convert simple HTML to Markdown:
                bibleconverter convert-sample <html-path> <output-path>
+               
+            4. Convert ESV Study Bible content:
+               bibleconverter convert-study <input-path> <output-path>
             """,
-            subcommands: [ConvertCommand.self, RenameCommand.self, ConvertSampleCommand.self]
+            subcommands: [
+                ConvertCommand.self,
+                RenameCommand.self,
+                ConvertSampleCommand.self,
+                ConvertStudyBibleCommand.self
+            ]
         )
     
     mutating func run() throws {
         print(Self.helpMessage())
     }
-    
 }

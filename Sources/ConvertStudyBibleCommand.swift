@@ -19,7 +19,21 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         
         // Process intro file first
         let introFile = "1_chrintro.xhtml"
-        let fileURL = URL(fileURLWithPath: inputPath).appendingPathComponent("OEBPS").appendingPathComponent(introFile)
+        let outlineFile = "1_chroutline.xhtml"
+        
+        // Convert intro
+        try convertFile(named: introFile, outputName: "1chronicles_introduction")
+        
+        // Convert outline
+        try convertFile(named: outlineFile, outputName: "1chronicles_outline")
+        
+        print("\nConversion complete!")
+    }
+    
+    private func convertFile(named fileName: String, outputName: String) throws {
+        let fileURL = URL(fileURLWithPath: inputPath)
+            .appendingPathComponent("OEBPS")
+            .appendingPathComponent(fileName)
         
         guard FileManager.default.fileExists(atPath: fileURL.path) else {
             throw ConversionError.fileNotFound
@@ -28,16 +42,19 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         let encoding = try detectEncoding(from: fileURL)
         let content = try String(contentsOf: fileURL, encoding: encoding)
         
-        let markdown = try convertIntroToMarkdown(content)
+        let markdown: String
+        if fileName.contains("outline") {
+            markdown = try convertOutlineToMarkdown(content)
+        } else {
+            markdown = try convertIntroToMarkdown(content)
+        }
         
-        // Save to output directory with appropriate name
+        // Save to output directory
         let outputURL = URL(fileURLWithPath: outputPath)
-            .appendingPathComponent("1chronicles_introduction")
+            .appendingPathComponent(outputName)
             .appendingPathExtension("md")
         
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
-        
-        print("\nConversion complete!")
     }
     
     private func detectEncoding(from url: URL) throws -> String.Encoding {
@@ -91,6 +108,47 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                         }
                     }
                     currentSection = try current.nextElementSibling()
+                }
+            }
+        } catch {
+            print("Error parsing XHTML: \(error)")
+            throw error
+        }
+        
+        return markdown
+    }
+    
+    private func convertOutlineToMarkdown(_ content: String) throws -> String {
+        var markdown = ""
+        
+        do {
+            let document = try SwiftSoup.parse(content)
+            
+            // Get the main title
+            if let titleSection = try document.select("p.ArticleSec").first() {
+                let title = try titleSection.text()
+                markdown += "# \(title)\n\n"
+            }
+            
+            // Process outline tiers
+            let outlineElements = try document.select("p[class^=INTRO---Outline]")
+            
+            for element in outlineElements {
+                let className = try element.className()
+                let text = try element.text()
+                
+                // Remove leading Roman numerals and letters (I., A., 1., etc.)
+                let parts = text.components(separatedBy: " ")
+                let content = parts.dropFirst().joined(separator: " ")
+                
+                if className.contains("Teir1") {
+                    markdown += "## \(content)\n\n"
+                } else if className.contains("tier-2") {
+                    // Add some indentation for subpoints
+                    markdown += "* \(content)\n"
+                } else {
+                    // For any other tiers, treat as subpoints with more indentation
+                    markdown += "  * \(content)\n"
                 }
             }
         } catch {

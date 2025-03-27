@@ -322,7 +322,6 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         if let noteRef = try element.select("span.note-in-note").first(),
            let link = try noteRef.select("a").first() {
             let refNumber = try link.text()
-            let refId = try link.attr("id")
             footnoteText += "[^\(refNumber)]" // Markdown footnote reference
         }
         

@@ -33,8 +33,17 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         for file in files where file.pathExtension == "xhtml" {
             let filename = file.lastPathComponent
             
+            if let suppType = SupplementaryType.detect(from: filename) {
+                // Handle supplementary files separately
+                try convertSupplementaryFile(named: filename, type: suppType)
+                continue
+            }
+            
             // Extract book code (e.g., "1_Chr", "Gen", "Ps")
-            let fileCode = filename.prefix { $0 != "t" }.replacingOccurrences(of: "text", with: "")
+            let fileCode = filename.prefix { $0 != "t" && $0 != "i" && $0 != "o" }
+                .replacingOccurrences(of: "text", with: "")
+                .replacingOccurrences(of: "intro", with: "")
+                .replacingOccurrences(of: "outline", with: "")
             
             guard let book = BibleBook.allCases.first(where: { $0.fileName == fileCode }),
                   let fileType = BibleFileType.detect(from: filename) else {
@@ -45,17 +54,19 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             
             switch fileType {
             case .introduction:
-            bookFiles.introFile = filename
+                bookFiles.introFile = filename
             case .outline:
-            bookFiles.outlineFile = filename
+                bookFiles.outlineFile = filename
             case .mainText:
-            bookFiles.mainTextFile = filename
+                bookFiles.mainTextFiles.append(filename)
             case .studyNotes:
-            bookFiles.studyNotesFile = filename
+                bookFiles.studyNotesFile = filename
             case .footnotes:
-            bookFiles.footnotesFile = filename
+                bookFiles.footnotesFile = filename
             case .crossReferences:
-            bookFiles.crossRefsFile = filename
+                bookFiles.crossRefsFile = filename
+            case .supplementary(let type):
+                bookFiles.supplementaryFiles[type, default: []].append(filename)
             }
             
             bookGroups[book] = bookFiles
@@ -75,8 +86,10 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 try convertFile(named: file, outputName: "\(baseFileName)_outline")
             }
             
-            if let file = files.mainTextFile {
-                try convertFile(named: file, outputName: "\(baseFileName)_text")
+            // Convert all main text files
+            for (index, file) in files.mainTextFiles.enumerated() {
+                let suffix = index == 0 ? "" : "_\(index + 1)"
+                try convertFile(named: file, outputName: "\(baseFileName)_text\(suffix)")
             }
             
             if let file = files.studyNotesFile {
@@ -600,6 +613,11 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             }
         }
         return .utf8
+    }
+    
+    private func convertSupplementaryFile(named filename: String, type: SupplementaryType) throws {
+        let outputName = filename.replacingOccurrences(of: ".xhtml", with: "")
+        try convertFile(named: filename, outputName: outputName)
     }
     
     enum ConversionError: Error {

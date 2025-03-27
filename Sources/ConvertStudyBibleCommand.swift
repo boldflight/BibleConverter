@@ -205,6 +205,18 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                         if className == "note" {
                             let footnoteText = try processFootnote(element)
                             markdown += footnoteText
+                        } else if element.hasClass("crossref") {
+                            let crossrefText = try processCrossReference(element)
+                            markdown += crossrefText
+                        }
+                    } else if element.tagName() == "aside" {
+                        let epubType = try element.attr("epub:type")
+                        let id = element.id()
+                        
+                        if epubType == "footnote" {
+                            markdown += "[^\(id)]:"
+                            let footnoteContent = try processElementRecursively(element)
+                            markdown += " \(footnoteContent)\n\n"
                         }
                     }
                     
@@ -275,25 +287,44 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             let sections = try document.select("section")
             
             for section in sections {
+                // Process theological boxes first
+                let theoBoxes = try section.select("div.gbox")
+                for box in theoBoxes {
+                    if let header = try box.select("p.theohead").first() {
+                        let title = try header.text()
+                        markdown += "\n## \(title)\n\n"
+                    }
+                    
+                    let theoContent = try box.select("p.theofirst, p.theobody")
+                    for para in theoContent {
+                        let text = try processElementRecursively(para)
+                        markdown += "\(text)\n\n"
+                    }
+                    markdown += "---\n\n"
+                }
+                
+                // Process regular headings
                 if let headingElements = try section.select("p.heading").first() {
                     let heading = try headingElements.text()
                     markdown += "### \(heading)\n\n"
                 }
                 
-                let paragraphs = try section.select("p.p-first, p.p, p.poetrybreak, p.poetry, p.otpoetry")
+                // Process main content
+                let paragraphs = try section.select("p.p-first, p.p, p.poetrybreak, p.poetry, p.poetry-first, p.poetry-indent, p.poetry-indent-last, p.otpoetry")
                 var currentVerseBlock = ""
                 
                 for paragraph in paragraphs {
                     let paragraphClass = try paragraph.className()
                     
-                    if ["poetry", "otpoetry", "poetrybreak"].contains(paragraphClass) {
+                    if ["poetry", "otpoetry", "poetrybreak", "poetry-first", "poetry-indent", "poetry-indent-last"].contains(paragraphClass) {
                         if !currentVerseBlock.isEmpty {
                             markdown += currentVerseBlock + "\n\n"
                             currentVerseBlock = ""
                         }
                         
                         let poetryContent = try processPoetryVerse(paragraph)
-                        markdown += poetryContent + "\n\n"
+                        let indentLevel = if paragraphClass.contains("indent") { "  " } else { "" }
+                        markdown += "\(indentLevel)\(poetryContent)\n\n"
                         continue
                     }
                     
@@ -309,9 +340,14 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                                 let verseNum = try element.text()
                                 currentVerseBlock = "**\(verseNum)** "
                             } else if element.hasClass("crossref") {
-                                continue
+                                let refId = try element.select("a").attr("href")
+                                currentVerseBlock += "[†](\(refId))"
                             } else if element.hasClass("note") {
-                                continue
+                                let noteId = try element.select("a").attr("href")
+                                currentVerseBlock += "[*](\(noteId))"
+                            } else if element.tagName() == "small" {
+                                // Handle small caps for LORD
+                                currentVerseBlock += "**\(try element.text())**"
                             } else {
                                 currentVerseBlock += try element.text()
                             }
@@ -321,6 +357,12 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 
                 if !currentVerseBlock.isEmpty {
                     markdown += currentVerseBlock + "\n\n"
+                }
+                
+                // Process navigation links
+                if let navLink = try section.select("p.centerr").first() {
+                    let link = try navLink.text()
+                    markdown += "\n---\n\n➜ \(link)\n\n"
                 }
                 
                 markdown += "---\n\n"
@@ -347,6 +389,14 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                         verseContent += "\n"
                     }
                     verseContent += "**\(verseNum)** "
+                } else if element.hasClass("crossref") {
+                    let refId = try element.select("a").attr("href")
+                    verseContent += "[†](\(refId))"
+                } else if element.hasClass("note") {
+                    let noteId = try element.select("a").attr("href")
+                    verseContent += "[*](\(noteId))"
+                } else if element.tagName() == "small" {
+                    verseContent += "**\(try element.text())**"
                 } else if !["crossref", "note"].contains(try element.className()) {
                     verseContent += try element.text()
                 }

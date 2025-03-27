@@ -17,12 +17,80 @@ struct ConvertStudyBibleCommand: ParsableCommand {
     mutating func run() throws {
         print("\nConverting ESV Study Bible content to Markdown...")
         
-        try convertFile(named: "1_chrintro.xhtml", outputName: "1chronicles_introduction")
-        try convertFile(named: "1_chroutline.xhtml", outputName: "1chronicles_outline")
-        try convertFile(named: "1_Chrtext_0001.xhtml", outputName: "1chronicles_study_notes_1")
-        try convertFile(named: "1_Chrtext_0002.xhtml", outputName: "1chronicles_footnotes")
-        try convertFile(named: "1_Chrtext_0003.xhtml", outputName: "1chronicles_cross_references")
-        try convertFile(named: "1_Chrtext.xhtml", outputName: "1chronicles_text")
+        let fileManager = FileManager.default
+        let inputURL = URL(fileURLWithPath: inputPath)
+            .appendingPathComponent("OEBPS")
+        
+        guard let files = try? fileManager.contentsOfDirectory(at: inputURL,
+                                                             includingPropertiesForKeys: nil,
+                                                             options: [.skipsHiddenFiles]) else {
+            throw ConversionError.unableToReadFile
+        }
+        
+        // Group files by book
+        var bookGroups: [BibleBook: BookFiles] = [:]
+        
+        for file in files where file.pathExtension == "xhtml" {
+            let filename = file.lastPathComponent
+            
+            // Extract book code (e.g., "1_Chr", "Gen", "Ps")
+            let fileCode = filename.prefix { $0 != "t" }.replacingOccurrences(of: "text", with: "")
+            
+            guard let book = BibleBook.allCases.first(where: { $0.fileName == fileCode }),
+                  let fileType = BibleFileType.detect(from: filename) else {
+                continue
+            }
+            
+            var bookFiles = bookGroups[book] ?? BookFiles(book: book)
+            
+            switch fileType {
+            case .introduction:
+            bookFiles.introFile = filename
+            case .outline:
+            bookFiles.outlineFile = filename
+            case .mainText:
+            bookFiles.mainTextFile = filename
+            case .studyNotes:
+            bookFiles.studyNotesFile = filename
+            case .footnotes:
+            bookFiles.footnotesFile = filename
+            case .crossReferences:
+            bookFiles.crossRefsFile = filename
+            }
+            
+            bookGroups[book] = bookFiles
+        }
+        
+        // Process each book
+        for (_, files) in bookGroups.sorted(by: { $0.key.canonicalOrder < $1.key.canonicalOrder }) {
+            print("Converting \(files.book.displayName)...")
+            
+            let baseFileName = files.book.fileName
+            
+            if let file = files.introFile {
+                try convertFile(named: file, outputName: "\(baseFileName)_introduction")
+            }
+            
+            if let file = files.outlineFile {
+                try convertFile(named: file, outputName: "\(baseFileName)_outline")
+            }
+            
+            if let file = files.mainTextFile {
+                try convertFile(named: file, outputName: "\(baseFileName)_text")
+            }
+            
+            if let file = files.studyNotesFile {
+                try convertFile(named: file, outputName: "\(baseFileName)_study_notes")
+            }
+            
+            if let file = files.footnotesFile {
+                try convertFile(named: file, outputName: "\(baseFileName)_footnotes")
+            }
+            
+            if let file = files.crossRefsFile {
+                try convertFile(named: file, outputName: "\(baseFileName)_cross_references")
+            }
+        }
         
         print("\nConversion complete!")
     }
@@ -48,7 +116,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             markdown = try convertCrossReferencesToMarkdown(content)
         } else if fileName.contains("text_0001") {
             markdown = try convertStudyNotesToMarkdown(content)
-        } else if fileName == "1_Chrtext.xhtml" {
+        } else if fileName.hasSuffix("text.xhtml") || fileName.contains("text1") {
             markdown = try convertBibleTextToMarkdown(content)
         } else {
             markdown = try convertIntroToMarkdown(content)
@@ -382,23 +450,23 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         for node in element.getChildNodes() {
             if let textNode = node as? TextNode {
                 verseContent += textNode.text()
-            } else if let element = node as? Element {
-                if element.hasClass("verse-num") {
-                    let verseNum = try element.text()
+            } else if let elementNode = node as? Element {
+                if elementNode.hasClass("verse-num") {
+                    let verseNum = try elementNode.text()
                     if !verseContent.isEmpty {
                         verseContent += "\n"
                     }
                     verseContent += "**\(verseNum)** "
-                } else if element.hasClass("crossref") {
-                    let refId = try element.select("a").attr("href")
+                } else if elementNode.hasClass("crossref") {
+                    let refId = try elementNode.select("a").attr("href")
                     verseContent += "[†](\(refId))"
-                } else if element.hasClass("note") {
-                    let noteId = try element.select("a").attr("href")
+                } else if elementNode.hasClass("note") {
+                    let noteId = try elementNode.select("a").attr("href")
                     verseContent += "[*](\(noteId))"
-                } else if element.tagName() == "small" {
-                    verseContent += "**\(try element.text())**"
-                } else if !["crossref", "note"].contains(try element.className()) {
-                    verseContent += try element.text()
+                } else if elementNode.tagName() == "small" {
+                    verseContent += "**\(try elementNode.text())**"
+                } else if !["crossref", "note"].contains(try elementNode.className()) {
+                    verseContent += try elementNode.text()
                 }
             }
         }

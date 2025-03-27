@@ -21,6 +21,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         try convertFile(named: "1_chrintro.xhtml", outputName: "1chronicles_introduction")
         try convertFile(named: "1_chroutline.xhtml", outputName: "1chronicles_outline")
         try convertFile(named: "1_Chrtext_0001.xhtml", outputName: "1chronicles_study_notes_1")
+        try convertFile(named: "1_Chrtext_0002.xhtml", outputName: "1chronicles_footnotes")
         
         print("\nConversion complete!")
     }
@@ -40,13 +41,15 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         let markdown: String
         if fileName.contains("outline") {
             markdown = try convertOutlineToMarkdown(content)
+        } else if fileName.contains("text_0002") {
+            markdown = try convertFootnotesToMarkdown(content)
         } else if fileName.contains("text_") {
             markdown = try convertStudyNotesToMarkdown(content)
         } else {
             markdown = try convertIntroToMarkdown(content)
         }
         
-        // Save to output directory
+        // Fix: Use appendingPathComponent instead of appendingComponent
         let outputURL = URL(fileURLWithPath: outputPath)
             .appendingPathComponent(outputName)
             .appendingPathExtension("md")
@@ -202,6 +205,47 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         return markdown
     }
     
+    private func convertFootnotesToMarkdown(_ content: String) throws -> String {
+        var markdown = ""
+        
+        do {
+            let document = try SwiftSoup.parse(content)
+            let sections = try document.select("p.notesubhead")
+            
+            for section in sections {
+                let chapterTitle = try section.text()
+                markdown += "# \(chapterTitle)\n\n"
+                
+                var currentElement = try section.nextElementSibling()
+                
+                while let element = currentElement {
+                    if element.tagName() == "p" { 
+                        let className = try element.className()
+                        
+                        if className == "notesubhead" {
+                            break
+                        }
+                        
+                        if className == "note" {
+                            let footnoteText = try processFootnote(element)
+                            markdown += footnoteText
+                        }
+                    }
+                    
+                    currentElement = try element.nextElementSibling()
+                }
+                
+                markdown += "\n---\n\n"
+            }
+            
+        } catch {
+            print("Error parsing XHTML: \(error)")
+            throw error
+        }
+        
+        return markdown
+    }
+    
     private func processStudyNote(_ element: Element) throws -> String {
         var noteText = ""
         
@@ -233,6 +277,35 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         }
         
         return noteText
+    }
+    
+    private func processFootnote(_ element: Element) throws -> String {
+        var footnoteText = ""
+        
+        // Get the footnote reference number
+        if let noteRef = try element.select("span.note-in-note").first(),
+           let link = try noteRef.select("a").first() {
+            let refNumber = try link.text()
+            let refId = try link.attr("id")
+            footnoteText += "[^\(refNumber)]" // Markdown footnote reference
+        }
+        
+        // Process the footnote content
+        var content = try element.text()
+        
+        // Remove the reference number from content
+        if let firstRef = try element.select("span.note-in-note").first() {
+            content = content.replacingOccurrences(of: try firstRef.text(), with: "")
+        }
+        
+        // Clean up the content
+        content = content.trimmingCharacters(in: .whitespacesAndNewlines)
+        
+        if !content.isEmpty {
+            footnoteText += " \(content)\n\n"
+        }
+        
+        return footnoteText
     }
     
     private func processElementRecursively(_ element: Element) throws -> String {

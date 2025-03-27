@@ -22,6 +22,8 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         try convertFile(named: "1_chroutline.xhtml", outputName: "1chronicles_outline")
         try convertFile(named: "1_Chrtext_0001.xhtml", outputName: "1chronicles_study_notes_1")
         try convertFile(named: "1_Chrtext_0002.xhtml", outputName: "1chronicles_footnotes")
+        // ADD: Process cross references file
+        try convertFile(named: "1_Chrtext_0003.xhtml", outputName: "1chronicles_cross_references")
         
         print("\nConversion complete!")
     }
@@ -43,35 +45,20 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             markdown = try convertOutlineToMarkdown(content)
         } else if fileName.contains("text_0002") {
             markdown = try convertFootnotesToMarkdown(content)
+        } else if fileName.contains("text_0003") {
+            // ADD: Handle cross references file
+            markdown = try convertCrossReferencesToMarkdown(content)
         } else if fileName.contains("text_") {
             markdown = try convertStudyNotesToMarkdown(content)
         } else {
             markdown = try convertIntroToMarkdown(content)
         }
         
-        // Fix: Use appendingPathComponent instead of appendingComponent
         let outputURL = URL(fileURLWithPath: outputPath)
             .appendingPathComponent(outputName)
             .appendingPathExtension("md")
         
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
-    }
-    
-    private func detectEncoding(from url: URL) throws -> String.Encoding {
-        let data = try Data(contentsOf: url)
-        let xmlString = String(data: data, encoding: .utf8) ?? ""
-        
-        if let encodingMatch = xmlString.firstMatch(of: /encoding="([^"]+)"/) {
-            switch encodingMatch.1.lowercased() {
-            case "utf-8": return .utf8
-            case "windows-1252", "cp1252": return .windowsCP1252
-            case "iso-8859-1", "latin1": return .isoLatin1
-            case "utf-16": return .utf16
-            case "ascii": return .ascii
-            default: return .utf8
-            }
-        }
-        return .utf8
     }
     
     private func convertIntroToMarkdown(_ content: String) throws -> String {
@@ -219,7 +206,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 var currentElement = try section.nextElementSibling()
                 
                 while let element = currentElement {
-                    if element.tagName() == "p" { 
+                    if element.tagName() == "p" {
                         let className = try element.className()
                         
                         if className == "notesubhead" {
@@ -236,6 +223,55 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 }
                 
                 markdown += "\n---\n\n"
+            }
+            
+        } catch {
+            print("Error parsing XHTML: \(error)")
+            throw error
+        }
+        
+        return markdown
+    }
+    
+    private func convertCrossReferencesToMarkdown(_ content: String) throws -> String {
+        var markdown = ""
+        
+        do {
+            let document = try SwiftSoup.parse(content)
+            let sections = try document.select("p.notesubhead")
+            
+            for section in sections {
+                // Get chapter title
+                let chapterTitle = try section.text()
+                markdown += "# \(chapterTitle)\n\n"
+                
+                var currentElement = try section.nextElementSibling()
+                
+                while let element = currentElement {
+                    if element.tagName() == "p" {
+                        let className = try element.className()
+                        
+                        if className == "notesubhead" {
+                            // We've reached the next chapter's references
+                            break
+                        }
+                        
+                        if className == "crossref" {
+                            // Process verse heading
+                            if let verseText = try? element.select("b").first()?.text() {
+                                markdown += "## \(verseText)\n\n"
+                            }
+                        } else if className == "note1" {
+                            // Process reference
+                            let reference = try processCrossReference(element)
+                            markdown += "- \(reference)\n"
+                        }
+                    }
+                    
+                    currentElement = try element.nextElementSibling()
+                }
+                
+                markdown += "\n---\n\n" // Add separator between chapters
             }
             
         } catch {
@@ -308,6 +344,31 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         return footnoteText
     }
     
+    private func processCrossReference(_ element: Element) throws -> String {
+        var referenceText = ""
+        
+        // Extract reference letter/number if present
+        if let noteSpan = try element.select("span.note").first(),
+           let link = try noteSpan.select("a").first() {
+            let refNumber = try link.text()
+            referenceText += "(\(refNumber)) "
+        }
+        
+        // Get the actual reference text
+        var content = try element.text()
+        
+        // Remove the reference number from content if it exists
+        if let firstRef = try element.select("span.note").first() {
+            content = content.replacingOccurrences(of: try firstRef.text(), with: "")
+        }
+        
+        // Clean up the content
+        content = content.trimmingCharacters(in: .whitespacesAndNewlines)
+        referenceText += content
+        
+        return referenceText
+    }
+    
     private func processElementRecursively(_ element: Element) throws -> String {
         var result = ""
         
@@ -342,6 +403,23 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         default:
             return innerContent
         }
+    }
+    
+    private func detectEncoding(from url: URL) throws -> String.Encoding {
+        let data = try Data(contentsOf: url)
+        let xmlString = String(data: data, encoding: .utf8) ?? ""
+        
+        if let encodingMatch = xmlString.firstMatch(of: /encoding="([^"]+)"/) {
+            switch encodingMatch.1.lowercased() {
+            case "utf-8": return .utf8
+            case "windows-1252", "cp1252": return .windowsCP1252
+            case "iso-8859-1", "latin1": return .isoLatin1
+            case "utf-16": return .utf16
+            case "ascii": return .ascii
+            default: return .utf8
+            }
+        }
+        return .utf8
     }
     
     enum ConversionError: Error {

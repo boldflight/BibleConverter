@@ -301,16 +301,16 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                         if let textNode = node as? TextNode {
                             currentVerseBlock += textNode.text()
                         } else if let element = node as? Element {
-                            if try element.hasClass("verse-num") {
+                            if element.hasClass("verse-num") {
                                 if !currentVerseBlock.isEmpty {
                                     markdown += currentVerseBlock.trimmingCharacters(in: .whitespacesAndNewlines) + "\n\n"
                                     currentVerseBlock = ""
                                 }
                                 let verseNum = try element.text()
                                 currentVerseBlock = "**\(verseNum)** "
-                            } else if try element.hasClass("crossref") {
+                            } else if element.hasClass("crossref") {
                                 continue
-                            } else if try element.hasClass("note") {
+                            } else if element.hasClass("note") {
                                 continue
                             } else {
                                 currentVerseBlock += try element.text()
@@ -341,7 +341,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if let textNode = node as? TextNode {
                 verseContent += textNode.text()
             } else if let element = node as? Element {
-                if try element.hasClass("verse-num") {
+                if element.hasClass("verse-num") {
                     let verseNum = try element.text()
                     if !verseContent.isEmpty {
                         verseContent += "\n"

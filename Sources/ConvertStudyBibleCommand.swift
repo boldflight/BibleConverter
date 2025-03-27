@@ -17,15 +17,10 @@ struct ConvertStudyBibleCommand: ParsableCommand {
     mutating func run() throws {
         print("\nConverting ESV Study Bible content to Markdown...")
         
-        // Process intro file first
-        let introFile = "1_chrintro.xhtml"
-        let outlineFile = "1_chroutline.xhtml"
-        
-        // Convert intro
-        try convertFile(named: introFile, outputName: "1chronicles_introduction")
-        
-        // Convert outline
-        try convertFile(named: outlineFile, outputName: "1chronicles_outline")
+        // Process various file types
+        try convertFile(named: "1_chrintro.xhtml", outputName: "1chronicles_introduction")
+        try convertFile(named: "1_chroutline.xhtml", outputName: "1chronicles_outline")
+        try convertFile(named: "1_Chrtext_0001.xhtml", outputName: "1chronicles_study_notes_1")
         
         print("\nConversion complete!")
     }
@@ -45,6 +40,8 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         let markdown: String
         if fileName.contains("outline") {
             markdown = try convertOutlineToMarkdown(content)
+        } else if fileName.contains("text_") {
+            markdown = try convertStudyNotesToMarkdown(content)
         } else {
             markdown = try convertIntroToMarkdown(content)
         }
@@ -157,6 +154,85 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         }
         
         return markdown
+    }
+    
+    private func convertStudyNotesToMarkdown(_ content: String) throws -> String {
+        var markdown = ""
+        
+        do {
+            let document = try SwiftSoup.parse(content)
+            
+            // Process each chapter's study notes
+            let sections = try document.select("p.notesubhead")
+            
+            for section in sections {
+                // Get chapter title
+                let chapterTitle = try section.text()
+                markdown += "# \(chapterTitle)\n\n"
+                
+                var currentElement = try section.nextElementSibling()
+                
+                while let element = currentElement {
+                    if element.tagName() == "p" {
+                        let className = try element.className()
+                        
+                        if className == "notesubhead" {
+                            // We've reached the next chapter's notes
+                            break
+                        }
+                        
+                        if className.contains("rsb-studynote") {
+                            // Process verse reference and note content
+                            let noteText = try processStudyNote(element)
+                            markdown += noteText
+                        }
+                    }
+                    
+                    currentElement = try element.nextElementSibling()
+                }
+                
+                markdown += "\n---\n\n" // Add separator between chapters
+            }
+            
+        } catch {
+            print("Error parsing XHTML: \(error)")
+            throw error
+        }
+        
+        return markdown
+    }
+    
+    private func processStudyNote(_ element: Element) throws -> String {
+        var noteText = ""
+        
+        // Check if this is a new section with verse reference
+        if try element.className().contains("studynote-1") {
+            noteText += "\n"
+        }
+        
+        // Process verse reference spans and links
+        let verseRefs = try element.select("span.rsb-studynote-bold")
+        if !verseRefs.isEmpty() {
+            let reference = try verseRefs.first()?.text() ?? ""
+            noteText += "## \(reference)\n\n"
+        }
+        
+        // Process the main content
+        var content = try element.text()
+        
+        // Remove the verse reference from the content if it exists
+        if let firstRef = try element.select("span.rsb-studynote-bold").first() {
+            content = content.replacingOccurrences(of: try firstRef.text(), with: "")
+        }
+        
+        // Clean up the content
+        content = content.trimmingCharacters(in: .whitespacesAndNewlines)
+        
+        if !content.isEmpty {
+            noteText += "\(content)\n\n"
+        }
+        
+        return noteText
     }
     
     private func processElementRecursively(_ element: Element) throws -> String {

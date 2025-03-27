@@ -55,7 +55,7 @@ enum BibleFileType {
     }
 }
 
-enum SupplementaryType {
+enum SupplementaryType: Hashable {
     case map
     case concordance
     case articles

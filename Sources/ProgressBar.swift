@@ -1,11 +1,17 @@
 import Foundation
 
 struct ProgressBar {
-    var current = 0
+    var current = 0 {
+        didSet {
+            if current > total {
+                current = total
+            }
+        }
+    }
     var total = 0
     private let width = 40
     
-    func draw() {
+    mutating func draw() {
         let percent = Double(current) / Double(total)
         let filled = Int(Double(width) * percent)
         let empty = width - filled
@@ -19,4 +25,3 @@ struct ProgressBar {
         fflush(stdout)
     }
 }
-

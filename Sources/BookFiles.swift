@@ -16,6 +16,16 @@ struct BookFiles {
     var footnotesFile: String?
     var crossRefsFile: String?
     var supplementaryFiles: [SupplementaryType: [String]] = [:]
+    
+    // Add validation
+    var isValid: Bool {
+        return mainTextFiles.count > 0
+    }
+    
+    // Add helper for output path
+    func outputPath(for filename: String) -> String {
+        return "books/\(book.fileName)/\(filename)"
+    }
 }
 
 enum BibleFileType {
@@ -53,6 +63,14 @@ enum BibleFileType {
         
         return nil
     }
+}
+
+enum ConversionWarning: String {
+    case missingMainText = "Book is missing main text file"
+    case multipleCrossRefs = "Multiple cross reference files found"
+    case multipleFootnotes = "Multiple footnote files found"
+    case multipleStudyNotes = "Multiple study note files found"
+    case unknownFileType = "Unknown file type"
 }
 
 enum SupplementaryType: Hashable {

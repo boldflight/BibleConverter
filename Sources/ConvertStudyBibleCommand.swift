@@ -14,8 +14,32 @@ struct ConvertStudyBibleCommand: ParsableCommand {
     @Argument(help: "Output directory for markdown files")
     var outputPath: String
     
+    // Move to static properties
+    private static let ignoredFiles: Set<String> = [
+        "nav.xhtml",
+        "toc.xhtml",
+        "toc.ncx",
+        "content.opf",
+        "cover.xhtml",
+        "styles"
+    ]
+    
+    private static let outputDirectories: [String] = [
+        "books",
+        "supplementary/maps",
+        "supplementary/concordance",
+        "supplementary/articles",
+        "supplementary/topical",
+        "supplementary/historical",
+        "supplementary/theological",
+        "supplementary/other"
+    ]
+    
     mutating func run() throws {
         print("\nConverting ESV Study Bible content to Markdown...")
+        
+        // Create output directory structure
+        try createOutputDirectories()
         
         let fileManager = FileManager.default
         let inputURL = URL(fileURLWithPath: inputPath)
@@ -27,15 +51,36 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             throw ConversionError.unableToReadFile
         }
         
+        // Track progress
+        var progressBar = ProgressBar(total: files.count)
+        var processedCount = 0
+        var errorCount = 0
+        let warningCount = 0
+        
+        // Separate general introductions and other materials
+        var generalIntros: [String] = []
+        var supplementaryFiles: [SupplementaryType: [String]] = [:]
+        
         // Group files by book
         var bookGroups: [BibleBook: BookFiles] = [:]
         
         for file in files where file.pathExtension == "xhtml" {
             let filename = file.lastPathComponent
             
+            // Skip ignored files
+            if Self.ignoredFiles.contains(filename) {
+                continue
+            }
+            
+            // Handle general introductions
+            if filename.hasSuffix("intro.xhtml") && !filename.contains("/") {
+                generalIntros.append(filename)
+                continue
+            }
+            
+            // Handle supplementary files
             if let suppType = SupplementaryType.detect(from: filename) {
-                // Handle supplementary files separately
-                try convertSupplementaryFile(named: filename, type: suppType)
+                supplementaryFiles[suppType, default: []].append(filename)
                 continue
             }
             
@@ -103,9 +148,80 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if let file = files.crossRefsFile {
                 try convertFile(named: file, outputName: "\(baseFileName)_cross_references")
             }
+            
+            processedCount += 1
+            progressBar.current = processedCount
+            progressBar.draw()
         }
         
+        // Convert general introductions
+        print("\nConverting general introductions...")
+        for file in generalIntros {
+            do {
+                try convertGeneralIntro(named: file)
+                processedCount += 1
+                progressBar.current = processedCount
+                progressBar.draw()
+            } catch {
+                errorCount += 1
+                print("Warning: Failed to convert \(file): \(error)")
+            }
+        }
+        
+        // Convert supplementary materials
+        print("\nConverting supplementary materials...")
+        for (type, files) in supplementaryFiles {
+            for file in files {
+                do {
+                    try convertSupplementaryFile(named: file, type: type)
+                    processedCount += 1
+                    progressBar.current = processedCount
+                    progressBar.draw()
+                } catch {
+                    errorCount += 1
+                    print("Warning: Failed to convert \(file): \(error)")
+                }
+            }
+        }
+        
+        // Print summary
         print("\nConversion complete!")
+        print("Processed: \(processedCount) files")
+        print("Warnings: \(warningCount)")
+        print("Errors: \(errorCount)")
+    }
+    
+    private func createOutputDirectories() throws {
+        let fileManager = FileManager.default
+        let baseURL = URL(fileURLWithPath: outputPath)
+        
+        for directory in Self.outputDirectories {
+            let directoryURL = baseURL.appendingPathComponent(directory)
+            try? fileManager.createDirectory(at: directoryURL,
+                                          withIntermediateDirectories: true)
+        }
+    }
+    
+    private func convertGeneralIntro(named filename: String) throws {
+        let outputName = filename.replacingOccurrences(of: ".xhtml", with: "")
+        let outputPath = "supplementary/introductions/\(outputName)"
+        try convertFile(named: filename, outputName: outputPath)
+    }
+    
+    private func convertSupplementaryFile(named filename: String, type: SupplementaryType) throws {
+        let outputName = filename.replacingOccurrences(of: ".xhtml", with: "")
+        let directory = switch type {
+        case .map: "maps"
+        case .concordance: "concordance"
+        case .articles: "articles"
+        case .topical: "topical"
+        case .historical: "historical"
+        case .theological: "theological"
+        case .other: "other"
+        }
+        
+        let outputPath = "supplementary/\(directory)/\(outputName)"
+        try convertFile(named: filename, outputName: outputPath)
     }
     
     private func convertFile(named fileName: String, outputName: String) throws {
@@ -301,7 +417,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                         }
                     }
                     
-                    currentElement = try element.nextElementSibling()
+                    currentElement = try currentElement?.nextElementSibling()
                 }
                 
                 markdown += "\n---\n\n"
@@ -346,7 +462,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                         }
                     }
                     
-                    currentElement = try element.nextElementSibling()
+                    currentElement = try currentElement?.nextElementSibling()
                 }
                 
                 markdown += "\n---\n\n"
@@ -613,11 +729,6 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             }
         }
         return .utf8
-    }
-    
-    private func convertSupplementaryFile(named filename: String, type: SupplementaryType) throws {
-        let outputName = filename.replacingOccurrences(of: ".xhtml", with: "")
-        try convertFile(named: filename, outputName: outputName)
     }
     
     enum ConversionError: Error {

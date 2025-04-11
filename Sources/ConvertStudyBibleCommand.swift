@@ -749,48 +749,32 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         
         do {
             let document = try SwiftSoup.parse(content)
-            let sections = try document.select("p.notesubhead")
             
-            for section in sections {
-                let chapterTitle = try section.text()
-                markdown += "# \(chapterTitle)\n\n"
+            let footnotes = try document.select("aside[epub\\:type=footnote]")
+            
+            for footnote in footnotes {
+                let noteId = footnote.id()
+                markdown += "[^\(noteId)] "
                 
-                var currentElement = try section.nextElementSibling()
-                
-                while let element = currentElement {
-                    if element.tagName() == "p" {
-                        let className = try element.className()
-                        
-                        if className == "notesubhead" {
-                            break
-                        }
-                        
-                        if className == "note" {
-                            let footnoteText = try processFootnote(element)
-                            markdown += footnoteText
-                        } else if element.hasClass("crossref") {
-                            let crossrefText = try processCrossReference(element)
-                            markdown += crossrefText
-                        }
-                    } else if element.tagName() == "aside" {
-                        let epubType = try element.attr("epub:type")
-                        let id = element.id()
-                        
-                        if epubType == "footnote" {
-                            markdown += "[^\(id)]:"
-                            let footnoteContent = try processElementRecursively(element)
-                            markdown += " \(footnoteContent)\n\n"
-                        }
-                    }
+                let paragraphs = try footnote.select("p")
+                for paragraph in paragraphs {
+                    try paragraph.select("b").unwrap()
+                    try paragraph.select("small").wrap("<strong>")
                     
-                    currentElement = try currentElement?.nextElementSibling()
+                    let text = try paragraph.text()
+                        .replacingOccurrences(of: "LORD", with: "Lord")
+                        .trimmingCharacters(in: .whitespacesAndNewlines)
+                    
+                    if !text.isEmpty {
+                        markdown += text + " "
+                    }
                 }
                 
-                markdown += "\n---\n\n"
+                markdown += "\n\n"
             }
             
         } catch {
-            print("Error parsing XHTML: \(error)")
+            if debug { print("Error parsing footnotes: \(error)") }
             throw error
         }
         

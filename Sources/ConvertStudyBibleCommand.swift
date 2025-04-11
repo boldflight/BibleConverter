@@ -672,8 +672,14 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         do {
             let document = try SwiftSoup.parse(content)
             
-            if let titleSection = try document.select("p.ArticleSec").first() {
-                let title = try titleSection.text()
+            if debug {
+                print("\nConverting outline content...")
+                print("Document structure:")
+                print(try document.select("body").first()?.html() ?? "No body found")
+            }
+            
+            if let titleElement = try document.select("p.ArticleSec").first() {
+                let title = try titleElement.text()
                 markdown += "# \(title)\n\n"
             }
             
@@ -681,21 +687,26 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             
             for element in outlineElements {
                 let className = try element.className()
-                let text = try element.text()
+                let text = try element.text().trimmingCharacters(in: .whitespacesAndNewlines)
                 
-                let parts = text.components(separatedBy: " ")
-                let content = parts.dropFirst().joined(separator: " ")
+                if text.isEmpty { continue }
                 
-                if className.contains("Teir1") {
-                    markdown += "## \(content)\n\n"
+                if className.contains("Teir1") || className.contains("Tier1") {
+                    markdown += "## \(text)\n\n"
                 } else if className.contains("tier-2") {
-                    markdown += "* \(content)\n"
+                    markdown += "* \(text)\n"
                 } else {
-                    markdown += "  * \(content)\n"
+                    markdown += "  * \(text)\n"
                 }
             }
+            
+            if debug {
+                print("\nProcessed outline elements:")
+                print(markdown)
+            }
+            
         } catch {
-            print("Error parsing XHTML: \(error)")
+            if debug { print("Error parsing outline: \(error)") }
             throw error
         }
         

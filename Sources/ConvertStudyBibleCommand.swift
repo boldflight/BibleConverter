@@ -40,7 +40,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
     
     private static let debugLimit = 100
     
-    private var seenElements: Set<String> = []
+    nonisolated(unsafe) private static var seenElements: Set<String> = []
     
     mutating func run() throws {
         print("\nConverting ESV Study Bible content to Markdown...")
@@ -52,8 +52,8 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             .appendingPathComponent("OEBPS")
         
         guard let files = try? fileManager.contentsOfDirectory(at: inputURL,
-                                                             includingPropertiesForKeys: nil,
-                                                             options: [.skipsHiddenFiles]) else {
+                                                               includingPropertiesForKeys: nil,
+                                                               options: [.skipsHiddenFiles]) else {
             throw ConversionError.unableToReadFile
         }
         
@@ -131,12 +131,12 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             
             let bookOutputDir = "\(outputPath)/books/\(files.book.fileName)"
             try? fileManager.createDirectory(at: URL(fileURLWithPath: bookOutputDir),
-                                          withIntermediateDirectories: true)
+                                             withIntermediateDirectories: true)
             
             if let file = files.introFile {
                 do {
                     try convertFile(named: file,
-                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_introduction")
+                                    outputName: "books/\(files.book.fileName)/\(files.book.fileName)_introduction")
                     processedCount += 1
                 } catch {
                     errorCount += 1
@@ -147,7 +147,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if let file = files.outlineFile {
                 do {
                     try convertFile(named: file,
-                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_outline")
+                                    outputName: "books/\(files.book.fileName)/\(files.book.fileName)_outline")
                     processedCount += 1
                 } catch {
                     errorCount += 1
@@ -159,7 +159,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 do {
                     let suffix = index == 0 ? "" : "_\(index + 1)"
                     try convertFile(named: file,
-                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_text\(suffix)")
+                                    outputName: "books/\(files.book.fileName)/\(files.book.fileName)_text\(suffix)")
                     processedCount += 1
                 } catch {
                     errorCount += 1
@@ -170,7 +170,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if let file = files.studyNotesFile {
                 do {
                     try convertFile(named: file,
-                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_study_notes")
+                                    outputName: "books/\(files.book.fileName)/\(files.book.fileName)_study_notes")
                     processedCount += 1
                 } catch {
                     errorCount += 1
@@ -181,7 +181,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if let file = files.footnotesFile {
                 do {
                     try convertFile(named: file,
-                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_footnotes")
+                                    outputName: "books/\(files.book.fileName)/\(files.book.fileName)_footnotes")
                     processedCount += 1
                 } catch {
                     errorCount += 1
@@ -192,7 +192,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if let file = files.crossRefsFile {
                 do {
                     try convertFile(named: file,
-                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_cross_references")
+                                    outputName: "books/\(files.book.fileName)/\(files.book.fileName)_cross_references")
                     processedCount += 1
                 } catch {
                     errorCount += 1
@@ -249,7 +249,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         for directory in Self.outputDirectories {
             let directoryURL = baseURL.appendingPathComponent(directory)
             try? fileManager.createDirectory(at: directoryURL,
-                                          withIntermediateDirectories: true)
+                                             withIntermediateDirectories: true)
         }
     }
     
@@ -317,7 +317,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             .appendingPathExtension("md")
         
         try FileManager.default.createDirectory(at: outputURL.deletingLastPathComponent(),
-                                             withIntermediateDirectories: true)
+                                                withIntermediateDirectories: true)
         
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
     }
@@ -329,15 +329,25 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             let document = try SwiftSoup.parse(content)
             
             if debug {
-                print("\nParsing concordance content...")
-                print("Document structure:")
-                print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
+                if let body = try document.select("body").first() {
+                    let elementKey = "\(body.tagName())-\(try body.className())"
+                    if !ConvertStudyBibleCommand.seenElements.contains(elementKey) {
+                        print("\nParsing concordance content...")
+                        print("Document structure:")
+                        print(try body.html().prefix(ConvertStudyBibleCommand.debugLimit))
+                        ConvertStudyBibleCommand.seenElements.insert(elementKey)
+                    }
+                }
             }
             
             let entries = try document.select("div.concordance-entry, div.entry, p.concordance, p.concordanceentry, p.entry, .concordance-item")
             
             if entries.isEmpty() && debug {
-                print("No entries found with standard concordance classes")
+                let elementKey = "concordance-entries-empty"
+                if !ConvertStudyBibleCommand.seenElements.contains(elementKey) {
+                    print("No entries found with standard concordance classes")
+                    ConvertStudyBibleCommand.seenElements.insert(elementKey)
+                }
             }
             
             for entry in entries {
@@ -355,8 +365,11 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                     let className = try element.className()
                     
                     if debug {
-                        print("Processing element: \(tag) with class: \(className)")
-                    }
+                        let elementKey = "\(tag)-\(className)"
+                        if !ConvertStudyBibleCommand.seenElements.contains(elementKey) {
+                            print("Processing element: \(tag) with class: \(className)")
+                            ConvertStudyBibleCommand.seenElements.insert(elementKey)
+                        }                    }
                     
                     if ["nav", "header", "footer"].contains(tag) {
                         continue
@@ -396,9 +409,15 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             let document = try SwiftSoup.parse(content)
             
             if debug {
-                print("\nParsing map content...")
-                print("Document structure:")
-                print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
+                if let body = try document.select("body").first() {
+                    let elementKey = "\(body.tagName())-\(try body.className())"
+                    if !ConvertStudyBibleCommand.seenElements.contains(elementKey) {
+                        print("\nParsing map content...")
+                        print("Document structure:")
+                        print(try body.html().prefix(ConvertStudyBibleCommand.debugLimit))
+                        ConvertStudyBibleCommand.seenElements.insert(elementKey)
+                    }
+                }
             }
             
             let elements = try document.select("body *")
@@ -410,7 +429,11 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 let text = try element.text().trimmingCharacters(in: .whitespacesAndNewlines)
                 
                 if debug {
-                    print("Processing element: \(tag) with class: \(className)")
+                    let elementKey = "\(tag)-\(className)"
+                    if !ConvertStudyBibleCommand.seenElements.contains(elementKey) {
+                        print("Processing element: \(tag) with class: \(className)")
+                        ConvertStudyBibleCommand.seenElements.insert(elementKey)
+                    }
                 }
                 
                 if text.isEmpty {
@@ -437,9 +460,13 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             }
             
             if !hasContent && debug {
-                print("Warning: No content found in map document")
-                print("Full HTML:")
-                print(try document.html().prefix(ConvertStudyBibleCommand.debugLimit))
+                let warningKey = "no-content-warning-map"
+                if !ConvertStudyBibleCommand.seenElements.contains(warningKey) {
+                    print("Warning: No content found in map document")
+                    print("Full HTML:")
+                    print(try document.html().prefix(ConvertStudyBibleCommand.debugLimit))
+                    ConvertStudyBibleCommand.seenElements.insert(warningKey)
+                }
             }
             
         } catch {
@@ -541,9 +568,15 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             let document = try SwiftSoup.parse(content)
             
             if debug {
-                print("\nParsing generic supplementary content...")
-                print("Document structure:")
-                print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
+                if let body = try document.select("body").first() {
+                    let elementKey = "\(body.tagName())-\(try body.className())"
+                    if !ConvertStudyBibleCommand.seenElements.contains(elementKey) {
+                        print("\nParsing generic supplementary content...")
+                        print("Document structure:")
+                        print(try body.html().prefix(ConvertStudyBibleCommand.debugLimit))
+                        ConvertStudyBibleCommand.seenElements.insert(elementKey)
+                    }
+                }
             }
             
             if let section = try document.select("section[title]").first() {
@@ -561,9 +594,9 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 
                 if debug {
                     let elementKey = "\(tag)-\(className)"
-                    if !seenElements.contains(elementKey) {
+                    if !ConvertStudyBibleCommand.seenElements.contains(elementKey) {
                         print("Processing new element type: \(tag) with class: \(className)")
-                        seenElements.insert(elementKey)
+                        ConvertStudyBibleCommand.seenElements.insert(elementKey)
                     }
                 }
                 
@@ -619,9 +652,13 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             hasContent = hasContent || hasValidImage
             
             if !hasContent && debug {
-                print("Warning: No content found in document")
-                print("Full HTML:")
-                print(try document.html().prefix(ConvertStudyBibleCommand.debugLimit))
+                let warningKey = "no-content-warning-supplementary"
+                if !ConvertStudyBibleCommand.seenElements.contains(warningKey) {
+                    print("Warning: No content found in document")
+                    print("Full HTML:")
+                    print(try document.html().prefix(ConvertStudyBibleCommand.debugLimit))
+                    ConvertStudyBibleCommand.seenElements.insert(warningKey)
+                }
             }
             
         } catch {
@@ -669,7 +706,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             .appendingPathExtension("md")
         
         try FileManager.default.createDirectory(at: outputURL.deletingLastPathComponent(),
-                                             withIntermediateDirectories: true)
+                                                withIntermediateDirectories: true)
         
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
         

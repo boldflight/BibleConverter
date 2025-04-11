@@ -14,7 +14,9 @@ struct ConvertStudyBibleCommand: ParsableCommand {
     @Argument(help: "Output directory for markdown files")
     var outputPath: String
     
-    // Move to static properties
+    @Flag(name: .long, help: "Enable verbose debugging output")
+    var debug = false
+    
     private static let ignoredFiles: Set<String> = [
         "nav.xhtml",
         "toc.xhtml",
@@ -32,13 +34,13 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         "supplementary/topical",
         "supplementary/historical",
         "supplementary/theological",
-        "supplementary/other"
+        "supplementary/other",
+        "supplementary/introductions"
     ]
     
     mutating func run() throws {
         print("\nConverting ESV Study Bible content to Markdown...")
         
-        // Create output directory structure
         try createOutputDirectories()
         
         let fileManager = FileManager.default
@@ -51,47 +53,50 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             throw ConversionError.unableToReadFile
         }
         
-        // Track progress
+        if debug {
+            print("\nFound files:")
+            files.forEach { print($0.lastPathComponent) }
+        }
+        
         var progressBar = ProgressBar(total: files.count)
         var processedCount = 0
         var errorCount = 0
-        let warningCount = 0
+        var warningCount = 0
         
-        // Separate general introductions and other materials
-        var generalIntros: [String] = []
-        var supplementaryFiles: [SupplementaryType: [String]] = [:]
-        
-        // Group files by book
         var bookGroups: [BibleBook: BookFiles] = [:]
+        var supplementaryFiles: [SupplementaryType: [String]] = [:]
+        var generalIntros: [String] = []
         
         for file in files where file.pathExtension == "xhtml" {
             let filename = file.lastPathComponent
             
-            // Skip ignored files
             if Self.ignoredFiles.contains(filename) {
+                if debug { print("Skipping ignored file: \(filename)") }
                 continue
             }
             
-            // Handle general introductions
             if filename.hasSuffix("intro.xhtml") && !filename.contains("/") {
                 generalIntros.append(filename)
                 continue
             }
             
-            // Handle supplementary files
             if let suppType = SupplementaryType.detect(from: filename) {
                 supplementaryFiles[suppType, default: []].append(filename)
                 continue
             }
             
-            // Extract book code (e.g., "1_Chr", "Gen", "Ps")
             let fileCode = filename.prefix { $0 != "t" && $0 != "i" && $0 != "o" }
                 .replacingOccurrences(of: "text", with: "")
                 .replacingOccurrences(of: "intro", with: "")
                 .replacingOccurrences(of: "outline", with: "")
+                .trimmingCharacters(in: .whitespaces)
+            
+            if debug { print("Processing file: \(filename) with code: \(fileCode)") }
             
             guard let book = BibleBook.allCases.first(where: { $0.fileName == fileCode }),
                   let fileType = BibleFileType.detect(from: filename) else {
+                if debug { print("Warning: Could not determine book or file type for \(filename)") }
+                warningCount += 1
                 continue
             }
             
@@ -117,44 +122,84 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             bookGroups[book] = bookFiles
         }
         
-        // Process each book
         for (_, files) in bookGroups.sorted(by: { $0.key.canonicalOrder < $1.key.canonicalOrder }) {
-            print("Converting \(files.book.displayName)...")
+            print("\nConverting \(files.book.displayName)...")
             
-            let baseFileName = files.book.fileName
+            let bookOutputDir = "\(outputPath)/books/\(files.book.fileName)"
+            try? fileManager.createDirectory(at: URL(fileURLWithPath: bookOutputDir),
+                                          withIntermediateDirectories: true)
             
             if let file = files.introFile {
-                try convertFile(named: file, outputName: "\(baseFileName)_introduction")
+                do {
+                    try convertFile(named: file,
+                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_introduction")
+                    processedCount += 1
+                } catch {
+                    errorCount += 1
+                    print("Error converting introduction for \(files.book.displayName): \(error)")
+                }
             }
             
             if let file = files.outlineFile {
-                try convertFile(named: file, outputName: "\(baseFileName)_outline")
+                do {
+                    try convertFile(named: file,
+                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_outline")
+                    processedCount += 1
+                } catch {
+                    errorCount += 1
+                    print("Error converting outline for \(files.book.displayName): \(error)")
+                }
             }
             
-            // Convert all main text files
             for (index, file) in files.mainTextFiles.enumerated() {
-                let suffix = index == 0 ? "" : "_\(index + 1)"
-                try convertFile(named: file, outputName: "\(baseFileName)_text\(suffix)")
+                do {
+                    let suffix = index == 0 ? "" : "_\(index + 1)"
+                    try convertFile(named: file,
+                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_text\(suffix)")
+                    processedCount += 1
+                } catch {
+                    errorCount += 1
+                    print("Error converting text file \(index + 1) for \(files.book.displayName): \(error)")
+                }
             }
             
             if let file = files.studyNotesFile {
-                try convertFile(named: file, outputName: "\(baseFileName)_study_notes")
+                do {
+                    try convertFile(named: file,
+                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_study_notes")
+                    processedCount += 1
+                } catch {
+                    errorCount += 1
+                    print("Error converting study notes for \(files.book.displayName): \(error)")
+                }
             }
             
             if let file = files.footnotesFile {
-                try convertFile(named: file, outputName: "\(baseFileName)_footnotes")
+                do {
+                    try convertFile(named: file,
+                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_footnotes")
+                    processedCount += 1
+                } catch {
+                    errorCount += 1
+                    print("Error converting footnotes for \(files.book.displayName): \(error)")
+                }
             }
             
             if let file = files.crossRefsFile {
-                try convertFile(named: file, outputName: "\(baseFileName)_cross_references")
+                do {
+                    try convertFile(named: file,
+                                  outputName: "books/\(files.book.fileName)/\(files.book.fileName)_cross_references")
+                    processedCount += 1
+                } catch {
+                    errorCount += 1
+                    print("Error converting cross references for \(files.book.displayName): \(error)")
+                }
             }
             
-            processedCount += 1
             progressBar.current = processedCount
             progressBar.draw()
         }
         
-        // Convert general introductions
         print("\nConverting general introductions...")
         for file in generalIntros {
             do {
@@ -164,11 +209,10 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 progressBar.draw()
             } catch {
                 errorCount += 1
-                print("Warning: Failed to convert \(file): \(error)")
+                print("Error converting general intro \(file): \(error)")
             }
         }
         
-        // Convert supplementary materials
         print("\nConverting supplementary materials...")
         for (type, files) in supplementaryFiles {
             for file in files {
@@ -179,16 +223,19 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                     progressBar.draw()
                 } catch {
                     errorCount += 1
-                    print("Warning: Failed to convert \(file): \(error)")
+                    print("Error converting supplementary file \(file): \(error)")
                 }
             }
         }
         
-        // Print summary
         print("\nConversion complete!")
         print("Processed: \(processedCount) files")
         print("Warnings: \(warningCount)")
         print("Errors: \(errorCount)")
+        
+        if errorCount > 0 || warningCount > 0 {
+            print("\nPlease check the console output above for specific error messages.")
+        }
     }
     
     private func createOutputDirectories() throws {
@@ -251,11 +298,21 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             markdown = try convertIntroToMarkdown(content)
         }
         
+        guard !markdown.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else {
+            if debug { print("Warning: Empty markdown content for \(fileName)") }
+            throw ConversionError.emptyContent
+        }
+        
         let outputURL = URL(fileURLWithPath: outputPath)
             .appendingPathComponent(outputName)
             .appendingPathExtension("md")
         
+        try FileManager.default.createDirectory(at: outputURL.deletingLastPathComponent(),
+                                             withIntermediateDirectories: true)
+        
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
+        
+        if debug { print("Successfully converted \(fileName) to \(outputURL.path)") }
     }
     
     private func convertIntroToMarkdown(_ content: String) throws -> String {
@@ -484,7 +541,6 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             let sections = try document.select("section")
             
             for section in sections {
-                // Process theological boxes first
                 let theoBoxes = try section.select("div.gbox")
                 for box in theoBoxes {
                     if let header = try box.select("p.theohead").first() {
@@ -500,13 +556,11 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                     markdown += "---\n\n"
                 }
                 
-                // Process regular headings
                 if let headingElements = try section.select("p.heading").first() {
                     let heading = try headingElements.text()
                     markdown += "### \(heading)\n\n"
                 }
                 
-                // Process main content
                 let paragraphs = try section.select("p.p-first, p.p, p.poetrybreak, p.poetry, p.poetry-first, p.poetry-indent, p.poetry-indent-last, p.otpoetry")
                 var currentVerseBlock = ""
                 
@@ -543,7 +597,6 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                                 let noteId = try element.select("a").attr("href")
                                 currentVerseBlock += "[*](\(noteId))"
                             } else if element.tagName() == "small" {
-                                // Handle small caps for LORD
                                 currentVerseBlock += "**\(try element.text())**"
                             } else {
                                 currentVerseBlock += try element.text()
@@ -556,7 +609,6 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                     markdown += currentVerseBlock + "\n\n"
                 }
                 
-                // Process navigation links
                 if let navLink = try section.select("p.centerr").first() {
                     let link = try navLink.text()
                     markdown += "\n---\n\n➜ \(link)\n\n"
@@ -637,7 +689,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         var footnoteText = ""
         
         if let noteRef = try element.select("span.note-in-note").first(),
-           let link = try noteRef.select("a").first() {
+           let link = try element.select("a").first() {
             let refNumber = try link.text()
             footnoteText += "[^\(refNumber)]"
         }
@@ -734,5 +786,6 @@ struct ConvertStudyBibleCommand: ParsableCommand {
     enum ConversionError: Error {
         case fileNotFound
         case unableToReadFile
+        case emptyContent
     }
 }

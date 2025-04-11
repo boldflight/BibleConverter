@@ -294,7 +294,13 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             markdown = try convertGenericSupplementaryToMarkdown(content)
         }
         
-        guard !markdown.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else {
+        let hasImage = try SwiftSoup.parse(content)
+            .select("img[src]")
+            .first() != nil
+            
+        let trimmedMarkdown = markdown.trimmingCharacters(in: .whitespacesAndNewlines)
+        
+        if !hasImage && trimmedMarkdown.isEmpty {
             if debug {
                 print("Warning: Empty markdown content for \(filename)")
                 print("Content type: \(type)")
@@ -538,22 +544,58 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
             }
             
-            if let title = try document.select("h1, h2, .title, .header, div[class*=title], div[class*=header]").first() {
-                markdown += "# \(try title.text())\n\n"
+            if let section = try document.select("section[title]").first() {
+                let title = try section.attr("title")
+                markdown += "# \(title)\n\n"
             }
             
             let elements = try document.select("body *")
             var hasContent = false
+            var hasValidImage = false
             
             for element in elements {
                 let tag = element.tagName()
                 let className = try element.className()
-                let text = try processElementRecursively(element)
                 
                 if debug {
                     print("Processing element: \(tag) with class: \(className)")
                 }
                 
+                if tag == "img" {
+                    let src = try element.attr("src")
+                    if !src.isEmpty {
+                        hasValidImage = true
+                        let alt = try element.attr("alt")
+                        markdown += "![Image: \(alt)](\(src))\n\n"
+                    }
+                    continue
+                }
+                
+                if tag == "figcaption" {
+                    hasContent = true
+                    let caption = try element.text().trimmingCharacters(in: .whitespacesAndNewlines)
+                    if !caption.isEmpty {
+                        markdown += "_\(caption)_\n\n"
+                    }
+                    continue
+                }
+                
+                if className.hasPrefix("INTRO---Outline") {
+                    hasContent = true
+                    let text = try element.text().trimmingCharacters(in: .whitespacesAndNewlines)
+                    if !text.isEmpty {
+                        if className.contains("Teir1") || className.contains("Tier1") {
+                            markdown += "## \(text)\n\n"
+                        } else if className.contains("tier-2") {
+                            markdown += "* \(text)\n"
+                        } else {
+                            markdown += "  * \(text)\n"
+                        }
+                    }
+                    continue
+                }
+                
+                let text = try processElementRecursively(element)
                 if !text.isEmpty {
                     hasContent = true
                     
@@ -567,6 +609,8 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                     }
                 }
             }
+            
+            hasContent = hasContent || hasValidImage
             
             if !hasContent && debug {
                 print("Warning: No content found in document")
@@ -720,7 +764,6 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         
         do {
             let document = try SwiftSoup.parse(content)
-            
             let sections = try document.select("p.notesubhead")
             
             for section in sections {

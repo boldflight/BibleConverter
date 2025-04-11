@@ -89,11 +89,14 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 continue
             }
             
-            let fileCode = filename.prefix { $0 != "t" && $0 != "i" && $0 != "o" }
+            let baseFilename = filename.replacingOccurrences(of: ".xhtml", with: "")
+            let fileCode = baseFilename
                 .replacingOccurrences(of: "text", with: "")
                 .replacingOccurrences(of: "intro", with: "")
                 .replacingOccurrences(of: "outline", with: "")
-                .trimmingCharacters(in: .whitespaces)
+                .components(separatedBy: CharacterSet.decimalDigits.union(.punctuationCharacters))
+                .first?
+                .trimmingCharacters(in: .whitespaces) ?? ""
             
             if debug { print("Processing file: \(filename) with code: \(fileCode)") }
             

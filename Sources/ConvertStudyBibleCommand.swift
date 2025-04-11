@@ -267,8 +267,254 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         case .other: "other"
         }
         
+        let fileURL = URL(fileURLWithPath: inputPath)
+            .appendingPathComponent("OEBPS")
+            .appendingPathComponent(filename)
+        
+        guard FileManager.default.fileExists(atPath: fileURL.path) else {
+            throw ConversionError.fileNotFound
+        }
+        
+        let encoding = try detectEncoding(from: fileURL)
+        let content = try String(contentsOf: fileURL, encoding: encoding)
+        
+        let markdown: String
+        switch type {
+        case .concordance:
+            markdown = try convertConcordanceToMarkdown(content)
+        case .map:
+            markdown = try convertMapToMarkdown(content)
+        case .topical:
+            markdown = try convertTopicalToMarkdown(content)
+        case .articles:
+            markdown = try convertArticleToMarkdown(content)
+        default:
+            markdown = try convertGenericSupplementaryToMarkdown(content)
+        }
+        
+        guard !markdown.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else {
+            if debug {
+                print("Warning: Empty markdown content for \(filename)")
+                print("Content type: \(type)")
+                print("Raw content sample: \(String(content.prefix(200)))")
+            }
+            throw ConversionError.emptyContent
+        }
+        
         let outputPath = "supplementary/\(directory)/\(outputName)"
-        try convertFile(named: filename, outputName: outputPath)
+        let outputURL = URL(fileURLWithPath: self.outputPath)
+            .appendingPathComponent(outputPath)
+            .appendingPathExtension("md")
+        
+        try FileManager.default.createDirectory(at: outputURL.deletingLastPathComponent(),
+                                             withIntermediateDirectories: true)
+        
+        try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
+    }
+    
+    private func convertConcordanceToMarkdown(_ content: String) throws -> String {
+        var markdown = ""
+        
+        do {
+            let document = try SwiftSoup.parse(content)
+            
+            if let title = try document.select("h1, h2, .title").first() {
+                markdown += "# \(try title.text())\n\n"
+            }
+            
+            // Handle concordance entries
+            let entries = try document.select("p.concordance, p.concordanceentry, p.entry")
+            for entry in entries {
+                let entryText = try processElementRecursively(entry)
+                if !entryText.isEmpty {
+                    markdown += "- \(entryText)\n\n"
+                }
+            }
+            
+            // Handle definition lists if present
+            let dls = try document.select("dl")
+            for dl in dls {
+                let terms = try dl.select("dt")
+                let definitions = try dl.select("dd")
+                
+                for (i, term) in terms.enumerated() {
+                    let termText = try term.text()
+                    let defText = i < definitions.count ? try definitions[i].text() : ""
+                    markdown += "**\(termText)**: \(defText)\n\n"
+                }
+            }
+        } catch {
+            if debug { print("Error parsing concordance: \(error)") }
+            throw error
+        }
+        
+        return markdown
+    }
+    
+    private func convertMapToMarkdown(_ content: String) throws -> String {
+        var markdown = ""
+        
+        do {
+            let document = try SwiftSoup.parse(content)
+            
+            // Handle map title
+            if let title = try document.select("h1, h2, .title, p.maptitle").first() {
+                markdown += "# \(try title.text())\n\n"
+            }
+            
+            // Handle map description and references
+            let descriptions = try document.select("p.mapdescription, p.description, p.text")
+            for desc in descriptions {
+                let text = try processElementRecursively(desc)
+                if !text.isEmpty {
+                    markdown += "\(text)\n\n"
+                }
+            }
+            
+            // Handle map references if any
+            let refs = try document.select("p.mapref, p.reference")
+            for ref in refs {
+                let text = try processElementRecursively(ref)
+                if !text.isEmpty {
+                    markdown += "_Reference: \(text)_\n\n"
+                }
+            }
+        } catch {
+            if debug { print("Error parsing map: \(error)") }
+            throw error
+        }
+        
+        return markdown
+    }
+    
+    private func convertTopicalToMarkdown(_ content: String) throws -> String {
+        var markdown = ""
+        
+        do {
+            let document = try SwiftSoup.parse(content)
+            
+            // Handle title
+            if let title = try document.select("h1, h2, .title, p.topictitle").first() {
+                markdown += "# \(try title.text())\n\n"
+            }
+            
+            // Handle topic sections
+            let sections = try document.select("div.topic, div.section")
+            if !sections.isEmpty() {
+                for section in sections {
+                    if let sectionTitle = try section.select("h3, h4, p.sectiontitle").first() {
+                        markdown += "## \(try sectionTitle.text())\n\n"
+                    }
+                    
+                    let paragraphs = try section.select("p:not(.sectiontitle)")
+                    for p in paragraphs {
+                        let text = try processElementRecursively(p)
+                        if !text.isEmpty {
+                            markdown += "\(text)\n\n"
+                        }
+                    }
+                }
+            } else {
+                // If no sections, process all paragraphs
+                let paragraphs = try document.select("p:not(.topictitle)")
+                for p in paragraphs {
+                    let text = try processElementRecursively(p)
+                    if !text.isEmpty {
+                        markdown += "\(text)\n\n"
+                    }
+                }
+            }
+        } catch {
+            if debug { print("Error parsing topical: \(error)") }
+            throw error
+        }
+        
+        return markdown
+    }
+    
+    private func convertArticleToMarkdown(_ content: String) throws -> String {
+        var markdown = ""
+        
+        do {
+            let document = try SwiftSoup.parse(content)
+            
+            // Handle article title
+            if let title = try document.select("h1, h2, .title, p.articletitle").first() {
+                markdown += "# \(try title.text())\n\n"
+            }
+            
+            // Handle article sections
+            let sections = try document.select("div.section, div.article")
+            if !sections.isEmpty() {
+                for section in sections {
+                    if let sectionTitle = try section.select("h3, h4, p.sectiontitle").first() {
+                        markdown += "## \(try sectionTitle.text())\n\n"
+                    }
+                    
+                    let paragraphs = try section.select("p:not(.sectiontitle)")
+                    for p in paragraphs {
+                        let text = try processElementRecursively(p)
+                        if !text.isEmpty {
+                            markdown += "\(text)\n\n"
+                        }
+                    }
+                }
+            } else {
+                // If no sections, process all paragraphs
+                let paragraphs = try document.select("p:not(.articletitle)")
+                for p in paragraphs {
+                    let text = try processElementRecursively(p)
+                    if !text.isEmpty {
+                        markdown += "\(text)\n\n"
+                    }
+                }
+            }
+        } catch {
+            if debug { print("Error parsing article: \(error)") }
+            throw error
+        }
+        
+        return markdown
+    }
+    
+    private func convertGenericSupplementaryToMarkdown(_ content: String) throws -> String {
+        var markdown = ""
+        
+        do {
+            let document = try SwiftSoup.parse(content)
+            
+            // Handle title
+            if let title = try document.select("h1, h2, .title").first() {
+                markdown += "# \(try title.text())\n\n"
+            }
+            
+            // Process all paragraphs
+            let paragraphs = try document.select("p")
+            for p in paragraphs {
+                let text = try processElementRecursively(p)
+                if !text.isEmpty {
+                    markdown += "\(text)\n\n"
+                }
+            }
+            
+            // Process lists if present
+            let lists = try document.select("ul, ol")
+            for list in lists {
+                let items = try list.select("li")
+                for item in items {
+                    let text = try processElementRecursively(item)
+                    if !text.isEmpty {
+                        markdown += "- \(text)\n"
+                    }
+                }
+                markdown += "\n"
+            }
+        } catch {
+            if debug { print("Error parsing generic supplementary: \(error)") }
+            throw error
+        }
+        
+        return markdown
     }
     
     private func convertFile(named fileName: String, outputName: String) throws {

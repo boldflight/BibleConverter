@@ -261,7 +261,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 .appendingPathComponent(filename)
             if let content = try? String(contentsOf: fileURL, encoding: .utf8) {
                 print("Raw content sample:")
-                print(content)
+                print(content.prefix(ConvertStudyBibleCommand.debugLimit))
                 print("\nTrying selectors...")
             }
         }
@@ -307,7 +307,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                     if debug {
                         print("Element: \(element.tagName())")
                         print("Classes: \(try element.className())")
-                        print("Content preview: \(try element.text().prefix(100))")
+                        print("Content preview: \(try element.text().prefix(ConvertStudyBibleCommand.debugLimit))")
                     }
                     
                     let text = try processElementRecursively(element)
@@ -395,7 +395,8 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if debug {
                 print("Warning: Empty markdown content for \(filename)")
                 print("Content type: \(type)")
-                print("Raw content sample: \(String(content.prefix(ConvertStudyBibleCommand.debugLimit)))")
+                print("Raw content sample:")
+                print(content.prefix(ConvertStudyBibleCommand.debugLimit))
             }
             throw ConversionError.emptyContent
         }

@@ -261,7 +261,8 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 .appendingPathComponent(filename)
             if let content = try? String(contentsOf: fileURL, encoding: .utf8) {
                 print("Raw content sample:")
-                print(content.prefix(200))
+                print(content)
+                print("\nTrying selectors...")
             }
         }
 
@@ -287,17 +288,34 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             "div.content",
             "div.introduction",
             ".intro-content",
-            "article"
+            "article",
+            "p",
+            ".body",
+            ".ArticleSec",
+            ".INTRO---BODY-PROFORMA"
         ]
         
         var markdown = ""
         
         for selector in possibleSelectors {
+            if debug { print("Trying selector: \(selector)") }
+            
             if let elements = try? document.select(selector) {
+                if debug { print("Found \(elements.size()) elements with selector \(selector)") }
+                
                 for element in elements {
+                    if debug {
+                        print("Element: \(element.tagName())")
+                        print("Classes: \(try element.className())")
+                        print("Content preview: \(try element.text().prefix(100))")
+                    }
+                    
                     let text = try processElementRecursively(element)
                     if !text.isEmpty {
-                        if element.tagName() == "h1" || element.tagName() == "h2" {
+                        let tag = element.tagName()
+                        let hasClassTitle = ((try? element.className())?.contains("title")) ?? false
+                        
+                        if tag == "h1" || tag == "h2" || hasClassTitle {
                             markdown += "# \(text)\n\n"
                         } else {
                             markdown += "\(text)\n\n"
@@ -309,14 +327,25 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         
         if markdown.isEmpty {
             if debug {
-                print("Warning: No content found using standard selectors")
-                print("Document structure:")
-                print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
+                print("\nWarning: No content found using standard selectors")
+                print("Full document structure:")
+                if let body = try? document.select("body").first() {
+                    print(try body.html())
+                } else {
+                    print("No body element found")
+                }
             }
             throw ConversionError.emptyContent
         }
 
-        try convertFile(named: filename, outputName: outputPath)
+        let outputURL = URL(fileURLWithPath: self.outputPath)
+            .appendingPathComponent(outputPath)
+            .appendingPathExtension("md")
+        
+        try FileManager.default.createDirectory(at: outputURL.deletingLastPathComponent(),
+                                                withIntermediateDirectories: true)
+        
+        try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
     }
     
     private func convertSupplementaryFile(named filename: String, type: SupplementaryType) throws {

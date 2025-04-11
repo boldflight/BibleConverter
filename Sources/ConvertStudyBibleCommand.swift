@@ -318,12 +318,18 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         do {
             let document = try SwiftSoup.parse(content)
             
-            if let title = try document.select("h1, h2, .title").first() {
-                markdown += "# \(try title.text())\n\n"
+            if debug {
+                print("\nParsing concordance content...")
+                print("Document structure:")
+                print(try document.select("body").first()?.html() ?? "No body found")
             }
             
-            // Handle concordance entries
-            let entries = try document.select("p.concordance, p.concordanceentry, p.entry")
+            let entries = try document.select("div.concordance-entry, div.entry, p.concordance, p.concordanceentry, p.entry, .concordance-item")
+            
+            if entries.isEmpty() && debug {
+                print("No entries found with standard concordance classes")
+            }
+            
             for entry in entries {
                 let entryText = try processElementRecursively(entry)
                 if !entryText.isEmpty {
@@ -331,18 +337,40 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 }
             }
             
-            // Handle definition lists if present
-            let dls = try document.select("dl")
-            for dl in dls {
-                let terms = try dl.select("dt")
-                let definitions = try dl.select("dd")
+            if markdown.isEmpty {
+                let contentElements = try document.select("body > *")
                 
-                for (i, term) in terms.enumerated() {
-                    let termText = try term.text()
-                    let defText = i < definitions.count ? try definitions[i].text() : ""
-                    markdown += "**\(termText)**: \(defText)\n\n"
+                for element in contentElements {
+                    let tag = element.tagName()
+                    let className = try element.className()
+                    
+                    if debug {
+                        print("Processing element: \(tag) with class: \(className)")
+                    }
+                    
+                    if ["nav", "header", "footer"].contains(tag) {
+                        continue
+                    }
+                    
+                    let text = try processElementRecursively(element)
+                    if !text.isEmpty {
+                        if tag == "h1" || tag == "h2" || tag == "h3" {
+                            markdown += "# \(text)\n\n"
+                        } else if className.contains("title") || className.contains("header") {
+                            markdown += "## \(text)\n\n"
+                        } else {
+                            markdown += "\(text)\n\n"
+                        }
+                    }
                 }
             }
+            
+            if markdown.isEmpty && debug {
+                print("Warning: No content found in document")
+                print("Document structure:")
+                print(try document.select("body").first()?.html() ?? "No body found")
+            }
+            
         } catch {
             if debug { print("Error parsing concordance: \(error)") }
             throw error
@@ -357,28 +385,53 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         do {
             let document = try SwiftSoup.parse(content)
             
-            // Handle map title
-            if let title = try document.select("h1, h2, .title, p.maptitle").first() {
-                markdown += "# \(try title.text())\n\n"
+            if debug {
+                print("\nParsing map content...")
+                print("Document structure:")
+                print(try document.select("body").first()?.html() ?? "No body found")
             }
             
-            // Handle map description and references
-            let descriptions = try document.select("p.mapdescription, p.description, p.text")
-            for desc in descriptions {
-                let text = try processElementRecursively(desc)
-                if !text.isEmpty {
+            let elements = try document.select("body *")
+            var hasContent = false
+            
+            for element in elements {
+                let tag = element.tagName()
+                let className = try element.className()
+                let text = try element.text().trimmingCharacters(in: .whitespacesAndNewlines)
+                
+                if debug {
+                    print("Processing element: \(tag) with class: \(className)")
+                }
+                
+                if text.isEmpty {
+                    continue
+                }
+                
+                hasContent = true
+                
+                if tag == "h1" || tag == "h2" || className.contains("title") {
+                    markdown += "# \(text)\n\n"
+                } else if tag == "h3" || tag == "h4" || className.contains("subtitle") {
+                    markdown += "## \(text)\n\n"
+                } else if className.contains("description") || className.contains("caption") {
+                    markdown += "\(text)\n\n"
+                } else if className.contains("note") || className.contains("reference") {
+                    markdown += "_\(text)_\n\n"
+                } else if tag == "img" {
+                    let src = try element.attr("src")
+                    let alt = try element.attr("alt")
+                    markdown += "![Map: \(alt)](\(src))\n\n"
+                } else {
                     markdown += "\(text)\n\n"
                 }
             }
             
-            // Handle map references if any
-            let refs = try document.select("p.mapref, p.reference")
-            for ref in refs {
-                let text = try processElementRecursively(ref)
-                if !text.isEmpty {
-                    markdown += "_Reference: \(text)_\n\n"
-                }
+            if !hasContent && debug {
+                print("Warning: No content found in map document")
+                print("Full HTML:")
+                print(try document.html())
             }
+            
         } catch {
             if debug { print("Error parsing map: \(error)") }
             throw error
@@ -393,12 +446,10 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         do {
             let document = try SwiftSoup.parse(content)
             
-            // Handle title
             if let title = try document.select("h1, h2, .title, p.topictitle").first() {
                 markdown += "# \(try title.text())\n\n"
             }
             
-            // Handle topic sections
             let sections = try document.select("div.topic, div.section")
             if !sections.isEmpty() {
                 for section in sections {
@@ -415,7 +466,6 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                     }
                 }
             } else {
-                // If no sections, process all paragraphs
                 let paragraphs = try document.select("p:not(.topictitle)")
                 for p in paragraphs {
                     let text = try processElementRecursively(p)
@@ -438,12 +488,10 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         do {
             let document = try SwiftSoup.parse(content)
             
-            // Handle article title
             if let title = try document.select("h1, h2, .title, p.articletitle").first() {
                 markdown += "# \(try title.text())\n\n"
             }
             
-            // Handle article sections
             let sections = try document.select("div.section, div.article")
             if !sections.isEmpty() {
                 for section in sections {
@@ -460,7 +508,6 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                     }
                 }
             } else {
-                // If no sections, process all paragraphs
                 let paragraphs = try document.select("p:not(.articletitle)")
                 for p in paragraphs {
                     let text = try processElementRecursively(p)
@@ -483,32 +530,48 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         do {
             let document = try SwiftSoup.parse(content)
             
-            // Handle title
-            if let title = try document.select("h1, h2, .title").first() {
+            if debug {
+                print("\nParsing generic supplementary content...")
+                print("Document structure:")
+                print(try document.select("body").first()?.html() ?? "No body found")
+            }
+            
+            if let title = try document.select("h1, h2, .title, .header, div[class*=title], div[class*=header]").first() {
                 markdown += "# \(try title.text())\n\n"
             }
             
-            // Process all paragraphs
-            let paragraphs = try document.select("p")
-            for p in paragraphs {
-                let text = try processElementRecursively(p)
-                if !text.isEmpty {
-                    markdown += "\(text)\n\n"
-                }
-            }
+            let elements = try document.select("body *")
+            var hasContent = false
             
-            // Process lists if present
-            let lists = try document.select("ul, ol")
-            for list in lists {
-                let items = try list.select("li")
-                for item in items {
-                    let text = try processElementRecursively(item)
-                    if !text.isEmpty {
+            for element in elements {
+                let tag = element.tagName()
+                let className = try element.className()
+                let text = try processElementRecursively(element)
+                
+                if debug {
+                    print("Processing element: \(tag) with class: \(className)")
+                }
+                
+                if !text.isEmpty {
+                    hasContent = true
+                    
+                    if tag.starts(with: "h") || className.contains("title") || className.contains("header") {
+                        let level = tag.dropFirst().first.flatMap { Int(String($0)) } ?? 2
+                        markdown += "\(String(repeating: "#", count: level)) \(text)\n\n"
+                    } else if ["p", "div", "section", "article"].contains(tag) {
+                        markdown += "\(text)\n\n"
+                    } else if tag == "li" {
                         markdown += "- \(text)\n"
                     }
                 }
-                markdown += "\n"
             }
+            
+            if !hasContent && debug {
+                print("Warning: No content found in document")
+                print("Full HTML:")
+                print(try document.html())
+            }
+            
         } catch {
             if debug { print("Error parsing generic supplementary: \(error)") }
             throw error
@@ -667,7 +730,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                         }
                     }
                     
-                    currentElement = try element.nextElementSibling()
+                    currentElement = try currentElement?.nextElementSibling()
                 }
                 
                 markdown += "\n---\n\n"
@@ -981,9 +1044,19 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         
         for node in element.getChildNodes() {
             if let textNode = node as? TextNode {
-                result += textNode.text()
+                let text = textNode.text().trimmingCharacters(in: .whitespacesAndNewlines)
+                if !text.isEmpty {
+                    result += text + " "
+                }
             } else if let elementNode = node as? Element {
-                result += try processInlineFormatting(element: elementNode)
+                if ["script", "style", "nav", "header", "footer"].contains(elementNode.tagName()) {
+                    continue
+                }
+                
+                let processed = try processInlineFormatting(element: elementNode)
+                if !processed.isEmpty {
+                    result += processed + " "
+                }
             }
         }
         

@@ -689,7 +689,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         var footnoteText = ""
         
         if let noteRef = try element.select("span.note-in-note").first(),
-           let link = try element.select("a").first() {
+           let link = try noteRef.select("a").first() {
             let refNumber = try link.text()
             footnoteText += "[^\(refNumber)]"
         }

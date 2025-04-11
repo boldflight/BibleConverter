@@ -91,16 +91,16 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             
             let baseFilename = filename.replacingOccurrences(of: ".xhtml", with: "")
             let fileCode = baseFilename
-                .replacingOccurrences(of: "text", with: "")
-                .replacingOccurrences(of: "intro", with: "")
-                .replacingOccurrences(of: "outline", with: "")
-                .components(separatedBy: CharacterSet.decimalDigits.union(.punctuationCharacters))
+                .replacingOccurrences(of: "text|intro|outline", with: "", options: [.regularExpression, .caseInsensitive])
+                .replacingOccurrences(of: "_", with: "")
+                .components(separatedBy: CharacterSet.alphanumerics.inverted)
                 .first?
+                .lowercased()
                 .trimmingCharacters(in: .whitespaces) ?? ""
             
             if debug { print("Processing file: \(filename) with code: \(fileCode)") }
             
-            guard let book = BibleBook.allCases.first(where: { $0.fileName == fileCode }),
+            guard let book = BibleBook.from(fileCode),
                   let fileType = BibleFileType.detect(from: filename) else {
                 if debug { print("Warning: Could not determine book or file type for \(filename)") }
                 warningCount += 1

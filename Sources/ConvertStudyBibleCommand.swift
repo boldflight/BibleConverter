@@ -93,7 +93,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             let fileCode = baseFilename
                 .replacingOccurrences(of: "text|intro|outline", with: "", options: [.regularExpression, .caseInsensitive])
                 .replacingOccurrences(of: "_", with: "")
-                // Remove any trailing digits (including after a-z)
+            // Remove any trailing digits (including after a-z)
                 .replacingOccurrences(of: "\\d+$", with: "", options: .regularExpression)
                 .lowercased()
                 .trimmingCharacters(in: .whitespaces)
@@ -268,10 +268,10 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 print("\nTrying selectors...")
             }
         }
-
+        
         let outputName = filename.replacingOccurrences(of: ".xhtml", with: "")
         let outputPath = "supplementary/introductions/\(outputName)"
-
+        
         let fileURL = URL(fileURLWithPath: inputPath)
             .appendingPathComponent("OEBPS")
             .appendingPathComponent(filename)
@@ -308,9 +308,18 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 
                 for element in elements {
                     if debug {
-                        print("Element: \(element.tagName())")
-                        print("Classes: \(try element.className())")
-                        print("Content preview: \(try element.text().prefix(ConvertStudyBibleCommand.debugLimit))")
+                        let tag = element.tagName()
+                        let className = try element.className()
+                        let elementKey = "\(tag)-\(className)"
+                        
+                        if !ConvertStudyBibleCommand.seenElements.contains(elementKey) {
+                            print("New element type found:")
+                            print("  Tag: \(tag)")
+                            print("  Classes: \(className)")
+                            print("  Content preview: \(try element.text().prefix(ConvertStudyBibleCommand.debugLimit))")
+                            print("")
+                            ConvertStudyBibleCommand.seenElements.insert(elementKey)
+                        }
                     }
                     
                     let text = try processElementRecursively(element)
@@ -340,7 +349,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             }
             throw ConversionError.emptyContent
         }
-
+        
         let outputURL = URL(fileURLWithPath: self.outputPath)
             .appendingPathComponent(outputPath)
             .appendingPathExtension("md")

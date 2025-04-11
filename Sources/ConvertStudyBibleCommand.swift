@@ -93,10 +93,10 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             let fileCode = baseFilename
                 .replacingOccurrences(of: "text|intro|outline", with: "", options: [.regularExpression, .caseInsensitive])
                 .replacingOccurrences(of: "_", with: "")
-                .components(separatedBy: CharacterSet.alphanumerics.inverted)
-                .first?
+                // Remove any trailing digits (including after a-z)
+                .replacingOccurrences(of: "\\d+$", with: "", options: .regularExpression)
                 .lowercased()
-                .trimmingCharacters(in: .whitespaces) ?? ""
+                .trimmingCharacters(in: .whitespaces)
             
             if debug { print("Processing file: \(filename) with code: \(fileCode)") }
             

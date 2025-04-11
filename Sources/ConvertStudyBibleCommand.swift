@@ -38,6 +38,8 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         "supplementary/introductions"
     ]
     
+    private static let debugLimit = 100
+    
     mutating func run() throws {
         print("\nConverting ESV Study Bible content to Markdown...")
         
@@ -296,7 +298,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if debug {
                 print("Warning: Empty markdown content for \(filename)")
                 print("Content type: \(type)")
-                print("Raw content sample: \(String(content.prefix(200)))")
+                print("Raw content sample: \(String(content.prefix(ConvertStudyBibleCommand.debugLimit)))")
             }
             throw ConversionError.emptyContent
         }
@@ -321,7 +323,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if debug {
                 print("\nParsing concordance content...")
                 print("Document structure:")
-                print(try document.select("body").first()?.html() ?? "No body found")
+                print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
             }
             
             let entries = try document.select("div.concordance-entry, div.entry, p.concordance, p.concordanceentry, p.entry, .concordance-item")
@@ -368,7 +370,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if markdown.isEmpty && debug {
                 print("Warning: No content found in document")
                 print("Document structure:")
-                print(try document.select("body").first()?.html() ?? "No body found")
+                print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
             }
             
         } catch {
@@ -388,7 +390,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if debug {
                 print("\nParsing map content...")
                 print("Document structure:")
-                print(try document.select("body").first()?.html() ?? "No body found")
+                print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
             }
             
             let elements = try document.select("body *")
@@ -429,7 +431,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if !hasContent && debug {
                 print("Warning: No content found in map document")
                 print("Full HTML:")
-                print(try document.html())
+                print(try document.html().prefix(ConvertStudyBibleCommand.debugLimit))
             }
             
         } catch {
@@ -533,7 +535,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if debug {
                 print("\nParsing generic supplementary content...")
                 print("Document structure:")
-                print(try document.select("body").first()?.html() ?? "No body found")
+                print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
             }
             
             if let title = try document.select("h1, h2, .title, .header, div[class*=title], div[class*=header]").first() {
@@ -569,7 +571,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if !hasContent && debug {
                 print("Warning: No content found in document")
                 print("Full HTML:")
-                print(try document.html())
+                print(try document.html().prefix(ConvertStudyBibleCommand.debugLimit))
             }
             
         } catch {
@@ -675,7 +677,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             if debug {
                 print("\nConverting outline content...")
                 print("Document structure:")
-                print(try document.select("body").first()?.html() ?? "No body found")
+                print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
             }
             
             if let titleElement = try document.select("p.ArticleSec").first() {

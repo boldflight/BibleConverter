@@ -254,8 +254,68 @@ struct ConvertStudyBibleCommand: ParsableCommand {
     }
     
     private func convertGeneralIntro(named filename: String) throws {
+        if debug {
+            print("\nProcessing general intro file: \(filename)")
+            let fileURL = URL(fileURLWithPath: inputPath)
+                .appendingPathComponent("OEBPS")
+                .appendingPathComponent(filename)
+            if let content = try? String(contentsOf: fileURL, encoding: .utf8) {
+                print("Raw content sample:")
+                print(content.prefix(200))
+            }
+        }
+
         let outputName = filename.replacingOccurrences(of: ".xhtml", with: "")
         let outputPath = "supplementary/introductions/\(outputName)"
+
+        let fileURL = URL(fileURLWithPath: inputPath)
+            .appendingPathComponent("OEBPS")
+            .appendingPathComponent(filename)
+        
+        guard FileManager.default.fileExists(atPath: fileURL.path) else {
+            throw ConversionError.fileNotFound
+        }
+        
+        let encoding = try detectEncoding(from: fileURL)
+        let content = try String(contentsOf: fileURL, encoding: encoding)
+        
+        let document = try SwiftSoup.parse(content)
+        
+        let possibleSelectors = [
+            "body > *",
+            "section[title]",
+            "div.content",
+            "div.introduction",
+            ".intro-content",
+            "article"
+        ]
+        
+        var markdown = ""
+        
+        for selector in possibleSelectors {
+            if let elements = try? document.select(selector) {
+                for element in elements {
+                    let text = try processElementRecursively(element)
+                    if !text.isEmpty {
+                        if element.tagName() == "h1" || element.tagName() == "h2" {
+                            markdown += "# \(text)\n\n"
+                        } else {
+                            markdown += "\(text)\n\n"
+                        }
+                    }
+                }
+            }
+        }
+        
+        if markdown.isEmpty {
+            if debug {
+                print("Warning: No content found using standard selectors")
+                print("Document structure:")
+                print(try document.select("body").first()?.html().prefix(ConvertStudyBibleCommand.debugLimit) ?? "No body found")
+            }
+            throw ConversionError.emptyContent
+        }
+
         try convertFile(named: filename, outputName: outputPath)
     }
     

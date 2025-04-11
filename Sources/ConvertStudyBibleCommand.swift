@@ -40,6 +40,8 @@ struct ConvertStudyBibleCommand: ParsableCommand {
     
     private static let debugLimit = 100
     
+    private var seenElements: Set<String> = []
+    
     mutating func run() throws {
         print("\nConverting ESV Study Bible content to Markdown...")
         
@@ -297,7 +299,7 @@ struct ConvertStudyBibleCommand: ParsableCommand {
         let hasImage = try SwiftSoup.parse(content)
             .select("img[src]")
             .first() != nil
-            
+        
         let trimmedMarkdown = markdown.trimmingCharacters(in: .whitespacesAndNewlines)
         
         if !hasImage && trimmedMarkdown.isEmpty {
@@ -558,7 +560,11 @@ struct ConvertStudyBibleCommand: ParsableCommand {
                 let className = try element.className()
                 
                 if debug {
-                    print("Processing element: \(tag) with class: \(className)")
+                    let elementKey = "\(tag)-\(className)"
+                    if !seenElements.contains(elementKey) {
+                        print("Processing new element type: \(tag) with class: \(className)")
+                        seenElements.insert(elementKey)
+                    }
                 }
                 
                 if tag == "img" {

@@ -38,28 +38,32 @@ enum BibleFileType {
     case supplementary(SupplementaryType)
     
     static func detect(from filename: String) -> BibleFileType? {
-        // Improved file type detection
-        if filename.contains("intro") {
+        // Previous patterns remain the same
+        if filename.range(of: "intro\\.xhtml$", options: .regularExpression) != nil {
             return .introduction
         }
-        if filename.contains("outline") {
+        if filename.range(of: "outline\\.xhtml$", options: .regularExpression) != nil {
             return .outline
         }
         
-        // Match text files with suffixes
-        if filename.contains("_0001") {
+        if filename.range(of: "_0001\\.xhtml$", options: .regularExpression) != nil {
             return .studyNotes
         }
-        if filename.contains("_0002") {
+        if filename.range(of: "_0002\\.xhtml$", options: .regularExpression) != nil {
             return .footnotes
         }
-        if filename.contains("_0003") {
+        if filename.range(of: "_0003\\.xhtml$", options: .regularExpression) != nil {
             return .crossReferences
         }
         
-        // Match main text files
-        // Example patterns: Gntext.xhtml, Gntext1.xhtml, Gntext2.xhtml
-        if filename.range(of: "[A-Za-z]+text[0-9]?\\.xhtml", options: .regularExpression) != nil {
+        // CHANGE: Updated pattern to handle all text variations:
+        // - Standard text files (text.xhtml)
+        // - Numbered variations (text1.xhtml, text2.xhtml)
+        // - Letter suffixes (texta.xhtml)
+        // - Number-letter combinations (text1a.xhtml, text3a.xhtml)
+        // - Underscore variations (_0007a.xhtml)
+        // - Numbered book variations (2_Kgstext1a.xhtml)
+        if filename.range(of: "(?:\\d_)?[A-Za-z]+text(?:[0-9]*[a-z]?|[a-z]|_\\d+[a-z]?)?\\.xhtml$", options: .regularExpression) != nil {
             return .mainText
         }
         

@@ -4,7 +4,7 @@ import Foundation
 
 @Suite("Bible Converter Tests")
 struct BibleConverterTests {
-    let converter = BibleConverter()
+    let converter = ConvertCommand()
     
     // Test conversion of a single verse
     @Test("Convert single verse")
@@ -18,7 +18,7 @@ struct BibleConverterTests {
         </body>
         </html>
         """
-        
+            
         let (bookName, markdown) = try converter.convertToMarkdown(input)
         
         #expect(bookName == "Genesis")

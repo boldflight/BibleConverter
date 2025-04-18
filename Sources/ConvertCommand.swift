@@ -206,7 +206,7 @@ struct ConvertCommand: ParsableCommand {
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
     }
     
-    private func convertToMarkdown(_ xmlString: String) throws -> (String?, String) {
+    func convertToMarkdown(_ xmlString: String) throws -> (String?, String) {
         var markdown = ""
         var bookName = ""
         

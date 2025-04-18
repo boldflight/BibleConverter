@@ -97,10 +97,8 @@ struct ConvertStudyBibleCommand: ParsableCommand {
             
             let baseFilename = filename.replacingOccurrences(of: ".xhtml", with: "")
             let fileCode = baseFilename
-                .replacingOccurrences(of: "text|intro|outline", with: "", options: [.regularExpression, .caseInsensitive])
+                .replacingOccurrences(of: "(text|intro|outline).*$", with: "", options: [.regularExpression, .caseInsensitive])
                 .replacingOccurrences(of: "_", with: "")
-            // Remove any trailing digits (including after a-z)
-                .replacingOccurrences(of: "\\d+$", with: "", options: .regularExpression)
                 .lowercased()
                 .trimmingCharacters(in: .whitespaces)
             

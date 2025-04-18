@@ -38,25 +38,32 @@ enum BibleFileType {
     case supplementary(SupplementaryType)
     
     static func detect(from filename: String) -> BibleFileType? {
+        // Improved file type detection
         if filename.contains("intro") {
             return .introduction
         }
         if filename.contains("outline") {
             return .outline
         }
-        if filename.hasSuffix("text.xhtml") || filename.contains("text1") {
-            return .mainText
-        }
-        if filename.contains("text_0001") {
+        
+        // Match text files with suffixes
+        if filename.contains("_0001") {
             return .studyNotes
         }
-        if filename.contains("text_0002") {
+        if filename.contains("_0002") {
             return .footnotes
         }
-        if filename.contains("text_0003") {
+        if filename.contains("_0003") {
             return .crossReferences
         }
         
+        // Match main text files
+        // Example patterns: Gntext.xhtml, Gntext1.xhtml, Gntext2.xhtml
+        if filename.range(of: "[A-Za-z]+text[0-9]?\\.xhtml", options: .regularExpression) != nil {
+            return .mainText
+        }
+        
+        // Check for supplementary content
         if let suppType = SupplementaryType.detect(from: filename) {
             return .supplementary(suppType)
         }

@@ -299,7 +299,7 @@ enum BibleBook: String, CaseIterable {
             // Hebrew Bible/Old Testament
         case .genesis: abbrevs += ["gn", "gen"]
         case .exodus: abbrevs += ["exo", "exod"]
-        case .leviticus: abbrevs += ["lv", "levi"]
+        case .leviticus: abbrevs += ["lv", "lev", "levi"]
         case .numbers: abbrevs += ["nm", "num"]
         case .deuteronomy: abbrevs += ["dt", "deut"]
         case .joshua: abbrevs += ["jos", "josh"]
@@ -325,16 +325,16 @@ enum BibleBook: String, CaseIterable {
         case .ezekiel: abbrevs += ["ez", "ezk"]
         case .daniel: abbrevs += ["dan", "dn"]
         case .hosea: abbrevs += ["hos", "ho"]
-        case .joel: abbrevs += ["jl"]
+        case .joel: abbrevs += ["jl", "joel"]
         case .amos: abbrevs += ["am"]
         case .obadiah: abbrevs += ["ob", "oba"]
         case .jonah: abbrevs += ["jon", "jnh"]
-        case .micah: abbrevs += ["mic", "mc"]
+        case .micah: abbrevs += ["mic", "mc", "mi"]
         case .nahum: abbrevs += ["nah", "na"]
         case .habakkuk: abbrevs += ["hab", "hb"]
         case .zephaniah: abbrevs += ["zep", "zph"]
         case .haggai: abbrevs += ["hag", "hg"]
-        case .zechariah: abbrevs += ["zech", "zec"]
+        case .zechariah: abbrevs += ["zech", "zec", "ze"]
         case .malachi: abbrevs += ["mal", "ml"]
             
             // New Testament
@@ -342,7 +342,7 @@ enum BibleBook: String, CaseIterable {
         case .mark: abbrevs += ["mk", "mrk"]
         case .luke: abbrevs += ["lk", "luk"]
         case .john: abbrevs += ["jn", "jhn"]
-        case .acts: abbrevs += ["ac", "act"]
+        case .acts: abbrevs += ["ac", "act", "acts"]
         case .romans: abbrevs += ["rom", "rm"]
         case .firstCorinthians: abbrevs += ["1 cor", "1cor", "1 co"]
         case .secondCorinthians: abbrevs += ["2 cor", "2cor", "2 co"]
@@ -364,7 +364,7 @@ enum BibleBook: String, CaseIterable {
         case .secondJohn: abbrevs += ["2 jn", "2jn", "2 jo"]
         case .thirdJohn: abbrevs += ["3 jn", "3jn", "3 jo"]
         case .jude: abbrevs += ["jud", "jd"]
-        case .revelation: abbrevs += ["rev", "re"]
+        case .revelation: abbrevs += ["rev", "re", "rv"]
             
             // Apocryphal/Deuterocanonical books
         case .tobit: abbrevs += ["tb", "tob"]

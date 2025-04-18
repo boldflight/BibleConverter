@@ -63,7 +63,15 @@ enum BibleFileType {
         // - Number-letter combinations (text1a.xhtml, text3a.xhtml)
         // - Underscore variations (_0007a.xhtml)
         // - Numbered book variations (2_Kgstext1a.xhtml)
-        if filename.range(of: "(?:\\d_)?[A-Za-z]+text(?:[0-9]*[a-z]?|[a-z]|_\\d+[a-z]?)?\\.xhtml$", options: .regularExpression) != nil {
+        // CHANGE: Fix regex pattern to properly match all text file variations:
+        // Examples that should match:
+        // - Actstexta.xhtml
+        // - Jntext1a.xhtml
+        // - Pstext_0007a.xhtml
+        // - 2_Kgstext1a.xhtml
+        // - Jertext3a.xhtml
+        let textPattern = "(?:(?:\\d_)?[A-Za-z]+text)(?:[0-9]*[a-z]?|_\\d+[a-z]?)?\\.xhtml$"
+        if filename.range(of: textPattern, options: .regularExpression) != nil {
             return .mainText
         }
         

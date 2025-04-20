@@ -452,62 +452,32 @@ extension ConvertStudyBibleCommand {
             }
             
             for section in sections {
-                // Handle headings first
-                for heading in try section.select("p.heading") {
-                    let headingText = try heading.text()
-                    markdown += "### \(headingText)\n\n"
-                }
-                
-                // Expanded paragraph selectors
-                let paragraphSelectors = [
-                    // Regular text paragraphs
-                    "p.p-first",
-                    "p.p",
-                    "p.p-same",
-                    "p[class^=p-]", // Match any paragraph class starting with p-
-                    
-                    // Poetry variations
-                    "p.poetrybreak",
-                    "p.poetry",
-                    "p.poetry-first",
-                    "p.poetry-indent",
-                    "p.poetry-indent-last",
-                    "p.poetry-last",
-                    "p[class^=poetry]", // Match any paragraph class starting with poetry
-                    "p.otpoetry",
-                    
-                    // Catch-all for other valid paragraph types
-                    "p:not(.heading):not(.notesubhead):not(.note):not(.crossref):not(.image)"
-                ].joined(separator: ", ")
-                
-                if debug {
-                    print("Using paragraph selectors: \(paragraphSelectors)")
-                }
-                
-                let paragraphs = try section.select(paragraphSelectors)
-                
-                if debug {
-                    print("Found \(paragraphs.size()) paragraphs")
-                    if let firstParagraph = paragraphs.first() {
-                        print("First paragraph preview:")
-                        print(try firstParagraph.html().prefix(200))
-                    }
-                }
-                
-                // Rest of the conversion logic remains the same...
+                // Process all content elements in order they appear
+                let elements = section.children()
                 var currentVerseBlock = ""
                 var inPoetryBlock = false
                 
-                for paragraph in paragraphs {
-                    let paragraphClass = try paragraph.className()
+                // Define valid paragraph classes
+                let regularParagraphClasses = ["p-first", "p", "p-same"]
+                let poetryClasses = ["poetrybreak", "poetry", "poetry-first", "poetry-indent", "poetry-indent-last", "poetry-last", "otpoetry"]
+                let excludedClasses = ["heading", "notesubhead", "note", "crossref", "image"]
+                
+                for element in elements {
+                    let elementClass = try element.className()
                     
-                    // Debug output if needed
-//                    if debug && !paragraphClass.isEmpty {
-//                        print("Processing paragraph with class: \(paragraphClass)")
-//                    }
+                    // Handle headings inline
+                    if element.hasClass("heading") {
+                        if !currentVerseBlock.isEmpty {
+                            markdown += currentVerseBlock + "\n\n"
+                            currentVerseBlock = ""
+                        }
+                        let headingText = try element.text()
+                        markdown += "### \(headingText)\n\n"
+                        continue
+                    }
                     
                     // Handle chapter numbers
-                    if let chapterNum = try paragraph.select("span.chapter-num").first() {
+                    if let chapterNum = try element.select("span.chapter-num").first() {
                         let num = try chapterNum.text()
                         if !currentVerseBlock.isEmpty {
                             markdown += currentVerseBlock + "\n\n"
@@ -517,47 +487,58 @@ extension ConvertStudyBibleCommand {
                         continue
                     }
                     
+                    // Check if this is a valid paragraph element
+                    let isValidParagraph = element.tagName() == "p" && (
+                        regularParagraphClasses.contains(elementClass) ||
+                        elementClass.starts(with: "p-") ||
+                        poetryClasses.contains(elementClass) ||
+                        elementClass.starts(with: "poetry") ||
+                        (!excludedClasses.contains { elementClass.contains($0) } && !elementClass.isEmpty)
+                    )
+                    
                     // Handle poetry blocks
-                    if ["poetry", "otpoetry", "poetrybreak", "poetry-first", "poetry-indent", "poetry-indent-last"].contains(paragraphClass) {
+                    if poetryClasses.contains(elementClass) || elementClass.starts(with: "poetry") {
                         if !currentVerseBlock.isEmpty {
                             markdown += currentVerseBlock + "\n\n"
                             currentVerseBlock = ""
                         }
                         
-                        let poetryContent = try processPoetryVerse(paragraph)
-                        let indentLevel = if paragraphClass.contains("indent") { "  " } else { "" }
+                        let poetryContent = try processPoetryVerse(element)
+                        let indentLevel = if elementClass.contains("indent") { "  " } else { "" }
                         markdown += "\(indentLevel)\(poetryContent)\n\n"
                         inPoetryBlock = true
                         continue
                     }
                     
-                    if inPoetryBlock && !["poetry", "otpoetry", "poetrybreak", "poetry-first", "poetry-indent", "poetry-indent-last"].contains(paragraphClass) {
+                    if inPoetryBlock && !poetryClasses.contains(elementClass) && !elementClass.starts(with: "poetry") {
                         inPoetryBlock = false
                         markdown += "\n"
                     }
                     
-                    // Process regular verse content
-                    for node in paragraph.getChildNodes() {
-                        if let textNode = node as? TextNode {
-                            currentVerseBlock += textNode.text()
-                        } else if let element = node as? Element {
-                            if element.hasClass("verse-num") {
-                                if !currentVerseBlock.isEmpty {
-                                    markdown += currentVerseBlock.trimmingCharacters(in: .whitespacesAndNewlines) + "\n\n"
-                                    currentVerseBlock = ""
+                    // Process regular verse content for valid paragraph elements
+                    if isValidParagraph {
+                        for node in element.getChildNodes() {
+                            if let textNode = node as? TextNode {
+                                currentVerseBlock += textNode.text()
+                            } else if let element = node as? Element {
+                                if element.hasClass("verse-num") {
+                                    if !currentVerseBlock.isEmpty {
+                                        markdown += currentVerseBlock.trimmingCharacters(in: .whitespacesAndNewlines) + "\n\n"
+                                        currentVerseBlock = ""
+                                    }
+                                    let verseNum = try element.text()
+                                    currentVerseBlock = "**\(verseNum)** "
+                                } else if element.hasClass("crossref") {
+                                    let refId = try element.select("a").attr("href")
+                                    currentVerseBlock += "[†](\(refId))"
+                                } else if element.hasClass("note") {
+                                    let noteId = try element.select("a").attr("href")
+                                    currentVerseBlock += "[*](\(noteId))"
+                                } else if element.tagName() == "small" {
+                                    currentVerseBlock += try element.text().uppercased()
+                                } else {
+                                    currentVerseBlock += try element.text()
                                 }
-                                let verseNum = try element.text()
-                                currentVerseBlock = "**\(verseNum)** "
-                            } else if element.hasClass("crossref") {
-                                let refId = try element.select("a").attr("href")
-                                currentVerseBlock += "[†](\(refId))"
-                            } else if element.hasClass("note") {
-                                let noteId = try element.select("a").attr("href")
-                                currentVerseBlock += "[*](\(noteId))"
-                            } else if element.tagName() == "small" {
-                                currentVerseBlock += try element.text().uppercased()
-                            } else {
-                                currentVerseBlock += try element.text()
                             }
                         }
                     }
@@ -576,7 +557,6 @@ extension ConvertStudyBibleCommand {
                         markdown += "![Image: \(alt)](\(src))\n\n"
                     }
                     
-                    // Handle figure captions
                     if let caption = try figure.select("p.image").first() {
                         let captionText = try caption.text().trimmingCharacters(in: .whitespacesAndNewlines)
                         if !captionText.isEmpty {
@@ -597,7 +577,6 @@ extension ConvertStudyBibleCommand {
             throw error
         }
         
-        // Only throw empty content error if truly empty after trimming
         let trimmedMarkdown = markdown.trimmingCharacters(in: .whitespacesAndNewlines)
         if trimmedMarkdown.isEmpty {
             if debug {

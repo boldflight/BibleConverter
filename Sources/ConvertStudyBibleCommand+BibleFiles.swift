@@ -16,23 +16,37 @@ extension ConvertStudyBibleCommand {
         let encoding = try detectEncoding(from: fileURL)
         let content = try String(contentsOf: fileURL, encoding: encoding)
         
+        if debug {
+            print("\nProcessing file: \(fileName)")
+        }
+        
         let markdown: String
         if fileName.contains("outline") {
+            if debug { print("Converting outline") }
             markdown = try convertOutlineToMarkdown(content)
         } else if fileName.contains("text_0002") {
+            if debug { print("Converting footnotes") }
             markdown = try convertFootnotesToMarkdown(content)
         } else if fileName.contains("text_0003") {
+            if debug { print("Converting cross references") }
             markdown = try convertCrossReferencesToMarkdown(content)
         } else if fileName.contains("text_0001") {
+            if debug { print("Converting study notes") }
             markdown = try convertStudyNotesToMarkdown(content)
-        } else if fileName.hasSuffix("text.xhtml") || fileName.contains("text1") {
+        } else if isTextFile(fileName) {
+            if debug { print("Converting Bible text") }
             markdown = try convertBibleTextToMarkdown(content)
         } else {
+            if debug { print("Converting introduction") }
             markdown = try convertIntroToMarkdown(content)
         }
         
         guard !markdown.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else {
-            if debug { print("Error: Empty markdown content for \(fileName)") }
+            if debug {
+                print("Error: Empty markdown content for \(fileName)")
+                print("Content preview:")
+                print(content.prefix(500))
+            }
             throw ConversionError.emptyContent
         }
         
@@ -41,11 +55,25 @@ extension ConvertStudyBibleCommand {
             .appendingPathExtension("md")
         
         try FileManager.default.createDirectory(at: outputURL.deletingLastPathComponent(),
-                                                withIntermediateDirectories: true)
+                                             withIntermediateDirectories: true)
         
         try markdown.write(to: outputURL, atomically: true, encoding: .utf8)
         
         if debug { print("Successfully converted \(fileName) to \(outputURL.path)") }
+    }
+
+    // ADD: Helper to check text file patterns
+    private func isTextFile(_ fileName: String) -> Bool {
+        let patterns = [
+            "text[0-9]+[a-z]?\\.",     // matches text1.xhtml, text3a.xhtml
+            "text_[0-9]+\\.",          // matches text_0001.xhtml
+            "text[a-z]\\.",            // matches texta.xhtml
+            "text\\.xhtml$"            // matches text.xhtml
+        ]
+        
+        return patterns.contains { pattern in
+            fileName.range(of: pattern, options: .regularExpression) != nil
+        }
     }
 
     // MARK: ‑ Book‑specific converters
@@ -261,57 +289,148 @@ extension ConvertStudyBibleCommand {
         
         do {
             let document = try SwiftSoup.parse(content)
-            let sections = try document.select("p.notesubhead")
+            
+            // Try both section and div.newpage selectors since some files use different structures
+            var sections = try document.select("section, div.newpage")
+            
+            if sections.isEmpty() {
+                sections = try document.select("body")
+            }
+            
+            if debug {
+                print("\nProcessing cross references...")
+                print("Found \(sections.size()) sections")
+                if let firstSection = sections.first() {
+                    print("First section preview:")
+                    print(try firstSection.html().prefix(200))
+                }
+            }
             
             for section in sections {
-                let chapterTitle = try section.text()
-                markdown += "# \(chapterTitle)\n\n"
+                let verses = try section.select("p.crossref")
                 
-                var currentElement = try section.nextElementSibling()
+                if debug {
+                    print("\nFound \(verses.size()) verse markers")
+                }
                 
-                while let element = currentElement {
-                    if element.tagName() == "p" {
-                        let className = try element.className()
-                        
-                        if className == "notesubhead" {
+                for verse in verses {
+                    guard let verseNum = try verse.select("b").first()?.text() else { continue }
+                    
+                    markdown += "## \(verseNum)\n\n"
+                    
+                    // Get siblings after current verse
+                    var currentElement = try verse.nextElementSibling()
+                    let notes = Elements()
+                    
+                    // Collect notes until next verse or end
+                    while let element = currentElement {
+                        if element.hasClass("crossref") {
                             break
                         }
                         
-                        if className == "crossref" {
-                            if let verseText = try? element.select("b").first()?.text() {
-                                markdown += "## \(verseText)\n\n"
-                            }
-                        } else if className == "note1" {
-                            let reference = try processCrossReference(element)
+                        if element.hasClass("note") {
+                            notes.add(element)
+                        }
+                        
+                        currentElement = try element.nextElementSibling()
+                    }
+                    
+                    if debug && notes.isEmpty() {
+                        print("Warning: No notes found for verse \(verseNum)")
+                    }
+                    
+                    for note in notes {
+                        let reference = try processCrossReference(note)
+                        if !reference.isEmpty {
                             markdown += "- \(reference)\n"
                         }
                     }
                     
-                    currentElement = try currentElement?.nextElementSibling()
+                    markdown += "\n"
                 }
-                
-                markdown += "\n---\n\n"
+            }
+            
+            if debug {
+                print("\nGenerated markdown preview:")
+                print(markdown.prefix(500))
             }
             
         } catch {
-            print("Error parsing XHTML: \(error)")
+            if debug { print("Error parsing cross references: \(error)") }
             throw error
+        }
+        
+        let trimmedMarkdown = markdown.trimmingCharacters(in: .whitespacesAndNewlines)
+        if trimmedMarkdown.isEmpty {
+            if debug {
+                print("Warning: Generated empty cross references markdown.")
+                print("Please check if the file contains the expected structure:")
+                print("- p.crossref elements with b tags for verse numbers")
+                print("- p.note elements for references")
+            }
+            throw ConversionError.emptyContent
         }
         
         return markdown
     }
-    
+
+    private func processCrossReference(_ element: Element) throws -> String {
+        var reference = ""
+        
+        // Get the note marker (a, b, c, etc.)
+        if let markerElement = try element.select("i").first() {
+            let marker = try markerElement.text()
+            reference += "[\(marker)] "
+        } else if let link = try element.select("a").first(),
+                  let marker = try? link.select("i").first()?.text() {
+            reference += "[\(marker)] "
+        }
+        
+        // Get all text content, excluding the marker
+        var text = element.textNodes()
+            .map { $0.text() }
+            .joined(separator: " ")
+            .trimmingCharacters(in: .whitespacesAndNewlines)
+        
+        // Clean up any remaining brackets and whitespace
+        if text.contains("] ") {
+            text = text.components(separatedBy: "] ").last?.trimmingCharacters(in: .whitespacesAndNewlines) ?? text
+        }
+        
+        // Add any references from nested elements
+        let nestedRefs = try element.select("a")
+            .filter { try !$0.select("i").hasText() }
+            .map { try $0.text() }
+            .joined(separator: "; ")
+        
+        if !nestedRefs.isEmpty {
+            text += (!text.isEmpty ? "; " : "") + nestedRefs
+        }
+        
+        reference += text
+        
+        return reference.trimmingCharacters(in: .whitespacesAndNewlines)
+    }
+
     private func convertBibleTextToMarkdown(_ content: String) throws -> String {
         var markdown = ""
         
         do {
             let document = try SwiftSoup.parse(content)
             
+            if debug {
+                print("\nParsing Bible text content...")
+                if let body = try document.select("body").first() {
+                    print("Document structure preview:")
+                    print(try body.html().prefix(200))
+                }
+            }
+            
             // Try both section and div.newpage selectors since some files use different structures
             var sections = try document.select("section, div.newpage")
             
             if sections.isEmpty() {
-                // If no sections found, try parsing body content directly
+                if debug { print("No sections found, falling back to body") }
                 sections = try document.select("body")
             }
             
@@ -322,21 +441,43 @@ extension ConvertStudyBibleCommand {
                     markdown += "### \(headingText)\n\n"
                 }
                 
-                // Handle all paragraph types with expanded selectors
+                // CHANGE: Expanded paragraph selectors
                 let paragraphSelectors = [
+                    // Regular text paragraphs
                     "p.p-first",
                     "p.p",
+                    "p.p-same",
+                    "p[class^=p-]", // Match any paragraph class starting with p-
+                    
+                    // Poetry variations
                     "p.poetrybreak",
                     "p.poetry",
                     "p.poetry-first",
                     "p.poetry-indent",
                     "p.poetry-indent-last",
+                    "p.poetry-last",
+                    "p[class^=poetry]", // Match any paragraph class starting with poetry
                     "p.otpoetry",
-                    "p[class^=p]",  // Match any paragraph class starting with p
-                    "p:not(.heading):not(.notesubhead):not(.note):not(.crossref)" // Catch other paragraph types
+                    
+                    // Catch-all for other valid paragraph types
+                    "p:not(.heading):not(.notesubhead):not(.note):not(.crossref):not(.image)"
                 ].joined(separator: ", ")
                 
+                if debug {
+                    print("Using paragraph selectors: \(paragraphSelectors)")
+                }
+                
                 let paragraphs = try section.select(paragraphSelectors)
+                
+                if debug {
+                    print("Found \(paragraphs.size()) paragraphs")
+                    if let firstParagraph = paragraphs.first() {
+                        print("First paragraph preview:")
+                        print(try firstParagraph.html().prefix(200))
+                    }
+                }
+                
+                // Rest of the conversion logic remains the same...
                 var currentVerseBlock = ""
                 var inPoetryBlock = false
                 
@@ -344,9 +485,9 @@ extension ConvertStudyBibleCommand {
                     let paragraphClass = try paragraph.className()
                     
                     // Debug output if needed
-                    if debug && !paragraphClass.isEmpty {
-                        print("Processing paragraph with class: \(paragraphClass)")
-                    }
+//                    if debug && !paragraphClass.isEmpty {
+//                        print("Processing paragraph with class: \(paragraphClass)")
+//                    }
                     
                     // Handle chapter numbers
                     if let chapterNum = try paragraph.select("span.chapter-num").first() {
@@ -431,7 +572,11 @@ extension ConvertStudyBibleCommand {
             }
             
         } catch {
-            if debug { print("Error parsing Bible text XHTML: \(error)") }
+            if debug {
+                print("Error parsing Bible text XHTML: \(error)")
+                print("Content preview:")
+                print(content.prefix(500))
+            }
             throw error
         }
         
@@ -508,26 +653,5 @@ extension ConvertStudyBibleCommand {
         }
         
         return noteText
-    }
-    
-    private func processCrossReference(_ element: Element) throws -> String {
-        var referenceText = ""
-        
-        if let noteSpan = try element.select("span.note").first(),
-           let link = try noteSpan.select("a").first() {
-            let refNumber = try link.text()
-            referenceText += "(\(refNumber)) "
-        }
-        
-        var content = try element.text()
-        
-        if let firstRef = try element.select("span.note").first() {
-            content = content.replacingOccurrences(of: try firstRef.text(), with: "")
-        }
-        
-        content = content.trimmingCharacters(in: .whitespacesAndNewlines)
-        referenceText += content
-        
-        return referenceText
     }
 }

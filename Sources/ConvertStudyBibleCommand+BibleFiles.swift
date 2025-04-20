@@ -314,7 +314,15 @@ extension ConvertStudyBibleCommand {
                 }
                 
                 for verse in verses {
-                    guard let verseNum = try verse.select("b").first()?.text() else { continue }
+                    // Check for both span.b and direct b elements
+                    let verseNum: String
+                    if let spanB = try verse.select("span.b").first() {
+                        verseNum = try spanB.text()
+                    } else if let directB = try verse.select("b").first() {
+                        verseNum = try directB.text()
+                    } else {
+                        continue
+                    }
                     
                     markdown += "## \(verseNum)\n\n"
                     
@@ -322,14 +330,22 @@ extension ConvertStudyBibleCommand {
                     var currentElement = try verse.nextElementSibling()
                     let notes = Elements()
                     
-                    // Collect notes until next verse or end
+                    // Handle both direct note classes and nested note spans
                     while let element = currentElement {
                         if element.hasClass("crossref") {
                             break
                         }
                         
-                        if element.hasClass("note") {
-                            notes.add(element)
+                        do {
+                            // Check for note classes and nested note spans
+                            let hasNoteClass = element.hasClass("note") || element.hasClass("note1")
+                            let hasNestedNote = !(try element.select("span.note")).isEmpty()
+                            
+                            if hasNoteClass || hasNestedNote {
+                                notes.add(element)
+                            }
+                        } catch {
+                            if debug { print("Error checking note elements: \(error)") }
                         }
                         
                         currentElement = try element.nextElementSibling()
@@ -365,8 +381,9 @@ extension ConvertStudyBibleCommand {
             if debug {
                 print("Warning: Generated empty cross references markdown.")
                 print("Please check if the file contains the expected structure:")
-                print("- p.crossref elements with b tags for verse numbers")
-                print("- p.note elements for references")
+                print("- p.crossref elements with b or span.b tags for verse numbers")
+                print("- p.note or p.note1 elements for references")
+                print("- Elements with span.note for nested references")
             }
             throw ConversionError.emptyContent
         }
@@ -441,7 +458,7 @@ extension ConvertStudyBibleCommand {
                     markdown += "### \(headingText)\n\n"
                 }
                 
-                // CHANGE: Expanded paragraph selectors
+                // Expanded paragraph selectors
                 let paragraphSelectors = [
                     // Regular text paragraphs
                     "p.p-first",

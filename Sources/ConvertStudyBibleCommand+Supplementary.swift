@@ -49,7 +49,7 @@ extension ConvertStudyBibleCommand {
         
         if !hasImage && trimmedMarkdown.isEmpty {
             if debug {
-                print("Warning: Empty markdown content for \(filename)")
+                print("Error: Empty markdown content for \(filename)")
                 print("Content type: \(type)")
                 print("Raw content sample:")
                 print(content.prefix(ConvertStudyBibleCommand.debugLimit))

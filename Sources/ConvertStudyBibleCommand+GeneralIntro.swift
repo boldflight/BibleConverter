@@ -53,26 +53,25 @@ extension ConvertStudyBibleCommand {
         var markdown = ""
         
         for selector in possibleSelectors {
-            if debug { print("Trying selector: \(selector)") }
+//            if debug { print("Trying selector: \(selector)") }
             
             if let elements = try? document.select(selector) {
-                if debug { print("Found \(elements.size()) elements with selector \(selector)") }
+//                if debug { print("Found \(elements.size()) elements with selector \(selector)") }
                 
                 for element in elements {
-                    if debug {
-                        let tag = element.tagName()
-                        let className = try element.className()
-                        let elementKey = "\(tag)-\(className)"
+//                    if debug {
+//                        let tag = element.tagName()
+//                        let className = try element.className()
+//                        let elementKey = "\(tag)-\(className)"
                         
-                        if !ConvertStudyBibleCommand.seenElements.contains(elementKey) {
-                            print("New element type found:")
-                            print("  Tag: \(tag)")
-                            print("  Classes: \(className)")
-                            print("  Content preview: \(try element.text().prefix(ConvertStudyBibleCommand.debugLimit))")
-                            print("")
-                            ConvertStudyBibleCommand.seenElements.insert(elementKey)
-                        }
-                    }
+//                        if !ConvertStudyBibleCommand.seenElements.contains(elementKey) {
+//                            print("New element type found: ")
+//                            print("Tag: \(tag)")
+//                            print("Classes: \(className)")
+//                            print("Content preview: \(try element.text().prefix(ConvertStudyBibleCommand.debugLimit))")
+//                            ConvertStudyBibleCommand.seenElements.insert(elementKey)
+//                        }
+//                    }
                     
                     let text = try processElementRecursively(element)
                     if !text.isEmpty {
